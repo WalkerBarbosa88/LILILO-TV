@@ -1,0 +1,22 @@
+
+###############################################################################################################################################################################
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]//////////////  ÁREA DE TESTES 1  /////////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
+http://0.0.0.0:0000
+###############################################################################################################################################################################
+
+
+<channels>
+<channel>
+<name>[COLOR yellow]|||||[/COLOR][COLOR deeppink]|||||[/COLOR][COLOR orangered]|||||[/COLOR] [COLOR white] ÁREA DE TESTES 1 [/COLOR] [COLOR orangered]||||||[/COLOR][COLOR deeppink]||||||[/COLOR][COLOR yellow]||||||[/COLOR]</name>
+<thumbnail>https://ia601406.us.archive.org/15/items/seja-bem-vindo_202011/Seja%20Bem%20Vindo.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart></fanart>
+<info>
+</channel>
+</channels>
+
+
+#EXTM3U
+
+#EXTINF:-1,[COLOR=yellow][B]NÃO DISPONIVEL[/B][/COLOR][COLOR=yellow][/COLOR]
+http://0000000000000000000000000000000
