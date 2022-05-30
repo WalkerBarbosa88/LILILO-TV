@@ -1,0 +1,45 @@
+
+####################################################################################################################################
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]/////////////  YOUTUBE FILMES  //////////[/B][/COLOR]
+http://0.0.0.0:000000
+####################################################################################################################################
+ 
+#EXTINF:-1,[COLOR=yellow][B]LISTA VERIFICADA: 19/04/2022[/B][/COLOR][COLOR=yellow][/COLOR]
+ 
+Filmes Recomendados: https://www.cissamagazine.com.br/blog/melhores-filmes-online-youtube
+ 
+#EXTM3U
+ 
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]OS TRÊS MOSQUETEIROS (2021)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4pKirT20tbM
+ 
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]A HERDADE (2019)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=-RLVKc3LVE8
+ 
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]A TEIA DE GELO (2014)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Vaiq-1qYLao&list=PL6IMtTN7aVLMSYe82uzlek5nr0kvITHIA&index=3
+ 
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]NÃO CRESÇAS (2016)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=eUm1WV2eORY&list=PLDAJhyqYZJHuhR4q5bWjWCWRkOmOcMWnN&index=8
+ 
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]BALAS & BOLINHOS (2001)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=FJOwojt5mDQ
+ 
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]BALAS & BOLINHOS, O REGRESSO (2004)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=o_yfGwtm0Us
+ 
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]BALAS & BOLINHOS 3 (2013)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=PBe8o1qOiMU&list=PL6IMtTN7aVLMSYe82uzlek5nr0kvITHIA&index=27
+ 
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]MALAPATA (2017)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ZpyySo9x-aA&list=PLWsa1fEp5hi7yVk_mvqoT_06f2RAODpUl&index=17
+ 
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]FILME DA TRETA (2016)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=---9vOC2HhA&list=PLXVwgYJ1YTwndc_QsXuLiWEIyEPsAwLI0&index=75
+ 
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]LEÃO DA ESTRELA (2019)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=oOzRchuAcsQ
+ 
+ 
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]DEOLINDO MARIA (2018)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=FB6dB_9CzpM
