@@ -1,0 +1,731 @@
+
+
+   
+##########################################################################################################################################################################
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////////////////  CANAIS DE TV DE MÚSICA  //////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
+http://0.0.0.0:00000
+##########################################################################################################################################################################
+ 
+#EXTINF:-1,[COLOR=orange][B]LISTA 1 REVISTA: 20/05/2022[/B][/COLOR][COLOR=orange][/COLOR]
+
+#EXTM3U
+
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]///////// CANAIS MUSIC CHOICE /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+
+#EXTINF:-1,[COLOR=white][B]MC 80´S[/B][/COLOR][COLOR=white][/COLOR]
+http://45.11.56.147:8808/stream?id=1113
+#EXTINF:-1,[COLOR=white][B]MC 90´S[/B][/COLOR][COLOR=white][/COLOR]
+http://45.11.56.147:8808/stream?id=140
+#EXTINF:-1,[COLOR=white][B]MC DANCE[/B][/COLOR][COLOR=white][/COLOR]
+http://45.11.56.147:8808/stream?id=127
+#EXTINF:-1,[COLOR=white][B]MC HIT LIST[/B][/COLOR][COLOR=white][/COLOR]
+http://45.11.56.147:8808/stream?id=100
+#EXTINF:-1,[COLOR=white][B]MC POP HITS[/B][/COLOR][COLOR=white][/COLOR]
+http://45.11.56.147:8808/stream?id=133
+#EXTINF:-1,[COLOR=white][B]MC TEEN BEATS[/B][/COLOR][COLOR=white][/COLOR]
+http://45.11.56.147:8808/stream?id=118
+#EXTINF:-1,[COLOR=white][B]MC TROPICAL[/B][/COLOR][COLOR=white][/COLOR]
+http://45.11.56.147:8808/stream?id=137
+
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]///////// CANAIS BRIDGE TV /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+
+#EXTINF:-1,[COLOR=white][B]BRIDGE TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://stream01.sputnik24.tv/bridge/720p/index.m3u8
+
+#EXTINF:-1,[COLOR=white][B]BRIDGE CLASSIC HD[/B][/COLOR][COLOR=white][/COLOR]
+https://stream01.sputnik24.tv/bridgec/720p/index.m3u8
+
+#EXTINF:-1,[COLOR=white][B]BRIDGE HITS HD[/B][/COLOR][COLOR=white][/COLOR]
+https://stream01.sputnik24.tv/bridgeh/720p/index.m3u8
+
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]///////// CANAIS FAVORITOS - TOP HITS 1 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+
+#EXTINF:-1,[COLOR=white][B]MOOZ HITS SD[/B][/COLOR][COLOR=white][/COLOR]
+https://canale.live/mtv.m3u8/?id=moozhits
+
+#EXTINF:-1,[COLOR=white][B]TRACE URBAN FHD[/B][/COLOR][COLOR=white][/COLOR]
+https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1,[COLOR=white][B]TRACE URBAN UK HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.153.35.210:8000/play/a014/index.m3u8
+
+#EXTINF:-1,[COLOR=white][B]BOX HITS UK[/B][/COLOR][COLOR=white][/COLOR]
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+
+#EXTINF:-1,[COLOR=white][B]THE BOX UK[/B][/COLOR][COLOR=white][/COLOR]
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+
+#EXTINF:-1,[COLOR=white][B]KRONEHITS FHD[/B][/COLOR][COLOR=white][/COLOR]
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]POWERHD[/B][/COLOR][COLOR=white][/COLOR]
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]RADIO M2O HD[/B][/COLOR][COLOR=white][/COLOR]
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b2816000.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Musicas",[COLOR=white][B]ONE HD[/B][/COLOR][COLOR=white][/COLOR]
+http://rtmp.one.by:1300
+
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]FIRST MUSIC CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
+http://hz1.teleport.cc/HLS/SD.m3u8
+
+#EXTINF:-1,[COLOR=white][B]1HD RU TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://live-1.otcnet.ru/onehdweb/index.m3u8
+
+#EXTINF:-1,[COLOR=white][B]1HD HU TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://1music.hu/1music.m3u8
+
+#EXTINF:-1,[COLOR=white][B]DEEJAY HD[/B][/COLOR][COLOR=white][/COLOR]
+https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b2816000.m3u8
+
+#EXTINF:-1,[COLOR=white][B]PINK HITS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://46.29.169.15:4001/play/a01i/index.m3u8
+
+#EXTINF:-1,[COLOR=white][B]DELUXE MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
+http://149.62.183.209:4549/play/a04y/index.m3u8
+
+#EXTINF:-1,[COLOR=white][B]NRG 91[/B][/COLOR][COLOR=white][/COLOR]
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+
+#EXTINF:-1,[COLOR=white][B]RADIOLINA TV[/B][/COLOR][COLOR=white][/COLOR]
+https://5bb65e9de3fdf.streamlock.net/live/RadiolinaTV/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]XITE TV[/B][/COLOR][COLOR=white][/COLOR]
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
+
+#EXTINF:0,[COLOR=white][B]VIVA TV[/B][/COLOR][COLOR=white][/COLOR]
+https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+
+#EXTINF:-1,[COLOR=white][B]MUSIC TOP[/B][/COLOR][COLOR=white][/COLOR]
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]KISS UK[/B][/COLOR][COLOR=white][/COLOR]
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+
+#EXTINF:-1,[COLOR=white][B]V2BEAT TV[/B][/COLOR][COLOR=white][/COLOR]
+https://abr.de1se01.v2beat.live/playlist.m3u8
+ 
+#EXTINF:-1,[COLOR=white][B]COMPANY TV[/B][/COLOR][COLOR=white][/COLOR]
+http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]CMC USA MUSIC[/B][/COLOR][COLOR=white][/COLOR]
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]SUPER SIX TV[/B][/COLOR][COLOR=white][/COLOR]
+http://5db313b643fd8.streamlock.net:1935/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]TSN VISUAL RADIO TV[/B][/COLOR][COLOR=white][/COLOR]
+http://59d7d6f47d7fc.streamlock.net:1935/vr/vr/playlist.m3u8
+
+#EXTINF:0 tvg-id="VH1.us" group-title="Music",[COLOR=white][B]VH1 FHD[/B][/COLOR][COLOR=white][/COLOR]
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+
+#EXTINF:-1,[COLOR=white][B]PLAY TV[/B][/COLOR][COLOR=white][/COLOR]
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]MOLA HITS TV[/B][/COLOR][COLOR=white][/COLOR]
+http://ventdelnord.tv:8080/mola/directe.m3u8
+
+#EXTINF:-1,[COLOR=white][B]GO TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]BELLA RADIO TV[/B][/COLOR][COLOR=white][/COLOR]
+http://server.bellaradio.it:1935/live/bellaradiotv/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]ZEROUNO TV[/B][/COLOR][COLOR=white][/COLOR]
+http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]ZAPPING TV[/B][/COLOR][COLOR=white][/COLOR]
+https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_live1_b4131600_sles.m3u8
+
+#EXTINF:-1,[COLOR=white][B]MUZZONE TV[/B][/COLOR][COLOR=white][/COLOR]
+http://muzzone-stream.daitsuna.net/muzzondvr/muzzone_dvr/chunks_dvr.m3u8
+
+
+##########################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA ELECTRÓNICA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+
+#EXTINF:-1,[COLOR=white][B]DANCE TV - BEST OF DANCE[/B][/COLOR][COLOR=white][/COLOR]
+https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+
+#EXTINF:-1,[COLOR=white][B]DANCE TV - DEEP HOUSE[/B][/COLOR][COLOR=white][/COLOR]
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
+
+#EXTINF:-1,[COLOR=white][B]DANCE TV - BEST OF TECHNO[/B][/COLOR][COLOR=white][/COLOR]
+https://eu-nl-012.worldcast.tv/dancetelevisionthree/2/dancetelevisionthree.m3u8
+
+#EXTINF:-1,[COLOR=white][B]DANCE TV - TECHNO HOUSE[/B][/COLOR][COLOR=white][/COLOR]
+https://eu-nl-012.worldcast.tv/dancetelevisionfour/2/dancetelevisionfour.m3u8
+
+#EXTINF:-1,[COLOR=white][B]DANCE TV - HOUSE FLOOR[/B][/COLOR][COLOR=white][/COLOR]
+https://eu-nl-012.worldcast.tv/dancetelevisionfive/2/dancetelevisionfive.m3u8
+
+#EXTINF:-1,[COLOR=white][B]DANCE TV - DEEP TECH[/B][/COLOR][COLOR=white][/COLOR]
+https://eu-nl-012.worldcast.tv/dancetelevisionsix/2/dancetelevisionsix.m3u8
+
+#EXTINF:-1,[COLOR=white][B]DANCE TV - MAINSTAGE[/B][/COLOR][COLOR=white][/COLOR]
+https://eu-nl-012.worldcast.tv/dancetelevisionseven/2/dancetelevisionseven.m3u8
+
+#EXTINF:-1,[COLOR=white][B]DANCE TV - CHILL AF[/B][/COLOR][COLOR=white][/COLOR]
+https://eu-nl-012.worldcast.tv/dancetelevisioneight/2/dancetelevisioneight.m3u8
+
+#EXTINF:-1,[COLOR=white][B]DANCE TV - MELODIC TECH[/B][/COLOR][COLOR=white][/COLOR]
+https://eu-nl-012.worldcast.tv/dancetelevisionnine/2/dancetelevisionnine.m3u8
+
+#EXTINF:-1,[COLOR=white][B]DANCE IMPACT TV[/B][/COLOR][COLOR=white][/COLOR]
+http://tvradioimpact.go.ro:8080/tmp_hls/tvimpact/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]DANCE STAR TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
+
+#EXTINF:-1,[COLOR=white][B]MOOZ DANCE SD[/B][/COLOR][COLOR=white][/COLOR]
+https://canale.live/mtv.m3u8/?id=moozdance
+
+#EXTINF:-1,[COLOR=white][B]QUEST DANCE[/B][/COLOR][COLOR=white][/COLOR]
+https://qwest-mix-plex.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="UK" tvg-language="English" tvg-logo="https://i.imgur.com/aqMhht6.png" group-title="",[COLOR=white][B]CLUBBING TV[/B][/COLOR][COLOR=white][/COLOR]
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]CLUBBING TV[/B][/COLOR][COLOR=white][/COLOR]
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+
+# https://www.youtube.com/channel/UCalCDSmZAYD73tqVZ4l8yJg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gr55mAl.jpg" group-title="",[COLOR=white][B]ASOT TV[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=5lMmnfVylEE
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8Ak6qR.png" group-title="",[COLOR=white][B]IBIZA GLOBAL TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,[COLOR=white][B]MUSIC TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+https://live.prd.dlive.tv/hls/live/funstudio.m3u8
+
+#EXTINF:-1,[COLOR=white][B]MUSIC TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+https://cdn.wasd.tv/live/494056/index.m3u8
+
+#EXTINF:-1,[COLOR=white][B]MUSIC TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+https://cdn-curie.wasd.tv/live/1132718/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,[COLOR=white][B]MUSIC TV 9 HD[/B][/COLOR][COLOR=white][/COLOR]
+https://live.prd.dlive.tv/hls/live/cybervybezradio.m3u8
+
+#EXTINF:-1,[COLOR=white][B]SONUS FM TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://60015180a7f57.streamlock.net:444/public/stream_source/chunklist_w191033718.m3u8
+
+#EXTINF:-1,[COLOR=white][B]RETRO DANCE TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://live.prd.dlive.tv/hls/live/andyx7.m3u8
+
+#EXTINF:-1,[COLOR=white][B]RADIOLINA DANCE TV[/B][/COLOR][COLOR=white][/COLOR]
+https://5bb65e9de3fdf.streamlock.net/Radiolina/dancechannel/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]DANCE HITS OF THE 90´S HD[/B][/COLOR][COLOR=white][/COLOR]
+http://140.238.127.147/streams/1.m3u8
+
+#EXTINF:-1,[COLOR=white][B]MAFI2A MUSIC HITS HD[/B][/COLOR][COLOR=white][/COLOR]
+https://live.prd.dlive.tv/hls/live/tv12-gudauta.m3u8
+
+######################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  MÚSICA AFRICANA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+#EXTINF:-1,[COLOR=white][B]AFROBEAT - ÁFRICA[/B][/COLOR][COLOR=white][/COLOR]
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,[COLOR=white][B]DBM TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
+
+######################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  MÚSICAS ALTERNATIVAS & AO VIVO /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+#EXTINF:-1,[COLOR=white][B]STREET MUSIC 4U[/B][/COLOR][COLOR=white][/COLOR]
+https://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/chunklist_w1060207677.m3u8
+
+#EXTINF:-1,[COLOR=white][B]EURO INDIE MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,[COLOR=white][B]BEST LIVE PERFORMANCES HD[/B][/COLOR][COLOR=white][/COLOR]
+http://140.238.127.147/streams/3.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]QELLO CONCERTS[/B][/COLOR][COLOR=white][/COLOR]
+https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]LIVE CONCERTS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6080411af03506000759916e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fbb571-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c6d294f-660b-47ef-bc20-1961faf21c6a
+
+######################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]///////// BEST TOP HITS 2 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+#EXTINF:-1,[COLOR=white][B]CARINA TV[/B][/COLOR][COLOR=white][/COLOR]
+http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
+ 
+#EXTINF:-1,[COLOR=white][B]CAROLINA TV 1[/B][/COLOR][COLOR=white][/COLOR]
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+
+ #EXTINF:-1,[COLOR=white][B]CAROLINA TV 2[/B][/COLOR][COLOR=white][/COLOR]
+https://unlimited1-cl-isp.dps.live/carolinatv2/carolinatv2.smil/playlist.m3u8?PlaylistM3UCL
+
+ #EXTINF:-1,[COLOR=white][B]CADENA ELITE HD[/B][/COLOR][COLOR=white][/COLOR]
+https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL
+ 
+#EXTINF:-1,[COLOR=white][B]RELOAD TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
+
+#EXTINF:-1,[COLOR=white][B]PERSIANA MUSIC[/B][/COLOR][COLOR=white][/COLOR]
+http://51.210.199.24/hls/stream.m3u8
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO IBIZA TV[/B][/COLOR][COLOR=white][/COLOR]
+http://5929b138b139d.streamlock.net:1935/RadioIbizaTV/livestream/chunklist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]88FM STEREO TV[/B][/COLOR][COLOR=white][/COLOR]
+http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]EURO TV[/B][/COLOR][COLOR=white][/COLOR]
+https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]SEXY KPOP TV[/B][/COLOR][COLOR=white][/COLOR]
+http://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]COLOSAL TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Hits 360 HD (BR)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/Cx5V233.jpg",[COLOR=white][B]HITS 360 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]KISS KISS TV[/B][/COLOR][COLOR=white][/COLOR]
+http://58f12ffd2447a.streamlock.net:1935/KKMulti/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC + (HU)" tvg-logo="https://i.imgur.com/yKJmkNk.png" group-title="MUSIC",[COLOR=white][B]MUSIC+ TV[/B][/COLOR][COLOR=white][/COLOR]
+http://s02.diazol.hu:10192/stream.m3u8
+
+#EXTINF:-1,[COLOR=white][B]HIT FM TV[/B][/COLOR][COLOR=white][/COLOR]
+http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]POWERTURK HD[/B][/COLOR][COLOR=white][/COLOR]
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]MUSIC BOX HITS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://musicbox.mediacdn.ru/cdn/musicboxhd/playlist_sdmid.m3u8
+
+#EXTINF:-1,[COLOR=white][B]MUSIC BOX GOLD HD[/B][/COLOR][COLOR=white][/COLOR]
+http://musicbox.mediacdn.ru/cdn/musicboxgold/playlist_sdmid.m3u8
+
+#EXTINF:-1,[COLOR=white][B]RU TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+
+#EXTINF:-1,[COLOR=white][B]EG MELODY SD[/B][/COLOR][COLOR=white][/COLOR]
+http://46.40.6.203/EGMelody/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/32rDv4l.png" group-title="",[COLOR=white][B]LOVE FM RADIO TV[/B][/COLOR][COLOR=white][/COLOR]
+https://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
+https://56b50ada2d659.streamlock.net/LoveFM/livestream/chunklist_w699998999.m3u8
+https://56b50ada2d659.streamlock.net/LoveFM/livestream/chunklist_w541521754.m3u8
+
+######################################################################################
+#EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA ANTIGA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+
+#EXTINF:0 type="stream" channelId="-1" group="Музыкальные",[COLOR=white][B]RETRO TV 1 SD[/B][/COLOR][COLOR=white][/COLOR]
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]RETRO TV 2 SD[/B][/COLOR][COLOR=white][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w2107081768.m3u8
+
+#EXTINF:-1 tvg-name="Retro Plus 2 HD" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/i0rZsgG.png",[COLOR=white][B]RETRO TV 3 SD[/B][/COLOR][COLOR=white][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+ 
+#EXTINF:-1,[COLOR=white][B]PORTALFOXMIX[/B][/COLOR][COLOR=white][/COLOR]
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+ 
+#EXTINF:-1,[COLOR=white][B]RETRO MUSIC CHECA[/B][/COLOR][COLOR=white][/COLOR]
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2112431561.m3u8
+
+#EXTINF:-1,[COLOR=white][B]REWING TV[/B][/COLOR][COLOR=white][/COLOR]
+https://tls-cl.cdnz.cl/rewindtv/live/chunklist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]VINTAGE RADIO TV[/B][/COLOR][COLOR=white][/COLOR]
+http://5f22d76e220e1.streamlock.net:1935/vintageradiotv/vintageradiotv/chunklist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]VINTAGE TV[/B][/COLOR][COLOR=white][/COLOR]
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,[COLOR=white][B]RTL CLASSICS SD[/B][/COLOR][COLOR=white][/COLOR]
+https://5a57bda70564a.streamlock.net/litoralclassics/litoralclassics.sdp/chunklist_w1232675025.m3u8
+
+#EXTINF:-1,[COLOR=white][B]PLANETA TV MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
+https://tls-cl.cdnz.cl/planetatv1/ngrp:live_all//playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,[COLOR=white][B]RADIO 80 FOREVER YOUNG TV[/B][/COLOR][COLOR=white][/COLOR]
+https://585b674743bbb.streamlock.net/9076/9076/chunklist.m3u8
+ 
+######################################################################################
+#EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA LATINA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+
+#EXTINF:-1,[COLOR=white][B]PLAY TV[/B][/COLOR][COLOR=white][/COLOR]
+http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80111_Alegria_TV.png",[COLOR=white][B]ALEGRIA TV[/B][/COLOR][COLOR=white][/COLOR]
+https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]OXIGENO TV[/B][/COLOR][COLOR=white][/COLOR]
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]TELERITMO[/B][/COLOR][COLOR=white][/COLOR]
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?iptvgratis?chile.m3u8
+ 
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]HITS 360 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]TOP LATINO[/B][/COLOR][COLOR=white][/COLOR]
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]PORTALFOX MIX[/B][/COLOR][COLOR=white][/COLOR]
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]MUSIC LATINO[/B][/COLOR][COLOR=white][/COLOR]
+http://broadcast.mytvtogo.net/musicalatinaparati/musicalatinaparati/chunklist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]TUMUSICA TV[/B][/COLOR][COLOR=white][/COLOR]
+https://cdn4.hostlagarto.com:8081/static/radio105tv/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]VEVO LATINO HD[/B][/COLOR][COLOR=white][/COLOR]
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]TV EXITOS HD[/B][/COLOR][COLOR=white][/COLOR]
+https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
+
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]LATINZONE TV[/B][/COLOR][COLOR=white][/COLOR]
+https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
+
+
+######################################################################################
+#EXTINF:-1,[COLOR=yellow][B]///////// OUTROS GÉNEROS /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+
+#EXTINF:-1,[COLOR=white][B]OXIGENO NETWORK[/B][/COLOR][COLOR=white][/COLOR]
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/6Yr0Axp.png",[COLOR=white][B]CHOISE TV[/B][/COLOR][COLOR=white][/COLOR]
+https://vod.streams.ovh:3528/stream/play.m3u8
+
+#EXTINF:-1,[COLOR=white][B]SEXY KPOP TV[/B][/COLOR][COLOR=white][/COLOR]
+https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w330920962.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="USA",[COLOR=white][B]30A MUSIC[/B][/COLOR][COLOR=white][/COLOR]
+http://30a-tv.com/music.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="MUSIC",[COLOR=white][B]RELOAD HD[/B][/COLOR][COLOR=white][/COLOR]
+http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
+  
+#EXTINF:-1,[COLOR=white][B]Q MUSIC[/B][/COLOR][COLOR=white][/COLOR]
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+ 
+#EXTINF:0,[COLOR=white][B]OCKO HITS[/B][/COLOR][COLOR=white][/COLOR]
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/chunk.m3u8
+ 
+#EXTINF:-1,[COLOR=white][B]OCKO STAR TV SD[/B][/COLOR][COLOR=white][/COLOR]
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+ 
+#EXTINF:0,[COLOR=white][B]OCKO EXPRES[/B][/COLOR][COLOR=white][/COLOR]
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+
+#EXTINF:0,[COLOR=white][B]OCKO GOLD[/B][/COLOR][COLOR=white][/COLOR]
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]BARAZA TV CLASSICS[/B][/COLOR][COLOR=white][/COLOR]
+https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/chunklist_w296305449.m3u8
+#EXTINF:-1,[COLOR=white][B]BARAZA TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]BARAZA TV GREEK MUSIC HITS HD[/B][/COLOR][COLOR=white][/COLOR]
+https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+   
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o3mNE4H.jpg" group-title="MUSIC",[COLOR=white][B]DESI CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]1 MUSIC HUNGRIA[/B][/COLOR][COLOR=white][/COLOR]
+http://1music.hu/1music.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]V2BEAT TV EN[/B][/COLOR][COLOR=white][/COLOR]
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]RÁDIO 21 ROCK´N POP[/B][/COLOR][COLOR=white][/COLOR]
+https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]RÁDIO U TV[/B][/COLOR][COLOR=white][/COLOR]
+https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]FIRST MUSIC CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
+http://hz1.teleport.cc/HLS/HD.m3u8
+
+
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]30A MUSIC USA[/B][/COLOR][COLOR=white][/COLOR]
+https://30a-tv.com/music.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]MUZZIK TV SERBIA[/B][/COLOR][COLOR=white][/COLOR]
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]MUZZIK ROCK & ROLL SÉRBIA[/B][/COLOR][COLOR=white][/COLOR]
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]MUZZIK CAFE & CLUB SÉRBIA[/B][/COLOR][COLOR=white][/COLOR]
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]MUZZIK WORLDWIDE SÉRBIA[/B][/COLOR][COLOR=white][/COLOR]
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]MUZZIK JEKA SÉRBIA[/B][/COLOR][COLOR=white][/COLOR]
+https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]MUZZIK MEDITERRÂNIO SÉRBIA[/B][/COLOR][COLOR=white][/COLOR]
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]MUZZIK HIP HOP SÉRBIA[/B][/COLOR][COLOR=white][/COLOR]
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]MUZZIK GEN Z SÉRBIA[/B][/COLOR][COLOR=white][/COLOR]
+https://muzzik-live.morescreens.com/mts-a2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]MUZZIK VISION SÉRBIA[/B][/COLOR][COLOR=white][/COLOR]
+https://muzzik-live.morescreens.com/mts-a3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]MUZZIK OKK SERBIA[/B][/COLOR][COLOR=white][/COLOR]
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]SPIRIT TV USA EN[/B][/COLOR][COLOR=white][/COLOR]
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+
+#EXTM3U
+
+#######################################################################################################################################################################
+#######################################################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]///////// STINGRAY & PLUTO TV - REVISTA: 04/05/2022 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+
+#EXTM3U
+
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]STINGRAY GREATEST HITS[/B][/COLOR][COLOR=white][/COLOR]
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]STINGRAY HIT LIST[/B][/COLOR][COLOR=white][/COLOR]
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]STINGRAY CLASSIC ROCK[/B][/COLOR][COLOR=white][/COLOR]
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]STINGRAY ROCK ALTERNATIVE[/B][/COLOR][COLOR=white][/COLOR]
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]STINGRAY POP ADULT[/B][/COLOR][COLOR=white][/COLOR]
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]STINGRAY URBAN BEAT[/B][/COLOR][COLOR=white][/COLOR]
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]STINGRAY HOT COUNTRY[/B][/COLOR][COLOR=white][/COLOR]
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/108/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]STINGRAY FLASHBACK 70´S[/B][/COLOR][COLOR=white][/COLOR]
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]STINGRAY EVERYTHING 80´S[/B][/COLOR][COLOR=white][/COLOR]
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]STINGRAY TODAY´S LATIN POP[/B][/COLOR][COLOR=white][/COLOR]
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]LOCAL NOW MUSIC[/B][/COLOR][COLOR=white][/COLOR]
+https://linear-136.frequency.stream/dist/localnow/136/hls/master/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]PLUTO TV CLUBBING TV[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f984784ccb4de0007dfad74/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]PLUTO TV CMT[/B][/COLOR][COLOR=white][/COLOR]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5dcc42446750e200093b15e2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=182&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]PLUTO TV CMT EQUAL PLAY[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]PLUTO TV LIVE IN CONCERT[/B][/COLOR][COLOR=white][/COLOR]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6080411af03506000759916e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fbb571-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c6d294f-660b-47ef-bc20-1961faf21c6a
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]PLUTO TV LIVE MUSIC REPLAY[/B][/COLOR][COLOR=white][/COLOR]
+http://stitcher.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?appVersion=5.2.7&deviceDNT=web&deviceId=web24163643069&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=1&serverSideAds=false&sid=web24157571521
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]PLUTO TV MTV[/B][/COLOR][COLOR=white][/COLOR]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca672f515a62078d2ec0ad2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=178&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]PLUTO TV MTV[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]PLUTO TV MTV[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5caf325764025859afdd6c4d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]PLUTO TV MTV GERMANY[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5caf325764025859afdd6c4d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5caf325764025859afdd6c4d&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=2&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]PLUTO TV MTV BIGGEST POP[/B][/COLOR][COLOR=white][/COLOR]
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]PLUTO TV MTV CLASSIC[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]PLUTO TV MTV CLASSIC+[/B][/COLOR][COLOR=white][/COLOR]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff5ec5500d4c70007341c7c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8a1e60-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=de18fdd4-d30a-4263-8ecc-df902150744d
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]PLUTO TV MTV LATINO[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]PLUTO TV MTV LOVE MUSIC[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600ae79fa46e17000794e84c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]PLUTO TV MTV MADE IN SPAIN[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]PLUTO TV MTV ORIGINALS[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]PLUTO TV 80´S REWIND[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca525b650be2571e3943c63&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=95&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]PLUTO TV VEVO 2K[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]PLUTO TV VEVO 70´S[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]PLUTO TV VEVO 80´S[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]PLUTO TV VEVO 90´S[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]PLUTO TV VEVO COUNTRY[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]PLUTO TV VEVO POP[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d93b635b43dd1a399b39eee&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=890&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]PLUTO TV VEVO POP[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]PLUTO TV VEVO R&B[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]PLUTO TV REGGAETON & TRAP[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]PLUTO TV VH1 CLASSICS[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]VEVO 80´S[/B][/COLOR][COLOR=white][/COLOR]
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]VEVO HIP HOP[/B][/COLOR][COLOR=white][/COLOR]
+https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]VEVO LATIDO[/B][/COLOR][COLOR=white][/COLOR]
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]VEVO POP[/B][/COLOR][COLOR=white][/COLOR]
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]VEVO[/B][/COLOR][COLOR=white][/COLOR]
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/8830da17af6f45c18bae545abe878729/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]VEVO 80´S[/B][/COLOR][COLOR=white][/COLOR]
+https://bit.ly/vevo80s?wmsAuthSign=InspirationLinks
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]VEVO 90´S[/B][/COLOR][COLOR=white][/COLOR]
+https://bit.ly/vevo90s?wmsAuthSign=InspirationLinks
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]VEVO POP EUROPE[/B][/COLOR][COLOR=white][/COLOR]
+https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]VEVO LATINO[/B][/COLOR][COLOR=white][/COLOR]
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]VEVO POP EUROPE[/B][/COLOR][COLOR=white][/COLOR]
+https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
+
+#EXTM3U
+
+######################################################################################
+#EXTINF:-1,[COLOR=yellow][B]///////// LISTA CANAIS MÚSICA M3U.CL /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+
+#EXTM3U
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]REWIND RADIO Y TV[/B][/COLOR][COLOR=white][/COLOR]
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RETRO PLUS TV[/B][/COLOR][COLOR=white][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RECUERDOS RETRO RADIO TV[/B][/COLOR][COLOR=white][/COLOR]
+https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RETRO PLUS TV SENAL 2[/B][/COLOR][COLOR=white][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RUIDOS TV[/B][/COLOR][COLOR=white][/COLOR]
+https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]URBAN TV[/B][/COLOR][COLOR=white][/COLOR]
+https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RCKTV[/B][/COLOR][COLOR=white][/COLOR]
+https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RADIOTECA WEBSTEREO[/B][/COLOR][COLOR=white][/COLOR]
+https://vdohd.cl:1936/9040/9040/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MUNDO DE LA MUSICA TV[/B][/COLOR][COLOR=white][/COLOR]
+https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]LATINOS RÁDIO[/B][/COLOR][COLOR=white][/COLOR]
+https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]EURO INDIE MUSIC[/B][/COLOR][COLOR=white][/COLOR]
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ZAPPING MUSIC[/B][/COLOR][COLOR=white][/COLOR]
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TOCA HITS - MIX 24/7 TOP 100[/B][/COLOR][COLOR=white][/COLOR]
+https://mix247.ml:444/TocaHits/Top100Mix24-7/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PORTAL FOXMIX[/B][/COLOR][COLOR=white][/COLOR]
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RETRO MUSIC TELEVISION[/B][/COLOR][COLOR=white][/COLOR]
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ALEGRIA TV[/B][/COLOR][COLOR=white][/COLOR]
+https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CAROLINA TV[/B][/COLOR][COLOR=white][/COLOR]
+https://unlimited1-cl-isp.dps.live/carolinatv/carolinatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CANAL 38[/B][/COLOR][COLOR=white][/COLOR]
+https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CORAZON LLANERO[/B][/COLOR][COLOR=white][/COLOR]
+https://vcp.myplaytv.com:443/coll/coll/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]IBIZA GLOBAL TV[/B][/COLOR][COLOR=white][/COLOR]
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MAXIMA FM[/B][/COLOR][COLOR=white][/COLOR]
+https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MUSIC TOP[/B][/COLOR][COLOR=white][/COLOR]
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ON RADIO KPOP[/B][/COLOR][COLOR=white][/COLOR]
+https://tls-cl.cdnz.cl/adgm-2/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TU TV QUILLOTA[/B][/COLOR][COLOR=white][/COLOR]
+https://paneltv.net:3978/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TV VCONLINE.CL[/B][/COLOR][COLOR=white][/COLOR]
+https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DJ LONCHO TV[/B][/COLOR][COLOR=white][/COLOR]
+https://srv1.zcast.com.br/djlonchotv/djlonchotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TV EXITOS[/B][/COLOR][COLOR=white][/COLOR]
+https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]VIDEO TOUR CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TOP LATINO TV[/B][/COLOR][COLOR=white][/COLOR]
+https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tvweb.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]KARIBENA TV[/B][/COLOR][COLOR=white][/COLOR]
+https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BEST CABLE MUSIC[/B][/COLOR][COLOR=white][/COLOR]
+https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HATUN TV[/B][/COLOR][COLOR=white][/COLOR]
+https://tv.inka.net.pe/bestcablehatuntv/bestcablehatuntv/index.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MAS CUMBIA[/B][/COLOR][COLOR=white][/COLOR]
+https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TURBO MIX TV[/B][/COLOR][COLOR=white][/COLOR]
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]LATIN ZONE TV[/B][/COLOR][COLOR=white][/COLOR]
+https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TELE CLASSICOS[/B][/COLOR][COLOR=white][/COLOR]
+https://tvdatta.com:3574/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NUBEH TV[/B][/COLOR][COLOR=white][/COLOR]
+https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]OXIGENO NETWORK[/B][/COLOR][COLOR=white][/COLOR]
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PANAVISION[/B][/COLOR][COLOR=white][/COLOR]
+https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ITALIANISSIMO TV[/B][/COLOR][COLOR=white][/COLOR]
+https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CLOUD FM TV[/B][/COLOR][COLOR=white][/COLOR]
+https://videostreaming.cloudserverlatam.com:443/CLOUDFM/CLOUDFM/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RADIOMANIA TV[/B][/COLOR][COLOR=white][/COLOR]
+https://videostreaming.cloudserverlatam.com:443/8000/8000/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PLANETA TV MUSIC[/B][/COLOR][COLOR=white][/COLOR]
+https://tls-cl.cdnz.cl/planetatv1/ngrp:live_all//playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BUENISSIMA RADIO TV[/B][/COLOR][COLOR=white][/COLOR]
+http://streamyes.alsolnet.com/buturama/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]VINTAGE MUSIC[/B][/COLOR][COLOR=white][/COLOR]
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SOY PLANCHA TV[/B][/COLOR][COLOR=white][/COLOR]
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CANAL VM LATINO[/B][/COLOR][COLOR=white][/COLOR]
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CADENA ELITE[/B][/COLOR][COLOR=white][/COLOR]
+https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FABULOSA FM[/B][/COLOR][COLOR=white][/COLOR]
+http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MOLAHITS TV[/B][/COLOR][COLOR=white][/COLOR]
+http://ventdelnord.tv:8080/mola/directe.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PLANETA TV[/B][/COLOR][COLOR=white][/COLOR]
+https://live.obslivestream.com/planetatvmux/index.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TOP TV[/B][/COLOR][COLOR=white][/COLOR]
+https://cast.cdnseguro.com:19360/8092/8092.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TV UNIAO[/B][/COLOR][COLOR=white][/COLOR]
+https://596639ebdd89b.streamlock.net:443/tvuniao/tvuniao/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]EL GALPON 80[/B][/COLOR][COLOR=white][/COLOR]
+https://streamyes.alsolnet.com/wtmradio/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CAROLINA TV 2[/B][/COLOR][COLOR=white][/COLOR]
+https://unlimited1-cl-isp.dps.live/carolinatv2/carolinatv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SOLOBAILALO TV[/B][/COLOR][COLOR=white][/COLOR]
+https://5ff3d9babae13.streamlock.net:443/8000/8000/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MEMORIAS TV[/B][/COLOR][COLOR=white][/COLOR]
+https://play.amelbasoluciones.co:3759/live/memoriastvlive.m3u8?PlaylistM3UCL
