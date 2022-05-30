@@ -1,0 +1,504 @@
+####################################################################################################################################
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]/////////////////  CANAIS TV PORTUGAL 2  /////////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
+http://0.0.0.0:0000
+####################################################################################################################################
+ 
+ FONTE DE INFORMAÇÃO - LISTA 1: https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2022/master/CanaisB5.m3u8 
+ 
+            
+#EXTINF:-1,[COLOR=orange][B]LISTA ADICIONADA: 23/05/2022[/B][/COLOR][COLOR=orange][/COLOR]
+ 
+#EXTM3U
+
+
+####################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS GENERALISTAS E/OU NOTÍCIAS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+http://0000000000000000000000000000
+
+
+#EXTINF:-1,PT: RTP 1
+http://b5.vc:80/0672648180/fireurl.co/74931.ts
+#EXTINF:-1,PT: RTP 1 FHD
+http://b5.vc:80/0672648180/fireurl.co/74932.ts
+#EXTINF:-1,PT: RTP 1 FHD
+http://b5.vc:80/0672648180/fireurl.co/74933.ts
+#EXTINF:-1,PT: RTP 2
+http://b5.vc:80/0672648180/fireurl.co/74934.ts
+#EXTINF:-1,PT: RTP 2 FHD
+http://b5.vc:80/0672648180/fireurl.co/74935.ts
+#EXTINF:-1,PT: RTP 2 FHD
+http://b5.vc:80/0672648180/fireurl.co/74936.ts
+#EXTINF:-1,PT: RTP 3
+http://b5.vc:80/0672648180/fireurl.co/74937.ts
+#EXTINF:-1,PT: RTP 3 FHD
+http://b5.vc:80/0672648180/fireurl.co/74938.ts
+#EXTINF:-1,PT: RTP AÇORES
+http://b5.vc:80/0672648180/fireurl.co/74939.ts
+#EXTINF:-1,PT: RTP ÁFRICA
+http://b5.vc:80/0672648180/fireurl.co/74940.ts
+#EXTINF:-1,PT: RTP MADEIRA
+http://b5.vc:80/0672648180/fireurl.co/74941.ts
+#EXTINF:-1,PT: RTP MEMÓRIA
+http://b5.vc:80/0672648180/fireurl.co/74942.ts
+#EXTINF:-1,PT: SIC
+http://b5.vc:80/0672648180/fireurl.co/74945.ts
+#EXTINF:-1,PT: SIC CARAS
+http://b5.vc:80/0672648180/fireurl.co/74946.ts
+#EXTINF:-1,PT: SIC CARAS FHD
+http://b5.vc:80/0672648180/fireurl.co/74947.ts
+#EXTINF:-1,PT: SIC FHD
+http://b5.vc:80/0672648180/fireurl.co/74948.ts
+#EXTINF:-1,PT: SIC FHD
+http://b5.vc:80/0672648180/fireurl.co/74949.ts
+#EXTINF:-1,PT: SIC KIDS FHD
+http://b5.vc:80/0672648180/fireurl.co/74950.ts
+#EXTINF:-1,PT: SIC MULHER
+http://b5.vc:80/0672648180/fireurl.co/74951.ts
+#EXTINF:-1,PT: SIC MULHER FHD
+http://b5.vc:80/0672648180/fireurl.co/74952.ts
+#EXTINF:-1,PT: SIC NOTÍCIAS
+http://b5.vc:80/0672648180/fireurl.co/74953.ts
+#EXTINF:-1,PT: SIC NOTÍCIAS FHD
+http://b5.vc:80/0672648180/fireurl.co/74954.ts
+#EXTINF:-1,PT: SIC RADICAL
+http://b5.vc:80/0672648180/fireurl.co/74955.ts
+#EXTINF:-1,PT: SIC RADICAL FHD
+http://b5.vc:80/0672648180/fireurl.co/74956.ts
+#EXTINF:-1,PT: PORTO CANAL
+http://b5.vc:80/0672648180/fireurl.co/74928.ts
+#EXTINF:-1,PT: PORTO CANAL FHD
+http://b5.vc:80/0672648180/fireurl.co/74929.ts
+#EXTINF:-1,PT: TVI
+http://b5.vc:80/0672648180/fireurl.co/75014.ts
+#EXTINF:-1,PT: CNN PT
+http://b5.vc:80/0672648180/fireurl.co/75015.ts
+#EXTINF:-1,PT: CNN PT FHD
+http://b5.vc:80/0672648180/fireurl.co/75016.ts
+#EXTINF:-1,PT: TVI FHD
+http://b5.vc:80/0672648180/fireurl.co/75017.ts
+#EXTINF:-1,PT: TVI FICÇÃO
+http://b5.vc:80/0672648180/fireurl.co/75018.ts
+#EXTINF:-1,PT: TVI FICÇÃO FHD
+http://b5.vc:80/0672648180/fireurl.co/75019.ts
+#EXTINF:-1,PT: TVI REALITY
+http://b5.vc:80/0672648180/fireurl.co/75021.ts
+#EXTINF:-1,PT: TVI REALITY FHD
+http://b5.vc:80/0672648180/fireurl.co/75022.ts
+#EXTINF:-1,PT: CMTV
+http://b5.vc:80/0672648180/fireurl.co/74840.ts
+#EXTINF:-1,PT: CMTV FHD
+http://b5.vc:80/0672648180/fireurl.co/74841.ts
+
+
+####################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS BRASIL E ÁFRICA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+http://0000000000000000000000000000
+
+
+#EXTINF:-1,PT: TCV INTER. HD
+http://b5.vc:80/0672648180/fireurl.co/74985.ts
+#EXTINF:-1,PT: TPA INTER. HD
+http://b5.vc:80/0672648180/fireurl.co/74989.ts
+#EXTINF:-1,PT: TV GLOBO
+http://b5.vc:80/0672648180/fireurl.co/131218.ts
+#EXTINF:-1,PT: TV GLOBO FHD
+http://b5.vc:80/0672648180/fireurl.co/131216.ts
+#EXTINF:-1,PT: TV GLOBO NOW
+http://b5.vc:80/0672648180/fireurl.co/131208.ts
+#EXTINF:-1,GLOBO NEWS HD
+http://b5.vc:80/0672648180/fireurl.co/131112.ts
+#EXTINF:-1,PT: TV RECORD
+http://b5.vc:80/0672648180/fireurl.co/74998.ts
+#EXTINF:-1,PT: TV RECORD FHD
+http://b5.vc:80/0672648180/fireurl.co/74999.ts
+#EXTINF:-1,PT: RECORD TV (NA)
+http://b5.vc:80/0672648180/fireurl.co/74930.ts
+#EXTINF:-1,PT: TVC NEWS
+http://b5.vc:80/0672648180/fireurl.co/75001.ts
+#EXTINF:-1,PT: ZAP VIVA FHD
+http://b5.vc:80/0672648180/fireurl.co/75025.ts
+#EXTINF:-1,CNN BRASIL FHD
+http://b5.vc:80/0672648180/fireurl.co/71837.ts
+
+
+####################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DESPORTO  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+http://0000000000000000000000000000
+
+
+#EXTINF:-1,ESPN BR. FHD
+http://b5.vc:80/0672648180/fireurl.co/71911.ts
+#EXTINF:-1,PT: A BOLA TV
+http://b5.vc:80/0672648180/fireurl.co/74800.ts
+#EXTINF:-1,PT: A BOLA TV FHD
+http://b5.vc:80/0672648180/fireurl.co/74801.ts
+#EXTINF:-1,PT: CANAL 11
+http://b5.vc:80/0672648180/fireurl.co/74827.ts
+#EXTINF:-1,PT: CANAL 11 FHD
+http://b5.vc:80/0672648180/fireurl.co/74828.ts
+#EXTINF:-1,PT: CANAL 11 FHD
+http://b5.vc:80/0672648180/fireurl.co/74829.ts
+#EXTINF:-1,PT: EUROSPORT 1 FHD
+http://b5.vc:80/0672648180/fireurl.co/74872.ts
+#EXTINF:-1,PT: EUROSPORT 1 FHD
+http://b5.vc:80/0672648180/fireurl.co/74873.ts
+#EXTINF:-1,PT: EUROSPORT 2
+http://b5.vc:80/0672648180/fireurl.co/74874.ts
+#EXTINF:-1,PT: FUEL TV FHD
+http://b5.vc:80/0672648180/fireurl.co/74894.ts
+#EXTINF:-1,PT: FUEL TV
+http://b5.vc:80/0672648180/fireurl.co/74893.ts
+#EXTINF:-1,PT: SPORTING TV
+http://b5.vc:80/0672648180/fireurl.co/74981.ts
+#EXTINF:-1,PT: SPORTING TV FHD
+http://b5.vc:80/0672648180/fireurl.co/74982.ts
+
+#EXTINF:-1,PT: BTV
+http://b5.vc:80/0672648180/fireurl.co/74821.ts
+#EXTINF:-1,PT: BTV FHD
+http://b5.vc:80/0672648180/fireurl.co/74823.ts
+#EXTINF:-1,PT: BTV FHD
+http://b5.vc:80/0672648180/fireurl.co/74824.ts
+#EXTINF:-1,PT: BTV HD
+http://b5.vc:80/0672648180/fireurl.co/74825.ts
+#EXTINF:-1,PT: BTV SD
+http://b5.vc:80/0672648180/fireurl.co/74822.ts
+
+
+#EXTINF:-1,PT: SPORT TV+
+http://b5.vc:80/0672648180/fireurl.co/74979.ts
+#EXTINF:-1,PT: SPORT TV+ FHD
+http://b5.vc:80/0672648180/fireurl.co/74980.ts
+#EXTINF:-1,PT: SPORT TV 1
+http://b5.vc:80/0672648180/fireurl.co/74958.ts
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://b5.vc:80/0672648180/fireurl.co/74960.ts
+#EXTINF:-1,PT: SPORT TV 1 FHD 
+http://b5.vc:80/0672648180/fireurl.co/74961.ts
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://b5.vc:80/0672648180/fireurl.co/74962.ts
+#EXTINF:-1,PT: SPORT TV 1 SD
+http://b5.vc:80/0672648180/fireurl.co/74959.ts
+#EXTINF:-1,PT: SPORT TV 2 FHD
+http://b5.vc:80/0672648180/fireurl.co/74965.ts
+#EXTINF:-1,PT: SPORT TV 2 FHD 
+http://b5.vc:80/0672648180/fireurl.co/74966.ts
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://b5.vc:80/0672648180/fireurl.co/74967.ts
+#EXTINF:-1,PT: SPORT TV 2 SD
+http://b5.vc:80/0672648180/fireurl.co/74964.ts
+#EXTINF:-1,PT: SPORT TV 3
+http://b5.vc:80/0672648180/fireurl.co/74968.ts
+#EXTINF:-1,PT: SPORT TV 3 FHD
+http://b5.vc:80/0672648180/fireurl.co/74969.ts
+#EXTINF:-1,PT: SPORT TV 3 FHD
+http://b5.vc:80/0672648180/fireurl.co/74970.ts
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://b5.vc:80/0672648180/fireurl.co/74971.ts
+#EXTINF:-1,PT: SPORT TV 4
+http://b5.vc:80/0672648180/fireurl.co/74972.ts
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://b5.vc:80/0672648180/fireurl.co/74973.ts
+#EXTINF:-1,PT: SPORT TV 4 HD
+http://b5.vc:80/0672648180/fireurl.co/74974.ts
+#EXTINF:-1,PT: SPORT TV 5
+http://b5.vc:80/0672648180/fireurl.co/74975.ts
+#EXTINF:-1,PT: SPORT TV 5 FHD
+http://b5.vc:80/0672648180/fireurl.co/74976.ts
+#EXTINF:-1,PT: SPORT TV 5 HD
+http://b5.vc:80/0672648180/fireurl.co/74977.ts
+#EXTINF:-1,PT: SPORT TV NBA FHD
+http://b5.vc:80/0672648180/fireurl.co/74978.ts
+#EXTINF:-1,PT: NBA
+http://b5.vc:80/0672648180/fireurl.co/74917.ts
+#EXTINF:-1,PT: NBA FHD
+http://b5.vc:80/0672648180/fireurl.co/74918.ts
+
+
+#EXTINF:-1,ELEVEN SPORTS 1 FHD
+http://b5.vc:80/0672648180/fireurl.co/74853.ts
+#EXTINF:-1,ELEVEN SPORTS 1 FHD 
+http://b5.vc:80/0672648180/fireurl.co/74854.ts
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+http://b5.vc:80/0672648180/fireurl.co/74855.ts
+#EXTINF:-1,ELEVEN SPORTS 2 FHD
+http://b5.vc:80/0672648180/fireurl.co/74857.ts
+#EXTINF:-1,ELEVEN SPORTS 2 FHD
+http://b5.vc:80/0672648180/fireurl.co/74858.ts
+#EXTINF:-1,ELEVEN SPORTS 2 HD
+http://b5.vc:80/0672648180/fireurl.co/74859.ts
+#EXTINF:-1,ELEVEN SPORTS 2 SD
+http://b5.vc:80/0672648180/fireurl.co/74856.ts
+#EXTINF:-1,ELEVEN SPORTS 3 FHD
+http://b5.vc:80/0672648180/fireurl.co/74861.ts
+#EXTINF:-1,ELEVEN SPORTS 3 HD
+http://b5.vc:80/0672648180/fireurl.co/74862.ts
+#EXTINF:-1,ELEVEN SPORTS 3 SD
+http://b5.vc:80/0672648180/fireurl.co/74860.ts
+#EXTINF:-1,ELEVEN SPORTS 4 HD
+http://b5.vc:80/0672648180/fireurl.co/74865.ts
+#EXTINF:-1,ELEVEN SPORTS 4 SD
+http://b5.vc:80/0672648180/fireurl.co/74863.ts
+#EXTINF:-1,ELEVEN SPORTS 5 FHD
+http://b5.vc:80/0672648180/fireurl.co/74867.ts
+#EXTINF:-1,ELEVEN SPORTS 5 HD
+http://b5.vc:80/0672648180/fireurl.co/74868.ts
+#EXTINF:-1,ELEVEN SPORTS 5 SD
+http://b5.vc:80/0672648180/fireurl.co/74866.ts
+#EXTINF:-1,ELEVEN SPORTS 6 FHD
+http://b5.vc:80/0672648180/fireurl.co/74870.ts
+#EXTINF:-1,ELEVEN SPORTS 6 SD
+http://b5.vc:80/0672648180/fireurl.co/74869.ts
+
+
+####################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS SÉRIES TV E CINEMA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+http://0000000000000000000000000000
+
+
+#EXTINF:-1,PT: AMC
+http://b5.vc:80/0672648180/fireurl.co/74803.ts
+#EXTINF:-1,PT: AMC FHD
+http://b5.vc:80/0672648180/fireurl.co/74804.ts
+#EXTINF:-1,PT: AMC
+http://b5.vc:80/0672648180/fireurl.co/74805.ts
+#EXTINF:-1,PT: AXN BLACK
+http://b5.vc:80/0672648180/fireurl.co/74807.ts
+#EXTINF:-1,PT: AXN BLACK FHD
+http://b5.vc:80/0672648180/fireurl.co/74808.ts
+#EXTINF:-1,PT: AXN BLACK FHD
+http://b5.vc:80/0672648180/fireurl.co/74809.ts
+#EXTINF:-1,PT: AXN FHD
+http://b5.vc:80/0672648180/fireurl.co/74810.ts
+#EXTINF:-1,PT: AXN FHD
+http://b5.vc:80/0672648180/fireurl.co/74811.ts
+#EXTINF:-1,PT: AXN WHITE
+http://b5.vc:80/0672648180/fireurl.co/74812.ts
+#EXTINF:-1,PT: AXN WHITE FHD
+http://b5.vc:80/0672648180/fireurl.co/74813.ts
+#EXTINF:-1,PT: AXN WHITE FHD
+http://b5.vc:80/0672648180/fireurl.co/74814.ts
+#EXTINF:-1,PT: CINEMUNDO
+http://b5.vc:80/0672648180/fireurl.co/74837.ts
+#EXTINF:-1,PT: CINEMUNDO FHD
+http://b5.vc:80/0672648180/fireurl.co/74838.ts
+#EXTINF:-1,PT: HOLLYWOOD
+http://b5.vc:80/0672648180/fireurl.co/74895.ts
+#EXTINF:-1,PT: HOLLYWOOD FHD
+http://b5.vc:80/0672648180/fireurl.co/74896.ts
+#EXTINF:-1,PT: HOLLYWOOD FHD 
+http://b5.vc:80/0672648180/fireurl.co/74897.ts
+
+#EXTINF:-1,PT: FOX
+http://b5.vc:80/0672648180/fireurl.co/74879.ts
+#EXTINF:-1,PT: FOX COMEDY
+http://b5.vc:80/0672648180/fireurl.co/74880.ts
+#EXTINF:-1,PT: FOX COMEDY FHD
+http://b5.vc:80/0672648180/fireurl.co/74881.ts
+#EXTINF:-1,PT: FOX CRIME
+http://b5.vc:80/0672648180/fireurl.co/74882.ts
+#EXTINF:-1,PT: FOX CRIME FHD
+http://b5.vc:80/0672648180/fireurl.co/74883.ts
+#EXTINF:-1,PT: FOX CRIME FHD
+http://b5.vc:80/0672648180/fireurl.co/74884.ts
+#EXTINF:-1,PT: FOX FHD
+http://b5.vc:80/0672648180/fireurl.co/74885.ts
+#EXTINF:-1,PT: FOX FHD
+http://b5.vc:80/0672648180/fireurl.co/74886.ts
+#EXTINF:-1,PT: FOX LIFE
+http://b5.vc:80/0672648180/fireurl.co/74887.ts
+#EXTINF:-1,PT: FOX LIFE FHD
+http://b5.vc:80/0672648180/fireurl.co/74888.ts
+#EXTINF:-1,PT: FOX LIFE FHD
+http://b5.vc:80/0672648180/fireurl.co/74889.ts
+#EXTINF:-1,PT: FOX LIFE FHD
+http://b5.vc:80/0672648180/fireurl.co/75000.ts
+#EXTINF:-1,PT: FOX MOVIES
+http://b5.vc:80/0672648180/fireurl.co/74890.ts
+#EXTINF:-1,PT: FOX MOVIES FHD
+http://b5.vc:80/0672648180/fireurl.co/74891.ts
+#EXTINF:-1,PT: SYFY
+http://b5.vc:80/0672648180/fireurl.co/74983.ts
+#EXTINF:-1,PT: SYFY FHD
+http://b5.vc:80/0672648180/fireurl.co/74984.ts
+
+
+#EXTINF:-1,PT: NOS STUDIOS
+http://b5.vc:80/0672648180/fireurl.co/74921.ts
+#EXTINF:-1,PT: NOS STUDIOS FHD
+http://b5.vc:80/0672648180/fireurl.co/74922.ts
+#EXTINF:-1,PT: NOS STUDIOS FHD
+http://b5.vc:80/0672648180/fireurl.co/74923.ts
+#EXTINF:-1,PT: TVCINE ACTION
+http://b5.vc:80/0672648180/fireurl.co/75002.ts
+#EXTINF:-1,PT: TVCINE ACTION FHD
+http://b5.vc:80/0672648180/fireurl.co/75003.ts
+#EXTINF:-1,PT: TVCINE ACTION FHD
+http://b5.vc:80/0672648180/fireurl.co/75004.ts
+#EXTINF:-1,PT: TVCINE EDITION
+http://b5.vc:80/0672648180/fireurl.co/75005.ts
+#EXTINF:-1,PT: TVCINE EDITION FHD
+http://b5.vc:80/0672648180/fireurl.co/75006.ts
+#EXTINF:-1,PT: TVCINE EDITION FHD
+http://b5.vc:80/0672648180/fireurl.co/75007.ts
+#EXTINF:-1,PT: TVCINE EMOTION
+http://b5.vc:80/0672648180/fireurl.co/75008.ts
+#EXTINF:-1,PT: TVCINE EMOTION FHD
+http://b5.vc:80/0672648180/fireurl.co/75009.ts
+#EXTINF:-1,PT: TVCINE EMOTION FHD
+http://b5.vc:80/0672648180/fireurl.co/75010.ts
+#EXTINF:-1,PT: TVCINE TOP
+http://b5.vc:80/0672648180/fireurl.co/75011.ts
+#EXTINF:-1,PT: TVCINE TOP FHD
+http://b5.vc:80/0672648180/fireurl.co/75012.ts
+#EXTINF:-1,PT: TVCINE TOP FHD
+http://b5.vc:80/0672648180/fireurl.co/75013.ts
+
+
+####################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS MÚSICA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+http://0000000000000000000000000000
+
+
+#EXTINF:-1,PT: MTV PORTUGAL
+http://b5.vc:80/0672648180/fireurl.co/74908.ts
+#EXTINF:-1,PT: MTV PORTUGAL FHD
+http://b5.vc:80/0672648180/fireurl.co/74909.ts
+#EXTINF:-1,AFRO MUSIC CHANNEL
+http://b5.vc:80/0672648180/fireurl.co/74802.ts
+#EXTINF:-1,PT: MTV 00´S
+http://b5.vc:80/0672648180/fireurl.co/75023.ts
+#EXTINF:-1,PT: MTV 00´S
+http://b5.vc:80/0672648180/fireurl.co/75024.ts
+#EXTINF:-1,PT: CLUBBING TV
+http://b5.vc:80/0672648180/fireurl.co/74839.ts
+#EXTINF:-1,PT: TRACE URBAN HD
+http://b5.vc:80/0672648180/fireurl.co/74990.ts
+#EXTINF:-1,PT: TRACE TOCA FHD
+http://b5.vc:80/0672648180/fireurl.co/74991.ts
+#EXTINF:-1,PT: TRACE TOCA
+http://b5.vc:80/0672648180/fireurl.co/74992.ts
+#EXTINF:-1,TRACE BRAZUCA FHD
+http://b5.vc:80/0672648180/fireurl.co/72386.ts
+#EXTINF:-1,PT: ICONCERTS FHD
+http://b5.vc:80/0672648180/fireurl.co/74898.ts
+#EXTINF:-1,PT: MCM POP
+http://b5.vc:80/0672648180/fireurl.co/74904.ts
+#EXTINF:-1,PT: MCM TOP
+http://b5.vc:80/0672648180/fireurl.co/74905.ts
+#EXTINF:-1,PT: MEZZO
+http://b5.vc:80/0672648180/fireurl.co/74906.ts
+
+
+####################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS INFANTIS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+http://0000000000000000000000000000
+
+
+#EXTINF:-1,PT: BABY TV
+http://b5.vc:80/0672648180/fireurl.co/74815.ts
+#EXTINF:-1,PT: CANAL PANDA
+http://b5.vc:80/0672648180/fireurl.co/74831.ts
+#EXTINF:-1,PT: CARTOON NETWORK
+http://b5.vc:80/0672648180/fireurl.co/74834.ts
+#EXTINF:-1,PT: DISNEY CHANNEL
+http://b5.vc:80/0672648180/fireurl.co/74848.ts
+#EXTINF:-1,PT: DISNEY JUNIOR
+http://b5.vc:80/0672648180/fireurl.co/74849.ts
+#EXTINF:-1,PT: NICK JR. HD
+http://b5.vc:80/0672648180/fireurl.co/74919.ts
+#EXTINF:-1,PT: NICKELODEON HD
+http://b5.vc:80/0672648180/fireurl.co/74920.ts
+#EXTINF:-1,PT: PANDA BIGGS
+http://b5.vc:80/0672648180/fireurl.co/74926.ts
+#EXTINF:-1,PT: JIM JAM
+http://b5.vc:80/0672648180/fireurl.co/74900.ts
+
+
+####################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DOCMENTÁRIOS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+http://0000000000000000000000000000
+
+
+#EXTINF:-1,DISCOVERY CHANNEL
+http://b5.vc:80/0672648180/fireurl.co/74845.ts
+#EXTINF:-1,DISCOVERY CHANNEL FHD
+http://b5.vc:80/0672648180/fireurl.co/74846.ts
+#EXTINF:-1,DISCOVERY CHANNEL FHD
+http://b5.vc:80/0672648180/fireurl.co/74847.ts
+#EXTINF:-1,PT: NAT GEO
+http://b5.vc:80/0672648180/fireurl.co/74912.ts
+#EXTINF:-1,PT: NAT GEO FHD
+http://b5.vc:80/0672648180/fireurl.co/74913.ts
+#EXTINF:-1,PT: NAT GEO FHD
+http://b5.vc:80/0672648180/fireurl.co/74914.ts
+#EXTINF:-1,PT: NAT GEO Wild
+http://b5.vc:80/0672648180/fireurl.co/74915.ts
+#EXTINF:-1,PT: NAT GEO Wild FHD
+http://b5.vc:80/0672648180/fireurl.co/74916.ts
+#EXTINF:-1,PT: ODISSEIA
+http://b5.vc:80/0672648180/fireurl.co/74924.ts
+#EXTINF:-1,PT: ODISSEIA FHD
+http://b5.vc:80/0672648180/fireurl.co/74925.ts
+#EXTINF:-1,PT: CANAL HISTÓRIA
+http://b5.vc:80/0672648180/fireurl.co/74830.ts
+#EXTINF:-1,PT: CRIME INVESTIGATION
+http://b5.vc:80/0672648180/fireurl.co/74844.ts
+
+
+####################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  OUTROS CANAIS DIVERSOS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+http://0000000000000000000000000000
+
+
+
+#EXTINF:-1,24 KITCHEN FHD
+http://b5.vc:80/0672648180/fireurl.co/74798.ts
+#EXTINF:-1,24 KITCHEN FHD
+http://b5.vc:80/0672648180/fireurl.co/74799.ts
+#EXTINF:-1,PT: BBC WORLD NEWS
+http://b5.vc:80/0672648180/fireurl.co/74816.ts
+#EXTINF:-1,PT: BLAZE
+http://b5.vc:80/0672648180/fireurl.co/74817.ts
+#EXTINF:-1,PT: BLAZE FHD
+http://b5.vc:80/0672648180/fireurl.co/74818.ts
+#EXTINF:-1,PT: BLOOMBERG
+http://b5.vc:80/0672648180/fireurl.co/74819.ts
+#EXTINF:-1,PT: CAÇAVISION
+http://b5.vc:80/0672648180/fireurl.co/74826.ts
+#EXTINF:-1,PT: CANAL Q
+http://b5.vc:80/0672648180/fireurl.co/74832.ts
+#EXTINF:-1,PT: CAÇA & PESCA
+http://b5.vc:80/0672648180/fireurl.co/74835.ts
+#EXTINF:-1,PT: CBS REALITY
+http://b5.vc:80/0672648180/fireurl.co/74836.ts
+#EXTINF:-1,PT: CNBC
+http://b5.vc:80/0672648180/fireurl.co/74842.ts
+#EXTINF:-1,PT: CNN
+http://b5.vc:80/0672648180/fireurl.co/74843.ts
+#EXTINF:-1,PT: EI ENETERTAINMENT
+http://b5.vc:80/0672648180/fireurl.co/74851.ts
+#EXTINF:-1,PT: EURONEWS
+http://b5.vc:80/0672648180/fireurl.co/74871.ts
+#EXTINF:-1,PT: FASHION TV
+http://b5.vc:80/0672648180/fireurl.co/74875.ts
+#EXTINF:-1,PT: FIGHT NETWORK FHD
+http://b5.vc:80/0672648180/fireurl.co/74876.ts
+#EXTINF:-1,PT: FOOD NETWORK FHD
+http://b5.vc:80/0672648180/fireurl.co/74878.ts
+#EXTINF:-1,PT: FOX NEWS
+http://b5.vc:80/0672648180/fireurl.co/74892.ts
+#EXTINF:-1,ID INVESTIGATION DISCOVERY HD
+http://b5.vc:80/0672648180/fireurl.co/74899.ts
+#EXTINF:-1,PT: LOCALVISÃO HD
+http://b5.vc:80/0672648180/fireurl.co/74902.ts
+#EXTINF:-1,PT: MY CUISINNE
+http://b5.vc:80/0672648180/fireurl.co/74911.ts
+#EXTINF:-1,PT: SAÚDE FHD
+http://b5.vc:80/0672648180/fireurl.co/74944.ts
+#EXTINF:-1,PT: SKY NEWS
+http://b5.vc:80/0672648180/fireurl.co/74957.ts
+#EXTINF:-1,PT: TRAVEL CHANNEL
+http://b5.vc:80/0672648180/fireurl.co/74993.ts
+#EXTINF:-1,PT: TRAVEL CHANNEL FHD
+http://b5.vc:80/0672648180/fireurl.co/74994.ts
