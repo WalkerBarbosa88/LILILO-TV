@@ -1,0 +1,241 @@
+##########################################################################################################################################################################
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]/////////////  CANAIS TV INFANTIS MUNDIAIS  //////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
+http://0.0.0.0:00000
+##########################################################################################################################################################################
+ 
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 22/05/2022[/B][/COLOR][COLOR=orange][/COLOR]
+ 
+#########################################################################################################################################################################
+ 
+#EXTM3U
+
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  RÁDIOS & TV INFANTIS PORTUGAL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO MIÚDOS[/B][/COLOR][COLOR=white][/COLOR]
+https://s5.radio.co/s9c516a065/listen
+#EXTINF:-1,[COLOR=white][B]RÁDIO ZIG ZAG[/B][/COLOR][COLOR=white][/COLOR]
+https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]LOLLY KIDS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://85.187.222.252:9191/play/a00e
+#EXTINF:0 tvg-id="BabyTV.pt" group-title="Channels",[COLOR=white][B]BABY TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://ccdn.ai:80/J5yx1/679TQJtyy/74815.ts
+#EXTINF:-1 ,[COLOR=white][B]BABY TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/954
+#EXTINF:0 tvg-id="canalpanda.pt" group-title="Channels",[COLOR=white][B]CANAL PANDA HD[/B][/COLOR][COLOR=white][/COLOR]
+http://ccdn.ai:80/J5yx1/679TQJtyy/74831.ts
+#EXTINF:-1 ,[COLOR=white][B]CANAL PANDA HD[/B][/COLOR][COLOR=white][/COLOR]
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/942
+#EXTINF:-1 ,[COLOR=white][B]CARTOON NETWORK HD[/B][/COLOR][COLOR=white][/COLOR]
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/939
+#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Channels",[COLOR=white][B]NICKELODEON HD[/B][/COLOR][COLOR=white][/COLOR]
+http://ccdn.ai:80/J5yx1/679TQJtyy/74920.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NICK JUNIOR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://ccdn.ai:80/J5yx1/679TQJtyy/74919.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]JIM JAM HD[/B][/COLOR][COLOR=white][/COLOR]
+http://ccdn.ai:80/J5yx1/679TQJtyy/74900.ts
+#EXTINF:-1 ,[COLOR=white][B]JIMJAM HD[/B][/COLOR][COLOR=white][/COLOR]
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/893
+#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Channels",[COLOR=white][B]PANDA BIGGS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://ccdn.ai:80/J5yx1/679TQJtyy/74926.ts
+#EXTINF:0 tvg-id="DisneyJunior.pt" group-title="Channels",[COLOR=white][B]DISNEY JUNIOR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://ccdn.ai:80/J5yx1/679TQJtyy/74849.ts
+#EXTINF:-1 ,[COLOR=white][B]DISNEY JUNIOR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/928
+#EXTINF:-1 ,[COLOR=white][B]DISNEY CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/929
+#EXTINF:-1 ,[COLOR=white][B]NICKELODEON HD[/B][/COLOR][COLOR=white][/COLOR]
+http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/877
+
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS INFANTIS INTERNACIONAIS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+
+#EXTM3U
+
+
+#EXTINF:-1,[COLOR=white][B]BABY SHARK TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]A VIDA DE ROCKO BR[/B][/COLOR][COLOR=white][/COLOR]
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:-1,[COLOR=white][B]BABY FIRST[/B][/COLOR][COLOR=white][/COLOR]
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:-1,[COLOR=white][B]CAMP SNOOPY[/B][/COLOR][COLOR=white][/COLOR]
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
+#EXTINF:-1,[COLOR=white][B]COCORO FHD[/B][/COLOR][COLOR=white][/COLOR]
+https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]HAPPY KIDS FHD[/B][/COLOR][COLOR=white][/COLOR]
+https://happykids-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]HAPPY KIDS JUNIOR[/B][/COLOR][COLOR=white][/COLOR]
+https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]KABILION TV[/B][/COLOR][COLOR=white][/COLOR]
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]NICK CLÁSSICO BR[/B][/COLOR][COLOR=white][/COLOR]
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:-1,[COLOR=white][B]O REINO ANIMAL BR[/B][/COLOR][COLOR=white][/COLOR]
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+
+#EXTINF:0 tvg-id="duck" group-title="Channels",[COLOR=white][B]DUCK TV[/B][/COLOR][COLOR=white][/COLOR]
+https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]EBS KIDS[/B][/COLOR][COLOR=white][/COLOR]
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
+#EXTINF:0 tvg-id="Gulli.fr" group-title="Kids",[COLOR=white][B]GULLI TV[/B][/COLOR][COLOR=white][/COLOR]
+https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]KURIAKOS KIDS[/B][/COLOR][COLOR=white][/COLOR]
+http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
+#EXTINF:0 tvg-id="lale" group-title="Kids",[COLOR=white][B]LALE[/B][/COLOR][COLOR=white][/COLOR]
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]SPACETOON[/B][/COLOR][COLOR=white][/COLOR]
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]ATFAL WA MAWAHED[/B][/COLOR][COLOR=white][/COLOR]
+https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]BRAT TV 1080P[/B][/COLOR][COLOR=white][/COLOR]
+https://brat-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]HAPPY KIDS TV[/B][/COLOR][COLOR=white][/COLOR]
+https://happykids-roku.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]HAPPY KIDS JUNIOR TV[/B][/COLOR][COLOR=white][/COLOR]
+https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]KIDSFLIX TV[/B][/COLOR][COLOR=white][/COLOR]
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]KIDS TV[/B][/COLOR][COLOR=white][/COLOR]
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]COUNTRY BOY KIDS VIDEO[/B][/COLOR][COLOR=white][/COLOR]
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]CUTE ZONE[/B][/COLOR][COLOR=white][/COLOR]
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]EBS KIDS[/B][/COLOR][COLOR=white][/COLOR]
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]ENKI BENKI[/B][/COLOR][COLOR=white][/COLOR]
+http://94.43.239.178:8080/CHANNEL678/BITRATE0/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]FGTV[/B][/COLOR][COLOR=white][/COLOR]
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8
+#EXTINF:0 tvg-id="lale" group-title="Kids",[COLOR=white][B]LALE[/B][/COLOR][COLOR=white][/COLOR]
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]LEGO CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
+https://legochannel-roku.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]LEGO TOONS[/B][/COLOR][COLOR=white][/COLOR]
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]LIFEBAE[/B][/COLOR][COLOR=white][/COLOR]
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22681932c8304fc453418/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]MASTER BUILDER[/B][/COLOR][COLOR=white][/COLOR]
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]LEGO CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
+https://legochannel-roku.amagi.tv/playlist.m3u8 
+
+#EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://kuriakos.com/wp-content/uploads/2017/07/Kuriakos_kids_V2.jpg",[COLOR=white][B]KURIAKOS KIDS BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://c2.manasat.com:1935/kkids/kkids3/playlist.m3u8?wowzasessionid=inspiration
+#EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/escola.png",[COLOR=white][B]TV ESCOLA BR HD[/B][/COLOR][COLOR=white][/COLOR]
+https://5c483b9d1019c.streamlock.net/8054/8054/chunklist_w648759078.m3u8
+#EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/oreinoinfantil.jpg",[COLOR=white][B]O REINO ANIMAL BR[/B][/COLOR][COLOR=white][/COLOR]
+https://bit.ly/3ssv2Uy?/mono.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/nick_juniorclub.png",[COLOR=white][B]NICK JUNIOR CLUB[/B][/COLOR][COLOR=white][/COLOR] 
+https://bit.ly/3rUCg15?/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Toon_Goggles_logo.png",[COLOR=white][B]TOON GOGGLES BR[/B][/COLOR][COLOR=white][/COLOR] 
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
+#EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/colorLogoPNG.png",[COLOR=white][B]TURMA DA MÓNICA[/B][/COLOR][COLOR=white][/COLOR] 
+https://bit.ly/3cXQNoL?/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/retrocartoon.png",[COLOR=white][B]RETRO CARTOON BR.[/B][/COLOR][COLOR=white][/COLOR] 
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1567216407.m3u8
+#EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG.png",[COLOR=white][B]ANIME TV BR[/B][/COLOR][COLOR=white][/COLOR] 
+https://stmv1.srvif.com/animetv/animetv/chunklist_w461895807.m3u8
+#EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG.png",[COLOR=white][B]ANIME[/B][/COLOR][COLOR=white][/COLOR]
+https://bit.ly/3qY2y4m?/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://images.pluto.tv/channels/5d765786aad587cf4d0e2bf6/colorLogoPNG.png",[COLOR=white][B]INSPECTOR GADGET[/B][/COLOR][COLOR=white][/COLOR]
+https://bit.ly/3FblQIm?/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/Ducktv.png",[COLOR=white][B]DUCK TV[/B][/COLOR][COLOR=white][/COLOR]
+https://mmm-ducktv-3-es.samsung.wurl.com/manifest/d3f8ea989ab57c23ee5efc0cdeee512f.m3u8
+#EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/babyfirts.png",[COLOR=white][B]BABY FIRST BR[/B][/COLOR][COLOR=white][/COLOR]
+https://bit.ly/BabyFirts?/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/super_it.png",[COLOR=white][B]SUPER IT[/B][/COLOR][COLOR=white][/COLOR]
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
+#EXTINF:-1 group-title="Infantil" tvg-logo="http://www.pakapaka.gob.ar/img/botones/logo-pakapaka-2.png",[COLOR=white][B]PAKA PAKA AR[/B][/COLOR][COLOR=white][/COLOR]
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w190057400.m3u8
+#EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://sck.pm/sc9k",[COLOR=white][B]TVG INFANTIL ES.[/B][/COLOR][COLOR=white][/COLOR]
+https://infantil-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200",[COLOR=white][B]PEQUERADIO TV ES.[/B][/COLOR][COLOR=white][/COLOR]
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png",[COLOR=white][B]NICK JUNIOR DORA TV[/B][/COLOR][COLOR=white][/COLOR]
+https://siloh.pluto.tv/lilo/production/Nick/03/master_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png",[COLOR=white][B]NICK USA[/B][/COLOR][COLOR=white][/COLOR]
+https://siloh.pluto.tv/lilo/production/Nick/01/master_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://images.pluto.tv/channels/5d0c16d686454ead733d08f8/colorLogoPNG.png",[COLOR=white][B]TARTARUGAS NINJA USA[/B][/COLOR][COLOR=white][/COLOR]
+https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://www.retrocrush.tv/channels/rc/icons/apple-icon-120x120.png",[COLOR=white][B]RETRO CRUSH USA[/B][/COLOR][COLOR=white][/COLOR]
+https://digitalmediarights-retrocrush-1.sinclair.wurl.com/manifest/2000.m3u8
+#EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://image.roku.com/developer_channels/prod/d8b0409265e8943e3e6d01031986d6acbecbca4190c21797deaccaaebdd9974a.png",[COLOR=white][B]ROKU COCORO USA[/B][/COLOR][COLOR=white][/COLOR]
+https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://images.pluto.tv/channels/60fb01a24795a6000762fe83/colorLogoPNG.png",[COLOR=white][B]LEGO CHANNEL USA[/B][/COLOR][COLOR=white][/COLOR]
+https://legochannel-roku.amagi.tv/playlist1080-p.m3u8
+#EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://sck.pm/gBm9",[COLOR=white][B]TV LEGO TOONS USA[/B][/COLOR][COLOR=white][/COLOR]
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://sck.pm/gBm9",[COLOR=white][B]LEGO MASTERBUILDER USA[/B][/COLOR][COLOR=white][/COLOR]
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]3ABN KIDS HD[/B][/COLOR][COLOR=white][/COLOR]
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]KARTOON CIRCUS HD[/B][/COLOR][COLOR=white][/COLOR]
+https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS INFANTIS PLUTO TV  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+#EXTM3U
+
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]PLUTO TV ANIMAKIDS HD[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1aabee6f4a2c00076a322c&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=905&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]PLUTO TV BEYBLADE BURST NICK HD[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b551ddcd25500072c4dad/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b551ddcd25500072c4dad&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=a38b88ed-0712-11eb-8b9f-0242ac110002&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]PLUTO TV BLAZE NICK HD[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b60419becf60008c841fd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b60419becf60008c841fd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=ebc579c0-0712-11eb-97af-0242ac110002&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]PLUTO TV BLUE´S CLUES HD[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b564ff59d130007363823/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b564ff59d130007363823&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=29e99f3f-0713-11eb-a59f-0242ac110002&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]PLUTO TV BOB ESPONJA HD[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]PLUTO TV BUBLLE GUPPIES HD[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b5a4bb7da5c0007e5c9e9/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b5a4bb7da5c0007e5c9e9&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=5c631817-0713-11eb-9df2-0242ac110002&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]PLUTO TV CLASSIC NICK HD[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f12151794c1800007a8ae63&deviceLat=-23.5475&deviceLon=-46.6361&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false&sid=730&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]PLUTO TV CLASSIC TOONS HD[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=562ea53fa9060c5a7d463e74&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=548&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]PLUTO TV DORA TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fb6c84dd37df3b4290c5&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=985&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]PLUTO TV GARFIELD HD[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]PLUTO TV ICARLY NICK HD[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b580a233dc90007f0cb9d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e8b580a233dc90007f0cb9d&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=406&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]PLUTO TV ICARLY+ HD[/B][/COLOR][COLOR=white][/COLOR]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff5ed9ba24f6a00074a9b91/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8a4570-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0432d921-f53e-4dfe-8afd-2d0b3fb750f3
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]PLUTO TV ICARLY+ HD[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f3d2cb9f5b291000773807a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f3d2cb9f5b291000773807a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=4c128fa6-7ec2-4a50-a81b-37f9e8c1e48f&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]PLUTO TV KIDS HD[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9b648e738977e2c312131/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9b648e738977e2c312131&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=30292edb-0714-11eb-97af-0242ac110002&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]PLUTO TV KIDS ANIMATION HD[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5db0ad56edc89300090d2ebb&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=976&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]PLUTO TV KIDS COLLECTION HD[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f92b625c1ffbc0007e60c37/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]PLUTO TV KIDS SÉRIES+ HD[/B][/COLOR][COLOR=white][/COLOR]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff5ebe299d30c0007b1f12a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c89d040-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8f06f039-4f3e-499b-a415-5cf7148a64d7
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]PLUTO TV NICK HD[/B][/COLOR][COLOR=white][/COLOR]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca673e0d0bd6c2689c94ce3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=977&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]PLUTO TV NICK CLÁSSICO HD[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]PLUTO TV NICK JUNIOR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca6748a37b88b269472dad9&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=978&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]PLUTO TV NICK JUNIOR CLUB HD[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]PLUTO TV NICK JUNIOR LATINO HD[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d0ec7b0f7015fbe0a3bf7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=998&terminate=false&userId=
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]PLUTO TV PLANETA JUNIOR TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609501978c069d00074e0dd2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]PLUTO TV RETRO TOONS HD[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1c669094e0e80009b22ab8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e1c669094e0e80009b22ab8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=886c7aee-0585-11eb-8b9f-0242ac110002&terminate=false&userId=
