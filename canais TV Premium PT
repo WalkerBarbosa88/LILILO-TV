@@ -15,7 +15,7 @@ http://0.0.0.0:0000
                       Listas Várias - https://global-satinfo.in/viewtopic.php?f=22&t=2315&start=330
 #EXTM3U
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 22/05/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 03/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 
 ####################################################################################################################################
@@ -35,8 +35,6 @@ https://00000000000
 
 #EXTINF:-1,[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
 http://dream4k.co:8080/nipep39596/0c4bqefx55/439362
-#EXTINF:-1,[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
-http://s1.pixel4k.vision:80/152096805299936/152080074943559/71283
 #EXTINF:0 tvg-id="SportTVplus.pt" group-title="DESPORTO",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
 http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais
 #EXTINF:-1,[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -50,48 +48,28 @@ http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/234
 #EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://dream4k.co:8080/nipep39596/0c4bqefx55/439363
 #EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://s1.pixel4k.vision:80/152096805299936/152080074943559/71282
-#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://s1.pixel4k.vision:80/152096805299936/152080074943559/71281
-#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://s1.pixel4k.vision:80/152096805299936/152080074943559/71201
-#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://s1.pixel4k.vision:80/152096805299936/152080074943559/71200
-#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://89.114.126.46:4000/play/a003
 #EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/108
 
 
 #EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://s1.pixel4k.vision:80/152096805299936/152080074943559/71199
-#EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://s1.pixel4k.vision:80/152096805299936/152080074943559/71280
-#EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://89.114.126.46:4000/play/a004
 #EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/102
 
 #EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://s1.pixel4k.vision:80/152096805299936/152080074943559/71198
-#EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://s1.pixel4k.vision:80/152096805299936/152080074943559/71279
-#EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://89.114.126.46:4000/play/a005
 #EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/132
 
-#EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://s1.pixel4k.vision:80/152096805299936/152080074943559/71232
-#EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://s1.pixel4k.vision:80/152096805299936/152080074943559/71196
+
 #EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://89.114.126.46:4000/play/a008
 #EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/86
 
-#EXTINF:-1,[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://s1.pixel4k.vision:80/152096805299936/152080074943559/71231
+
 #EXTINF:-1,[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://89.114.126.46:4000/play/a00a
 #EXTINF:-1,[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -118,8 +96,6 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.81:1234
-#EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://mains.services:2086/live/dorec14/Chuckman5525$/92701.ts
 
 #EXTINF:-1,[COLOR=white][B]ESPN 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.152:1234
@@ -130,8 +106,6 @@ http://189.91.128.146:4444/udp/227.10.20.86:1234
 http://189.91.128.146:4444/udp/227.10.20.153:1234
 #EXTINF:-1,[COLOR=white][B]ESPN 3 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.153:1234
-#EXTINF:-1,[COLOR=white][B]ESPN 3 BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://mains.services:2086/live/dorec14/Chuckman5525$/92736.ts
 
 #EXTINF:-1,[COLOR=white][B]ESPN 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.116:1234
@@ -161,15 +135,6 @@ https://000000
 
 #EXTM3U
 
-
-#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://s1.pixel4k.vision:80/152096805299936/152080074943559/71188
-#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://s1.pixel4k.vision:80/152096805299936/152080074943559/71188
-#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/952
-#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/953
 #EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/103
 
@@ -185,29 +150,13 @@ https://000000
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR] 
-http://161.230.155.157:8000/play/a02u
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR] 
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR] 
-http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/925
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR] 
-http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/926
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/545
 
 
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR] 
-http://s1.pixel4k.vision:80/152096805299936/152080074943559/71277
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR] 
-http://s1.pixel4k.vision:80/152096805299936/152080074943559/71193
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJLdC6sguiyX8N2QI-yX-d64/ts
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR] 
-http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/923
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR] 
-http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/924
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/89
 
@@ -215,23 +164,13 @@ http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/89
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJCj-3rEl3NmItfMAMT_ShRE/ts
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR] 
-http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/921
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR] 
-http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/922
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/150
 
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJOSZsWI3Dx4VfxyLQOwcoX0/ts
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR] 
-http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/919
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/66
 
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR] 
-http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/917
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR] 
-http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/918
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/139
 
@@ -239,10 +178,6 @@ http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/139
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven6
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJFGRezPP_E_YrLaVH7MB7KE/ts
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR] 
-http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/915
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR] 
-http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/916
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/96
 
@@ -286,45 +221,28 @@ http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/59
 https://0000000
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NOS STUDIOS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/876
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NOS STUDIOS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/529
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EDITION HD[/B][/COLOR][COLOR=white][/COLOR]
 http://dream4k.co:8080/nipep39596/0c4bqefx55/439390
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EDITION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/821
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EDITION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/822
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EDITION HD[/B][/COLOR][COLOR=white][/COLOR]
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/124
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EMOTION HD[/B][/COLOR][COLOR=white][/COLOR]
 http://dream4k.co:8080/nipep39596/0c4bqefx55/439391
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EMOTION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/819
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EMOTION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/820
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EMOTION HD[/B][/COLOR][COLOR=white][/COLOR]
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/116
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
 http://dream4k.co:8080/nipep39596/0c4bqefx55/439388
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
-http://s1.pixel4k.vision:80/152096805299936/152080074943559/71152
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
-http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/823
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
 http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/824
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/72
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE ACTION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://s1.pixel4k.vision:80/152096805299936/152080074943559/71147
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE ACTION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://s1.pixel4k.vision:80/152096805299936/152080074943559/71149
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE ACTION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/818
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE ACTION HD[/B][/COLOR][COLOR=white][/COLOR]
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/62
+
+
