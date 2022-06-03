@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 ####################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 23/05/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 03/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
 ##########################################################################################################################
  
@@ -21,10 +21,6 @@ https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-footballdaily/CDN/master.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]RED BULL TV FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]RED BULL TV FHD[/B][/COLOR][COLOR=white][/COLOR]
-https://rbmn-live.akamaized.net/hls/live/622817/BoRB-US/master_6660.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]RED BULL TV UK[/B][/COLOR][COLOR=white][/COLOR]
-https://rbmn-live.akamaized.net/hls/live/622817/BoRB-US/master_3360.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]BEIN SPORTS  XTRA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
@@ -76,18 +72,6 @@ https://000000
 
 #EXTINF:-1 tvg-id="USAJ3400020KC" tvg-chno="1211" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/53/USAJ3400020KC_20210525T051656.png" group-title="USA,[COLOR=white][B]TINY HOUSE NATION TV[/B][/COLOR][COLOR=white][/COLOR]
 https://4f2d358e390a41cd8e87e74a954d9624.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TinyHouseNation/playlist.m3u8?ads.wurl_channel=675&ads.wurl_name=TinyHouseNation&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-id="USAJ3400020KC" tvg-chno="1211" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/53/USAJ3400020KC_20210525T051656.png" group-title="USA,[COLOR=white][B]TINY HOUSE NATION TV[/B][/COLOR][COLOR=white][/COLOR]
-https://4f2d358e390a41cd8e87e74a954d9624.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TinyHouseNation/playlist.m3u8?ads.wurl_channel=675&ads.wurl_name=TinyHouseNation&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-id="USAK3508701A" tvg-chno="1213" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/03/USAK3508701A_20210525T051658.png" group-title="USA,[COLOR=white][B]THIS OLD HOUSE TV[/B][/COLOR][COLOR=white][/COLOR]
-https://26487f8be0614420a64b6f5964563a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ThisOldHouse/playlist.m3u8?ads.wurl_channel=180&ads.wurl_name=ThisOldHouse&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-
-#EXTINF:-1 tvg-id="USAK3508701A" tvg-chno="1213" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/03/USAK3508701A_20210525T051658.png" group-title="USA,[COLOR=white][B]THIS OLD HOUSE TV[/B][/COLOR][COLOR=white][/COLOR]
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 tvg-id="USAJ3400005BA" tvg-chno="1215" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/96/USAJ3400005BA_20210525T051700.png" group-title="USA,[COLOR=white][B]THE DESIGN NETWORK[/B][/COLOR][COLOR=white][/COLOR]
-https://e60c9a5d763348c6a86c6d98fce3c52a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TheDesignNetwork/playlist.m3u8?
 
 #EXTINF:-1 tvg-id="USAJ3400005BA" tvg-chno="1215" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/96/USAJ3400005BA_20210525T051700.png" group-title="USA,[COLOR=white][B]THE DESIGN NETWORK[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playlist.m3u8
@@ -380,16 +364,13 @@ https://000000
 
 #EXTINF:-1 tvg-id="GoTraveler.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Travel",[COLOR=white][B]GO TRAVELER TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="LocalNowDiscover.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60481e10fa33524246049ac3" group-title="Travel",[COLOR=white][B]LOCAL NOW DISCOVER HD[/B][/COLOR][COLOR=white][/COLOR]
-https://linear-145.frequency.stream/dist/localnow/145/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="PlutoTVTravel.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/59c01b1953680139c6ae9d4d/colorLogoPNG.png" group-title="Travel",[COLOR=white][B]PLUTO TV TRAVEL[/B][/COLOR][COLOR=white][/COLOR]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1,[COLOR=white][B]TRAVEL GUIDE TV[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn10.live-tv.od.ua:8083/leonovtv/test1/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]TVS TRAVEL NETWORK[/B][/COLOR][COLOR=white][/COLOR]
 https://rpn1.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
-#EXTINF:-1,[COLOR=white][B]TRAVEL BOX BR. HD[/B][/COLOR][COLOR=white][/COLOR]
-http://168.205.87.198:8555/live/1499/123456/124.m3u8
 #EXTINF:-1,[COLOR=white][B]GEM TRAVEL HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stream-live.gemonline.tv/live/gemtravel/index.m3u8
 #EXTINF:-1,[COLOR=white][B]TRAVEL & ADVENTURE HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -472,8 +453,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]EURONEWS PT[/B][/COLOR][COLOR=white][/COLOR]
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FRANCE 24 ING.[/B][/COLOR][COLOR=white][/COLOR]
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TELESUR ING.[/B][/COLOR][COLOR=white][/COLOR]
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]RTVE ES 24 HORAS[/B][/COLOR][COLOR=white][/COLOR]
