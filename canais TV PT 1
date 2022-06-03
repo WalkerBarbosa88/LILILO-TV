@@ -11,7 +11,7 @@ http://0.0.0.0:0000
             VÁRIAS LISTAS E PAÍSES - https://matthewgall.codes/mirrors/iptv/src/branch/master/streams
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 23/05/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 03/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
@@ -63,12 +63,6 @@ http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=yellow][B]/////////  LISTA CANAIS TV PORTUGAL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #EXTM3U
-
-#EXTINF:-1,[COLOR=white][B]RTP 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://149.62.183.203:8001/play/a00w/index.m3u8
-
-#EXTINF:-1,[COLOR=white][B]RTP 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.130:8000/play/a0g8
 
 #EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
 http://162.212.178.69:41042/bysid/608
@@ -144,88 +138,9 @@ http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
 #EXTINF:-1,[COLOR=white][B]SANTUÁRIO DE FÁTIMA[/B][/COLOR][COLOR=white][/COLOR]
 https://streamer-a01.videos.sapo.pt/live/santuario/chunklist.m3u8?wowzasessionid=inspiration
 
-#EXTINF:-1,[COLOR=white][B]RTP ARENA HD[/B][/COLOR][COLOR=white][/COLOR]
-https://bit.ly/3u01M9y?/chunklist_b1290000_slpor.m3u8
-
-#EXTINF:-1,[COLOR=white][B]SIC ADVANCE HD[/B][/COLOR][COLOR=white][/COLOR]
-https://bit.ly/36usb5W?/playlist.m3u8
-
 
 ##########################################################################################################################
-#EXTINF:-1,[COLOR=orange][B]CANAIS EXTRAS PT[/B][/COLOR][COLOR=orange][/COLOR]
-
-#EXTM3U
-
-
-#EXTINF:-1,[COLOR=white][B]RTP 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.130:8000/play/a0g7
-#EXTINF:-1,[COLOR=white][B]RTP 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://149.62.183.203:8001/play/a00w/index.m3u8
-#EXTINF:-1,[COLOR=white][B]RTP 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.130:8000/play/a0g8
-#EXTINF:-1,[COLOR=white][B]RTP 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://149.62.183.203:8001/play/a00x/index.m3u8
-#EXTINF:-1,[COLOR=white][B]RTP 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.130:8000/play/a0gd
-#EXTINF:-1,[COLOR=white][B]RTP 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://149.62.183.203:8001/play/a010/index.m3u8
-#EXTINF:-1,[COLOR=white][B]RTP AÇORES HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.130:8000/play/a0ir
-#EXTINF:-1,[COLOR=white][B]RTP AÇORES HD[/B][/COLOR][COLOR=white][/COLOR]
-http://149.62.183.203:8001/play/a01c/index.m3u8
-#EXTINF:-1,[COLOR=white][B]RTP MADEIRA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.130:8000/play/a0is
-#EXTINF:-1,[COLOR=white][B]RTP MEMÓRIA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.130:8000/play/a0gk
-#EXTINF:-1,[COLOR=white][B]RTP ÁFRICA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.130:8000/play/a0hn
-#EXTINF:-1,[COLOR=white][B]RTP ÁFRICA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://149.62.183.203:8001/play/a01g/index.m3u8
-
-#EXTINF:-1,[COLOR=white][B]SIC HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.130:8000/play/a0g9
-#EXTINF:-1,[COLOR=white][B]SIC CARAS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.130:8000/play/a0jd
-#EXTINF:-1,[COLOR=white][B]SIC K HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.130:8000/play/a0gs
-#EXTINF:-1,[COLOR=white][B]SIC MULHER HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.130:8000/play/a0gt
-#EXTINF:-1,[COLOR=white][B]SIC NOTICIAS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.130:8000/play/a0ga
-#EXTINF:-1,[COLOR=white][B]SIC RADICAL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.130:8000/play/a0it
-
-#EXTINF:-1,[COLOR=white][B]MTV PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.130:8000/play/a0h7
-#EXTINF:-1,[COLOR=white][B]NATIONAL GEOGRAPHIC HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.130:8000/play/a0hb
-#EXTINF:-1,[COLOR=white][B]ODISSEIA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.130:8000/play/a0hd
-#EXTINF:-1,[COLOR=white][B]PORTO CANAL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.130:8000/play/a0j2
-#EXTINF:-1,[COLOR=white][B]RECORD NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.130:8000/play/a0jq
-#EXTINF:-1,[COLOR=white][B]ARTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://149.62.183.203:8001/play/a00k/index.m3u8
-#EXTINF:-1,[COLOR=white][B]BABY TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://149.62.183.203:8001/play/a016/index.m3u8
-#EXTINF:-1,[COLOR=white][B]CMTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://149.62.183.203:8001/play/a012/index.m3u8
-#EXTINF:-1,[COLOR=white][B]CNN PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://149.62.183.203:8001/play/a011/index.m3u8
-#EXTINF:-1,[COLOR=white][B]CINEMUNDO HD[/B][/COLOR][COLOR=white][/COLOR]
-http://149.62.183.203:8001/play/a00f/index.m3u8
-#EXTINF:-1,[COLOR=white][B]GLOBO HD[/B][/COLOR][COLOR=white][/COLOR]
-http://149.62.183.203:8001/play/a013/index.m3u8
-#EXTINF:-1,[COLOR=white][B]HISTÓRIA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://149.62.183.203:8001/play/a00g/index.m3u8
-#EXTINF:-1,[COLOR=white][B]MTV PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://149.62.183.203:8001/play/a019/index.m3u8
-#EXTINF:-1,[COLOR=white][B]PORTO CANAL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://149.62.183.203:8001/play/a014/index.m3u8
-
-##########################################################################################################################
-#EXTINF:-1,[COLOR=orange][B]LISTA 2 REVISTA: 23/05/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA 2 REVISTA: 03/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -236,22 +151,8 @@ http://b5.vc:80/0672648180/fireurl.co/74880.ts
 http://b5.vc:80/0672648180/fireurl.co/74881.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX COMEDY HD[/B][/COLOR][COLOR=white][/COLOR]
 http://player.ukwtv.com:8080/live/3143577959095676/2598854265/193561.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://149.62.183.203:8001/play/a00w/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://149.62.183.203:8001/play/a00x/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://149.62.183.203:8001/play/a010/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP AÇORES HD[/B][/COLOR][COLOR=white][/COLOR]
-http://149.62.183.203:8001/play/a01c/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP AFRICA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://149.62.183.203:8001/play/a01g/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CNN PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://149.62.183.203:8001/play/a011/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CMTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://ccdn.ai:80/J5yx1/679TQJtyy/74841.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CMTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://149.62.183.203:8001/play/a012/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HOLLYWOOD HD[/B][/COLOR][COLOR=white][/COLOR]
 http://ccdn.ai:80/J5yx1/679TQJtyy/74895.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HOLLYWOOD HD[/B][/COLOR][COLOR=white][/COLOR]
