@@ -6,7 +6,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA 1 REVISTA: 20/05/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA 1 REVISTA: 03/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -93,9 +93,6 @@ https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sM
 
 #EXTINF:-1,[COLOR=white][B]PINK HITS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://46.29.169.15:4001/play/a01i/index.m3u8
-
-#EXTINF:-1,[COLOR=white][B]DELUXE MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
-http://149.62.183.209:4549/play/a04y/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]NRG 91[/B][/COLOR][COLOR=white][/COLOR]
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
@@ -230,9 +227,6 @@ https://60015180a7f57.streamlock.net:444/public/stream_source/chunklist_w1910337
 #EXTINF:-1,[COLOR=white][B]RETRO DANCE TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://live.prd.dlive.tv/hls/live/andyx7.m3u8
 
-#EXTINF:-1,[COLOR=white][B]RADIOLINA DANCE TV[/B][/COLOR][COLOR=white][/COLOR]
-https://5bb65e9de3fdf.streamlock.net/Radiolina/dancechannel/playlist.m3u8
-
 #EXTINF:-1,[COLOR=white][B]DANCE HITS OF THE 90´S HD[/B][/COLOR][COLOR=white][/COLOR]
 http://140.238.127.147/streams/1.m3u8
 
@@ -271,6 +265,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6080411af0350600075
 ######################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// BEST TOP HITS 2 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
+
 
 #EXTINF:-1,[COLOR=white][B]CARINA TV[/B][/COLOR][COLOR=white][/COLOR]
 http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
@@ -504,7 +499,7 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
 #######################################################################################################################################################################
 #######################################################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////// STINGRAY & PLUTO TV - REVISTA: 04/05/2022 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]///////// STINGRAY & PLUTO TV - REVISTA: 03/06/2022 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #EXTM3U
 
@@ -606,126 +601,4 @@ https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]VEVO POP EUROPE[/B][/COLOR][COLOR=white][/COLOR]
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
 
-#EXTM3U
 
-######################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////// LISTA CANAIS MÚSICA M3U.CL /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://000000
-
-
-#EXTM3U
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]REWIND RADIO Y TV[/B][/COLOR][COLOR=white][/COLOR]
-https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RETRO PLUS TV[/B][/COLOR][COLOR=white][/COLOR]
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RECUERDOS RETRO RADIO TV[/B][/COLOR][COLOR=white][/COLOR]
-https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RETRO PLUS TV SENAL 2[/B][/COLOR][COLOR=white][/COLOR]
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RUIDOS TV[/B][/COLOR][COLOR=white][/COLOR]
-https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]URBAN TV[/B][/COLOR][COLOR=white][/COLOR]
-https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RCKTV[/B][/COLOR][COLOR=white][/COLOR]
-https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RADIOTECA WEBSTEREO[/B][/COLOR][COLOR=white][/COLOR]
-https://vdohd.cl:1936/9040/9040/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MUNDO DE LA MUSICA TV[/B][/COLOR][COLOR=white][/COLOR]
-https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]LATINOS RÁDIO[/B][/COLOR][COLOR=white][/COLOR]
-https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]EURO INDIE MUSIC[/B][/COLOR][COLOR=white][/COLOR]
-http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ZAPPING MUSIC[/B][/COLOR][COLOR=white][/COLOR]
-https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TOCA HITS - MIX 24/7 TOP 100[/B][/COLOR][COLOR=white][/COLOR]
-https://mix247.ml:444/TocaHits/Top100Mix24-7/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PORTAL FOXMIX[/B][/COLOR][COLOR=white][/COLOR]
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RETRO MUSIC TELEVISION[/B][/COLOR][COLOR=white][/COLOR]
-http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ALEGRIA TV[/B][/COLOR][COLOR=white][/COLOR]
-https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CAROLINA TV[/B][/COLOR][COLOR=white][/COLOR]
-https://unlimited1-cl-isp.dps.live/carolinatv/carolinatv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CANAL 38[/B][/COLOR][COLOR=white][/COLOR]
-https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CORAZON LLANERO[/B][/COLOR][COLOR=white][/COLOR]
-https://vcp.myplaytv.com:443/coll/coll/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]IBIZA GLOBAL TV[/B][/COLOR][COLOR=white][/COLOR]
-https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MAXIMA FM[/B][/COLOR][COLOR=white][/COLOR]
-https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MUSIC TOP[/B][/COLOR][COLOR=white][/COLOR]
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ON RADIO KPOP[/B][/COLOR][COLOR=white][/COLOR]
-https://tls-cl.cdnz.cl/adgm-2/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TU TV QUILLOTA[/B][/COLOR][COLOR=white][/COLOR]
-https://paneltv.net:3978/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TV VCONLINE.CL[/B][/COLOR][COLOR=white][/COLOR]
-https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DJ LONCHO TV[/B][/COLOR][COLOR=white][/COLOR]
-https://srv1.zcast.com.br/djlonchotv/djlonchotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TV EXITOS[/B][/COLOR][COLOR=white][/COLOR]
-https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]VIDEO TOUR CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
-http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TOP LATINO TV[/B][/COLOR][COLOR=white][/COLOR]
-https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tvweb.stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]KARIBENA TV[/B][/COLOR][COLOR=white][/COLOR]
-https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BEST CABLE MUSIC[/B][/COLOR][COLOR=white][/COLOR]
-https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HATUN TV[/B][/COLOR][COLOR=white][/COLOR]
-https://tv.inka.net.pe/bestcablehatuntv/bestcablehatuntv/index.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MAS CUMBIA[/B][/COLOR][COLOR=white][/COLOR]
-https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TURBO MIX TV[/B][/COLOR][COLOR=white][/COLOR]
-https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]LATIN ZONE TV[/B][/COLOR][COLOR=white][/COLOR]
-https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TELE CLASSICOS[/B][/COLOR][COLOR=white][/COLOR]
-https://tvdatta.com:3574/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NUBEH TV[/B][/COLOR][COLOR=white][/COLOR]
-https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]OXIGENO NETWORK[/B][/COLOR][COLOR=white][/COLOR]
-https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PANAVISION[/B][/COLOR][COLOR=white][/COLOR]
-https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ITALIANISSIMO TV[/B][/COLOR][COLOR=white][/COLOR]
-https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CLOUD FM TV[/B][/COLOR][COLOR=white][/COLOR]
-https://videostreaming.cloudserverlatam.com:443/CLOUDFM/CLOUDFM/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RADIOMANIA TV[/B][/COLOR][COLOR=white][/COLOR]
-https://videostreaming.cloudserverlatam.com:443/8000/8000/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PLANETA TV MUSIC[/B][/COLOR][COLOR=white][/COLOR]
-https://tls-cl.cdnz.cl/planetatv1/ngrp:live_all//playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BUENISSIMA RADIO TV[/B][/COLOR][COLOR=white][/COLOR]
-http://streamyes.alsolnet.com/buturama/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]VINTAGE MUSIC[/B][/COLOR][COLOR=white][/COLOR]
-https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SOY PLANCHA TV[/B][/COLOR][COLOR=white][/COLOR]
-https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CANAL VM LATINO[/B][/COLOR][COLOR=white][/COLOR]
-https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CADENA ELITE[/B][/COLOR][COLOR=white][/COLOR]
-https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FABULOSA FM[/B][/COLOR][COLOR=white][/COLOR]
-http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MOLAHITS TV[/B][/COLOR][COLOR=white][/COLOR]
-http://ventdelnord.tv:8080/mola/directe.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PLANETA TV[/B][/COLOR][COLOR=white][/COLOR]
-https://live.obslivestream.com/planetatvmux/index.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TOP TV[/B][/COLOR][COLOR=white][/COLOR]
-https://cast.cdnseguro.com:19360/8092/8092.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TV UNIAO[/B][/COLOR][COLOR=white][/COLOR]
-https://596639ebdd89b.streamlock.net:443/tvuniao/tvuniao/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]EL GALPON 80[/B][/COLOR][COLOR=white][/COLOR]
-https://streamyes.alsolnet.com/wtmradio/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CAROLINA TV 2[/B][/COLOR][COLOR=white][/COLOR]
-https://unlimited1-cl-isp.dps.live/carolinatv2/carolinatv2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SOLOBAILALO TV[/B][/COLOR][COLOR=white][/COLOR]
-https://5ff3d9babae13.streamlock.net:443/8000/8000/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MEMORIAS TV[/B][/COLOR][COLOR=white][/COLOR]
-https://play.amelbasoluciones.co:3759/live/memoriastvlive.m3u8?PlaylistM3UCL
