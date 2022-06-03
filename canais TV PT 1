@@ -64,6 +64,10 @@ http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
 
 #EXTM3U
 
+
+#EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://162.212.178.69:41042/bysid/608
+
 #EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
 http://162.212.178.69:41042/bysid/608
 
@@ -144,6 +148,8 @@ https://streamer-a01.videos.sapo.pt/live/santuario/chunklist.m3u8?wowzasessionid
 
 #EXTM3U
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX COMEDY HD[/B][/COLOR][COLOR=white][/COLOR]
+http://player.ukwtv.com:8080/live/3143577959095676/2598854265/193561.ts
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX COMEDY HD[/B][/COLOR][COLOR=white][/COLOR]
 http://b5.vc:80/0672648180/fireurl.co/74880.ts
