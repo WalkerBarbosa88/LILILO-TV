@@ -1,0 +1,181 @@
+
+####################################################################################################################################
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////// MÚSICAS INFANTIS E DVD´S COMPLETOS //////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
+http://0.0.0.0:0000
+####################################################################################################################################
+ 
+#EXTM3U
+
+####################################################################################################################################
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=yellow][B]//////////////////  MÚSICAS INFANTIS  //////////////////[/B][/COLOR][COLOR=white][/COLOR]
+http://0.0.0.0:000000
+####################################################################################################################################
+
+
+
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]BOA NOITE, VITINHO - 1986[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GVxQKvu4uJ0
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]PARABÉNS A VOCÊ[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YOSQcHP7xUc
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]A TODOS UM BOM NATAL[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=7Qo3rqWEpOY&list=RDEMxaeIVgk4EXGlZzjHjpqqew&index=6
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]A SAIA DA CAROLINA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YWNa1BbAO_4
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]A SAIA DA CAROLINA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=2gATqJkuIQQ
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]TODOS OS PATINHOS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CqCGXCw_ntM&list=PL034776219A5A6FAF
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]EU VI UM SAPO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Rj34d00KNdk&list=PL034776219A5A6FAF&index=5
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]NA LOJA DO MESTRE ANDRÉ[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=_WhGPvQiVXQ
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]DOIDAS ANDAM AS GALINHAS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=vhKN206ICt4&list=RDEM_CLxNUMj9gziYIz6KEqFcg&start_radio=1
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]POPÓ DO PAPÁ[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=0UCB8J64XeA&list=RDEM_CLxNUMj9gziYIz6KEqFcg&index=2
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]OLHA A BOLA MANEL[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=LELu2lqAUn8&list=RDEM_CLxNUMj9gziYIz6KEqFcg&index=3
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]D´ARTACÃO E OS TRÊS MOSCÃOTEIROS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Lu5vsQ7CK18&list=RDEM_CLxNUMj9gziYIz6KEqFcg&index=5
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]JOANA COME A PAPA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=dcef_7Teij4&list=RDEM_CLxNUMj9gziYIz6KEqFcg&index=6
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]FANTASMINHA BRINCALHÃO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=eVMlSY0oinU&list=RDEM_CLxNUMj9gziYIz6KEqFcg&index=8
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]O CUCU NA FLORESTA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=u-_ddoWuK64&list=PLC1AcsHLWLGOQEostxgK0NXwYnMyvRoS5
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]OLIVEIRINHA DA SERRA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=2nVqcnbkqLY&list=PLC1AcsHLWLGOQEostxgK0NXwYnMyvRoS5&index=2
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]ATIREI O PAU AO GATO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=M4C4tFN20XQ&list=PLC1AcsHLWLGOQEostxgK0NXwYnMyvRoS5&index=3
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]A MACHADINHA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=L37naaUjpDw&list=PLC1AcsHLWLGOQEostxgK0NXwYnMyvRoS5&index=4
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]POMBINHAS DA CATRINA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XJy3IlWyCPQ&list=PLC1AcsHLWLGOQEostxgK0NXwYnMyvRoS5&index=5
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]O BALÃO DO JOÃO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=-VIfIco0SJc
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]O COELHINHO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=yLWeNz9AmCI
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]A BONECA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=DhXkf5NiXfE
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]AS 7 CORES DO ARCO-IRIS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ukAmaYwN8u4
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]LAVAR OS DENTES[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=rPbePh6LR78
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]ORA, PONHA AQUI O SEU PEZINHO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Zo0UBKFNBo4
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]ALECRIM[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=wETKnK7bP54
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]PAPAGAIO LOIRO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=uvImM9KkCdM
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]O AREIAS (É UM CAMELO)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=DXIoqrpoXEo
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]O BARQUINHO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=n7tCIFWbtrA
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]O PIÃO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=E6Wys1dmfzY
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]NA QUINTA DO TIO MANEL[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=cOEJkRwmzew
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]FUI VISITAR A MINHA TIA A MARROCOS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=QKM9gWsGClw
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]MALHÃO, MALHÃO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=smjJEXb5rCg
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]OS OLHOS DA MARIANITA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=vqJj9_feZv4
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]A HISTÓRIA DA CAROCHINHA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=VG4wUNKNTgw
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]EU MEXO UM DEDO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=rHVMUx97wNk&list=PLXbMPSiCpNqkDgGzlq6V6p2U9ZRMDsddB
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]OS BARCOS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=VnDWDCcEDsY&list=PLXbMPSiCpNqkDgGzlq6V6p2U9ZRMDsddB&index=2
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]CANGURU[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=DUmuVwimZM8&list=PLXbMPSiCpNqkDgGzlq6V6p2U9ZRMDsddB&index=4
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]ABELHA MAIA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=jDxoYdvUm5M
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]BRILHA BRILHA ESTRELINHA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=u5jw5gIUSog
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]A ARANHA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HJVAgfW8fC0
+
+
+#EXTM3U
+
+####################################################################################################################################
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=yellow][B]//////////////////  DVD´S COMPLETOS  //////////////////[/B][/COLOR][COLOR=white][/COLOR]
+http://0.0.0.0:000000
+####################################################################################################################################
+
+
+
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]CAIXINHA DE SONHOS 1[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=AWmArRps34A&ab_channel=VKids
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]CAIXINHA DE SONHOS 2[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=DuN7TxOfMkI&ab_channel=VKids
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]CAIXINHA DE SONHOS 3[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=9qnCu7obTRE&ab_channel=VKids
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]AS MÚSICAS DA CAROCHINHA 1[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=bWAl_oh431g&ab_channel=VKids
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]AS MÚSICAS DA CAROCHINHA 2[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=X0tvAnxf7GU&ab_channel=VKids
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]AS MÚSICAS DA CAROCHINHA 3[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=oFRxgVyOuRQ&ab_channel=VKids
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]OS PATINHOS - AS CANÇÕES DA NOSSA ESCOLA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HfJNWtXVsbA&ab_channel=VKids
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]PINTAINHO AMARELINHO 1[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TUtRv5T5WG0&list=PL7fbHLFM41Kcz792AK-nYEaSWBQf4IFPD&ab_channel=VKids
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]SUCESSOS DA MINHA ESCOLA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=2usLXBJqQgY&ab_channel=VKids
+
+#EXTINF:-1 tvg-logo="",
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+
+
