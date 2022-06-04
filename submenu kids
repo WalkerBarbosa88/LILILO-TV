@@ -32,7 +32,7 @@
 
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold]MÚSICAS INFANTIS E DVD´S[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]MÚSICAS INFANTIS[/COLOR][/B]</name>
 <thumbnail>https://ia803103.us.archive.org/26/items/musicas-infantis-2/M%C3%BAsicas%20Infantis%202.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/WalkerBarbosa88/LILILO-TV/main/kids%20-%20M%C3%BAsicas%20e%20DVD</externallink>
 <fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
@@ -41,7 +41,7 @@
 
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold]HISTÓRIAS INFANTIS[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]CONTOS INFANTIS[/COLOR][/B]</name>
 <thumbnail>https://ia801805.us.archive.org/13/items/contos-infantis/Contos%20Infantis.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/WalkerBarbosa88/LILILO-TV/main/kids%20-%20Hist%C3%B3rias%20Infantis</externallink>
 <fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
@@ -76,6 +76,8 @@
 <fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
 <info></info>
 </channel>
+ 
+ 
  
   
 </channels>
