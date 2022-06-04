@@ -5,6 +5,8 @@ http://0.0.0.0:0000
 ####################################################################################################################################
  
 #EXTM3U
+#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: BREVEMENTE[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTM3U
  
 #EXTINF:-1 tvg-logo="",[COLOR=white][B]A HISTÓRIA DA CAROCHINHA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=5j4PXwNw2Hw&ab_channel=VKids
