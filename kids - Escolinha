@@ -1,0 +1,33 @@
+####################################################################################################################################
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////// ESPAÇO ESCOLINHA //////////////[/B][/COLOR][COLOR=greenyelow][/COLOR]
+http://0.0.0.0:0000
+####################################################################################################################################
+ 
+#EXTM3U
+ 
+#EXTINF:-1,[COLOR=white][B]A CANÇÃO DE CONTAR, CONHEÇA OS NÚMEROS DE 1 A 10[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TQehi_5QplQ&ab_channel=BabyTVPortuguês
+
+#EXTINF:-1,[COLOR=white][B]APRENDER A CONTAR, OS NÚMEROS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=KdonrWdO7z8&ab_channel=Escoladospequeninos
+
+#EXTINF:-1,[COLOR=white][B]OS NÚMEROS DA MARIA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4dvvoVsu-HQ&list=PL0K38ed9YB_-H6-9ESTxjth3S1vWLjhgJ&ab_channel=AsCançõesdaMaria
+
+#EXTINF:-1,[COLOR=white][B]7 DIAS, 7 NOTAS E 7 CORES[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=JSHAlLXQgZ4&ab_channel=AsCançõesdaMaria
+
+#EXTINF:-1,[COLOR=white][B]APRENDER O NOME DOS FRUTOS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ZOGV6EwTozE&ab_channel=Escoladospequeninos
+
+#EXTINF:-1,[COLOR=white][B]APRENDER O ALFABETO COM IMAGENS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Ac76xKUwUoA&ab_channel=AnaCosta
+
+#EXTINF:-1,[COLOR=white][B]APRENDER OS ANIMAIS COM SONS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=EGIdH8sjVWk&ab_channel=dicas
+
+#EXTINF:-1,[COLOR=white][B]PRIMEIRA PALAVRAS - ALIMENTOS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=wSWH1sa1nWk&ab_channel=Videosinfantis
+
+#EXTINF:-1,
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
