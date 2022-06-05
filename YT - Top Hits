@@ -1,0 +1,644 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>[COLOR yellow]|||||[/COLOR][COLOR deeppink]|||||[/COLOR][COLOR orangered]|||||[/COLOR] [COLOR white] TOP HITS 2020-2023 [/COLOR] [COLOR orangered]||||||[/COLOR][COLOR deeppink]||||||[/COLOR][COLOR yellow]||||||[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
+<info>
+</channel>
+</channels>
+
+
+#######################################################################################################################################
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////////////////  TOP HITS 2022 / 2023  //////////////[/B][/COLOR]
+http://0.0.0.0:0000
+#######################################################################################################################################
+ 
+#EXTINF:-1,[COLOR=yellow][B]VIDEOS OFICIAIS - LISTA ATUALIZADA: 04/06/2022[/B][/COLOR][COLOR=yellow][/COLOR]
+ 
+#EXTM3U
+
+#EXTINF:-1,[COLOR=white][B]DIPLO & MIGUEL - DON'T FORGET MY LOVE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=KLu7QyEpdBM
+
+#EXTINF:-1,[COLOR=white][B]CALEMA & ZÉ FILIPE - ONDE ANDA?[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zKYqM2ADpz8
+
+#EXTINF:-1,[COLOR=white][B]MATIAS DAMÁSIO - COMO ANTES[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=-h_5VnvE2SE
+
+#EXTINF:-1,[COLOR=white][B]CAMILA CABELLO - PSYCHOFREAK[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=KXDjVHgeZ3A&ab_channel=CamilaCabelloVEVO
+
+#EXTINF:-1,[COLOR=white][B]KHALID - SKYLINE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Z-0tTi7GaPg&list=RDCLAK5uy_lqNm3KZ4SvTuiGHhnvuep0z2CwMS0OyL4&index=3
+
+#EXTINF:-1,[COLOR=white][B]SAM SMITH - LOVE ME MORE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=H1hDzq98WIY&list=RDCLAK5uy_lqNm3KZ4SvTuiGHhnvuep0z2CwMS0OyL4&index=6
+
+#EXTINF:-1,[COLOR=white][B]FRENCH MONTANA - MOPSTICK[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=1nLnR8yK_BA&list=RDCLAK5uy_lqNm3KZ4SvTuiGHhnvuep0z2CwMS0OyL4&index=12&ab_channel=FrenchMontanaVEVO
+
+#EXTINF:-1,[COLOR=white][B]NATHAN DAWE FT. ELLA HENDERSON - 21 REASONS (LYRIC)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TfbK_sCRapM&list=RDCLAK5uy_lqNm3KZ4SvTuiGHhnvuep0z2CwMS0OyL4&index=34&ab_channel=NathanDawe
+
+#EXTINF:-1,[COLOR=white][B]DIMITRI VEGAS & LIKE MIKE - SHOOTING DARTS (REMIX)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ct6Hs-UpzuU
+
+#EXTINF:-1,[COLOR=white][B]HARRY STYLES - AS IT WAS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=H5v3kku4y6Q
+
+#EXTINF:-1,[COLOR=white][B]SHAWN MENDES - WHEN YOU´RE GONE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=tp4fUH2E8uc
+
+#EXTINF:-1,[COLOR=white][B]MILEY CYRUS - YOU (LIVE)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ITXMjdYZZJQ
+
+#EXTINF:-1,[COLOR=white][B]JAX JONES CYRUS - WHERE DID YOU GO (REMIX)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XAstmaxyWWg
+
+#EXTINF:-1,[COLOR=white][B]TASTE MCRAE - SHE´S ALL I WANNA BE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=uS_y_65CcpA
+
+#EXTINF:-1,[COLOR=white][B]RAUW ALEJANDRO - TODO DE TI[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CFPLIaMpGrY
+
+#EXTINF:-1,[COLOR=white][B]FARRUKO - PEPAS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=y8trd3gjJt0
+
+#EXTINF:-1,[COLOR=white][B]ED SHEERAN - OVERPASS GRAFFITI[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=k6ZoE4RrcDs
+
+#EXTINF:-1,[COLOR=white][B]BAD BUNNY - TE DESEO LO MEJOR[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=m3xFuFPxOnw
+
+#EXTINF:-1,[COLOR=white][B]AVENTURA FT. BAD BUNNY - VOLVI[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ayd3yWr4tqU&list=PLNiDl4mPNqeU7XAUg-nMiPcSpNnuKWuFT&t=37s
+
+#EXTINF:-1,[COLOR=white][B]TAINY, BAD BUNNY - LO SIENTO BEBE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=NO7EtdR3Dyw&list=PLNiDl4mPNqeU7XAUg-nMiPcSpNnuKWuFT&t=62s
+
+#EXTINF:-1,[COLOR=white][B]GABRY PONTE - CAN´T GET OVER YOU[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=tbVO8d2yRc0
+
+#EXTINF:-1,[COLOR=white][B]REGARD, YEARS & YEARS - HALLUCINATION[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=0rfBL_fCsI4
+
+#EXTINF:-1,[COLOR=white][B]BECKY HILL & GALANTIS - RUN[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Wx3gRx0Fyzk
+
+#EXTINF:-1,[COLOR=white][B]SIGALA - MELODY[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=1SJSfaa4Owo
+
+#EXTINF:-1,[COLOR=white][B]ALESSO, KATY PERRY - WHEN I´M GONE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=N-4YMlihRf4
+
+#EXTINF:-1,[COLOR=white][B]TOPIC, PAUL VAN DYK - IN YOUR ARMS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YbFGbEIxSsg&t=63s
+
+#EXTINF:-1,[COLOR=white][B]THE WEEKND - LESS THAN ZERO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=UKunvvN2iCk
+
+#EXTINF:-1,[COLOR=white][B]AMAARAE - SAD GIRLZ (MONEY)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4sqH6q-xtUM
+
+#EXTINF:-1,[COLOR=white][B]AMAARAE - SAD GIRLZ (REMIX)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=1G1h4TQQOBU
+
+#EXTINF:-1,[COLOR=white][B]PURPLE DISCO MACHINE - IN THE DARK[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ZDrlmlzY7cE
+
+#EXTINF:-1,[COLOR=white][B]JAYMES YOUNG - INFINITY (REMIX)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XxlRBcBJy0w
+
+#EXTINF:-1,[COLOR=white][B]FIREBOY & ED SHEERAN - PERU[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=pekzpzNCNDQ
+
+#EXTINF:-1,[COLOR=white][B]MORY KANTÉ - YEKE YEKE (ORBITAL FM REMIX)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=j-icoe1lZ4c
+
+
+
+#EXTINF:-1,[COLOR=white][B]BELTERS ONLY FT. JAZZY - MAKE ME FEEL GOOD (REMIX)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=2Ym8xMXZsps
+
+#EXTINF:-1,[COLOR=white][B]ANITTA - BOYS DON´T CRY[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=PkzJgGZBFDg&list=PLBAK9YCzW4TasxcThdiD7cKDwmCCVkWkg&index=14
+
+#EXTINF:-1,[COLOR=white][B]ANITTA - BOYS DON´T CRY (AO VIVO)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=6Ejga4kJUts
+
+#EXTINF:-1,[COLOR=white][B]BAD BUNNY FT. J. BALVIN - NO QUIERO PERDERTE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GjHxtNUk_6g
+
+#EXTINF:-1,[COLOR=white][B]BAD BUNNY, MYKE TOWERS AND J. BALVIN - PENSAR EN TI[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=aSYzgfkcGjs
+
+#EXTINF:-1,[COLOR=white][B]THE WEEKND - SACRIFICE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=VafTMsrnSTU&list=RDCLAK5uy_nqRa4MZhGLlzdFysGGDQyuGA43aqJR8FQ&start_radio=1
+
+#EXTINF:-1,[COLOR=white][B]JAYMES YOUNG - INFINITY (AUDIO)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=PWqEPKduGm8
+
+#EXTINF:-1,[COLOR=white][B]JAYMES YOUNG - INFINITY (TRADUÇÃO BR)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=qdKTvuRlSMw
+
+#EXTINF:-1,[COLOR=white][B]S-X - "ALL NIGHT (FT. TRIPPIE REDD)"[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=BzI43UUEznU&list=RDCLAK5uy_lqNm3KZ4SvTuiGHhnvuep0z2CwMS0OyL4&index=20
+
+#EXTINF:-1,[COLOR=white][B]ARMIN VAN BUUREN - THE SOUND OF GOODBYE (REMIX)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=kgGntYa2c9s
+
+#EXTINF:-1,[COLOR=white][B]ARMIN VAN BUUREN - EXPO 2020 BUBAI (LIVE ACT)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=mnjORMUCc-c
+
+#######################################################################################################################################
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////////////////  TOP HITS 2020 / 2021  //////////////[/B][/COLOR]
+http://0.0.0.0:0000
+#######################################################################################################################################
+ 
+#EXTM3U
+#######################################################################################################################################
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=orange][B]///////////////////  SÓ SUCESSOS 2021  //////////////[/B][/COLOR]
+http://0.0.0.0:0000
+#######################################################################################################################################
+ 
+#EXTM3U
+####################################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]TOP MAIS OUVIDAS 2021[/B][/COLOR][COLOR=blue][/COLOR]
+https://00000000000
+
+
+#EXTINF:-1,[COLOR=white][B]TOP BILLBOARD 2021[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=jdp9aBs-n-U&ab_channel=DJSidMashups
+
+
+####################################################################################################################################
+#EXTINF:-1,[COLOR=blue][B]BEST HITS 2021[/B][/COLOR][COLOR=blue][/COLOR]
+https://00000000000
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]ED SHEERAN & ELTON JOHN - MERRY CHRISTMAS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Q_yuO8UNGmY&ab_channel=EdSheeran
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]CHRIS BROWN - YOUR LOVE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Py8F9V3S90U&ab_channel=ChrisBrownStation
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]ED SHEERAN - OVERPASS GRAFITI[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=k6ZoE4RrcDs&list=PLgmcWG8lo_M9A4B96iPMNx-5Ng7zAadzk&index=5&ab_channel=EdSheeran
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]JOEL CORRY - I WISH[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Qhadv8gwTdo&list=PLgmcWG8lo_M9A4B96iPMNx-5Ng7zAadzk&index=14&ab_channel=JoelCorry
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]POST MALONE, THE WEEKND - ONE RIGHT NOW[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Tc0tLGWIqxA&list=PLgmcWG8lo_M9A4B96iPMNx-5Ng7zAadzk&index=15&ab_channel=PostMaloneVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]BRUNO MARS, ANDERSON PAAK, SILK SONIC - SMOKING OUT THE WINDOW[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GG7fLOmlhYg&list=PLgmcWG8lo_M9A4B96iPMNx-5Ng7zAadzk&index=20&ab_channel=BrunoMars
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]JUSTIN BIEBER - GHOST[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Fp8msa5uYsc&list=PLgmcWG8lo_M9A4B96iPMNx-5Ng7zAadzk&index=24&ab_channel=JustinBieberVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]DJ TIESTO & AVA MAX - THE MOTTO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=1_4ELAxKrDc&list=PLgmcWG8lo_M9A4B96iPMNx-5Ng7zAadzk&index=44&ab_channel=Ti%C3%ABsto
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]KODIE SHANE FT. RICK ROSS - "FACETIME"[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=WTYWMscqqlk&list=PLgmcWG8lo_M9A4B96iPMNx-5Ng7zAadzk&index=49&ab_channel=KodieShane
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]RAUW ALEJANDRO - TODO DE TI[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CFPLIaMpGrY&ab_channel=RauwAlejandroTv
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]DRAKE - WHAT´S NEXT[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=7EUVJaKJtBY&ab_channel=DrakeVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]TATE MCRAE - YOU BROKE ME FIRST[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=AG-erEMhumc&ab_channel=TateMcRaeVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]GIVEON - HEARTBREAK ANNIVERSARY[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=uWRlisQu4fo&ab_channel=GiveonVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]MEDUZA - TELL IT TO MY HEART[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=MLX6_d3-1qM&ab_channel=MeduzaVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]SWEDISH HOUSE MAFIA AND THE WEEKND - MOTH TO A FLAME[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=u9n7Cw-4_HQ&ab_channel=TheWeekndVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]THE KID LAROI, MILEY CYRUS - WITHOUT YOU[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=LvB4GUTWDcI&ab_channel=MileyCyrusVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]KYGO - LOVE ME NOW FT. ZOE WEES[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=rfxnmIPCzIc&ab_channel=KygoOfficialVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]ALESSO & MARSHEMELLO - CHASING STARS FT. JAMES BAY[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Hj_AVuNHPTY&ab_channel=Alesso
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]KSI x LIL WAYNE - LOSE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=r5inVONkOKQ&ab_channel=KSI
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]GIVEON - FOR TONIGHT[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=JRoam571b58&ab_channel=GiveonVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]ELTON JOHN & DUA LIPA - COLD HEART (REMIX)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=qod03PVTLqk&list=RDCLAK5uy_nqRa4MZhGLlzdFysGGDQyuGA43aqJR8FQ&start_radio=1&ab_channel=EltonJohnVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]TAINY, BAD BUNNY, JULIETA VENEGAS - LO SIENTO BB[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=NO7EtdR3Dyw&ab_channel=TainyVEVO
+ 
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]ED SHEERAN - SHIVERS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Il0S8BoucSA&list=RDCLAK5uy_nqRa4MZhGLlzdFysGGDQyuGA43aqJR8FQ&index=4&ab_channel=EdSheeran
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]COLDPLAY FT. BTS - MY UNIVERSE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3YqPKLZF_WU&list=RDCLAK5uy_nqRa4MZhGLlzdFysGGDQyuGA43aqJR8FQ&index=4&ab_channel=Coldplay
+ 
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]ADELE - EASY ON ME[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=U3ASj1L6_sY&ab_channel=AdeleVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]KYLIE MINOGUE AND YEARS & YEARS - A SECOND TO MIDNIGHT[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=NvESV234lg0&list=RDCLAK5uy_lqkZ7XVUPH7IZbFwDY6zkjEM6nSCiov0E&index=2&ab_channel=KylieMinogue
+ 
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]YEARS & YEARS - CRAVE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=f909kJkBhQA&list=RDCLAK5uy_lqkZ7XVUPH7IZbFwDY6zkjEM6nSCiov0E&index=6&ab_channel=YearsAndYearsVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]KSI – HOLIDAY[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=gfHbg53ykPY&list=OLAK5uy_nLhloy_UoSKZVOwWt-VZGkmfRv2x75WN4&ab_channel=KSI
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]SHAKIRA - DON´T WAIT UP[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=mr7ZfX1E55g&ab_channel=shakiraVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]KUNGS - NEVER GOING HOME[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=QH2a6V-W87U&ab_channel=KungsVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]SHAWN MENDES E TAINY - SUMMER OF LOVE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=v9lZ2MEx8oU&ab_channel=ShawnMendesVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]JASON DERULO - ACAPULCO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=dx3wZfHF4c4&ab_channel=JasonDerulo
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]BRUNO MARS, ANDERSON E SILK SONIC - SKATE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CEw-7cMnBDY&ab_channel=BrunoMars
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]DJ TIESTO & KAROL G - DON´T BE SHY[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=taSubkjZUA4&ab_channel=Ti%C3%ABsto
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]GIVEON - FOR TONIGHT[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=JRoam571b58&ab_channel=GiveonVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]CLEAN BANDIT & TOPIC - DRIVE ALL NIGHT[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zrB8wB49z7c&ab_channel=CleanBandit
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]BECKY HILL, DAVID GUETTA - REMEMBER[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=NhCxrUEW3PM&ab_channel=BeckyHillVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]SIGALA, RITA ORA - YOU FOR ME[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=drzHwf4X_b0&ab_channel=SigalaVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]THE WEEKND - TAKE MY BREATH[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=rhTl_OyehF8&ab_channel=TheWeekndVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]JAMES ARTUR - SEPTEMBER[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=uJViyj5z6aY&ab_channel=JamesAVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]DAVID GUETTA FT. MISTAJAM AND JOHN NEWMAN - IF YOU REALLY LOVE ME[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=2aJfC8JR2No&ab_channel=DavidGuetta
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]ONEREPUBLIC - RUN[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TKkcsmvYTw4&ab_channel=OneRepublicVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]MARSHELLO x JONAS BROTHERS - LEAVE BEFORE YOU LOVE ME[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=hmUyEDG7Jy0&ab_channel=MarshmelloVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]SHAKIRA - DON´T WAIT U[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=mr7ZfX1E55g&ab_channel=shakiraVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]BAD BUNNY - YONAGUNI[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=doLMt10ytHY&ab_channel=BadBunny
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]LIL NAS X - SUN GOES DOWN[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=U3BVFY9wnTw&ab_channel=LilNasXVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]POP SMOKE - DEMEANOR FT DUA LIPA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=UBjTdLGV8L0&ab_channel=POPSMOKEVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]CALVIN HARRIS FT TOM GRENNAN - BY YOUR SIDE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4hu5iCqQVcM&ab_channel=CalvinHarrisVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]KALI UCHIS – TELEPATIA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=bn_p95HbHoQ&ab_channel=KALIUCHIS
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]OLIVIA RODRIGO - DRIVER´S LICENSE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ZmDBbnmKpqQ&ab_channel=OliviaRodrigoVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]BILLIE EILISH - YOUR POWER[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=fzeWc3zh01g&ab_channel=BillieEilishVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]POST MALONE - MOTLEY CREW[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=lCiV4wACZ8w&ab_channel=PostMaloneVEVO
+ 
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]THE KID LAROI FT JUSTIN BIEBER - STAY[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=kTJczUoc26U&ab_channel=TheKidLAROIVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]OLIVIA RODRIGO - DEJA VU[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=cii6ruuycQA&ab_channel=OliviaRodrigoVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]ED SHEERAN - BAD HABITS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=orJSJGHjBLI&ab_channel=EdSheeran
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]MAREA (WE'VE LOST DANCING)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=yMJswjcD8Fg&ab_channel=Fredagain..Fredagain..Canaloficialdeartista
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]MARTIN GARRIX FT. BONO & THE EDGE - WE ARE THE PEOPLE (EURO 2020 SONG)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=kGT73GcwhCU&ab_channel=MartinGarrix
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]KATY PERRY - ELECTRIC[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ojpTpT5i-PI&list=RDCLAK5uy_lqkZ7XVUPH7IZbFwDY6zkjEM6nSCiov0E&index=17&ab_channel=KatyPerryVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]A7S - NIRVANA [/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TmImXpWbaGc&ab_channel=Spinnin%27Records
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]REGARD, TROVE SIVAN, TATE MCRAE - YOU[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=on_IPWtYdc0&ab_channel=RegardVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]YEARS & YEARS - STARSTRUCK[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YGfaYTIYh40&ab_channel=YearsAndYearsVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]GALANTIS, DAVID GUETTA & LITTLE MIX - HEARTBREAK ANTHEM[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HIv3ClkEhrA&ab_channel=Galantis
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]AFROJACK & DAVID GUETTA - HERO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=cZSoOQ-7Cuc&ab_channel=Afrojack
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]NAVOS - BELIEVE ME[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=sOaxnRClzPw&ab_channel=NavosVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]TOPIC, A7S - WHY DO YOU LIE TO ME[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=SvKwxsnRiXk&ab_channel=TopicMusicVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]JUSTIN BIEBER - PEACHES FT. DANIEL CAESAR, GIVEON[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=tQ0yjYUFKAE&ab_channel=JustinBieberJustinBieberCanaloficialdeartista
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]BRUNO MARS, ANDERSON PAAK, SILK SONIC - LEAVE THE DOOR OPEN[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=adLGHcj_fmA&ab_channel=BrunoMars
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]COLDPLAY - HIGHER POWER[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=gXgf5smLEgQ&ab_channel=Coldplay
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]COLDPLAY - HIGHER POWER[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3lfnR7OhZY8&ab_channel=Coldplay
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]MAROON 5 - BEAUTIFUL MISTAKES FT. MEGAN THEE STALLION[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=BSzSn-PRdtI&ab_channel=Maroon5Maroon5Canaloficialdeartista
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]DJ TIESTO - THE BUSINESS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=nCg3ufihKyU&ab_channel=Ti%C3%ABsto
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]ALOK FT. ALIDA - LOVE AGAIN[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=m9qSjxDefus&ab_channel=Alok
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]ANITTA - GIRLS FROM RIO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CuyTC8FLICY&ab_channel=Anitta
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]ATB, TOPIC, A7S - YOUR LOVE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=9hbu9toStfc&ab_channel=ATBVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]DIGITAL FARM ANIMALS FT. HARLEE - LAST NIGHT[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=R3wfaH_PSuU&ab_channel=DigiFarmAnimalsVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]DJ KHALED - I DID IT[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=l-dBqCtQu6U&ab_channel=DJKhaledVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]DJ KHALED - LET IT GO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=QRZJNqoJQFY&ab_channel=DJKhaledVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]DOJA CAT FT. SZA - KISS ME MORE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=0EVVKs6DQLo&ab_channel=dojacatVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]JENNIFER LOPEZ FT. FLO RIDA - SWEET SPOT[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=pua5w7CEwhg&ab_channel=JenniferLopez
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]JAMES ARTHUR - MEDICINE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=kvVyKycCE4I&ab_channel=JamesAVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]RITON X  NIGHTCRAWLERS - FRIDAY[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=U6n2NcJ7rLc&ab_channel=RitonTimeVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]STEVE AOKI & YVES V - COMPLICATED[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ywGzcsNz31g&ab_channel=SteveAoki
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]ZOE WEES - GIRLS LIKE US[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ao4giEvkV0U&ab_channel=ZoeWeesVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]KSI – REALLY LOVE (FEAT. CRAIG DAVID & DIGITAL FARM ANIMALS)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=e1lFNMo5qcQ&ab_channel=KSI
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]JASON DERULO FT. NUKA - LOVE NOT WAR[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=fZMRc-UyPm0&ab_channel=JasonDerulo
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]JUSTIN BIEBER - ANYONE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=KIK3azN4w34&list=RDCLAK5uy_nqRa4MZhGLlzdFysGGDQyuGA43aqJR8FQ&index=6&ab_channel=JustinBieberVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]TAYLOR SWIFT - WILLOW[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=RsEZmictANA&list=RDCLAK5uy_nqRa4MZhGLlzdFysGGDQyuGA43aqJR8FQ&index=10&ab_channel=TaylorSwiftVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]ED SHEERAN - AFTERGLOW[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=_NGQfFCFUn4&list=PL_adZhO9fB0sG6jwA3ueW1zxz5pMxi5H-&index=5&ab_channel=EdSheeran
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]HARRY STYLES - GOLDEN[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=P3cffdsEXXw&list=PL_adZhO9fB0sG6jwA3ueW1zxz5pMxi5H-&index=9&ab_channel=HarryStylesVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]G-EAZY - PROVIDE FT. CHRIS BROWN, MARK MORRISON[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=kmMOASvXa9U&ab_channel=GEazyMusicVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]THE WEEKND - SAVE YOUR TEARS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XXYlFuWEuKI&ab_channel=TheWeekndVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]ROBIN SCHULZ FT. KIDDO - ALL WE GOT[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=lznH7FZBBYs&ab_channel=RobinSchulz
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]SIA AND DAVID GUETTA - FLOATING THROUGH SPACE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=7Xfwu8NH1iI&ab_channel=Sia
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]DJ TIESTO - THE BUSINESS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=nCg3ufihKyU&ab_channel=Tiësto
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]JASON DERULO - LIFESTYLE (FT. ADAM LEVINE)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=gTOYhxubOmk&list=PLV9Y77TQ4I9f7Lb8qWTMu86OuGjuK6xaD&index=8&ab_channel=JasonDerulo
+
+#######################################################################################################################################
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=orange][B]///////////////////  SÓ SUCESSOS 2020  //////////////[/B][/COLOR]
+http://0.0.0.0:0000
+#######################################################################################################################################
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]TOP HITS 2020 - AS 40 MAIS TOCADAS DO ANO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zLB0vicG38I
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]BLACK EYES PEAS AND SHAKIRA - GIRL LIKE ME[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=vMLk_T0PPbk&ab_channel=BlackEyedPeasVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]CHRIS BROWN, YOUNG THUG - CITY GIRLS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=_Gcaa7rGKr8&ab_channel=ChrisBrownVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]PURPLE DISCO MACHINE, SOPHIE AND THE GIANTS - HYPNOTIZED[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=UbYQErtM9Zk&ab_channel=pdmVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]MEDUZA - PARADISE FT. DERMOT KENNEDY[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=e7HBypw4lhY&ab_channel=MeduzaVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]DAVID GUETTA & SIA - LET´S LOVE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=efCUMvwo6Tk&ab_channel=DavidGuetta
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]TONES AND I - FLY AWAY (OFFICIAL VIDEO)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=R0vu5QfsD5E&ab_channel=TonesAndI
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]ARMIN VAN BUUREN FT. JAKE REESE - NEED YOU NOW[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zW_Q9ACQW4U&ab_channel=ArmadaMusic
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]DUA LIPA - LEVITATING FT DABABY[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TUVcZfQe-Kw&list=PL3-sRm8xAzY999ARkg8XztLMO-IikrsQw&ab_channel=DuaLipa
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]SHAWN MENDES, WONDER[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=fHeQemJJQII&list=PL3-sRm8xAzY999ARkg8XztLMO-IikrsQw&index=15&ab_channel=ShawnMendesVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]J. BALVIN, DUA LIPA, BAD BUNNY, TAINY - UN DIA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=BjhW3vBA1QU&ab_channel=jbalvinVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]ZOE WEES - CONTROL[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=UrGS_6_HglU&ab_channel=ZoeWees
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]ARIANA GRANDE - POSITIONS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=tcYodQoapMg&ab_channel=ArianaGrandeVevo
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]MALUMA - HAWAI[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=pK060iUFWXg&ab_channel=MalumaVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]BAD BUNNY & JHAY CORTEZ - DAKITI[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TmKh7lAwnBI&list=PLFgquLnL59akA2PflFpeQG9L01VFg90wS&index=9&ab_channel=BadBunny
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]MILEY CYRUS - MIDNIGHT SKY[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=aS1no1myeTM&ab_channel=MileyCyrusVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]WE ARE GOLD - COCONUT WATER[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=dVAJ9EO_7DE&ab_channel=WeAreGoldVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]CALVIN HARRIS, THE WEEKND - OVER NOW[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=quFlP3cRCFs&ab_channel=CalvinHarrisVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]JUSTIN BIEBER - HOLY FT. CHANCE THE RAPPER[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=pvPsJFRGleA&ab_channel=JustinBieberVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]DRAKE - LAUGH NOW, CRY LATER[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=JFm7YDVlqnI&ab_channel=DrakeVEVO
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]MARSMELLO & HALSEY - BE KIND[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ePao0cTGG-o
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]SURF MESA - ILY (I LOVE YOU BABY) FT.EMILEE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=89degLrNZM8
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]TONES AND I - NEVER SEEN THE RAIN[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=UdRJY-jlEhQ
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]REGARD, RAYE - SECRETS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=nPLN5HXsq04
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]HARRY STYLES - WATERMELON SUGAR[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=E07s5ZYygMg
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]KATY PERRY - NEVER WORN WHITE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=UyKgYMQ-AlQ
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]AVA MAX - KINGS & QUEENS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=jH1RNk8954Q
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]ARIANA GRANDE & JUSTIN BIEBER - STUCK WITH U[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=pE49WK-oNjU
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]BLACK EYED PEAS, OZUNA, J. REY SOUL - MAMACITA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4bP8wbt4SeA
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]DEMI LOVATO - I LOVE ME[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=vImvzQCb0o8
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]RITA ORA - HOW TO BE LONELY[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=FS07b8EUlCs
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]SZA, JUSTIN TIMBERLAKE - THE OTHER SIDE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=C5RrNaCfUXE
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]DOJA CAT - SAY SO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=pok8H_KF1FA
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]DUA LIPA - PHYSICAL[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=9HDEHj2yzew&list=PLlBnr9YGj2OqQ3h90sC3IiBAU7zJhHgDz&index=27
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]TONES AND I - NEVER SEEN THE RAIN[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=UdRJY-jlEhQ
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]TONES AND I - DANCE MONKEY[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=q0hyYWKXF0Q
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]THE WEEKND - BLINDING LIGHTS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4NRXx6U8ABQ
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]HARRY STYLES - ADORE YOU[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=VF-r5TtlT9w
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]HARRY STYLES - FALLING[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=olGSAVOkkTI
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]LADY GAGA - STUPID LOVE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=5L6xyaeiV58&list=PLPQsMfVniUSoKIvSuQhaSD8XM56tk9Xar
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]LADY GAGA - RAIN ON ME[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=AoAm4om0wTs
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]TOPIC FT. A7S - BREAKING ME[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=jIoEaTN7GGo
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]BENEE - SUPALONELY FT. GUS DAPPERTON[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Rb6Scz-5YOs
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]POWFU - DEATH BED (COFFEE FOR YOUR HEAD)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=jJPMnTXl63E
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]ALICIA KEYS - UNDERDOG[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=izyZLKIWGiA
+
+#EXTINF-1 tvg-logo="",[COLOR=white][B]ALESSIA CARA, I CHOOSE (BS: WILLOUGHBYS)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=OCUe3dN64as
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]SAINT JOHN - ROSES - IMANBEK REMIX[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=jOMHWVv0xX4
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]DRAKE - TOOSIE SLIDE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=xWggTb45brM
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]JUSTIN BIEBER - INTENTIONS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3AyMjyHu1bA
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]ROD WAVE - HEART ON ICE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=deMLg4FPFhQ
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]KYGO, ZARA LARSSON, TYGA - LLIKE IT IS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TOamHghGCfg
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]ED SHEERAN - BEAUTIFUL PEOPLE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=mj0XInqZMHY
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]REGARD - RIDE IT[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ucVUEmjKsko
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]KATY PERRY - DAISIES[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=NutHKRKBgR0&list=PLlBnr9YGj2OqQ3h90sC3IiBAU7zJhHgDz&index=4
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]DOJA CAT - SAY SO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=pok8H_KF1FA&list=PLlBnr9YGj2OqQ3h90sC3IiBAU7zJhHgDz&index=8
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]DUA LIPA - BREAK MY HEART[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Nj2U6rhnucI&list=PLlBnr9YGj2OqQ3h90sC3IiBAU7zJhHgDz&index=13
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]JOJO - COMEBACK FT. TORY LANEZ & 30 ROC[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=6ptc4wBo1uY&list=PLlBnr9YGj2OqQ3h90sC3IiBAU7zJhHgDz&index=17
