@@ -1,9 +1,15 @@
 
 #######################################################################################################################################
-#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////////////////  TOP HITS 2022 / 2023  //////////////[/B][/COLOR]
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////////////////  TOP HITS 2020 / 2023  //////////////[/B][/COLOR]
 http://0.0.0.0:0000
 #######################################################################################################################################
  
+ 
+#######################################################################################################################################
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=orange][B]///////////////////  TOP HITS 2022  //////////////[/B][/COLOR]
+http://0.0.0.0:0000
+#######################################################################################################################################
+
 #EXTINF:-1,[COLOR=yellow][B]VIDEOS OFICIAIS - LISTA ATUALIZADA: 04/06/2022[/B][/COLOR][COLOR=yellow][/COLOR]
  
 #EXTM3U
@@ -106,8 +112,6 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=pekzpz
 
 #EXTINF:-1,[COLOR=white][B]MORY KANTÉ - YEKE YEKE (ORBITAL FM REMIX)[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=j-icoe1lZ4c
-
-
 
 #EXTINF:-1,[COLOR=white][B]BELTERS ONLY FT. JAZZY - MAKE ME FEEL GOOD (REMIX)[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=2Ym8xMXZsps
