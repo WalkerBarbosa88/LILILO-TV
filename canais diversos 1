@@ -176,41 +176,6 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1,[COLOR=white][B]NASA ISS VIEWS LIVE[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=86YLFOog4GM
 
-##########################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS ADULT SWIM TV  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://000000
-
-
-#EXTINF:-1,[COLOR=white][B]ADULT SWIM TV[/B][/COLOR][COLOR=white][/COLOR]
-https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_7.m3u8
-#EXTINF:-1,[COLOR=white][B]ADULT SWIM DREAM CORP. TV[/B][/COLOR][COLOR=white][/COLOR]
-https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
-
-#EXTINF:-1 tvg-id="as_rickandmorty" tvg-logo="https://media.cdn.adultswim.com/uploads/20210914/219141616186-1910281358343-RAM.jpg" group-title="🤎[adult swim]",[COLOR=white][B]RICK AND MORTY[/B][/COLOR][COLOR=white][/COLOR]
-https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-#EXTINF:-1 tvg-id="as_lsotl" tvg-logo="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155293333720514.jpg" group-title="🤎[adult swim]",[COLOR=white][B]LAST STREAM ON THE LEFT[/B][/COLOR][COLOR=white][/COLOR]
-https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream.m3u8
-#EXTINF:-1 tvg-id="as_otasmalls" tvg-logo="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15130053723479.jpg" group-title="🤎[adult swim]",[COLOR=white][B]OFF THE AIR / SMALLS[/B][/COLOR][COLOR=white][/COLOR]
-https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
-#EXTINF:-1 tvg-id="as_metalocalypse" tvg-logo="https://media.cdn.adultswim.com/uploads/20200430/204301254477-metasite.jpg" group-title="🤎[adult swim]",[COLOR=white][B]METALOCAPYPSE[/B][/COLOR][COLOR=white][/COLOR]
-https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
-#EXTINF:-1 tvg-id="as_robotchicken" tvg-logo="https://i.cdn.turner.com/adultswim/big/video/robot-chicken-marathon/marathonStream_robotchicken5.jpg" group-title="🤎[adult swim]",[COLOR=white][B]ROBOT CHICKEN[/B][/COLOR][COLOR=white][/COLOR]
-https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8 
-#EXTINF:-1 tvg-id="as_samuraijack" tvg-logo="https://i.cdn.turner.com/adultswim/big/video/samurai-jack/sjMarathonchannlel_maraThumbS05finale1080.jpg" group-title="🤎[adult swim]",[COLOR=white][B]SAMURAI JACK[/B][/COLOR][COLOR=white][/COLOR]
-https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
-#EXTINF:-1 tvg-id="as_athf" tvg-logo="https://i.cdn.turner.com/adultswim/big/video/aqua-teen-hunger-force-marathon/marathonStream_athf10.jpg" group-title="🤎[adult swim]",[COLOR=white][B]AQUA TEEN HUNGER FORCE[/B][/COLOR][COLOR=white][/COLOR]
-https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
-#EXTINF:-1 tvg-id="as_theericandreshow" tvg-logo="https://i.cdn.turner.com/adultswim/big/img/2018/03/28/eamarathon.jpg" group-title="🤎[adult swim]",[COLOR=white][B]THE ERIC ANDRE SHOW[/B][/COLOR][COLOR=white][/COLOR]
-https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
-#EXTINF:-1 tvg-id="as_theventurebros" tvg-logo="https://i.cdn.turner.com/adultswim/big/img/2019/03/26/vbSearch.jpg" group-title="🤎[adult swim]",[COLOR=white][B]THE VENTURE BROS.[/B][/COLOR][COLOR=white][/COLOR]
-https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
-#EXTINF:-1 tvg-id="as_channel5" tvg-logo="https://media.cdn.adultswim.com/uploads/20190710/197101518217-channel5thumb.jpg" group-title="🤎[adult swim]",[COLOR=white][B]CHANNEL 5[/B][/COLOR][COLOR=white][/COLOR]
-https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8
-#EXTINF:-1 tvg-id="as_infomercials" tvg-logo="https://media.cdn.adultswim.com/uploads/20200325/thumbnails/2_203251736258-marathonStream_infomercials.jpg" group-title="🤎[adult swim]",[COLOR=white][B]INFOMERCIALS[/B][/COLOR][COLOR=white][/COLOR]
-https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream.m3u8
-#EXTINF:-1 tvg-id="as_blackjesus" tvg-logo="https://i.cdn.turner.com/adultswim/big/video/black-jesus-marathon/marathonStream_blackjesus.jpg" group-title="🤎[adult swim]",[COLOR=white][B]BLACK JESUS[/B][/COLOR][COLOR=white][/COLOR]
-https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
-
 
 ##########################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DIVERSOS CONTEÚDOS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
