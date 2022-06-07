@@ -11,6 +11,7 @@ http://0.0.0.0:0000
 #EXTM3U
 
 #EXTINF:-1,[COLOR=yellow][B]///////// NACIONAIS /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/163
 #EXTINF:0 tvg-id="rtp1.pt" group-title="Channels",PT: RTP 1 HD
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/128
@@ -71,42 +72,7 @@ http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/192
 
 #EXTINF:-1,[COLOR=yellow][B]///////// DESPORTO /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",PT: SPORT TV + HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/531
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Sport TV+
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/234
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",PT: SPORT TV + HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/531
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV+
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/234
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV NBA
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/77
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1 HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/108
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2 HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/102
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3 HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/132
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4 HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/86
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT: SPORT TV 5 HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/78
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 6 HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/738
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",PT: BTV 1 HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/103
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 1
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/545
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 2
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/89
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 3
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/150
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 4
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/66
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 5
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/139
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 6
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/96
+
 #EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",PT: SPORTING TV
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/526
 #EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",PT: SPORTING TV HD
@@ -138,16 +104,7 @@ http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/59
 
 #EXTINF:-1,[COLOR=yellow][B]///////// CINEMA E SÉRIES TV /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE Top HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/72
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE Edition HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/124
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE Emotion HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/116
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE Action HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/62
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: NOS STUDIOS HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/529
+
 #EXTINF:0 tvg-id="hollywood.pt" group-title="Channels",PT: Hollywood HD
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/182
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT:Cinemundo HD
@@ -186,6 +143,7 @@ http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/552
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/549
 
 #EXTINF:-1,[COLOR=yellow][B]///////// INFANTIL /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+
 
 #EXTINF:0 tvg-id="DisneyJunior.pt" group-title="Channels",PT: Disney Junior
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/535
@@ -302,22 +260,22 @@ http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/649
 
 #EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ALMALUSA HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALMALUSA HD
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/688
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TRACE TOCA
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRACE TOCA
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/87
-#EXTINF:0 tvg-id="TraceTVUrban.pt" group-title="Channels",PT: TRACE URBAN
+#EXTINF:0 tvg-id="TraceTVUrban.pt" group-title="Channels",TRACE URBAN
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/110
-#EXTINF:0 tvg-id="AfroMusic.pt" group-title="Channels",PT: AFRO MUSIC
+#EXTINF:0 tvg-id="AfroMusic.pt" group-title="Channels",AFRO MUSIC
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/75
-#EXTINF:0 tvg-id="vh1.pt" group-title="Channels",PT: VH1
+#EXTINF:0 tvg-id="vh1.pt" group-title="Channels",VH1
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/123
-#EXTINF:0 tvg-id="mezzo.pt" group-title="Channels",PT: MEZZO
+#EXTINF:0 tvg-id="mezzo.pt" group-title="Channels",MEZZO
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/144
-#EXTINF:0 tvg-id="MCMPop.pt" group-title="Channels",PT: MCM POP
+#EXTINF:0 tvg-id="MCMPop.pt" group-title="Channels",MCM POP
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/239
-#EXTINF:0 tvg-id="mcmtop.pt" group-title="Channels",PT: MCM TOP
+#EXTINF:0 tvg-id="mcmtop.pt" group-title="Channels",MCM TOP
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/651
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT. MTV
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/357
 
