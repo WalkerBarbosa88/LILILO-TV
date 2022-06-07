@@ -6,10 +6,337 @@ http://0.0.0.0:0000
  FONTE DE INFORMAÇÃO - LISTA 1: https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2022/master/CanaisB5.m3u8 
  
             
-#EXTINF:-1,[COLOR=orange][B]LISTA DEPORTUGAL EM BREVE[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA DE PORTUGAL ADICIONADA: 07/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
 
-#EXTINF:-1,NÃO DISPONÍVEL
-http://0000000000000000
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",<<<<<< NACIONAIS >>>>>>
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/163
+#EXTINF:0 tvg-id="rtp1.pt" group-title="Channels",PT: RTP 1 HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/128
+#EXTINF:0 tvg-id="rtp2.pt" group-title="Channels",PT: RTP 2 HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/558
+#EXTINF:0 tvg-id="sic.pt" group-title="Channels",PT: SIC HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/173
+#EXTINF:0 tvg-id="TVI.pt" group-title="Channels",PT: TVI HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/174
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CNN Portugal
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/85
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CNN Portugal HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/601
+#EXTINF:0 tvg-id="RTP3.pt" group-title="Channels",PT: RTP 3
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/528
+#EXTINF:0 tvg-id="RTP3.pt" group-title="Channels",PT: RTP 3 HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/647
+#EXTINF:0 tvg-id="sicnoticias.pt" group-title="Channels",PT: SIC Noticias
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/155
+#EXTINF:0 tvg-id="sicnoticias.pt" group-title="Channels",PT: SIC NOTICIAS HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/530
+#EXTINF:0 tvg-id="CMTV.pt" group-title="Channels",PT: CMTV
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/104
+#EXTINF:0 tvg-id="CMTV.pt" group-title="Channels",PT: CMTV HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/175
+#EXTINF:0 tvg-id="RTPi.pt" group-title="Channels",PT: RTP Int.
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/706
+#EXTINF:0 tvg-id="RTPMadeira.pt" group-title="Channels",PT: RTP Madeira
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/119
+#EXTINF:0 tvg-id="RTPAcores.pt" group-title="Channels",PT: RTP Açores
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/114
+#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Channels",PT: RTP Africa
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/147
+#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Channels",PT: RTP Memoria
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/235
+#EXTINF:0 tvg-id="sicradical.pt" group-title="Channels",PT: SIC Radical
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/93
+#EXTINF:0 tvg-id="sicradical.pt" group-title="Channels",PT: SIC Radical HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/646
+#EXTINF:0 tvg-id="SicCaras.pt" group-title="Channels",PT: SIC Caras
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/80
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SIC Caras HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/517
+#EXTINF:0 tvg-id="sicmulher.pt" group-title="Channels",PT: SIC Mulher
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/145
+#EXTINF:0 tvg-id="sicmulher.pt" group-title="Channels",PT: SIC Mulher HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/518
+#EXTINF:0 tvg-id="TVIFiccao.pt" group-title="Channels",PT: TVI Ficcao
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/156
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVI Ficcao HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/642
+#EXTINF:0 tvg-id="TVIReal.pt" group-title="Channels",PT: TVI Reality
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/97
+#EXTINF:0 tvg-id="CanalQ.pt" group-title="Channels",PT: Canal Q
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/192
+#EXTINF:0 tvg-id="ext" group-title="Channels",<<<<<< DESPORTO >>>>>>
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/164
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",PT: Sport TV + HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/531
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Sport TV+
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/234
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Sport TV NBA
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/77
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: Sport TV 1 HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/108
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: Sport TV 2 HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/102
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: Sport TV 3 HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/132
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: Sport TV 4 HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/86
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT: Sport TV 5 HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/78
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Sport TV 6 HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/738
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",PT: BTV 1 HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/103
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 1
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/545
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 2
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/89
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 3
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/150
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 4
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/66
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 5
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/139
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 6
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/96
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",PT: Sporting TV
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/526
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",PT: Sporting TV HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/645
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Canal 11 HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/527
+#EXTINF:0 tvg-id="ABolaTV.pt" group-title="Channels",PT: A Bola TV
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/532
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: A Bola TV HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/644
+#EXTINF:0 tvg-id="PortoCanal.pt" group-title="Channels",PT: Porto Canal
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/153
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Porto Canal HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/533
+#EXTINF:0 tvg-id="Eurosport1.pt" group-title="Channels",PT: Eurosport 1
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/661
+#EXTINF:0 tvg-id="Eurosport1.pt" group-title="Channels",PT: Eurosport 1 HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/555
+#EXTINF:0 tvg-id="Eurosport2.pt" group-title="Channels",PT: Eurosport 2
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/161
+#EXTINF:0 tvg-id="Motorvision.pt" group-title="Channels",PT: Motorvision
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/162
+#EXTINF:0 tvg-id="CacaVision.pt" group-title="Channels",PT: Caçavision
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/157
+#EXTINF:0 tvg-id="cazaepesca.pt" group-title="Channels",PT: Caça e Pesca
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/550
+#EXTINF:0 tvg-id="TorosTV.pt" group-title="Channels",PT: Toros TV
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/59
+#EXTINF:0 tvg-id="ext" group-title="Channels",<<<<<< CINEMA >>>>>>
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/165
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TvC Top HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/72
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TvC Edition HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/124
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TvC Emotion HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/116
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TvC Action HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/62
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: NOS Studios HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/529
+#EXTINF:0 tvg-id="hollywood.pt" group-title="Channels",PT: Hollywood HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/182
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT:Cinemundo HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/561
+#EXTINF:0 tvg-id="Cinemundo.pt" group-title="Channels",PT: Cinemundo
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/523
+#EXTINF:0 tvg-id="AMC.pt" group-title="Channels",PT: AMC HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/543
+#EXTINF:0 tvg-id="SyFy.pt" group-title="Channels",PT: SyFy
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/520
+#EXTINF:0 tvg-id="SyFy.pt" group-title="Channels",PT: Syfy HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/643
+#EXTINF:0 tvg-id="axn.pt" group-title="Channels",PT: AXN HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/546
+#EXTINF:0 tvg-id="AXNWhite.pt" group-title="Channels",PT: AXN White
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/656
+#EXTINF:0 tvg-id="AXNWhite.pt" group-title="Channels",PT: AXN White HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/522
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: AXN Movies HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/553
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",PT: FOX Movies
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/539
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",PT: FOX Movies HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/603
+#EXTINF:0 tvg-id="foxlife.pt" group-title="Channels",PT: FOX Life
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/658
+#EXTINF:0 tvg-id="foxlife.pt" group-title="Channels",PT: FOX Life HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/542
+#EXTINF:0 tvg-id="foxcrime.pt" group-title="Channels",PT: FOX Crime
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/657
+#EXTINF:0 tvg-id="foxcrime.pt" group-title="Channels",PT: FOX Crime HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/544
+#EXTINF:0 tvg-id="fox.pt" group-title="Channels",PT: FOX HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/552
+#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",PT: FOX Comedy
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/549
+#EXTINF:0 tvg-id="ext" group-title="Channels",<<<<<< INFANTIL >>>>>>
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/166
+#EXTINF:0 tvg-id="DisneyJunior.pt" group-title="Channels",PT: Disney Junior
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/535
+#EXTINF:0 tvg-id="canalpanda.pt" group-title="Channels",PT: Canal Panda
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/536
+#EXTINF:0 tvg-id="disneychannel.pt" group-title="Channels",PT: Disney Channel
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/540
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Cartoon Networ
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/551
+#EXTINF:0 tvg-id="SicK.pt" group-title="Channels",PT: SIC K
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/521
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SIC K HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/650
+#EXTINF:0 tvg-id="JimJam.pt" group-title="Channels",PT: Jim Jam
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/524
+#EXTINF:0 tvg-id="BabyTV.pt" group-title="Channels",PT: Baby TV
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/556
+#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Channels",PT: Biggs
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/559
+#EXTINF:0 tvg-id="NickJr.pt" group-title="Channels",PT: Nick Jr.
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/560
+#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Channels",PT: Nickelodeon
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/525
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Lolly Kids HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/689
+#EXTINF:0 tvg-id="ext" group-title="Channels",<<<<<< CULTURA >>>>>>
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/167
+#EXTINF:0 tvg-id="NatGeoWild.pt" group-title="Channels",PT: National Geographic Wild
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/160
+#EXTINF:0 tvg-id="nationalgeographic.pt" group-title="Channels",PT: National Geographic
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/659
+#EXTINF:0 tvg-id="nationalgeographic.pt" group-title="Channels",PT: National Geographic HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/130
+#EXTINF:0 tvg-id="TravelChannel.pt" group-title="Channels",PT: Travel Channel HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/125
+#EXTINF:0 tvg-id="24Kitchen.pt" group-title="Channels",PT: 24 Kitchen
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/655
+#EXTINF:0 tvg-id="24Kitchen.pt" group-title="Channels",PT: 24 Kitchen HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/146
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Casa e Cozinha HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/538
+#EXTINF:0 tvg-id="HistoryChannel.pt" group-title="Channels",PT: Historia
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/534
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ID Investigation Discovery
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/537
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Crime Investigation
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/557
+#EXTINF:0 tvg-id="CBSReality.pt" group-title="Channels",PT: CBS Reality
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/547
+#EXTINF:0 tvg-id="odisseia.pt" group-title="Channels",PT: Odisseia
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/554
+#EXTINF:0 tvg-id="discoverychannel.pt" group-title="Channels",PT: Discovery Channel
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/90
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Blaze
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/94
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Kuriakos TV
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/64
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="Channels",PT: Fuel TV HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/600
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="Channels",PT: Fuel TV
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/137
+#EXTINF:0 tvg-id="TLC.pt" group-title="Channels",PT: TLC
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/131
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: FTV
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/238
+#EXTINF:0 tvg-id="eentertainment.pt" group-title="Channels",PT: E! Entertainment
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/237
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT. Euronews
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/70
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: France 24
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/120
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CNN
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/142
+#EXTINF:0 tvg-id="DeutscheWelle.pt" group-title="Channels",PT: Deutsche Welle
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/76
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: BBC World News
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/91
+#EXTINF:0 tvg-id="BBCentertainment.pt" group-title="Channels",PT: BBC Entertainment
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/100
+#EXTINF:0 tvg-id="TVE24h.pt" group-title="Channels",PT: TVE 24h
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/58
+#EXTINF:0 tvg-id="TVE24h.pt" group-title="Channels",PT: TVE Internacional
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/117
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TV Galicia HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/654
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Sky News
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/63
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TV5 Monde
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/240
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CNBC
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/241
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Bloomberg
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/242
+#EXTINF:0 tvg-id="ARTV.pt" group-title="Channels",PT: ARTV
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/652
+#EXTINF:0 tvg-id="ext" group-title="Channels",<<<<<< BRASIL >>>>>>
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/169
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Globo HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/509
+#EXTINF:0 tvg-id="TVGlobo.pt" group-title="Channels",PT: Globo
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/541
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Globo Now
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/67
+#EXTINF:0 tvg-id="tvrecord.pt" group-title="Channels",PT: TV Record
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/548
+#EXTINF:0 tvg-id="RecordNews.pt" group-title="Channels",PT: Record News
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/653
+#EXTINF:0 tvg-id="CANCAONOVA.pt" group-title="Channels",PT: Cançao Nova
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/92
+#EXTINF:0 tvg-id="pfc.pt" group-title="Channels",PT: PFC
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/649
+#EXTINF:0 tvg-id="ext" group-title="Channels",<<<<<< MUSICA >>>>>>
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/168
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: AlmaLusa HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/688
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Trace Toca
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/87
+#EXTINF:0 tvg-id="TraceTVUrban.pt" group-title="Channels",PT: Trace Urban
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/110
+#EXTINF:0 tvg-id="AfroMusic.pt" group-title="Channels",PT: Afro Music
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/75
+#EXTINF:0 tvg-id="vh1.pt" group-title="Channels",PT: VH1
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/123
+#EXTINF:0 tvg-id="mezzo.pt" group-title="Channels",PT: Mezzo
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/144
+#EXTINF:0 tvg-id="MCMPop.pt" group-title="Channels",PT: MCM Pop
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/239
+#EXTINF:0 tvg-id="mcmtop.pt" group-title="Channels",PT: MCM Top
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/651
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT. MTV
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/357
+#EXTINF:0 tvg-id="ext" group-title="Channels",<<<<<< ADULTS >>>>>>
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/170
+#EXTINF:0 tvg-id="Hot.pt" group-title="Channels",PT: Hot
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/82
+#EXTINF:0 tvg-id="venus.pt" group-title="Channels",PT: Venus
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/121
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Playboy TV
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/134
+#EXTINF:0 tvg-id="ext" group-title="Channels",Jasmin TV
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/358
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hot Club 1
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/662
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hot Club 2
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/663
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hot Club 3
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/664
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hot Club 4
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/665
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hot Club 5
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/666
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hot Club 6
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/667
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hot Club 7
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/499
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hot Club 8
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/498
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hot Club 9
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/696
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hot Club 10
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/697
