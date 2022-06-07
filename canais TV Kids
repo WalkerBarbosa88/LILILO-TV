@@ -3,7 +3,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 22/05/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 07/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
 #########################################################################################################################################################################
  
@@ -19,50 +19,18 @@ https://000000
 https://s5.radio.co/s9c516a065/listen
 #EXTINF:-1,[COLOR=white][B]RÁDIO ZIG ZAG[/B][/COLOR][COLOR=white][/COLOR]
 https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
-
 #EXTINF:-1,[COLOR=white][B]LOLLY KIDS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://85.187.222.252:9191/play/a00e
-#EXTINF:0 tvg-id="BabyTV.pt" group-title="Channels",[COLOR=white][B]BABY TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://ccdn.ai:80/J5yx1/679TQJtyy/74815.ts
-#EXTINF:-1 ,[COLOR=white][B]BABY TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/954
-#EXTINF:0 tvg-id="canalpanda.pt" group-title="Channels",[COLOR=white][B]CANAL PANDA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://ccdn.ai:80/J5yx1/679TQJtyy/74831.ts
-#EXTINF:-1 ,[COLOR=white][B]CANAL PANDA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/942
-#EXTINF:-1 ,[COLOR=white][B]CARTOON NETWORK HD[/B][/COLOR][COLOR=white][/COLOR]
-http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/939
-#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Channels",[COLOR=white][B]NICKELODEON HD[/B][/COLOR][COLOR=white][/COLOR]
-http://ccdn.ai:80/J5yx1/679TQJtyy/74920.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NICK JUNIOR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://ccdn.ai:80/J5yx1/679TQJtyy/74919.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]JIM JAM HD[/B][/COLOR][COLOR=white][/COLOR]
-http://ccdn.ai:80/J5yx1/679TQJtyy/74900.ts
-#EXTINF:-1 ,[COLOR=white][B]JIMJAM HD[/B][/COLOR][COLOR=white][/COLOR]
-http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/893
-#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Channels",[COLOR=white][B]PANDA BIGGS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://ccdn.ai:80/J5yx1/679TQJtyy/74926.ts
-#EXTINF:0 tvg-id="DisneyJunior.pt" group-title="Channels",[COLOR=white][B]DISNEY JUNIOR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://ccdn.ai:80/J5yx1/679TQJtyy/74849.ts
-#EXTINF:-1 ,[COLOR=white][B]DISNEY JUNIOR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/928
-#EXTINF:-1 ,[COLOR=white][B]DISNEY CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/929
-#EXTINF:-1 ,[COLOR=white][B]NICKELODEON HD[/B][/COLOR][COLOR=white][/COLOR]
-http://restream-live.realiptv.to:8080/hankstreamer/sYWcksogwN/877
-
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS INFANTIS INTERNACIONAIS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
-
 
 #EXTM3U
 
 
 #EXTINF:-1,[COLOR=white][B]BABY SHARK TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
-
 #EXTINF:-1,[COLOR=white][B]A VIDA DE ROCKO BR[/B][/COLOR][COLOR=white][/COLOR]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
 #EXTINF:-1,[COLOR=white][B]BABY FIRST[/B][/COLOR][COLOR=white][/COLOR]
@@ -88,8 +56,6 @@ https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
 #EXTINF:0 tvg-id="Gulli.fr" group-title="Kids",[COLOR=white][B]GULLI TV[/B][/COLOR][COLOR=white][/COLOR]
 https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]KURIAKOS KIDS[/B][/COLOR][COLOR=white][/COLOR]
-http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
 #EXTINF:0 tvg-id="lale" group-title="Kids",[COLOR=white][B]LALE[/B][/COLOR][COLOR=white][/COLOR]
 http://stream.atr.ua/lale//live/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]SPACETOON[/B][/COLOR][COLOR=white][/COLOR]
@@ -129,8 +95,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/
 #EXTINF:-1,[COLOR=white][B]LEGO CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
 https://legochannel-roku.amagi.tv/playlist.m3u8 
 
-#EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://kuriakos.com/wp-content/uploads/2017/07/Kuriakos_kids_V2.jpg",[COLOR=white][B]KURIAKOS KIDS BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://c2.manasat.com:1935/kkids/kkids3/playlist.m3u8?wowzasessionid=inspiration
 #EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/escola.png",[COLOR=white][B]TV ESCOLA BR HD[/B][/COLOR][COLOR=white][/COLOR]
 https://5c483b9d1019c.streamlock.net/8054/8054/chunklist_w648759078.m3u8
 #EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/oreinoinfantil.jpg",[COLOR=white][B]O REINO ANIMAL BR[/B][/COLOR][COLOR=white][/COLOR]
