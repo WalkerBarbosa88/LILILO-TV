@@ -6,7 +6,7 @@ http://0.0.0.0:0000
  FONTE DE INFORMAÇÃO - LISTA 1: https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2022/master/CanaisB5.m3u8 
  
             
-#EXTINF:-1,[COLOR=orange][B]LISTA PT ADICIONADA: 07/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA 1 PT ADICIONADA: 07/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -320,3 +320,102 @@ http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/239
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/651
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT. MTV
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/357
+
+
+
+#EXTINF:-1,[COLOR=orange][B]LISTA 2 PT ADICIONADA: 07/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
+
+#EXTM3U
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] SIC NOTÍCIAS
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6344
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] TVI REALITY
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6345
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] RTP MADEIRA
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6346
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] SIC CARAS
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6347
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] ARTV
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6348
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] SPORT TV 1 HD
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6349
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] SPORTTV NBA HD
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6350
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] ELEVEN SPORTS 5 HD
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6351
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] CANAL 11
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6352
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] SPORTING TV
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6353
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] PFC
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6355
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] CAÇA E PESCA HD
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6356
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] CAÇA E PESCA
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6357
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] NICKELODEON JUNIOR
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6358
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] CANAL PANDA
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6359
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] BABY TV
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6360
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] TLC
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6361
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] DISCOVERY CHANNEL HD
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6362
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] NATIONAL GEOGRAPHIC HD
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6363
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] NATIONAL GEOGRAPHIC
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6364
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] CANAL HISTORIA HD
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6365
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] BLAZE TV
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6366
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] CRIME INVESTIGATION
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6367
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] MY CUiSINE
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6368
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] TV CINE 4 HD
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6369
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] FOX MOVIES HD
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6370
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] FOX COMEDY
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6371
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] AXN HD
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6372
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] AXN BLACK HD
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6373
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] AXN WHITE HD
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6374
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] AMC
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6375
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] CINEMUNDO HD
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6376
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] HOLLYWOOD FHD
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6377
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] SYFY
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6378
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] EUROCHANEL
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6379
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] NOS STUDIOS HD
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6380
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] MTV PORTUGAL
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6381
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] VH1 MUSIC
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6382
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] MEZZO
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6383
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] AFRO MUSIC
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6384
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] TRACE URBAN
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6385
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] BBC ENTERTAINEMENT
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6387
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] BBC WORLD NEWS
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6388
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] CNN
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6389
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] FOX SPORTS
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6390
+#EXTINF:0 tvg-id="ext" group-title="Channels",[PT] GLOBO NOW
+http://pelicanhosting.xyz:80/tsbqvsqg/298gcXOmu1/6391
