@@ -11,7 +11,9 @@ http://0.0.0.0:0000
 #EXTM3U
 
 #EXTINF:-1,[COLOR=yellow][B]///////// NACIONAIS /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/163
+#EXTINF:0 tvg-id="rtp1.pt" group-title="Channels",PT: RTP 1 HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/128
 #EXTINF:0 tvg-id="rtp1.pt" group-title="Channels",PT: RTP 1 HD
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/128
 #EXTINF:0 tvg-id="rtp2.pt" group-title="Channels",PT: RTP 2 HD
