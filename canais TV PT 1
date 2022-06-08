@@ -249,6 +249,9 @@ http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/192
 
 #EXTINF:-1,[COLOR=yellow][B]///////// CINEMA E SÉRIES TV /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 
+
+#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",FOX COMEDY
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/549
 #EXTINF:0 tvg-id="hollywood.pt" group-title="Channels",HOLLYWOOD HD
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/182
 #EXTINF:0 tvg-id="ext" group-title="Channels",CINEMUNDO HD
@@ -283,35 +286,90 @@ http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/657
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/544
 #EXTINF:0 tvg-id="fox.pt" group-title="Channels",FOX HD
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/552
-#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",FOX COMEDY
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/549
 
-#EXTINF:-1,[COLOR=yellow][B]///////// INFANTIL /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]///////// CULTURA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 
-#EXTINF:0 tvg-id="DisneyJunior.pt" group-title="Channels",DISNEY JUNIOR
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/535
-#EXTINF:0 tvg-id="canalpanda.pt" group-title="Channels",CANAL PANDA
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/536
-#EXTINF:0 tvg-id="disneychannel.pt" group-title="Channels",DISNEY CHANNEL 
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/540
-#EXTINF:0 tvg-id="ext" group-title="Channels",CARTOON NETWORK 
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/551
-#EXTINF:0 tvg-id="SicK.pt" group-title="Channels",SIC K
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/521
-#EXTINF:0 tvg-id="ext" group-title="Channels",SIC K HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/650
-#EXTINF:0 tvg-id="JimJam.pt" group-title="Channels",JIM JAM HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/524
-#EXTINF:0 tvg-id="BabyTV.pt" group-title="Channels",BABY TV
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/556
-#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Channels",BIGGS HD 
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/559
-#EXTINF:0 tvg-id="NickJr.pt" group-title="Channels",NICK JUNIOR HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/560
-#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Channels",NICKELODEON HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/525
-#EXTINF:0 tvg-id="ext" group-title="Channels",LOLLY KIDS HD
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/689
+#EXTINF:0 tvg-id="NatGeoWild.pt" group-title="Channels",NATIONAL GEOGRAPHIC WILD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/160
+#EXTINF:0 tvg-id="nationalgeographic.pt" group-title="Channels",NATIONAL GEOGRAPHIC
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/659
+#EXTINF:0 tvg-id="nationalgeographic.pt" group-title="Channels",NATIONAL GEOGRAPHIC HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/130
+#EXTINF:0 tvg-id="TravelChannel.pt" group-title="Channels",TRAVEL CHANNEL HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/125
+#EXTINF:0 tvg-id="24Kitchen.pt" group-title="Channels",24 KITCHEN HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/655
+#EXTINF:0 tvg-id="24Kitchen.pt" group-title="Channels",24 KITCHEN HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/146
+#EXTINF:0 tvg-id="ext" group-title="Channels",CASA & COZINHA HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/538
+#EXTINF:0 tvg-id="HistoryChannel.pt" group-title="Channels",HISTÓRIA
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/534
+#EXTINF:0 tvg-id="ext" group-title="Channels",ID INVESTIGATION DISCOVERY
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/537
+#EXTINF:0 tvg-id="ext" group-title="Channels",CRIME INVESTIGATION
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/557
+#EXTINF:0 tvg-id="CBSReality.pt" group-title="Channels",CBS REALITY
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/547
+#EXTINF:0 tvg-id="odisseia.pt" group-title="Channels",ODISSEIA
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/554
+#EXTINF:0 tvg-id="discoverychannel.pt" group-title="Channels",DISCOVERY CHANNEL
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/90
+#EXTINF:0 tvg-id="ext" group-title="Channels",BLAZE
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/94
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="Channels",FUEL TV HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/600
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="Channels",FUEL TV
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/137
+#EXTINF:0 tvg-id="TLC.pt" group-title="Channels",TLC
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/131
+#EXTINF:0 tvg-id="ext" group-title="Channels",FASHION TV
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/238
+#EXTINF:0 tvg-id="eentertainment.pt" group-title="Channels",EI ENTERTAINMENT
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/237
+#EXTINF:0 tvg-id="ext" group-title="Channels",EURONEWS
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/70
+#EXTINF:0 tvg-id="ext" group-title="Channels",FRANCE 24
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/120
+#EXTINF:0 tvg-id="ext" group-title="Channels",CNN PORTUGAL
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/142
+#EXTINF:0 tvg-id="DeutscheWelle.pt" group-title="Channels",DEUTSCHE WELLE
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/76
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBC WORLD NEWS
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/91
+#EXTINF:0 tvg-id="BBCentertainment.pt" group-title="Channels",BBC ENTERTAINMENT
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/100
+#EXTINF:0 tvg-id="TVE24h.pt" group-title="Channels",TVE 24H
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/58
+#EXTINF:0 tvg-id="TVE24h.pt" group-title="Channels",TVE INTERNACIONAL
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/117
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV GALICIA HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/654
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY NEWS 
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/63
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV5 MONDE
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/240
+#EXTINF:0 tvg-id="ext" group-title="Channels",CNBC
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/241
+#EXTINF:0 tvg-id="ext" group-title="Channels",BLOOMBERG HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/242
+
+#EXTINF:-1,[COLOR=yellow][B]///////// BRASIL /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO HD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/509
+#EXTINF:0 tvg-id="TVGlobo.pt" group-title="Channels",GLOBO
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/541
+#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO NOW
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/67
+#EXTINF:0 tvg-id="tvrecord.pt" group-title="Channels",TV RECORD
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/548
+#EXTINF:0 tvg-id="RecordNews.pt" group-title="Channels",RECORD NEWS
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/653
+#EXTINF:0 tvg-id="CANCAONOVA.pt" group-title="Channels",CANÇÃO NOVA PT
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/92
+#EXTINF:0 tvg-id="pfc.pt" group-title="Channels",PFC
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/649
 
 
 
