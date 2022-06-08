@@ -19,14 +19,12 @@ https://000000
 https://s5.radio.co/s9c516a065/listen
 #EXTINF:-1,[COLOR=white][B]RÁDIO ZIG ZAG[/B][/COLOR][COLOR=white][/COLOR]
 https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]LOLLY KIDS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://85.187.222.252:9191/play/a00e
+#EXTINF:0 tvg-id="disneychannel.pt" group-title="Channels",[COLOR=white][B]DISNEY CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
+http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/540
 #EXTINF:0 tvg-id="DisneyJunior.pt" group-title="Channels",[COLOR=white][B]DISNEY JUNIOR[/B][/COLOR][COLOR=white][/COLOR]
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/535
 #EXTINF:0 tvg-id="canalpanda.pt" group-title="Channels",[COLOR=white][B]CANAL PANDA[/B][/COLOR][COLOR=white][/COLOR]
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/536
-#EXTINF:0 tvg-id="disneychannel.pt" group-title="Channels",[COLOR=white][B]DISNEY CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/540
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CARTOON NETWORK[/B][/COLOR][COLOR=white][/COLOR]
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/551
 #EXTINF:0 tvg-id="SicK.pt" group-title="Channels",[COLOR=white][B]SIC K HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -45,6 +43,8 @@ http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/560
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/525
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]LOLLY KIDS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/689
+#EXTINF:-1,[COLOR=white][B]LOLLY KIDS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://85.187.222.252:9191/play/a00e
 
 
 #######################################################################################################################
