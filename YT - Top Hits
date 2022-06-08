@@ -14,6 +14,31 @@ http://0.0.0.0:0000
  
 #EXTM3U
 
+
+#EXTINF:-1,[COLOR=white][B]NOME DO ARTISTA - TÍTULO DA MUSICA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+
+#EXTINF:-1,[COLOR=white][B]MIMI WEBB - HOUSE ON FIRE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=i-M9_cKCGuM
+
+#EXTINF:-1,[COLOR=white][B]POST MALONE - COOPED UP[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=WABOrIYhR94
+
+#EXTINF:-1,[COLOR=white][B]JOEL CORRY FT. DAVID GUETTA E BRYSON TILLER - WHAT WOULD YOU DO?[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=j3pj8-uMF4U
+
+#EXTINF:-1,[COLOR=white][B]LADY GAGA - HOLD MY HAND (“TOP GUN: MAVERICK”)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=O2CIAKVTOrc
+
+#EXTINF:-1,[COLOR=white][B]LATTO - BIG ENERGY[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=T8GpG8C0YzA
+
+#EXTINF:-1,[COLOR=white][B]FUTURE & DRAKE - WAIT FOR YOU[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=rP09GUQFDFk
+
+#EXTINF:-1,[COLOR=white][B]ED SHEERAN FT. LIL BABY - 2 STEPS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Z_MvkyuOJgk
+
 #EXTINF:-1,[COLOR=white][B]DAVID GUETTA & BECKY HILL - CRAZY WHAT LOVE CAN DO[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8bzesUu_a4I&list=PLVn0x_fJ3ZS8cJ-ZIKZhSjSBn2XBh-E0K&index=13
 
