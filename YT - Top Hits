@@ -10,9 +10,27 @@ http://0.0.0.0:0000
 http://0.0.0.0:0000
 #######################################################################################################################################
 
-#EXTINF:-1,[COLOR=yellow][B]VIDEOS OFICIAIS - LISTA ATUALIZADA: 04/06/2022[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]VIDEOS OFICIAIS - LISTA ATUALIZADA: 08/06/2022[/B][/COLOR][COLOR=yellow][/COLOR]
  
 #EXTM3U
+
+#EXTINF:-1,[COLOR=white][B]DAVID GUETTA & BECKY HILL - CRAZY WHAT LOVE CAN DO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8bzesUu_a4I&list=PLVn0x_fJ3ZS8cJ-ZIKZhSjSBn2XBh-E0K&index=13
+
+#EXTINF:-1,[COLOR=white][B]POST MALONE FT. DOJA CAT - I LIKE YOU[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=xZYHehC7TVc
+
+#EXTINF:-1,[COLOR=white][B]MAHMOOD, BLANCO - BRIVIDI[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=MA_5P3u0apQ
+
+#EXTINF:-1,[COLOR=white][B]MAHMOOD, BLANCO - BRIVIDI (TRADUZIDA)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=NyVDS-h3W64
+
+#EXTINF:-1,[COLOR=white][B]DIPLO & MIGUEL - DON'T FORGET MY LOVE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+
+#EXTINF:-1,[COLOR=white][B]DIPLO & MIGUEL - DON'T FORGET MY LOVE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
 
 #EXTINF:-1,[COLOR=white][B]DIPLO & MIGUEL - DON'T FORGET MY LOVE[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=KLu7QyEpdBM
