@@ -8,7 +8,7 @@ FONTE DE INFORMAÇÃO: https://www.webcamgalore.com/Beaches/themecam.html
 #EXTM3U
 
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 20/05/2022. 8 WEBCAM OFFLINE[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 09/06/2022. 8 WEBCAM OFFLINE[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
@@ -38,6 +38,7 @@ plugin://plugin.video.youtube/play/?video_id=Wz_mSdgUEP4&ab_channel=Madeira-Web
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIAS DO NORTE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://video-auth1.iol.pt
 
+
 #EXTINF:-1,[COLOR=white][B]ESPOSENDE[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/bcesposende/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]VIANA DO CASTELO - CABEDELO[/B][/COLOR][COLOR=white][/COLOR]
@@ -60,11 +61,12 @@ https://video-auth1.iol.pt/beachcam/bccarneiro/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/bccanidelo/playlist.m3u8
 
 
-OFFLINE: 1
+OFFLINE: 2
  
 ########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIAS DO CENTRO  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://video-auth1.iol.pt
+ 
  
 #EXTINF:-1,[COLOR=white][B]PRAIA DO FURADOURO[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/furadouro/playlist.m3u8
@@ -154,6 +156,7 @@ OFFLINE: 0
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIAS DE SETUBAL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://video-auth1.iol.pt
 
+
 #EXTINF:-1,[COLOR=white][B]SETUBAL - PRAIA DO PEGO[/B][/COLOR][COLOR=white][/COLOR]
 https://cams.cdn-surfline.com/cdn-int/pt-comporta/chunklist.m3u8
 #EXTINF:-1,[COLOR=white][B]PORTINHO DA ARRÁBIDA[/B][/COLOR][COLOR=white][/COLOR]
@@ -189,6 +192,7 @@ OFFLINE: 0
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIAS DE SINTRA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://video-auth1.iol.pt
  
+ 
 #EXTINF:-1,[COLOR=white][B]PRAIA GRANDE NORTE[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/praiagrande/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]PRAIA GRANDE SUL[/B][/COLOR][COLOR=white][/COLOR]
@@ -206,6 +210,7 @@ OFFLINE: 0
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIAS DE CASCAIS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://video-auth1.iol.pt
  
+ 
 #EXTINF:-1,[COLOR=white][B]PRAIA DO GUINCHO NORTE[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/praiaguinchonorte/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]PRAIA DO GUINCHO SUL[/B][/COLOR][COLOR=white][/COLOR]
@@ -220,11 +225,12 @@ https://video-auth1.iol.pt/beachcam/conceicao/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/moitas/playlist.m3u8
 
 
-OFFLINE: 2
+OFFLINE: 1
 
 ########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIAS DE ESTORIL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://video-auth1.iol.pt
+
 
 #EXTINF:-1,[COLOR=white][B]PRAIA DO TAMARIZ[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/tamariz/playlist.m3u8
@@ -244,7 +250,8 @@ OFFLINE: 1
 ########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIAS DE OEIRAS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://video-auth1.iol.pt
- 
+
+
 #EXTINF:-1,[COLOR=white][B]PRAIA DA TORRE[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/bctorre/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]SANTO AMARO[/B][/COLOR][COLOR=white][/COLOR]
@@ -260,6 +267,7 @@ OFFLINE: 1
 ########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIAS DE ALMADA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://video-auth1.iol.pt
+
  
 #EXTINF:-1,[COLOR=white][B]COSTA DA CAPARICA - SÃO JOÃO[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/costacaparicasaojoao/playlist.m3u8
@@ -325,7 +333,7 @@ https://video-auth1.iol.pt/beachcam/bcalmograve/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/bcsantoandre/playlist.m3u8
 
 
-OFFLINE: 0
+OFFLINE: 1
 
 ########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIAS DO ALGARVE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -404,4 +412,4 @@ https://video-auth1.iol.pt/beachcam/bcbugio1/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 
  
-OFFLINE: 1
+OFFLINE: 0
