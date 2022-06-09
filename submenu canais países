@@ -12,16 +12,6 @@
 </channels>
  
  
-<channels>
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold]E.U.A.[/COLOR][/B]</name>
-<thumbnail>https://ia803407.us.archive.org/20/items/bandeira-usa_202102/Bandeira%20USA.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Sphinxroot/iptvmu3/main/USA.m3u</externallink>
-<fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
-<info></info>
-</channel>
- 
- 
  
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR gold]AUSTRÁLIA[/COLOR][/B]</name>
@@ -30,7 +20,6 @@
 <fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
 <info></info>
 </channel>
-
 
 
 <channel>
@@ -42,26 +31,6 @@
 </channel>
 
 
-
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold]CANADA[/COLOR][/B]</name>
-<thumbnail>https://ia803407.us.archive.org/8/items/canada_202102/Canada.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Sphinxroot/iptvmu3/main/Canada.m3u</externallink>
-<fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
-<info></info>
-</channel>
-
-
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold]FRANÇA[/COLOR][/B]</name>
-<thumbnail>https://ia903405.us.archive.org/34/items/bandeira-franca/Bandeira%20Fran%C3%A7a.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Sphinxroot/iptvmu3/main/France.m3u</externallink>
-<fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
-<info></info>
-</channel>
-
-
-
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR gold]ITÁLIA[/COLOR][/B]</name>
 <thumbnail>https://ia601805.us.archive.org/9/items/bandeira-italia/Bandeira%20It%C3%A1lia.jpg</thumbnail>
@@ -69,11 +38,6 @@
 <fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
 <info></info>
 </channel>
-
-
-
-
-
  
  
  
