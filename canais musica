@@ -1,12 +1,10 @@
-
-
    
 ##########################################################################################################################################################################
 #EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////////////////  CANAIS DE TV DE MÚSICA  //////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA 1 REVISTA: 03/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA 1 REVISTA: 09/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -30,25 +28,6 @@ http://45.11.56.147:8808/stream?id=133
 http://45.11.56.147:8808/stream?id=118
 #EXTINF:-1,[COLOR=white][B]MC TROPICAL[/B][/COLOR][COLOR=white][/COLOR]
 http://45.11.56.147:8808/stream?id=137
-
-
-#######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////// CANAIS BRIDGE TV /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://000000
-
-
-#EXTINF:-1,[COLOR=white][B]BRIDGE TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://stream01.sputnik24.tv/bridge/720p/index.m3u8
-
-#EXTINF:-1,[COLOR=white][B]BRIDGE CLASSIC HD[/B][/COLOR][COLOR=white][/COLOR]
-https://stream01.sputnik24.tv/bridgec/720p/index.m3u8
-
-#EXTINF:-1,[COLOR=white][B]BRIDGE HITS HD[/B][/COLOR][COLOR=white][/COLOR]
-https://stream01.sputnik24.tv/bridgeh/720p/index.m3u8
-
-#EXTINF:-1,[COLOR=white][B]BRIDGE DELUXE HD[/B][/COLOR][COLOR=white][/COLOR]
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=bridgedeluxetv
-
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// CANAIS FAVORITOS - TOP HITS 1 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -233,9 +212,6 @@ https://60015180a7f57.streamlock.net:444/public/stream_source/chunklist_w1910337
 #EXTINF:-1,[COLOR=white][B]RETRO DANCE TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://live.prd.dlive.tv/hls/live/andyx7.m3u8
 
-#EXTINF:-1,[COLOR=white][B]DANCE HITS OF THE 90´S HD[/B][/COLOR][COLOR=white][/COLOR]
-http://140.238.127.147/streams/1.m3u8
-
 #EXTINF:-1,[COLOR=white][B]MAFI2A MUSIC HITS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://live.prd.dlive.tv/hls/live/tv12-gudauta.m3u8
 
@@ -258,9 +234,6 @@ https://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/chunklist_w10602076
 
 #EXTINF:-1,[COLOR=white][B]EURO INDIE MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,[COLOR=white][B]BEST LIVE PERFORMANCES HD[/B][/COLOR][COLOR=white][/COLOR]
-http://140.238.127.147/streams/3.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]QELLO CONCERTS[/B][/COLOR][COLOR=white][/COLOR]
 https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
@@ -302,9 +275,6 @@ https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]SEXY KPOP TV[/B][/COLOR][COLOR=white][/COLOR]
 http://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]COLOSAL TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Hits 360 HD (BR)" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/Cx5V233.jpg",[COLOR=white][B]HITS 360 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
@@ -405,9 +375,6 @@ http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]MUSIC LATINO[/B][/COLOR][COLOR=white][/COLOR]
 http://broadcast.mytvtogo.net/musicalatinaparati/musicalatinaparati/chunklist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]TUMUSICA TV[/B][/COLOR][COLOR=white][/COLOR]
-https://cdn4.hostlagarto.com:8081/static/radio105tv/chunks.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]VEVO LATINO HD[/B][/COLOR][COLOR=white][/COLOR]
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 
@@ -475,7 +442,6 @@ https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]FIRST MUSIC CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
 http://hz1.teleport.cc/HLS/HD.m3u8
 
-
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]30A MUSIC USA[/B][/COLOR][COLOR=white][/COLOR]
 https://30a-tv.com/music.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]MUZZIK TV SERBIA[/B][/COLOR][COLOR=white][/COLOR]
@@ -505,7 +471,8 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
 #######################################################################################################################################################################
 #######################################################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////// STINGRAY & PLUTO TV - REVISTA: 03/06/2022 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+
+#EXTINF:-1,[COLOR=yellow][B]///////// STINGRAY & PLUTO TV - REVISTA: 09/06/2022 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #EXTM3U
 
