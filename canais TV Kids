@@ -3,7 +3,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 07/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 09/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
 #########################################################################################################################################################################
  
@@ -19,30 +19,6 @@ https://000000
 https://s5.radio.co/s9c516a065/listen
 #EXTINF:-1,[COLOR=white][B]RÁDIO ZIG ZAG[/B][/COLOR][COLOR=white][/COLOR]
 https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
-#EXTINF:0 tvg-id="disneychannel.pt" group-title="Channels",[COLOR=white][B]DISNEY CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/540
-#EXTINF:0 tvg-id="DisneyJunior.pt" group-title="Channels",[COLOR=white][B]DISNEY JUNIOR[/B][/COLOR][COLOR=white][/COLOR]
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/535
-#EXTINF:0 tvg-id="canalpanda.pt" group-title="Channels",[COLOR=white][B]CANAL PANDA[/B][/COLOR][COLOR=white][/COLOR]
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/536
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CARTOON NETWORK[/B][/COLOR][COLOR=white][/COLOR]
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/551
-#EXTINF:0 tvg-id="SicK.pt" group-title="Channels",[COLOR=white][B]SIC K HD[/B][/COLOR][COLOR=white][/COLOR]
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/521
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC K HD[/B][/COLOR][COLOR=white][/COLOR]
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/650
-#EXTINF:0 tvg-id="JimJam.pt" group-title="Channels",[COLOR=white][B]JIM JAM HD[/B][/COLOR][COLOR=white][/COLOR]
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/524
-#EXTINF:0 tvg-id="BabyTV.pt" group-title="Channels",[COLOR=white][B]BABY TV[/B][/COLOR][COLOR=white][/COLOR]
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/556
-#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Channels",[COLOR=white][B]BIGGS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/559
-#EXTINF:0 tvg-id="NickJr.pt" group-title="Channels",[COLOR=white][B]NICK JUNIOR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/560
-#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Channels",[COLOR=white][B]NICKELODEON HD[/B][/COLOR][COLOR=white][/COLOR]
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/525
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]LOLLY KIDS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/689
 #EXTINF:-1,[COLOR=white][B]LOLLY KIDS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://85.187.222.252:9191/play/a00e
 
@@ -56,10 +32,6 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]BABY SHARK TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]A VIDA DE ROCKO BR[/B][/COLOR][COLOR=white][/COLOR]
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
-#EXTINF:-1,[COLOR=white][B]BABY FIRST[/B][/COLOR][COLOR=white][/COLOR]
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
 #EXTINF:-1,[COLOR=white][B]CAMP SNOOPY[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 #EXTINF:-1,[COLOR=white][B]COCORO FHD[/B][/COLOR][COLOR=white][/COLOR]
@@ -103,8 +75,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]EBS KIDS[/B][/COLOR][COLOR=white][/COLOR]
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]ENKI BENKI[/B][/COLOR][COLOR=white][/COLOR]
-http://94.43.239.178:8080/CHANNEL678/BITRATE0/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]FGTV[/B][/COLOR][COLOR=white][/COLOR]
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8
 #EXTINF:0 tvg-id="lale" group-title="Kids",[COLOR=white][B]LALE[/B][/COLOR][COLOR=white][/COLOR]
@@ -133,8 +103,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
 https://bit.ly/3cXQNoL?/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/retrocartoon.png",[COLOR=white][B]RETRO CARTOON BR.[/B][/COLOR][COLOR=white][/COLOR] 
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1567216407.m3u8
-#EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG.png",[COLOR=white][B]ANIME TV BR[/B][/COLOR][COLOR=white][/COLOR] 
-https://stmv1.srvif.com/animetv/animetv/chunklist_w461895807.m3u8
 #EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://images.pluto.tv/channels/608181d420fc8500075f612a/colorLogoPNG.png",[COLOR=white][B]ANIME[/B][/COLOR][COLOR=white][/COLOR]
 https://bit.ly/3qY2y4m?/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" group-title="Infantil" tvg-logo="https://images.pluto.tv/channels/5d765786aad587cf4d0e2bf6/colorLogoPNG.png",[COLOR=white][B]INSPECTOR GADGET[/B][/COLOR][COLOR=white][/COLOR]
