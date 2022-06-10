@@ -177,8 +177,6 @@ https://cast.cdnseguro.com:19360/8092/8092.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-id="ext" group-title="Undefined",[COLOR=white][B]CANAL SAÚDE HD[/B][/COLOR][COLOR=white][/COLOR]
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",[COLOR=white][B]PORTA DOS FUNDOS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 #EXTINF:-1 group-title="ESTILO DE VIDA",[COLOR=white][B]PEOPLE ARE AWESOME HD[/B][/COLOR][COLOR=white][/COLOR]
 https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
