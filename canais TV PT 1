@@ -65,6 +65,9 @@ http://dcunilive36-lh.akamaihd.net/i/dclive_1@668002/master.m3u8
 #EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://162.212.178.69:41042/bysid/608
 
+#EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://203.77.246.50:5000/udp/239.1.1.196:5000
+
 #EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
 http://162.212.178.69:41042/bysid/608
 
