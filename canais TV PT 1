@@ -11,7 +11,7 @@ http://0.0.0.0:0000
             VÁRIAS LISTAS E PAÍSES - https://matthewgall.codes/mirrors/iptv/src/branch/master/streams
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 09/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 15/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
@@ -31,8 +31,6 @@ https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
 http://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/index.m3u8
 #EXTINF:-1,[COLOR=white][B]ASSIM É PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
 https://livefocamundo.com:8081/tvmaxrio/index.m3u8?ROGERIOTORRES
-#EXTINF:-1,[COLOR=white][B]MARINHA TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://video-weaver.mad01.hls.ttvnw.net/v1/playlist/CosFi3svq-NFdR0w-mvyiaxq1ACA_2JDS9OomDh4RLBTDp_hZ5_wN_DY4S96FvMM4ZVmR38ZW8BZLen0URMWd6-cl-c5kjnhNITfOpSSWOXYIOk2T4GD6_8DTFxUVAWskRtx292eb0vD1aI3sDZ2ZxBDefctnKLe6AYAqVgsYYVej696Ws6tHKFPtjgvwUHYUZ8Bu5VPf6QeWhi3FenvHrB-Jkk3HzeodW6H8nZX0ZSgm8RmSv01ST5iOv73D1lmuWPSx3WJiidjHFWqedcQ86J7ITaVzaGm94pKPX6i03WgQhKaoAwrzBmR2jNcJLo8Q_-aNlKwth3KaH5ABEYVdaGsgrl7NaVJ_zmPgpSRdE1Hg_-zKJZ3XcfRroF_bsK1hFWXVtF72HSdc6XEFLEkn5OX7XJRJ5y24thvTV2ReSkL2HCGlKvHSorixoUz_vsSE8FrLY1BFx47E52W-kFdYkwWGZF90VB45sd1kEpw_tDBs5s1IqItD8q7AQCnI26IpOzcTAirtAkzPQeEFkzbZXf5xC0L_u9I-IIwOMWYifUengYPNvPTmVzxcR-TuoBfK1GJL-0vkiISZV9F-_N5xJXhLcOdSM1fexiy6J6mr_ho7ttMAvkqmp87felmIdZJdvBhOnWDSO1Z0jYZBsmTNCpr3HqsB2kopqKT3txk9QgDy7xleicu-B6VgE-sqKWeXNb8q3qZnefJghaMq93zoRLd2JVaxgXxM8IckuAosCXijfsOsrQes5ANq17usQZb04fFF9-0J8F0vgmjI3UEvVc0OiNoOen31lagBBuU3ZpoNkNMz8qhJEZUTT2Vmx2xvNYe_tPlErl_QmaZUwOHZTOJT07CPkFNA7FB5AUPGgyf0db39_1Tqjce43EgASoJZXUtd2VzdC0yMPcD.m3u8
 
 
 ##########################################################################################################################
@@ -111,23 +109,11 @@ http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Religious",[COLOR=white][B]KURIAKOS TV[/B][/COLOR][COLOR=white][/COLOR]
 http://195.22.11.11:1935/ktv/ktv1/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Kuriakos Cine" tvg-logo="https://i.imgur.com/GbQuvWG.png" group-title="PORTUGAL",[COLOR=white][B]KURIAKOS CINE[/B][/COLOR][COLOR=white][/COLOR]
-http://c2.manasat.com:1935/kcine/kcine3/master.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Movies",[COLOR=white][B]KURIAKOS CINE[/B][/COLOR][COLOR=white][/COLOR]
-http://c2.manasat.com:1935/kcine/kcine3/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Kuriakos Music" tvg-logo="https://i.imgur.com/Zl40NYi.jpg" group-title="PORTUGAL",[COLOR=white][B]KURIAKOS MUSICA[/B][/COLOR][COLOR=white][/COLOR]
 http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]KURIAKOS MUSICA[/B][/COLOR][COLOR=white][/COLOR]
 http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]KURIAKOS KIDS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://c2.manasat.com:1935/kkids/kkids2/chunklist_w1915742041.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]KURIAKOS KIDS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://c2.manasat.com:1935/kkids/kkids2/chunklist_w2043638029.m3u8
 
 #EXTINF:-1,[COLOR=white][B]TV MANA[/B][/COLOR][COLOR=white][/COLOR]
 http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8
@@ -155,36 +141,16 @@ https://euronews.alteox.app/hls/pt_stream.m3u8
 
 
 ##########################################################################################################################
-#EXTINF:-1,[COLOR=orange][B]LISTA 2 REVISTA: 09/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA 2 REVISTA: 15/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CMTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://ccdn.ai:80/J5yx1/679TQJtyy/74841.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HOLLYWOOD HD[/B][/COLOR][COLOR=white][/COLOR]
-http://ccdn.ai:80/J5yx1/679TQJtyy/74895.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HOLLYWOOD HD[/B][/COLOR][COLOR=white][/COLOR]
-http://ccdn.ai:80/J5yx1/679TQJtyy/74897.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX HD[/B][/COLOR][COLOR=white][/COLOR]
-http://ccdn.ai:80/J5yx1/679TQJtyy/74886.ts
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]EUROSPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95401
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]EUROSPORT 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95403
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MCM TOP HD[/B][/COLOR][COLOR=white][/COLOR]
-http://ccdn.ai:80/J5yx1/679TQJtyy/74905.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MEZZO HD[/B][/COLOR][COLOR=white][/COLOR]
-http://ccdn.ai:80/J5yx1/679TQJtyy/74906.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CLUBBING TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://ccdn.ai:80/J5yx1/679TQJtyy/74839.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DISCOVERY HD[/B][/COLOR][COLOR=white][/COLOR]
-http://ccdn.ai:80/J5yx1/679TQJtyy/74847.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]EI ENTERTAINMENT HD[/B][/COLOR][COLOR=white][/COLOR]
-http://ccdn.ai:80/J5yx1/679TQJtyy/74851.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FASHION TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://ccdn.ai:80/J5yx1/679TQJtyy/74875.ts
-
 
 
 
