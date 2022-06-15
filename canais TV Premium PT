@@ -16,7 +16,7 @@ http://0.0.0.0:0000
                       Listas Várias - https://global-satinfo.in/viewtopic.php?f=22&t=2315&start=330
 #EXTM3U
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 09/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 15/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 
 ####################################################################################################################################
@@ -51,10 +51,6 @@ http://89.114.126.46:4000/play/a008
 http://89.114.126.46:4000/play/a00a
 #EXTINF:-1,[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://89.114.126.46:4000/play/a00b
-#EXTINF:-1,[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://ccdn.ai:80/J5yx1/679TQJtyy/74917.ts
-#EXTINF:-1,[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://ccdn.ai:80/J5yx1/679TQJtyy/74918.ts
 
 
 #EXTM3U
@@ -65,10 +61,6 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.81:1234
-#EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://b5.vc:80/0672648180/fireurl.co/71912.ts
-#EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://b5.vc:80/0672648180/fireurl.co/71913.ts
 
 #EXTINF:-1,[COLOR=white][B]ESPN 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.152:1234
@@ -91,20 +83,10 @@ http://tv.plusme1.xyz:28000/israelmantilla/pkooSNPDWH/153304
 #EXTINF:-1,[COLOR=white][B]RMC SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://193.252.43.21:10200/play/a08l
 #EXTINF:-1,[COLOR=white][B]RMC SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.90.106.7:7779/play/GrQm9K@793JF0C/index.m3u8
-
-#EXTINF:-1,[COLOR=white][B]RMC SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://193.252.43.21:10200/play/a09r
-#EXTINF:-1,[COLOR=white][B]RMC SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.90.106.7:7779/play/NnHpC9@8Q93CW/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]RMC SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://193.252.43.21:10200/play/a08n
-#EXTINF:-1,[COLOR=white][B]RMC SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.90.106.7:7779/play/WvQm7K@39Y06P/index.m3u8
-
-#EXTINF:-1,[COLOR=white][B]RMC SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.90.106.7:7779/play/SWm7K@637bF/index.m3u8
 #EXTINF:-1,[COLOR=white][B]RMC SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://193.252.43.21:10200/play/a08v
 #EXTINF:-1,[COLOR=white][B]RMC SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -135,8 +117,6 @@ https://000000
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR] 
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
 
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJCj-3rEl3NmItfMAMT_ShRE/ts
@@ -144,8 +124,6 @@ http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJCj-3rEl3NmItfMAMT_ShRE/ts
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJOSZsWI3Dx4VfxyLQOwcoX0/ts
 
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR] 
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven6
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJFGRezPP_E_YrLaVH7MB7KE/ts
 
