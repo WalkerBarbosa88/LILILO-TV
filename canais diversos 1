@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 ####################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 09/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 21/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
 ##########################################################################################################################
  
@@ -49,8 +49,6 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]OUTSIDE TV[/B][/COLOR][COLOR=white][/COLOR]
 https://outsidetv-roku-us.amagi.tv/playlistR1080p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]STADIUM TV[/B][/COLOR][COLOR=white][/COLOR]
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PAC 12 TV[/B][/COLOR][COLOR=white][/COLOR]
 https://pac12-roku-us.amagi.tv/playlistR1080p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]AAC NETWORK[/B][/COLOR][COLOR=white][/COLOR]
@@ -173,8 +171,6 @@ https://000000
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HIPER TV[/B][/COLOR][COLOR=white][/COLOR]
 https://inliveserver.com:1936/11010/11010/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,[COLOR=white][B]WIXLAR[/B][/COLOR][COLOR=white][/COLOR]
-http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 #EXTINF: -1,[COLOR=white][B]TMZ[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
 #EXTINF:155,[COLOR=white][B]PEOPLE TV[/B][/COLOR][COLOR=white][/COLOR]
@@ -389,8 +385,6 @@ http://189.91.128.146:4444/udp/227.10.20.160:1234
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:-1,[COLOR=white][B]BBC NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
-#EXTINF:-1,[COLOR=white][B]3/24 FHD[/B][/COLOR][COLOR=white][/COLOR]
-https://directes-tv-int.ccma.cat/int/ngrp:324_web/master.m3u8
 #EXTINF:-1,[COLOR=white][B]7 NOTÍCIAS ES[/B][/COLOR][COLOR=white][/COLOR]
 https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]CNN INTER.[/B][/COLOR][COLOR=white][/COLOR]
