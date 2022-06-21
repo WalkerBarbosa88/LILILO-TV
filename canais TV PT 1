@@ -9,6 +9,7 @@ http://0.0.0.0:0000
             https://www.player-castv.cf/2021/09/portugal-free-full-multi-iptv-channels.html
             https://raw.githubusercontent.com/inspirationlinks/lista-tuga/master/i%CF%81%D1%82v%20i%D0%B8%E0%B8%A3%CF%81i%D1%8F%CE%B1%D1%82i%CF%83%D0%B8%20li%D0%B8k%E0%B8%A3
             VÁRIAS LISTAS E PAÍSES - https://matthewgall.codes/mirrors/iptv/src/branch/master/streams
+            LISTAS GRATUITAS IPTV ORG - https://github.com/iptv-org/iptv
 
 
 #EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 21/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
@@ -47,10 +48,14 @@ http://189.91.128.146:4444/udp/227.10.20.147:1234
 http://189.91.128.146:4444/udp/227.10.20.139:1234
 #EXTINF:-1,[COLOR=white][B]TDM MACAU TV[/B][/COLOR][COLOR=white][/COLOR]
 https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]TDM MACAU SPORTS TV[/B][/COLOR][COLOR=white][/COLOR]
+http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]ZIMBO TV[/B][/COLOR][COLOR=white][/COLOR]
 https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://livestream.com/accounts/29819666/events/9254936/player
 #EXTINF:-1,[COLOR=white][B]STV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://dcunilive36-lh.akamaihd.net/i/dclive_1@668002/master.m3u8
+#EXTINF:-1,[COLOR=white][B]TVM HD[/B][/COLOR][COLOR=white][/COLOR]
+http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
 
 
 ##########################################################################################################################
@@ -131,18 +136,10 @@ http://csvl04.manasat.com:1935/tvmana/tvmana3/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]EURONEWS PT HD[/B][/COLOR][COLOR=white][/COLOR]
 https://euronews.alteox.app/hls/pt_stream.m3u8
 
-
-##########################################################################################################################
-#EXTINF:-1,[COLOR=orange][B]LISTA 2 REVISTA: 21/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
-
-#EXTM3U
-
-
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]EUROSPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95401
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]EUROSPORT 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95403
-
 
 
