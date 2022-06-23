@@ -48,6 +48,8 @@ http://189.91.128.146:4444/udp/227.10.20.139:1234
 http://api.magiaiptv.com/live/800196/128093/m1_DV2bTcq67LA3L7UN_720p
 #EXTINF:-1,[COLOR=white][B]TDM MACAU TV[/B][/COLOR][COLOR=white][/COLOR]
 https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]TPA 1 TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://livestream.com/accounts/30360708/events/9496693/player
 #EXTINF:-1,[COLOR=white][B]ZIMBO TV[/B][/COLOR][COLOR=white][/COLOR]
 https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://livestream.com/accounts/29819666/events/9254936/player
 #EXTINF:-1,[COLOR=white][B]TVM HD[/B][/COLOR][COLOR=white][/COLOR]
