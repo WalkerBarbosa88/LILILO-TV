@@ -74,7 +74,7 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 
 ####################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DISCOVERY  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DISCOVERY & CASAS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 http://0000000000000000000000000000
 
 
@@ -103,6 +103,9 @@ http://pfsv.io:80/07720253/51853/183
 
 #EXTINF:-1,[COLOR=white][B]DISCOVERY ANIMAL PLANET HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.118:1234
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/6586443a-90b6-4f77-a736-7794c0d3b550" parent-code="" group-title="NooXTV",[COLOR=white][B]HGTV BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800196/128093/m4_BHUM6pXTobkuiDgt5mZh1d3Q_720p
 
 
 ####################################################################################################################################
