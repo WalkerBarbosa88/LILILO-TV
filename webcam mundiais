@@ -6,7 +6,7 @@ http://0.0.0.0:0000
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 16/05/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA MINI - REVISTA: 23/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
 ############################################################################################################################################################
 
 Fonte: https://fluxustvespanol.blogspot.com/p/fluxus-cctv.html#gsc.tab=0
@@ -14,6 +14,7 @@ Fonte: https://fluxustvespanol.blogspot.com/p/fluxus-cctv.html#gsc.tab=0
         https://www.whatsupcams.com/en/
         https://www.earthcam.com/search/ft_search.php?term=SPAIN
         https://www.webcamtaxi.com/en/portugal.html
+        https://vk.com/clubslynet
                 
 #EXTM3U
 #############################################################################################################################################################
@@ -564,10 +565,6 @@ https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.02002.mp4
 http://camsecure.co/HLS/ilfracombe2.m3u8
 #EXTINF:-1,[COLOR=white][B]UK - ILFRACOMBE - CAM 2[/B][/COLOR][COLOR=white][/COLOR]
 http://camsecure.co/HLS/ilfracombe1.m3u8
-
-#EXTINF:-1 group-title="WEBCAMS",[COLOR=white][B]UK - CASA DAS VISITAS[/B][/COLOR][COLOR=white][/COLOR]
-https://s27.ipcamlive.com/streams/1bag8zlkt0oee6ss1/stream.m3u8
-
 #EXTINF:-1,[COLOR=white][B]UK - BISHOPS LYDEARD STATION[/B][/COLOR][COLOR=white][/COLOR]
 http://maybach.railcam.co.uk:80/BishopsLydeard_59234/tracks-v1a1/mono.m3u8
 #EXTINF:-1,[COLOR=white][B]UK - BLUE ANCHOR STATION[/B][/COLOR][COLOR=white][/COLOR]
@@ -612,11 +609,8 @@ http://maybach.railcam.co.uk/Glyndyfrdwy_389573/tracks-v1a1/mono.m3u8
 http://maybach.railcam.co.uk/Groombridge_20182/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]UK - HARLYN[/B][/COLOR][COLOR=white][/COLOR]
 https://cams.cdn-surfline.com/cdn-int/uk-harlyn/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]UK - HEBDEN[/B][/COLOR][COLOR=white][/COLOR]
-https://maybach.railcam.co.uk/Hebden_41043/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]UK - HENSALL[/B][/COLOR][COLOR=white][/COLOR]
 https://maybach.railcam.co.uk/Hensall_12532/tracks-v1/mono.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]UK - MINEHEAD STATION[/B][/COLOR][COLOR=white][/COLOR]
 http://maybach.railcam.co.uk:80/Minehead_05286/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]UK - NEW ROMMEY - CAM 1[/B][/COLOR][COLOR=white][/COLOR]
@@ -664,13 +658,9 @@ https://000000
 http://stream.silesnet.net/webcams/jablunkov.m3u8
 #EXTINF:-1 ,[COLOR=white][B]CZ - RATIBOR[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.hqv.cz/ratibor.obecni.net/index.m3u8
-
 # https://www.youtube.com/watch?v=wiSL9ivHVCQ
 #EXTINF:-1 group-title="WEBCAMS",[COLOR=white][B]CZ - VALASSKE MEZIRICI[/B][/COLOR][COLOR=white][/COLOR]
 http://212.111.1.7:1937/vlmcam01/vlmcam01.stream/playlist.m3u8
-
-#EXTINF:-1 ,[COLOR=white][B]CZ - MOZART PRAGUE HOTEL[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=wiSL9ivHVCQ
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]CZ - WEBCAM 2[/B][/COLOR][COLOR=white][/COLOR]
 http://stream.silesnet.net/webcams/jablunkov.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]CZ - VISTA PANORÂMICA[/B][/COLOR][COLOR=white][/COLOR]
@@ -743,8 +733,6 @@ http://58f0f58ecd733.streamlock.net:1935/DeadDogSaloonCam/deaddog/playlist.m3u8
 http://outdoorchannel-lh.akamaihd.net/i/EagleCamHD_1@167705/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]USA - ESTES PARK[/B][/COLOR][COLOR=white][/COLOR]
 http://cdn.estesparkwebcams.com/prospect3/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]USA - FOLLY BEACH[/B][/COLOR][COLOR=white][/COLOR]
-http://5a5f765a4fcc2.streamlock.net:1935/live/fb.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]USA - GREEN PARROT BAR - CAM 1[/B][/COLOR][COLOR=white][/COLOR]
 http://55507e0501d25.streamlock.net/live/greenparrot1-audio.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]USA - GREEN PARROT BAR - CAM 2[/B][/COLOR][COLOR=white][/COLOR]
@@ -757,7 +745,6 @@ https://55507e0501d25.streamlock.net/live-audio/hogsbreath2-audio.stream/playlis
 https://56cdb389b57ec.streamlock.net:1935/live/hbsouth.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]USA - KURE BEACH[/B][/COLOR][COLOR=white][/COLOR]
 http://5a5f765a4fcc2.streamlock.net:1935/live/kbstreet.stream/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]USA - LAS VEGAS - CAM 2[/B][/COLOR][COLOR=white][/COLOR]
 http://cams.lasvegas.net:1935/live/LVNetOrleansDown.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]USA - LAS VEGAS - CAM 3[/B][/COLOR][COLOR=white][/COLOR]
@@ -768,7 +755,6 @@ http://cams.lasvegas.net:1935/live/LVNetFlamingoStNorthWest.stream_720p/playlist
 http://cams.lasvegas.net:1935/live/LasVesgasNetHotelNorthCamNorth.stream_720p/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]USA - LAS VEGAS - CAM 6[/B][/COLOR][COLOR=white][/COLOR]
 http://cams.lasvegas.net:1935/live/LasVesgasNetHotelNorthCamSouth.stream_720p/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]USA - MINNESOTA[/B][/COLOR][COLOR=white][/COLOR]
 https://55507e0501d25.streamlock.net/live/spiritmtn.stream/playlist.m3u8
 
