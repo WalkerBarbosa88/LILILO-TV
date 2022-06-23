@@ -40,6 +40,9 @@ https://s5.radio.co/s9c516a065/listen
 #EXTINF:-1,[COLOR=white][B]RÁDIO ZIG ZAG[/B][/COLOR][COLOR=white][/COLOR]
 https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
 
+#EXTINF:-1,[COLOR=white][B]ANTENA INFANTIL / RELAX[/B][/COLOR][COLOR=white][/COLOR]
+http://rs2.ptservidor.com:8007/live 
+
 ######################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  RÁDIOS NACIONAIS E/OU ONLINE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://video-auth1.iol.pt
@@ -101,11 +104,23 @@ http://mcrscast.mcr.iol.pt/comercial.mp3
 #EXTINF:-1,[COLOR=white][B]M80 NACIONAL[/B][/COLOR][COLOR=white][/COLOR]
 http://mcrscast.mcr.iol.pt/m80
 
+#EXTINF:-1,[COLOR=white][B]M80 DANCE[/B][/COLOR][COLOR=white][/COLOR]
+https://media2.mcr.iol.pt/wrm80/m80dance.stream/playlist.m3u8 
+
+#EXTINF:-1,[COLOR=white][B]M80 ROCK[/B][/COLOR][COLOR=white][/COLOR]
+https://media2.mcr.iol.pt/wrm80/m80rock.stream/playlist.m3u8 
+
 #EXTINF:-1,[COLOR=white][B]RFM NACIONAL[/B][/COLOR][COLOR=white][/COLOR]
 http://21313.live.streamtheworld.com/RFMAAC.aac
 
 #EXTINF:-1,[COLOR=white][B]RFM - OCEANO PACÍFICO[/B][/COLOR][COLOR=white][/COLOR]
 https://23603.live.streamtheworld.com/OCEANPACIFICAAC_SC?dist=triton-widget&pname=tdwidgets
+
+#EXTINF:-1,[COLOR=white][B]RFM 80´S[/B][/COLOR][COLOR=white][/COLOR]
+https://20863.live.streamtheworld.com/GR80SRFM.mp3
+
+#EXTINF:-1,[COLOR=white][B]RFM DANCEFLOOR[/B][/COLOR][COLOR=white][/COLOR]
+https://25493.live.streamtheworld.com/DANCEONTHEFLOOR.mp3
   
 #EXTINF:-1,[COLOR=white][B]RÁDIO MEGA HITS[/B][/COLOR][COLOR=white][/COLOR]
 http://21313.live.streamtheworld.com/MEGA_HITSAAC.aac
@@ -177,7 +192,10 @@ http://centova.radios.pt:8541/stream/1/
 https://nl.digitalrm.pt:8110/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO CLUBE DA FEIRA[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radio.com.pt:9544/;
-
+#EXTINF:-1,[COLOR=white][B]NOVA PAIVENSE FM[/B][/COLOR][COLOR=white][/COLOR]
+http://paivense.no-ip.info:8080/;
+#EXTINF:-1,[COLOR=white][B]RÁDIO VM FM[/B][/COLOR][COLOR=white][/COLOR]
+https://uk2.streamingpulse.com/ssl/radioavfm
 
 ######################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  ARQUIPÉLAGO: AÇORES  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -315,6 +333,8 @@ http://radios.dotsi.pt:8057/%3Bstream.nsv&type=mp3&volume=50&autostart=true
 https://nl.digitalrm.pt:8140/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO MAIORCA[/B][/COLOR][COLOR=white][/COLOR]
 https://nl.digitalrm.pt:8182/stream
+#EXTINF:-1,[COLOR=white][B]RÁDIO CLUBE DE ARGANIL[/B][/COLOR][COLOR=white][/COLOR]
+http://cast.evsportugal.com:8135/stream
 
 ######################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  DISTRITO: ALGARVE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -387,6 +407,12 @@ http://185.164.137.42:8000/;
 http://centova.radio.com.pt:8061/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO ALCOBAÇA[/B][/COLOR][COLOR=white][/COLOR]
 https://sonic1.transmissaodigital.com/8120/stream
+#EXTINF:-1,[COLOR=white][B]RÁDIO DOM FUAS[/B][/COLOR][COLOR=white][/COLOR]
+https://prosc1.evspt.com/dfuas 
+#EXTINF:-1,[COLOR=white][B]RÁDIO BENEDITA FM[/B][/COLOR][COLOR=white][/COLOR]
+https://centova.radio.com.pt/proxy/446?mp=/stream
+#EXTINF:-1,[COLOR=white][B]RÁDIO CLUBE POMBAL[/B][/COLOR][COLOR=white][/COLOR]
+http://stream.zeno.fm/chgcg161vhhvv
 
 ######################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  DISTRITO: LISBOA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -415,6 +441,8 @@ https://radio.stmsrv.com:8180/
 https://solid24.streamupsolutions.com/proxy/dcofieen?mp=%2Fstream
 #EXTINF:-1,[COLOR=white][B]NOITE FM[/B][/COLOR][COLOR=white][/COLOR]
 http://live.noite.pt:8080/;
+#EXTINF:-1,[COLOR=white][B]RÁDIO OESTE FM[/B][/COLOR][COLOR=white][/COLOR]
+https://sp0.redeaudio.com:10933/live
 
 
 ######################################################################################################################################
