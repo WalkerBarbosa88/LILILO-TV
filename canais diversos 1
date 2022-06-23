@@ -24,7 +24,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]RED BULL TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://api.magiaiptv.com/live/800196/128093/m3_EcfN7yNKhNP89Tp5Q_720p
 
-#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]BEIN SPORTS XTRA ENG. HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]BEIN SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FUEL TV FHD[/B][/COLOR][COLOR=white][/COLOR]
@@ -55,8 +55,6 @@ https://outsidetv-roku-us.amagi.tv/playlistR1080p.m3u8
 https://pac12-roku-us.amagi.tv/playlistR1080p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]AAC NETWORK[/B][/COLOR][COLOR=white][/COLOR]
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BEIN SPORTS XTRA[/B][/COLOR][COLOR=white][/COLOR]
-https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FTF SPORTS[/B][/COLOR][COLOR=white][/COLOR]
 https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SKI TV[/B][/COLOR][COLOR=white][/COLOR]
