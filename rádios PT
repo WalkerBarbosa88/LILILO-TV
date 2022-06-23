@@ -40,8 +40,6 @@ https://s5.radio.co/s9c516a065/listen
 #EXTINF:-1,[COLOR=white][B]RÁDIO ZIG ZAG[/B][/COLOR][COLOR=white][/COLOR]
 https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]ANTENA INFANTIL / RELAX[/B][/COLOR][COLOR=white][/COLOR]
-http://rs2.ptservidor.com:8007/live 
 
 ######################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  RÁDIOS NACIONAIS E/OU ONLINE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -103,12 +101,6 @@ http://mcrscast.mcr.iol.pt/comercial.mp3
 
 #EXTINF:-1,[COLOR=white][B]M80 NACIONAL[/B][/COLOR][COLOR=white][/COLOR]
 http://mcrscast.mcr.iol.pt/m80
-
-#EXTINF:-1,[COLOR=white][B]M80 DANCE[/B][/COLOR][COLOR=white][/COLOR]
-https://media2.mcr.iol.pt/wrm80/m80dance.stream/playlist.m3u8 
-
-#EXTINF:-1,[COLOR=white][B]M80 ROCK[/B][/COLOR][COLOR=white][/COLOR]
-https://media2.mcr.iol.pt/wrm80/m80rock.stream/playlist.m3u8 
 
 #EXTINF:-1,[COLOR=white][B]RFM NACIONAL[/B][/COLOR][COLOR=white][/COLOR]
 http://21313.live.streamtheworld.com/RFMAAC.aac
