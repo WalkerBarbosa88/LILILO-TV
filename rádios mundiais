@@ -73,6 +73,12 @@ https://shout25.crossradio.com.br:18156/1;
 #EXTINF:-1,[COLOR=white][B]RÁDIO PLUS FM[/B][/COLOR][COLOR=white][/COLOR]
 https://webradio.amsolution.com.br/radio/8140/cariri
 
+#EXTINF:-1,[COLOR=white][B]RÁDIO ATLÂNTIDA FM[/B][/COLOR][COLOR=white][/COLOR]
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]TRANSAMÉRICA POP[/B][/COLOR][COLOR=white][/COLOR]
+https://22823.live.streamtheworld.com/RT_SP.mp3
+#EXTINF:-1,[COLOR=white][B]RÁDIO MIX SP[/B][/COLOR][COLOR=white][/COLOR]
+https://18733.live.streamtheworld.com/MIXFM_SAOPAULO.mp3
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  RÁDIOS DE ÁFRICA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -88,6 +94,14 @@ http://radios.vpn.sapo.pt/CV/radio7.mp3
 #EXTINF:-1,[COLOR=white][B]RÁDIO PRAIA FM[/B][/COLOR][COLOR=white][/COLOR]
 http://radios.vpn.sapo.pt/CV/radio4.mp3
 
+#EXTINF:-1,[COLOR=white][B]RNA RÁDIO LUANDA[/B][/COLOR][COLOR=white][/COLOR]
+https://stream.zeno.fm/vyu630hfy4zuv
+#EXTINF:-1,[COLOR=white][B]RÁDIO ROMÂNTICA[/B][/COLOR][COLOR=white][/COLOR]
+http://radios.vpn.sapo.pt/AO/radio4.mp3 
+#EXTINF:-1,[COLOR=white][B]RÁDIO MIRAMAR[/B][/COLOR][COLOR=white][/COLOR]
+https://nl.digitalrm.pt:8066/stream
+#EXTINF:-1,[COLOR=white][B]SUPER FM[/B][/COLOR][COLOR=white][/COLOR]
+http://41.223.153.14:8000/;
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  RÁDIOS DO CANADA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
