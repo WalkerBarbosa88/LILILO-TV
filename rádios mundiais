@@ -9,6 +9,29 @@ FONTE DE INFORMAÇÃO: http://fmstream.org/index.php?c=G&o=top
 #EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 23/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  A STATE OF TRANCE RÁDIO  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+ 
+#EXTM3U
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RADIO ASOT LIVE[/B][/COLOR][COLOR=white][/COLOR]
+http://88.204.56.231:8000/asotlive
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RADIO ASOT ATB[/B][/COLOR][COLOR=white][/COLOR]
+http://88.204.56.231:8000/atb
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RADIO ASOT DEEP[/B][/COLOR][COLOR=white][/COLOR]
+http://88.204.56.231:8000/asotdeep
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RADIO ASOT NONSTOP[/B][/COLOR][COLOR=white][/COLOR]
+http://88.204.56.231:8000/asotnonstop
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RADIO ASOT OLD[/B][/COLOR][COLOR=white][/COLOR]
+http://88.204.56.231:8000/asot-old
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RADIO ASOT RELAX[/B][/COLOR][COLOR=white][/COLOR]
+http://88.204.56.231:8000/asotrelax
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RADIO ASOT TIESTO[/B][/COLOR][COLOR=white][/COLOR]
+http://88.204.56.231:8000/tiesto
+
+
+#######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  TOP HITS & DANCE MUSIC  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
