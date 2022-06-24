@@ -82,7 +82,7 @@ https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNz3.smil/playlist.m3u
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]AL KASS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNz4.smil/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]CAPTITAL OTB BETTING HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]CAPTITAL OTB BET HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d2up1hmow19bcd.cloudfront.net/livecf/liveracing/playlist.m3u8
  
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]DUBAI RACING 1 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -157,6 +157,8 @@ http://pfsv.io:80/07720253/51853/183
 
 #EXTINF:-1,[COLOR=white][B]HGTV USA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://144.76.60.133:8000/play/a06g
+#EXTINF:-1,[COLOR=white][B]HGTV USA FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://38.127.211.18/live/c2eds/HGTV/HLS/index.m3u8
 
 ##########################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  ACROBACIAS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
