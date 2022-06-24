@@ -140,6 +140,9 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playli
 #EXTINF:-1,[COLOR=white][B]THE DESIGN NETWORK[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playlist.m3u8
 
+#EXTINF:-1,[COLOR=white][B]THE OLD HOUSE TV[/B][/COLOR][COLOR=white][/COLOR]
+https://content-aeuf1.uplynk.com/channel/778dfa39720b47d5ab6de27ee3cf81b7/f.m3u8?expand=WebLive&ad.pod[max_pod_dur]=120&ad.vpi=mp4&ad.media_transcoding=high&ad.device[ifa]=&ad.content[livestream]=1&ad.content_page_url=https%253A%252F%252Fwww.thisoldhouse.com%252Fpages%252Fthis-old-houses-live-channel&ad.custom[path_url]=https%253A%252F%252Fwww.thisoldhouse.com%252Fpages%252Fthis-old-houses-live-channel&ad.custom[show]=&ad.token[path_url]=https%253A%252F%252Fwww.thisoldhouse.com%252Fpages%252Fthis-old-houses-live-channel&ad.token[video_id]=5db760ad40dfd15cb69dbed9&ad.token[show]=&ad.token[device]=Web&ad.breakend=drop&pbs=8259a743142948df86ff9857936f2ffb
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1257yH7.png" group-title="USA",[COLOR=white][B]LIVELY PLACE[/B][/COLOR][COLOR=white][/COLOR]
 https://aenetworks-ae-1.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -149,6 +152,11 @@ https://aenetworks-ae-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1257yH7.png" group-title="USA",[COLOR=white][B]LIVELY PLACE[/B][/COLOR][COLOR=white][/COLOR]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc1cb279c91420009db261d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5dc1cb279c91420009db261d&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=615&terminate=false&userId=
 
+#EXTINF:-1,[COLOR=white][B]DISCOVERY HOME & HEALTH HD[/B][/COLOR][COLOR=white][/COLOR]
+http://pfsv.io:80/07720253/51853/183
+
+#EXTINF:-1,[COLOR=white][B]HGTV USA HD[/B][/COLOR][COLOR=white][/COLOR]
+http://144.76.60.133:8000/play/a06g
 
 ##########################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  ACROBACIAS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
