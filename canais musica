@@ -58,6 +58,9 @@ https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]RADIO M2O HD[/B][/COLOR][COLOR=white][/COLOR]
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b2816000.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]URBAN REVOLUTION TV[/B][/COLOR][COLOR=white][/COLOR]
+https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]NRJ HITS[/B][/COLOR][COLOR=white][/COLOR]
 http://37.235.38.139:4000/play/a0ar
 
@@ -338,6 +341,16 @@ https://tls-cl.cdnz.cl/planetatv1/ngrp:live_all//playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,[COLOR=white][B]RADIO 80 FOREVER YOUNG TV[/B][/COLOR][COLOR=white][/COLOR]
 https://585b674743bbb.streamlock.net/9076/9076/chunklist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]VCLASSIC TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,[COLOR=white][B]REWIND TV & RÁDIO HD[/B][/COLOR][COLOR=white][/COLOR]
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,[COLOR=white][B]MEMORIA TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://cloud10.vsgtech.co:3262/live/memoriastv2live.m3u8?PlaylistM3UCL
+
  
 ######################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA LATINA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -371,8 +384,14 @@ https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]TV EXITOS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
 
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]LATINZONE TV[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]LATIN ZONE TV[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
+
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]LATINOS RÁDIO TV[/B][/COLOR][COLOR=white][/COLOR]
+https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]TV EXITOS HD[/B][/COLOR][COLOR=white][/COLOR]
+https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
 
 
 ######################################################################################
