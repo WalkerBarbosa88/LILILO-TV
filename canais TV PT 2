@@ -7,9 +7,48 @@ http://0.0.0.0:0000
  
 #EXTM3U
             
-#EXTINF:-1,[COLOR=orange][B]LISTA EM BREVE[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA EM TESTES - ADICIONADA: 24/06/22[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
-#EXTINF:0 tvg-id="rtp1.pt" group-title="Channels",[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
-http://0000000000000000000000
+
+#EXTINF:-1,### PORTUGAL ###
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159595
+#EXTINF:-1,PT: ELEVEN SPORTS 1 HD
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159576
+#EXTINF:-1,PT: ELEVEN SPORTS 2 HD
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159577
+#EXTINF:-1,PT: ELEVEN SPORTS 3 HD
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159578
+#EXTINF:-1,PT: ELEVEN SPORTS 4 HD
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159579
+#EXTINF:-1,PT: ELEVEN SPORTS 5 HD
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159580
+#EXTINF:-1,PT: ELEVEN SPORTS 6 HD
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159581
+#EXTINF:-1,PT: SPORT TV HD
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159582
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159583
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159584
+#EXTINF:-1,PT: SPORT TV 4
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159585
+#EXTINF:-1,PT: SPORT TV 5
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159586
+#EXTINF:-1,PT: BTV TV
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159587
+#EXTINF:-1,PT: BTV HD
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159588
+#EXTINF:-1,PT: Canal 11 HD
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159589
+#EXTINF:-1,PT: Eurosport 2
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159590
+#EXTINF:-1,PT: Eurosport 1 HD
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159591
+#EXTINF:-1,PT: Motorvision
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159592
+#EXTINF:-1,PT: PFC
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159593
+#EXTINF:-1,PT: Sport Tv Nba HD
+http://tivix.eu:80/RogerNeiss/OHQVAZHFtz/159594
