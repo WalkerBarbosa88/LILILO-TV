@@ -63,50 +63,6 @@ https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
 #EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]STADIUM HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stadium.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]SKY SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800196/128093/m1_skysportsf1_720p
-#EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]GOLF CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800196/128093/m2_JCS538M75GytImCFDMSJ_720p
-#EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]NBA USA TV[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800196/128093/m1_TCGhE0gpOICiHOO9L_720p
-#EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]OFF BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800196/128093/m1_u2BlGNS5ieOZf1KVtQxaIp0R_720p
-
-
-##########################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  DESPORTO PREMIUM ENG. & ÁRABE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://000000
-
-#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]BEIN SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/16163660-22eb-46fd-908c-01cab1efab41" parent-code="" group-title="NooXTV",[COLOR=white][B]BEIN SPORTS ENG. 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800196/128093/m2_ggkPvTiPcSNtLf3ymyMSPY53ksi_720p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/9db42b73-15e7-4e46-9b87-fa89b762d43e" parent-code="" group-title="NooXTV",[COLOR=white][B]BEIN SPORTS ENG. 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800196/128093/m3_JljAFmCUV13gjSLMGt3D6n8q7Lt_720p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b0d889a5-81be-474b-b865-0a10ce552ba9" parent-code="" group-title="NooXTV",[COLOR=white][B]BEIN SPORTS ENG. 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800196/128093/m3_GCcBFnck0TR7e19gmg_720p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/9705d83f-f09b-41a0-af71-7561cff40916" parent-code="" group-title="NooXTV",[COLOR=white][B]BEIN PREMIUM 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800196/128093/m2_dBrQsWUR9FuOGHKtz7tQ64tqSTH_720p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/77fa254a-6d26-430a-a2d5-25a2297cf38d" parent-code="" group-title="NooXTV",[COLOR=white][B]BEIN PREMIUM 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800196/128093/m3_nzx613AAUnJqOOgUbYFRYyKAyhm_720p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/7c595137-5f8f-4abf-bdc3-a9dfddb3bae8" parent-code="" group-title="NooXTV",[COLOR=white][B]BEIN PREMIUM 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800196/128093/m1_ssjfelAbYzoqhYEjGOimmjYlTyj_720p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/890c35bc-cb08-11e9-9f16-003048de22c4" parent-code="" group-title="NooXTV",[COLOR=white][B]BEIN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800196/128093/m1_b3LqtPcVf80FH9zmjuIKYaSdNW4_720p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/956d8d4c-cb08-11e9-8f41-003048de22c4" parent-code="" group-title="NooXTV",[COLOR=white][B]BEIN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800196/128093/m2_kzBnxIpw2nDN4oc2hacjgj5nX8i_720p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/a0f1e3fc-cb08-11e9-842d-003048de22c4" parent-code="" group-title="NooXTV",[COLOR=white][B]BEIN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800196/128093/m3_84EEnC2nxXxTmQcJUE1LLnLCqj9_720p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/aac09324-cb08-11e9-8dba-003048de22c4" parent-code="" group-title="NooXTV",[COLOR=white][B]BEIN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800196/128093/m1_QmvKPghrqboJ5XW5ys7LeOUjn5R_720p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b5361356-cb08-11e9-bd00-003048de22c4" parent-code="" group-title="NooXTV",[COLOR=white][B]BEIN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800196/128093/m2_rBQgv9ZWMgCpBoK09zqQqamkASY_720p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/bff73626-cb08-11e9-9ed5-003048de22c4" parent-code="" group-title="NooXTV",[COLOR=white][B]BEIN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800196/128093/m3_fK7O9ECloybQIPcQ0kOwfg9mUid_720p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/ca551df4-cb08-11e9-b272-003048de22c4" parent-code="" group-title="NooXTV",[COLOR=white][B]BEIN SPORTS 7 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800196/128093/m1_IJuJZjslV1ETJDTkTvWSUKGMR3d_720p
-
 
 ##########################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CASAS E CONSTRUÇÃO  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -130,9 +86,6 @@ https://aenetworks-ae-1.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1257yH7.png" group-title="USA",[COLOR=white][B]LIVELY PLACE[/B][/COLOR][COLOR=white][/COLOR]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc1cb279c91420009db261d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5dc1cb279c91420009db261d&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=615&terminate=false&userId=
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/6586443a-90b6-4f77-a736-7794c0d3b550" parent-code="" group-title="NooXTV",[COLOR=white][B]HGTV BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800196/128093/m4_BHUM6pXTobkuiDgt5mZh1d3Q_720p
 
 
 ##########################################################################################################################
