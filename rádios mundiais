@@ -235,6 +235,15 @@ http://stream.live.vc.bbcmedia.co.uk/bbc_radio_three
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_fourfm
 #EXTINF:-1,[COLOR=white][B]BBC RADIO 4 XTRA[/B][/COLOR][COLOR=white][/COLOR]
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_four_extra
+#EXTINF:-1,[COLOR=white][B]BBC RADIO 5[/B][/COLOR][COLOR=white][/COLOR]
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live_online_nonuk
+#EXTINF:-1,[COLOR=white][B]BBC RADIO 6[/B][/COLOR][COLOR=white][/COLOR]
+http://stream.live.vc.bbcmedia.co.uk/bbc_6music
+#EXTINF:-1,[COLOR=white][B]BBC RADIO MANCHESTER[/B][/COLOR][COLOR=white][/COLOR]
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_manchester
+#EXTINF:-1,[COLOR=white][B]BBC RADIO WORLD SERVICE[/B][/COLOR][COLOR=white][/COLOR]
+http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+
 #EXTINF:-1,[COLOR=white][B]CAPITAL FM[/B][/COLOR][COLOR=white][/COLOR]
 https://media-ice.musicradio.com/CapitalMP3
 #EXTINF:-1,[COLOR=white][B]CAPITAL XTRA FM[/B][/COLOR][COLOR=white][/COLOR]
