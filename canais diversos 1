@@ -139,12 +139,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playli
 
 #EXTINF:-1,[COLOR=white][B]THE OLD HOUSE TV[/B][/COLOR][COLOR=white][/COLOR]
 
-#EXTINF:-1 tvg-id="USBC13000065U" tvg-chno="1213" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/30/USBC13000065U_20220525T030032.png" group-title="USA",#EXTINF:-1,[COLOR=white][B]THIS OLD HOUSE TV[/B][/COLOR][COLOR=white][/COLOR]
-https://d1igp1kv49nlwd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hae5qyvcpgkso-prod/amgthisoldhouse/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="USBC1300005T6" tvg-chno="1214" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/49/USBC1300005T6_20220427T060404.png" group-title="USA",[COLOR=white][B]THIS OLD HOUSE MAKERS TV[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1 tvg-id="USBC1300005T6" tvg-chno="1214" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/49/USBC1300005T6_20220427T060404.png" group-title="USA",[COLOR=white][B]THIS OLD HOUSE TV[/B][/COLOR][COLOR=white][/COLOR]
 https://d2j3i48a0fc7gv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qq20snrqma51q-prod/amgthisoldhousemakers/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1257yH7.png" group-title="USA",[COLOR=white][B]LIVELY PLACE[/B][/COLOR][COLOR=white][/COLOR]
 https://aenetworks-ae-1.samsung.wurl.com/manifest/playlist.m3u8
