@@ -36,10 +36,16 @@ http://88.204.56.231:8000/tiesto
 https://000000
 
 
-#EXTINF:-1,[COLOR=white][B]RADIO KRONEHIT CLUBLAND[/B][/COLOR][COLOR=white][/COLOR]
-https://secureonair.krone.at/kronehit98.mp3
+#EXTINF:-1,[COLOR=white][B]RADIO KRONEHIT GREATEST HITS[/B][/COLOR][COLOR=white][/COLOR]
+https://secureonair.krone.at/kronehit13.mp3
 #EXTINF:-1,[COLOR=white][B]RADIO KRONEHIT HITS[/B][/COLOR][COLOR=white][/COLOR]
 https://secureonair.krone.at/kronehit13.mp3
+#EXTINF:-1,[COLOR=white][B]RADIO KRONEHIT CLUBLAND[/B][/COLOR][COLOR=white][/COLOR]
+https://secureonair.krone.at/kronehit98.mp3
+#EXTINF:-1,[COLOR=white][B]RADIO KRONEHIT DANCE[/B][/COLOR][COLOR=white][/COLOR]
+https://secureonair.krone.at/kronehit23.mp3
+#EXTINF:-1,[COLOR=white][B]RADIO KRONEHIT EURODANCE[/B][/COLOR][COLOR=white][/COLOR]
+https://secureonair.krone.at/kronehit21.mp3
 
 #EXTINF:-1,[COLOR=white][B]TODAY´S HITS[/B][/COLOR][COLOR=white][/COLOR]
 https://rfcmedia.streamguys1.com/MusicPulsePremium.mp3
@@ -69,6 +75,51 @@ https://ultrason.ice.infomaniak.ch/ultrason-high.mp3
 http://radio.promodj.com:8000/top100-192
 #EXTINF:-1,[COLOR=white][B]TOP SUMMER[/B][/COLOR][COLOR=white][/COLOR]
 http://94.130.133.39/topsummerstation.mp3
+
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  TOP HITS 70´S, 80´S E 90´S  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+
+#EXTINF:-1,[COLOR=white][B]80´S HITS[/B][/COLOR][COLOR=white][/COLOR]
+http://prmstrm.1.fm:8000/80s_90s
+#EXTINF:-1,[COLOR=white][B]QMR CLASSIC GOLD 70´S[/B][/COLOR][COLOR=white][/COLOR]
+http://qmr.hopto.org:2020/stream/gold70
+#EXTINF:-1,[COLOR=white][B]QMR CLASSIC GOLD 80´S[/B][/COLOR][COLOR=white][/COLOR]
+http://qmr.hopto.org:2020/stream/gold80
+#EXTINF:-1,[COLOR=white][B]RMI 80´S GOLD[/B][/COLOR][COLOR=white][/COLOR]
+http://ruby.torontocast.com:1630/stream
+#EXTINF:-1,[COLOR=white][B]RADIO 10 60´S & 70´S HITS[/B][/COLOR][COLOR=white][/COLOR]
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18.mp3
+#EXTINF:-1,[COLOR=white][B]RADIO 10 80´S HITS[/B][/COLOR][COLOR=white][/COLOR]
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR20.mp3
+#EXTINF:-1,[COLOR=white][B]RADIO 10 90´S HITS[/B][/COLOR][COLOR=white][/COLOR]
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR22.mp3
+#EXTINF:-1,[COLOR=white][B]NRJ HITS 80´S[/B][/COLOR][COLOR=white][/COLOR]
+http://nrj.de/hits80
+#EXTINF:-1,[COLOR=white][B]NRJ HITS 90´S[/B][/COLOR][COLOR=white][/COLOR]
+http://nrj.de/hits90
+#EXTINF:-1,[COLOR=white][B]RMF 80´S[/B][/COLOR][COLOR=white][/COLOR]
+http://rmfstream1.interia.pl:8000/rmf_80s
+#EXTINF:-1,[COLOR=white][B]RMF 90´S[/B][/COLOR][COLOR=white][/COLOR]
+http://rmfstream1.interia.pl:8000/rmf_90s
+#EXTINF:-1,[COLOR=white][B]HITS 70´S[/B][/COLOR][COLOR=white][/COLOR]
+https://live.radiospinner.com/70hs-64
+#EXTINF:-1,[COLOR=white][B]HITS 80´S[/B][/COLOR][COLOR=white][/COLOR]
+https://live.radiospinner.com/80hs-64
+#EXTINF:-1,[COLOR=white][B]HITS 90´S[/B][/COLOR][COLOR=white][/COLOR]
+https://live.radiospinner.com/90hs-64
+#EXTINF:-1,[COLOR=white][B]ROCK HITS 70´S[/B][/COLOR][COLOR=white][/COLOR]
+https://live.radiospinner.com/70srckhts-64
+#EXTINF:-1,[COLOR=white][B]ROCK HITS 80´S[/B][/COLOR][COLOR=white][/COLOR]
+https://live.radiospinner.com/80srckhts-64
+#EXTINF:-1,[COLOR=white][B]ROCK HITS 90´S[/B][/COLOR][COLOR=white][/COLOR]
+https://live.radiospinner.com/90srckhts-64
+#EXTINF:-1,[COLOR=white][B]WIT 80´S[/B][/COLOR][COLOR=white][/COLOR]
+http://wit80s.ice.infomaniak.ch/wit80s.mp3
+#EXTINF:-1,[COLOR=white][B]WIT 90´S[/B][/COLOR][COLOR=white][/COLOR]
+http://wit90s.ice.infomaniak.ch/wit90s.mp3
 
 
 #######################################################################################################################
