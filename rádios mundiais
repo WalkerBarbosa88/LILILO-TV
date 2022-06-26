@@ -243,7 +243,6 @@ http://stream.live.vc.bbcmedia.co.uk/bbc_6music
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_manchester
 #EXTINF:-1,[COLOR=white][B]BBC RADIO WORLD SERVICE[/B][/COLOR][COLOR=white][/COLOR]
 http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
-
 #EXTINF:-1,[COLOR=white][B]CAPITAL FM[/B][/COLOR][COLOR=white][/COLOR]
 https://media-ice.musicradio.com/CapitalMP3
 #EXTINF:-1,[COLOR=white][B]CAPITAL XTRA FM[/B][/COLOR][COLOR=white][/COLOR]
@@ -263,7 +262,12 @@ https://000000
 
 #EXTM3U
 
-
+#EXTINF:-1,[COLOR=white][B]RNE RADIO NACIONAL[/B][/COLOR][COLOR=white][/COLOR]
+https://crtve-rne1-cnr.cast.addradio.de/crtve/rne1/cnr/mp3/high
+#EXTINF:-1,[COLOR=white][B]RNE MUSICA CLASSICA[/B][/COLOR][COLOR=white][/COLOR]
+https://rtvelivestreamv3.akamaized.net/rtvesec/rne_r2_main.m3u8
+#EXTINF:-1,[COLOR=white][B]RNE RADIO 3[/B][/COLOR][COLOR=white][/COLOR]
+https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/rne_c201_lv3_aosv4_gl0/rne_c201_lv3_aosv4_gl0.isml/rne_c201_lv3_aosv4_gl0-audio_spa=128000-video=1500000.m3u8
 #EXTINF:-1,[COLOR=white][B]RNE RADIO 4[/B][/COLOR][COLOR=white][/COLOR]
 https://rtvelivestreamv3.akamaized.net/rne_r4_main.m3u8
 #EXTINF:-1,[COLOR=white][B]RNE RADIO 5[/B][/COLOR][COLOR=white][/COLOR]
@@ -368,11 +372,22 @@ https://000000
 
 #EXTM3U
 
+
+#EXTINF:-1,[COLOR=white][B]ABC NEWS[/B][/COLOR][COLOR=white][/COLOR]
+http://live-radio01.mediahubaustralia.com/PBW/mp3 
 #EXTINF:-1,[COLOR=white][B]BBC WORLD NEWS[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+#EXTINF:-1,[COLOR=white][B]RNE RADIO 5 NOTICIAS[/B][/COLOR][COLOR=white][/COLOR]
+http://crtve-rne5-lpa.cast.addradio.de/crtve/rne5/lpa/mp3/high
 #EXTINF:-1,[COLOR=white][B]RNE RADIO 5[/B][/COLOR][COLOR=white][/COLOR]
 http://addrad.io/4459dvr
 #EXTINF:-1,[COLOR=white][B]FRANCE INFO[/B][/COLOR][COLOR=white][/COLOR]
 http://icecast.radiofrance.fr/franceinfo-hifi.aac 
 #EXTINF:-1,[COLOR=white][B]EURORADIO FM[/B][/COLOR][COLOR=white][/COLOR]
 http://stream.euroradio.fm:8000/euroradio1
+
+
+
+
+
+
