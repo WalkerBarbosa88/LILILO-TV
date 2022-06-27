@@ -68,7 +68,8 @@ http://45.92.69.77:8000/play/a0fa/index.m3u8
 http://45.92.69.72:8001/play/a032
 #EXTINF:-1,FOX COMEDY HD
 http://45.92.69.77:8000/play/a057/index.m3u8
-
+#EXTINF:-1,FOX COMEDY HD
+http://45.92.69.72:8001/play/a032
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// CANAIS PREMIUM PT /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -81,6 +82,10 @@ http://45.92.69.77:8000/play/a06c/index.m3u8
 http://45.92.69.77:8000/play/a083/index.m3u8
 #EXTINF:-1,SPORT TV+ HD
 http://45.92.69.77:8000/play/a083/index.m3u8
+#EXTINF:-1,SPORT TV+ HD
+http://45.92.69.72:8001/play/a03y
+#EXTINF:-1,SPORT TV+
+http://45.92.69.72:8000/play/a0j1
 
 #EXTINF:-1,SPORT TV 1
 http://45.92.69.77:8000/play/a05w/index.m3u8
@@ -106,6 +111,10 @@ http://45.92.69.77:8000/play/a00a/index.m3u8
 #EXTINF:-1,ELEVEN SPORTS 6
 http://45.92.69.77:8000/play/a00b/index.m3u8
 
+#EXTINF:-1,NOS STUDIOS
+http://45.92.69.77:8000/play/a02h/index.m3u8
+#EXTINF:-1,NOS STUDIOS HD
+http://45.92.69.77:8000/play/a08k/index.m3u8
 #EXTINF:-1,TVCINE ACTION
 http://45.92.69.77:8000/play/a062/index.m3u8
 #EXTINF:-1,TVCINE ACTION HD
@@ -124,6 +133,62 @@ http://45.92.69.77:8000/play/a061/index.m3u8
 http://45.92.69.77:8000/play/a08e/index.m3u8
 
 
+#EXTINF:-1,VENUS HD
+http://45.92.69.77:8000/play/a01s/index.m3u8
+#EXTINF:-1,HOT MAN
+http://45.92.69.77:8000/play/a00m/index.m3u8
+#EXTINF:-1,HOT TABOO
+http://45.92.69.77:8000/play/a00n/index.m3u8
+#EXTINF:-1,HOT HD
+http://45.92.69.77:8000/play/a01r/index.m3u8
+#EXTINF:-1,SEXTREME
+http://45.92.69.77:8000/play/a00l/index.m3u8
+
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]///////// FILMES & SÉRIES TV PT /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+
+#EXTINF:-1,AMC
+http://45.92.69.77:8000/play/a064/index.m3u8
+#EXTINF:-1,AMC HD
+http://45.92.69.77:8000/play/a08c/index.m3u8
+#EXTINF:-1,AXN
+http://45.92.69.77:8000/play/a068/index.m3u8
+#EXTINF:-1,AXN HD
+http://45.92.69.77:8000/play/a07q/index.m3u8
+#EXTINF:-1,AXN MOVIES HD
+http://45.92.69.77:8000/play/a04r/index.m3u8
+#EXTINF:-1,AXN WHITE
+http://45.92.69.77:8000/play/a069/index.m3u8
+#EXTINF:-1,AXN WHITE HD
+http://45.92.69.77:8000/play/a04v/index.m3u8
+#EXTINF:-1,FOX
+http://45.92.69.77:8000/play/a067/index.m3u8
+#EXTINF:-1,FOX CRIME
+http://45.92.69.77:8000/play/a063/index.m3u8
+#EXTINF:-1,FOX CRIME HD
+http://45.92.69.77:8000/play/a07s/index.m3u8
+#EXTINF:-1,FOX HD
+http://45.92.69.77:8000/play/a07r/index.m3u8
+#EXTINF:-1,FOX LIFE
+http://45.92.69.77:8000/play/a05z/index.m3u8
+#EXTINF:-1,FOX LIFE HD
+http://45.92.69.77:8000/play/a07p/index.m3u8
+#EXTINF:-1,FOX MOVIES
+http://45.92.69.77:8000/play/a01i/index.m3u8
+#EXTINF:-1,FOX MOVIES HD
+http://45.92.69.77:8000/play/a09p/index.m3u8
+#EXTINF:-1,HOLLYWOOD
+http://45.92.69.77:8000/play/a06f/index.m3u8
+#EXTINF:-1,HOLLYWOOD HD
+http://45.92.69.77:8000/play/a07o/index.m3u8
+#EXTINF:-1,SYFY
+http://45.92.69.77:8000/play/a02m/index.m3u8
+#EXTINF:-1,SYFY HD
+http://45.92.69.77:8000/play/a05c/index.m3u8
+
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// OUTROS CANAIS PT /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
@@ -135,28 +200,14 @@ http://45.92.69.77:8000/play/a02b/index.m3u8
 http://45.92.69.77:8000/play/a00x/index.m3u8
 #EXTINF:-1,ADVNCE SIC
 http://45.92.69.77:8000/play/a06d/index.m3u8
-#EXTINF:-1,AMC
-http://45.92.69.77:8000/play/a064/index.m3u8
 #EXTINF:-1,AMC BREAK HD
 http://45.92.69.77:8000/play/a001/index.m3u8
 #EXTINF:-1,AMC CRIME HD
 http://45.92.69.77:8000/play/a009/index.m3u8
-#EXTINF:-1,AMC HD
-http://45.92.69.77:8000/play/a08c/index.m3u8
 #EXTINF:-1,ARTE
 http://45.92.69.77:8000/play/a0a7/index.m3u8
 #EXTINF:-1,ARTV
 http://45.92.69.77:8000/play/a0fi/index.m3u8
-#EXTINF:-1,AXN
-http://45.92.69.77:8000/play/a068/index.m3u8
-#EXTINF:-1,AXN HD
-http://45.92.69.77:8000/play/a07q/index.m3u8
-#EXTINF:-1,AXN MOVIES HD
-http://45.92.69.77:8000/play/a04r/index.m3u8
-#EXTINF:-1,AXN WHITE
-http://45.92.69.77:8000/play/a069/index.m3u8
-#EXTINF:-1,AXN WHITE HD
-http://45.92.69.77:8000/play/a04v/index.m3u8
 #EXTINF:-1,AFRO MUSIC
 http://45.92.69.77:8000/play/a0fe/index.m3u8
 #EXTINF:-1,ALL JAZEERA
@@ -167,7 +218,6 @@ http://45.92.69.77:8000/play/a05u/index.m3u8
 http://45.92.69.77:8000/play/a01m/index.m3u8
 #EXTINF:-1,BNT World
 http://45.92.69.77:8000/play/a0al/index.m3u8
-
 #EXTINF:-1,BIGGS
 http://45.92.69.77:8000/play/a0fh/index.m3u8
 #EXTINF:-1,BLAZE
@@ -180,11 +230,8 @@ http://45.92.69.77:8000/play/a02d/index.m3u8
 http://45.92.69.77:8000/play/a0ao/index.m3u8
 #EXTINF:-1,CGTN
 http://45.92.69.77:8000/play/a0ap/index.m3u8
-
-
 #EXTINF:-1,CNBC
 http://45.92.69.77:8000/play/a01u/index.m3u8
-
 #EXTINF:-1,CNN PORTUGAL HD
 http://45.92.69.77:8000/play/a008/index.m3u8
 #EXTINF:-1,CANAL 11 HD
@@ -221,7 +268,6 @@ http://45.92.69.77:8000/play/a01t/index.m3u8
 http://45.92.69.77:8000/play/a02g/index.m3u8
 #EXTINF:-1,E! Entertainment HD
 http://45.92.69.77:8000/play/a024/index.m3u8
-
 #EXTINF:-1,Euronews
 http://45.92.69.77:8000/play/a01j/index.m3u8
 #EXTINF:-1,EUROSPORT 1
@@ -232,23 +278,6 @@ http://45.92.69.77:8000/play/a04x/index.m3u8
 http://45.92.69.77:8000/play/a01z/index.m3u8
 #EXTINF:-1,EUROSPORT 2 HD
 http://45.92.69.77:8000/play/a015/index.m3u8
-#EXTINF:-1,FOX
-http://45.92.69.77:8000/play/a067/index.m3u8
-
-#EXTINF:-1,FOX CRIME
-http://45.92.69.77:8000/play/a063/index.m3u8
-#EXTINF:-1,FOX CRIME HD
-http://45.92.69.77:8000/play/a07s/index.m3u8
-#EXTINF:-1,FOX HD
-http://45.92.69.77:8000/play/a07r/index.m3u8
-#EXTINF:-1,FOX LIFE
-http://45.92.69.77:8000/play/a05z/index.m3u8
-#EXTINF:-1,FOX LIFE HD
-http://45.92.69.77:8000/play/a07p/index.m3u8
-#EXTINF:-1,FOX MOVIES
-http://45.92.69.77:8000/play/a01i/index.m3u8
-#EXTINF:-1,FOX MOVIES HD
-http://45.92.69.77:8000/play/a09p/index.m3u8
 #EXTINF:-1,FTV HD
 http://45.92.69.77:8000/play/a01b/index.m3u8
 #EXTINF:-1,Food Network HD
@@ -263,20 +292,11 @@ http://45.92.69.77:8000/play/a021/index.m3u8
 http://45.92.69.77:8000/play/a07t/index.m3u8
 #EXTINF:-1,GLOBO NOW HD
 http://45.92.69.77:8000/play/a005/index.m3u8
-#EXTINF:-1,HOT Man
-http://45.92.69.77:8000/play/a00m/index.m3u8
-#EXTINF:-1,HOT Taboo
-http://45.92.69.77:8000/play/a00n/index.m3u8
 #EXTINF:-1,HISTÓRIA HD
 http://45.92.69.77:8000/play/a04t/index.m3u8
-#EXTINF:-1,HOLLYWOOD
-http://45.92.69.77:8000/play/a06f/index.m3u8
-#EXTINF:-1,HOLLYWOOD HD
-http://45.92.69.77:8000/play/a07o/index.m3u8
 #EXTINF:-1,Horse TV
 http://45.92.69.77:8000/play/a007/index.m3u8
-#EXTINF:-1,Hot
-http://45.92.69.77:8000/play/a01r/index.m3u8
+
 #EXTINF:-1,IUTV
 http://45.92.69.77:8000/play/a00f/index.m3u8
 #EXTINF:-1,KBS World HD
@@ -299,10 +319,7 @@ http://45.92.69.77:8000/play/a09z/index.m3u8
 http://45.92.69.77:8000/play/a05i/index.m3u8
 #EXTINF:-1,Motorvision HD
 http://45.92.69.77:8000/play/a09s/index.m3u8
-#EXTINF:-1,NOS STUDIOS
-http://45.92.69.77:8000/play/a02h/index.m3u8
-#EXTINF:-1,NOS STUDIOS HD
-http://45.92.69.77:8000/play/a08k/index.m3u8
+
 #EXTINF:-1,National Geographic
 http://45.92.69.77:8000/play/a066/index.m3u8
 #EXTINF:-1,National Geographic HD
@@ -338,12 +355,8 @@ http://45.92.69.77:8000/play/a0fb/index.m3u8
 http://45.92.69.77:8000/play/a002/index.m3u8
 
 
-#EXTINF:-1,SYFY
-http://45.92.69.77:8000/play/a02m/index.m3u8
-#EXTINF:-1,SYFY HD
-http://45.92.69.77:8000/play/a05c/index.m3u8
-#EXTINF:-1,Sextreme
-http://45.92.69.77:8000/play/a00l/index.m3u8
+
+
 #EXTINF:-1,Sky News
 http://45.92.69.77:8000/play/a01p/index.m3u8
 
@@ -367,19 +380,19 @@ http://45.92.69.77:8000/play/a01h/index.m3u8
 #EXTINF:-1,TVE Internacional
 http://45.92.69.77:8000/play/a01q/index.m3u8
 
-#EXTINF:-1,TVI Reality
+#EXTINF:-1,TVI REALITY
 http://45.92.69.77:8000/play/a01g/index.m3u8
-#EXTINF:-1,TVI Reality - CÃ£mara 1
+#EXTINF:-1,TVI REALITY - CÂMARA 1
 http://45.92.69.77:8000/play/a026/index.m3u8
-#EXTINF:-1,TVI Reality - CÃ£mara 2
+#EXTINF:-1,TVI REALITY - CÂMARA 2
 http://45.92.69.77:8000/play/a027/index.m3u8
-#EXTINF:-1,TVI Reality - CÃ£mara 3
+#EXTINF:-1,TVI REALITY - CÂMARA 3
 http://45.92.69.77:8000/play/a028/index.m3u8
-#EXTINF:-1,TVI Reality - CÃ£mara 4
+#EXTINF:-1,TVI REALITY - CÂMARA 4
 http://45.92.69.77:8000/play/a02a/index.m3u8
-#EXTINF:-1,TVI Reality - Mosaico
+#EXTINF:-1,TVI REALITY - Mosaico
 http://45.92.69.77:8000/play/a029/index.m3u8
-#EXTINF:-1,TVI Reality HD
+#EXTINF:-1,TVI REALITY HD
 http://45.92.69.77:8000/play/a04h/index.m3u8
 #EXTINF:-1,Toros TV HD
 http://45.92.69.77:8000/play/a05x/index.m3u8
@@ -389,13 +402,195 @@ http://45.92.69.77:8000/play/a09v/index.m3u8
 http://45.92.69.77:8000/play/a02f/index.m3u8
 #EXTINF:-1,Travel Channel HD
 http://45.92.69.77:8000/play/a04u/index.m3u8
-#EXTINF:-1,Venus
-http://45.92.69.77:8000/play/a01s/index.m3u8
+
 #EXTINF:-1,ZAP Viva HD
 http://45.92.69.77:8000/play/a019/index.m3u8
 #EXTINF:-1,iConcerts HD
 http://45.92.69.77:8000/play/a00j/index.m3u8
 
+
+
+#EXTINF:-1,11
+http://45.92.69.72:8000/play/a0ge
+#EXTINF:-1,24 Kitchen
+http://45.92.69.72:8000/play/a0ha
+#EXTINF:-1,A Bola TV
+http://45.92.69.72:8000/play/a0ho
+#EXTINF:-1,AMC HD
+http://45.92.69.72:8000/play/a0jf
+#EXTINF:-1,ARTV
+http://45.92.69.72:8000/play/a0io
+#EXTINF:-1,AXN HD
+http://45.92.69.72:8000/play/a0go
+#EXTINF:-1,AXN Movies
+http://45.92.69.72:8000/play/a0h6
+#EXTINF:-1,AXN White
+http://45.92.69.72:8000/play/a0h5
+#EXTINF:-1,Afro Music
+http://45.92.69.72:8000/play/a0hh
+#EXTINF:-1,Aljazeera
+http://45.92.69.72:8000/play/a0hi
+#EXTINF:-1,AlmaLusa HD
+http://45.92.69.72:8000/play/a002
+#EXTINF:-1,BBC Entertainment
+http://45.92.69.72:8000/play/a0iz
+#EXTINF:-1,BBC World News
+http://45.92.69.72:8000/play/a0hs
+#EXTINF:-1,Baby TV
+http://45.92.69.72:8000/play/a0jk
+#EXTINF:-1,Biggs
+http://45.92.69.72:8000/play/a0gv
+#EXTINF:-1,Blaze
+http://45.92.69.72:8000/play/a0h4
+#EXTINF:-1,Bloomberg
+http://45.92.69.72:8000/play/a0hp
+#EXTINF:-1,CCTV 4
+http://45.92.69.72:8000/play/a0jh
+#EXTINF:-1,CGTN
+http://45.92.69.72:8000/play/a0j7
+#EXTINF:-1,CMTV
+http://45.92.69.72:8000/play/a0gf
+#EXTINF:-1,CNN
+http://45.92.69.72:8000/play/a0il
+#EXTINF:-1,Canal Panda
+http://45.92.69.72:8000/play/a0ix
+#EXTINF:-1,Canal Q
+http://45.92.69.72:8000/play/a0gn
+#EXTINF:-1,Canção Nova
+http://45.92.69.72:8000/play/a0js
+#EXTINF:-1,Cartoon Network
+http://45.92.69.72:8000/play/a0h3
+#EXTINF:-1,Cinemundo HD
+http://45.92.69.72:8000/play/a0je
+#EXTINF:-1,Clubbing TV
+http://45.92.69.72:8000/play/a0jr
+#EXTINF:-1,Crime+Investigation
+http://45.92.69.72:8000/play/a0j3
+#EXTINF:-1,Deutsche Welle
+http://45.92.69.72:8000/play/a0hv
+#EXTINF:-1,Discovery Channel
+http://45.92.69.72:8000/play/a0hg
+#EXTINF:-1,Disney Channel
+http://45.92.69.72:8000/play/a0gu
+#EXTINF:-1,Disney Júnior
+http://45.92.69.72:8000/play/a0iv
+#EXTINF:-1,Euronews
+http://45.92.69.72:8000/play/a0ik
+#EXTINF:-1,Eurosport 1 HD
+http://45.92.69.72:8000/play/a0gh
+#EXTINF:-1,FOX Crime
+http://45.92.69.72:8000/play/a0h2
+#EXTINF:-1,FOX HD
+http://45.92.69.72:8000/play/a0gm
+#EXTINF:-1,FOX Life
+http://45.92.69.72:8000/play/a0h1
+#EXTINF:-1,FOX Movies HD
+http://45.92.69.72:8000/play/a0h0
+#EXTINF:-1,FTV
+http://45.92.69.72:8000/play/a0hr
+#EXTINF:-1,France 24 (F)
+http://45.92.69.72:8000/play/a0gq
+#EXTINF:-1,France 24 (I)
+http://45.92.69.72:8000/play/a0in
+#EXTINF:-1,Gametoon HD
+http://45.92.69.72:8000/play/a0gi
+#EXTINF:-1,Globo
+http://45.92.69.72:8000/play/a0ji
+#EXTINF:-1,História
+http://45.92.69.72:8000/play/a0he
+#EXTINF:-1,Hollywood HD
+http://45.92.69.72:8000/play/a0jg
+#EXTINF:-1,Jim Jam
+http://45.92.69.72:8000/play/a0iw
+#EXTINF:-1,Localvisão TV HD
+http://45.92.69.72:8000/play/a0gx
+#EXTINF:-1,Lolly Kids HD
+http://45.92.69.72:8000/play/a001
+#EXTINF:-1,M6
+http://45.92.69.72:8000/play/a0hl
+#EXTINF:-1,MCM Pop
+http://45.92.69.72:8000/play/a0jp
+#EXTINF:-1,MCM Top
+http://45.92.69.72:8000/play/a0ih
+#EXTINF:-1,MTV Portugal
+http://45.92.69.72:8000/play/a0h7
+#EXTINF:-1,Mezzo
+http://45.92.69.72:8000/play/a0ii
+#EXTINF:-1,Más Chic
+http://45.92.69.72:8000/play/a0jl
+#EXTINF:-1,NHK World Japan
+http://45.92.69.72:8000/play/a0ja
+#EXTINF:-1,National Geographic
+http://45.92.69.72:8000/play/a0hb
+#EXTINF:-1,Odisseia
+http://45.92.69.72:8000/play/a0hd
+#EXTINF:-1,Porto Canal
+http://45.92.69.72:8000/play/a0j2
+#EXTINF:-1,RTP Açores
+http://45.92.69.72:8000/play/a0ir
+#EXTINF:-1,RTP Madeira
+http://45.92.69.72:8000/play/a0is
+#EXTINF:-1,RTP Memória
+http://45.92.69.72:8000/play/a0gk
+#EXTINF:-1,RTP África
+http://45.92.69.72:8000/play/a0hn
+#EXTINF:-1,RTP1
+http://45.92.69.72:8000/play/a0g7
+#EXTINF:-1,RTP2
+http://45.92.69.72:8000/play/a0g8
+#EXTINF:-1,RTP3
+http://45.92.69.72:8000/play/a0gd
+#EXTINF:-1,Record News
+http://45.92.69.72:8000/play/a0jq
+#EXTINF:-1,SIC
+http://45.92.69.72:8000/play/a0g9
+#EXTINF:-1,SIC Caras
+http://45.92.69.72:8000/play/a0jd
+#EXTINF:-1,SIC K
+http://45.92.69.72:8000/play/a0gs
+#EXTINF:-1,SIC Mulher
+http://45.92.69.72:8000/play/a0gt
+#EXTINF:-1,SIC Notícias
+http://45.92.69.72:8000/play/a0ga
+#EXTINF:-1,SIC Radical
+http://45.92.69.72:8000/play/a0it
+
+#EXTINF:-1,Sky News
+http://45.92.69.72:8000/play/a0im
+#EXTINF:-1,Sporting TV HD
+http://45.92.69.72:8000/play/a0gg
+#EXTINF:-1,SyFy HD
+http://45.92.69.72:8000/play/a0gp
+#EXTINF:-1,TLC
+http://45.92.69.72:8000/play/a0h8
+#EXTINF:-1,TPA
+http://45.92.69.72:8000/play/a0jo
+#EXTINF:-1,TV Galicia
+http://45.92.69.72:8000/play/a0ju
+#EXTINF:-1,TV Record
+http://45.92.69.72:8000/play/a0ij
+#EXTINF:-1,TV5 Monde
+http://45.92.69.72:8000/play/a0hq
+#EXTINF:-1,TVE 24h
+http://45.92.69.72:8000/play/a0jm
+#EXTINF:-1,TVEi
+http://45.92.69.72:8000/play/a0iy
+#EXTINF:-1,TVI
+http://45.92.69.72:8000/play/a0gb
+#EXTINF:-1,TVI Ficção
+http://45.92.69.72:8000/play/a0iu
+#EXTINF:-1,TVI24
+http://45.92.69.72:8000/play/a0gl
+#EXTINF:-1,Trace Urban
+http://45.92.69.72:8000/play/a0ig
+#EXTINF:-1,VH1
+http://45.92.69.72:8000/play/a0hf
+#EXTINF:-1,Veja HD
+http://45.92.69.72:8000/play/a0jx
+#EXTINF:-1,i24News (F)
+http://45.92.69.72:8000/play/a0hj
+#EXTINF:-1,i24News (I)
+http://45.92.69.72:8000/play/a0jt
 
 
 #EXTINF:-1,24Kitchen HD [VDF]
@@ -501,11 +696,10 @@ http://45.92.69.72:8001/play/a00h
 http://45.92.69.72:8001/play/a043
 #EXTINF:-1,SKY News [VDF]
 http://45.92.69.72:8001/play/a03p
-#EXTINF:-1,Sport TV Mais HD [VDF]
-http://45.92.69.72:8001/play/a03y
+
 #EXTINF:-1,Sporting Tv HD [VDF]
 http://45.92.69.72:8001/play/a02n
-#EXTINF:-1,SyFy [VDF]
+#EXTINF:-1,SyFy [VDF+ HD
 http://45.92.69.72:8001/play/a035
 #EXTINF:-1,TLC [VDF]
 http://45.92.69.72:8001/play/a03i
