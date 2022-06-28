@@ -372,89 +372,58 @@ http://45.92.69.72:8001/play/a03c
 http://45.92.69.72:8001/play/a03g
 #EXTINF:0 tvg-id="ext" group-title="Channels",ODISSEIA HD
 http://45.92.69.72:8001/play/a03d
+#EXTINF:0 tvg-id="HistoryChannel.pt" group-title="Channels",CANAL HISTÓRIA
+http://45.92.69.72:8000/play/a0he
 
+****************************************************************** CANAIS NOTÍCIAS  ******************
+
+#EXTINF:0 tvg-id="BBCWorldNews.nws" group-title="Channels",BBC WORLD NEWS 
+http://45.92.69.72:8000/play/a0hs
+#EXTINF:0 tvg-id="ext" group-title="Channels",SKY NEWS
+http://45.92.69.72:8001/play/a03p
+#EXTINF:0 tvg-id="SkyNews.uk" group-title="Channels",SKY NEWS
+http://45.92.69.72:8000/play/a0im
+#EXTINF:0 tvg-id="Euronews.nws" group-title="Channels",EURONEWS PT
+http://45.92.69.72:8000/play/a0ik
+#EXTINF:0 tvg-id="ext" group-title="Channels",FRANCE24
+http://45.92.69.72:8000/play/a0gq
+#EXTINF:0 tvg-id="France24.fr" group-title="Channels",FRANCE24
+http://45.92.69.72:8000/play/a0in
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVC NEWS 
+http://45.92.69.72:8001/play/a03u
+#EXTINF:0 tvg-id="Bloomberg.nws" group-title="Channels",BLOOMBERG
+http://45.92.69.72:8000/play/a0hp
+#EXTINF:0 tvg-id="tv5monde" group-title="Channels",TV5 MONDE
+http://45.92.69.72:8000/play/a0hq
+#EXTINF:0 tvg-id="TVE24h.pt" group-title="Channels",TVE 24H
+http://45.92.69.72:8000/play/a0jm
+#EXTINF:0 tvg-id="TVEi.nws" group-title="Channels",TVE INTER.
+http://45.92.69.72:8000/play/a0iy
+#EXTINF:0 tvg-id="ext" group-title="Channels",I24 NEWS
+http://45.92.69.72:8000/play/a0hj
+#EXTINF:0 tvg-id="i24News.en.nws" group-title="Channels",I24 NEWS
+http://45.92.69.72:8000/play/a0jt
+
+****************************************************************** OUTROS CANAIS  ******************
 
 
 #EXTINF:0 tvg-id="24Kitchen.pt" group-title="Channels",24 KITCHEN
 http://45.92.69.72:8000/play/a0ha
-#EXTINF:0 tvg-id="BBCentertainment.pt" group-title="Channels",BBC ENTERTAINMENT
-http://45.92.69.72:8000/play/a0iz
-#EXTINF:0 tvg-id="BBCWorldNews.nws" group-title="Channels",BBC WORLD NEWS 
-http://45.92.69.72:8000/play/a0hs
-#EXTINF:0 tvg-id="Bloomberg.nws" group-title="Channels",BLOOMBER
-http://45.92.69.72:8000/play/a0hp
-#EXTINF:0 tvg-id="CanalQ.pt" group-title="Channels",CANAL Q
-http://45.92.69.72:8000/play/a0gn
-#EXTINF:0 tvg-id="Euronews.nws" group-title="Channels",Euronews
-http://45.92.69.72:8000/play/a0ik
-#EXTINF:0 tvg-id="fashion" group-title="Channels",FTV
-http://45.92.69.72:8000/play/a0hr
-#EXTINF:0 tvg-id="ext" group-title="Channels",France 24 (F)
-http://45.92.69.72:8000/play/a0gq
-#EXTINF:0 tvg-id="France24.fr" group-title="Channels",France 24 (I)
-http://45.92.69.72:8000/play/a0in
-#EXTINF:0 tvg-id="Gametoon.pl" group-title="Channels",Gametoon HD
-http://45.92.69.72:8000/play/a0gi
-#EXTINF:0 tvg-id="HistoryChannel.pt" group-title="Channels",História
-http://45.92.69.72:8000/play/a0he
-#EXTINF:0 tvg-id="ext" group-title="Channels",Localvisão TV HD
-http://45.92.69.72:8000/play/a0gx
-#EXTINF:0 tvg-id="m6.pt" group-title="Channels",M6
-http://45.92.69.72:8000/play/a0hl
-#EXTINF:0 tvg-id="Maschic.mx" group-title="Channels",Más Chic
-http://45.92.69.72:8000/play/a0jl
-#EXTINF:0 tvg-id="SkyNews.uk" group-title="Channels",Sky News
-http://45.92.69.72:8000/play/a0im
-#EXTINF:0 tvg-id="TLC.pt" group-title="Channels",TLC
-http://45.92.69.72:8000/play/a0h8
-#EXTINF:0 tvg-id="TVGalicia.pt" group-title="Channels",TV Galicia
-http://45.92.69.72:8000/play/a0ju
-#EXTINF:0 tvg-id="tv5monde" group-title="Channels",TV5 Monde
-http://45.92.69.72:8000/play/a0hq
-#EXTINF:0 tvg-id="TVE24h.pt" group-title="Channels",TVE 24h
-http://45.92.69.72:8000/play/a0jm
-#EXTINF:0 tvg-id="TVEi.nws" group-title="Channels",TVEi
-http://45.92.69.72:8000/play/a0iy
-#EXTINF:0 tvg-id="ext" group-title="Channels",Veja HD
-http://45.92.69.72:8000/play/a0jx
-#EXTINF:0 tvg-id="ext" group-title="Channels",i24News (F)
-http://45.92.69.72:8000/play/a0hj
-#EXTINF:0 tvg-id="i24News.en.nws" group-title="Channels",I24 NEWS (I)
-http://45.92.69.72:8000/play/a0jt
 #EXTINF:0 tvg-id="ext" group-title="Channels",24 KITCHEN HD 
 http://45.92.69.72:8001/play/a046
-#EXTINF:0 tvg-id="ext" group-title="Channels",BBC Entertainment 
-http://45.92.69.72:8001/play/a03m
-#EXTINF:0 tvg-id="ext" group-title="Channels",BBC WORLD NEWS 
-http://45.92.69.72:8001/play/a03q
-#EXTINF:0 tvg-id="ext" group-title="Channels",CNBC
-http://45.92.69.72:8001/play/a03r
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 180 
-http://45.92.69.72:8001/play/a03t
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL Q 
-http://45.92.69.72:8001/play/a02m
-#EXTINF:0 tvg-id="ext" group-title="Channels",Deutche Welle 
-http://45.92.69.72:8001/play/a03s
-#EXTINF:0 tvg-id="ext" group-title="Channels",EI HD 
-http://45.92.69.72:8001/play/a03h
-#EXTINF:0 tvg-id="ext" group-title="Channels",FTV 
-http://45.92.69.72:8001/play/a03l
 #EXTINF:0 tvg-id="ext" group-title="Channels",FOOD NETWORK
 http://45.92.69.72:8001/play/a03k
-#EXTINF:0 tvg-id="ext" group-title="Channels",GINX 
-http://45.92.69.72:8001/play/a03n
-#EXTINF:0 tvg-id="ext" group-title="Channels",HISTÓRIA
-http://45.92.69.72:8001/play/a03f
-#EXTINF:0 tvg-id="ext" group-title="Channels",SKY NEWS
-http://45.92.69.72:8001/play/a03p
-#EXTINF:0 tvg-id="ext" group-title="Channels",TLC
-http://45.92.69.72:8001/play/a03i
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVC NEWS 
-http://45.92.69.72:8001/play/a03u
+#EXTINF:0 tvg-id="CanalQ.pt" group-title="Channels",CANAL Q
+http://45.92.69.72:8000/play/a0gn
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL Q 
+http://45.92.69.72:8001/play/a02m
+#EXTINF:0 tvg-id="fashion" group-title="Channels",FTV
+http://45.92.69.72:8000/play/a0hr
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 180 
+http://45.92.69.72:8001/play/a03t
+#EXTINF:0 tvg-id="ext" group-title="Channels",LOCALVISÃO TV HD
+http://45.92.69.72:8000/play/a0gx
 #EXTINF:0 tvg-id="ext" group-title="Channels",TRAVEL HD 
 http://45.92.69.72:8001/play/a03j
-
-
-
 
 
