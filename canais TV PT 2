@@ -212,19 +212,19 @@ http://45.92.69.77:8000/play/a0fi/index.m3u8
 http://45.92.69.77:8000/play/a0fe/index.m3u8
 #EXTINF:-1,ALL JAZEERA
 http://45.92.69.77:8000/play/a0aq/index.m3u8
-#EXTINF:-1,BBC Entertainment
+#EXTINF:-1,BBC ENTERTAINMENT
 http://45.92.69.77:8000/play/a05u/index.m3u8
-#EXTINF:-1,BBC World News
+#EXTINF:-1,BBC WORLD NEWS
 http://45.92.69.77:8000/play/a01m/index.m3u8
-#EXTINF:-1,BNT World
+#EXTINF:-1,BNT WORLD
 http://45.92.69.77:8000/play/a0al/index.m3u8
-#EXTINF:-1,BIGGS
+#EXTINF:-1,PANDA BIGGS
 http://45.92.69.77:8000/play/a0fh/index.m3u8
 #EXTINF:-1,BLAZE
 http://45.92.69.77:8000/play/a05t/index.m3u8
 #EXTINF:-1,BLAZE HD
 http://45.92.69.77:8000/play/a02z/index.m3u8
-#EXTINF:-1,Bloomberg
+#EXTINF:-1,BLOOMBERG HD
 http://45.92.69.77:8000/play/a02d/index.m3u8
 #EXTINF:-1,CCTV4
 http://45.92.69.77:8000/play/a0ao/index.m3u8
@@ -250,25 +250,21 @@ http://45.92.69.77:8000/play/a022/index.m3u8
 http://45.92.69.77:8000/play/a00g/index.m3u8
 #EXTINF:-1,CAÇA & PESCA HD
 http://45.92.69.77:8000/play/a006/index.m3u8
-#EXTINF:-1,Crime + Investigation
+#EXTINF:-1,CRIME+ INVESTIGATION
 http://45.92.69.77:8000/play/a02c/index.m3u8
-#EXTINF:-1,Crime + Investigation HD
+#EXTINF:-1,CRIME+ INVESTIGATION HD
 http://45.92.69.77:8000/play/a02s/index.m3u8
-#EXTINF:-1,Discovery Channel
+#EXTINF:-1,DISCOVERY CHANNEL
 http://45.92.69.77:8000/play/a02k/index.m3u8
-#EXTINF:-1,Discovery HD
+#EXTINF:-1,DISCOVERY HD
 http://45.92.69.77:8000/play/a013/index.m3u8
-#EXTINF:-1,Disney Channel HD
+#EXTINF:-1,DISNEY CHANNEL HD
 http://45.92.69.77:8000/play/a056/index.m3u8
-#EXTINF:-1,Disney Junior HD
+#EXTINF:-1,DISNEY JUNIOR HD
 http://45.92.69.77:8000/play/a03t/index.m3u8
-#EXTINF:-1,DogTV
+#EXTINF:-1,DOG TV HD
 http://45.92.69.77:8000/play/a01t/index.m3u8
-#EXTINF:-1,E! Entertainment
-http://45.92.69.77:8000/play/a02g/index.m3u8
-#EXTINF:-1,E! Entertainment HD
-http://45.92.69.77:8000/play/a024/index.m3u8
-#EXTINF:-1,Euronews
+#EXTINF:-1,EURONEWS
 http://45.92.69.77:8000/play/a01j/index.m3u8
 #EXTINF:-1,EUROSPORT 1
 http://45.92.69.77:8000/play/a025/index.m3u8
@@ -280,11 +276,11 @@ http://45.92.69.77:8000/play/a01z/index.m3u8
 http://45.92.69.77:8000/play/a015/index.m3u8
 #EXTINF:-1,FTV HD
 http://45.92.69.77:8000/play/a01b/index.m3u8
-#EXTINF:-1,Food Network HD
+#EXTINF:-1,FOOD NETWORK HD
 http://45.92.69.77:8000/play/a09t/index.m3u8
 #EXTINF:-1,FRANCE24 INTER.
 http://45.92.69.77:8000/play/a01n/index.m3u8
-#EXTINF:-1,Fuel TV HD
+#EXTINF:-1,FUEL TV HD
 http://45.92.69.77:8000/play/a01c/index.m3u8
 #EXTINF:-1,GLOBO
 http://45.92.69.77:8000/play/a021/index.m3u8
@@ -294,18 +290,15 @@ http://45.92.69.77:8000/play/a07t/index.m3u8
 http://45.92.69.77:8000/play/a005/index.m3u8
 #EXTINF:-1,HISTÓRIA HD
 http://45.92.69.77:8000/play/a04t/index.m3u8
-#EXTINF:-1,Horse TV
+#EXTINF:-1,HORSE TV
 http://45.92.69.77:8000/play/a007/index.m3u8
 
 #EXTINF:-1,IUTV
 http://45.92.69.77:8000/play/a00f/index.m3u8
-#EXTINF:-1,KBS World HD
-http://45.92.69.77:8000/play/a01a/index.m3u8
-#EXTINF:-1,Kuriakos TV
-http://45.92.69.77:8000/play/a02e/index.m3u8
+
 #EXTINF:-1,LOCALVISÃO TV HD
 http://45.92.69.77:8000/play/a055/index.m3u8
-#EXTINF:-1,MCM Pop
+#EXTINF:-1,MCM POP
 http://45.92.69.77:8000/play/a02n/index.m3u8
 #EXTINF:-1,MTV LIVE
 http://45.92.69.77:8000/play/a01e/index.m3u8
@@ -313,71 +306,62 @@ http://45.92.69.77:8000/play/a01e/index.m3u8
 http://45.92.69.77:8000/play/a014/index.m3u8
 #EXTINF:-1,MTV PORTUGAL HD
 http://45.92.69.77:8000/play/a058/index.m3u8
-#EXTINF:-1,Mezzo
+#EXTINF:-1,MEZZO
 http://45.92.69.77:8000/play/a09z/index.m3u8
-#EXTINF:-1,Mezzo Live HD
+#EXTINF:-1,MEZZO LIVE HD
 http://45.92.69.77:8000/play/a05i/index.m3u8
-#EXTINF:-1,Motorvision HD
+#EXTINF:-1,MOTORVISION HD
 http://45.92.69.77:8000/play/a09s/index.m3u8
 
-#EXTINF:-1,National Geographic
+#EXTINF:-1,NATIONAL GEOGRAPHIC
 http://45.92.69.77:8000/play/a066/index.m3u8
-#EXTINF:-1,National Geographic HD
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
 http://45.92.69.77:8000/play/a00y/index.m3u8
-#EXTINF:-1,National Geographic WILD
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
 http://45.92.69.77:8000/play/a01x/index.m3u8
-#EXTINF:-1,National Geographic WILD HD
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD HD
 http://45.92.69.77:8000/play/a059/index.m3u8
-#EXTINF:-1,Nick Jr.
+#EXTINF:-1,NICK JUNIOR
 http://45.92.69.77:8000/play/a01f/index.m3u8
-#EXTINF:-1,Nickelodeon
+#EXTINF:-1,NICKELODEON
 http://45.92.69.77:8000/play/a065/index.m3u8
-#EXTINF:-1,Odisseia
+#EXTINF:-1,ODISSEIA HD
 http://45.92.69.77:8000/play/a02l/index.m3u8
-#EXTINF:-1,Odisseia HD
+#EXTINF:-1,ODISSEIA HD
 http://45.92.69.77:8000/play/a011/index.m3u8
-#EXTINF:-1,Penthouse HD1
+#EXTINF:-1,PENTHOUSE HD1
 http://45.92.69.77:8000/play/a032/index.m3u8
-#EXTINF:-1,Phoenix CNE
-http://45.92.69.77:8000/play/a0ai/index.m3u8
-#EXTINF:-1,Phoenix InfoNews
-http://45.92.69.77:8000/play/a0aj/index.m3u8
-#EXTINF:-1,Playboy TV HD
+
+#EXTINF:-1,PLAYBOY TV HD
 http://45.92.69.77:8000/play/a051/index.m3u8
-#EXTINF:-1,Porto Canal HD
+#EXTINF:-1,PORTO CANAL HD
 http://45.92.69.77:8000/play/a04g/index.m3u8
 
-#EXTINF:-1,Rai News 24
+#EXTINF:-1,RAI NEWS 24
 http://45.92.69.77:8000/play/a0an/index.m3u8
-#EXTINF:-1,Record News
+#EXTINF:-1,RECORD NEWS 
 http://45.92.69.77:8000/play/a0fb/index.m3u8
 #EXTINF:-1,S+ HD
 http://45.92.69.77:8000/play/a002/index.m3u8
-
-
-
-
-#EXTINF:-1,Sky News
+#EXTINF:-1,SKY NEWS 
 http://45.92.69.77:8000/play/a01p/index.m3u8
-
-#EXTINF:-1,Sporting TV
+#EXTINF:-1,SPORTING TV
 http://45.92.69.77:8000/play/a020/index.m3u8
-#EXTINF:-1,TCV Internacional
+#EXTINF:-1,TCV INTER. 
 http://45.92.69.77:8000/play/a040/index.m3u8
 #EXTINF:-1,TLC
 http://45.92.69.77:8000/play/a01l/index.m3u8
-#EXTINF:-1,TPA Internacional
+#EXTINF:-1,TPA INTER.
 http://45.92.69.77:8000/play/a0a2/index.m3u8
-#EXTINF:-1,TV Galicia
+#EXTINF:-1,TV GALICIA
 http://45.92.69.77:8000/play/a01y/index.m3u8
-#EXTINF:-1,TV Record
+#EXTINF:-1,TV RECORD
 http://45.92.69.77:8000/play/a01w/index.m3u8
-#EXTINF:-1,TV Record HD
+#EXTINF:-1,TV RECORD HD
 http://45.92.69.77:8000/play/a010/index.m3u8
-
-#EXTINF:-1,TVE 24h
+#EXTINF:-1,TVE 24H
 http://45.92.69.77:8000/play/a01h/index.m3u8
-#EXTINF:-1,TVE Internacional
+#EXTINF:-1,TVE INTER.
 http://45.92.69.77:8000/play/a01q/index.m3u8
 
 #EXTINF:-1,TVI REALITY
@@ -396,25 +380,25 @@ http://45.92.69.77:8000/play/a029/index.m3u8
 http://45.92.69.77:8000/play/a04h/index.m3u8
 #EXTINF:-1,Toros TV HD
 http://45.92.69.77:8000/play/a05x/index.m3u8
-#EXTINF:-1,Trace Urban HD
+#EXTINF:-1,TRACE URBAN HD
 http://45.92.69.77:8000/play/a09v/index.m3u8
-#EXTINF:-1,Travel Channel
+#EXTINF:-1,TRAVEL CHANNEL
 http://45.92.69.77:8000/play/a02f/index.m3u8
-#EXTINF:-1,Travel Channel HD
+#EXTINF:-1,TRAVEL CHANNEL HD
 http://45.92.69.77:8000/play/a04u/index.m3u8
 
-#EXTINF:-1,ZAP Viva HD
+#EXTINF:-1,ZAP VIVA HD
 http://45.92.69.77:8000/play/a019/index.m3u8
-#EXTINF:-1,iConcerts HD
+#EXTINF:-1,ICONCERTS HD
 http://45.92.69.77:8000/play/a00j/index.m3u8
 
 
 
 #EXTINF:-1,11
 http://45.92.69.72:8000/play/a0ge
-#EXTINF:-1,24 Kitchen
+#EXTINF:-1,24 KITCHEN
 http://45.92.69.72:8000/play/a0ha
-#EXTINF:-1,A Bola TV
+#EXTINF:-1,A BOLA TV
 http://45.92.69.72:8000/play/a0ho
 #EXTINF:-1,AMC HD
 http://45.92.69.72:8000/play/a0jf
@@ -422,27 +406,27 @@ http://45.92.69.72:8000/play/a0jf
 http://45.92.69.72:8000/play/a0io
 #EXTINF:-1,AXN HD
 http://45.92.69.72:8000/play/a0go
-#EXTINF:-1,AXN Movies
+#EXTINF:-1,AXN MOVIES
 http://45.92.69.72:8000/play/a0h6
-#EXTINF:-1,AXN White
+#EXTINF:-1,AXN WHITE
 http://45.92.69.72:8000/play/a0h5
-#EXTINF:-1,Afro Music
+#EXTINF:-1,AFRO MUSIC
 http://45.92.69.72:8000/play/a0hh
-#EXTINF:-1,Aljazeera
+#EXTINF:-1,ALL JAZEERA
 http://45.92.69.72:8000/play/a0hi
-#EXTINF:-1,AlmaLusa HD
+#EXTINF:-1,ALMA LUSA HD
 http://45.92.69.72:8000/play/a002
 #EXTINF:-1,BBC Entertainment
 http://45.92.69.72:8000/play/a0iz
 #EXTINF:-1,BBC World News
 http://45.92.69.72:8000/play/a0hs
-#EXTINF:-1,Baby TV
+#EXTINF:-1,BABY TV
 http://45.92.69.72:8000/play/a0jk
-#EXTINF:-1,Biggs
+#EXTINF:-1,PANDA BIGGS
 http://45.92.69.72:8000/play/a0gv
-#EXTINF:-1,Blaze
+#EXTINF:-1,BLAZE
 http://45.92.69.72:8000/play/a0h4
-#EXTINF:-1,Bloomberg
+#EXTINF:-1,BLOOMBERG
 http://45.92.69.72:8000/play/a0hp
 #EXTINF:-1,CCTV 4
 http://45.92.69.72:8000/play/a0jh
@@ -452,59 +436,58 @@ http://45.92.69.72:8000/play/a0j7
 http://45.92.69.72:8000/play/a0gf
 #EXTINF:-1,CNN
 http://45.92.69.72:8000/play/a0il
-#EXTINF:-1,Canal Panda
+#EXTINF:-1,CANAL PANDA
 http://45.92.69.72:8000/play/a0ix
-#EXTINF:-1,Canal Q
+#EXTINF:-1,CANAL Q
 http://45.92.69.72:8000/play/a0gn
-#EXTINF:-1,Canção Nova
+#EXTINF:-1,CANÇÃO NOVA
 http://45.92.69.72:8000/play/a0js
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1,CARTOON NETWORK
 http://45.92.69.72:8000/play/a0h3
-#EXTINF:-1,Cinemundo HD
+#EXTINF:-1,CINEMUNDO HD
 http://45.92.69.72:8000/play/a0je
-#EXTINF:-1,Clubbing TV
+#EXTINF:-1,CLUBBING TV
 http://45.92.69.72:8000/play/a0jr
-#EXTINF:-1,Crime+Investigation
+#EXTINF:-1,CRIME+ INVESTIGATION
 http://45.92.69.72:8000/play/a0j3
-#EXTINF:-1,Deutsche Welle
-http://45.92.69.72:8000/play/a0hv
-#EXTINF:-1,Discovery Channel
+
+#EXTINF:-1,DISCOVERY CHANNEL
 http://45.92.69.72:8000/play/a0hg
-#EXTINF:-1,Disney Channel
+#EXTINF:-1,DISNEY CHANNEL
 http://45.92.69.72:8000/play/a0gu
-#EXTINF:-1,Disney Júnior
+#EXTINF:-1,DISNEY JUNIOR
 http://45.92.69.72:8000/play/a0iv
-#EXTINF:-1,Euronews
+#EXTINF:-1,EURONEWS
 http://45.92.69.72:8000/play/a0ik
-#EXTINF:-1,Eurosport 1 HD
+#EXTINF:-1,EUROSPORT 1 HD
 http://45.92.69.72:8000/play/a0gh
-#EXTINF:-1,FOX Crime
+#EXTINF:-1,FOX CRIME
 http://45.92.69.72:8000/play/a0h2
 #EXTINF:-1,FOX HD
 http://45.92.69.72:8000/play/a0gm
-#EXTINF:-1,FOX Life
+#EXTINF:-1,FOX LIFE
 http://45.92.69.72:8000/play/a0h1
-#EXTINF:-1,FOX Movies HD
+#EXTINF:-1,FOX MOVIES HD
 http://45.92.69.72:8000/play/a0h0
 #EXTINF:-1,FTV
 http://45.92.69.72:8000/play/a0hr
-#EXTINF:-1,France 24 (F)
+#EXTINF:-1,FRANCE24
 http://45.92.69.72:8000/play/a0gq
-#EXTINF:-1,France 24 (I)
+#EXTINF:-1,FRANCE24 
 http://45.92.69.72:8000/play/a0in
-#EXTINF:-1,Gametoon HD
+#EXTINF:-1,GAMETOON HD
 http://45.92.69.72:8000/play/a0gi
-#EXTINF:-1,Globo
+#EXTINF:-1,GLOBO HD
 http://45.92.69.72:8000/play/a0ji
-#EXTINF:-1,História
+#EXTINF:-1,CANAL HISTÓRIA
 http://45.92.69.72:8000/play/a0he
-#EXTINF:-1,Hollywood HD
+#EXTINF:-1,HOLLYWOOD HD
 http://45.92.69.72:8000/play/a0jg
-#EXTINF:-1,Jim Jam
+#EXTINF:-1,JIMJAM HD
 http://45.92.69.72:8000/play/a0iw
-#EXTINF:-1,Localvisão TV HD
+#EXTINF:-1,LOCALVISÃO TV HD
 http://45.92.69.72:8000/play/a0gx
-#EXTINF:-1,Lolly Kids HD
+#EXTINF:-1,LOLLY KIDS HD
 http://45.92.69.72:8000/play/a001
 #EXTINF:-1,M6
 http://45.92.69.72:8000/play/a0hl
@@ -802,132 +785,5 @@ http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1499
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1503
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 3
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1506
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 4
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1509
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 5
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1512
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 6
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1515
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: euronews
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/4007
-#EXTINF:0 tvg-id="Eurosport1.pt" group-title="Channels",PT: EUROSPORT 1
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1517
-#EXTINF:0 tvg-id="Eurosport2.pt" group-title="Channels",PT: EUROSPORT 2
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1518
-#EXTINF:0 tvg-id="FoodNetwork.pt" group-title="Channels",PT: Food Network
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/2044
-#EXTINF:0 tvg-id="fox.pt" group-title="Channels",PT: FOX
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1461
-#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",PT: FOX COMEDY
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1465
-#EXTINF:0 tvg-id="foxcrime.pt" group-title="Channels",PT: FOX Crime
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1463
-#EXTINF:0 tvg-id="foxlife.pt" group-title="Channels",PT: FOX Life
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1459
-#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",PT: FOX Movies
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1457
-#EXTINF:0 tvg-id="FuelTV.pt" group-title="Channels",PT: Fuel TV
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1521
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: HBO PORTUGAL
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/201073
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: History
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1525
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Investigation Discovery
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/5914
-#EXTINF:0 tvg-id="JimJam.pt" group-title="Channels",PT: JimJam
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1442
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: KURIAKOS KIDS
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/10828
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: KURIAKOS TV
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/9697
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: MEO Videoclube
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/265255
-#EXTINF:0 tvg-id="Motorvision.pt" group-title="Channels",PT: Motorvision TV
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/4012
-#EXTINF:0 tvg-id="mtvportugal.pt" group-title="Channels",PT: MTV Portugal
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1534
-#EXTINF:0 tvg-id="nationalgeographic.pt" group-title="Channels",PT: NAT GEO
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1530
-#EXTINF:0 tvg-id="NatGeoWild.pt" group-title="Channels",PT: NAT GEO Wild
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1531
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Nick Junior
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/9693
-#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Channels",PT: nickelodeon
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1436
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Nos Studios
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1454
-#EXTINF:0 tvg-id="odisseia.pt" group-title="Channels",PT: Odisseia
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1532
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: PANDA Kids
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/290678
-#EXTINF:0 tvg-id="PortoCanal.pt" group-title="Channels",PT: Porto Canal
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1419
-#EXTINF:0 tvg-id="rtp1.pt" group-title="Channels",PT: RTP 1
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1404
-#EXTINF:0 tvg-id="rtp2.pt" group-title="Channels",PT: RTP 2
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1406
-#EXTINF:0 tvg-id="RTP3.pt" group-title="Channels",PT: RTP 3
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1418
-#EXTINF:0 tvg-id="RTPAcores.pt" group-title="Channels",PT: RTP Açores
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/2055
-#EXTINF:0 tvg-id="RTPMadeira.pt" group-title="Channels",PT: RTP Madeira
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/278558
-#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Channels",PT: RTP Memória
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1425
-#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Channels",PT: RTP África
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1424
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SAUDE+
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/81973
-#EXTINF:0 tvg-id="sic.pt" group-title="Channels",PT: SIC
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1408
-#EXTINF:0 tvg-id="SicCaras.pt" group-title="Channels",PT: SIC Caras
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/5910
-#EXTINF:0 tvg-id="SicK.pt" group-title="Channels",PT: SIC K
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/4021
-#EXTINF:0 tvg-id="sicmulher.pt" group-title="Channels",PT: SIC MULHER
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1427
-#EXTINF:0 tvg-id="sicnoticias.pt" group-title="Channels",PT: SIC NOTÍCIAS
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1416
-#EXTINF:0 tvg-id="sicradical.pt" group-title="Channels",PT: SIC RADICAK
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1429
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",PT: SPORT TV +
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1481
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1483
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1486
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1489
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1492
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT: SPORT TV 5
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1495
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 6
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/281487
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV NBA
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/2051
-#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",PT: Sporting TV
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1519
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SYFY Portugal
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1475
-#EXTINF:0 tvg-id="TLC.pt" group-title="Channels",PT: TLC
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1479
-#EXTINF:0 tvg-id="TravelChannel.pt" group-title="Channels",PT: Travel Channel
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1529
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE Action
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1452
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE Edition
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/82254
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE Emotion
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1448
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE Top
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1446
-#EXTINF:0 tvg-id="TVI.pt" group-title="Channels",PT: TVI
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1410
-#EXTINF:0 tvg-id="TVIFiccao.pt" group-title="Channels",PT: TVI Ficção
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1421
-#EXTINF:0 tvg-id="TVIReal.pt" group-title="Channels",PT: TVI Reality
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1423
-
 
 
