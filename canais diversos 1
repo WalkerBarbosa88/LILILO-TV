@@ -154,8 +154,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc1cb279c91420009
 #EXTINF:-1,[COLOR=white][B]DISCOVERY HOME & HEALTH HD[/B][/COLOR][COLOR=white][/COLOR]
 http://pfsv.io:80/07720253/51853/183
 
-#EXTINF:-1,[COLOR=white][B]HGTV USA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://144.76.60.133:8000/play/a06g
 #EXTINF:-1,[COLOR=white][B]HGTV USA FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://38.127.211.18/live/c2eds/HGTV/HLS/index.m3u8
 
