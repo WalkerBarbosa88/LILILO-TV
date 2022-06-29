@@ -4,7 +4,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA 1 REVISTA: 24/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA 1 REVISTA: 29/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -60,12 +60,6 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/c
 
 #EXTINF:-1,[COLOR=white][B]MTV CLUB HD[/B][/COLOR][COLOR=white][/COLOR]
 http://cdnua06.hls.tv/476/hls/0v8gnwlpo3dtf24ysm1rbcqx6uea79ji/264/stream.m3u8
-
-#EXTINF:-1,[COLOR=white][B]NRJ HITS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/221
-
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]NRJ HITS[/B][/COLOR][COLOR=white][/COLOR]
-http://37.235.38.139:4000/play/a0ar
 
 #EXTINF:-1 tvg-logo="" group-title="TV Musicas",[COLOR=white][B]ONE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://rtmp.one.by:1300
@@ -224,8 +218,6 @@ https://live.prd.dlive.tv/hls/live/fila007.m3u8
 #EXTINF:-1,[COLOR=white][B]TRANCE IS STAR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://tis.catcast.tv/content/391/index.m3u8
 
-#EXTINF:-1,[COLOR=white][B]MIX MY DAY TV[/B][/COLOR][COLOR=white][/COLOR]
-https://mmdtv.ddns.net:3400/live/mixmydaylive.m3u8
 
 ######################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  MÚSICA AFRICANA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -236,6 +228,9 @@ https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,[COLOR=white][B]DBM TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]RTJ MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/121774
 
 ######################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  MÚSICAS ALTERNATIVAS & AO VIVO /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -495,9 +490,10 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #######################################################################################################################################################################
 #######################################################################################################################################################################
 
-#EXTINF:-1,[COLOR=yellow][B]///////// STINGRAY & PLUTO TV - REVISTA: 21/06/2022 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]///////// STINGRAY & PLUTO TV - REVISTA: 29/06/2022 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #EXTM3U
+
 
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]STINGRAY GREATEST HITS[/B][/COLOR][COLOR=white][/COLOR]
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
