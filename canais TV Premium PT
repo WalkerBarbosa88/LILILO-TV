@@ -25,40 +25,8 @@ https://00000000000
 
 #EXTM3U
 
-
-#EXTINF:-1,ELEVEN SPORTS 1
-http://45.92.69.77:8000/play/a00d/index.m3u8
-#EXTINF:-1,ELEVEN SPORTS 2
-http://45.92.69.77:8000/play/a00h/index.m3u8
-#EXTINF:-1,ELEVEN SPORTS 3
-http://45.92.69.77:8000/play/a00c/index.m3u8
-#EXTINF:-1,ELEVEN SPORTS 5
-http://45.92.69.77:8000/play/a00a/index.m3u8
-#EXTINF:-1,ELEVEN SPORTS 6
-http://45.92.69.77:8000/play/a00b/index.m3u8
-
-#EXTINF:-1,NOS STUDIOS
-http://45.92.69.77:8000/play/a02h/index.m3u8
-#EXTINF:-1,NOS STUDIOS HD
-http://45.92.69.77:8000/play/a08k/index.m3u8
-#EXTINF:-1,TVCINE ACTION
-http://45.92.69.77:8000/play/a062/index.m3u8
-#EXTINF:-1,TVCINE ACTION HD
-http://45.92.69.77:8000/play/a08f/index.m3u8
-#EXTINF:-1,TVCINE EDITION
-http://45.92.69.77:8000/play/a05y/index.m3u8
-#EXTINF:-1,TVCINE EDITION HD
-http://45.92.69.77:8000/play/a037/index.m3u8
-#EXTINF:-1,TVCINE EMOTION
-http://45.92.69.77:8000/play/a060/index.m3u8
-#EXTINF:-1,TVCINE EMOTION HD
-http://45.92.69.77:8000/play/a05g/index.m3u8
-#EXTINF:-1,TVCINE TOP
-http://45.92.69.77:8000/play/a061/index.m3u8
-#EXTINF:-1,TVCINE TOP HD
-http://45.92.69.77:8000/play/a08e/index.m3u8
-
-
+#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
+http://00000000000000000000000000000
 
 
 ####################################################################################################################################
@@ -194,6 +162,8 @@ http://45.92.69.77:8000/play/a06c/index.m3u8
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1497
 #EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a06c/index.m3u8
+#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1497
 
 
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
@@ -215,6 +185,8 @@ http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJIlbAuux2Qjgom4M0Y1VZBc/ts
 http://45.92.69.77:8000/play/a00d/index.m3u8
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1499
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR] 
+http://45.92.69.77:8000/play/a00d/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJLdC6sguiyX8N2QI-yX-d64/ts
@@ -222,6 +194,8 @@ http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJLdC6sguiyX8N2QI-yX-d64/ts
 http://45.92.69.77:8000/play/a00h/index.m3u8
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1503
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR] 
+http://45.92.69.77:8000/play/a00h/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJCj-3rEl3NmItfMAMT_ShRE/ts
@@ -231,6 +205,8 @@ http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJCj-3rEl3NmItfMAMT_ShRE/ts
 http://45.92.69.77:8000/play/a00c/index.m3u8
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1506
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR] 
+http://45.92.69.77:8000/play/a00c/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJOSZsWI3Dx4VfxyLQOwcoX0/ts
@@ -247,6 +223,8 @@ http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJCK3CZq-25JorpVxvxLOm6M/ts
 http://45.92.69.77:8000/play/a00a/index.m3u8
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1512
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR] 
+http://45.92.69.77:8000/play/a00a/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJFGRezPP_E_YrLaVH7MB7KE/ts
@@ -256,6 +234,9 @@ http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJFGRezPP_E_YrLaVH7MB7KE/ts
 http://45.92.69.77:8000/play/a00b/index.m3u8
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1515
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR] 
+http://45.92.69.77:8000/play/a00b/index.m3u8
+
 
 #EXTM3U
 
@@ -273,21 +254,46 @@ https://0000000
 http://45.92.69.77:8000/play/a02h/index.m3u8
 #EXTINF:-1,[COLOR=white][B]NOS STUDIOS HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://45.92.69.77:8000/play/a08k/index.m3u8
+#EXTINF:-1,[COLOR=white][B]NOS STUDIOS HD[/B][/COLOR][COLOR=white][/COLOR] 
+http://45.92.69.77:8000/play/a02h/index.m3u8
+#EXTINF:-1,[COLOR=white][B]NOS STUDIOS HD[/B][/COLOR][COLOR=white][/COLOR] 
+http://45.92.69.77:8000/play/a08k/index.m3u8
+
 #EXTINF:-1,[COLOR=white][B]TVCINE ACTION[/B][/COLOR][COLOR=white][/COLOR] 
 http://45.92.69.77:8000/play/a062/index.m3u8
 #EXTINF:-1,[COLOR=white][B]TVCINE ACTION HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://45.92.69.77:8000/play/a08f/index.m3u8
+#EXTINF:-1,[COLOR=white][B]TVCINE ACTION HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.77:8000/play/a062/index.m3u8
+#EXTINF:-1,[COLOR=white][B]TVCINE ACTION HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.77:8000/play/a08f/index.m3u8
+
 #EXTINF:-1,[COLOR=white][B]TVCINE EDITION[/B][/COLOR][COLOR=white][/COLOR] 
 http://45.92.69.77:8000/play/a05y/index.m3u8
 #EXTINF:-1,[COLOR=white][B]TVCINE EDITION HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://45.92.69.77:8000/play/a037/index.m3u8
+#EXTINF:-1,[COLOR=white][B]TVCINE EDITION HD[/B][/COLOR][COLOR=white][/COLOR] 
+http://45.92.69.77:8000/play/a05y/index.m3u8
+#EXTINF:-1,[COLOR=white][B]TVCINE EDITION HD[/B][/COLOR][COLOR=white][/COLOR] 
+http://45.92.69.77:8000/play/a037/index.m3u8
+
 #EXTINF:-1,[COLOR=white][B]TVCINE EMOTION[/B][/COLOR][COLOR=white][/COLOR] 
 http://45.92.69.77:8000/play/a060/index.m3u8
 #EXTINF:-1,[COLOR=white][B]TVCINE EMOTION HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://45.92.69.77:8000/play/a05g/index.m3u8
+#EXTINF:-1,[COLOR=white][B]TVCINE EMOTION HD[/B][/COLOR][COLOR=white][/COLOR] 
+http://45.92.69.77:8000/play/a060/index.m3u8
+#EXTINF:-1,[COLOR=white][B]TVCINE EMOTION HD[/B][/COLOR][COLOR=white][/COLOR] 
+http://45.92.69.77:8000/play/a05g/index.m3u8
+
 #EXTINF:-1,[COLOR=white][B]TVCINE TOP[/B][/COLOR][COLOR=white][/COLOR] 
 http://45.92.69.77:8000/play/a061/index.m3u8
 #EXTINF:-1,[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://45.92.69.77:8000/play/a08e/index.m3u8
+#EXTINF:-1,[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR] 
+http://45.92.69.77:8000/play/a061/index.m3u8
+#EXTINF:-1,[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR] 
+http://45.92.69.77:8000/play/a08e/index.m3u8
+
 
 
