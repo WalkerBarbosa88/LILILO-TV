@@ -61,8 +61,8 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/c
 #EXTINF:-1,[COLOR=white][B]MTV CLUB HD[/B][/COLOR][COLOR=white][/COLOR]
 http://cdnua06.hls.tv/476/hls/0v8gnwlpo3dtf24ysm1rbcqx6uea79ji/264/stream.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]URBAN REVOLUTION TV[/B][/COLOR][COLOR=white][/COLOR]
-https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,[COLOR=white][B]NRJ HITS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/221
 
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]NRJ HITS[/B][/COLOR][COLOR=white][/COLOR]
 http://37.235.38.139:4000/play/a0ar
