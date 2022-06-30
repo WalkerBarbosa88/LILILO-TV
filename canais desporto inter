@@ -1,12 +1,10 @@
 ####################################################################################################################################
-#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]//////////////  CANAIS DESPORTO INTERNACIONAIS  /////////////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]//////////////  CANAIS DESPORTO MUNDIAIS  /////////////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
 http://0.0.0.0:0000
 ####################################################################################################################################
  
 FONTE DE INFORMAÇÃO: 
               https://global-satinfo.in/viewtopic.php?f=22&t=315&start=410
-
-
 
 #EXTM3U
  
@@ -14,11 +12,77 @@ FONTE DE INFORMAÇÃO:
 
 #EXTM3U
 
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]///////// CANAIS FAVORITOS DESPORTO /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
 
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1 PT
 http://93.152.174.144:4000/play/a00f/index.m3u8
-#EXTINF:0 tvg-id="Barca.pt" group-title="Channels",BARCA TV
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1 PT
+http://93.152.174.144:4000/play/sporttv1/index.m3u8
+#EXTINF:0 tvg-id="Barca.pt" group-title="Channels",BARÇA TV
 http://93.152.174.144:4000/play/barcatv/index.m3u8
+
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]///////// CANAIS DESPORTO UK /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="Channels",UK: BT SPORT 1
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/270
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="Channels",UK: BT SPORT 2
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/273
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="Channels",UK: BT SPORT 3
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/271
+#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="Channels",UK: BT SPORT ESPN
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1124
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT SPORT EXTRA 1
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/7435
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT SPORT EXTRA 2
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/47961
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT SPORT EXTRA 3
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/279255
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT SPORT EXTRA 4
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/283203
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT SPORT EXTRA 5
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/7438
+#EXTINF:0 tvg-id="Eurosport1.uk" group-title="Channels",UK: EUROSPORT 1
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/692
+#EXTINF:0 tvg-id="Eurosport2.uk" group-title="Channels",UK: EUROSPORT 2
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1555
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: PREMIER SPORTS 1
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1097
+#EXTINF:0 tvg-id="PremierSports2.uk" group-title="Channels",UK: PREMIER SPORTS 2
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/4723
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: RUGBY WORLD TV
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/281576
+#EXTINF:0 tvg-id="SkySpAction.uk" group-title="Channels",UK: SKY SPORTS ACTION
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/268
+#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Channels",UK: SKY SPORTS ARENA
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/267
+#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="Channels",UK: SKY SPORTS CRICKET
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/269
+#EXTINF:0 tvg-id="SkySpF1.uk" group-title="Channels",UK: SKY SPORTS F1
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/265
+#EXTINF:0 tvg-id="SkySpFball.uk" group-title="Channels",UK: SKY SPORTS FOOTBALL
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/266
+#EXTINF:0 tvg-id="SkySpTheOpen.uk" group-title="Channels",UK: SKY SPORTS GOLF
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/264
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Channels",UK: SKY SPORTS MAIN EVENT
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/283053
+#EXTINF:0 tvg-id="SkySpMix.uk" group-title="Channels",UK: SKY SPORTS MIX
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/261
+#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="Channels",UK: SKY SPORTS NEWS
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/260
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Channels",UK: SKY SPORTS PREMIER LEAGUE
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/263
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]///////// OUTROS CANAIS DESPORTO /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport 1 AR
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 #EXTINF:0 tvg-id="beINSport1.fr" group-title="Channels",Bein Sport 1 FR
@@ -43,24 +107,11 @@ http://93.152.174.144:4000/play/btsportespn/index.m3u8
 http://93.152.174.144:4000/play/cuatrosp/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Energy SP
 http://93.152.174.144:4000/play/energysp/index.m3u8
-#EXTINF:0 tvg-id="PINKoTV.ero" group-title="Channels",PinkoTV
-http://93.152.174.144:4000/play/pinkotv/index.m3u8
-#EXTINF:0 tvg-id="RedlightHD.ero" group-title="Channels",Redlight
-http://93.152.174.144:4000/play/privatetv1/index.m3u8
-#EXTINF:0 tvg-id="sic.pt" group-title="Channels",SIC PT
-http://93.152.174.144:4000/play/sic/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SIC Notiacias PT
-http://93.152.174.144:4000/play/sicnotiacias/index.m3u8
-#EXTINF:0 tvg-id="SkySports3.uk" group-title="Channels",Sky Sports 3
-http://93.152.174.144:4000/play/skysports3/index.m3u8
-#EXTINF:0 tvg-id="SkySports4.uk" group-title="Channels",Sky Sports 4
-http://93.152.174.144:4000/play/skysports4/index.m3u8
 #EXTINF:0 tvg-id="SkySports5.uk" group-title="Channels",Sky Sports 5
 http://93.152.174.144:4000/play/skysports5/index.m3u8
 #EXTINF:0 tvg-id="SkySportsNews.uk" group-title="Channels",Sky Sports News
 http://93.152.174.144:4000/play/skysportsnews/index.m3u8
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1 PT
-http://93.152.174.144:4000/play/sporttv1/index.m3u8
+
 #EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Channels",Sky Sports 1
 http://93.152.174.144:4000/play/ssports1/index.m3u8
 #EXTINF:0 tvg-id="SkySpF1.uk" group-title="Channels",Sky Sports f1
