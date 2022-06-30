@@ -17,105 +17,126 @@ FONTE DE INFORMAÇÃO:
 https://000000
 
 
+
+#EXTINF:0 tvg-id="TraceSport.uk" group-title="Channels",TRACE SPORT STARS
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1 PT
 http://93.152.174.144:4000/play/a00f/index.m3u8
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1 PT
 http://93.152.174.144:4000/play/sporttv1/index.m3u8
-#EXTINF:0 tvg-id="Barca.pt" group-title="Channels",BARÇA TV
-http://93.152.174.144:4000/play/barcatv/index.m3u8
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1 PT
+http://93.152.174.144:4000/play/sporttv1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 11 PT
+https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index_2.m3u8
 
+#EXTINF:0 tvg-id="Barca.pt" group-title="Channels",REAL MADRID TV ES. HD
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4947
+#EXTINF:0 tvg-id="Barca.pt" group-title="Channels",BARÇA TV ES. HD
+http://93.152.174.144:4000/play/barcatv/index.m3u8
+#EXTINF:0 tvg-id="Barca.pt" group-title="Channels",BARÇA TV ES. HD
+http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4949
+#EXTINF:0 tvg-id="BeINLaLiga.es" group-title="Channels",BEIN LALIGA ES HD
+http://93.152.174.144:4000/play/beinlaliga/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",RMC SPORTS FR. 1 HD
+http://gg.gg/Rmcsp1
+#EXTINF:0 tvg-id="ext" group-title="Channels",RMC SPORTS FR. 1 HD
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1937
+#EXTINF:0 tvg-id="ext" group-title="Channels",RMC SPORTS FR. 2 HD
+http://gg.gg/Rmcsp2
+#EXTINF:0 tvg-id="ext" group-title="Channels",RMC SPORTS FR. 2 HD
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1938
+#EXTINF:0 tvg-id="RMCSport3.fr" group-title="Channels",RMC SPORT 3 FR HD
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/279991
+#EXTINF:0 tvg-id="RMCSport4.fr" group-title="Channels",RMC SPORT 4 FR HD
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/279752
+#EXTINF:0 tvg-id="ext" group-title="Channels",RMC SPORT 5 FR HD
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1940
+
+#EXTINF:0 tvg-id="Espn.br" group-title="Channels",ESPN 1 BR HD
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/8793
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 2 BR HD
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/8801
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 3 BR HD
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/290657
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN EXTRA BR HD
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/8789
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 1 PL. HD
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/347
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 2 PL. HD
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3643
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 3 PL. HD
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3644
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 4 PL. HD
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3645
+
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="Channels",FR: BEIN SPORTS 1
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/144
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="Channels",FR: BEIN SPORTS 2
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/145
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="Channels",FR: BEIN SPORTS 3
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/146
+#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="Channels",FR: BEIN SPORTS MAX 4
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3599
+#EXTINF:0 tvg-id="BeInSportMax5.fr" group-title="Channels",FR: BEIN SPORTS MAX 5
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/6083
+#EXTINF:0 tvg-id="BeInSportMax6.fr" group-title="Channels",FR: BEIN SPORTS MAX 6
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/4368
+#EXTINF:0 tvg-id="BeInSportMax7.fr" group-title="Channels",FR: BEIN SPORTS MAX 7
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/4369
+#EXTINF:0 tvg-id="BeInSportMax8.fr" group-title="Channels",FR: BEIN SPORTS MAX 8
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/4370
+#EXTINF:0 tvg-id="BeInSportMax9.fr" group-title="Channels",FR: BEIN SPORTS MAX 9
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/4371
+#EXTINF:0 tvg-id="BeInSportMax10.fr" group-title="Channels",FR: BEIN SPORTS MAX 10
+http://quality-restream.com:8080/Vladisergeevic/b5f1343def/6088
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// CANAIS DESPORTO UK /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
-#EXTINF:0 tvg-id="BTSport1.uk" group-title="Channels",UK: BT SPORT 1
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/270
-#EXTINF:0 tvg-id="BTSport2.uk" group-title="Channels",UK: BT SPORT 2
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/273
-#EXTINF:0 tvg-id="BTSport3.uk" group-title="Channels",UK: BT SPORT 3
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/271
-#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="Channels",UK: BT SPORT ESPN
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1124
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT SPORT EXTRA 1
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/7435
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT SPORT EXTRA 2
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/47961
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT SPORT EXTRA 3
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/279255
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT SPORT EXTRA 4
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/283203
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BT SPORT EXTRA 5
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/7438
-#EXTINF:0 tvg-id="Eurosport1.uk" group-title="Channels",UK: EUROSPORT 1
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/692
-#EXTINF:0 tvg-id="Eurosport2.uk" group-title="Channels",UK: EUROSPORT 2
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1555
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: PREMIER SPORTS 1
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1097
-#EXTINF:0 tvg-id="PremierSports2.uk" group-title="Channels",UK: PREMIER SPORTS 2
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/4723
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: RUGBY WORLD TV
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/281576
-#EXTINF:0 tvg-id="SkySpAction.uk" group-title="Channels",UK: SKY SPORTS ACTION
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/268
-#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Channels",UK: SKY SPORTS ARENA
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/267
-#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="Channels",UK: SKY SPORTS CRICKET
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/269
-#EXTINF:0 tvg-id="SkySpF1.uk" group-title="Channels",UK: SKY SPORTS F1
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/265
-#EXTINF:0 tvg-id="SkySpFball.uk" group-title="Channels",UK: SKY SPORTS FOOTBALL
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/266
-#EXTINF:0 tvg-id="SkySpTheOpen.uk" group-title="Channels",UK: SKY SPORTS GOLF
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/264
-#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Channels",UK: SKY SPORTS MAIN EVENT
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/283053
-#EXTINF:0 tvg-id="SkySpMix.uk" group-title="Channels",UK: SKY SPORTS MIX
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/261
-#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="Channels",UK: SKY SPORTS NEWS
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/260
-#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Channels",UK: SKY SPORTS PREMIER LEAGUE
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/263
+
+#EXTINF:0 tvg-id="SkySports5.uk" group-title="Channels",SKY SPORTS 5
+http://93.152.174.144:4000/play/skysports5/index.m3u8
+#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="Channels",SKY SPORTS NEWS
+http://93.152.174.144:4000/play/skysportsnews/index.m3u8
+
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Channels",SKY SPORTS 1
+http://93.152.174.144:4000/play/ssports1/index.m3u8
+#EXTINF:0 tvg-id="SkySpF1.uk" group-title="Channels",SKY SPORTS F1
+http://93.152.174.144:4000/play/ssportsf1/index.m3u8
+
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// OUTROS CANAIS DESPORTO /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport 1 AR
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 1 AR
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
-#EXTINF:0 tvg-id="beINSport1.fr" group-title="Channels",Bein Sport 1 FR
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="Channels",BEIN SPORTS 1 FR
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
-#EXTINF:0 tvg-id="beINSport2.fr" group-title="Channels",Bein Sports 2 FR
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="Channels",BEIN SPORTS 2 FR
 http://93.152.174.144:4000/play/bein2fr/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports 3 AR
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 3 AR
 http://93.152.174.144:4000/play/bein3ar/index.m3u8
-#EXTINF:0 tvg-id="beINSport3.fr" group-title="Channels",Bein Sports 3 FR
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="Channels",BEIN SPORTS 3 FR
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport 4 ar
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 4 ar
 http://93.152.174.144:4000/play/bein4ar/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports 5 AR
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 5 AR
 http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports 7 AR
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 7 AR
 http://93.152.174.144:4000/play/bein7/index.m3u8
-#EXTINF:0 tvg-id="BeINLaLiga.es" group-title="Channels",Bein LaLiga
-http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 #EXTINF:0 tvg-id="BTSportESPN.uk" group-title="Channels",BT SPORT ESPN
 http://93.152.174.144:4000/play/btsportespn/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Cuatro HD SP
 http://93.152.174.144:4000/play/cuatrosp/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Energy SP
 http://93.152.174.144:4000/play/energysp/index.m3u8
-#EXTINF:0 tvg-id="SkySports5.uk" group-title="Channels",Sky Sports 5
-http://93.152.174.144:4000/play/skysports5/index.m3u8
-#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="Channels",Sky Sports News
-http://93.152.174.144:4000/play/skysportsnews/index.m3u8
 
-#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Channels",Sky Sports 1
-http://93.152.174.144:4000/play/ssports1/index.m3u8
-#EXTINF:0 tvg-id="SkySpF1.uk" group-title="Channels",Sky Sports f1
-http://93.152.174.144:4000/play/ssportsf1/index.m3u8
 #EXTINF:0 tvg-id="WWE.ca" group-title="Channels",WWE NETWORK
 http://93.152.174.144:4000/play/WWE/index.m3u8
 #EXTINF:0 tvg-id="DDSports.in" group-title="Channels",DD Sports
@@ -312,10 +333,7 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chun
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Dubai Sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",RMC Sports 1
-http://gg.gg/Rmcsp1
-#EXTINF:0 tvg-id="ext" group-title="Channels",RMC Sports 2
-http://gg.gg/Rmcsp2
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",Ziggo Sports
 http://gg.gg/Ziggo1
 #EXTINF:0 tvg-id="ext" group-title="Channels",Ziggo Voetbal
@@ -456,8 +474,7 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",IMPACT! Wrestling (1080p)
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",🇵🇹 Canal 11 Internacionalᴴᴰ
-https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index_2.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",grvty (1080p)
 https://d37j5jg7ob6kji.cloudfront.net/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",🇺🇸 Hard Knock Fighting
@@ -598,8 +615,7 @@ https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",TSD SPORT CR
 https://inliveserver.com:1936/15006/15006/HasBahCa.m3u8
-#EXTINF:0 tvg-id="TraceSport.uk" group-title="Channels",Trace Sport Stars
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",🇺🇸️ Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist480p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",FIGHT BOX
