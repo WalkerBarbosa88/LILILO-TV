@@ -17,6 +17,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d
 
 
 #EXTM3U
+
+
+#EXTINF:-1,[COLOR=orange][B]CANAIS ADICIONADOS: 01/07/2022[/B][/COLOR][COLOR=orange][/COLOR]
+
+#EXTM3U
+
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",= Самообновляемый плейлист FreeWorldTV SNIPTV =
 http://593b04c4c5670.streamlock.net:1935/8002/8002/playlist.m3u8
 
