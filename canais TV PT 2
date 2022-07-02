@@ -7,7 +7,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
             
-#EXTINF:-1,[COLOR=orange][B]LISTA 1 ADICIONADA: 27/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA 1 ADICIONADA: 02/07/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -131,8 +131,6 @@ http://45.92.69.72:8001/play/a032
 http://45.92.69.77:8000/play/a057/index.m3u8
 #EXTINF:-1,FOX COMEDY HD
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1465
-#EXTINF:-1,FOX COMEDY HD
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/266635
 #EXTINF:-1,AMC
 http://45.92.69.77:8000/play/a064/index.m3u8
 #EXTINF:-1,AMC HD
@@ -338,10 +336,6 @@ http://45.92.69.77:8000/play/a0a7/index.m3u8
 http://45.92.69.77:8000/play/a0fi/index.m3u8
 #EXTINF:-1,ALL JAZEERA
 http://45.92.69.77:8000/play/a0aq/index.m3u8
-#EXTINF:-1,BBC ENTERTAINMENT
-http://45.92.69.77:8000/play/a05u/index.m3u8
-#EXTINF:-1,BBC WORLD NEWS
-http://45.92.69.77:8000/play/a01m/index.m3u8
 #EXTINF:-1,BNT WORLD
 http://45.92.69.77:8000/play/a0al/index.m3u8
 #EXTINF:-1,BLAZE
@@ -638,7 +632,7 @@ http://45.92.69.72:8001/play/a03j
 http://45.92.69.72:8001/play/a039
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTA 2 ADICIONADA: 29/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA 2 REVISTA: 02/07/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -669,8 +663,6 @@ http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1471
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1467
 #EXTINF:-1,PT: Baby TV
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1441
-#EXTINF:-1,PT: Baby TV
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/8922
 #EXTINF:-1,PT: Benfica TV
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1497
 #EXTINF:-1,PT: Biggs
@@ -687,8 +679,6 @@ http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1480
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/146057
 #EXTINF:-1,PT: Canal Hollywood
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1455
-#EXTINF:-1,PT: Canal Nos
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/278550
 #EXTINF:-1,PT: Canal Panda
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1438
 #EXTINF:-1,PT: Canal Q
@@ -761,10 +751,7 @@ http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1525
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/5914
 #EXTINF:-1,PT: JimJam
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1442
-#EXTINF:-1,PT: Kuriakos Kids
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/10828
-#EXTINF:-1,PT: Kuriakos TV
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/9697
+
 #EXTINF:-1,PT: MEO Videoclube
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/265255
 #EXTINF:-1,PT: Motorvision TV
@@ -783,8 +770,7 @@ http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1436
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1454
 #EXTINF:-1,PT: Odisseia
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1532
-#EXTINF:-1,PT: PANDA Kids
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/290678
+
 #EXTINF:-1,PT: Porto Canal
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1419
 #EXTINF:-1,PT: RTP 1
