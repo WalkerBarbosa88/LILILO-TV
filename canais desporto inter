@@ -8,7 +8,7 @@ FONTE DE INFORMAÇÃO:
 
 #EXTM3U
  
-#EXTINF:-1,[COLOR=orange][B]LISTA ADICIONADA: 29/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA VERIFICADA: 02/07/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -114,6 +114,8 @@ http://93.152.174.144:4000/play/ssportsf1/index.m3u8
 #EXTINF:-1,[COLOR=yellow][B]///////// OUTROS CANAIS DESPORTO /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
+
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 1 AR
 http://93.152.174.144:4000/play/bein1ar/index.m3u8
 #EXTINF:0 tvg-id="beINSport1.fr" group-title="Channels",BEIN SPORTS 1 FR
@@ -136,7 +138,6 @@ http://93.152.174.144:4000/play/btsportespn/index.m3u8
 http://93.152.174.144:4000/play/cuatrosp/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Energy SP
 http://93.152.174.144:4000/play/energysp/index.m3u8
-
 #EXTINF:0 tvg-id="WWE.ca" group-title="Channels",WWE NETWORK
 http://93.152.174.144:4000/play/WWE/index.m3u8
 #EXTINF:0 tvg-id="DDSports.in" group-title="Channels",DD Sports
@@ -333,7 +334,6 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chun
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Dubai Sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",Ziggo Sports
 http://gg.gg/Ziggo1
 #EXTINF:0 tvg-id="ext" group-title="Channels",Ziggo Voetbal
@@ -474,7 +474,6 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b1692000_slita.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",IMPACT! Wrestling (1080p)
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",grvty (1080p)
 https://d37j5jg7ob6kji.cloudfront.net/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",🇺🇸 Hard Knock Fighting
@@ -615,7 +614,6 @@ https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",TSD SPORT CR
 https://inliveserver.com:1936/15006/15006/HasBahCa.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",🇺🇸️ Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist480p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",FIGHT BOX
@@ -696,4 +694,7 @@ https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 https://ws31-hls-live.akamaized.net/out/u/1416253_1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",ULTRA REX r
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
+
+
+
 
