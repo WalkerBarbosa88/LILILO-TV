@@ -25,19 +25,48 @@ https://00000000000
 
 #EXTM3U
 
+#EXTINF:-1,[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
+http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/138405
+#EXTINF:-1,[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
+http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/138404
 
 #EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a05w/index.m3u8
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/138407
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/138406
+
 #EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a05o/index.m3u8
+#EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/138409
+
 #EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a05p/index.m3u8
+#EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/138410
+#EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/138411
+
 #EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a05q/index.m3u8
+#EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/138412
+#EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/138413
+
 #EXTINF:-1,[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a05r/index.m3u8
+#EXTINF:-1,[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/138414
+#EXTINF:-1,[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/138415
+
 #EXTINF:-1,[COLOR=white][B]SPORT NBA TV[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a05h/index.m3u8
+#EXTINF:-1,[COLOR=white][B]SPORT NBA TV[/B][/COLOR][COLOR=white][/COLOR]
+http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/138416
 
 
 ####################################################################################################################################
