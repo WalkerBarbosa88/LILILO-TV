@@ -61,6 +61,9 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/c
 #EXTINF:-1,[COLOR=white][B]MTV CLUB HD[/B][/COLOR][COLOR=white][/COLOR]
 http://cdnua06.hls.tv/476/hls/0v8gnwlpo3dtf24ysm1rbcqx6uea79ji/264/stream.m3u8
 
+#EXTINF:-1,[COLOR=white][B]MTV CLUB HD[/B][/COLOR][COLOR=white][/COLOR]
+http://84.17.61.200:8085/udp/238.2.0.46:1234
+
 #EXTINF:-1 tvg-logo="" group-title="TV Musicas",[COLOR=white][B]ONE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://rtmp.one.by:1300
 
@@ -249,6 +252,8 @@ https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]LIVE CONCERTS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6080411af03506000759916e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fbb571-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c6d294f-660b-47ef-bc20-1961faf21c6a
 
+#EXTINF:-1,[COLOR=white][B]MTV LIVE HD[/B][/COLOR][COLOR=white][/COLOR]
+http://84.17.61.200:8085/udp/238.2.16.144:1234
 
 ######################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// BEST TOP HITS 2 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -363,6 +368,9 @@ https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,[COLOR=white][B]MEMORIA TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cloud10.vsgtech.co:3262/live/memoriastv2live.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,[COLOR=white][B]MTV 90´S HD[/B][/COLOR][COLOR=white][/COLOR]
+http://84.17.61.200:8085/udp/238.2.0.239:1234
 
  
 ######################################################################################
