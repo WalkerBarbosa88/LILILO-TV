@@ -10,6 +10,7 @@ http://0.0.0.0:000000
 
 FONTE DE INFORMAÇÃO: https://vk.com/clubslynet
                      https://www.global-satinfo.in/viewforum.php?f=22
+                     https://m3u.cl/lista-iptv-espana.php
  
 #EXTM3U
 
@@ -131,6 +132,125 @@ https://585b674743bbb.streamlock.net/9080/9080/chunklist.m3u8
 http://193.32.37.17:8000/play/a005/index.m3u8
 
 
+############################ LISTA DE MUSICA 2 ########################################################
+
+#EXTM3U
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Euro Indie Music | GB
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fabulosa FM | ES
+http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hits 360 | DO
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Video Tour Channel | CR
+http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Music Top | AR
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Retro Music Television | CZ
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Molahits TV | ES
+http://ventdelnord.tv:8080/mola/directe.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV vconline.cl | CL
+https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Recuerdos Retro Radio TV * | CL
+https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ruidos TV * | CL
+https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Alegria TV | CL
+https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Portal FoxMix | CL
+https://593b04c4c5670.streamlock.net:443/portalfoxmix/portalfoxmix/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Soy Plancha TV | CR
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Vintage Music | CR
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal VM Latino | CR
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Retro Plus TV Señal 2 * | CL
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Retro Plus TV * | CL
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",TOP Latino TV | PE
+https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tvweb.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",VClassicTV | CL
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Turbo Mix TV | PE
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Top TV | BR
+https://cast.cdnseguro.com:19360/8092/8092.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Latin Zone TV | US
+https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Memorias TV | PE
+https://cloud10.vsgtech.co:3262/live/memoriastv2live.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cadena Elite | ES
+https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Karibeña TV | PE
+https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ibiza Global TV | ES
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Planeta TV | PE
+https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Complejo Dance | AR
+https://mediacp.hostradios.com.ar:19360/complejodance/complejodance.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bajo Cero TV | CL
+https://mediacpstreamchile.com:1936/bajocero/bajocero/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Latinos Radio * | CL
+https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",RCKTV * | CL
+https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Toca Hits | CL
+https://mix247.ml:444/TocaHits/Top100Mix24-7/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Vision Musica TV | PE
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",TuTv Quillota | CL
+https://paneltv.net:3978/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Freestyledjs | CL
+https://paneltv.online:1936/8178/8178/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 38 | CR
+https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rewind Radio y TV * | CL
+https://scl.edge.grupoz.cl/rewindtv/ngrp:live_allhd/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Maxima FM | CL
+https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",DJ Loncho TV | CL
+https://srv1.zcast.com.br/djlonchotv/djlonchotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sexy Kpop TV | BR
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hatun TV | PE
+https://tv.inka.net.pe/bestcablehatuntv/bestcablehatuntv/index.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Best Cable Music | PE
+https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mas Cumbia | PE
+https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Carolina TV | CL
+https://unlimited1-cl-isp.dps.live/carolinatv/carolinatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Carolina TV 2 | CL
+https://unlimited1-cl-isp.dps.live/carolinatv2/carolinatv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Urban TV * | ES
+https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Italianissimo | VE
+https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nubeh TV | VE
+https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Oxigeno Network | VE
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Panavision | VE
+https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Corazon Llanero | VE
+https://vcp.myplaytv.com:443/coll/coll/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Exitos | DO
+https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Radioteca WebStereo * | CL
+https://vdohd.cl:1936/9040/9040/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mundo de la Musica TV * | CL
+https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",+ Listas en M3U.CL * | CL
+https://videostreaming.cloudserverlatam.com:443/htbbgdnudk/htbbgdnudk/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Zapping Music | CL
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
+
+
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS ESPANHOIS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
@@ -170,6 +290,67 @@ http://83.33.17.90:8069/udp/239.250.5.2:1234
 http://83.33.17.90:8069/udp/239.250.5.3:1234
 #EXTINF:0 tvg-id="Divinity.es" group-title="Channels",Divinity
 http://83.33.17.90:8069/udp/239.250.5.4:1234
+
+
+############################ CANAIS ESPANHOIS 2 ########################################################
+
+
+#EXTM3U
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",+ Listas en M3U.CL * | CL
+https://videostreaming.cloudserverlatam.com:443/htbbgdnudk/htbbgdnudk/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mundo de la Musica TV * | CL
+https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Urban TV * | ES
+https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pequeradio TV | ES
+http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Alcarria TV | ES
+http://217.182.77.27/live/alcarriatv-livestream.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Aragon TV | ES
+http://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 33 Madrid | ES
+https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Castilla-La Mancha Media | ES
+http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cultura 365 | ES
+http://cultural-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",El Futuro en tu Mano | ES
+https://limited24.todostreaming.es/live/renjillo-livestream.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Extremadura | ES
+https://cdnlive.shooowit.net/canalextremaduralive/channel1DVR.smil/chunklist_b1500000_DVR.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Momentos G | ES
+http://momentog-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Onda Algeciras | ES
+https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Television Municipal de Cordoba | ES
+http://teledifusion.tv/cordoba/cordobalive/index.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Galicia Europa | ES
+http://europa-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Xabarin TV | ES
+http://infantil-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTVE24 | ES
+https://rtvelivestream.akamaized.net/24h_dvr_4000.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Galicia America | ES
+http://america-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cadena Elite | ES
+https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fabulosa FM | ES
+http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ibiza Global TV | ES
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Molahits TV | ES
+http://ventdelnord.tv:8080/mola/directe.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cristiana TV | ES
+https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Spectrum Channel | CL
+https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="avi" group-title="Videos",Levante TV | ES
+https://i.imgur.com/Cc1CypC.mp4?PlaylistM3UCL
+
+
+
 
 
 
