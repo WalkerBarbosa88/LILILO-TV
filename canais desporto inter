@@ -16,7 +16,7 @@ FONTE DE INFORMAÇÃO:
 #EXTINF:-1,[COLOR=yellow][B]///////// CANAIS FAVORITOS DESPORTO /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
-
+#EXTM3U
 
 #EXTINF:0 tvg-id="TraceSport.uk" group-title="Channels",TRACE SPORT STARS
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
@@ -694,6 +694,154 @@ https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 https://ws31-hls-live.akamaized.net/out/u/1416253_1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",ULTRA REX r
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
+
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]///////// CANAIS DESPORTO INTERNACIONAIS - LISTA 2 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+
+#EXTM3U
+
+
+#EXTINF:0 tvg-id="ext" group-title="Sport",Best Cable Sports Perú (720p) [Not 24/7]
+https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",ERT Sports 2 (1080p) [Geo-blocked]
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports2_ww.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",ERT Sports 3 (1080p) [Geo-blocked]
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports3_ww.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",KSA Sports 1 (1080p) [Not 24/7]
+https://edge.taghtia.com/sa/9.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",KSA Sports 2 (1080p) [Not 24/7]
+https://edge.taghtia.com/sa/10.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",MNB Sport
+https://live.mnb.mn/live/mnb_sport.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",ART SPORT 1 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211394?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",K SPORT 1 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211389?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",K SPORT 2 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211390?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",K SPORT 3 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211391?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",K SPORT 4 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211392?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Kujtesa Sport 1
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/225129?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Kujtesa Sport 2
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/225130?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Kujtesa Sport 3
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/225131?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Kujtesa Sport 4
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/225132?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",OVERSPORT 1 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/388799?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",OVERSPORT 2 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/388798?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",OVERSPORT 4 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/395249?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",RTSH Sport
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/301841?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",RTSH Sport HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/203506?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SuperSportNews.al" group-title="Sport",SUPER SPORT 1 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/276567?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 1 FHD (SPECIAL)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/277923?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SuperSportNews.al" group-title="Sport",SUPER SPORT 1 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/276568?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 2 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/277925?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 2 FHD (SPECIAL)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/227593?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 2 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3128?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 3 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/227594?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 3 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3129?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 4 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3130?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 4 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/209433?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 5 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/277926?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 5 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/209434?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 6 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211449?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",Super Sport News HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3127?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TS1HD.al" group-title="Sport",TRING SPORT 1 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/277931?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TS2HD.al" group-title="Sport",TRING SPORT 2 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/277930?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TS3HD.al" group-title="Sport",TRING SPORT 3 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/277929?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",TRING SPORT 4 FHD (ONLY MATCH TIME)
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/277928?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TS1HD.al" group-title="Sport",Tring Sport 1 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3133?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TS3HD.al" group-title="Sport",Tring Sport 3 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211451?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TS4HD.al" group-title="Sport",Tring Sport 4 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211452?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",VIP ART Sport 1 FHD HEVC
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378557?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",VIP ART Sport 1 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378554?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",VIP ART Sport 2 FHD HEVC
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378556?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",VIP ART Sport 2 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378553?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",VIP ART Sport 3 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378552?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",VIP Art Sport 2
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/224503?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",VIP K SPORT 1 FHD HEVC
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378567?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",VIP K SPORT 4 FHD HEVC
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378564?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",VIP RTSH Sport FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378551?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",VIP SUPER SPORT 1 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378601?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",VIP SUPER SPORT 1 FHD HEVC
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378594?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",VIP SUPER SPORT 2 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378600?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",VIP SUPER SPORT 3 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378599?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",VIP SUPER SPORT 3 FHD HEVC
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378592?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",VIP SUPER SPORT 4 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378598?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",VIP SUPER SPORT 4 FHD HEVC
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378591?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",VIP SUPER SPORT 5 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378597?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",VIP SUPER SPORT 5 FHD HEVC
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378590?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",VIP SUPER SPORT 5 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378583?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",VIP SUPER SPORT 6 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378596?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",VIP SUPER SPORT 6 FHD HEVC
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378589?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",VIP TRING SPORT 1 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378579?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",VIP TRING SPORT 1 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378571?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",VIP TRING SPORT 2 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378578?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",VIP TRING SPORT 2 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378570?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",VIP TRING SPORT 3 FHD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378577?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",VIP TRING SPORT 3 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378569?checkedby:iptvcat.com
+
+
 
 
 
