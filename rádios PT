@@ -6,13 +6,14 @@ http://0.0.0.0:000000
  
 FONTE DE INFORMAÇÃO: http://fmstream.org/index.php?c=G&o=top  -  https://www.radios-online.pt - https://internetradiouk.com
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 23/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 10/07/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
 ######################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  TOP RÁDIOS FAVORITAS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000000000000000000
+
 
 #EXTINF:-1,[COLOR=white][B]RÁDIO ORBITAL[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radios.pt:8401/stream
@@ -315,8 +316,6 @@ https://nl.digitalrm.pt:8068/stream
 https://nl.digitalrm.pt:8030/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO POPULAR DE SOURE[/B][/COLOR][COLOR=white][/COLOR]
 https://nl.digitalrm.pt:8072/stream
-#EXTINF:-1,[COLOR=white][B]RÁDIO BOA NOVA[/B][/COLOR][COLOR=white][/COLOR]
-https://nl.digitalrm.pt:8094/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO DUEÇA[/B][/COLOR][COLOR=white][/COLOR]
 http://109.71.41.6:8008/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO BEIRA LITORAL[/B][/COLOR][COLOR=white][/COLOR]
@@ -506,8 +505,6 @@ https://servidor37-3.brlogic.com:7128/live
 http://centova.radios.pt:8459/;
 #EXTINF:-1,[COLOR=white][B]FAMA RÁDIO[/B][/COLOR][COLOR=white][/COLOR]
 http://digitalfm.dynu.com:8000/digitalfm64
-#EXTINF:-1,[COLOR=white][B]RÁDIO VOZ MATOSINHOS[/B][/COLOR][COLOR=white][/COLOR]
-https://radios.justweb.pt/8020/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO CLUBE DE PENAFIEL[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radio.com.pt:9476/;
 
@@ -589,8 +586,6 @@ http://213.136.92.8:8004/;
 http://centova.radio.com.pt:8405/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO MONTALEGRE[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radio.com.pt:9566/;
-#EXTINF:-1,[COLOR=white][B]RÁDIO CLUBE AGUIARENSE[/B][/COLOR][COLOR=white][/COLOR]
-http://212.84.160.187:19885/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO CLUBE SANTA MARTA[/B][/COLOR][COLOR=white][/COLOR]
 http://185.32.188.17:8005/live
 
