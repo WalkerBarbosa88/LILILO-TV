@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 ####################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS ADICIONADAS: 06/07/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 10/07/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
 ##########################################################################################################################
  
@@ -64,8 +64,6 @@ https://canale.live/mtv.m3u8/?id=moozdance
 https://canale.live/mtv.m3u8/?id=moozhits
 #EXTINF:0 tvg-id="MoozDance.ro" group-title="Channels",MOOZ RO
 https://canale.live/mtv.m3u8/?id=moozro
-#EXTINF:0 tvg-id="ext" group-title="Channels",SONGTV RUSSIA
-http://mhd.iptv2022.com/p/eXYaRz_EPycnRAgqcylUCA,1653912130/streaming/songtvru/324/1/index.m3u8
 #EXTINF:0 tvg-id="Viva.uk" group-title="Channels",VIVA
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 #EXTINF:0 tvg-id="vevo" group-title="Channels",VEVO TV
