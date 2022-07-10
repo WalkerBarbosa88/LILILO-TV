@@ -7,7 +7,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
             
-#EXTINF:-1,[COLOR=orange][B]LISTA 1 ADICIONADA: 02/07/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA 1 ADICIONADA: 10/07/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -129,8 +129,6 @@ http://45.92.69.72:8001/play/a041
 http://45.92.69.72:8001/play/a032
 #EXTINF:-1,FOX COMEDY HD
 http://45.92.69.77:8000/play/a057/index.m3u8
-#EXTINF:-1,FOX COMEDY HD
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1465
 #EXTINF:-1,AMC
 http://45.92.69.77:8000/play/a064/index.m3u8
 #EXTINF:-1,AMC HD
@@ -312,8 +310,7 @@ http://45.92.69.72:8000/play/a0iw
 http://45.92.69.72:8000/play/a001
 #EXTINF:-1,BABY TV
 http://45.92.69.72:8000/play/a0jk
-#EXTINF:0 tvg-id="ext" group-title="Channels",BOOMERANG HD
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/24529
+
 
 
 #######################################################################################################################
@@ -632,216 +629,5 @@ http://45.92.69.72:8001/play/a03j
 http://45.92.69.72:8001/play/a039
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTA 2 REVISTA: 02/07/2022[/B][/COLOR][COLOR=orange][/COLOR]
-
-#EXTM3U
 
 
-#EXTINF:-1,PT: 24 Kitchen
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/2025
-#EXTINF:-1,PT: A Bola TV
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1420
-#EXTINF:-1,PT: A&E
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/279741
-#EXTINF:-1,PT: Afro Music Channel
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1536
-#EXTINF:-1,PT: Alma Lusa
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/264642
-#EXTINF:-1,PT: AMC
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1473
-#EXTINF:-1,PT: AR TV
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/9629
-#EXTINF:-1,PT: Automotor Sport Channel
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/16430
-#EXTINF:-1,PT: AXN
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1469
-#EXTINF:-1,PT: AXN Black
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/278653
-#EXTINF:-1,PT: AXN Movies
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1471
-#EXTINF:-1,PT: AXN White
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1467
-#EXTINF:-1,PT: Baby TV
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1441
-#EXTINF:-1,PT: Benfica TV
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1497
-#EXTINF:-1,PT: Biggs
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1439
-#EXTINF:-1,PT: Blaze
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/3996
-#EXTINF:-1,PT: Bloomberg
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/5933
-#EXTINF:-1,PT: Boomerang
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/24529
-#EXTINF:-1,PT: Canal 11
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1480
-#EXTINF:-1,PT: CANAL 180
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/146057
-#EXTINF:-1,PT: Canal Hollywood
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1455
-#EXTINF:-1,PT: Canal Panda
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1438
-#EXTINF:-1,PT: Canal Q
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1430
-#EXTINF:-1,PT: Canção Nova
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/290766
-#EXTINF:-1,PT: Cartoon Network
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1440
-#EXTINF:-1,PT: Casa e Cozinha
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/6097
-#EXTINF:-1,PT: Caçavision
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/13956
-#EXTINF:-1,PT: CBS Reality
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1528
-#EXTINF:-1,PT: Cine Mundo
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1477
-#EXTINF:-1,PT: CM TV
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1412
-#EXTINF:-1,PT: CNN Portugal
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1414
-#EXTINF:-1,PT: Crime+ Investigation
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/5928
-#EXTINF:-1,PT: Discovery World
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/296226
-#EXTINF:-1,PT: Disney Channel
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1434
-#EXTINF:-1,PT: Disney Junior
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1435
-#EXTINF:-1,PT: Disney+
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/226084
-#EXTINF:-1,PT: E!
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1526
-#EXTINF:-1,PT: ELEVEN SPORTS 1
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1499
-#EXTINF:-1,PT: ELEVEN SPORTS 2
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1503
-#EXTINF:-1,PT: ELEVEN SPORTS 3
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1506
-#EXTINF:-1,PT: ELEVEN SPORTS 4
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1509
-#EXTINF:-1,PT: ELEVEN SPORTS 5
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1512
-#EXTINF:-1,PT: ELEVEN SPORTS 6
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1515
-#EXTINF:-1,PT: euronews
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/4007
-#EXTINF:-1,PT: EUROSPORT 1
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1517
-#EXTINF:-1,PT: EUROSPORT 2
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1518
-#EXTINF:-1,PT: Food Network
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/2044
-#EXTINF:-1,PT: FOX
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1461
-#EXTINF:-1,PT: Fox Comedy
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1465
-#EXTINF:-1,PT: Fox Crime
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1463
-#EXTINF:-1,PT: Fox Life
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1459
-#EXTINF:-1,PT: FOX Movies
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1457
-#EXTINF:-1,PT: Fuel TV
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1521
-#EXTINF:-1,PT: HBO Portugal
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/201073
-#EXTINF:-1,PT: History
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1525
-#EXTINF:-1,PT: Investigation Discovery
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/5914
-#EXTINF:-1,PT: JimJam
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1442
-
-#EXTINF:-1,PT: MEO Videoclube
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/265255
-#EXTINF:-1,PT: Motorvision TV
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/4012
-#EXTINF:-1,PT: MTV Portugal
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1534
-#EXTINF:-1,PT: NAT GEO
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1530
-#EXTINF:-1,PT: NAT GEO Wild
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1531
-#EXTINF:-1,PT: Nick Junior
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/9693
-#EXTINF:-1,PT: nickelodeon
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1436
-#EXTINF:-1,PT: Nos Studios
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1454
-#EXTINF:-1,PT: Odisseia
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1532
-
-#EXTINF:-1,PT: Porto Canal
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1419
-#EXTINF:-1,PT: RTP 1
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1404
-#EXTINF:-1,PT: RTP 2
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1406
-#EXTINF:-1,PT: RTP 3
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1418
-#EXTINF:-1,PT: RTP Açores
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/2055
-#EXTINF:-1,PT: RTP Madeira
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/278558
-#EXTINF:-1,PT: RTP Memória
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1425
-#EXTINF:-1,PT: RTP África
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1424
-#EXTINF:-1,PT: SAUDE+
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/81973
-#EXTINF:-1,PT: SIC
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1408
-#EXTINF:-1,PT: SIC Caras
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/5910
-#EXTINF:-1,PT: SIC K
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/4021
-#EXTINF:-1,PT: SIC Mulher
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1427
-#EXTINF:-1,PT: SIC Noticias
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1416
-#EXTINF:-1,PT: SIC Radical
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1429
-#EXTINF:-1,PT: SPORT TV +
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1481
-#EXTINF:-1,PT: SPORT TV 1
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1483
-#EXTINF:-1,PT: SPORT TV 2
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1486
-#EXTINF:-1,PT: SPORT TV 3
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1489
-#EXTINF:-1,PT: SPORT TV 4
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1492
-#EXTINF:-1,PT: SPORT TV 5
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1495
-#EXTINF:-1,PT: SPORT TV 6
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/281487
-#EXTINF:-1,PT: SPORT TV NBA
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/2051
-#EXTINF:-1,PT: Sporting TV
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1519
-#EXTINF:-1,PT: SYFY Portugal
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1475
-#EXTINF:-1,PT: TLC
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1479
-#EXTINF:-1,PT: Travel Channel
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1529
-#EXTINF:-1,PT: TVCine Action
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1452
-#EXTINF:-1,PT: TVCine Edition
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/82254
-#EXTINF:-1,PT: TVCine Emotion
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1448
-#EXTINF:-1,PT: TVCine Top
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1446
-#EXTINF:-1,PT: TVI
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1410
-#EXTINF:-1,PT: TVI Ficção
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1421
-#EXTINF:-1,PT: TVI Reality
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/1423
-#EXTINF:-1,AF: (Angola) TPA 1
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/165152
-#EXTINF:-1,AF: (Angola) TPA International
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/9701
-#EXTINF:-1,AF: (Angola) Zap Viva
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/2067
