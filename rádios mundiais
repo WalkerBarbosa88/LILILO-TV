@@ -6,7 +6,7 @@ http://0.0.0.0:000000
 FONTE DE INFORMAÇÃO: http://fmstream.org/index.php?c=G&o=top
  
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 23/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 10/07/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  A STATE OF TRANCE RÁDIO  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -205,14 +205,9 @@ https://stream.jpbgdigital.com/CJIB.m3u8
 https://goldenwest.leanstream.co/CJAWFM-MP3
 #EXTINF:-1,[COLOR=white][B]STAR FM[/B][/COLOR][COLOR=white][/COLOR]
 http://live.starfm.ca:8000/starfm.mp3
-#EXTINF:-1,[COLOR=white][B]ICI RADIO[/B][/COLOR][COLOR=white][/COLOR]
-http://cbcmp3.ic.llnwd.net/stream/cbcmp3_P-2QRIM0_RIM
 #EXTINF:-1,[COLOR=white][B]MAGIC ONLINE[/B][/COLOR][COLOR=white][/COLOR]
 https://corus.leanstream.co/CIMJFM-MP3
-#EXTINF:-1,[COLOR=white][B]THE BEAT[/B][/COLOR][COLOR=white][/COLOR]
-https://cogecomedia.leanstream.co/cogecomedia/CKBEFM.stream/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]HEART FM CANADA[/B][/COLOR][COLOR=white][/COLOR]
-http://cihrfm.streamon.fm:8000/CIHRFM-48k.aac 
+
 
 
 #######################################################################################################################
@@ -220,6 +215,7 @@ http://cihrfm.streamon.fm:8000/CIHRFM-48k.aac
 https://000000
  
 #EXTM3U
+
 
 #EXTINF:-1,[COLOR=white][B]BBC WORLD[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
@@ -337,8 +333,6 @@ https://sphera.fluidstream.eu/company.aac
 https://icecast.unitedradio.it/Radio105.mp3
 #EXTINF:-1,[COLOR=white][B]RADIO MONTE CARLO[/B][/COLOR][COLOR=white][/COLOR]
 https://icecast.unitedradio.it/RMC.mp3
-#EXTINF:-1,[COLOR=white][B]RADIO ITALIA[/B][/COLOR][COLOR=white][/COLOR]
-https://radioitaliasmi-lh.akamaihd.net/i/radioitaliasmi_1@329643/index_1_a-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,[COLOR=white][B]ISO RADIO[/B][/COLOR][COLOR=white][/COLOR]
 https://icestreaming.rai.it/6.mp3
 #EXTINF:-1,[COLOR=white][B]RADIO BRUNO[/B][/COLOR][COLOR=white][/COLOR]
