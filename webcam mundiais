@@ -6,7 +6,7 @@ http://0.0.0.0:0000
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=orange][B]LISTA MINI - REVISTA: 23/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA MINI - REVISTA: 10/07/2022[/B][/COLOR][COLOR=orange][/COLOR]
 ############################################################################################################################################################
 
 Fonte: https://fluxustvespanol.blogspot.com/p/fluxus-cctv.html#gsc.tab=0
@@ -26,21 +26,9 @@ https://000000
 #EXTINF:-1,[COLOR=white][B]MADEIRA (FUNCHAL) - AV. DO MAR[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=WI4mP963GvE&ab_channel=Madeira-Web
 
-# https://www.youtube.com/watch?v=4Hhsra66kwY&ab_channel=Madeira-Web
-#EXTINF:-1,[COLOR=white][B]MADEIRA - MARINA - CAM 1[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=4Hhsra66kwY&ab_channel=Madeira-Web
-
-# https://www.youtube.com/watch?v=4Hhsra66kwY
-#EXTINF:-1,[COLOR=white][B]MADEIRA - MARINA - CAM 2[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=4Hhsra66kwY
-
 # https://www.youtube.com/watch?v=UJQd9RckYwc&ab_channel=Madeira-Web
 #EXTINF:-1,[COLOR=white][B]MADEIRA - PRAIA DA CALHETA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=UJQd9RckYwc&ab_channel=Madeira-Web
-
-# https://www.youtube.com/watch?v=Du2NUiR93zY&ab_channel=Madeira-Web
-#EXTINF:-1,[COLOR=white][B]MADEIRA - MACHICO[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=Du2NUiR93zY&ab_channel=Madeira-Web
 
 # https://www.youtube.com/watch?v=9GMdvcyRfMU&ab_channel=Madeira-Web
 #EXTINF:-1,[COLOR=white][B]MADEIRA - FORUM MACHICO[/B][/COLOR][COLOR=white][/COLOR]
@@ -87,12 +75,6 @@ plugin://plugin.video.youtube/play/?video_id=cvYNX6OONW4
 #EXTINF:-1,[COLOR=white][B]USA - STREET CAM, GREENDALE[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=ADsY4BQWZOU
 
-# https://www.youtube.com/watch?v=cvYNX6OONW4
-#EXTINF:-1,[COLOR=white][B]ILHAS CANÁRIAS - YUMBO CENTER[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=cvYNX6OONW4
-
-
-
 
 ####################################################################################################################################
 #EXTM3U
@@ -103,15 +85,6 @@ https://000000
 
 #EXTINF:-1 group-title="WEBCAMS",[COLOR=white][B]ARGENTINA - CAM 1[/B][/COLOR][COLOR=white][/COLOR]
 http://200.50.248.57:8080/Camara1/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS",[COLOR=white][B]AUSTRÁLIA - HARBOUR BRIDGE[/B][/COLOR][COLOR=white][/COLOR]
-https://s82.ipcamlive.com/streams/52ylrchu6gqzjlaii/stream.m3u8
-#EXTINF:-1 group-title="WEBCAMS",[COLOR=white][B]AUSTRIA - KITZBUHEL[/B][/COLOR][COLOR=white][/COLOR]
-https://sts101.feratel.co.at/streams/stsstore105/1/05604_62876202-7f01Vid.mp4?dcsdesign=WTP_partner
-
-#EXTINF:-1 group-title="WEBCAMS",[COLOR=white][B]CANADA - GROUSE MOUNTAIN[/B][/COLOR][COLOR=white][/COLOR]
-https://use01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.yblmb8.fd0.sm1.av2.at0.sh2.rt10150.rc0.basic.stream/chunklist_w1683235135.m3u8
-#EXTINF:-1,[COLOR=white][B]CARAÍBAS - CURACAO[/B][/COLOR][COLOR=white][/COLOR]
-https://5f27cc8163c2e.streamlock.net/498/498.stream/chunklist_w327678117_tkd293emF0b2tlbmhhc2g9Uk8xZHItbHZucGxnaTREZlpMbVN6S3JzUE5IODBzOS16eUpWR0hlMjZ2MD0md293emF0b2tlbmVuZHRpbWU9MTYzNjQ5MDA1NyZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2MzY0ODY0NTc=.m3u8
 #EXTINF:-1,[COLOR=white][B]CANÁRIAS - PORTO LAS NIEVES AGAETE[/B][/COLOR][COLOR=white][/COLOR]
 https://camserver.agaete.net:8443/agaetepuerto/agaetepuerto/index.m3u8
 #EXTINF:-1 group-title="WEBCAMS",[COLOR=white][B]CAZAQUISTÃO - PORTO MARÍTIMO [/B][/COLOR][COLOR=white][/COLOR]
@@ -125,13 +98,8 @@ https://cdn.livespotting.com/vpu/ggazg0ll/9itrcth2.m3u8
 https://stream.profi-net.sk/tmr/STREAM48.stream/chunklist_w1900356417.m3u8
 #EXTINF:-1,[COLOR=white][B]ESLOVÁQUIA - TATRALANDIA AQUAPARK[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.profi-net.sk/tmr/STREAM48.stream/chunklist_w1002298432.m3u8
-#EXTINF:-1 group-title="WEBCAMS",[COLOR=white][B]ESPANHA - SAGRADA FAMÍLIA[/B][/COLOR][COLOR=white][/COLOR]
-https://s46.ipcamlive.com/streams/2etgl9ufeddfbgqz3/stream.m3u8
-
 #EXTINF:-1 group-title="WEBCAMS",[COLOR=white][B]RÚSSIA - WEBCAM 1[/B][/COLOR][COLOR=white][/COLOR]
 http://57820f09e94a7.streamlock.net/live/Metropolia2.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS",[COLOR=white][B]RÚSSIA - WEBCAM 2[/B][/COLOR][COLOR=white][/COLOR]
-http://77.108.82.59:8080/R2/index.m3u8
 #EXTINF:-1,[COLOR=white][B]RÚSSIA - WEBCAM 3[/B][/COLOR][COLOR=white][/COLOR]
 https://sochi.camera:8081/cam_196/video.m3u8?token=bisv_dgZK
 #EXTINF:-1,[COLOR=white][B]RÚSSIA - MIR AVENUE 79[/B][/COLOR][COLOR=white][/COLOR]
@@ -162,14 +130,8 @@ https://deliverys5.quanteec.com/contents/encodings/live/47fcda1a-38f6-4fb2-3938-
 #EXTINF:-1 group-title="WEBCAMS",[COLOR=white][B]FRANÇA - RIO SENA[/B][/COLOR][COLOR=white][/COLOR]
 https://deliverys6.quanteec.com/contents/encodings/live/c51d6b18-94cf-4476-3838-3330-6d61-63-ab88-8df2f1cd0327d/media_0.m3u8
 
-#EXTINF:-1 group-title="WEBCAMS",[COLOR=white][B]ISLANDIA - REYKJAVÍK[/B][/COLOR][COLOR=white][/COLOR]
-https://89-105-221-172.netvarp.is/lfi/idno/tracks-v1/mono.m3u8
-
 #EXTINF:-1 group-title="WEBCAMS",[COLOR=white][B]IRÃO - MASHHAD[/B][/COLOR][COLOR=white][/COLOR]
 https://stream01.nasimrezvan.com/hls/XuTYYVjRVYiNNzfSYVrzFLfJ/index.m3u8
-
-#EXTINF:-1 group-title="WEBCAMS",[COLOR=white][B]ISRAEL - MURO DAS LAMENTAÇÕES[/B][/COLOR][COLOR=white][/COLOR]
-https://cdn.cast-tv.com/23595/Live_Kotel3_ABR/23595/Live_Kotel3_4K_1080p/chunks.m3u8?nimblesessionid=5624702
 
 #EXTINF:-1 group-title="WEBCAMS",[COLOR=white][B]JAPÃO - YUNOKAMI ONSEN STATION[/B][/COLOR][COLOR=white][/COLOR]
 http://hls.shimogo-live.jp/camera3/index.m3u8
@@ -186,19 +148,12 @@ https://000000
 #EXTINF:-1,[COLOR=white][B]EARTH TV - LIVE CAM[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=3qdEMXmwTkQ&ab_channel=earthTV
 
-# https://www.youtube.com/watch?v=AdUw5RdyZxI&ab_channel=EarthCam
-#EXTINF:-1,[COLOR=white][B]EARTH TV - TIMES SQUARE 4K[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=AdUw5RdyZxI&ab_channel=EarthCam
-
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIAS MUNDIAIS - WEBCAM´S  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
-# https://www.youtube.com/watch?v=tOcn_ZdGIfQ&ab_channel=St.JohnUSVI
-#EXTINF:-1,[COLOR=white][B]USA - BAR ST. JOHN[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=tOcn_ZdGIfQ&ab_channel=St.JohnUSVI
 #EXTINF:-1,[COLOR=white][B]USA - MYRTLE BEACH CAM 1[/B][/COLOR][COLOR=white][/COLOR]
 https://5ed7b8fd7bf40.streamlock.net:444/northbeachplantation/northbeach/chunklist_w1424884951.m3u8
 #EXTINF:-1,[COLOR=white][B]USA - MYRTLE BEACH CAM 2[/B][/COLOR][COLOR=white][/COLOR]
@@ -219,12 +174,9 @@ https://5ed7b8fd7bf40.streamlock.net:444/schoonersbeachHDCam/schbeach/playlist.m
 #EXTINF:-1,[COLOR=white][B]USA - SCHOONERS BEACH CAM 2[/B][/COLOR][COLOR=white][/COLOR]
 http://58f0f58ecd733.streamlock.net:1935/schoonersbeachHDCam/schbeach/chunklist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]USA - MARYLAND[/B][/COLOR][COLOR=white][/COLOR]
-https://livestream.fullcityservers.com/parkplace.live/boardwalk.stream/chunks.m3u8?nimblesessionid=15961275
 #EXTINF:-1,[COLOR=white][B]USA - PANAMA CITY[/B][/COLOR][COLOR=white][/COLOR]
 https://5ed7b8fd7bf40.streamlock.net:444/holidayinnpcbbeach/holidayinnpcbbeachcam/chunklist_w1595051379.m3u8
-#EXTINF:-1,[COLOR=white][B]USA - MIAMI[/B][/COLOR][COLOR=white][/COLOR]
-https://use01-smr04-relay.ozolio.com/hls-live/_definst_/relay01.byfvdg3.fd0.sm1.av2.at0.sh2.rt10150.rc0.basic.stream/chunklist_w1227575375.m3u8
+
 
 # https://www.youtube.com/watch?v=f9dVWHKRP8o
 #EXTINF:-1,[COLOR=white][B]ILHAS CANÁRIAS - LANZAROTE[/B][/COLOR][COLOR=white][/COLOR]
@@ -233,9 +185,6 @@ plugin://plugin.video.youtube/play/?video_id=f9dVWHKRP8o
 #EXTINF:-1,[COLOR=white][B]ILHAS CANÁRIAS - INGLÊS[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=o09siXxJw9A
 
-# https://www.youtube.com/watch?v=apam0X32RNk
-#EXTINF:-1,[COLOR=white][B]TAILÂNDIA - HOUSE OF SANSKARA[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=apam0X32RNk
 
 #EXTINF:-1,[COLOR=white][B]UK - WEYMOUTH[/B][/COLOR][COLOR=white][/COLOR]
 https://camsecure.uk/HLS/bayv.m3u8
@@ -246,9 +195,6 @@ https://cams.cdn-surfline.com/cdn-int/uk-harlyn/chunklist.m3u8
 #EXTINF:-1,[COLOR=white][B]UK - WESTWARD[/B][/COLOR][COLOR=white][/COLOR]
 https://camsecure.co/HLS/westho.m3u8
 
-
-#EXTINF:-1,[COLOR=white][B]BR - COPACABANA[/B][/COLOR][COLOR=white][/COLOR]
-https://live-sa.oceanpact.com/imu/posto6/chunks.m3u8?nimblesessionid=70404
 #EXTINF:-1,[COLOR=white][B]BR - GUARATUBA[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn.jmvstream.com/w/IPC-10528/camera.stream/chunklist.m3u8
 #EXTINF:-1,[COLOR=white][B]BR - PRAIA DO SURF[/B][/COLOR][COLOR=white][/COLOR]
@@ -265,10 +211,6 @@ https://live.monuv.com.br/a1/34767.stream/str27/chunklist.m3u8
 https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20011.stream/chunklist_w661282972.m3u8
 #EXTINF:-1,[COLOR=white][B]BR - BALNEÁRIO CAMBORIÚ - CAM 1[/B][/COLOR][COLOR=white][/COLOR]
 https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20008.stream/chunklist_w727036345.m3u8
-#EXTINF:-1,[COLOR=white][B]BR - BALNEÁRIO CAMBORIÚ - CAM 2[/B][/COLOR][COLOR=white][/COLOR]
-https://inst-cv9a7-srs-fullhd.camerite.services/s4/hls/7a655d80-c7ba-11eb-ae7c-71f8951d12bf/7a655d80-c7ba-11eb-ae7c-71f8951d12bf.m3u8?hls_ctx=r9u00d3s
-#EXTINF:-1,[COLOR=white][B]BR - PRAIA DO NATAL[/B][/COLOR][COLOR=white][/COLOR]
-https://streaming2.climaaovivo.com.br/natal1.rn/tracks-v1/mono.m3u8?token=e8e280e2f1470af229d08651844b9e1a42cbc7c9-fe9e3836262e52bcdc533bd313e2e987-1652975017-1652973217
 #EXTINF:-1,[COLOR=white][B]BR - PASSO DE TORRES[/B][/COLOR][COLOR=white][/COLOR]
 https://vid1.streaming.websul.net.br/live/ods-torres.stream/chunklist_w1650626336.m3u8
 
@@ -278,31 +220,10 @@ http://camsecure.co/HLS/sagressholidays.m3u8
 #EXTINF:-1,[COLOR=white][B]POLÓNIA - MIEDZYZDROJE PIER[/B][/COLOR][COLOR=white][/COLOR]
 https://streaming.airmax.pl/apiconnect4_molo1/tracks-v1/mono.m3u8
 
-#EXTINF:-1,[COLOR=white][B]ILHAS CAIMÃO - SEVEN MILE - CAM 1[/B][/COLOR][COLOR=white][/COLOR]
-https://s81.ipcamlive.com/streams/514n2jm9vbwq07lhn/stream.m3u8
-#EXTINF:-1,[COLOR=white][B]ILHAS CAIMÃO - SEVEN MILE - CAM 2[/B][/COLOR][COLOR=white][/COLOR]
-https://s66.ipcamlive.com/streams/42jslo6ap8vtryg9n/stream.m3u8
-
-#EXTINF:-1,[COLOR=white][B]AUSTRÁLIA - BRIGHTON CAM[/B][/COLOR][COLOR=white][/COLOR]
-https://s20.ipcamlive.com/streams/14wmhnf821va53bio/stream.m3u8
-
-# https://www.youtube.com/watch?v=he-bE7OPUJA
-#EXTINF:-1,[COLOR=white][B]MEXICO - RESORT ROYAL SANDS PHASE 2[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=he-bE7OPUJA
-
-#EXTINF:-1,[COLOR=white][B]GRÉCIA - AKTI KANARI CAM[/B][/COLOR][COLOR=white][/COLOR]
-https://s61.ipcamlive.com/streams/3dx0kwiijnv89fg35/stream.m3u8
-
 #EXTINF:-1,[COLOR=white][B]GRANDE CANÁRIAS - PRAIA DAS BURRAS[/B][/COLOR][COLOR=white][/COLOR]
 https://camserver1.in2thebeach.es/streams/las_burras_san_agustin/index.m3u8
 #EXTINF:-1,[COLOR=white][B]GRANDE CANÁRIAS - PRAIA S. AGUSTIN[/B][/COLOR][COLOR=white][/COLOR]
 https://camserver1.in2thebeach.es/streams/san-agustin/index.m3u8
-
-#EXTINF:-1 group-title="WEBCAMS",[COLOR=white][B]FRANÇA - NICE[/B][/COLOR][COLOR=white][/COLOR]
-https://deliverys4.joada.net/contents/encodings/vod/8af59e33-97d3-4c8d-3637-3330-6d61-63-8d87-ba5ceb5da9ded/media_2.m3u8
-
-#EXTINF:-1 group-title="WEBCAMS",[COLOR=white][B]ESPANHA - PRAIA FUENGIROLA[/B][/COLOR][COLOR=white][/COLOR]
-https://s31.ipcamlive.com/streams/1f5lir0aq4brfg38e/stream.m3u8
 
 
 ####################################################################################################################################
@@ -324,10 +245,6 @@ http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]USA - PANDA 2[/B][/COLOR][COLOR=white][/COLOR]
 https://zssd-panda.hls.camzonecdn.com/CamzoneStreams/zssd-panda/chunklist.m3u8
-
-# https://www.youtube.com/watch?v=ogpqmb1j5Jw
-#EXTINF:-1,[COLOR=white][B]CHINA - PANDA[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=ogpqmb1j5Jw
 
 #EXTINF:-1,[COLOR=white][B]USA - SAN DIEGO - PANDA[/B][/COLOR][COLOR=white][/COLOR]
 https://zssd-panda.hls.camzonecdn.com/CamzoneStreams/zssd-panda/chunklist.m3u8
@@ -351,9 +268,6 @@ https://zssd-koala.hls.camzonecdn.com/CamzoneStreams/zssd-koala/chunklist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]USA - PINGUINS[/B][/COLOR][COLOR=white][/COLOR]
 https://zssd-penguin.hls.camzonecdn.com/CamzoneStreams/zssd-penguin/chunklist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]ESCÓCIA - PINGUINS[/B][/COLOR][COLOR=white][/COLOR]
-https://595b9deb3d6ac.streamlock.net/qlive/edinburghzoo104225.stream/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]ESCÓCIA - ZOO PANDA[/B][/COLOR][COLOR=white][/COLOR]
 http://5cee0d703d908.streamlock.net:1935/rtplive/EDZ-PH2-ShowDen2.stream/playlist.m3u8
@@ -404,6 +318,7 @@ https://stream-5gw.1000eyes.de/cupertino/cgn4463E1.stream/chunklist_w1049166825.
 #EXTINF:-1,[COLOR=yellow][B]/////////  ÁUSTRIA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DLOcBsT.png" group-title="AUSTRIA",[COLOR=white][B]AT - JERZENS (TIROL AIRPORT)[/B][/COLOR][COLOR=white][/COLOR]
 http://83.218.163.132:8081/mjpg/video.mjpg
 
@@ -448,9 +363,6 @@ https://inst-f6w80-srs-fullhd.camerite.services/s7/hls/f74903c0-d608-11e8-bcff-b
 #EXTINF:-1,[COLOR=white][B]BR - UMUARAMA[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn.jmvstream.com/w/IPC-7045/camera.stream/chunklist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]BR - GOIANIA - AV. RIO VERDE[/B][/COLOR][COLOR=white][/COLOR]
-https://hunq9fz8yk.zoeweb.tv/flamboyant/flamboyant.stream/chunklist_w1928291942.m3u8
-
 #EXTINF:-1,[COLOR=white][B]BR - N.S. APARECIDA[/B][/COLOR][COLOR=white][/COLOR]
 https://hd-auth.skylinewebcams.com/live.m3u8?a=64mueg15ie7jr936cmbpbjjch4
 
@@ -486,10 +398,6 @@ plugin://plugin.video.youtube/play/?video_id=LukZYc16iiE
 #EXTINF:-1,[COLOR=white][B]CA - SOUTH POINTE TOYOTA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=4qvCS9ZyUR4
 
-# https://www.youtube.com/watch?v=aXClDkUunDk
-#EXTINF:-1,[COLOR=white][B]CA - CALGARY [/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=aXClDkUunDk
-
 # https://www.youtube.com/watch?v=JRf29hXOrzY
 #EXTINF:-1,[COLOR=white][B]CA - OLIMPIC PLAZA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=JRf29hXOrzY
@@ -498,15 +406,11 @@ plugin://plugin.video.youtube/play/?video_id=JRf29hXOrzY
 #EXTINF:-1,[COLOR=white][B]CA - MISSISSAUGA SQUARE[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=RljewG-pfnA
 
-# https://www.youtube.com/watch?v=YBsuO6KbQgg
-#EXTINF:-1,[COLOR=white][B]CA - PONTE SAMUEL DE CHAMPLAIN[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=YBsuO6KbQgg
-
 # https://www.youtube.com/watch?v=xsRDTfuksyI
 #EXTINF:-1,[COLOR=white][B]CA - CENTRAL MEMORIAL[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=xsRDTfuksyI
 
-#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]CA - WEBCAM[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]CA - PÁSSARO WEBCAM[/B][/COLOR][COLOR=white][/COLOR]
 http://5ddd47d64e730.streamlock.net:1935/ospreycam/ospreycam.stream/playlist.m3u8
 
 
@@ -654,6 +558,7 @@ http://maybach.railcam.co.uk/Williton2_84721/tracks-v1a1/mono.m3u8
 #EXTINF:-1,[COLOR=yellow][B]/////////  REPÚBLICA CHECA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
+
 #EXTINF:-1 ,[COLOR=white][B]CZ - JABLUNKOV[/B][/COLOR][COLOR=white][/COLOR]
 http://stream.silesnet.net/webcams/jablunkov.m3u8
 #EXTINF:-1 ,[COLOR=white][B]CZ - RATIBOR[/B][/COLOR][COLOR=white][/COLOR]
@@ -717,8 +622,6 @@ https://d3nzocdfkx2ybv.cloudfront.net/out/cmg-wsbtvt1-rtmp-v3/live_720p30.m3u8
 https://59b69eab8875b.streamlock.net/live/Beach_Cam_01.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]USA - BEECH MOUNTAIN RESORT[/B][/COLOR][COLOR=white][/COLOR]
 https://55507e0501d25.streamlock.net/live/beechsummit.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]USA - CAPITÓLIO[/B][/COLOR][COLOR=white][/COLOR]
-http://capcam-f.akamaihd.net/i/capcam_1@76463/index_500_av-p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]USA - CARDIFF[/B][/COLOR][COLOR=white][/COLOR]
 https://edge01.london.nginx.hdontap.com/hosb5/cardiffreef-ptz_hdontap.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]USA - CEDAR POINT PARK - CAM 1[/B][/COLOR][COLOR=white][/COLOR]
@@ -729,8 +632,6 @@ https://56cdb389b57ec.streamlock.net:1935/live/cedar2.stream/chunklist.m3u8
 http://58f0f58ecd733.streamlock.net:1935/DeadDogSaloonCam3/deaddog3/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]USA - DEAE DOG SALLON - CAM 2[/B][/COLOR][COLOR=white][/COLOR]
 http://58f0f58ecd733.streamlock.net:1935/DeadDogSaloonCam/deaddog/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]USA - EAGLE WEBCAM[/B][/COLOR][COLOR=white][/COLOR]
-http://outdoorchannel-lh.akamaihd.net/i/EagleCamHD_1@167705/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]USA - ESTES PARK[/B][/COLOR][COLOR=white][/COLOR]
 http://cdn.estesparkwebcams.com/prospect3/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]USA - GREEN PARROT BAR - CAM 1[/B][/COLOR][COLOR=white][/COLOR]
