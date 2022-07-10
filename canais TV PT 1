@@ -10,7 +10,7 @@ http://0.0.0.0:0000
 * LISTAS GRATUITAS IPTV ORG - https://github.com/iptv-org/iptv
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 05/07/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 10/07/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
@@ -28,8 +28,6 @@ https://streamer-b02.videos.sapo.pt/live/famatv/chunklist_w1059365209.m3u8
 https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
 #EXTINF:-1,[COLOR=white][B]TV BRICS PT HD[/B][/COLOR][COLOR=white][/COLOR]
 http://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/index.m3u8
-#EXTINF:-1,[COLOR=white][B]ASSIM É PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
-https://livefocamundo.com:8081/tvmaxrio/index.m3u8?ROGERIOTORRES
 
 
 ##########################################################################################################################################
@@ -37,6 +35,7 @@ https://livefocamundo.com:8081/tvmaxrio/index.m3u8?ROGERIOTORRES
 https://000000
 
 #EXTM3U
+
 
 #EXTINF:-1,[COLOR=white][B]TV GLOBO HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.109:1234
@@ -120,11 +119,6 @@ http://w2.manasat.com:1935/kmusic/kmusic/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Religious",[COLOR=white][B]KURIAKOS KIDS[/B][/COLOR][COLOR=white][/COLOR]
 http://w2.manasat.com:1935/kkids/kkids/chunklist.m3u8
 
-
-
-#EXTINF:0 tvg-id="ext" group-title="Religious",[COLOR=white][B]KURIAKOS KIDS TV[/B][/COLOR][COLOR=white][/COLOR]
-http://195.23.211.179:1935/kkids/smil:kkids.smil/chunklist_w122907610_b30048000_sleng.m3u8
-
 #EXTINF:-1,[COLOR=white][B]CANAL 11[/B][/COLOR][COLOR=white][/COLOR]
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
 
@@ -151,7 +145,7 @@ http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95403
 
 
 ##########################################################################################################################################
-#EXTINF:-1,[COLOR=orange][B]LISTA 2 REVISTA: 05/07/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA 2 REVISTA: 10/07/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
  
 #EXTM3U
