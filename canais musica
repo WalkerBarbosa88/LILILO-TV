@@ -4,7 +4,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA 1 REVISTA: 29/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA 1 REVISTA: 10/07/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -52,7 +52,7 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?
 #EXTINF:-1,[COLOR=white][B]KRONEHITS FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]POWERHD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]POWERHD (OFFLINE)[/B][/COLOR][COLOR=white][/COLOR]
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]RADIO M2O HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -232,11 +232,6 @@ https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:-1,[COLOR=white][B]DBM TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]RTJ MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/121774
-
-#EXTINF:-1,[COLOR=white][B]MTV BASE ÁFRICA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/32840
 
 ######################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  MÚSICAS ALTERNATIVAS & AO VIVO /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -501,7 +496,7 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 #######################################################################################################################################################################
 #######################################################################################################################################################################
 
-#EXTINF:-1,[COLOR=yellow][B]///////// STINGRAY & PLUTO TV - REVISTA: 29/06/2022 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  STINGRAY & PLUTO TV  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #EXTM3U
 
