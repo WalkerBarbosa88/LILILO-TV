@@ -8,7 +8,7 @@ FONTE DE INFORMAÇÃO:
 
 #EXTM3U
  
-#EXTINF:-1,[COLOR=orange][B]LISTA VERIFICADA: 02/07/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA VERIFICADA: 10/07/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -98,6 +98,8 @@ http://quality-restream.com:8080/Vladisergeevic/b5f1343def/6088
 https://000000
 
 
+#EXTM3U
+
 
 #EXTINF:0 tvg-id="SkySports5.uk" group-title="Channels",SKY SPORTS 5
 http://93.152.174.144:4000/play/skysports5/index.m3u8
@@ -114,6 +116,7 @@ http://93.152.174.144:4000/play/ssportsf1/index.m3u8
 #EXTINF:-1,[COLOR=yellow][B]///////// OUTROS CANAIS DESPORTO /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
+#EXTM3U
 
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 1 AR
@@ -126,10 +129,6 @@ http://93.152.174.144:4000/play/bein2fr/index.m3u8
 http://93.152.174.144:4000/play/bein3ar/index.m3u8
 #EXTINF:0 tvg-id="beINSport3.fr" group-title="Channels",BEIN SPORTS 3 FR
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 4 ar
-http://93.152.174.144:4000/play/bein4ar/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 5 AR
-http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 7 AR
 http://93.152.174.144:4000/play/bein7/index.m3u8
 #EXTINF:0 tvg-id="BTSportESPN.uk" group-title="Channels",BT SPORT ESPN
@@ -142,42 +141,6 @@ http://93.152.174.144:4000/play/energysp/index.m3u8
 http://93.152.174.144:4000/play/WWE/index.m3u8
 #EXTINF:0 tvg-id="DDSports.in" group-title="Channels",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ONTIME SPORTS2
-http://149.62.183.214:8000/play/a005/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ONTIME SPORTS
-http://149.62.183.214:8000/play/a007/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Libya Sport 2 HD
-http://149.62.183.214:8000/play/a00y/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ONTIME SPORTS3 HD
-http://149.62.183.214:8000/play/a011/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ONTIME SPORTS3
-http://149.62.183.214:8000/play/a012/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Al-Nahar Sport
-http://149.62.183.214:8000/play/a026/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Nile Sport
-http://149.62.183.214:8000/play/a04b/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ONTIME SPORTS2 HD
-http://149.62.183.214:8000/play/a05p/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",KSA SPORTS1 HD
-http://149.62.183.214:8000/play/a05u/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",KSA Sports 3
-http://149.62.183.214:8000/play/a065/index.m3u8
-#EXTINF:0 tvg-id="ADSports1.net" group-title="Channels",Abu Dhabi Sports 1
-http://149.62.183.214:8000/play/a07z/index.m3u8
-#EXTINF:0 tvg-id="ADSports2.net" group-title="Channels",Abu Dhabi Sports 2
-http://149.62.183.214:8000/play/a080/index.m3u8
-#EXTINF:0 tvg-id="ADSports3.net" group-title="Channels",AD Sports 3 HD
-http://149.62.183.214:8000/play/a083/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Palestine Sport
-http://149.62.183.214:8000/play/a0dt/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Libya Sport Channel
-http://149.62.183.214:8000/play/a0e4/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Al-Nahar Sport
-http://149.62.183.214:8000/play/a0ey/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bahrain Sport 1
-http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bahrain Sports 1
-http://185.105.4.106:1935/live/Bahrain%20Sports/HasBahCa.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Bahrain Sports 1 (720p)
 http://185.105.4.106:1935/live/Bahrain+Sports/HasBahCa.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",AD Sport 1 HD
@@ -222,14 +185,8 @@ http://185.236.229.50:8002/play/a01z
 http://195.155.98.170:5858/play/a09m
 #EXTINF:0 tvg-id="ext" group-title="Channels",Sport Live (DK)
 http://195.222.7.26:7001/play/a00t
-#EXTINF:0 tvg-id="ext" group-title="Channels",F BAND SPORTS
-http://200.220.133.82:8000/play/BANDSPORTS
-#EXTINF:0 tvg-id="ext" group-title="Channels",F FOX SPORTS2
-http://200.220.133.82:8000/play/FOX_SPORTS2
 #EXTINF:0 tvg-id="StarSportsHD2.in" group-title="Channels",Star Sports 2 HD
 http://208.86.19.13:81/715.stream/index.m3u8
-#EXTINF:0 tvg-id="esp-hd" group-title="Channels",Eurosport 1 HD
-http://212.18.115.193:3549/play/a043/index.m3u8
 #EXTINF:0 tvg-id="esp-hd" group-title="Channels",Eurosport 1 FHD
 http://212.18.115.193:3549/play/a044/index.m3u8
 #EXTINF:0 tvg-id="esp2" group-title="Channels",Eurosport 2 HD
@@ -242,12 +199,6 @@ http://212.18.115.193:3549/play/a04s/index.m3u8
 http://212.18.115.193:3549/play/a05d/index.m3u8
 #EXTINF:0 tvg-id="ORFSport.at" group-title="Channels",ORF Sport+
 http://212.18.115.193:3549/play/a05f/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CBC Sport FHD
-http://212.18.115.193:3599/play/a00k/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CBC Sport HD
-http://212.18.115.193:3599/play/a00l/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",CBC Sport FHD
-http://212.18.115.193:3599/play/a016/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",TM:Turkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Türkmenistan Sport (406p)
@@ -358,10 +309,6 @@ http://iptv.prosto.tv:7000/ch109/video.m3u8
 http://iptv.prosto.tv:7000/ch110/video.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Шахтар HD
 http://iptv.prosto.tv:7000/ch112/video.m3u8
-#EXTINF:0 tvg-id="sport1" group-title="Channels",Sport 1
-http://iptv.prosto.tv:7000/ch113/video.m3u8
-#EXTINF:0 tvg-id="sport2" group-title="Channels",Sport 2
-http://iptv.prosto.tv:7000/ch115/video.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Canal Sports 2 PL
 http://lb18.aromatv.us:8080/mag00:1A:79:69:AD:55/QVAALDiYjY/58755?play_token=1V6dg4FzCP&token=GBQKAkBYRFhBAAVdCA4IAFFQB1IDVwJQUwEHCFVVAgRQUlUBUQIDUgIXT0dDTUtcAFk9XQFAXgZaBAYNTxZCEgZEPQpXElxAUABTUgcJGxVDQAtZAEBeAlQGAAxTDQJYVhpAE1pURFgNQA8JHBtcQRVREFoEDjtXB0VaWwYWDQ8WWg5PEV8IPQdQDgReXRsDQwVAGEcLF0NACV1ND1gbQwFfFhFSRANAWVsWCVwVG1oOQQxAFxtGCUBlfRpPFlIZF1MMEFpfCEBZFxcWEhUbUBJrEFEWFhZWA15WSkEOFVFBGkAOUkg5AQxbDQBTTVBWD0dADkdTRh9AXlxWCkBYEzxGCwcRCggXD1ke
 #EXTINF:0 tvg-id="ext" group-title="Channels",Sport 1+1 HD
@@ -382,8 +329,6 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 http://tv3.streampulse.eu:1935/tilesport/movie2/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",TVRI Sport HD
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVRI Sports
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8$OPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
 #EXTINF:0 tvg-id="ext" group-title="Channels",Eurosport 4k hd
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2
 #EXTINF:0 tvg-id="ext" group-title="Channels",Billiard TV
@@ -566,8 +511,6 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Dubai Sports 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TNT SPORTS HD
-https://edge-live13-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",EdgeSport
 https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="EdgeSport.nl" group-title="Channels",Edge Sport
@@ -612,8 +555,6 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",KTV Sport Plus (1080p)
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TSD SPORT CR
-https://inliveserver.com:1936/15006/15006/HasBahCa.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",🇺🇸️ Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist480p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",FIGHT BOX
@@ -695,7 +636,6 @@ https://ws31-hls-live.akamaized.net/out/u/1416253_1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",ULTRA REX r
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
 
-
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// CANAIS DESPORTO MUNDIAIS - LISTA 2 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
@@ -704,6 +644,7 @@ https://000000
 #EXTM3U
 
 
+#EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Sport",Best Cable Sports Perú (720p) [Not 24/7]
 https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",ERT Sports 2 (1080p) [Geo-blocked]
@@ -786,38 +727,24 @@ http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3133?checkedby:iptvcat.com
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211451?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="TS4HD.al" group-title="Sport",Tring Sport 4 HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211452?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",VIP ART Sport 1 FHD HEVC
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378557?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",VIP ART Sport 1 HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378554?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",VIP ART Sport 2 FHD HEVC
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378556?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",VIP ART Sport 2 HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378553?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",VIP ART Sport 3 HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378552?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",VIP Art Sport 2
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/224503?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",VIP K SPORT 1 FHD HEVC
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378567?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",VIP K SPORT 4 FHD HEVC
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378564?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",VIP RTSH Sport FHD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378551?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",VIP SUPER SPORT 1 FHD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378601?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",VIP SUPER SPORT 1 FHD HEVC
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378594?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",VIP SUPER SPORT 2 FHD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378600?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",VIP SUPER SPORT 3 FHD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378599?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",VIP SUPER SPORT 3 FHD HEVC
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378592?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",VIP SUPER SPORT 4 FHD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378598?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",VIP SUPER SPORT 4 FHD HEVC
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378591?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",VIP SUPER SPORT 5 FHD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378597?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",VIP SUPER SPORT 5 FHD HEVC
@@ -826,8 +753,6 @@ http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378590?checkedby:iptvcat.com
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378583?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",VIP SUPER SPORT 6 FHD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378596?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",VIP SUPER SPORT 6 FHD HEVC
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378589?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",VIP TRING SPORT 1 FHD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378579?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",VIP TRING SPORT 1 HD
@@ -840,9 +765,4 @@ http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378570?checkedby:iptvcat.com
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378577?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",VIP TRING SPORT 3 HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378569?checkedby:iptvcat.com
-
-
-
-
-
 
