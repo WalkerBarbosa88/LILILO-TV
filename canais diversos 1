@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 ####################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 29/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 10/07/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
 ##########################################################################################################################
  
@@ -61,10 +61,9 @@ https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
 #EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]STADIUM HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stadium.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]OLYMPIC CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/6479
 
 *****************************************************  LISTA IPTV ORG DESPORTO  *********************************************************
+
 
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ABU DHABI SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
@@ -174,6 +173,7 @@ https://dqgmxyaqqrria.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 #EXTINF:-1,[COLOR=yellow][B]/////////  PROGRAMAS CLÁSSICOS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
+
 #EXTINF:-1,[COLOR=white][B]A COZINHA DO INFERNO[/B][/COLOR][COLOR=white][/COLOR]
 https://d3216p0n08c2mb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/HellsKitchen-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1,[COLOR=white][B]BAYWATCH[/B][/COLOR][COLOR=white][/COLOR]
@@ -202,6 +202,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625030145130f25474622/
 ##########################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  NASA, ONU E OUTROS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
+
 
 #EXTINF:-1,[COLOR=white][B]UNWEB TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
@@ -494,7 +495,7 @@ https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/srak-wx8r/playlist.m3
 
 
 ##########################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  CULINÁRIA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  GASTRONIMIA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
