@@ -8,7 +8,7 @@ FONTE DE INFORMAÇÃO: https://www.webcamgalore.com/Beaches/themecam.html
 #EXTM3U
 
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 23/06/2022. 6 WEBCAM OFFLINE[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 10/07/2022. 7 WEBCAM OFFLINE[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
@@ -19,7 +19,7 @@ https://0000000000000000000000
 
 # https://www.youtube.com/watch?v=SyeHtarR6Mg&ab_channel=Playocean
 #EXTINF:-1,[COLOR=white][B]SETUBAL - PRAIA DA FONTE DA TELHA (NORTE)[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=SyeHtarR6Mg&ab_channel=Playocean
+plugin://plugin.video.youtube/play/?video_id=SyeHtarR6Mg&ab_channel=qlt__Bb2X6o
 
 # https://www.youtube.com/watch?v=ardeumMsaVk&ab_channel=Madeira-Web
 #EXTINF:-1,[COLOR=white][B]MADEIRA - PRAIA DE FRANÇA MAR[/B][/COLOR][COLOR=white][/COLOR]
@@ -61,7 +61,7 @@ https://video-auth1.iol.pt/beachcam/bccarneiro/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/bccanidelo/playlist.m3u8
 
 
-OFFLINE: 1
+OFFLINE: 0
  
 ########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIAS DO CENTRO  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -187,7 +187,7 @@ https://video-auth1.iol.pt/beachcam/bcpescadores/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/saolourenco/playlist.m3u8
 
  
-OFFLINE: 1
+OFFLINE: 0
 
 ########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIAS DE SINTRA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -226,7 +226,7 @@ https://video-auth1.iol.pt/beachcam/conceicao/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/moitas/playlist.m3u8
 
 
-OFFLINE: 1
+OFFLINE: 0
 
 ########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIAS DE ESTORIL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -263,7 +263,7 @@ https://video-auth1.iol.pt/beachcam/parcos/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/caxias/playlist.m3u8
 
 
-OFFLINE: 1
+OFFLINE: 2
 
 ########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIAS DE ALMADA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -382,7 +382,7 @@ https://video-auth1.iol.pt/beachcam/bcamado/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]ALVOR NASCENTE[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/bcalvornascente/playlist.m3u8
 
-OFFLINE: 0
+OFFLINE: 3
   
 ########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIAS DA MADEIRA & AÇORES  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
