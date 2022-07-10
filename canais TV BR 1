@@ -3,7 +3,7 @@
 http://0.0.0.0:0000
 ############################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 29/06/2022[/B][/COLOR][COLOR=orange][/COLOR] 
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 10/07/2022[/B][/COLOR][COLOR=orange][/COLOR] 
 
 Fonte de Informação: 
 
@@ -19,8 +19,6 @@ CANAIS ABERTOS / LIVRES BRASIL - https://raw.githubusercontent.com/rogerioronin/
 http://0000000000000000000000000000
 
 
-#EXTINF:-1,[COLOR=white][B]ESPN EXTRA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/8789
 
 #EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.81:1234
@@ -28,8 +26,7 @@ http://189.91.128.146:4444/udp/227.10.20.81:1234
 http://pfsv.io:80/07720253/51853/250
 #EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://pfsv.io:80/07720253/51853/259
-#EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/8793
+
 
 #EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://pfsv.io:80/07720253/51853/261
@@ -44,8 +41,7 @@ http://189.91.128.146:4444/udp/227.10.20.128:1234
 http://189.91.128.146:4444/udp/227.10.20.153:1234
 #EXTINF:-1,[COLOR=white][B]ESPN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.153:1234
-#EXTINF:-1,[COLOR=white][B]ESPN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/290657
+
 
 #EXTINF:-1,[COLOR=white][B]ESPN 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.116:1234 
@@ -108,9 +104,6 @@ http://pfsv.io:80/07720253/51853/183
 #EXTINF:-1,[COLOR=white][B]DISCOVERY ANIMAL PLANET HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.118:1234
 
-#EXTINF:-1,[COLOR=white][B]HGTV BR. HD[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/147274
-
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  URBAN TV BRASIL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -133,8 +126,7 @@ http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 http://0000000000000000000000000000
 
 
-#EXTINF:-1,[COLOR=white][B]MKK WEB TV[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/286094
+
 #EXTINF:-1,[COLOR=white][B]TV MAX HD[/B][/COLOR][COLOR=white][/COLOR]
 http://59f1cbe63db89.streamlock.net:1935/tvmax/_definst_/tvmax/chunklist.m3u8
 #EXTINF:-1,[COLOR=white][B]BONS TEMPOS TV[/B][/COLOR][COLOR=white][/COLOR]
@@ -170,16 +162,10 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1609920726.m3u8
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,[COLOR=white][B]BIS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://pfsv.io:80/07720253/51853/18
-#EXTINF:-1,[COLOR=white][B]BIS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/24621
 #EXTINF:-1,[COLOR=white][B]TRACE URBAN HD[/B][/COLOR][COLOR=white][/COLOR]
 https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
 #EXTINF:-1,[COLOR=white][B]MULTISHOW HD[/B][/COLOR][COLOR=white][/COLOR]
 http://pfsv.io:80/07720253/51853/16
-#EXTINF:-1,[COLOR=white][B]MULTISHOW HD[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/14528
-#EXTINF:-1,[COLOR=white][B]MTV BR. HD[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/147283
 
 
 
@@ -348,7 +334,7 @@ http://189.91.128.146:4444/udp/227.10.20.166:1234
 
 
 ####################################################################################################################################
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 29/06/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 10/07/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 FONTE DESTA LISTA: https://github.com/WJS1978/IPTV/blob/main/iptv.m3u
 
