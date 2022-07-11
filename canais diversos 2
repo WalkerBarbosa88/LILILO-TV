@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 ####################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 10/07/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]BREVEMENTE[/B][/COLOR][COLOR=orange][/COLOR]
  
 ##########################################################################################################################
  
@@ -16,110 +16,4 @@ FONTE DE INFORMAÇÃO: https://vk.com/clubslynet
 
 #EXTINF:-1 group-title="VARIEDADES",[COLOR=white][B]PORTA DOS FUNDOS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
-
-
-#######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS ESPANHOIS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://000000
-
-#EXTM3U
-
-
-#EXTINF:0 tvg-id="LA1.es" group-title="Channels",La 1
-http://83.33.17.90:8069/udp/239.250.1.1:1234
-#EXTINF:0 tvg-id="LA2.es" group-title="Channels",La 2
-http://83.33.17.90:8069/udp/239.250.1.2:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",24h
-http://83.33.17.90:8069/udp/239.250.1.3:1234
-#EXTINF:0 tvg-id="disney" group-title="Channels",Disney Channel
-http://83.33.17.90:8069/udp/239.250.3.1:1234
-#EXTINF:0 tvg-id="Paramount.es" group-title="Channels",PARAMOUNT NETWORK
-http://83.33.17.90:8069/udp/239.250.3.2:1234
-#EXTINF:0 tvg-id="Disney.uk" group-title="Channels",Disney Channel HD
-http://83.33.17.90:8069/udp/239.250.3.3:1234
-#EXTINF:0 tvg-id="GOL.es" group-title="Channels",GOL
-http://83.33.17.90:8069/udp/239.250.3.4:1234
-#EXTINF:0 tvg-id="Antena3.es" group-title="Channels",antena3
-http://83.33.17.90:8069/udp/239.250.4.1:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",laSexta
-http://83.33.17.90:8069/udp/239.250.4.2:1234
-#EXTINF:0 tvg-id="Neox.es" group-title="Channels",neox
-http://83.33.17.90:8069/udp/239.250.4.3:1234
-#EXTINF:0 tvg-id="NovaTV.cz" group-title="Channels",nova
-http://83.33.17.90:8069/udp/239.250.4.4:1234
-#EXTINF:0 tvg-id="LaSexta.sp" group-title="Channels",laSexta HD
-http://83.33.17.90:8069/udp/239.250.4.6:1234
-#EXTINF:0 tvg-id="Telecinco.es" group-title="Channels",Telecinco
-http://83.33.17.90:8069/udp/239.250.5.1:1234
-#EXTINF:0 tvg-id="disney" group-title="Channels",Disney Channel
-http://83.33.17.90:8069/udp/239.250.5.2:1234
-#EXTINF:0 tvg-id="FDF.es" group-title="Channels",FDF
-http://83.33.17.90:8069/udp/239.250.5.3:1234
-#EXTINF:0 tvg-id="Divinity.es" group-title="Channels",Divinity
-http://83.33.17.90:8069/udp/239.250.5.4:1234
-
-
-############################ CANAIS ESPANHOIS 2 ########################################################
-
-
-#EXTM3U
-
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",+ Listas en M3U.CL * | CL
-https://videostreaming.cloudserverlatam.com:443/htbbgdnudk/htbbgdnudk/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Mundo de la Musica TV * | CL
-https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Urban TV * | ES
-https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Pequeradio TV | ES
-http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Alcarria TV | ES
-http://217.182.77.27/live/alcarriatv-livestream.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Aragon TV | ES
-http://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 33 Madrid | ES
-https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Castilla-La Mancha Media | ES
-http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Cultura 365 | ES
-http://cultural-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",El Futuro en tu Mano | ES
-https://limited24.todostreaming.es/live/renjillo-livestream.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Extremadura | ES
-https://cdnlive.shooowit.net/canalextremaduralive/channel1DVR.smil/chunklist_b1500000_DVR.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Momentos G | ES
-http://momentog-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Onda Algeciras | ES
-https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Television Municipal de Cordoba | ES
-http://teledifusion.tv/cordoba/cordobalive/index.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV Galicia Europa | ES
-http://europa-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Xabarin TV | ES
-http://infantil-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTVE24 | ES
-https://rtvelivestream.akamaized.net/24h_dvr_4000.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV Galicia America | ES
-http://america-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Cadena Elite | ES
-https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fabulosa FM | ES
-http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Ibiza Global TV | ES
-https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Molahits TV | ES
-http://ventdelnord.tv:8080/mola/directe.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Cristiana TV | ES
-https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Spectrum Channel | CL
-https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="avi" group-title="Videos",Levante TV | ES
-https://i.imgur.com/Cc1CypC.mp4?PlaylistM3UCL
-
-
-
-
-
-
-
 
