@@ -26,6 +26,37 @@ https://00000000000
 #EXTM3U
 
 
+#EXTINF:-1  tvg-id="2" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--450.png",SPORTTV 1
+http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/607
+
+#EXTINF:-1  tvg-id="2" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--451.png",SPORTTV 2
+http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/608
+
+#EXTINF:-1  tvg-id="2" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--452.png",SPORTTV 3
+http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/609
+
+#EXTINF:-1  tvg-id="2" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--453.png",SPORTTV 4
+http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/610
+
+#EXTINF:-1  tvg-id="2" tvg-logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--454.png",SPORTTV 5
+http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/611
+
+#EXTINF:-1  tvg-id="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png",Eleven Sport 1
+http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/612
+
+#EXTINF:-1  tvg-id="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png",Eleven Sport 2
+http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/613
+
+#EXTINF:-1  tvg-id="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png",Eleven Sport 3
+http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/614
+
+#EXTINF:-1  tvg-id="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png",Eleven Sport 4
+http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/615
+
+#EXTINF:-1  tvg-id="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png",Eleven Sport 5
+http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/616
+
+
 #EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a05w/index.m3u8
 #EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
