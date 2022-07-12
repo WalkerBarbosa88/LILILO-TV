@@ -14,168 +14,154 @@ http://0.0.0.0:0000
 ******************************************************************  GENERALISTAS & NOTÍCIAS PT  ******************
 
 
-#EXTINF:-1,RTP 1
+#EXTINF:-1,[COLOR=white][B]RTP 1[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a00t/index.m3u8
-#EXTINF:-1,RTP 1 HD
+#EXTINF:-1,[COLOR=white][B]RTP 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a081/index.m3u8
-#EXTINF:-1,RTP1
+#EXTINF:-1,[COLOR=white][B]RTP1[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0g7
-#EXTINF:-1,RTP 2
+#EXTINF:-1,[COLOR=white][B]RTP 2[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a00u/index.m3u8
-#EXTINF:-1,RTP2
+#EXTINF:-1,[COLOR=white][B]RTP2[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0g8
-#EXTINF:-1,RTP 2 HD
+#EXTINF:-1,[COLOR=white][B]RTP 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a086/index.m3u8
-#EXTINF:-1,RTP 3
+#EXTINF:-1,[COLOR=white][B]RTP 3[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a088/index.m3u8
-#EXTINF:-1,RTP 3
+#EXTINF:-1,[COLOR=white][B]RTP 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a00q/index.m3u8
-#EXTINF:-1,RTP3
+#EXTINF:-1,[COLOR=white][B]RTP3[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gd
-#EXTINF:-1,RTP ARENA
+#EXTINF:-1,[COLOR=white][B]RTP ARENA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a05l/index.m3u8
-#EXTINF:-1,RTP AÇORES
+#EXTINF:-1,[COLOR=white][B]RTP AÇORES[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a0ff/index.m3u8
-#EXTINF:-1,RTP AÇORES
+#EXTINF:-1,[COLOR=white][B]RTP AÇORES[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0ir
-#EXTINF:-1,RTP MADEIRA
+#EXTINF:-1,[COLOR=white][B]RTP MADEIRA[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a0f9/index.m3u8
-#EXTINF:-1,RTP MADEIRA
+#EXTINF:-1,[COLOR=white][B]RTP MADEIRA[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0is
-#EXTINF:-1,RTP MEMÓRIA
+#EXTINF:-1,[COLOR=white][B]RTP MEMÓRIA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a00r/index.m3u8
-#EXTINF:-1,RTP MEMÓRIA
+#EXTINF:-1,[COLOR=white][B]RTP MEMÓRIA[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gk
-#EXTINF:-1,RTP ÁFRICA
+#EXTINF:-1,[COLOR=white][B]RTP ÁFRICA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a01v/index.m3u8
-#EXTINF:-1,RTP ÁFRICA
+#EXTINF:-1,[COLOR=white][B]RTP ÁFRICA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0hn
-#EXTINF:-1,SIC
+#EXTINF:-1,[COLOR=white][B]SIC[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0g9
-#EXTINF:-1,SIC CARAS
+#EXTINF:-1,[COLOR=white][B]SIC CARAS[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a02o/index.m3u8
-#EXTINF:-1,SIC CARAS HD
+#EXTINF:-1,[COLOR=white][B]SIC CARAS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a00z/index.m3u8
-#EXTINF:-1,SIC CARAS
+#EXTINF:-1,[COLOR=white][B]SIC CARAS[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0jd
-#EXTINF:-1,SIC MULHER
+#EXTINF:-1,[COLOR=white][B]SIC MULHER[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a01k/index.m3u8
-#EXTINF:-1,SIC MULHER HD
+#EXTINF:-1,[COLOR=white][B]SIC MULHER HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a07m/index.m3u8
-#EXTINF:-1,SIC MULHER
+#EXTINF:-1,[COLOR=white][B]SIC MULHER[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gt
-#EXTINF:-1,SIC NOTÍCIAS
+#EXTINF:-1,[COLOR=white][B]SIC NOTÍCIAS[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a00s/index.m3u8
-#EXTINF:-1,SIC NOTÍCIAS HD
+#EXTINF:-1,[COLOR=white][B]SIC NOTÍCIAS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a084/index.m3u8
-#EXTINF:-1,SIC NOTÍCIAS
+#EXTINF:-1,[COLOR=white][B]SIC NOTÍCIAS[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0ga
-#EXTINF:-1,SIC RADICAL HD
+#EXTINF:-1,[COLOR=white][B]SIC RADICAL HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a07u/index.m3u8
-#EXTINF:-1,SIC RADICAL
+#EXTINF:-1,[COLOR=white][B]SIC RADICAL[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0it
-#EXTINF:-1,SIC K
+#EXTINF:-1,[COLOR=white][B]SIC K[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gs
-#EXTINF:-1,CNN PORTUGAL
+#EXTINF:-1,[COLOR=white][B]CNN PORTUGAL[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a01o/index.m3u8
-#EXTINF:-1,CNN PORTUGAL
+#EXTINF:-1,[COLOR=white][B]CNN PORTUGAL[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a023/index.m3u8
-#EXTINF:-1,TVI
+#EXTINF:-1,[COLOR=white][B]TVI[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a00w/index.m3u8
-#EXTINF:-1,TVI HD
+#EXTINF:-1,[COLOR=white][B]TVI HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a087/index.m3u8
-#EXTINF:-1,TVI FICÇÃO HD
+#EXTINF:-1,[COLOR=white][B]TVI FICÇÃO HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a09o/index.m3u8
-#EXTINF:-1,CNN PORTUGAL
+#EXTINF:-1,[COLOR=white][B]CNN PORTUGAL[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a02l
-#EXTINF:-1,CNN PORTUGAL
+#EXTINF:-1,[COLOR=white][B]CNN PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a02j
-#EXTINF:-1,TVI REALITY
+#EXTINF:-1,[COLOR=white][B]TVI REALITY HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a01g/index.m3u8
-#EXTINF:-1,TVI REALITY - CÂMARA 1
-http://45.92.69.77:8000/play/a026/index.m3u8
-#EXTINF:-1,TVI REALITY - CÂMARA 2
-http://45.92.69.77:8000/play/a027/index.m3u8
-#EXTINF:-1,TVI REALITY - CÂMARA 3
-http://45.92.69.77:8000/play/a028/index.m3u8
-#EXTINF:-1,TVI REALITY - CÂMARA 4
-http://45.92.69.77:8000/play/a02a/index.m3u8
-#EXTINF:-1,TVI REALITY - MOSAICO
-http://45.92.69.77:8000/play/a029/index.m3u8
-#EXTINF:-1,TVI REALITY HD
-http://45.92.69.77:8000/play/a04h/index.m3u8
-#EXTINF:-1,CNN PORTUGAL HD
-http://45.92.69.77:8000/play/a089/index.m3u8
-#EXTINF:-1,CNN PORTUGAL HD
+#EXTINF:-1,[COLOR=white][B]CNN PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a008/index.m3u8
-#EXTINF:-1,CMTV HD
+#EXTINF:-1,[COLOR=white][B]CMTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a085/index.m3u8
-#EXTINF:-1,CMTV HD
+#EXTINF:-1,[COLOR=white][B]CMTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a0fa/index.m3u8
-#EXTINF:-1,CMTV
+#EXTINF:-1,[COLOR=white][B]CMTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gf
-#EXTINF:-1,PORTO CANAL
+#EXTINF:-1,[COLOR=white][B]PORTO CANAL HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0j2
-#EXTINF:-1,PORTO CANAL HD
+#EXTINF:-1,[COLOR=white][B]PORTO CANAL HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a041
-#EXTINF:-1,PORTO CANAL HD
+#EXTINF:-1,[COLOR=white][B]PORTO CANAL HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a041
 
 
 ******************************************************************  FILMES E SÉRIES DE TV PT  ******************
 
 
-#EXTINF:-1,FOX COMEDY HD
+#EXTINF:-1,[COLOR=white][B]FOX COMEDY HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a032
-#EXTINF:-1,FOX COMEDY HD
+#EXTINF:-1,[COLOR=white][B]FOX COMEDY HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a057/index.m3u8
-#EXTINF:-1,AMC
+#EXTINF:-1,[COLOR=white][B]AMC HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a064/index.m3u8
-#EXTINF:-1,AMC HD
+#EXTINF:-1,[COLOR=white][B]AMC HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a08c/index.m3u8
-#EXTINF:-1,AXN
+#EXTINF:-1,[COLOR=white][B]AXN HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a068/index.m3u8
-#EXTINF:-1,AXN HD
+#EXTINF:-1,[COLOR=white][B]AXN HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0go
-#EXTINF:-1,AXN HD
+#EXTINF:-1,[COLOR=white][B]AXN HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a07q/index.m3u8
-#EXTINF:-1,AXN MOVIES HD
+#EXTINF:-1,[COLOR=white][B]AXN MOVIES HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a04r/index.m3u8
-#EXTINF:-1,AXN MOVIES
+#EXTINF:-1,[COLOR=white][B]AXN MOVIES[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0h6
-#EXTINF:-1,AXN WHITE
+#EXTINF:-1,[COLOR=white][B]AXN WHITE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a069/index.m3u8
-#EXTINF:-1,AXN WHITE HD
+#EXTINF:-1,[COLOR=white][B]AXN WHITE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a04v/index.m3u8
-#EXTINF:-1,AXN WHITE
+#EXTINF:-1,[COLOR=white][B]AXN WHITE[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0h5
-#EXTINF:-1,AXN WHITE HD
+#EXTINF:-1,[COLOR=white][B]AXN WHITE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0jx
-#EXTINF:-1,FOX
+#EXTINF:-1,[COLOR=white][B]FOX HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a067/index.m3u8
-#EXTINF:-1,FOX CRIME
+#EXTINF:-1,[COLOR=white][B]FOX CRIME HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a063/index.m3u8
-#EXTINF:-1,FOX CRIME HD
+#EXTINF:-1,[COLOR=white][B]FOX CRIME HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a07s/index.m3u8
-#EXTINF:-1,FOX HD
+#EXTINF:-1,[COLOR=white][B]FOX HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a07r/index.m3u8
-#EXTINF:-1,FOX LIFE
+#EXTINF:-1,[COLOR=white][B]FOX LIFE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a05z/index.m3u8
-#EXTINF:-1,FOX LIFE HD
+#EXTINF:-1,[COLOR=white][B]FOX LIFE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a07p/index.m3u8
-#EXTINF:-1,FOX MOVIES
+#EXTINF:-1,[COLOR=white][B]FOX MOVIES HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a01i/index.m3u8
-#EXTINF:-1,FOX MOVIES HD
+#EXTINF:-1,[COLOR=white][B]FOX MOVIES HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a09p/index.m3u8
-#EXTINF:-1,HOLLYWOOD
+#EXTINF:-1,[COLOR=white][B]HOLLYWOOD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a06f/index.m3u8
-#EXTINF:-1,HOLLYWOOD HD
+#EXTINF:-1,[COLOR=white][B]HOLLYWOOD HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a07o/index.m3u8
-#EXTINF:-1,HOLLYWOOD HD
+#EXTINF:-1,[COLOR=white][B]HOLLYWOOD HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0jg
-#EXTINF:-1,SYFY
+#EXTINF:-1,[COLOR=white][B]SYFY HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a02m/index.m3u8
-#EXTINF:-1,SYFY HD
+#EXTINF:-1,[COLOR=white][B]SYFY HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a05c/index.m3u8
 
 
