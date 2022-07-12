@@ -393,6 +393,10 @@ FONTE DE INFORMAÇÃO: https://vk.com/clubslynet
 
 #EXTM3U
 
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 12/07/2022[/B][/COLOR][COLOR=orange][/COLOR]
+
+#EXTM3U
+
 
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",1.FM - A List 80s
 http://prmstrm.1.fm:8000/back280s
@@ -456,8 +460,6 @@ http://prmstrm.1.fm:8000/disco
 http://prmstrm.1.fm:8000/dubstep
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",1.FM - Eternal Praise & Worship
 http://prmstrm.1.fm:8000/praise
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",1.FM - Fashion TV Radio
-http://prmstrm.1.fm:8000/ftv
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",1.FM - Gorilla FM
 http://prmstrm.1.fm:8000/gorillafm
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",1.FM - High Voltage
@@ -642,8 +644,6 @@ https://eu.stream4cast.com/proxy/lavradiomix/stream
 http://netradio.live24.gr/loveradio-1000
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",MTV Radio (DK)
 http://stream.rcs.revma.com/h7ugdktwweruv
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",NOW Radio (AT)
-http://stream.erf.at/nowradio_320
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Nature Radio Rain
 http://maggie.torontocast.com:8108/stream
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",PRO DJ Radio (Moldova)
@@ -666,42 +666,6 @@ http://icecast.pulsradio.com/relaxHD.mp3
 http://icecast.pulsradio.com/mxHD.mp3
 #EXTINF:0 tvg-id="avi" group-title="Наша группа в ВК (https://vk.com/clubslynet)",PULSRADIO TRANCE
 http://icecast.pulsradio.com:80/pulstranceHD.mp3
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Polskie Radio 1
-http://stream3.polskieradio.pl:8900/;
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Polskie Radio 2
-http://stream3.polskieradio.pl:8902/;
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Polskie Radio 24
-http://stream3.polskieradio.pl:8080/;
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Polskie Radio 3
-http://stream3.polskieradio.pl:8904/;
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Polskie Radio 4
-http://stream3.polskieradio.pl:8906/;
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Polskie Radio 5
-http://stream3.polskieradio.pl:8908/;
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Polskie Radio 5 WSCH
-http://stream3.polskieradio.pl:8914/;
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Polskie Radio Ballady
-http://stream3.polskieradio.pl:8074/;
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Polskie Radio Cafe Fogg
-http://stream3.polskieradio.pl:8018/;
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Polskie Radio Chopin
-http://stream3.polskieradio.pl:8910/;
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Polskie Radio Classic Rock
-http://stream3.polskieradio.pl:8060/;
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Polskie Radio Dzieciom
-http://stream3.polskieradio.pl:8916/;
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Polskie Radio Kierowcow
-http://stream3.polskieradio.pl:8918/;
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Polskie Radio Koncerty
-http://stream3.polskieradio.pl:8010/;
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Polskie Radio Led Zeppelin
-http://stream3.polskieradio.pl:8068/;
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Polskie Radio Niezly Jazz
-http://stream3.polskieradio.pl:8184/;
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Polskie Radio Nostalgia
-http://stream3.polskieradio.pl:8118/;
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Polskie Radio Pink Floyd
-http://stream3.polskieradio.pl:8070/;
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Power Hit Radio (Эстония)
 http://ice.leviracloud.eu:8000/phr320-mp3
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",PromoDJ FM - 186mph
@@ -726,8 +690,6 @@ http://radio.promodj.com:8000/nu-192
 http://radio.promodj.com:8000/oldschool-192
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",PromoDJ FM - Pop
 http://radio.promodj.com:8000/pop-192
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",PromoDJ FM - Strange
-http://radio.promodj.com:8000/strange-192
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",PromoDJ FM - Too Deep
 http://radio.promodj.com:8000/toodeep-192
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",PromoDJ FM - Too Nu
@@ -838,8 +800,6 @@ http://188.32.14.31:8010/radio.mp3
 http://188.32.14.31:8000/radio.mp3
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio 103 FM (ISR)
 https://cdn.cybercdn.live/103FM/Live/icecast.audio
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio 105.5 FM (ARM)
-http://14698.cloudrad.io:9436/live
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio 1Mix EDM
 http://fr1.1mix.co.uk:8060/320h
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio 1Mix Trance
@@ -984,8 +944,6 @@ https://streaming02.zfast.co.uk/proxy/britcom1?mp=/stream
 https://streaming02.zfast.co.uk/proxy/britcom2?mp=/stream
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Bum Bum (SRB)
 http://bumbum-stream.netlogic.rs:8000/stream
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Bumerang FM (BG)
-http://185.20.88.1:8010/;
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio CBC FM (AZ)
 http://95.217.196.109:8000/cbcradio
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Capital FM (UK)
@@ -1048,12 +1006,8 @@ https://sh.onweb.gr:7083/stream
 http://stream.radiojar.com/58ts0hd5hrquv
 #EXTINF:0 tvg-id="avi" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Digi FM (ROM)
 http://edge76.rdsnet.ro:84/digifm/digifm.mp3
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Divu Krastu
-http://62.205.205.100:8000/;
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Duo (EST)
 http://router.euddn.net/8103046e16b71d15d692b57c187875c7/radioduo.aac
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio ERF Plus
-http://stream.erf.at/erfplus_320
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio ESKA (PL)
 https://radio.stream.smcdn.pl/icradio-p/2380-1.mp3/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Eco FM (MD)
@@ -1062,10 +1016,6 @@ http://188.138.204.98:8080/ecoFM
 http://router.euddn.net/8103046e16b71d15d692b57c187875c7/elmar.mp3
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Energy (ARM)
 https://eu.stream4cast.com/proxy/energyfm/stream
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Energy (LV)
-http://www.radioenergy.lv:8000/;
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Energy (LV) - Russian
-http://www.radioenergy.lv:9000/;
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Enter FM (Zagreb)
 http://live.enterzagreb.hr:8025/stream
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Europa 2 (CZ)
@@ -1266,8 +1216,6 @@ http://radio.linn.co.uk:8000/autodj
 http://asculta.logos.md:10000/live256
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio M-1 (LT)
 http://radio.m-1.fm/m1/MP3320
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio M-1 Dance
-http://radio.m-1.fm/m-1dance/maxQality
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio M-1 Plus (LT)
 http://radio.m-1.fm/m1plius/aacp320
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio M1 (Австрия)
@@ -1304,8 +1252,6 @@ http://megadanceradio.hopto.org:8000/MEGADANCE_AUTODI
 http://live.maestrofm.md:8000/megahit
 #EXTINF:0 tvg-id="avi" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Melody
 http://fm1melody.ice.infomaniak.ch/fm1melody-128.mp3
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Merkurs (LV)
-http://89.201.5.115:8000/;
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Metropol FM (DE)
 http://stream1.mfm.plexpark.com/radio/8000/simulcast-berlin-sd-64.aac
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Micul Samaritean
@@ -1408,8 +1354,6 @@ http://storage.voceabasarabiei.md:8000/radionoroc.mp3
 http://stream81.metacast.eu/nova128
 #EXTINF:0 tvg-id="avi" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Nova News
 http://stream81.metacast.eu/novanews.mp3
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Novosti (Белград) SRB
-http://novostir.kbcnet.rs:80/;
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio OK (KG)
 http://stream.okradio.kg:8000/stream
 #EXTINF:0 tvg-id="avi" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio OUI FM (FR)
@@ -1436,8 +1380,6 @@ http://ouifm5.ice.infomaniak.ch/ouifm5.mp3
 https://live.radio.odishi.ge/odishi.mp3
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio One (LV)
 https://radioone.lv/01
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio One (Moldova)
-http://live.ruradio.md:8000/r1
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio P10 Country
 http://p4.p4groupaudio.com/P10_MH
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio P11 Bandit
@@ -1460,8 +1402,6 @@ http://p9.p4groupaudio.com/P09_MH
 http://91.90.255.85:8000/01
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Palitra (GE)
 http://92.241.82.245:8000/live
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Paprika (HU)
-http://stream1.paprikaradio.ro:8000/;
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Party FM (GRE)
 http://s1.onweb.gr:8824/stream
 #EXTINF:0 tvg-id="avi" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Pogoda (PL)
@@ -1616,8 +1556,6 @@ http://188.120.251.66:8008/re_63_03
 http://87.244.47.90:8000/Record
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Record (Тюмень)
 http://89.185.94.89:8000/rd_72_01
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Record (Чайковский)
-http://109.196.143.92:8106/
 #EXTINF:0 tvg-id="avi" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Record KG
 http://31.186.50.67:8000/record.mp3
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Record Moldova
@@ -1846,8 +1784,6 @@ https://streaming.revolution935.com/live
 http://195.13.164.134:8000/source.mp3
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Ring FM (EST)
 http://sc2.treraadio.ee/ringfm
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Rioni
-http://92.241.73.182:8000/;
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Rock Antenne (DE)
 http://mp3channels.webradio.antenne.de/rockantenne
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Rock Antenne - 70er Rock
@@ -2258,8 +2194,6 @@ https://live.radiospinner.com/etkvkz-64
 http://starfm.live.advailo.com/audio/mp3/icecast.audio
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Star FM (Эстония)
 http://ice.leviracloud.eu:8000/star320-mp3
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Streaming Soundtracks
-http://hi5.streamingsoundtracks.com/;
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Studentus (Moldova)
 http://radiolive.studentus.md:8000/live
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Sunshine (BEL)
@@ -2334,8 +2268,6 @@ http://gyvai.utenosradijas.lt:8010/stream
 http://fm101.uz:9900/fm101_low
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio V2Beat (IT)
 http://de1se01.v2beat.live/icecast.audio
-#EXTINF:0 tvg-id="avi" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio VIVA (BG)
-http://stream.radioextra-bg.net:8000/viva.mp3
 #EXTINF:0 tvg-id="avi" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Vaasa (FIN)
 http://stream.protonbroadcast.com:8000/radiovaasa.mp3
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Van (ARM)
@@ -2414,14 +2346,8 @@ http://185.181.229.196:8000/ZUM3
 https://netradio.ziniur.lt/ziniur.mp3
 #EXTINF:0 tvg-id="avi" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Zip FM (LT)
 http://stream2.zipfm.lt/zipfm128.mp3
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Znad Wilii
-https://plays.zw.lt/zw128
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Znad Wilii Fun
-https://plays.zw.lt/zwfun
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",RadioItalia
 https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/stream02/streamPlaylist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",RadioItalia Sanremo
-https://stream4.xdevel.com/audio2s976608-1382/stream/icecast.audio
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",RadioItalia Trend
 https://stream4.xdevel.com/audio0s976608-1379/stream/icecast.audio
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radioplay BG-Cafe
@@ -2442,8 +2368,6 @@ http://server1.tnt.ba:8004/stream
 http://server1.tnt.ba:9000/stream
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",TNT Radio Tuzla
 http://server1.tnt.ba:9060/stream
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",TNT Radio Zenica
-http://server1.tnt.ba:9070/stream
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",The Mix Radio (UK)
 http://fr1.nexuscast.com:9024/stream
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",The Mix Radio 80s
@@ -2474,6 +2398,5 @@ http://stream.virginradio.fr:8000/vr-wr8.mp3
 http://stream.virginradio.fr:8000/vr-wr5.mp3
 #EXTINF:0 tvg-id="avi" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Virgin Tonic Radio
 http://stream.virginradio.fr:8000/vr-wr6.mp3
-
 
 
