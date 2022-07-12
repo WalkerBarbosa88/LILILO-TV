@@ -120,17 +120,17 @@ http://45.153.35.221:8000/play/a02s/index.m3u8
 http://45.153.35.221:8000/play/a02e/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",GREAT! MOVIES
 http://45.153.35.221:8000/play/a02f/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GREAT! MOVIES+1
+#EXTINF:0 tvg-id="ext" group-title="Channels",GREAT! MOVIES
 http://45.153.35.221:8000/play/a02m/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",GREAT! TV
 http://45.153.35.221:8000/play/a02q/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GREAT! TV+1
+#EXTINF:0 tvg-id="ext" group-title="Channels",GREAT! TV
 http://45.153.35.221:8000/play/a02r/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GREAT! ACTION+1
+#EXTINF:0 tvg-id="ext" group-title="Channels",GREAT! ACTION
 http://45.153.35.221:8000/play/a02o/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Great! XMASs
+#EXTINF:0 tvg-id="ext" group-title="Channels",GREAT! XMAS
 http://45.153.35.221:8000/play/a02g/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Great! XMAS+1
+#EXTINF:0 tvg-id="ext" group-title="Channels",GREAT! XMAS
 http://45.153.35.221:8000/play/a02h/index.m3u8
 #EXTINF:0 tvg-id="impact" group-title="Channels",ITV
 http://45.153.35.221:8000/play/a00n/index.m3u8
@@ -142,11 +142,11 @@ http://45.153.35.221:8000/play/a00i/index.m3u8
 http://45.153.35.221:8000/play/a00h/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",ITV WALES
 http://45.153.35.221:8000/play/a00m/index.m3u8
-#EXTINF:0 tvg-id="ITV1CentralPlus1.uk" group-title="Channels",ITV+1
+#EXTINF:0 tvg-id="ITV1CentralPlus1.uk" group-title="Channels",ITV
 http://45.153.35.221:8000/play/a00o/index.m3u8
-#EXTINF:0 tvg-id="ITV1CentralPlus1.uk" group-title="Channels",ITV+1
+#EXTINF:0 tvg-id="ITV1CentralPlus1.uk" group-title="Channels",ITV
 http://45.153.35.221:8000/play/a00l/index.m3u8
-#EXTINF:0 tvg-id="ITV2plus1.uk" group-title="Channels",ITV2+1
+#EXTINF:0 tvg-id="ITV2plus1.uk" group-title="Channels",ITV2
 http://45.153.35.221:8000/play/a00s/index.m3u8
 #EXTINF:0 tvg-id="ITV3.uk" group-title="Channels",ITV3
 http://45.153.35.221:8000/play/a00q/index.m3u8
