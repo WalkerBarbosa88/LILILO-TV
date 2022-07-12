@@ -8,4 +8,1065 @@ http://0.0.0.0:0000
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=orange][B]BREVEMENTE[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA PT EM TESTES[/B][/COLOR][COLOR=orange][/COLOR]
+
+#EXTM3U
+
+
+#EXTINF:0 tvg-id="rtp1.pt" group-title="Channels",PT: RTP 1 SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7452
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: RTP 1 HD (H265)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/119711
+#EXTINF:0 tvg-id="rtp1.pt" group-title="Channels",PT: RTP 1 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7453
+#EXTINF:0 tvg-id="rtp2.pt" group-title="Channels",PT: RTP 2 SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7700
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: RTP 2 HD (H265)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/119712
+#EXTINF:0 tvg-id="rtp2.pt" group-title="Channels",PT: RTP 2 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7455
+#EXTINF:0 tvg-id="RTP3.pt" group-title="Channels",PT: RTP 3 SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7701
+#EXTINF:0 tvg-id="RTP3.pt" group-title="Channels",PT: RTP 3 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7460
+#EXTINF:0 tvg-id="sic.pt" group-title="Channels",PT: SIC SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7456
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SIC HD (H265)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/119713
+#EXTINF:0 tvg-id="sic.pt" group-title="Channels",PT: SIC FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7457
+#EXTINF:0 tvg-id="TVI.pt" group-title="Channels",PT: TVI SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7721
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVI HD (H265)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/119714
+#EXTINF:0 tvg-id="TVI.pt" group-title="Channels",PT: TVI FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7459
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SIC K FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7656
+#EXTINF:0 tvg-id="SicK.pt" group-title="Channels",PT: SIC K SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7707
+#EXTINF:0 tvg-id="sicmulher.pt" group-title="Channels",PT: SIC Mulher SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7467
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SIC Caras FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7472
+#EXTINF:0 tvg-id="SicCaras.pt" group-title="Channels",PT: SIC Caras SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7706
+#EXTINF:0 tvg-id="sicmulher.pt" group-title="Channels",PT: SIC Mulher FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7468
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SIC Mulher HD (H265)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/119720
+#EXTINF:0 tvg-id="sicnoticias.pt" group-title="Channels",PT: SIC Noticias FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7470
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SIC Noticias HD (H265)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/119716
+#EXTINF:0 tvg-id="sicnoticias.pt" group-title="Channels",PT: SIC Noticias SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7708
+#EXTINF:0 tvg-id="sicradical.pt" group-title="Channels",PT: SIC Radical FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7466
+#EXTINF:0 tvg-id="sicradical.pt" group-title="Channels",PT: SIC Radical SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7709
+#EXTINF:0 tvg-id="TVI24.pt" group-title="Channels",PT: TVI 24 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7477
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVI 24 HD (H265)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/119717
+#EXTINF:0 tvg-id="TVI24.pt" group-title="Channels",PT: TVI 24 SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7722
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVI Ficçao FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/27296
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVI Ficçao HD (H265)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/119718
+#EXTINF:0 tvg-id="TVIFiccao.pt" group-title="Channels",PT: TVI Ficçao SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7479
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVI Reality FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7481
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVI Reality HD (H265)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/119719
+#EXTINF:0 tvg-id="TVIReal.pt" group-title="Channels",PT: TVI Reality SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7480
+#EXTINF:0 tvg-id="RTPAcores.pt" group-title="Channels",PT: RTP Acores
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7702
+#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Channels",PT: RTP Africa SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7461
+#EXTINF:0 tvg-id="RTPMadeira.pt" group-title="Channels",PT: RTP Madeira SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7463
+#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Channels",PT: RTP Memoria SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7464
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Porto Canal FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7474
+#EXTINF:0 tvg-id="PortoCanal.pt" group-title="Channels",PT: Porto Canal SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7698
+#EXTINF:0 tvg-id="24Kitchen.pt" group-title="Channels",PT: 24 Kitchen
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7628
+#EXTINF:0 tvg-id="24Kitchen.pt" group-title="Channels",PT: 24 Kitchen FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/27298
+#EXTINF:0 tvg-id="ABolaTV.pt" group-title="Channels",PT: A Bola TV
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7664
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: A Bola TV HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7532
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: A Bola TV HD (H265)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/119722
+#EXTINF:0 tvg-id="AfroMusic.pt" group-title="Channels",PT: Afro Music
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7635
+#EXTINF:0 tvg-id="AMC.pt" group-title="Channels",PT: AMC
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7665
+#EXTINF:0 tvg-id="AMC.pt" group-title="Channels",PT: AMC FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7572
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Apanhados 1 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228306
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Apanhados 2 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228307
+#EXTINF:0 tvg-id="ARTV.pt" group-title="Channels",PT: ARTV
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7487
+#EXTINF:0 tvg-id="axn.pt" group-title="Channels",PT: AXN
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7666
+#EXTINF:0 tvg-id="axn.pt" group-title="Channels",PT: AXN FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7579
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: AXN HD (H265)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/119816
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: AXN Movies
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7667
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: AXN Movies FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7581
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: AXN Movies HD (H265)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/119818
+#EXTINF:0 tvg-id="AXNWhite.pt" group-title="Channels",PT: AXN White
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7668
+#EXTINF:0 tvg-id="AXNWhite.pt" group-title="Channels",PT: AXN White FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7583
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: AXN White HD (H265)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/119817
+#EXTINF:0 tvg-id="BabyTV.pt" group-title="Channels",PT: Baby TV
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7669
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Bacalhau Com Todos 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228318
+#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Channels",PT: Biggs
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7659
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Blaze
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7609
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Blaze FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7610
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Boom 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228315
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: BTV
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7670
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",PT: BTV 1
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7513
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",PT: BTV 1 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7514
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: BTV FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7515
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: BTV HD (H265)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/119807
+#EXTINF:0 tvg-id="cazaepesca.pt" group-title="Channels",PT: Caca e Pesca
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7553
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Caca e Pesca FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/27303
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Canal 11
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7671
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Canal 11 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7530
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Canal 11 HD (H265)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/119721
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Canal 180
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7634
+#EXTINF:0 tvg-id="canalpanda.pt" group-title="Channels",PT: Canal Panda
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7652
+#EXTINF:0 tvg-id="CanalQ.pt" group-title="Channels",PT: Canal Q
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7618
+#EXTINF:0 tvg-id="CANCAONOVA.pt" group-title="Channels",PT: Cancao Nova
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7491
+#EXTINF:0 tvg-id="cartoon.pt" group-title="Channels",PT: Cartoon Network
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7653
+#EXTINF:0 tvg-id="CacaVision.pt" group-title="Channels",PT: Caçavision
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7552
+#EXTINF:0 tvg-id="CBSReality.pt" group-title="Channels",PT: CBS Reality
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7611
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Cinema Portugal 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228323
+#EXTINF:0 tvg-id="Cinemundo.pt" group-title="Channels",PT: Cinemundo
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7673
+#EXTINF:0 tvg-id="Cinemundo.pt" group-title="Channels",PT: Cinemundo FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/27304
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Cinemundo HD (H265)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/119811
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Clubbing
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7648
+#EXTINF:0 tvg-id="CMTV.pt" group-title="Channels",PT: CMTV
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7475
+#EXTINF:0 tvg-id="CMTV.pt" group-title="Channels",PT: CMTV FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7476
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CMTV HD (H265)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/119715
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Crime + Investigation
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7605
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Crime + Investigation FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7606
+#EXTINF:0 tvg-id="discoverychannel.pt" group-title="Channels",PT: Discovery Channel
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7595
+#EXTINF:0 tvg-id="DISCOVERYHD.pt" group-title="Channels",PT: Discovery Channel FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7596
+#EXTINF:0 tvg-id="disneychannel.pt" group-title="Channels",PT: Disney Channel
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7650
+#EXTINF:0 tvg-id="DisneyJunior.pt" group-title="Channels",PT: Disney Junior
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7651
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Dragon Ball Super 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228361
+#EXTINF:0 tvg-id="eentertainment.pt" group-title="Channels",PT: E! Entertainment
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7612
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: E! Entertainment FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7617
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Fatima TV FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7492
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Ficcao 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228352
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Filmes Acção 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228293
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Filmes Animação Falados Em Portugues 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228311
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Filmes Classicos 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228294
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Filmes Comedia 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228296
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Filmes Denzel Washington 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228297
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Filmes Samiel L Jackson 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228302
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Filmes Thriller/Terros 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228301
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Filmes Western 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228295
+#EXTINF:0 tvg-id="FoodNetwork.pt" group-title="Channels",PT: Food Network HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7616
+#EXTINF:0 tvg-id="fox.pt" group-title="Channels",PT: FOX
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7684
+#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",PT: FOX Comedy
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7685
+#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",PT: FOX Comedy FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7591
+#EXTINF:0 tvg-id="foxcrime.pt" group-title="Channels",PT: FOX Crime
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7686
+#EXTINF:0 tvg-id="foxcrime.pt" group-title="Channels",PT: FOX Crime FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7593
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: FOX Crime HD (H265)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/119820
+#EXTINF:0 tvg-id="fox.pt" group-title="Channels",PT: FOX FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7585
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: FOX HD (H265)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/119819
+#EXTINF:0 tvg-id="foxlife.pt" group-title="Channels",PT: FOX Life
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7687
+#EXTINF:0 tvg-id="foxlife.pt" group-title="Channels",PT: FOX Life FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7587
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",PT: FOX Movies
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7688
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",PT: FOX Movies FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7589
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: FOX Movies HD (H265)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/119821
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: FTV
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7626
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="Channels",PT: Fuel TV
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7551
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="Channels",PT: Fuel TV FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7550
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Gato Fedorento 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228325
+#EXTINF:0 tvg-id="TVGlobo.pt" group-title="Channels",PT: Globo
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7689
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Globo Now
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/27273
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: HBO Portugal 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228292
+#EXTINF:0 tvg-id="HistoryChannel.pt" group-title="Channels",PT: Historia
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7691
+#EXTINF:0 tvg-id="HistoryChannel.pt" group-title="Channels",PT: Historia FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7600
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Historia HD (H265)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/119812
+#EXTINF:0 tvg-id="hollywood.pt" group-title="Channels",PT: Hollywood
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7567
+#EXTINF:0 tvg-id="hollywood.pt" group-title="Channels",PT: Hollywood FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7568
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ID Investigation Discovery
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7607
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Inside Formula 1 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228324
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Jackie Chan Adventures 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228299
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Kuriakos Cine
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7576
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Kuriakos Kids
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7660
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Kuriakos Music
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7646
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Kuriakos TV SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7490
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Localvisao TV HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7489
+#EXTINF:0 tvg-id="m6.pt" group-title="Channels",PT: M6
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7577
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Magic For Humans 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228322
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Marvel 1 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228289
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Marvel 2 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228290
+#EXTINF:0 tvg-id="MCMPop.pt" group-title="Channels",PT: MCM Pop
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7641
+#EXTINF:0 tvg-id="mezzo.pt" group-title="Channels",PT: Mezzo
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7649
+#EXTINF:0 tvg-id="Motorvision.pt" group-title="Channels",PT: Motorvision FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7538
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: MTV Live HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7639
+#EXTINF:0 tvg-id="mtvportugal.pt" group-title="Channels",PT: MTV Portugal
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7637
+#EXTINF:0 tvg-id="mtvportugal.pt" group-title="Channels",PT: MTV Portugal FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7638
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: NatGeo
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7693
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: NatGeo FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7602
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: NatGeo Wild
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7694
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: NatGeo Wild FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7604
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Netflix 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228365
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Netflix Kids 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228320
+#EXTINF:0 tvg-id="NickJr.pt" group-title="Channels",PT: Nick Jr.
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7657
+#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Channels",PT: Nickelodeon
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7654
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Nos Studios HD (H265)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/119810
+#EXTINF:0 tvg-id="odisseia.pt" group-title="Channels",PT: Odisseia
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7597
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Odisseia FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7598
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Os Batanetes 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228326
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Os Malucos Do Riso 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228305
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Os Simpsons 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228309
+#EXTINF:0 tvg-id="canalpanda.pt" group-title="Channels",PT: Panda
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7696
+#EXTINF:0 tvg-id="pfc.pt" group-title="Channels",PT: PFC
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7537
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Portugal A Rir 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228308
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Portugal Tal E Qual 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228316
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Rick And Morty 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228310
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Robot Movies 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228313
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: S+ FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7633
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: S+ SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/64716
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Series 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228304
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Sertanejo 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228321
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Slam 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228314
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Star Wars 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228303
+#EXTINF:0 tvg-id="SyFy.pt" group-title="Channels",PT: SyFy
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7717
+#EXTINF:0 tvg-id="SyFy.pt" group-title="Channels",PT: SyFy FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7575
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Sylvester Stallone 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228298
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Talking Tom Cat And Friends 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228319
+#EXTINF:0 tvg-id="TLC.pt" group-title="Channels",PT: TLC
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7613
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Tom Cruise 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228300
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Touradas E Marradas 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228327
+#EXTINF:0 tvg-id="TraceTVUrban.pt" group-title="Channels",PT: Trace Urban
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7645
+#EXTINF:0 tvg-id="TravelChannel.pt" group-title="Channels",PT: Travel Channel
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7619
+#EXTINF:0 tvg-id="TravelChannel.pt" group-title="Channels",PT: Travel Channel FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7549
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TV Cine Action FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7562
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TV Cine Action SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7561
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TV Cine Edition FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7558
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TV Cine Edition HD (H265)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/119814
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TV Cine Edition SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7557
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TV Cine Emotion FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7560
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TV Cine Emotion HD (H265)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/119815
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TV Cine Emotion SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7559
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TV Cine Top FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/64698
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TV Cine Top HD (H265)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/119813
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TV Cine Top SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7555
+#EXTINF:0 tvg-id="tvrecord.pt" group-title="Channels",PT: TV Record
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7720
+#EXTINF:0 tvg-id="vh1.pt" group-title="Channels",PT: VH1
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7643
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Vingadores Animação 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228312
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: PT: Sport TV+ FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7495
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: PT: Sport TV 1 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7500
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: PT: Sport TV 2 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7503
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: PT: Sport TV 3 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7506
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: PT: Sport TV 4 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7508
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: PT: Sport TV 5 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7512
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: PT: Sporting TV SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7516
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: PT: Sporting TV FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7517
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: PT: Eleven Sports 1 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7518
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: PT: Eleven Sports 2 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7521
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: PT: Eleven Sports 3 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7523
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: PT: Eleven Sports 4 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7525
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: PT: Eleven Sports 5 SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7526
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: PT: Eleven Sports 5 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7527
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: PT: Eurosport 1 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7534
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: PT: Eurosport 2 SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7535
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: PT: Eurosport 2 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7536
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: PT: Combate SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7542
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: PT: Combate FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7544
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: PT: NBA
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7546
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: PT: Eleven Sports 1 SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7677
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: PT: Eleven Sports 2 SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7678
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: PT: Eleven Sports 3 SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7679
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: PT: Eleven Sports 4 SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7680
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: PT: Eurosport 1 SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7683
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: PT: Sport TV+ SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7710
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: PT: Sport TV 1 SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7711
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: PT: Sport TV 2 SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7712
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: PT: Sport TV 3 SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7713
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: PT: Sport TV 4 SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7714
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: PT: Sport TV 5 SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7715
+
+#EXTINF:0 tvg-id="ext" group-title="Portugal Sports",•●★-- Portugal Sports --★●•
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32978
+#EXTINF:0 tvg-id="ext" group-title="Portugal Sports",SP: PT: Sport TV+ HD (H265)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/119723
+#EXTINF:0 tvg-id="ext" group-title="Portugal Sports",SP: PT: Sport TV 1 HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/119724
+#EXTINF:0 tvg-id="ext" group-title="Portugal Sports",SP: PT: Sport TV 2 HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/119726
+#EXTINF:0 tvg-id="ext" group-title="Portugal Sports",SP: PT: Sport TV 3 HD (H265)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/119763
+#EXTINF:0 tvg-id="ext" group-title="Portugal Sports",SP: PT: Sport TV 4 HD (H265)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/119764
+#EXTINF:0 tvg-id="ext" group-title="Portugal Sports",SP: PT: Sporting TV HD (H265)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/119809
+#EXTINF:0 tvg-id="ext" group-title="Portugal Sports",SP: PT: Benfica TV FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/119831
+#EXTINF:0 tvg-id="ext" group-title="Portugal Sports",SP: PT: Benfica TV SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/126145
+
+#EXTM3U
+
+#EXTINF:-1,[COLOR=orange][B]LISTA BR EM TESTES[/B][/COLOR][COLOR=orange][/COLOR]
+
+#EXTM3U
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Telecine Premium HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24279
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: A&E FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24225
+#EXTINF:0 tvg-id="Ae.br" group-title="Channels",BR: A&E SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3414
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: AMC FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/101899
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: AMC HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24283
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: AMC SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24257
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Animal Planet FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24290
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Animal Planet HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3321
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="Channels",BR: Animal Planet SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3485
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Arte 1 HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/22534
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Arte 1 SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3415
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: AXN FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24226
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: AXN HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/22535
+#EXTINF:0 tvg-id="Axn.br" group-title="Channels",BR: AXN SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3416
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Baby TV HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3291
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Baby TV SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3447
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Band Campinas HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3498
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Band FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24179
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Band HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3499
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Band News FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24180
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Band News HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3307
+#EXTINF:0 tvg-id="Bandnews.br" group-title="Channels",BR: Band News SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3462
+#EXTINF:0 tvg-id="Bandeirantes.br" group-title="Channels",BR: Band SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/101869
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Bis HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3310
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Bis SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3469
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Boomerang HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3292
+#EXTINF:0 tvg-id="Boomerang.br" group-title="Channels",BR: Boomerang SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3448
+#EXTINF:0 tvg-id="Canalbrasil.br" group-title="Channels",BR: Canal Brasil
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24331
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Cartoon Network FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24306
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Cartoon Network HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3293
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Cartoon Network SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3449
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Chapolin 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/76520
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Chaves 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/76519
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Cinemax FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24245
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Cinemax HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/22536
+#EXTINF:0 tvg-id="Cinemax.br" group-title="Channels",BR: Cinemax SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3420
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Cnn Internacional SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3463
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Combate HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3509
+#EXTINF:0 tvg-id="Combate.br" group-title="Channels",BR: Combate SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3402
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Comedy Central FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24157
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Comedy Central HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3294
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Comedy Central SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3450
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Discovery Channel FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24297
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Discovery Channel HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3322
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Discovery Channel SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3486
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Discovery H&H HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3324
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Discovery H&H SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3487
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Discovery Kids FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24293
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Discovery Kids HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3295
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Discovery Kids
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3451
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Discovery Science FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24303
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Discovery Science HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3325
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Discovery Theater FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24292
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Discovery Turbo FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24291
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Discovery Turbo HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3327
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="Channels",BR: Discovery Turbo SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3488
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Discovery World FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24294
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Discovery World HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3328
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Disney Channel FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24295
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Disney Channel HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3296
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Disney Channel SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3452
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: E! Entertainment HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3510
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: E! Entertainment SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3484
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Fish TV HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3406
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Food Network FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24296
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Food Network HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3311
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Food Network SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24273
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Star Channel FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24228
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Star Channel HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3252
+#EXTINF:0 tvg-id="Foxlife.br" group-title="Channels",BR: Fox Life SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24229
+#EXTINF:0 tvg-id="Foxlife.br" group-title="Channels",BR: Fox Life
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3471
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Star Channel
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3421
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Fx FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3255
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Fx HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3422
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Galinha Pintadinha 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/93700
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo 4K
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24103
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Brasilia FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24209
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo brasilia SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24190
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo EPTV Campinas HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24191
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo EPTV Ribeirao Preto SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24192
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24189
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24194
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Minas HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3285
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Minas FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24188
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo News FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24196
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo News HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3308
+#EXTINF:0 tvg-id="Globonews.br" group-title="Channels",BR: Globo News SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3465
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Nordeste FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3286
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Nordeste HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24197
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo NSC Florianopolis HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24216
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo RBS FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24218
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo RBS HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24219
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo RBS TV Pelotas
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24217
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Rede Amazonica Manaus
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24198
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo RJ HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3288
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo RJ SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24199
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo SP HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3289
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo TV Anhanguera Goiania
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24201
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo TV Bahia
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24202
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo TV Centro TRIBUNA SANTOS FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/101898
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo TV Centro America HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/101897
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo TV Centro America SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24203
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo TV Integracao Juiz de Fora
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24204
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo TV Gazeta Sul ES  HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24205
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo TV TEM Sorocaba SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24206
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo TV Tribuna Santos
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24207
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo TV Verdes Mares
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24210
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Verdes Mares HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24187
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Gloobinho HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3300
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Gloobinho
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3456
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GNT FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24340
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GNT HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3314
+#EXTINF:0 tvg-id="Gnt.br" group-title="Channels",BR: GNT SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3473
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: H2 HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3329
+#EXTINF:0 tvg-id="H2.br" group-title="Channels",BR: H2 SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3489
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: HBO FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24233
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: HBO 2 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24232
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: HBO 2 HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3258
+#EXTINF:0 tvg-id="Hbo2.br" group-title="Channels",BR: HBO 2 SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3423
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: HBO Family FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24251
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: HBO Family HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3257
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="Channels",BR: HBO Family SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3424
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: HBO HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24274
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: HBO Plus FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24234
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: HBO Plus HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3259
+#EXTINF:0 tvg-id="Hboplus.br" group-title="Channels",BR: Hbo Plus SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3425
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: HBO Signature FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24247
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Hbo Signature HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3260
+#EXTINF:0 tvg-id="Hbosignature.br" group-title="Channels",BR: Hbo Signature SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3426
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: HBO Xtreme HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3428
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: History FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24332
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: History HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3330
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: History SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3490
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ID Discovery HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3331
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ID Discovery SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3491
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Lifetime FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24333
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Lifetime HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3315
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Lifetime SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3474
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: MegaPix HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24287
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: MegaPix SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3430
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: MTV HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3317
+#EXTINF:0 tvg-id="Mtv.br" group-title="Channels",BR: MTV SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3476
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Multishow FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24335
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Multishow HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3318
+#EXTINF:0 tvg-id="Multishow.br" group-title="Channels",BR: Multishow SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3477
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Natgeo HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3332
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: NatGeo SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3492
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: NatGeo Wild SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24301
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Nickelodeon HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3302
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Nick JR FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24312
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Nick Jr HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3303
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Nick Jr SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3458
+#EXTINF:0 tvg-id="Nickelodeon.br" group-title="Channels",BR: Nickelodeon SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3459
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Off FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3527
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Off SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3412
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Os Simpsons 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/77823
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Paramount FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24313
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Paramount HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3265
+#EXTINF:0 tvg-id="Paramounthd.br" group-title="Channels",BR: Paramount SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24268
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Patrulha Canina HD 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/93702
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Patrulha Canina SD 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/93701
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Prime Box Brasil
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3479
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Record Ba HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3504
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Record FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24181
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Record HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24222
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Record News HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3309
+#EXTINF:0 tvg-id="Recordnews.br" group-title="Channels",BR: Record News SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3466
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Record RJ HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3507
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Record RJ SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3398
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Record RS
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3399
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Record SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3505
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Record TV SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3400
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Rede Brasil SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3344
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Sbt HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24223
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Sbt SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24224
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Sony Channel HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3266
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Sony FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24284
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Sony SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3432
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Space FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/101900
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Space HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3267
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Space SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3433
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Studio Universal FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24237
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Studio Universal HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3268
+#EXTINF:0 tvg-id="Studiouniversal.br" group-title="Channels",BR: Studio Universal SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24261
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: SyFy FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24336
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Syfy HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3269
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Syfy SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3435
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TBS FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24337
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TBS HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3270
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TBS SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3436
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Tcm HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3271
+#EXTINF:0 tvg-id="Tcm.br" group-title="Channels",BR: Tcm SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3437
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Telecine Action FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24243
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Telecine Action HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24276
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Telecine Action SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3438
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Telecine Cult FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24255
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Telecine Cult HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24288
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Telecine Cult SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3439
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Telecine Fun FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24242
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Telecine Fun HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3274
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Telecine Fun SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3440
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Telecine Pipoca  FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24241
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Telecine Pipoca HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3275
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Telecine Pipoca SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24278
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Telecine Premium FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24240
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Telecine Premium SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3441
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Telecine Touch FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24239
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Telecine Touch SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3442
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TLC HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3319
+#EXTINF:0 tvg-id="Tlc.br" group-title="Channels",BR: TLC SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3480
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TNT FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24252
+#EXTINF:0 tvg-id="Tnt.br" group-title="Channels",BR: TNT SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3443
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TNT Series FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24238
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TNT Series HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3279
+#EXTINF:0 tvg-id="TNTSerie.br" group-title="Channels",BR: TNT Series SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3444
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Tooncast FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3305
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Tooncast HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24325
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Tooncast SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24319
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Ra Tim Bum SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3460
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Um Maluco No Pedaço Temp 1 24H
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/77822
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Universal Channel HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3280
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Universal Channel SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3445
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Viva FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24343
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Viva HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3320
+#EXTINF:0 tvg-id="Viva.br" group-title="Channels",BR: Viva SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3483
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Warner Channel FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24236
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Warner Channel HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3281
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Woohoo SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3413
+#EXTINF:0 tvg-id="ext" group-title="Channels",▂ ▄ ▅ ▆  BRASIL  ▆ ▅ ▄ ▂
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/30881
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Telecine Pipoca (H265)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/313838
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: Band SPorts SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3401
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: Espn Brasil 4
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3403
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: Espn Extra SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3404
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: ESPN SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3405
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: Fox Sports 2 SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3407
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: ESPN 4 SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3408
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: SPorTV 2 SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3409
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: SPorTV 3 SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3410
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: SPorTV SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3411
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: Band Sports HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3508
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: ESPN 2 HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3511
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: Espn Brasil HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3512
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: Espn Extra HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3513
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: ESPN HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3514
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: Fox Sports 2 HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3515
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: ESPN 4 HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3516
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: Premiere 2 HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3517
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: Premiere 3 HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3518
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: Premiere 4 HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3519
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: Premiere 5 HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3520
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: Premiere 6 HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3521
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: Premiere 7 HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3522
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: Premiere Clubes HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3523
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: SPorTV 2 HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3524
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: SPorTV 3 HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3525
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: SPorTV HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3526
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: Band Sports FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24155
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: ESPN 4 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24158
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: Fox Sports 2 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24159
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: Sportv 1 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24160
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: Sportv 2 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24161
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: Sportv 3 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24162
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: Premiere 1 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24163
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: Premiere 2 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24164
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: Premiere 3 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24165
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: Premiere 4 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24166
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: Premiere 5
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24168
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: Premiere 6
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24169
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: ESPN FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24171
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: Premiere 4 SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24172
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: Premiere 7
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24173
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: Premiere 1 SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24174
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: Premiere 1 HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24176
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: All Sports HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24177
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: Espn 3 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/103094
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: ESPN 2 SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/103096
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: BR: Fox Sports 2 FHD HEVC
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/103097
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Combate FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/24156
+
+
+
