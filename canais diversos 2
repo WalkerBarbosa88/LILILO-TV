@@ -24,113 +24,113 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d
 https://000000
 
 
-#EXTINF:0 tvg-id="4Music.uk" group-title="Channels",4Music
+#EXTINF:0 tvg-id="4Music.uk" group-title="Channels",4MUSIC
 http://45.153.35.221:8000/play/a0f2/index.m3u8
 #EXTINF:0 tvg-id="FiveUSA.uk" group-title="Channels",5 USA
 http://45.153.35.221:8000/play/a00v/index.m3u8
-#EXTINF:0 tvg-id="My5.uk" group-title="Channels",5SELECT
+#EXTINF:0 tvg-id="My5.uk" group-title="Channels",5 SELECT
 http://45.153.35.221:8000/play/a00y/index.m3u8
-#EXTINF:0 tvg-id="5star.uk" group-title="Channels",5STAR
+#EXTINF:0 tvg-id="5star.uk" group-title="Channels",5 STAR
 http://45.153.35.221:8000/play/a00x/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",5STAR+1
+#EXTINF:0 tvg-id="ext" group-title="Channels",5 STAR+1
 http://45.153.35.221:8000/play/a00z/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",5USA+1
+#EXTINF:0 tvg-id="ext" group-title="Channels",5 USA+1
 http://45.153.35.221:8000/play/a00w/index.m3u8
-#EXTINF:0 tvg-id="BBC4.uk" group-title="Channels",BBC Four
+#EXTINF:0 tvg-id="BBC4.uk" group-title="Channels",BBC FOUR
 http://45.153.35.221:8000/play/a006/index.m3u8
-#EXTINF:0 tvg-id="BBC4.uk" group-title="Channels",BBC Four
+#EXTINF:0 tvg-id="BBC4.uk" group-title="Channels",BBC FOUR
 http://45.153.35.221:8000/play/a00a/index.m3u8
-#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="Channels",BBC One CI
+#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="Channels",BBC ONE CI
 http://45.153.35.221:8000/play/a00e/index.m3u8
-#EXTINF:0 tvg-id="BBC1East.uk" group-title="Channels",BBC One East W
+#EXTINF:0 tvg-id="BBC1East.uk" group-title="Channels",BBC ONE EAST W
 http://45.153.35.221:8000/play/a00d/index.m3u8
-#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="Channels",BBC One HD
+#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="Channels",BBC ONE HD
 http://45.153.35.221:8000/play/a01e/index.m3u8
-#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="Channels",BBC One HD
+#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="Channels",BBC ONE HD
 http://45.153.35.221:8000/play/a018/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",BBC One Lon
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBC ONE LONDON
 http://45.153.35.221:8000/play/a008/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",BBC One Lon
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBC ONE LONDON
 http://45.153.35.221:8000/play/a003/index.m3u8
-#EXTINF:0 tvg-id="BBC1NorthernIreland.uk" group-title="Channels",BBC One NI HD
+#EXTINF:0 tvg-id="BBC1NorthernIreland.uk" group-title="Channels",BBC ONE NI HD
 http://45.153.35.221:8000/play/a01f/index.m3u8
-#EXTINF:0 tvg-id="BBC1NorthernIreland.uk" group-title="Channels",BBC One NI HD
+#EXTINF:0 tvg-id="BBC1NorthernIreland.uk" group-title="Channels",BBC ONE NI HD
 http://45.153.35.221:8000/play/a019/index.m3u8
-#EXTINF:0 tvg-id="BBC1West.uk" group-title="Channels",BBC One West
+#EXTINF:0 tvg-id="BBC1West.uk" group-title="Channels",BBC ONE WEST
 http://45.153.35.221:8000/play/a00c/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",BBC RB 1
 http://45.153.35.221:8000/play/a00f/index.m3u8
-#EXTINF:0 tvg-id="BBC2.uk" group-title="Channels",BBC Two
+#EXTINF:0 tvg-id="BBC2.uk" group-title="Channels",BBC TWO
 http://45.153.35.221:8000/play/a009/index.m3u8
-#EXTINF:0 tvg-id="BBC2.uk" group-title="Channels",BBC Two
+#EXTINF:0 tvg-id="BBC2.uk" group-title="Channels",BBC TWO
 http://45.153.35.221:8000/play/a004/index.m3u8
-#EXTINF:0 tvg-id="BBC2.uk" group-title="Channels",BBC Two HD
+#EXTINF:0 tvg-id="BBC2.uk" group-title="Channels",BBC TWO HD
 http://45.153.35.221:8000/play/a01d/index.m3u8
-#EXTINF:0 tvg-id="BBC2.uk" group-title="Channels",BBC Two HD
+#EXTINF:0 tvg-id="BBC2.uk" group-title="Channels",BBC TWO HD
 http://45.153.35.221:8000/play/a017/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",BBC Two Wal HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBC TWO WAL HD
 http://45.153.35.221:8000/play/a016/index.m3u8
-#EXTINF:0 tvg-id="BoxHits.uk" group-title="Channels",Box Hits
+#EXTINF:0 tvg-id="BoxHits.uk" group-title="Channels",BOX HITS
 http://45.153.35.221:8000/play/a0fk/index.m3u8
 #EXTINF:0 tvg-id="CBBC.uk" group-title="Channels",CBBC HD
 http://45.153.35.221:8000/play/a01h/index.m3u8
 #EXTINF:0 tvg-id="CBBC.uk" group-title="Channels",CBBC HD
 http://45.153.35.221:8000/play/a01c/index.m3u8
-#EXTINF:0 tvg-id="CBeebies.uk" group-title="Channels",CBeebies
+#EXTINF:0 tvg-id="CBeebies.uk" group-title="Channels",CBEEBIES
 http://45.153.35.221:8000/play/a00b/index.m3u8
-#EXTINF:0 tvg-id="CBeebies.uk" group-title="Channels",CBeebies
+#EXTINF:0 tvg-id="CBeebies.uk" group-title="Channels",CBEEBIES
 http://45.153.35.221:8000/play/a007/index.m3u8
-#EXTINF:0 tvg-id="Channel4.uk" group-title="Channels",Channel 4
+#EXTINF:0 tvg-id="Channel4.uk" group-title="Channels",CHANNEL 4
 http://45.153.35.221:8000/play/a03i/index.m3u8
-#EXTINF:0 tvg-id="Channel4plus1.uk" group-title="Channels",Channel 4+1
+#EXTINF:0 tvg-id="Channel4plus1.uk" group-title="Channels",CHANNEL 4+1
 http://45.153.35.221:8000/play/a03h/index.m3u8
-#EXTINF:0 tvg-id="Channel4plus1.uk" group-title="Channels",Channel 4+1
+#EXTINF:0 tvg-id="Channel4plus1.uk" group-title="Channels",CHANNEL 4+1
 http://45.153.35.221:8000/play/a03g/index.m3u8
-#EXTINF:0 tvg-id="Channel4plus1.uk" group-title="Channels",Channel 4+1
+#EXTINF:0 tvg-id="Channel4plus1.uk" group-title="Channels",CHANNEL 4+1
 http://45.153.35.221:8000/play/a03f/index.m3u8
-#EXTINF:0 tvg-id="Channel4plus1.uk" group-title="Channels",Channel 4+1
+#EXTINF:0 tvg-id="Channel4plus1.uk" group-title="Channels",CHANNEL 4+1
 http://45.153.35.221:8000/play/a03e/index.m3u8
-#EXTINF:0 tvg-id="5kanal" group-title="Channels",Channel 5
+#EXTINF:0 tvg-id="5kanal" group-title="Channels",CHANNEL 5
 http://45.153.35.221:8000/play/a00u/index.m3u8
-#EXTINF:0 tvg-id="Channel5.uk" group-title="Channels",Channel 5 HD
+#EXTINF:0 tvg-id="Channel5.uk" group-title="Channels",CHANNEL 5 HD
 http://45.153.35.221:8000/play/a011/index.m3u8
-#EXTINF:0 tvg-id="Channel5plus1.uk" group-title="Channels",Channel 5+1
+#EXTINF:0 tvg-id="Channel5plus1.uk" group-title="Channels",CHANNEL 5+1
 http://45.153.35.221:8000/play/a010/index.m3u8
-#EXTINF:0 tvg-id="Dave.uk" group-title="Channels",Dave
+#EXTINF:0 tvg-id="Dave.uk" group-title="Channels",DAVE
 http://45.153.35.221:8000/play/a028/index.m3u8
-#EXTINF:0 tvg-id="Dave.uk" group-title="Channels",Dave
+#EXTINF:0 tvg-id="Dave.uk" group-title="Channels",DAVE
 http://45.153.35.221:8000/play/a020/index.m3u8
-#EXTINF:0 tvg-id="DaveJaVu.uk" group-title="Channels",Dave ja vu
+#EXTINF:0 tvg-id="DaveJaVu.uk" group-title="Channels",DAVE JA VU
 http://45.153.35.221:8000/play/a02a/index.m3u8
-#EXTINF:0 tvg-id="Drama.uk" group-title="Channels",Drama
+#EXTINF:0 tvg-id="Drama.uk" group-title="Channels",DRAMA
 http://45.153.35.221:8000/play/a027/index.m3u8
-#EXTINF:0 tvg-id="Drama.uk" group-title="Channels",Drama
+#EXTINF:0 tvg-id="Drama.uk" group-title="Channels",DRAMA
 http://45.153.35.221:8000/play/a023/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Drama+1
+#EXTINF:0 tvg-id="ext" group-title="Channels",DRAMA+1
 http://45.153.35.221:8000/play/a029/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",E4+1
 http://45.153.35.221:8000/play/a03d/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",ETV1
 http://45.153.35.221:8000/play/a005/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Film4+1
+#EXTINF:0 tvg-id="ext" group-title="Channels",FILM 4+1
 http://45.153.35.221:8000/play/a03k/index.m3u8
-#EXTINF:0 tvg-id="GBNews.uk" group-title="Channels",GB News HD
+#EXTINF:0 tvg-id="GBNews.uk" group-title="Channels",GB NEWS HD
 http://45.153.35.221:8000/play/a02s/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GREAT! action
+#EXTINF:0 tvg-id="ext" group-title="Channels",GREAT! ACTION
 http://45.153.35.221:8000/play/a02e/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GREAT! movies
+#EXTINF:0 tvg-id="ext" group-title="Channels",GREAT! MOVIES
 http://45.153.35.221:8000/play/a02f/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GREAT! movies+1
+#EXTINF:0 tvg-id="ext" group-title="Channels",GREAT! MOVIES+1
 http://45.153.35.221:8000/play/a02m/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GREAT! tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",GREAT! TV
 http://45.153.35.221:8000/play/a02q/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GREAT! tv+1
+#EXTINF:0 tvg-id="ext" group-title="Channels",GREAT! TV+1
 http://45.153.35.221:8000/play/a02r/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",GREAT!action+1
+#EXTINF:0 tvg-id="ext" group-title="Channels",GREAT! ACTION+1
 http://45.153.35.221:8000/play/a02o/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Great! Xmas
+#EXTINF:0 tvg-id="ext" group-title="Channels",Great! XMASs
 http://45.153.35.221:8000/play/a02g/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Great! Xmas+1
+#EXTINF:0 tvg-id="ext" group-title="Channels",Great! XMAS+1
 http://45.153.35.221:8000/play/a02h/index.m3u8
 #EXTINF:0 tvg-id="impact" group-title="Channels",ITV
 http://45.153.35.221:8000/play/a00n/index.m3u8
@@ -140,7 +140,7 @@ http://45.153.35.221:8000/play/a00k/index.m3u8
 http://45.153.35.221:8000/play/a00i/index.m3u8
 #EXTINF:0 tvg-id="impact" group-title="Channels",ITV
 http://45.153.35.221:8000/play/a00h/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ITV Wales
+#EXTINF:0 tvg-id="ext" group-title="Channels",ITV WALES
 http://45.153.35.221:8000/play/a00m/index.m3u8
 #EXTINF:0 tvg-id="ITV1CentralPlus1.uk" group-title="Channels",ITV+1
 http://45.153.35.221:8000/play/a00o/index.m3u8
@@ -154,33 +154,164 @@ http://45.153.35.221:8000/play/a00q/index.m3u8
 http://45.153.35.221:8000/play/a00r/index.m3u8
 #EXTINF:0 tvg-id="Kiss.uk" group-title="Channels",KISS
 http://45.153.35.221:8000/play/a0f6/index.m3u8
-#EXTINF:0 tvg-id="Kerrang.uk" group-title="Channels",Kerrang!
+#EXTINF:0 tvg-id="Kerrang.uk" group-title="Channels",KERRANG!
 http://45.153.35.221:8000/play/a0f7/index.m3u8
-#EXTINF:0 tvg-id="Magic.uk" group-title="Channels",Magic
+#EXTINF:0 tvg-id="Magic.uk" group-title="Channels",MAGIC
 http://45.153.35.221:8000/play/a0f3/index.m3u8
-#EXTINF:0 tvg-id="More4.uk" group-title="Channels",More4
+#EXTINF:0 tvg-id="More4.uk" group-title="Channels",MORE4
 http://45.153.35.221:8000/play/a0fb/index.m3u8
-#EXTINF:0 tvg-id="More4.uk" group-title="Channels",More4
+#EXTINF:0 tvg-id="More4.uk" group-title="Channels",MORE4
 http://45.153.35.221:8000/play/a03j/index.m3u8
 #EXTINF:0 tvg-id="pop.uk" group-title="Channels",POP
 http://45.153.35.221:8000/play/a02j/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",POP Max
+#EXTINF:0 tvg-id="ext" group-title="Channels",POP MAX
 http://45.153.35.221:8000/play/a02l/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",POP Max+1
+#EXTINF:0 tvg-id="ext" group-title="Channels",POP MAX+1
 http://45.153.35.221:8000/play/a02n/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",POP+1
 http://45.153.35.221:8000/play/a02p/index.m3u8
-#EXTINF:0 tvg-id="Paramount.uk" group-title="Channels",Paramount
+#EXTINF:0 tvg-id="Paramount.uk" group-title="Channels",PARAMOUNT
 http://45.153.35.221:8000/play/a012/index.m3u8
-#EXTINF:0 tvg-id="TheBox.uk" group-title="Channels",The Box
+#EXTINF:0 tvg-id="TheBox.uk" group-title="Channels",THE BOX
 http://45.153.35.221:8000/play/a0fl/index.m3u8
-#EXTINF:0 tvg-id="TinyPop.uk" group-title="Channels",Tiny Pop
+#EXTINF:0 tvg-id="TinyPop.uk" group-title="Channels",TINY POP
 http://45.153.35.221:8000/play/a02i/index.m3u8
-#EXTINF:0 tvg-id="tinypop1.uk" group-title="Channels",Tiny Pop+1
+#EXTINF:0 tvg-id="tinypop1.uk" group-title="Channels",TINY POP
 http://45.153.35.221:8000/play/a02k/index.m3u8
 #EXTINF:0 tvg-id="utv" group-title="Channels",UTV
 http://45.153.35.221:8000/play/a00j/index.m3u8
 #EXTINF:0 tvg-id="Yesterday.uk" group-title="Channels",YESTERDAY
 http://45.153.35.221:8000/play/a01z/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",YESTERDAY+1
+#EXTINF:0 tvg-id="ext" group-title="Channels",YESTERDAY
 http://45.153.35.221:8000/play/a02c/index.m3u8
+
+
+#EXTINF:-1, ITV CENTRAL WEST
+http://87.212.248.44:60130/play/a08p
+#EXTINF:-1,Animal Plnt+1
+http://87.212.248.44:60130/play/a04p
+#EXTINF:-1,BBC ONE HD
+http://87.212.248.44:60130/play/a05n
+#EXTINF:-1,BBC ONE NI HD
+http://87.212.248.44:60130/play/a05o
+#EXTINF:-1,BBC TWO HD
+http://87.212.248.44:60130/play/a05q
+#EXTINF:-1,BBC TWO HD
+http://87.212.248.44:60130/play/a05l
+#EXTINF:-1,BLOOMBERG HD
+http://87.212.248.44:60130/play/a04k
+#EXTINF:-1,CBBC HD
+http://87.212.248.44:60130/play/a05p
+#EXTINF:-1,DAYSTAR HD
+http://87.212.248.44:60130/play/a04i
+#EXTINF:-1,DISCOVERY HISTORY 
+http://87.212.248.44:60130/play/a04v
+#EXTINF:-1,DISCOVERY TURBO
+http://87.212.248.44:60130/play/a04z
+#EXTINF:-1,DISCOVERY SHED
+http://87.212.248.44:60130/play/a04w
+#EXTINF:-1,FRANCE 24 HD
+http://87.212.248.44:60130/play/a08r
+#EXTINF:-1,FREESPORTS HD
+http://87.212.248.44:60130/play/a06k
+#EXTINF:-1,GB NEWS HD
+http://87.212.248.44:60130/play/a091
+#EXTINF:-1,GREAT! ACTION
+http://87.212.248.44:60130/play/a08t
+#EXTINF:-1,GREAT! CLASSIC 
+http://87.212.248.44:60130/play/a08w
+#EXTINF:-1,GREAT! CLASSIC
+http://87.212.248.44:60130/play/a08v
+#EXTINF:-1,GREAT! MOVIES
+http://87.212.248.44:60130/play/a08u
+#EXTINF:-1,GREAT! MOVIES 
+http://87.212.248.44:60130/play/a08x
+#EXTINF:-1,GREAT! TV
+http://87.212.248.44:60130/play/a08z
+#EXTINF:-1,GREAT! TV
+http://87.212.248.44:60130/play/a090
+#EXTINF:-1,GREAT! ACTION 
+http://87.212.248.44:60130/play/a08y
+#EXTINF:-1,HOME & HEALTH
+http://87.212.248.44:60130/play/a04s
+#EXTINF:-1,ID
+http://87.212.248.44:60130/play/a04o
+#EXTINF:-1,ID+1
+http://87.212.248.44:60130/play/a078
+#EXTINF:-1,ITV
+http://87.212.248.44:60130/play/a07d
+#EXTINF:-1,ITV 1 GRANADA
+http://87.212.248.44:60130/play/a07f
+#EXTINF:-1,ITV ANGLIA WEST
+http://87.212.248.44:60130/play/a08n
+#EXTINF:-1,ITV CENTRAL EAST
+http://87.212.248.44:60130/play/a08o
+#EXTINF:-1,ITV MERIDIAN SOUTH COAST
+http://87.212.248.44:60130/play/a08k
+#EXTINF:-1,ITV Meridian Thames Valley
+http://87.212.248.44:60130/play/a08j
+#EXTINF:-1,ITV Yorkshire West
+http://87.212.248.44:60130/play/a08l
+#EXTINF:-1,ITV3 HD
+http://87.212.248.44:60130/play/a08m
+#EXTINF:-1,ITV3 
+http://87.212.248.44:60130/play/a074
+#EXTINF:-1,ITV BE
+http://87.212.248.44:60130/play/a08q
+#EXTINF:-1,MTV
+http://87.212.248.44:60130/play/a03w
+#EXTINF:-1,MTV BASE
+http://87.212.248.44:60130/play/a03t
+#EXTINF:-1,MTV CLASSIC
+http://87.212.248.44:60130/play/a03u
+#EXTINF:-1,POP
+http://87.212.248.44:60130/play/a05y
+#EXTINF:-1,POP MAX
+http://87.212.248.44:60130/play/a05z
+#EXTINF:-1,POP MAX
+http://87.212.248.44:60130/play/a08e
+#EXTINF:-1,POP
+http://87.212.248.44:60130/play/a08g
+#EXTINF:-1,QUEST HD
+http://87.212.248.44:60130/play/a06l
+#EXTINF:-1,RECORD TV HD
+http://87.212.248.44:60130/play/a04j
+#EXTINF:-1,S4C HD
+http://87.212.248.44:60130/play/a06i
+#EXTINF:-1,STV
+http://87.212.248.44:60130/play/a06a
+#EXTINF:-1,STV CENTRAL EAST
+http://87.212.248.44:60130/play/a07i
+#EXTINF:-1,STV CENTRAL WEST
+http://87.212.248.44:60130/play/a07h
+#EXTINF:-1,STV North
+http://87.212.248.44:60130/play/a07g
+#EXTINF:-1,SONY ACTION
+http://87.212.248.44:60130/play/a05u
+#EXTINF:-1,SONY ACTION
+http://87.212.248.44:60130/play/a08f
+#EXTINF:-1,SONY CHANNEL
+http://87.212.248.44:60130/play/a060
+#EXTINF:-1,SONY CHANNEL
+http://87.212.248.44:60130/play/a08h
+#EXTINF:-1,SONY CHRISTMAS
+http://87.212.248.44:60130/play/a06z
+#EXTINF:-1,SONY CLASSIC 
+http://87.212.248.44:60130/play/a05w
+#EXTINF:-1,SONY CLASSIC
+http://87.212.248.44:60130/play/a08b
+#EXTINF:-1,SONY MOVIES
+http://87.212.248.44:60130/play/a05v
+#EXTINF:-1,SONY MOVIES
+http://87.212.248.44:60130/play/a08d
+#EXTINF:-1,TJC HD
+http://87.212.248.44:60130/play/a08s
+#EXTINF:-1,TLC HD
+http://87.212.248.44:60130/play/a089
+#EXTINF:-1,TINY POP
+http://87.212.248.44:60130/play/a05x
+#EXTINF:-1,TINY POP
+http://87.212.248.44:60130/play/a08c
+
+
+
