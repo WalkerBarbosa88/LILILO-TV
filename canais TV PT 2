@@ -266,37 +266,35 @@ http://45.92.69.72:8001/play/a02n
 ******************************************************************  CANAIS TV INFANTIS  ******************
 
 
-#EXTINF:-1,PANDA BIGGS
+#EXTINF:-1,[COLOR=white][B]PANDA BIGGS[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a0fh/index.m3u8
-#EXTINF:-1,PANDA BIGGS
+#EXTINF:-1,[COLOR=white][B]PANDA BIGGS[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gv
-#EXTINF:-1,CANAL PANDA
+#EXTINF:-1,[COLOR=white][B]CANAL PANDA[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a05v/index.m3u8
-#EXTINF:-1,CANAL PANDA HD
+#EXTINF:-1,[COLOR=white][B]CANAL PANDA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a06a/index.m3u8
-#EXTINF:-1,CANAL PANDA
+#EXTINF:-1,[COLOR=white][B]CANAL PANDA[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0ix
-#EXTINF:-1,DISNEY CHANNEL HD
+#EXTINF:-1,[COLOR=white][B]DISNEY CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a056/index.m3u8
-#EXTINF:-1,DISNEY CHANNEL
+#EXTINF:-1,[COLOR=white][B]DISNEY CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gu
-#EXTINF:-1,DISNEY JUNIOR HD
+#EXTINF:-1,[COLOR=white][B]DISNEY JUNIOR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a03t/index.m3u8
-#EXTINF:-1,DISNEY JUNIOR
+#EXTINF:-1,[COLOR=white][B]DISNEY JUNIOR[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0iv
-#EXTINF:-1,NICK JUNIOR
+#EXTINF:-1,[COLOR=white][B]NICK JUNIOR[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a01f/index.m3u8
-#EXTINF:-1,NICKELODEON
+#EXTINF:-1,[COLOR=white][B]NICKELODEON[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a065/index.m3u8
-#EXTINF:-1,CARTOON NETWORK
+#EXTINF:-1,[COLOR=white][B]CARTOON NETWORK[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0h3
-#EXTINF:-1,JIMJAM HD
-http://45.92.69.72:8000/play/a0iw
-#EXTINF:-1,LOLLY KIDS HD
+#EXTINF:-1,[COLOR=white][B]LOLLY KIDS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a001
-#EXTINF:-1,BABY TV
+#EXTINF:-1,[COLOR=white][B]BABY TV[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0jk
-
+ 
 
 
 #######################################################################################################################
@@ -305,167 +303,139 @@ https://000000
 
 
 
-#EXTINF:-1,24 KITCHEN HD
+#EXTINF:-1,[COLOR=white][B]24 KITCHEN HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a00x/index.m3u8
-#EXTINF:-1,ADVNCE SIC
+#EXTINF:-1,[COLOR=white][B]BABY TV[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a06d/index.m3u8
-#EXTINF:-1,AMC BREAK HD
+#EXTINF:-1,[COLOR=white][B]AMC BREAK HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a001/index.m3u8
-#EXTINF:-1,AMC CRIME HD
+#EXTINF:-1,[COLOR=white][B]AMC CRIME HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a009/index.m3u8
-#EXTINF:-1,ARTE
+#EXTINF:-1,[COLOR=white][B]ARTE[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a0a7/index.m3u8
-#EXTINF:-1,ARTV
-http://45.92.69.77:8000/play/a0fi/index.m3u8
-#EXTINF:-1,ALL JAZEERA
-http://45.92.69.77:8000/play/a0aq/index.m3u8
-#EXTINF:-1,BNT WORLD
-http://45.92.69.77:8000/play/a0al/index.m3u8
-#EXTINF:-1,BLAZE
+#EXTINF:-1,[COLOR=white][B]BLAZE[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a05t/index.m3u8
-#EXTINF:-1,BLAZE HD
+#EXTINF:-1,[COLOR=white][B]BLAZE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a02z/index.m3u8
-#EXTINF:-1,BLOOMBERG HD
+#EXTINF:-1,[COLOR=white][B]BLOOMBERG HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a02d/index.m3u8
-#EXTINF:-1,CCTV4
-http://45.92.69.77:8000/play/a0ao/index.m3u8
-#EXTINF:-1,CGTN
-http://45.92.69.77:8000/play/a0ap/index.m3u8
-#EXTINF:-1,CNBC
+#EXTINF:-1,[COLOR=white][B]CNBC[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a01u/index.m3u8
-#EXTINF:-1,CANAL 180
+#EXTINF:-1,[COLOR=white][B]CANAL 180[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a09r/index.m3u8
-#EXTINF:-1,CANAL HISTÓRIA
+#EXTINF:-1,[COLOR=white][B]CANAL HISTÓRIA[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a02j/index.m3u8
-#EXTINF:-1,CANAL Q
+#EXTINF:-1,[COLOR=white][B]CANAL Q[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a022/index.m3u8
-#EXTINF:-1,CASA & COZINHA HD
+#EXTINF:-1,[COLOR=white][B]CASA & COZINHA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a00g/index.m3u8
-#EXTINF:-1,CAÇA & PESCA HD
+#EXTINF:-1,[COLOR=white][B]CAÇA & PESCA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a006/index.m3u8
-#EXTINF:-1,CRIME+ INVESTIGATION
+#EXTINF:-1,[COLOR=white][B]CRIME+ INVESTIGATION[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a02c/index.m3u8
-#EXTINF:-1,CRIME+ INVESTIGATION HD
+#EXTINF:-1,[COLOR=white][B]CRIME+ INVESTIGATION HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a02s/index.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL
+#EXTINF:-1,[COLOR=white][B]DISCOVERY CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a02k/index.m3u8
-#EXTINF:-1,DISCOVERY HD
+#EXTINF:-1,[COLOR=white][B]DISCOVERY HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a013/index.m3u8
-#EXTINF:-1,DOG TV HD
+#EXTINF:-1,[COLOR=white][B]DOG TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a01t/index.m3u8
-#EXTINF:-1,EURONEWS
+#EXTINF:-1,[COLOR=white][B]EURONEWS[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a01j/index.m3u8
-#EXTINF:-1,FTV HD
+#EXTINF:-1,[COLOR=white][B]FTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a01b/index.m3u8
-#EXTINF:-1,FOOD NETWORK HD
+#EXTINF:-1,[COLOR=white][B]FOOD NETWORK HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a09t/index.m3u8
-#EXTINF:-1,FRANCE24 INTER.
+#EXTINF:-1,[COLOR=white][B]FRANCE24 INTER.[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a01n/index.m3u8
-#EXTINF:-1,HISTÓRIA HD
+#EXTINF:-1,[COLOR=white][B]HISTÓRIA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a04t/index.m3u8
-#EXTINF:-1,HORSE TV
-http://45.92.69.77:8000/play/a007/index.m3u8
-#EXTINF:-1,IUTV
-http://45.92.69.77:8000/play/a00f/index.m3u8
-#EXTINF:-1,LOCALVISÃO TV HD
+#EXTINF:-1,[COLOR=white][B]LOCALVISÃO TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a055/index.m3u8
-#EXTINF:-1,MOTORVISION HD
+#EXTINF:-1,[COLOR=white][B]MOTORVISION HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a09s/index.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC
+#EXTINF:-1,[COLOR=white][B]NATIONAL GEOGRAPHIC[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a066/index.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+#EXTINF:-1,[COLOR=white][B]NATIONAL GEOGRAPHIC HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a00y/index.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
+#EXTINF:-1,[COLOR=white][B]NATIONAL GEOGRAPHIC WILD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a01x/index.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC WILD HD
+#EXTINF:-1,[COLOR=white][B]NATIONAL GEOGRAPHIC WILD HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a059/index.m3u8
-#EXTINF:-1,ODISSEIA HD
+#EXTINF:-1,[COLOR=white][B]ODISSEIA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a02l/index.m3u8
-#EXTINF:-1,ODISSEIA HD
+#EXTINF:-1,[COLOR=white][B]ODISSEIA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a011/index.m3u8
-#EXTINF:-1,PORTO CANAL HD
+#EXTINF:-1,[COLOR=white][B]PORTO CANAL HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a04g/index.m3u8
-#EXTINF:-1,RAI NEWS 24
+#EXTINF:-1,[COLOR=white][B]RAI NEWS 24[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a0an/index.m3u8
-#EXTINF:-1,RECORD NEWS 
-http://45.92.69.77:8000/play/a0fb/index.m3u8
-#EXTINF:-1,S+ HD
+#EXTINF:-1,[COLOR=white][B]RECORD NEWS[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.77:8000/play/a0fb/index.m3u8 
+#EXTINF:-1,[COLOR=white][B]S+ HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a002/index.m3u8
-#EXTINF:-1,SKY NEWS 
+#EXTINF:-1,[COLOR=white][B]SKY NEWS[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a01p/index.m3u8
-#EXTINF:-1,TCV INTER. 
+#EXTINF:-1,[COLOR=white][B]TCV INTER.[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a040/index.m3u8
-#EXTINF:-1,TLC
+#EXTINF:-1,[COLOR=white][B]TLC[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a01l/index.m3u8
-#EXTINF:-1,TV GALICIA
+#EXTINF:-1,[COLOR=white][B]TV GALICIA[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a01y/index.m3u8
-#EXTINF:-1,TVE 24H
+#EXTINF:-1,[COLOR=white][B]TVE 24H[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a01h/index.m3u8
-#EXTINF:-1,TVE INTER.
+#EXTINF:-1,[COLOR=white][B]TVE INTER.[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a01q/index.m3u8
-#EXTINF:-1,Toros TV HD
+#EXTINF:-1,[COLOR=white][B]TOROS TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a05x/index.m3u8
-#EXTINF:-1,TRAVEL CHANNEL
+#EXTINF:-1,[COLOR=white][B]TRAVEL CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a02f/index.m3u8
-#EXTINF:-1,TRAVEL CHANNEL HD
+#EXTINF:-1,[COLOR=white][B]TRAVEL CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a04u/index.m3u8
-#EXTINF:-1,24 KITCHEN
+#EXTINF:-1,[COLOR=white][B]24 KITCHEN[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0ha
-#EXTINF:-1,AMC HD
+#EXTINF:-1,[COLOR=white][B]AMC HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0jf
-#EXTINF:-1,ARTV
-http://45.92.69.72:8000/play/a0io
-#EXTINF:-1,ALL JAZEERA
-http://45.92.69.72:8000/play/a0hi
-#EXTINF:-1,BBC Entertainment
-http://45.92.69.72:8000/play/a0iz
-#EXTINF:-1,BBC World News
-http://45.92.69.72:8000/play/a0hs
-#EXTINF:-1,BLAZE
+#EXTINF:-1,[COLOR=white][B]BLAZE[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0h4
-#EXTINF:-1,BLOOMBERG
+#EXTINF:-1,[COLOR=white][B]BLOOMBERG[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0hp
-#EXTINF:-1,CCTV 4
-http://45.92.69.72:8000/play/a0jh
-#EXTINF:-1,CGTN
-http://45.92.69.72:8000/play/a0j7
-#EXTINF:-1,CNN
+#EXTINF:-1,[COLOR=white][B]CNN[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0il
-#EXTINF:-1,CANAL Q
+#EXTINF:-1,[COLOR=white][B]CANAL Q[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gn
-#EXTINF:-1,CANÇÃO NOVA
-http://45.92.69.72:8000/play/a0js
-#EXTINF:-1,CINEMUNDO HD
+#EXTINF:-1,[COLOR=white][B]CINEMUNDO HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0je
-#EXTINF:-1,CRIME+ INVESTIGATION
+#EXTINF:-1,[COLOR=white][B]CRIME+ INVESTIGATION[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0j3
-#EXTINF:-1,DISCOVERY CHANNEL
+#EXTINF:-1,[COLOR=white][B]DISCOVERY CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0hg
-#EXTINF:-1,EURONEWS
+#EXTINF:-1,[COLOR=white][B]EURONEWS[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0ik
-#EXTINF:-1,FOX CRIME
+#EXTINF:-1,[COLOR=white][B]FOX CRIME[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0h2
-#EXTINF:-1,FOX HD
+#EXTINF:-1,[COLOR=white][B]FOX HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gm
-#EXTINF:-1,FOX LIFE
+#EXTINF:-1,[COLOR=white][B]FOX LIFE[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0h1
-#EXTINF:-1,FOX MOVIES HD
+#EXTINF:-1,[COLOR=white][B]FOX MOVIES HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0h0
-#EXTINF:-1,FTV
+#EXTINF:-1,[COLOR=white][B]FTV[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0hr
-#EXTINF:-1,FRANCE24
+#EXTINF:-1,[COLOR=white][B]FRANCE24[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gq
-#EXTINF:-1,FRANCE24 
+#EXTINF:-1,[COLOR=white][B]FRANCE24[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0in
-#EXTINF:-1,GAMETOON HD
+#EXTINF:-1,[COLOR=white][B]GAMETOON HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gi
-#EXTINF:-1,GLOBO HD
+#EXTINF:-1,[COLOR=white][B]GLOBO HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0ji
-#EXTINF:-1,CANAL HISTÓRIA
+#EXTINF:-1,[COLOR=white][B]CANAL HISTÓRIA[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0he
-#EXTINF:-1,LOCALVISÃO TV HD
+#EXTINF:-1,[COLOR=white][B]LOCALVISÃO TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gx
-#EXTINF:-1,M6
+#EXTINF:-1,[COLOR=white][B]M6[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0hl
 #EXTINF:-1,Más Chic
 http://45.92.69.72:8000/play/a0jl
