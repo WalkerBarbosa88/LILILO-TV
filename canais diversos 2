@@ -23,6 +23,242 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS TV UK  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
+#EXTM3U
+
+******************************************  LISTA CANAIS TV UK 1  ******************************************
+
+
+
+#EXTM3U
+#EXTINF:0 tvg-id="ITV1London.uk" group-title="Channels",UK: ITV 1
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32436
+#EXTINF:0 tvg-id="ITV2.uk" group-title="Channels",UK: ITV 2
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32437
+#EXTINF:0 tvg-id="ITV3.uk" group-title="Channels",UK: ITV 3
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32438
+#EXTINF:0 tvg-id="ITV4.uk" group-title="Channels",UK: ITV 4
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32439
+#EXTINF:0 tvg-id="ITVBe.uk" group-title="Channels",UK: ITV BE
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32440
+#EXTINF:0 tvg-id="Channel4.uk" group-title="Channels",UK: CHANNEL 4 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32441
+#EXTINF:0 tvg-id="Channel5.uk" group-title="Channels",UK: CHANNEL 5
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32442
+#EXTINF:0 tvg-id="E4.uk" group-title="Channels",UK: E4 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32446
+#EXTINF:0 tvg-id="More4.uk" group-title="Channels",UK: MORE 4
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32447
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: QUEST FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32451
+#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="Channels",UK: ANIMAL PLANET
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32454
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: NATGEO FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32456
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: NATGEO WILD FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32457
+#EXTINF:0 tvg-id="Discovery.uk" group-title="Channels",UK: DISCOVERY CHANNEL FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32458
+#EXTINF:0 tvg-id="DiscoveryScience.uk" group-title="Channels",UK: DISCOVERY SCIENCE
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32459
+#EXTINF:0 tvg-id="DiscoveryHistory.uk" group-title="Channels",UK: DISCOVERY HISTORY
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32462
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: SKY HISTORY
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32463
+#EXTINF:0 tvg-id="H2.uk" group-title="Channels",UK: H2 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32464
+#EXTINF:0 tvg-id="CrimeAndInvestigationNetwork.uk" group-title="Channels",UK: CRIME & INVESTIGATION HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32465
+#EXTINF:0 tvg-id="Eden.uk" group-title="Channels",UK: EDEN
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32469
+#EXTINF:0 tvg-id="SkyNews.uk" group-title="Channels",UK: SKY NEWS
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32472
+#EXTINF:0 tvg-id="BBCNews.nws" group-title="Channels",UK: BBC NEWS
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32474
+#EXTINF:0 tvg-id="BBCWorldNews.nws" group-title="Channels",UK: BBC WORLD NEWS SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32475
+#EXTINF:0 tvg-id="BBCParliament.uk" group-title="Channels",UK: BBC PARLIAMENT
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32476
+#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="Channels",UK: BBC 1
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32481
+#EXTINF:0 tvg-id="BBC2.uk" group-title="Channels",UK: BBC 2
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/125988
+#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="Channels",UK: BBC ONE
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/374869
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BBC ENTERTAINMENT
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/125991
+#EXTINF:0 tvg-id="BBCFirst.uk" group-title="Channels",UK: BBC FIRST
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/125992
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: EuroNews HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32483
+#EXTINF:0 tvg-id="RTENewsNow.ie" group-title="Channels",UK: RTE NEWS
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32484
+#EXTINF:0 tvg-id="CBBC.uk" group-title="Channels",UK: CBBC FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32485
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: CNN INT.
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32486
+#EXTINF:0 tvg-id="CNN.nws" group-title="Channels",UK: CNN
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32487
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: ABC NEWS US HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32488
+#EXTINF:0 tvg-id="Bloomberg.nws" group-title="Channels",UK: BLOOMBERG TV HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32491
+#EXTINF:0 tvg-id="GOLD.uk" group-title="Channels",UK: GOLD FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32495
+#EXTINF:0 tvg-id="5star.uk" group-title="Channels",UK: 5 STAR
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32499
+#EXTINF:0 tvg-id="Alibi.uk" group-title="Channels",UK: ALIBI HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32500
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",UK: SYFY
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32502
+#EXTINF:0 tvg-id="AMC.uk" group-title="Channels",UK: AMC HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32505
+#EXTINF:0 tvg-id="TCM.uk" group-title="Channels",UK: TCM FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32506
+#EXTINF:0 tvg-id="Drama.uk" group-title="Channels",UK: DRAMA
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32509
+#EXTINF:0 tvg-id="Really.uk" group-title="Channels",UK: REALLY
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32510
+#EXTINF:0 tvg-id="W.uk" group-title="Channels",UK: WATCH FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32511
+#EXTINF:0 tvg-id="PickTV.uk" group-title="Channels",UK: PICK
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32512
+#EXTINF:0 tvg-id="Challenge.uk" group-title="Channels",UK: CHALLENGE
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32513
+#EXTINF:0 tvg-id="CBSReality.uk" group-title="Channels",UK: CBS REALITY
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32514
+#EXTINF:0 tvg-id="CBSDrama.uk" group-title="Channels",UK: CBS DRAMA
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32515
+#EXTINF:0 tvg-id="FoodNetwork.uk" group-title="Channels",UK: FODD NETWORK 
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32518
+#EXTINF:0 tvg-id="Home.uk" group-title="Channels",UK: HOME
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32520
+#EXTINF:0 tvg-id="Dave.uk" group-title="Channels",UK: DAVE
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32522
+#EXTINF:0 tvg-id="Lifetime.uk" group-title="Channels",UK: LIFETIME FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32523
+#EXTINF:0 tvg-id="Yesterday.uk" group-title="Channels",UK: YESTERDAY
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32525
+#EXTINF:0 tvg-id="DiscoveryDMAX.uk" group-title="Channels",UK: DMAX
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32526
+#EXTINF:0 tvg-id="TLC.uk" group-title="Channels",UK: TLC
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32528
+#EXTINF:0 tvg-id="SkyAtlantic.uk" group-title="Channels",UK: SKY ATLANTIC HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32533
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Sky WITNESS HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32534
+#EXTINF:0 tvg-id="SkyArts1.uk" group-title="Channels",UK: SKY ARTS HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32535
+#EXTINF:0 tvg-id="SkyMoviesActionThriller.uk" group-title="Channels",UK: SKY CINEMA ACTION
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32541
+#EXTINF:0 tvg-id="NickJrPeppa.uk" group-title="Channels",UK: NICK JR. TOO
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32585
+#EXTINF:0 tvg-id="NickJunior.uk" group-title="Channels",UK: NICK JR.
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32586
+#EXTINF:0 tvg-id="Nicktoons.uk" group-title="Channels",UK: NICKTOONS
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32587
+#EXTINF:0 tvg-id="Disney.uk" group-title="Channels",UK: DISNEY CHANNEL HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32590
+#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="Channels",UK: CARTOON NETWORK FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32592
+#EXTINF:0 tvg-id="BabyTV.uk" group-title="Channels",UK: BABY TV
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32593
+#EXTINF:0 tvg-id="tinypop.uk" group-title="Channels",UK: TINY POP
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32596
+#EXTINF:0 tvg-id="VH1UK.uk" group-title="Channels",UK: VH1
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32598
+#EXTINF:0 tvg-id="MTV.uk" group-title="Channels",UK: MTV
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32600
+#EXTINF:0 tvg-id="MTVClassic.uk" group-title="Channels",UK: MTV CLASSIC
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32602
+#EXTINF:0 tvg-id="MTVHits.uk" group-title="Channels",UK: MTV HITS
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32603
+#EXTINF:0 tvg-id="MTVMusic.uk" group-title="Channels",UK: MTV MUSIC
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32606
+#EXTINF:0 tvg-id="4Music.uk" group-title="Channels",UK: 4MUSIC
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32616
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: 5 SELECT
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/125981
+#EXTINF:0 tvg-id="BoxHits.uk" group-title="Channels",UK: BOX HITS
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/125993
+#EXTINF:0 tvg-id="ClublandTV.uk" group-title="Channels",UK: CLUBLAND
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/125996
+#EXTINF:0 tvg-id="SkyMoviesPremiere.uk" group-title="Channels",UK: SKY CINEMA PREMIERE
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127530
+#EXTINF:0 tvg-id="SkyCinemaHits.uk" group-title="Channels",UK: SKY CINEMA HITS
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127531
+#EXTINF:0 tvg-id="SkyBrits.uk" group-title="Channels",UK: Sky CINEMA GREATS
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127532
+#EXTINF:0 tvg-id="SkyMoviesFamily.uk" group-title="Channels",UK: SKY CINEMA FAMILY
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127534
+#EXTINF:0 tvg-id="SkyMoviesComedy.uk" group-title="Channels",UK: SKY CINEMA COMEDY
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127535
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: NATGEO Wild
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127569
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: NATGEO
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127573
+#EXTINF:0 tvg-id="Discovery.uk" group-title="Channels",UK: DISCOVERY CHANNEL
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127578
+#EXTINF:0 tvg-id="4Seven.uk" group-title="Channels",UK: 4 SEVEN
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127587
+#EXTINF:0 tvg-id="E4.uk" group-title="Channels",UK: E4
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127588
+#EXTINF:0 tvg-id="More4.uk" group-title="Channels",UK: MORE4 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127589
+#EXTINF:0 tvg-id="Film4.uk" group-title="Channels",UK: FILM 4 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127591
+#EXTINF:0 tvg-id="GOLD.uk" group-title="Channels",UK: GOLD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127592
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",UK: SYFY FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127593
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: 5 ACTION
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127596
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: SKY SPORTS PREMIER LEAGUE
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32552
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: SKY SPORTS FOOTBALL
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32553
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: SKY SPORTS MAIN EVENT
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32554
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: SKY SPORTS ARENA
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32556
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: EUROSPORT 1 HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32569
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: EUROSPORT 2 HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32570
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: BOX NATION
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32572
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: Racing TV
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32573
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: MUTV HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32574
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: LFC FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32576
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: FREESPORTS
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32577
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: HORSE AND COUNTRY
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32581
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: WWE CHANNEL HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/40823
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: PREMIER SPORTS 1
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127415
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: SKY SPORTS NEWS
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127616
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: SKY SPORTS CRICKET
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127618
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: SKY SPORTS F1 HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127620
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: SKY SPORTS Racing
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127621
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: BT SPORT 1 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127626
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: BT SPORT 2 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127627
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: BT SPORT 3 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127628
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: BT SPORT ESPN FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127629
+
+
+******************************************  LISTA CANAIS TV UK 2  ******************************************
 
 #EXTINF:0 tvg-id="4Music.uk" group-title="Channels",4MUSIC
 http://45.153.35.221:8000/play/a0f2/index.m3u8
@@ -274,7 +510,7 @@ http://87.212.248.44:60130/play/a08e
 http://87.212.248.44:60130/play/a08g
 #EXTINF:-1,QUEST HD
 http://87.212.248.44:60130/play/a06l
-#EXTINF:-1,RECORD TV HD
+#EXTINF:-1,FRANCE24 HD
 http://87.212.248.44:60130/play/a04j
 #EXTINF:-1,S4C HD
 http://87.212.248.44:60130/play/a06i
