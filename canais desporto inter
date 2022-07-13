@@ -12,8 +12,399 @@ FONTE DE INFORMAÇÃO:
 
 #EXTM3U
 
+
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////// CANAIS FAVORITOS DESPORTO /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DESPORTO - BRASIL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+#EXTM3U
+
+#EXTINF:0 tvg-id="ESPNHD.us" group-title="Channels",ESPN 1 FHD
+http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/20002.ts
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="Channels",PREMIERE 1 FHD
+http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/20016.ts
+#EXTINF:0 tvg-id="Premiere2.br" group-title="Channels",PREMIERE 2 FHD
+http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/20010.ts
+#EXTINF:0 tvg-id="Premiere3.br" group-title="Channels",PREMIERE 3 FHD
+http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/20011.ts
+#EXTINF:0 tvg-id="Premiere4.br" group-title="Channels",PREMIERE 4 FHD
+http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/20012.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 5 FHD
+http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/20013.ts
+#EXTINF:0 tvg-id="Premiere6.br" group-title="Channels",PREMIERE 6 FHD
+http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/20014.ts
+#EXTINF:0 tvg-id="Premiere7.br" group-title="Channels",PREMIERE 7 FHD
+http://iptvgratis.tk:8080/live/iptvgratis/iptvgratis/20015.ts
+
+
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DESPORTO - ESPANHA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+#EXTM3U
+
+
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",•●★-- España Deportes --★●
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/302518
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: DAZN 1 SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/107139
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: DAZN 1 HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/107140
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: DAZN 1 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/107099
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: DAZN 2 SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/107141
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: DAZN 2 HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/115669
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: DAZN 2 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/107100
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: DAZN 3 HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/115678
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: DAZN 3 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/115681
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: DAZN 4 HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/115686
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: DAZN 4 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/115688
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: DAZN FORMULA 1 SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/114522
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: DAZN F1 HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/114523
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: DAZN F1 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/114524
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: LALIGA TV BAR (Movil)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/310986
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: LALIGA TV BAR SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/108
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: LALIGA TV BAR HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/11156
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: LALIGA TV BAR FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/109
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. LALIGA (Movil)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/310985
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. LALIGA SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/112
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. LALIGA HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3061
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. LALIGA FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/116
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. LIGA de Campeones (Movil)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/310984
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. LIGA de Campeones SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/121
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. LIGA de Campeones HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3062
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. LIGA de Campeones FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/131
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: #VAMOS
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/90
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: #VAMOS HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3065
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: #VAMOS FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/91
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: BARÇA TV
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/26
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: EUROSPORT 1
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/162
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: EUROSPORT 1 HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3063
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: EUROSPORT 1 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/163
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: EUROSPORT 2
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/164
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: EUROSPORT 2 HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/27250
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: GOL SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/97
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. DEPORTES
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/141
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. DEPORTES HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3064
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. Deportes FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/142
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. Golf SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/120
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. Golf HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/3066
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. Golf FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/119
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: Multideportes
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/116097
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: REAL MADRID TV
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/27275
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: Real Madrid TV HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/63
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: Teledeporte SD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/78
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: Teledeporte FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/27276
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. Deportes 1 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/230780
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. Deportes 2 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/273592
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. Deportes 3 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/273593
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. Deportes 4 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/273594
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. LALIGA 1 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/113
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. LALIGA 1 FHD (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/60378
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. LALIGA 1 HD (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/114525
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. LALIGA 2 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/114
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. LALIGA 2 FHD (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/60379
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. LALIGA 3 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/115
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. LALIGA 3 FHD (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/60380
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. LALIGA 4 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/126147
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. LALIGA 4 FHD (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/126148
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. LALIGA 5 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/126149
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. LALIGA 6 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127862
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. LALIGA 7 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127863
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. LALIGA 8 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127864
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. LALIGA 9
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127865
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. LIGA de Campeones 1 SD (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/122
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. LIGA de Campeones 1 FHD (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/85955
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. LIGA de Campeones 2 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/123
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. LIGA de Campeones 2 FHD (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/85956
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. LIGA de Campeones 3 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/124
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. LIGA de Campeones 3 FHD (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/85957
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. LIGA de Campeones 4 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/125
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. LIGA de Campeones 5 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/126
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. LIGA de Campeones 6 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. LIGA de Campeones 7 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/128
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: M. LIGA de Campeones 8 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/129
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: FOOTTERS 1 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/234134
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: FOOTTERS 2 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/234135
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: FOOTTERS 3 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/234136
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: FOOTTERS 4 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/234137
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: FOOTTERS 5 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/234138
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: FOOTTERS 6 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/234139
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: FOOTTERS 7 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/234140
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: FOOTTERS 8 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/234141
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: FOOTTERS 9 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/234142
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: FOOTTERS 10 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/234143
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: FOOTTERS 11 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/234144
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: FOOTTERS 12 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/234145
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: FOOTTERS 13 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/234146
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: FOOTTERS 14 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/234147
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: FOOTTERS 15 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/234148
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: FOOTTERS 16 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/234149
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: FOOTTERS 17 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/234150
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: FOOTTERS 18 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/234151
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: FOOTTERS 19 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/234152
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: FOOTTERS 20 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/234153
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: FOOTTERS 21 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/234154
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: FOOTTERS 22 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/234155
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: FOOTTERS 23 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/234156
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: FOOTTERS 24 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/234157
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: FOOTTERS 25 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/234158
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: FOOTTERS 26 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/234159
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: FOOTTERS 27 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/234160
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: FOOTTERS 28 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/234161
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: FOOTTERS 29 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/234162
+#EXTINF:0 tvg-id="ext" group-title="España Deportes --★●",SP: ES: FOOTTERS 30 (Solo Eventos)
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/234163
+
+#EXTM3U
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DESPORTO - INGLATERRA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+#EXTM3U
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: SKY SPORTS Premier League
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32552
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: SKY SPORTS Football
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32553
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: SKY SPORTS Main Event
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32554
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: SKY SPORTS Arena
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32556
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: SKY SPORTS Golf
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32559
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: SKY SPORTS F1
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32560
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: EUROSPORT 1 HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32569
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: EUROSPORT 2 HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32570
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: Box Nation
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32572
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: Racing TV
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32573
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: MUTV HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32574
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: LFC FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32576
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: Freesports
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32577
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: RED BULL TV
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32578
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: HORSE & COUNTRY
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32581
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: WWE CHANNEL HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/40823
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: PREMIER SPORTS 1
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127415
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: PREMIER SPORTS 2
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127416
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: SKY SPORTS NEWS
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127616
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: SKY SPORTS Cricket
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127618
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: SKY SPORTS F1 HD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127620
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: SKY SPORTS RACING
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127621
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: BT SPORT 1 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127626
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: BT SPORT 2 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127627
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: BT SPORT 3 FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127628
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: BT SPORT ESPN FHD
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127629
+
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DESPORTO - FRANÇA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+#EXTM3U
+
+#EXTINF:0 tvg-id="ext" group-title="France Sports",•●★-- France Sports --★●•
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/33155
+#EXTINF:0 tvg-id="ext" group-title="France Sports",SP: FR: BEIN SPORTS 1
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/61094
+#EXTINF:0 tvg-id="ext" group-title="France Sports",SP: FR: BEIN SPORTS 2
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/61097
+#EXTINF:0 tvg-id="ext" group-title="France Sports",SP: FR: BEIN SPORTS 3
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/61100
+#EXTINF:0 tvg-id="ext" group-title="France Sports",SP: FR: BEIN SPORTS Max 4
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/61104
+#EXTINF:0 tvg-id="ext" group-title="France Sports",SP: FR: BEIN SPORTS Max 5
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/61106
+#EXTINF:0 tvg-id="ext" group-title="France Sports",SP: FR: BEIN SPORTS Max 6
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/61108
+#EXTINF:0 tvg-id="ext" group-title="France Sports",SP: FR: BEIN SPORTS Max 7
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/61110
+#EXTINF:0 tvg-id="ext" group-title="France Sports",SP: FR: BEIN SPORTS Max 8
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/61112
+#EXTINF:0 tvg-id="ext" group-title="France Sports",SP: FR: BEIN SPORTS Max 9
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/61114
+#EXTINF:0 tvg-id="ext" group-title="France Sports",SP: FR: BEIN SPORTS Max 10
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/61116
+#EXTINF:0 tvg-id="ext" group-title="France Sports",SP: FR: RMC SPORT 1
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/61117
+#EXTINF:0 tvg-id="ext" group-title="France Sports",SP: FR: RMC SPORT 2
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/61120
+#EXTINF:0 tvg-id="ext" group-title="France Sports",SP: FR: CANAL+ SPORT
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/61132
+#EXTINF:0 tvg-id="ext" group-title="France Sports",SP: FR: EUROSPORT 1
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/61135
+#EXTINF:0 tvg-id="ext" group-title="France Sports",SP: FR: EUROSPORT 2
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/61137
+#EXTINF:0 tvg-id="ext" group-title="France Sports",SP: FR: FOOT+ 24/24
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/61144
+#EXTINF:0 tvg-id="ext" group-title="France Sports",SP: FR: INFOSPORT+
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/61146
+#EXTINF:0 tvg-id="ext" group-title="France Sports",SP: FR: L\\\'Equipe 21
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/61147
+#EXTINF:0 tvg-id="ext" group-title="France Sports",SP: FR: Automoto La Chaine
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/61152
+#EXTINF:0 tvg-id="ext" group-title="France Sports",SP: FR: Golf Channel France
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/61155
+#EXTINF:0 tvg-id="ext" group-title="France Sports",SP: FR: Golf+
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/61156
+#EXTINF:0 tvg-id="ext" group-title="France Sports",SP: FR: Equidia Live
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/61160
+
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DESPORTO - ALEMANHA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+#EXTM3U
+
+
+#EXTINF:0 tvg-id="ext" group-title="Germany Sports",SP: DE: MOTORVISION TV
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/33440
+#EXTINF:0 tvg-id="ext" group-title="Germany Sports",SP: DE: AUTO MOTOR SPORT
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/33441
+#EXTINF:0 tvg-id="ext" group-title="Germany Sports",SP: DE: SKY SPORT NEWS
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/33443
+#EXTINF:0 tvg-id="ext" group-title="Germany Sports",SP: DE: SKY SPORT AUSTRIA
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/33447
+#EXTINF:0 tvg-id="ext" group-title="Germany Sports",SP: DE: SKY SPORT 1
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/33448
+#EXTINF:0 tvg-id="ext" group-title="Germany Sports",SP: DE: SKY SPORT BUNDESLIGA 1
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/33464
+#EXTINF:0 tvg-id="ext" group-title="Germany Sports",SP: DE: SKY SPORT BUNDESLIGA 3
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/33466
+#EXTINF:0 tvg-id="ext" group-title="Germany Sports",SP: DE: SKY SPORT BUNDESLIGA 4
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/33467
+#EXTINF:0 tvg-id="ext" group-title="Germany Sports",SP: DE: SKY SPORT BUNDESLIGA 6
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/33469
+#EXTINF:0 tvg-id="ext" group-title="Germany Sports",SP: DE: SKY SPORT BUNDESLIGA 7
+http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/33470
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]///////// OUTROS CANAIS DESPORTO /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTM3U
@@ -41,75 +432,6 @@ http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",RMC SPORTS FR. 1 HD
 http://gg.gg/Rmcsp1
-#EXTINF:0 tvg-id="ext" group-title="Channels",RMC SPORTS FR. 1 HD
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1937
-#EXTINF:0 tvg-id="ext" group-title="Channels",RMC SPORTS FR. 2 HD
-http://gg.gg/Rmcsp2
-#EXTINF:0 tvg-id="ext" group-title="Channels",RMC SPORTS FR. 2 HD
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1938
-#EXTINF:0 tvg-id="RMCSport3.fr" group-title="Channels",RMC SPORT 3 FR HD
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/279991
-#EXTINF:0 tvg-id="RMCSport4.fr" group-title="Channels",RMC SPORT 4 FR HD
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/279752
-#EXTINF:0 tvg-id="ext" group-title="Channels",RMC SPORT 5 FR HD
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/1940
-
-#EXTINF:0 tvg-id="Espn.br" group-title="Channels",ESPN 1 BR HD
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/8793
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 2 BR HD
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/8801
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 3 BR HD
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/290657
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN EXTRA BR HD
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/8789
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 1 PL. HD
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/347
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 2 PL. HD
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3643
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 3 PL. HD
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3644
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 4 PL. HD
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3645
-
-#EXTINF:0 tvg-id="beINSport1.fr" group-title="Channels",FR: BEIN SPORTS 1
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/144
-#EXTINF:0 tvg-id="beINSport2.fr" group-title="Channels",FR: BEIN SPORTS 2
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/145
-#EXTINF:0 tvg-id="beINSport3.fr" group-title="Channels",FR: BEIN SPORTS 3
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/146
-#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="Channels",FR: BEIN SPORTS MAX 4
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/3599
-#EXTINF:0 tvg-id="BeInSportMax5.fr" group-title="Channels",FR: BEIN SPORTS MAX 5
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/6083
-#EXTINF:0 tvg-id="BeInSportMax6.fr" group-title="Channels",FR: BEIN SPORTS MAX 6
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/4368
-#EXTINF:0 tvg-id="BeInSportMax7.fr" group-title="Channels",FR: BEIN SPORTS MAX 7
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/4369
-#EXTINF:0 tvg-id="BeInSportMax8.fr" group-title="Channels",FR: BEIN SPORTS MAX 8
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/4370
-#EXTINF:0 tvg-id="BeInSportMax9.fr" group-title="Channels",FR: BEIN SPORTS MAX 9
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/4371
-#EXTINF:0 tvg-id="BeInSportMax10.fr" group-title="Channels",FR: BEIN SPORTS MAX 10
-http://quality-restream.com:8080/Vladisergeevic/b5f1343def/6088
-
-#######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////// CANAIS DESPORTO UK /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://000000
-
-
-#EXTM3U
-
-
-#EXTINF:0 tvg-id="SkySports5.uk" group-title="Channels",SKY SPORTS 5
-http://93.152.174.144:4000/play/skysports5/index.m3u8
-#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="Channels",SKY SPORTS NEWS
-http://93.152.174.144:4000/play/skysportsnews/index.m3u8
-
-#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Channels",SKY SPORTS 1
-http://93.152.174.144:4000/play/ssports1/index.m3u8
-#EXTINF:0 tvg-id="SkySpF1.uk" group-title="Channels",SKY SPORTS F1
-http://93.152.174.144:4000/play/ssportsf1/index.m3u8
 
 
 #######################################################################################################################
@@ -149,10 +471,7 @@ http://185.236.229.50:8001/play/a02p
 http://185.236.229.50:8001/play/a02q
 #EXTINF:0 tvg-id="ext" group-title="Channels",YAS Sports HD
 http://185.236.229.50:8001/play/a02r
-#EXTINF:0 tvg-id="ADSports1.net" group-title="Channels",Abu Dhabi Sports 1
-http://185.236.229.50:8001/play/a02x
-#EXTINF:0 tvg-id="ADSports2.net" group-title="Channels",Abu Dhabi Sports 2
-http://185.236.229.50:8001/play/a02y
+
 #EXTINF:0 tvg-id="ADSports3.net" group-title="Channels",AD Sports 3 HD
 http://185.236.229.50:8001/play/a031
 #EXTINF:0 tvg-id="ADSports4.net" group-title="Channels",AD Sports 4 HD
@@ -175,12 +494,10 @@ http://185.236.229.50:8002/play/a00k
 http://185.236.229.50:8002/play/a00o
 #EXTINF:0 tvg-id="ext" group-title="Channels",ONTIME SPORTS 3
 http://185.236.229.50:8002/play/a00p
-#EXTINF:0 tvg-id="ext" group-title="Channels",DUBAI SPORTS 1 HD
-http://185.236.229.50:8002/play/a00s
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",Jordan Sport HD
 http://185.236.229.50:8002/play/a01m
-#EXTINF:0 tvg-id="ext" group-title="Channels",DUBAI SPORTS 2 HD
-http://185.236.229.50:8002/play/a01z
+
 #EXTINF:0 tvg-id="TRT3.tr" group-title="Channels",TRT 3 Spor
 http://195.155.98.170:5858/play/a09m
 #EXTINF:0 tvg-id="ext" group-title="Channels",Sport Live (DK)
@@ -201,8 +518,7 @@ http://212.18.115.193:3549/play/a05d/index.m3u8
 http://212.18.115.193:3549/play/a05f/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",TM:Turkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Türkmenistan Sport (406p)
-http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+
 #EXTINF:0 tvg-id="SportKlub4.rs" group-title="Channels",Sport Klub 4
 http://46.29.169.15:4001/play/a00q/index.m3u8
 #EXTINF:0 tvg-id="SportKlub5.rs" group-title="Channels",Sport Klub 5
@@ -237,16 +553,7 @@ http://89.105.216.95:8080/mag00:1A:79:69:AD:55/QVAALDiYjY/170877?play_token=T7Lv
 http://89.105.216.95:8080/mag00:1A:79:69:AD:55/QVAALDiYjY/170925?play_token=PM2XMlC5Cn&token=GBQKAkBYRFhBU1QHB1oMCVIGVAJUBABRUAcGDVsFBQdUU1oAVwkHAFsXT0dDTUtcAFk9XQFAXgJVAwoKVhgVFBBTEDxaVERYQQZWVQcOCRtNFhZdCAdGCVMFBgtXBA5XVAZOQUNZAkBZF1ZQBgkBG00WB0wRBxZdA19sXAZCXgIGFFgNRlwKTkFaDTpUXFRYD1BADkdTRh9AWkBIQQ5ZFA9aTkFRWRIQAkEGRwpXTFUNGEBXChcKRxBKEQJBYnlDTxQHG0dVCBEKWg1HChtNSkMYQF0WPRZWEUdBXQJZUhNBDEBTERxEDwJNPAZfV1dcAkALWwsRRglAAhEUQVlYDwpCDRFsQA8GQQ9BUAUMDghDSQ==
 #EXTINF:0 tvg-id="ext" group-title="Channels",BT Sports 3 Anh
 http://89.105.216.95:8080/mag00:1A:79:69:AD:55/QVAALDiYjY/170927?play_token=SPUHtijS5p&token=GBQKAkBYRFhBA1pcAQwPWlkCVQBdB1NRVARQWVQMUlZTBwYAVgFXVQUXT0dDTUtcAFk9XQFAXgJVAwoKVBgVFBBTEDxaVERYQQZWVQcOCRtNFhZdCAdGCVMFBgtXBA5WVAVOQUNZAkBZWxYJXBUbXBlAB0YLAwhsBlZFUQBRFVsNQw4PHxIJDDxRBghRV10bWxZTFklADUASEQlWFlhbTUFUCxdBURIHQQ8NEFxVFRsCWxdaERAdEVgRZXZBGBUEG0IHDUBZCQxBD0ERQxsVGwhHPUYAERBBB1JeXREWDUNTFE5BXlEePQBaDQtVWk1QDloRFl9AVRFOEV5XDV1DDhFpEgpXElwMFlkPGA==
-#EXTINF:0 tvg-id="ext" group-title="Channels",ABU DHABI SPORT 1 HD
-http://admdn1.cdn.mangomolo.com/adsports1/adsports1.stream_720p/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Abu Dabi Sports 3
-http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Abu Dabi Sports 2
-http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Türkmenistan Sport
-http://alpha.tv.online.tm/hls/ch004_720/index.m3u8
-#EXTINF:0 tvg-id="konnyj-mir" group-title="Channels",Конный Мир
-http://cdn-01.bonus-tv.ru/konnyimir/tracks-v1a1/mono.m3u8?token=gelow74
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",All Sports (1080p)
 http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",All Sports (1080p)
@@ -255,36 +562,7 @@ http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/HasBahCa.m3u8
 http://cdnua03.hls.tv/133/hls/99c91cce995b5620c9929e6835e6caf1/330/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",RTV San Marino Sport HD
 http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Dubai Movie
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Dubai Racing HD
-http://dmisvthvll.cdn.mangomolo.com/events/events/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Dubai Racing 3 HD
-http://dmithrvll.cdn.mangomolo.com/dubaimubasher/dubaimubasher/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Dubai Racing 3
-http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/HasBahCa.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Dubai Racing 2 HD
-http://dmithrvll.cdn.mangomolo.com/dubairacing/dubairacing/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Dubai Racing 2
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Dubai Sports 1
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Dubai Sports 1
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8?
-#EXTINF:0 tvg-id="ext" group-title="Channels",Dubai Sports
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/HasBahCa.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DUBAI SPORTS 1 FHD
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DUBAI SPORTS 2 FHD
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Dubai Sports 2
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",DUBAI SPORTS 3 FHD
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Dubai Sports 3
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Dubai Sports 3
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",Ziggo Sports
 http://gg.gg/Ziggo1
 #EXTINF:0 tvg-id="ext" group-title="Channels",Ziggo Voetbal
@@ -323,8 +601,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a6173797
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:0 tvg-id="ext" group-title="Channels",Pluto TV Sports (720p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6081310e48d3200007afaf3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf322-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0727f4fb-ea0b-4814-bb58-fdf3c4534220
-#EXTINF:0 tvg-id="ext" group-title="Channels",Астрахань.Ru Sport HD
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",Art Sports
 http://tv3.streampulse.eu:1935/tilesport/movie2/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",TVRI Sport HD
@@ -337,18 +614,12 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",RS NEWS SPORTS TV
 https://59f1cbe63db89.streamlock.net:1443/rsnewssports/_definst_/rsnewssports/chunklist_w983559002.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",AL Bahrain Sport 1
-https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/HasBahCa.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bahrain Sports 1 (720p)
-https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",ALL SPORTS
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w2098688672.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",All Sports
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/HasBahCa.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",All Sports
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",ACC Network (720p)
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",World of Freesports (720p)
@@ -357,22 +628,7 @@ https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Sportskool TV (486p)
 https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8
-#EXTINF:0 tvg-id="ADSports1.net" group-title="Channels",Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:0 tvg-id="ADSports1.net" group-title="Channels",Ad Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
-#EXTINF:0 tvg-id="ADSports1.net" group-title="Channels",Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/HasBahCa.m3u8
-#EXTINF:0 tvg-id="ADSports1.net" group-title="Channels",Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ADSports1.net" group-title="Channels",Abu Dhabi Sports 1
-https://admdn1ta.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:0 tvg-id="ADSports3.net" group-title="Channels",Abu Dhabi Sports 3
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TürkmenTV Sport
-https://alpha.tv.online.tm/hls/ch004.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Turkmenistan Sport
-https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",The Pet Collectiveᴴᴰ
@@ -499,18 +755,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/playli
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8?deviceid=&is_lat=&p=redbox&subp=RedboxdesktopWebWindows
 #EXTINF:0 tvg-id="ext" group-title="Channels",Hard Knocks (720p)
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ALFA SPORT CY
-https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
-#EXTINF:0 tvg-id="ext" group-title="Channels",TyC SPORT PLAY 6
-https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index_15.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Dubai Sports 1
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Dubai Sports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Dubai Sports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Dubai Sports 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",EdgeSport
 https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="EdgeSport.nl" group-title="Channels",Edge Sport
@@ -551,10 +796,7 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",TNT Sports 5 Brasil (720p)
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",KTV Sport (1080p)
-https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",KTV Sport Plus (1080p)
-https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",🇺🇸️ Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist480p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",FIGHT BOX
@@ -573,10 +815,7 @@ https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_trtsporyildiz/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",TRT Spor Yıldız
 https://mn-nl.mncdn.com/blutv_trtsporyildiz_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ORF Sport +  Ⓖ
-https://orfs.mdn.ors.at/out/u/orfs/q8c/manifest.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ORF Sport + (540p)
-https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",Pac 12 Insider (1080p)
 https://pac12-redbox.amagi.tv/hls/amagi_hls_data_pac-12AAA-pac12-redbox/CDN/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",TVS Sports (720p) [Not 24/7]
@@ -609,160 +848,3 @@ https://stitcheraws.unreel.me/wse-node05.powr.com/live/60ad16189590a654243e9655/
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=114
 #EXTINF:0 tvg-id="ext" group-title="Channels",ADVENTURE SPORTS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1029
-#EXTINF:0 tvg-id="SportsmanChannel.us" group-title="Channels",SPORTSMAN FHD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1038
-#EXTINF:0 tvg-id="TyCSports.ar" group-title="Channels",TyC Sports FHD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1115
-#EXTINF:0 tvg-id="ext" group-title="Channels",AntenaSport (720p)
-https://stream1.antenaplay.ro/dfs/farasecrete5/HasBahCa.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Antena Sport
-https://stream1.antenaplay.ro/dfs/farasecrete5/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Астрахань.Ru Sport (1080p)
-https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Al Sharjah Sports
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ASpor.tr" group-title="Channels",A SPOR HD
-https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
-#EXTINF:0 tvg-id="ASpor.tr" group-title="Channels",A Spor
-https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Unifi Sport 2
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
-#EXTINF:0 tvg-id="ext" group-title="Channels",FEVER PITCH SPORT
-https://video01.soultv.com.br/feverpitchsports/feverpitchsports/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",tv2 - Sport (720p)
-https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",🇺🇸️ TV 2 Sporten
-https://ws31-hls-live.akamaized.net/out/u/1416253_1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",ULTRA REX r
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
-
-#######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////// CANAIS DESPORTO MUNDIAIS - LISTA 2 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://000000
-
-
-#EXTM3U
-
-
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Sport",Best Cable Sports Perú (720p) [Not 24/7]
-https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ERT Sports 2 (1080p) [Geo-blocked]
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports2_ww.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ERT Sports 3 (1080p) [Geo-blocked]
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports3_ww.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",KSA Sports 1 (1080p) [Not 24/7]
-https://edge.taghtia.com/sa/9.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",KSA Sports 2 (1080p) [Not 24/7]
-https://edge.taghtia.com/sa/10.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",MNB Sport
-https://live.mnb.mn/live/mnb_sport.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ART SPORT 1 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211394?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",K SPORT 1 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211389?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",K SPORT 2 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211390?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",K SPORT 3 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211391?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",K SPORT 4 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211392?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",Kujtesa Sport 1
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/225129?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",Kujtesa Sport 2
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/225130?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",Kujtesa Sport 3
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/225131?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",Kujtesa Sport 4
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/225132?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",OVERSPORT 1 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/388799?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",OVERSPORT 2 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/388798?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",OVERSPORT 4 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/395249?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",RTSH Sport
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/301841?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",RTSH Sport HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/203506?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SuperSportNews.al" group-title="Sport",SUPER SPORT 1 FHD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/276567?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 1 FHD (SPECIAL)
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/277923?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SuperSportNews.al" group-title="Sport",SUPER SPORT 1 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/276568?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 2 FHD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/277925?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 2 FHD (SPECIAL)
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/227593?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 2 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3128?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 3 FHD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/227594?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 3 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3129?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 4 FHD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3130?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 4 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/209433?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 5 FHD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/277926?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 5 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/209434?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 6 FHD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211449?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",Super Sport News HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3127?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="TS1HD.al" group-title="Sport",TRING SPORT 1 FHD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/277931?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="TS2HD.al" group-title="Sport",TRING SPORT 2 FHD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/277930?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="TS3HD.al" group-title="Sport",TRING SPORT 3 FHD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/277929?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",TRING SPORT 4 FHD (ONLY MATCH TIME)
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/277928?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="TS1HD.al" group-title="Sport",Tring Sport 1 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3133?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="TS3HD.al" group-title="Sport",Tring Sport 3 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211451?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="TS4HD.al" group-title="Sport",Tring Sport 4 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/211452?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",VIP ART Sport 1 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378554?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",VIP ART Sport 2 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378553?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",VIP ART Sport 3 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378552?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",VIP Art Sport 2
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/224503?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",VIP RTSH Sport FHD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378551?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",VIP SUPER SPORT 1 FHD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378601?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",VIP SUPER SPORT 2 FHD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378600?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",VIP SUPER SPORT 3 FHD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378599?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",VIP SUPER SPORT 4 FHD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378598?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",VIP SUPER SPORT 5 FHD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378597?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",VIP SUPER SPORT 5 FHD HEVC
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378590?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",VIP SUPER SPORT 5 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378583?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",VIP SUPER SPORT 6 FHD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378596?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",VIP TRING SPORT 1 FHD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378579?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",VIP TRING SPORT 1 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378571?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",VIP TRING SPORT 2 FHD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378578?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",VIP TRING SPORT 2 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378570?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",VIP TRING SPORT 3 FHD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378577?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",VIP TRING SPORT 3 HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/378569?checkedby:iptvcat.com
-
