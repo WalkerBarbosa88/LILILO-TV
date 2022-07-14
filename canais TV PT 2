@@ -436,153 +436,109 @@ http://45.92.69.72:8000/play/a0he
 #EXTINF:-1,[COLOR=white][B]LOCALVISÃO TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gx
 #EXTINF:-1,[COLOR=white][B]M6[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8000/play/a0hl
-#EXTINF:-1,Más Chic
-http://45.92.69.72:8000/play/a0jl
-#EXTINF:-1,NHK World Japan
-http://45.92.69.72:8000/play/a0ja
-#EXTINF:-1,National Geographic
+http://45.92.69.72:8000/play/a0hl 
+
+
+#EXTINF:-1,[COLOR=white][B]NATIONAL GEOGRAPHIC[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0hb
-#EXTINF:-1,Odisseia
+#EXTINF:-1,[COLOR=white][B]ODISSEIA[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0hd
-#EXTINF:-1,Sky News
+#EXTINF:-1,[COLOR=white][B]SKY NEWS[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0im
-#EXTINF:-1,Sporting TV HD
+#EXTINF:-1,[COLOR=white][B]SPORTING TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gg
-#EXTINF:-1,SyFy HD
+#EXTINF:-1,[COLOR=white][B]SYFY HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gp
-#EXTINF:-1,TLC
+#EXTINF:-1,[COLOR=white][B]TLC[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0h8
-#EXTINF:-1,TV Galicia
+#EXTINF:-1,[COLOR=white][B]TV GALICIA[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0ju
-#EXTINF:-1,TV Record
+#EXTINF:-1,[COLOR=white][B]TV RECORD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0ij
-#EXTINF:-1,TV5 Monde
+#EXTINF:-1,[COLOR=white][B]TV5 MONDE[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0hq
-#EXTINF:-1,TVE 24h
+#EXTINF:-1,[COLOR=white][B]TVE 24H[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0jm
-#EXTINF:-1,TVEi
+#EXTINF:-1,[COLOR=white][B]TVE INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0iy
-#EXTINF:-1,TVI
+#EXTINF:-1,[COLOR=white][B]TVI[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gb
-#EXTINF:-1,TVI Ficção
+#EXTINF:-1,[COLOR=white][B]TVI FICÇÃO[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0iu
-#EXTINF:-1,TVI24
+#EXTINF:-1,[COLOR=white][B]CNN PORTUGAL[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gl
-#EXTINF:-1,i24News (F)
-http://45.92.69.72:8000/play/a0hj
-#EXTINF:-1,i24News (I)
-http://45.92.69.72:8000/play/a0jt
-#EXTINF:-1,24Kitchen HD [VDF]
+ 
+#EXTINF:-1,[COLOR=white][B]24KITCHEN HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a046
-#EXTINF:-1,AMC HD [VDF]
+#EXTINF:-1,[COLOR=white][B]AMC HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a036
-#EXTINF:-1,AXN HD [VDF]
+#EXTINF:-1,[COLOR=white][B]AXN HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a02z
-#EXTINF:-1,AXN Movies HD [VDF]
+#EXTINF:-1,[COLOR=white][B]AXN MOVIES HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a034
-#EXTINF:-1,AXN White HD [VDF]
+#EXTINF:-1,[COLOR=white][B]AXN WHITE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a033
-#EXTINF:-1,BBC Entertainment [VDF]
-http://45.92.69.72:8001/play/a03m
-#EXTINF:-1,BBC World News [VDF]
+
+#EXTINF:-1,[COLOR=white][B]BBC WORLD NEWS[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a03q
-#EXTINF:-1,Blaze HD [VDF]
+#EXTINF:-1,[COLOR=white][B]BLAZE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a03e
-#EXTINF:-1,CMTV HD [VDF]
+#EXTINF:-1,[COLOR=white][B]CMTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a03x
-#EXTINF:-1,CNBC [VDF]
+#EXTINF:-1,[COLOR=white][B]CNBC[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a03r
-#EXTINF:-1,Canal 11 HD [VDF]
+#EXTINF:-1,[COLOR=white][B]CANAL 11 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a03w
-#EXTINF:-1,Canal 180 [VDF]
+#EXTINF:-1,[COLOR=white][B]CANAL 180[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a03t
-#EXTINF:-1,Canal Q [VDF]
+#EXTINF:-1,[COLOR=white][B]CANAL Q[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a02m
-#EXTINF:-1,Cartoon Network [VDF]
+#EXTINF:-1,[COLOR=white][B]CARTOON NETWORK[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a02s
-#EXTINF:-1,Cinemundo HD [VDF]
+#EXTINF:-1,[COLOR=white][B]CINEMUNDO HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a02w
-#EXTINF:-1,Deutche Welle [VDF]
+#EXTINF:-1,[COLOR=white][B]DEUTCHE WELLE[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a03s
-#EXTINF:-1,Discovery HD [VDF]
+#EXTINF:-1,[COLOR=white][B]DISCOVERY HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a03b
-#EXTINF:-1,Disney Channel [VDF]
+#EXTINF:-1,[COLOR=white][B]DISNEY CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a02q
-#EXTINF:-1,Disney Junior [VDF]
+#EXTINF:-1,[COLOR=white][B]DISNEY JUNIOR[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a02r
-#EXTINF:-1,E HD [VDF]
+#EXTINF:-1,[COLOR=white][B]E! HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a03h
-#EXTINF:-1,FOX Crime HD [VDF]
+#EXTINF:-1,[COLOR=white][B]FOX CRIME HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a031
-#EXTINF:-1,FOX HD [VDF]
+#EXTINF:-1,[COLOR=white][B]FOX HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a02y
-#EXTINF:-1,FOX Life HD [VDF]
+#EXTINF:-1,[COLOR=white][B]FOX LIFE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a030
-#EXTINF:-1,FOX Movies HD [VDF]
+#EXTINF:-1,[COLOR=white][B]FOX MOVIES HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a02x
-#EXTINF:-1,FTV [VDF]
+#EXTINF:-1,[COLOR=white][B]FTV[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a03l
-#EXTINF:-1,Food Network [VDF]
+#EXTINF:-1,[COLOR=white][B]FOOD NETWORK[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a03k
-#EXTINF:-1,Fuel TV HD [VDF]
+#EXTINF:-1,[COLOR=white][B]FUEL TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a02p
-#EXTINF:-1,Ginx [VDF]
+#EXTINF:-1,[COLOR=white][B]GINX[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a03n
-#EXTINF:-1,Globo HD [VDF]
+#EXTINF:-1,[COLOR=white][B]GLOBO HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a03z
-#EXTINF:-1,Historia [VDF]
+#EXTINF:-1,[COLOR=white][B]HISTÓRIA[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a03f
-#EXTINF:-1,Hollywood HD [VDF]
+#EXTINF:-1,[COLOR=white][B]HOLLYWOOD HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a02v
-#EXTINF:-1,MTV HD [VDF]
+#EXTINF:-1,[COLOR=white][B]MTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a037
-#EXTINF:-1,Nat Geo HD [VDF]
+#EXTINF:-1,[COLOR=white][B]NATGEO HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a03c
-#EXTINF:-1,Nat Geo Wild HD [VDF]
+#EXTINF:-1,[COLOR=white][B]NATGEO WILD HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a03g
-#EXTINF:-1,Odisseia HD [VDF]
+#EXTINF:-1,[COLOR=white][B]ODISSEIA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a03d
-#EXTINF:-1,Panda Biggs [VDF]
+#EXTINF:-1,[COLOR=white][B]PANDA BIGGS[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a02u
-#EXTINF:-1,Panda [VDF]
+#EXTINF:-1,[COLOR=white][B]PANDA[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a02t
-#EXTINF:-1,RTP 1 HD [VDF]
-http://45.92.69.72:8001/play/a045
-#EXTINF:-1,RTP 2 HD [VDF]
-http://45.92.69.72:8001/play/a00e
-#EXTINF:-1,RTP 3 [VDF]
-http://45.92.69.72:8001/play/a02k
-#EXTINF:-1,RTP Memória [VDF]
-http://45.92.69.72:8001/play/a00k
-#EXTINF:-1,SIC Caras [VDF]
-http://45.92.69.72:8001/play/a042
-#EXTINF:-1,SIC HD [VDF]
-http://45.92.69.72:8001/play/a02i
-#EXTINF:-1,SIC K [VDF]
-http://45.92.69.72:8001/play/a044
-#EXTINF:-1,SIC Mulher HD [VDF]
-http://45.92.69.72:8001/play/a040
-#EXTINF:-1,SIC Noticias HD [VDF]
-http://45.92.69.72:8001/play/a00h
-#EXTINF:-1,SIC Radical [VDF]
-http://45.92.69.72:8001/play/a043
-#EXTINF:-1,SKY News [VDF]
-http://45.92.69.72:8001/play/a03p
-#EXTINF:-1,SyFy [VDF+ HD
-http://45.92.69.72:8001/play/a035
-#EXTINF:-1,TLC [VDF]
-http://45.92.69.72:8001/play/a03i
-#EXTINF:-1,TVC News [VDF]
-http://45.92.69.72:8001/play/a03u
-#EXTINF:-1,Trace Toca [VDF]
-http://45.92.69.72:8001/play/a03a
-#EXTINF:-1,Trace Urban [VDF]
-http://45.92.69.72:8001/play/a038
-#EXTINF:-1,Travel [VDF]
-http://45.92.69.72:8001/play/a03j
-#EXTINF:-1,VH1 [VDF]
-http://45.92.69.72:8001/play/a039
-
-
 
