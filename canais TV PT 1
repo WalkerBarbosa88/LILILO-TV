@@ -55,6 +55,8 @@ http://45.92.69.72:8000/play/a0jo
 http://45.92.69.77:8000/play/a0a2/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Religious",[COLOR=white][B]TV ZIMBO HD[/B][/COLOR][COLOR=white][/COLOR]
 https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://livestream.com/accounts/29819666/events/9254936/player
+#EXTINF:-1,[COLOR=white][B]TCV INTER.[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.77:8000/play/a040/index.m3u8
 #EXTINF:-1,[COLOR=white][B]TVM HD[/B][/COLOR][COLOR=white][/COLOR]
 http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]TVM INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
