@@ -43,6 +43,9 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1,[COLOR=white][B]TRACE URBAN UK HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.153.35.210:8000/play/a014/index.m3u8
 
+#EXTINF:-1,[COLOR=white][B]TRACE TOCA HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8001/play/a03a
+
 #EXTINF:-1,[COLOR=white][B]BOX HITS UK[/B][/COLOR][COLOR=white][/COLOR]
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 
@@ -58,7 +61,6 @@ https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]RADIO M2O HD[/B][/COLOR][COLOR=white][/COLOR]
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b2816000.m3u8
 
-
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]4FUN TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.4fun.tv:8888/hls/4f.m3u8
 
@@ -68,11 +70,11 @@ http://cdnua06.hls.tv/476/hls/0v8gnwlpo3dtf24ysm1rbcqx6uea79ji/264/stream.m3u8
 #EXTINF:-1,[COLOR=white][B]MTV CLUB HD[/B][/COLOR][COLOR=white][/COLOR]
 http://84.17.61.200:8085/udp/238.2.0.46:1234
 
-#EXTINF:-1,[COLOR=white][B]MTV HITS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://iptv.prosto.tv:7000/ch126/video.m3u8
+#EXTINF:-1,[COLOR=white][B]MTV LIVE[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.77:8000/play/a01e/index.m3u8
 
-#EXTINF:-1,[COLOR=white][B]MTV LIVE HD[/B][/COLOR][COLOR=white][/COLOR]
-http://193.233.9.49/streams/media/MTV_Live_HD/index.m3u8
+#EXTINF:-1,[COLOR=white][B]MTV OO´S HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8000/play/a0hf
 
 #EXTINF:-1 tvg-logo="" group-title="TV Musicas",[COLOR=white][B]ONE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://rtmp.one.by:1300
