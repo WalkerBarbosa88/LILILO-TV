@@ -4,6 +4,8 @@ http://0.0.0.0:000000
 ####################################################################################################################################
  
 
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 17/07/2022[/B][/COLOR][COLOR=orange][/COLOR]
+
 ##########################################################################################################################
  
 
@@ -28,8 +30,8 @@ https://000000
 ******************************************  LISTA CANAIS TV UK 1  ******************************************
 
 
-
 #EXTM3U
+
 #EXTINF:0 tvg-id="ITV1London.uk" group-title="Channels",UK: ITV 1
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32436
 #EXTINF:0 tvg-id="ITV2.uk" group-title="Channels",UK: ITV 2
@@ -126,9 +128,7 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32512
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32513
 #EXTINF:0 tvg-id="CBSReality.uk" group-title="Channels",UK: CBS REALITY
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32514
-#EXTINF:0 tvg-id="CBSDrama.uk" group-title="Channels",UK: CBS DRAMA
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32515
-#EXTINF:0 tvg-id="FoodNetwork.uk" group-title="Channels",UK: FODD NETWORK 
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: FODD NETWORK
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32518
 #EXTINF:0 tvg-id="Home.uk" group-title="Channels",UK: HOME
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32520
@@ -140,8 +140,6 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32523
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32525
 #EXTINF:0 tvg-id="DiscoveryDMAX.uk" group-title="Channels",UK: DMAX
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32526
-#EXTINF:0 tvg-id="TLC.uk" group-title="Channels",UK: TLC
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32528
 #EXTINF:0 tvg-id="SkyAtlantic.uk" group-title="Channels",UK: SKY ATLANTIC HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32533
 #EXTINF:0 tvg-id="ext" group-title="Channels",UK: Sky WITNESS HD
@@ -158,8 +156,6 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32586
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32587
 #EXTINF:0 tvg-id="Disney.uk" group-title="Channels",UK: DISNEY CHANNEL HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32590
-#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="Channels",UK: CARTOON NETWORK FHD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32592
 #EXTINF:0 tvg-id="BabyTV.uk" group-title="Channels",UK: BABY TV
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32593
 #EXTINF:0 tvg-id="tinypop.uk" group-title="Channels",UK: TINY POP
@@ -170,8 +166,6 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32598
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32600
 #EXTINF:0 tvg-id="MTVClassic.uk" group-title="Channels",UK: MTV CLASSIC
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32602
-#EXTINF:0 tvg-id="MTVHits.uk" group-title="Channels",UK: MTV HITS
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32603
 #EXTINF:0 tvg-id="MTVMusic.uk" group-title="Channels",UK: MTV MUSIC
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32606
 #EXTINF:0 tvg-id="4Music.uk" group-title="Channels",UK: 4MUSIC
@@ -257,25 +251,18 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127628
 #EXTINF:0 tvg-id="ext" group-title="Channels",SP: UK: BT SPORT ESPN FHD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127629
 
-
 ******************************************  LISTA CANAIS TV UK 2  ******************************************
 
-#EXTINF:0 tvg-id="4Music.uk" group-title="Channels",4MUSIC
-http://45.153.35.221:8000/play/a0f2/index.m3u8
 #EXTINF:0 tvg-id="FiveUSA.uk" group-title="Channels",5 USA
 http://45.153.35.221:8000/play/a00v/index.m3u8
-#EXTINF:0 tvg-id="My5.uk" group-title="Channels",5 SELECT
+#EXTINF:0 tvg-id="ext" group-title="Channels",5 SELECT
 http://45.153.35.221:8000/play/a00y/index.m3u8
 #EXTINF:0 tvg-id="5star.uk" group-title="Channels",5 STAR
 http://45.153.35.221:8000/play/a00x/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",5 STAR+1
+#EXTINF:0 tvg-id="5starplus1.uk" group-title="Channels",5 STAR+1
 http://45.153.35.221:8000/play/a00z/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",5 USA+1
+#EXTINF:0 tvg-id="FiveUSAPlus1.uk" group-title="Channels",5 USA+1
 http://45.153.35.221:8000/play/a00w/index.m3u8
-#EXTINF:0 tvg-id="BBC4.uk" group-title="Channels",BBC FOUR
-http://45.153.35.221:8000/play/a006/index.m3u8
-#EXTINF:0 tvg-id="BBC4.uk" group-title="Channels",BBC FOUR
-http://45.153.35.221:8000/play/a00a/index.m3u8
 #EXTINF:0 tvg-id="BBCOneHD.uk" group-title="Channels",BBC ONE CI
 http://45.153.35.221:8000/play/a00e/index.m3u8
 #EXTINF:0 tvg-id="BBC1East.uk" group-title="Channels",BBC ONE EAST W
@@ -284,9 +271,9 @@ http://45.153.35.221:8000/play/a00d/index.m3u8
 http://45.153.35.221:8000/play/a01e/index.m3u8
 #EXTINF:0 tvg-id="BBCOneHD.uk" group-title="Channels",BBC ONE HD
 http://45.153.35.221:8000/play/a018/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",BBC ONE LONDON
+#EXTINF:0 tvg-id="BBC1London.uk" group-title="Channels",BBC ONE LONDON
 http://45.153.35.221:8000/play/a008/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",BBC ONE LONDON
+#EXTINF:0 tvg-id="BBC1London.uk" group-title="Channels",BBC ONE LONDON
 http://45.153.35.221:8000/play/a003/index.m3u8
 #EXTINF:0 tvg-id="BBC1NorthernIreland.uk" group-title="Channels",BBC ONE NI HD
 http://45.153.35.221:8000/play/a01f/index.m3u8
@@ -378,11 +365,11 @@ http://45.153.35.221:8000/play/a00i/index.m3u8
 http://45.153.35.221:8000/play/a00h/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",ITV WALES
 http://45.153.35.221:8000/play/a00m/index.m3u8
-#EXTINF:0 tvg-id="ITV1CentralPlus1.uk" group-title="Channels",ITV
+#EXTINF:0 tvg-id="impact" group-title="Channels",ITV
 http://45.153.35.221:8000/play/a00o/index.m3u8
-#EXTINF:0 tvg-id="ITV1CentralPlus1.uk" group-title="Channels",ITV
+#EXTINF:0 tvg-id="impact" group-title="Channels",ITV
 http://45.153.35.221:8000/play/a00l/index.m3u8
-#EXTINF:0 tvg-id="ITV2plus1.uk" group-title="Channels",ITV2
+#EXTINF:0 tvg-id="ITV2.uk" group-title="Channels",ITV2
 http://45.153.35.221:8000/play/a00s/index.m3u8
 #EXTINF:0 tvg-id="ITV3.uk" group-title="Channels",ITV3
 http://45.153.35.221:8000/play/a00q/index.m3u8
@@ -412,14 +399,16 @@ http://45.153.35.221:8000/play/a012/index.m3u8
 http://45.153.35.221:8000/play/a0fl/index.m3u8
 #EXTINF:0 tvg-id="TinyPop.uk" group-title="Channels",TINY POP
 http://45.153.35.221:8000/play/a02i/index.m3u8
-#EXTINF:0 tvg-id="tinypop1.uk" group-title="Channels",TINY POP
+#EXTINF:0 tvg-id="TinyPop.uk" group-title="Channels",TINY POP
 http://45.153.35.221:8000/play/a02k/index.m3u8
 #EXTINF:0 tvg-id="utv" group-title="Channels",UTV
 http://45.153.35.221:8000/play/a00j/index.m3u8
 #EXTINF:0 tvg-id="Yesterday.uk" group-title="Channels",YESTERDAY
 http://45.153.35.221:8000/play/a01z/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",YESTERDAY
+#EXTINF:0 tvg-id="Yesterday.uk" group-title="Channels",YESTERDAY
 http://45.153.35.221:8000/play/a02c/index.m3u8
+
+******************************************  LISTA CANAIS TV UK 3  ******************************************
 
 
 #EXTINF:-1, ITV CENTRAL WEST
@@ -556,6 +545,8 @@ https://000000
 
 
 #EXTM3U
+
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",SP: USA: YES Network HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/115815
 #EXTINF:0 tvg-id="ext" group-title="Channels",SP: USA: BEIN Sports N SD (Opc 1)
@@ -586,21 +577,13 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/30936
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/30937
 #EXTINF:0 tvg-id="ext" group-title="Channels",SP: USA: ESPN U
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/30942
-#EXTINF:0 tvg-id="ext" group-title="Channels",SP: USA: Sky Sports Liga Española HD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/31812
 #EXTINF:0 tvg-id="ext" group-title="Channels",SP: USA: BEIN Sports N HD (Opc 1)
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32175
-#EXTINF:0 tvg-id="ext" group-title="Channels",SP: USA: NBC Sports Network HD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32894
 #EXTINF:0 tvg-id="ext" group-title="Channels",SP: USA: NBCSN Boston
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32896
 #EXTINF:0 tvg-id="ext" group-title="Channels",SP: USA: NBCSN Philadelphia
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32901
-#EXTINF:0 tvg-id="ext" group-title="Channels",SP: USA: NBCSN Washington
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32902
 
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",•●★-- USA  Sports --★●•
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32965
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",SP: USA: Tennis Channel
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/41379
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",SP: USA: NBA TV
@@ -661,16 +644,12 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/115787
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/115790
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",SP: USA: Olympic Channel
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/115791
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",SP: USA: MSG Plus
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/115793
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",SP: USA: MSG 2
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/115794
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",SP: USA: MSG
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/115795
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",SP: USA: NESN Plus
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/115797
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",SP: USA: NESN
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/115798
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",SP: USA: Big Ten Network
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/115799
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",SP: USA: Fight Network
@@ -701,10 +680,6 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/115812
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/115816
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",SP: USA: TVG NETWORK HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127125
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",SP: USA: TVG
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127126
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",SP: USA: TVG2 HD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127127
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",SP: USA: NBCSN California
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127657
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",SP: USA: Bally Sports Arizona
@@ -759,12 +734,6 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/158181
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/158182
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",SP: USA: Bally Sports Arizona Plus
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228025
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",SP: USA: Bally Sports Detroit Plus
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228027
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",SP: USA: Bally Sports Indiana Plus
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228028
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",SP: USA: Bally Sports Kansas City Plus
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228029
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",SP: USA: Bally Sports Midwest Plus
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228030
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",SP: USA: Bally Sports New Orleans Plus
@@ -781,8 +750,6 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228038
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228094
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",SP: USA: Fubo Sports Network
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228097
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",SP: USA: Next Level Sports
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228099
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",SP: USA: Ride TV
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228100
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",SP: USA Fox Deportes HD
@@ -803,8 +770,6 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/30914
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/30915
 #EXTINF:0 tvg-id="TNT.us" group-title="USA  Sports",USA: TNT HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/30916
-#EXTINF:0 tvg-id="SyfyHD.us" group-title="USA  Sports",USA: Syfy FHD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/30917
 #EXTINF:0 tvg-id="Freeform.us" group-title="USA  Sports",USA: Freeform HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/30920
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: BBC America
@@ -817,8 +782,6 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/30930
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/30931
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: E! Entertainment East HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/30939
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Food Network HD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/30943
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: FX East HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/31044
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Discovery Channel
@@ -851,12 +814,8 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/86000
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/86001
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: BET Soul
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/86002
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Bounce
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/86003
 #EXTINF:0 tvg-id="ComedyCentral.us" group-title="USA  Sports",USA: Comedy Central HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/86006
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Comet HD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/86007
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Court TV HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/86008
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Crime & Investigation HD
@@ -923,16 +882,12 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/86051
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/86053
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Revolt HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/86054
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Discovery Science SD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/86055
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: TBS West HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/86057
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: TLC HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/86059
 #EXTINF:0 tvg-id="TVLand.us" group-title="USA  Sports",USA: TV Land HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/86061
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: VH1 HD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/86062
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: VH1 Classic
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/86063
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: WGN 9 HD
@@ -963,8 +918,6 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127975
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127976
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: MTV 2
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127979
-#EXTINF:0 tvg-id="Discovery.us" group-title="USA  Sports",USA: Discovery Science HD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127981
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Food Network West
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/153622
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: FX West HD
@@ -979,8 +932,6 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/30897
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/30899
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Disney Channel
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/30901
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Boomerang
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/30922
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Disney Channel Paficic
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/30932
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Cartoon Network West
@@ -1011,8 +962,6 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127413
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127969
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Baby First TV HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/128368
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Cartoon Network
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/128370
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Disney HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/128371
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Disney Junior West HD
@@ -1021,8 +970,6 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/128372
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/128373
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Nick JR West
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/128376
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Nickelodeon  HD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/128378
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Nick Music
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/128379
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Movieplex HD
@@ -1033,8 +980,6 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/30895
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/30896
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: HBO West
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/30902
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: AMC
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/30905
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: TCM FHD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/30912
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Sundance HD
@@ -1081,10 +1026,6 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32821
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32824
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Showtime Extreme FHD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32825
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Showtime Beyond
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32826
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Showtime Next
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32829
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Showtime Showcase
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/32830
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Hallmark Drama HD
@@ -1125,8 +1066,6 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/102426
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/102428
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",PPV USA: Cinema 11
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/102429
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",PPV USA: Cinema 12
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/102430
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",PPV USA: Cinema 14
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/102432
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",PPV USA: Cinema 15
@@ -1165,24 +1104,18 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/115820
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/115821
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Heros and Icons TV HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127973
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: CMT West
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/153620
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: CMT
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/153621
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: FXX West HD
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/161847
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: AMC +
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/227945
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: AMC Rush
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/227946
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: CINEMAX 5STARMAX
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/227949
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Cinemax MovieMAX
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/227953
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Cinemax OuterMAX
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/227954
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Cinemax ThrillerMAX (EAST)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/227956
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Epix (EAST)
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/227958
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Epix 2
@@ -1227,14 +1160,10 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/41388
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/86066
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: BBC World News
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/127428
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: NEWSY
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228108
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: NewsMax
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228110
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: OAN * One American News Network
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228112
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Connecticut NEWS 12
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228117
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: New Jersey News 12
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/228118
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",US: ABC HD Indiana
@@ -1285,8 +1214,6 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233776
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233777
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",US: ABC HD Los Angeles
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233778
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",US: ABC 10 San Diego
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233779
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",US: ABC 8 Tulsa
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233781
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",US: ABC 8 Hartford
@@ -1461,8 +1388,6 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233822
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233823
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: CBS Columbus
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233824
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: CBS Cleveland
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233825
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: CBS Chicago
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/233826
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: CBS Charlotte
@@ -1541,20 +1466,6 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232744
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232745
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: The CW New York
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232746
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: The CW Seed
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232747
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: PHILADELPHIA CW WPSG
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232748
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: The CW Charlotte
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232749
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: PBS Fairbanks
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232750
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: PBS Jacksonville
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232751
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: PBS Erie
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232752
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: PBS Salt Lake City
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232754
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: PBS
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232755
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Fox Birmingham
@@ -1567,8 +1478,6 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232618
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232619
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Fox Little Rock
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232621
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Fox Tucson
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232622
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Fox Bakersfield
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232623
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: los Angeles
@@ -1599,24 +1508,14 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232643
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232644
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Fox Augusta
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232645
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Fox Columbus
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232646
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Fox Honolulu
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232647
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Fox Davenport
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232649
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Fox Chichago
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232654
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Fox Indianapolis
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232658
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Fox New Orleans
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232662
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Fox Sheveport
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232663
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Fox Boston
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232664
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Fox Springield
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232665
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Fox Grand Rapids
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232672
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Fox Kansas City
@@ -1625,12 +1524,8 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232675
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232677
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Fox Jackson
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232678
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Fox Charlotte
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232681
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Fox Raleigh
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232683
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Fox Fargo
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232684
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Fox Albuquerque
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232685
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: Fox Henderson
@@ -1733,8 +1628,6 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232779
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232780
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: NBC Tampa
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232781
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: NBC West Palm Beach - FT. Pierce
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232782
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: NBC Atlanta
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232784
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: NBC  Augusta
@@ -1863,8 +1756,6 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232858
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232859
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: NBC Bend
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232860
-#EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: NBC Eugene
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232861
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: NBC Medford
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232862
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: NBC Portland
@@ -1939,7 +1830,4 @@ http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232907
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232908
 #EXTINF:0 tvg-id="ext" group-title="USA  Sports",USA: NBC Cheyenne - Scottbluff
 http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/232909
-
-
-
 
