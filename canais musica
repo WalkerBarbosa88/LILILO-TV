@@ -43,8 +43,17 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1,[COLOR=white][B]TRACE URBAN UK HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.153.35.210:8000/play/a014/index.m3u8
 
+#EXTINF:-1,[COLOR=white][B]TRACE URBAN HD[/B][/COLOR][COLOR=white][/COLOR]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
+
 #EXTINF:-1,[COLOR=white][B]TRACE TOCA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a03a
+
+#EXTINF:-1,[COLOR=white][B]TRACE BRAZUCA HD[/B][/COLOR][COLOR=white][/COLOR]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]TRACE LATINA HD[/B][/COLOR][COLOR=white][/COLOR]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]BOX HITS UK[/B][/COLOR][COLOR=white][/COLOR]
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
