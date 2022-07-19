@@ -23,7 +23,16 @@ http://0.0.0.0:0000
 #EXTINF:-1,[COLOR=yellow][B] /////////  NOVOS CANAIS PREMIUM (EM TESTE) /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://00000000000
 
+
 #EXTM3U
+
+
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://103.125.191.32:9981/stream/channelid/1423286941?profile=cvaceplus
+#EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://103.125.191.32:9981/stream/channelid/993725042?profile=cvaceplus
+#EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://103.125.191.32:9981/stream/channelid/219947303?profile=cvaceplus
 
 
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
