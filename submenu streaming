@@ -44,21 +44,11 @@
 </channel>
 
 
-<channels>
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold]RAKUTEN TV[/COLOR][/B]</name>
-<thumbnail>https://ia804605.us.archive.org/28/items/rakuten-tv_202112/Rakuten%20TV.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Sphinxroot/TV/main/Streaming%20Service%20Network/RakutenTV/RakutenTV.m3u</externallink>
-<fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
-<info></info>
-</channel>
-
-
 
 <channels>
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR gold]XIAOMI TV[/COLOR][/B]</name>
-<thumbnail></thumbnail>
+<thumbnail>https://ia601404.us.archive.org/7/items/xiami-mi-tv/XIAMI%20MI%20TV+.jpg</thumbnail>
 <externallink>https://www.apsattv.com/xiaomi.m3u</externallink>
 <fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
 <info></info>
