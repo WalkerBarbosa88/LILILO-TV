@@ -14,12 +14,25 @@ layouttype>thumbnail</layouttype>
   
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold]CANAIS UK & USA[/COLOR][/B]</name>
-<thumbnail>https://ia902509.us.archive.org/27/items/diversos-paises/Diversos%20Paises.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/LILILO-TV/main/canais%20diversos%202</externallink>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]CANAIS TV UK[/COLOR][/B]</name>
+<thumbnail>https://ia803409.us.archive.org/16/items/bandeira-reino-unido_202102/Bandeira%20Reino%20Unido.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/LILILO-TV/main/pa%C3%ADses%20tv%20-%20UK</externallink>
 <fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
-<info>CANAIS DE TV DO REINO UNIDO E ESTADOS UNIDOS DA AMÉRICA</info>
+<info>CANAIS DE TV DO REINO UNIDO</info>
 </channel>
+
+
+
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]CANAIS TV USA[/COLOR][/B]</name>
+<thumbnail>https://ia903407.us.archive.org/20/items/bandeira-usa_202102/Bandeira%20USA.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/LILILO-TV/main/pa%C3%ADses%20tv%20-%20USA</externallink>
+<fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
+<info>CANAIS DE TV DOS ESTADOS UNIDOS DA AMÉRICA</info>
+</channel>
+
 
 
 
