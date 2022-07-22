@@ -28,11 +28,9 @@ https://00000000000
 
 
 #EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://103.125.191.32:9981/stream/channelid/1423286941?profile=cvaceplus
-#EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://103.125.191.32:9981/stream/channelid/993725042?profile=cvaceplus
-#EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://103.125.191.32:9981/stream/channelid/219947303?profile=cvaceplus
+http://85.245.237.73:8082/play/a001
+#EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://85.245.237.73:8082/play/a00e
 
 
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
