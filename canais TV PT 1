@@ -10,7 +10,7 @@ http://0.0.0.0:0000
 * LISTAS GRATUITAS IPTV ORG - https://github.com/iptv-org/iptv
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 15/07/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 25/07/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
@@ -55,8 +55,6 @@ http://w2.manasat.com:1935/ktv-ao/ktv-ao/chunklist.m3u8
 http://45.92.69.72:8000/play/a0jo
 #EXTINF:-1,[COLOR=white][B]TPA INTER.[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a0a2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Religious",[COLOR=white][B]TV ZIMBO HD[/B][/COLOR][COLOR=white][/COLOR]
-https://q-s-l4n3sh4d0w.onrender.com/iptv-query?streaming-ip=https://livestream.com/accounts/29819666/events/9254936/player
 #EXTINF:-1,[COLOR=white][B]TCV INTER.[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a040/index.m3u8
 #EXTINF:-1,[COLOR=white][B]TVM HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -147,15 +145,9 @@ https://streamer-a01.videos.sapo.pt/live/santuario/chunklist.m3u8?wowzasessionid
 #EXTINF:-1,[COLOR=white][B]EURONEWS PT HD[/B][/COLOR][COLOR=white][/COLOR]
 https://euronews.alteox.app/hls/pt_stream.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]EUROSPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95401
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]EUROSPORT 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://www.pandar.tv:25461/eJi5X0IdGX4Ib2K/uEjM6VvoxPkbTNG/95403
-
 
 ##########################################################################################################################################
-#EXTINF:-1,[COLOR=orange][B]LISTA 2 REVISTA: 15/07/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA 2 REVISTA: 25/07/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
  
 #EXTM3U
