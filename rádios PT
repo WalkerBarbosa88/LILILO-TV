@@ -21,7 +21,7 @@ http://centova.radios.pt:8401/stream
 http://centova.radios.pt:9478/; 
 #EXTINF:-1,[COLOR=white][B]NOITE FM[/B][/COLOR][COLOR=white][/COLOR]
 http://live.noite.pt:8080/;
-#EXTINF:-0,[COLOR=white][B]RÁDIO AGITA ÁGUEDA (OFFLINE)[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-0,[COLOR=white][B]RÁDIO AGITA ÁGUEDA[/B][/COLOR][COLOR=white][/COLOR]
 https://listen.radioking.com/radio/505570/stream/563098
 #EXTINF:-1,[COLOR=white][B]RÁDIO ESTAÇÃO DIÁRIA[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radio.com.pt:9430/;
