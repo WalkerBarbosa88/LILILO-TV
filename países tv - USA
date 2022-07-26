@@ -4,7 +4,7 @@ http://0.0.0.0:000000
 ######################################################################################################################################################
  
 
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 25/07/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 26/07/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #######################################################################################################################################################
  
@@ -15,9 +15,275 @@ FONTE DE INFORMAÇÃO: https://vk.com/clubslynet
  
 #EXTM3U
 
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]///////// LISTA 1 USA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
 
 
-#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
-http://00000000000000000000000
+#EXTINF:0 tvg-id="FiveUSA.uk" group-title="Channels",5 USA
+http://185.234.217.19:8012/play/a04y/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",5ACTION
+http://185.234.217.19:8012/play/a055/index.m3u8
+#EXTINF:0 tvg-id="My5.uk" group-title="Channels",5SELECT
+http://185.234.217.19:8012/play/a051/index.m3u8
+#EXTINF:0 tvg-id="5star.uk" group-title="Channels",5STAR
+http://185.234.217.19:8012/play/a050/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",5STAR+1
+http://185.234.217.19:8012/play/a052/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",5USA+1
+http://185.234.217.19:8012/play/a04z/index.m3u8
+#EXTINF:0 tvg-id="5kanal" group-title="Channels",Channel 5
+http://185.234.217.19:8012/play/a04x/index.m3u8
+#EXTINF:0 tvg-id="Channel5.uk" group-title="Channels",Channel 5 HD
+http://185.234.217.19:8012/play/a054/index.m3u8
+#EXTINF:0 tvg-id="Channel5plus1.uk" group-title="Channels",Channel 5+1
+http://185.234.217.19:8012/play/a053/index.m3u8
+#EXTINF:0 tvg-id="ITV1London.uk" group-title="Channels",ITV HD
+http://185.234.217.19:8012/play/a04u/index.m3u8
+#EXTINF:0 tvg-id="Channel4.uk" group-title="Channels",Channel 4 HD
+http://185.234.217.19:8013/play/a04u/index.m3u8
+#EXTINF:0 tvg-id="Dave.uk" group-title="Channels",Dave
+http://185.234.217.19:8016/play/a04v/index.m3u8
+#EXTINF:0 tvg-id="DaveJaVu.uk" group-title="Channels",Dave ja vu
+http://185.234.217.19:8016/play/a052/index.m3u8
+#EXTINF:0 tvg-id="Drama.uk" group-title="Channels",Drama
+http://185.234.217.19:8016/play/a04z/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Drama+1
+http://185.234.217.19:8016/play/a051/index.m3u8
+#EXTINF:0 tvg-id="Yesterday.uk" group-title="Channels",YESTERDAY
+http://185.234.217.19:8016/play/a04u/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",YESTERDAY+1
+http://185.234.217.19:8016/play/a053/index.m3u8
+#EXTINF:0 tvg-id="WABCNewYorkABCEast.us" group-title="Channels",ABC
+http://100.35.13.224:8000/play/a08l/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX 5
+http://100.35.13.224:8000/play/a075/index.m3u8
+#EXTINF:0 tvg-id="metv.il" group-title="Channels",METV
+http://100.35.13.224:8000/play/a05n/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NYTV LIFE
+http://100.35.13.224:8000/play/a05g/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",PIX11
+http://100.35.13.224:8000/play/a08o/index.m3u8
+#EXTINF:0 tvg-id="Start.tr" group-title="Channels",STARTV
+http://100.35.13.224:8000/play/a085/index.m3u8
+#EXTINF:0 tvg-id="Telemundo.mx" group-title="Channels",TELEMUNDO
+http://100.35.13.224:8000/play/a07a/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELEX
+http://100.35.13.224:8000/play/a088/index.m3u8
+#EXTINF:0 tvg-id="UniMas.us" group-title="Channels",UNIMAS
+http://100.35.13.224:8000/play/a08b/index.m3u8
+#EXTINF:0 tvg-id="UnivisionEast.us" group-title="Channels",UNIVISION
+http://100.35.13.224:8000/play/a07t/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Wnbc
+http://100.35.13.224:8000/play/a07x/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",aliento
+http://100.35.13.224:8000/play/a06d/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",wcbs
+http://100.35.13.224:8000/play/a081/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]///////// LISTA 2 USA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+#EXTINF:0 tvg-id="ext" group-title="Channels",360 North
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ATXN
+http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-b/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ATXN 2
+http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-a/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Beach TV - 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Beach TV - Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Beach TV - Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Daytona Beach TV
+http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",District of Columbia Network
+http://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",House of Representatives
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RyeTV
+http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Seattle Channel
+https://wowzaprod121-i.akamaihd.net/hls/live/266526/d2ea1f60/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVW-2
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",30A TV
+http://30a-tv.com/my999.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",30A Music
+http://30a-tv.com/music.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Adventure Sports Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AKC TV
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",America's Funniest Videos
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Darcizzle Offshore
+http://30a-tv.com/darcizzle.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+#EXTINF:0 tvg-id="EVINE.us" group-title="Channels",Evine
+https://aos01-evine.secure.footprint.net/evine/dirty/Evine_Dirty_VIDEO_1_2064000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",FailArmy
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Filmrise Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Filmrise Crime
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Folk TV
+http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Food52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",The Asylum
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",The Beach Show
+http://30a-tv.com/beachy.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",The Pet Collective
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/1280x720_5000000/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TMZ
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TWiT
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",3ABN Latino [480p]
+http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALHorreya TV [AR][1080p]
+http://media.smc-host.com:1935/alhorreya.tv/_definst_mp4:alhorreya3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Beto TV (Lifestyle)
+http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BETTER HEALTH [480p]
+http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Better Life TV
+http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BETTER NATURE [480p]
+http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Boston 25 News (Massachusetts)
+http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BUTV10 - Boston University
+http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CBS 47 Jacksonville (WJAX)
+http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CBS News [720p]
+http://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CCX Sports [1080p]
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CHANNEL 11 NEWS WPXI PITTSBURGH
+http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Comet TV (Geo)
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
+#EXTINF:0 tvg-id="ext" group-title="Channels",CORNERSTONE TV [640p]
+http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/chunklist_w1852678767_b2328000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CTNI ES | SD (US)
+http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DC COUNCIL CHANNEL [1080p]
+http://video.oct.dc.gov/out/u/15_12.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DJing [540p]
+http://www.djing.com/tv/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DJing Animation [540p]
+http://www.djing.com/tv/animation.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DJing Classic [540p]
+http://www.djing.com/tv/classics.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DJing Dance Floor [540p]
+http://djing.com/tv/dancefloor.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DJing Hits [540p]
+http://www.djing.com/tv/04.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DJing Hot Hot Hot [720p]
+http://www.djing.com/tv/buster-poindexter-his-banshees-of-blue-hot-hot-hot/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DJing Karaoke [540p]
+https://www.djing.com/tv/karaoke.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DJing Underground [540p]
+http://www.djing.com/tv/underground.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Folk TV (New!)
+http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox 28 Savannah (WTGS)
+http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Glendale 11
+https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globesville - New York Institute of Technology
+http://live-h1.frontlayer.net/fl592468/live/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",GOOD LIFE 45 | SD (US)
+http://1-fss29-s0.streamhoster.com/lv_goodlife45f1/_definst_/broadcast1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",JRES TV ES | SD
+http://teleredmcp.com:1935/jrestv/jrestv/chunklist_w1193494329.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",KIRO 7 News (Seattle)
+http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",KIRO 7 NEWS SEATTLE
+http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",KOMO 4 NEWS SEATTLE
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Leominster TV Educational
+http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",LEOMINSTER TV EDUCATIONAL [720p]
+http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Leominster TV Government
+http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",LEOMINSTER TV GOVERNMENT [720p]
+http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Leominster TV Public
+http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",LEOMINSTER TV PUBLIC [720p]
+http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",LIFEVISION TV | SD (US)
+http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",News Center 7 (Ohio)
+http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NEWS CENTER 7 OHIO
+http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_288.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NEWSMAXTV (US)
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NEWSY
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NRB NETWORK | SD (US)
+http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NWCT 12 (Minnesota)
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",PATV
+http://47.23.7.30:8080/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SUBRANG TV
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TeleBoston TV
+http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
+#EXTINF:0 tvg-id="TheShoppingChannel.ca" group-title="Channels",The Shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV BATON ROUGE
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",USA
+https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",WBRZ-TV (Baton Rouge)
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8?fluxustv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",WHDH 7 Boston
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",White Plains Community Media
+http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8
+
+
+
+
 
 
