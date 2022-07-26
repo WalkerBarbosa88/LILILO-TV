@@ -11,7 +11,13 @@ http://0.0.0.0:000000
 FONTE DE INFORMAÇÃO: https://vk.com/clubslynet
                      https://www.global-satinfo.in/viewforum.php?f=22
                      https://m3u.cl/lista-iptv-espana.php
- 
+
+#EXTM3U
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]///////// LISTA 1 UK /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
 #EXTM3U
 
 
@@ -115,3 +121,447 @@ http://87.212.248.44:60130/play/a089
 http://87.212.248.44:60130/play/a05x
 #EXTINF:0 tvg-id="TinyPop.uk" group-title="Channels",TINY POP
 http://87.212.248.44:60130/play/a08c
+
+#EXTM3U
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]///////// LISTA 2 UK /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+
+#EXTM3U
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",ATN
+http://87.212.248.44:60230/play/a05g/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",AWE Plus | EUA
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastaweplus/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ayozat TV
+http://87.212.248.44:60230/play/a07u/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",B4U MOVIES (UK)
+http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="BBCNews.nws" group-title="Channels",BBC NEWS
+http://45.153.35.210:8000/play/UK_bbc_news_sd/index.m3u8
+#EXTINF:0 tvg-id="BBCNews.nws" group-title="Channels",BBC NEWS
+http://87.212.248.44:60230/play/a04n/index.m3u8
+#EXTINF:0 tvg-id="BBC1EastMidlands.uk" group-title="Channels",BBC One E Mid
+http://87.212.248.44:60230/play/a04e/index.m3u8
+#EXTINF:0 tvg-id="BBC1East.uk" group-title="Channels",BBC One East E
+http://87.212.248.44:60230/play/a04f/index.m3u8
+#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="Channels",BBC One HD
+http://87.212.248.44:60130/play/a05n
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBC One Lon
+http://45.153.35.210:8000/play/UK_bbc_1_sd/index.m3u8
+#EXTINF:0 tvg-id="BBC1NorthernIreland.uk" group-title="Channels",BBC One NI
+http://87.212.248.44:60230/play/a06z/index.m3u8
+#EXTINF:0 tvg-id="BBC1NorthernIreland.uk" group-title="Channels",BBC One NI HD
+http://87.212.248.44:60130/play/a05o
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBC One Oxford
+http://87.212.248.44:60230/play/a04m/index.m3u8
+#EXTINF:0 tvg-id="BBC1SouthWest.uk" group-title="Channels",BBC One S West
+http://87.212.248.44:60230/play/a04l/index.m3u8
+#EXTINF:0 tvg-id="BBC1South.uk" group-title="Channels",BBC One South
+http://87.212.248.44:60230/play/a04k/index.m3u8
+#EXTINF:0 tvg-id="BBC1Wales.uk" group-title="Channels",BBC One W Mid
+http://87.212.248.44:60230/play/a04c/index.m3u8
+#EXTINF:0 tvg-id="BBC1Wales.uk" group-title="Channels",BBC One Wales
+http://87.212.248.44:60230/play/a04h/index.m3u8
+#EXTINF:0 tvg-id="BBC1Yorkshire.uk" group-title="Channels",BBC One Yk&Li
+http://87.212.248.44:60230/play/a04d/index.m3u8
+#EXTINF:0 tvg-id="BBCParliament.uk" group-title="Channels",BBC Parliament
+http://87.212.248.44:60230/play/a04g/index.m3u8
+#EXTINF:0 tvg-id="BBC2.uk" group-title="Channels",BBC Two
+http://45.153.35.210:8000/play/UK_bbc_2_sd/index.m3u8
+#EXTINF:0 tvg-id="BBC2.uk" group-title="Channels",BBC Two HD
+http://87.212.248.44:60130/play/a05q
+#EXTINF:0 tvg-id="BBC2NorthernIreland.uk" group-title="Channels",BBC Two NI
+http://87.212.248.44:60230/play/a070/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBC Two Wal HD
+http://87.212.248.44:60130/play/a05l
+#EXTINF:0 tvg-id="BBC2Wales.uk" group-title="Channels",BBC Two Wales
+http://87.212.248.44:60230/play/a04i/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEACHY (UK)
+http://30a-tv.com/beachy.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bloody Disgusting | EUA
+https://bloodydisgusting-tcl.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="BloombergTVHD.us" group-title="Channels",Bloomberg HD
+http://87.212.248.44:60130/play/a04k
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bloomberg+ 4K
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Box Hits (576p)
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+#EXTINF:0 tvg-id="ext" group-title="Channels",Brit Asia Live (US Eastern)
+https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0500/c.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Brit Asia Live (US Pacific)
+https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/c.m3u8
+#EXTINF:0 tvg-id="BritAsiaTV.uk" group-title="Channels",Brit Asia TV
+https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",British Muslim TV (576p)
+https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:0 tvg-id="CBBC.uk" group-title="Channels",CBBC
+http://ott.riotelecomm.es:4513/m3u8/CBBCHDFIBRA.m3u8
+#EXTINF:0 tvg-id="CBSDrama.ru" group-title="Channels",CBS Drama
+http://87.212.248.44:60230/play/a04u/index.m3u8
+#EXTINF:0 tvg-id="CBSAction.uk" group-title="Channels",CBS Justice
+http://87.212.248.44:60230/play/a04y/index.m3u8
+#EXTINF:0 tvg-id="CBSReality.ru" group-title="Channels",CBS Reality
+http://87.212.248.44:60230/play/a051/index.m3u8
+#EXTINF:0 tvg-id="CBSReality1.uk" group-title="Channels",CBS Reality+1
+http://87.212.248.44:60230/play/a077/index.m3u8
+#EXTINF:0 tvg-id="Channel4.uk" group-title="Channels",Channel 4 HD
+http://87.212.248.44:60230/play/a04s/index.m3u8
+#EXTINF:0 tvg-id="5kanal" group-title="Channels",Channel 5
+http://45.153.35.210:8000/play/a00l/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Channel S (US Eastern)
+https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0500/c.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Channel S (US Pacific)
+https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0800/c.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Charge! | EUA
+https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:0 tvg-id="ClubbingTV.pt" group-title="Channels",Clubbing TV (720p)
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Combat Go | EUA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=671
+#EXTINF:0 tvg-id="ext" group-title="Channels",DAYSTAR HD
+http://87.212.248.44:60130/play/a04i
+#EXTINF:0 tvg-id="DiscoveryShed.uk" group-title="Channels",Discovery Shed
+http://87.212.248.44:60130/play/a04w
+#EXTINF:0 tvg-id="ext" group-title="Channels",Electric Now | EUA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=70&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=5f170d61b898490041b49360&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=5f170d61b898490041b49360
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eman Channel (576p)
+https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESTV | EUA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=461&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=603da0d5d4e466002cdda4d1&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=603da0d5d4e466002cdda4d1
+#EXTINF:0 tvg-id="ext" group-title="Channels",ETV5
+http://87.212.248.44:60230/play/a04j/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ETV6
+http://87.212.248.44:60230/play/a04o/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fight Network | EUA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=778&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=606605549dbfca002d2ae877&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=606605549dbfca002d2ae877
+#EXTINF:0 tvg-id="france24" group-title="Channels",FRANCE 24 HD
+http://87.212.248.44:60130/play/a08r
+#EXTINF:0 tvg-id="ext" group-title="Channels",FreeSports HD
+http://87.212.248.44:60130/play/a06k
+#EXTINF:0 tvg-id="ext" group-title="Channels",FTF For the fans (720p)
+https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",GB News (1080p)
+https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
+#EXTINF:0 tvg-id="GBNews.uk" group-title="Channels",GB News HD
+http://87.212.248.44:60130/play/a091
+#EXTINF:0 tvg-id="ext" group-title="Channels",Gemporia (Opt-2)
+http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Glewed TV
+https://e54c4fcc08f14de7bc1094ca25cb9d29.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GlewedTV/playlist.m3u8?ads.wurl_channel=495&ads.wurl_name=GlewedTV&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=5eea605474085f0040ddc76d&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:0 tvg-id="ext" group-title="Channels",GOOD NEWS TV (UK)
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-goodnewstv-SD/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",GREAT! action
+http://87.212.248.44:60130/play/a08t
+#EXTINF:0 tvg-id="ext" group-title="Channels",GREAT! class+1
+http://87.212.248.44:60130/play/a08w
+#EXTINF:0 tvg-id="ext" group-title="Channels",GREAT! classic
+http://87.212.248.44:60130/play/a08v
+#EXTINF:0 tvg-id="ext" group-title="Channels",GREAT! movies
+http://87.212.248.44:60130/play/a08u
+#EXTINF:0 tvg-id="ext" group-title="Channels",GREAT! movies+1
+http://87.212.248.44:60130/play/a08x
+#EXTINF:0 tvg-id="ext" group-title="Channels",GREAT! tv
+http://87.212.248.44:60130/play/a08z
+#EXTINF:0 tvg-id="ext" group-title="Channels",GREAT! tv+1
+http://87.212.248.44:60130/play/a090
+#EXTINF:0 tvg-id="ext" group-title="Channels",GREAT!action+1
+http://87.212.248.44:60130/play/a08y
+#EXTINF:0 tvg-id="ext" group-title="Channels",Gusto tv [localnow]
+https://linear-139.frequency.stream/dist/localnow/139/hls/master/playlist_1920x1080.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",GustoTV
+https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="Hi-ImpactTV.uk" group-title="Channels",Hi-Impact TV
+http://87.212.248.44:60230/play/a05t/index.m3u8
+#EXTINF:0 tvg-id="HomeandHealth.uk" group-title="Channels",Home & Health
+http://87.212.248.44:60130/play/a04s
+#EXTINF:0 tvg-id="ext" group-title="Channels",horror ch+1
+http://87.212.248.44:60230/play/a078/index.m3u8
+#EXTINF:0 tvg-id="HorrorChannel.uk" group-title="Channels",horror channel
+http://87.212.248.44:60230/play/a04w/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Horse & Country TV (1080p)
+https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
+#EXTINF:0 tvg-id="HorseAndCountry.uk" group-title="Channels",Horse and Country (720p)
+https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="insight-tv-hd" group-title="Channels",Insight (720p)
+https://insighttv-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Inwonder (720p)
+https://inwonder-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="iONTV.uk" group-title="Channels",iON TV
+http://87.212.248.44:60230/play/a05s/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Iqra TV (576p)
+https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Iran International (1080p)
+https://live.playstop.me/1816184091/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ireland Parliament (Committee Room 1) (720p)
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr1/hls_1280x720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ireland Parliament (Committee Room 2) (720p)
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr2/hls_1280x720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ireland Parliament (Committee Room 3) (720p)
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr3/hls_1280x720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ireland Parliament (Committee Room 4) (720p)
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr4/hls_1280x720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ireland Parliament (Dail Eireann) (720p)
+https://d33zah5htxvoxb.cloudfront.net/el/live/dail/hls_1280x720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ireland Parliament (Seanad Eireann) (720p)
+https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls_1280x720.m3u8
+#EXTINF:0 tvg-id="impact" group-title="Channels",ITV
+http://87.212.248.44:60130/play/a07d
+#EXTINF:0 tvg-id="ext" group-title="Channels",ITV 1 Anglia West HD
+http://87.212.248.44:60230/play/a073/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ITV 1 Central East HD
+http://87.212.248.44:60230/play/a074/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ITV 1 Granada +1
+http://87.212.248.44:60130/play/a07f
+#EXTINF:0 tvg-id="ext" group-title="Channels",ITV 1 Meridian North HD
+http://87.212.248.44:60230/play/a072/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ITV 1 Meridian South HD
+http://87.212.248.44:60230/play/a071/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ITV Anglia West
+http://87.212.248.44:60130/play/a08n
+#EXTINF:0 tvg-id="ext" group-title="Channels",ITV Central East
+http://87.212.248.44:60130/play/a08o
+#EXTINF:0 tvg-id="ext" group-title="Channels",ITV Central West
+http://87.212.248.44:60130/play/a08p
+#EXTINF:0 tvg-id="ITV1London.uk" group-title="Channels",ITV HD
+http://87.212.248.44:60230/play/a06u/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ITV Meridian South Coast
+http://87.212.248.44:60130/play/a08k
+#EXTINF:0 tvg-id="ext" group-title="Channels",ITV Meridian Thames Valley
+http://87.212.248.44:60130/play/a08j
+#EXTINF:0 tvg-id="ITV1Yorkshire.uk" group-title="Channels",ITV Yorkshire West
+http://87.212.248.44:60130/play/a08l
+#EXTINF:0 tvg-id="ITV2.uk" group-title="Channels",ITV2
+http://87.212.248.44:60130/play/a095
+#EXTINF:0 tvg-id="ITV3.uk" group-title="Channels",ITV3
+http://ott.riotelecomm.es:4513/m3u8/ITV3FIBRA.m3u8
+#EXTINF:0 tvg-id="ITV3plus1.uk" group-title="Channels",ITV3+1
+http://87.212.248.44:60130/play/a074
+#EXTINF:0 tvg-id="ITV4.uk" group-title="Channels",ITV4
+http://ott.riotelecomm.es:4513/m3u8/ITV4FIBRA.m3u8
+#EXTINF:0 tvg-id="ITVBe.uk" group-title="Channels",ITVBe
+http://87.212.248.44:60130/play/a08q
+#EXTINF:0 tvg-id="ext" group-title="Channels",Jewelery Maker (720p)
+https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Johnny Carson TV | EUA
+https://johnnycarson-zype.amagi.tv/playlistR288p.m3u8
+#EXTINF:0 tvg-id="KICCTV.uk" group-title="Channels",KICC TV
+http://87.212.248.44:60230/play/a05l/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",LEGO Channel | EUA
+https://d34enhfsgjw5ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LEGO2-prod/mhls?appId=2&feedId=1120-v56&auth-token=1213111&version=sv7.0&deviceId=SDF543&deviceFwVer=4.99?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&coppa=1
+#EXTINF:0 tvg-id="ext" group-title="Channels",Love Nature | EUA
+https://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Loveworld TV (1080p) [Not 24/7]
+https://cdn.lwuk.live/live/smil:lwukweb.smil/HasBahCa.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Loveworld TV (1080p) [Not 24/7]
+https://cdn.lwuk.live/live/smil:lwukweb.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Magna Vision (1080p) [Not 24/7]
+https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Maverick Black Cinema do Plex | EUA
+https://bad6f547d5364da0b2fe3080c5a48068.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MaverickBlackCinema/playlist.m3u8?ads.wurl_channel=527&ads.wurl_name=MaverickBlackCinema&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=5ef4e1b40d9ad000423c4430&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:0 tvg-id="ext" group-title="Channels",More U - yoga e meditação | EUA
+https://133a0f79750743b7bd41950eaec76dc1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MoreU/playlist.m3u8?ads.wurl_channel=881&ads.wurl_name=MoreU&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=vB1fQVteisRvSpyJtSgH&ads.plex_id=6112a9139894c8002c6cb87f&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:0 tvg-id="ext" group-title="Channels",Movie Sphere [Pluto]
+https://moviesphereuk-samsunguk.amagi.tv/playlist1080p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",n TV (US Eastern)
+https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0500/c.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NHK Worldᴴᴰ
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NICK (UK)
+https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NICK JR (UK)
+https://siloh.pluto.tv/lilo/production/Nick/04/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NICK JR DORA TV (UK)
+https://siloh.pluto.tv/lilo/production/Nick/03/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NICK TOTALLY TURTLES (UK)
+https://siloh.pluto.tv/lilo/production/Nick/02/master.m3u8
+#EXTINF:0 tvg-id="OireachtasTV.uk" group-title="Channels",Oireachtas TV (720p)
+https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls_1280x720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",PBS.39 (UK)
+http://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",pocket.watch do Plex | EUA
+https://f3445d6b0acf47dab6af7097fc57ce6d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_PocketWatch/playlist.m3u8?ads.wurl_channel=272&ads.wurl_name=PocketWatch&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=5f91c4ea96a391002df9a661&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.coppa=1&ads.device_type=handset&ads.device_id_type=
+#EXTINF:0 tvg-id="pop.uk" group-title="Channels",POP
+http://45.153.35.210:8000/play/UK_pop_sd/index.m3u8
+#EXTINF:0 tvg-id="pop.uk" group-title="Channels",POP
+http://87.212.248.44:60130/play/a05y
+#EXTINF:0 tvg-id="ext" group-title="Channels",POP Max
+http://45.153.35.210:8000/play/UK_pop_max_sd/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",POP Max
+http://87.212.248.44:60130/play/a05z
+#EXTINF:0 tvg-id="ext" group-title="Channels",POP Max+1
+http://87.212.248.44:60130/play/a08e
+#EXTINF:0 tvg-id="ext" group-title="Channels",POP+1
+http://87.212.248.44:60130/play/a08g
+#EXTINF:0 tvg-id="ext" group-title="Channels",QUEST HD
+http://87.212.248.44:60130/play/a06l
+#EXTINF:0 tvg-id="ext" group-title="Channels",QVC +1
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
+#EXTINF:0 tvg-id="QVC.uk" group-title="Channels",QVC UK
+https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",QVC UK (540p)
+https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Real Stories (720p)
+https://realstories-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Record TV HD
+http://87.212.248.44:60130/play/a04j
+#EXTINF:0 tvg-id="ext" group-title="Channels",RetroCrush | EUA
+https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.wurl_channel=491&ads.wurl_name=RetroCrush&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rugby Men's Sevens (288p)
+https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rugby Women's Sevens (288p)
+https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rugby World TV (720p)
+https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
+#EXTINF:0 tvg-id="S4C.uk" group-title="Channels",S4C
+http://87.212.248.44:60230/play/a053/index.m3u8
+#EXTINF:0 tvg-id="S4C.uk" group-title="Channels",S4C HD
+http://87.212.248.44:60130/play/a06i
+#EXTINF:0 tvg-id="ext" group-title="Channels",Samsung Wild Life | EUA
+https://d1vp12yk4i8ou5.cloudfront.net/playlist.m3u8
+#EXTINF:0 tvg-id="Showcase.uk" group-title="Channels",Showcase
+http://87.212.248.44:60230/play/a05q/index.m3u8
+#EXTINF:0 tvg-id="Showcase.uk" group-title="Channels",Showcase
+http://87.212.248.44:60230/play/a07k/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sofy TV (720p)
+https://sofytv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="SonyAction.uk" group-title="Channels",Sony Action
+http://87.212.248.44:60130/play/a05u
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sony Action+1
+http://87.212.248.44:60130/play/a08f
+#EXTINF:0 tvg-id="set" group-title="Channels",Sony Channel
+http://87.212.248.44:60130/play/a060
+#EXTINF:0 tvg-id="SonyChannelPlus1.uk" group-title="Channels",Sony Channel+1
+http://87.212.248.44:60130/play/a08h
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sony Christmas
+http://87.212.248.44:60130/play/a06z
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sony Classic
+http://87.212.248.44:60130/play/a05w
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sony Classic+1
+http://87.212.248.44:60130/play/a08b
+#EXTINF:0 tvg-id="SonyMovies.uk" group-title="Channels",Sony Movies
+http://87.212.248.44:60130/play/a05v
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sony Movies+1
+http://87.212.248.44:60130/play/a08d
+#EXTINF:0 tvg-id="ext" group-title="Channels",Spark Tv (720p)
+https://sparktv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="SportyStuff.uk" group-title="Channels",SportyStuff HD
+http://87.212.248.44:60230/play/a07s/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPOT LIGHT (UK)
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
+#EXTINF:0 tvg-id="bulvar-tv" group-title="Channels",STV
+http://87.212.248.44:60130/play/a06a
+#EXTINF:0 tvg-id="ext" group-title="Channels",STV Central East
+http://87.212.248.44:60130/play/a07i
+#EXTINF:0 tvg-id="ext" group-title="Channels",STV Central West
+http://87.212.248.44:60130/play/a07h
+#EXTINF:0 tvg-id="STVNorth.uk" group-title="Channels",STV North
+http://87.212.248.44:60130/play/a07g
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tankee | EUA
+https://72c5b87587c545558c3170ab55de2915.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Tankee/playlist.m3u8?ads.wurl_channel=503&ads.wurl_name=Tankee&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=5efe1de5e0b3f5003f5d9f7f&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tennis Channel (UK) (720p)
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",The Box UK (576p)
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+#EXTINF:0 tvg-id="ext" group-title="Channels",The Carol Burnett Show | EUA
+https://thecarolburnettshow-zype.amagi.tv/playlist1080p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",The Design Network do Plex | EUA
+https://9215cc5c363c4ed297905b3ca9195080.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_TheDesignNetwork-2/playlist.m3u8?ads.wurl_channel=553&ads.wurl_name=TheDesignNetwork&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=zhVJhkYiviQfYuzKS--y&ads.plex_id=5f0641d3e8ffda004033b16e&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:0 tvg-id="ext" group-title="Channels",The Monarch Channel (720p)
+https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/c.m3u8
+#EXTINF:0 tvg-id="TennisChannel.us" group-title="Channels",The Tennis Channel (720p)
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Time Line (720p)
+https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TimeLineᴴᴰ [Pluto]
+https://lds-timeline-samsungau.amagi.tv/playlist720-p.m3u8
+#EXTINF:0 tvg-id="TinyPop.uk" group-title="Channels",Tiny Pop
+http://45.153.35.210:8000/play/UK_tiny_pop_sd/index.m3u8
+#EXTINF:0 tvg-id="TinyPop.uk" group-title="Channels",Tiny Pop
+http://87.212.248.44:60130/play/a05x
+#EXTINF:0 tvg-id="tinypop1.uk" group-title="Channels",Tiny Pop+1
+http://87.212.248.44:60130/play/a08c
+#EXTINF:0 tvg-id="ext" group-title="Channels",TJC (1080p)
+https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TJC HD
+http://87.212.248.44:60130/play/a08s
+#EXTINF:0 tvg-id="ext" group-title="Channels",Trace Hits
+http://45.153.35.210:8000/play/a014/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Trace Hits
+http://87.212.248.44:60230/play/a075/index.m3u8
+#EXTINF:0 tvg-id="TraceVault.uk" group-title="Channels",Trace Vault
+http://45.153.35.210:8000/play/a017/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRT Worldᴴᴰ
+https://tv-trtworld.live.trt.com.tr/master_720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",US Weekly | EUA
+https://5e075c7a96014ebb9326fe748ea748ce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_USWeeklyTV/playlist.m3u8?ads.wurl_channel=836&ads.wurl_name=USWeeklyTV&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=AXowwV4PZ7mDzhmMsHmH&ads.plex_id=60a9d105d162b9002d05a60e&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:0 tvg-id="ext" group-title="Channels",V2BEAT (720p) [Not 24/7]
+https://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",V2BEAT (UK)
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",WFC.TV (UK)
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",WFTV 9 | EUA
+https://d3qm7vzp07vxse.cloudfront.net/v1/manifest/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10070_fe1f5f6c-cd0b-4993-a4a4-6db66be4f313_LE/a58ec8fd-0a59-4547-95cf-104501e90fcd/1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Wonder (720p)
+https://wonder-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="WordNetwork.uk" group-title="Channels",Word Network
+http://87.212.248.44:60230/play/a05n/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",YAHOO (UK)
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ZEE TV (UK)
+http://144.217.70.181:9587/hin2/ZEETVUK/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",No name
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d2c560e8d97ff74848c697d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:0 tvg-id="ext" group-title="Channels",5 Cops
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d9f6e738977e2c3109db/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:0 tvg-id="ext" group-title="Channels",5 GP's: Behind Closed Doors
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc2c5299c91420009db4872/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:0 tvg-id="ext" group-title="Channels",AbsintheTV
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/edcf9a03-80c0-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=GB&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:0 tvg-id="ext" group-title="Channels",Action Movies - Rakuten TV
+https://2d7cfb08307343bd98a8e403813df2f1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_RakutenActionMovies/playlist.m3u8?ads.wurl_channel=423&ads.wurl_name=RakutenActionMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 tvg-id="ext" group-title="Channels",Are We There Yet?
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyet-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Channels",Baywatch
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-baywatch-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.tc_string=%7BTC_STRING%7D
+#EXTINF:0 tvg-id="ext" group-title="Channels",Beano TV
+https://a7b60a6853d843dd9105acfa8d6e74c7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_BeanoTV/playlist.m3u8?ads.wurl_channel=642&ads.wurl_name=BeanoTV&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bigtime
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/f5f1267f-b250-11eb-a7de-bacfe1f83627/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=GB&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:0 tvg-id="ext" group-title="Channels",BITE
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01478-parademediagrou-bite-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bloomberg TV+
+https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8?ads.wurl_channel=389&ads.wurl_name=Bloomberg&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 tvg-id="ext" group-title="Channels",Choppertown
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_uk_choppertown_001.m3u8?ads.caid=Choppertown&ads.csid=samsungtvplus_uk_choppertown_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_h_x_country=GB&ads._fw_gdpr=1&ads._fw_gdpr_consent=%7BTC_STRING%7D&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=289&ads.xumo_contentName=Choppertown&ads.xumo_providerId=289&ads.xumo_providerName=Choppertown&ads.xumo_channelId=9992400&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+#EXTINF:0 tvg-id="ClubbingTV.pt" group-title="Channels",Clubbing TV
+https://dxzxd6q1e7dy5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClubbingTV-GB-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 tvg-id="cnn" group-title="Channels",CNN
+https://105fd593241e4b2ba605a00dabebfe86.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_CNN/playlist.m3u8?ads.wurl_channel=662&ads.wurl_name=CNN&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 tvg-id="ext" group-title="Channels",Comedy Dynamics
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:0 tvg-id="ext" group-title="Channels",Comedy Hub
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-uksono1-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.tc_string=%7BTC_STRING%7D
+#EXTINF:0 tvg-id="ext" group-title="Channels",Comedy Movies - Rakuten TV
+https://c4fb99c179894a838dcece2937e908b7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel=424&ads.wurl_name=RakutenComedyMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 tvg-id="ext" group-title="Channels",Comedy Twisted Mirror
+https://37fd1303e1b741bb990c3cfac5bbe36c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_ComedyTwistedMirror/playlist.m3u8?ads.wurl_channel=923&ads.wurl_name=ComedyTwistedMirror&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 tvg-id="ext" group-title="Channels",Deal or No Deal US
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-dealornodeal-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+#EXTINF:0 tvg-id="DeLuxeMusic.de" group-title="Channels",Deluxe Lounge HD
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/abb4746a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=GB&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
+#EXTINF:0 tvg-id="ext" group-title="Channels",discover.film
+https://33e805253f2141d7b493982e8f629523.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_DiscoverFilm/playlist.m3u8?ads.wurl_channel=580&ads.wurl_name=DiscoverFilm&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 tvg-id="ext" group-title="Channels",Drama Movies - Rakuten TV
+https://5462283e44cd428abcbb5a468c678e99.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_RakutenTVShows/playlist.m3u8?ads.wurl_channel=425&ads.wurl_name=RakutenTVShows&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
+#EXTINF:0 tvg-id="ext" group-title="Channels",EDGEsport
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-edgesportusa-samsungtv-uk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+
+
+
+
+
