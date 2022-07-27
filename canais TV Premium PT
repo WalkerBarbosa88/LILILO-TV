@@ -59,6 +59,8 @@ http://93.152.174.144:4000/play/a00f/index.m3u8
 http://93.152.174.144:4000/play/sporttv1/index.m3u8
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",[COLOR=white][B]SPORT TV 1 PT[/B][/COLOR][COLOR=white][/COLOR]
 http://93.152.174.144:4000/play/sporttv1/index.m3u8 
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://85.245.237.73:8082/play/a001
 
 #EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a05o/index.m3u8
@@ -80,6 +82,8 @@ http://45.92.69.77:8000/play/a05q/index.m3u8
 http://45.92.69.77:8000/play/a05q/index.m3u8
 #EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a05q/index.m3u8
+#EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://85.245.237.73:8082/play/a00e
 
 #EXTINF:-1,[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a05r/index.m3u8
@@ -95,6 +99,7 @@ http://45.92.69.77:8000/play/a05h/index.m3u8
 http://45.92.69.77:8000/play/a05h/index.m3u8
 #EXTINF:-1,[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a05h/index.m3u8
+
 
 #EXTM3U
 
