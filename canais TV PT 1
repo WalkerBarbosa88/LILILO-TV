@@ -239,6 +239,8 @@ http://45.92.69.72:8000/play/a0jo
 http://45.92.69.72:8000/play/a0ge
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CANAL 11 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a03w
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CANAL 11 PT[/B][/COLOR][COLOR=white][/COLOR]
+https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index_2.m3u8
 #EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",[COLOR=white][B]SPORT TV+[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0j1
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
