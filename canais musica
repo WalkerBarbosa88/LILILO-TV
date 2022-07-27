@@ -67,6 +67,9 @@ https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]POWER+ HD[/B][/COLOR][COLOR=white][/COLOR]
 http://livetv.powerapp.com.tr/pplustv/pplustv.smil/chunklist_b2628000_sltur.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]POWER DANCE HD[/B][/COLOR][COLOR=white][/COLOR]
+http://livetv.powerapp.com.tr/dance/dance.smil/chunklist_b2628000_sltur.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]RADIO M2O HD[/B][/COLOR][COLOR=white][/COLOR]
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b2816000.m3u8
 
