@@ -27,16 +27,9 @@ https://00000000000
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
+#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
+http://0000000000000000000000000000000000000000000000
+
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS SPORT TV PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -60,6 +53,12 @@ http://45.92.69.77:8000/play/a05w/index.m3u8
 http://45.92.69.77:8000/play/a05w/index.m3u8
 #EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://93.152.174.144:4000/play/sporttv1/index.m3u8
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",[COLOR=white][B]SPORT TV 1 PT[/B][/COLOR][COLOR=white][/COLOR]
+http://93.152.174.144:4000/play/a00f/index.m3u8
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",[COLOR=white][B]SPORT TV 1 PT[/B][/COLOR][COLOR=white][/COLOR]
+http://93.152.174.144:4000/play/sporttv1/index.m3u8
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",[COLOR=white][B]SPORT TV 1 PT[/B][/COLOR][COLOR=white][/COLOR]
+http://93.152.174.144:4000/play/sporttv1/index.m3u8 
 
 #EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a05o/index.m3u8
@@ -166,21 +165,31 @@ https://000000
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://45.92.69.77:8000/play/a00d/index.m3u8
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://45.92.69.77:8000/play/a00h/index.m3u8
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://45.92.69.77:8000/play/a00h/index.m3u8
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
 
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://45.92.69.77:8000/play/a00c/index.m3u8
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
+
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
 
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://45.92.69.77:8000/play/a00a/index.m3u8
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://45.92.69.77:8000/play/a00b/index.m3u8
-
 
 #EXTM3U
 
