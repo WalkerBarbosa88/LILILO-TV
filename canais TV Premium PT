@@ -26,41 +26,43 @@ https://00000000000
 
 #EXTM3U
 
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",PT: SPORT TV +
+#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://cdnrede.com:80/sophia/sophia/207166
+#EXTINF:-1,[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
 http://cdnrede.com:80/sophia/sophia/207263
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",PT: SPORT TV 1
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://cdnrede.com:80/sophia/sophia/207264
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2
+#EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://cdnrede.com:80/sophia/sophia/207265
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3
+#EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://cdnrede.com:80/sophia/sophia/207266
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4
+#EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://cdnrede.com:80/sophia/sophia/207267
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT: SPORT TV 5
+#EXTINF:-1,[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://cdnrede.com:80/sophia/sophia/207268
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 6
+#EXTINF:-1,[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://cdnrede.com:80/sophia/sophia/207210
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV NBA
+#EXTINF:-1,[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://cdnrede.com:80/sophia/sophia/207269
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 1
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://cdnrede.com:80/sophia/sophia/207189
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 2
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://cdnrede.com:80/sophia/sophia/207190
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 3
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://cdnrede.com:80/sophia/sophia/207191
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 4
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://cdnrede.com:80/sophia/sophia/207192
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 5
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://cdnrede.com:80/sophia/sophia/207193
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 6
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://cdnrede.com:80/sophia/sophia/207194
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE ACTION
+#EXTINF:-1,[COLOR=white][B]TVCINE ACTION HD[/B][/COLOR][COLOR=white][/COLOR]
 http://cdnrede.com:80/sophia/sophia/207285
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE EDITION
+#EXTINF:-1,[COLOR=white][B]TVCINE EDITION HD[/B][/COLOR][COLOR=white][/COLOR]
 http://cdnrede.com:80/sophia/sophia/207286
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE EMOTION
+#EXTINF:-1,[COLOR=white][B]TVCINE EMOTION HD[/B][/COLOR][COLOR=white][/COLOR]
 http://cdnrede.com:80/sophia/sophia/207287
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE TOP
+#EXTINF:-1,[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
 http://cdnrede.com:80/sophia/sophia/207288
 
 ####################################################################################################################################
