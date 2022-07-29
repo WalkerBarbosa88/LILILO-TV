@@ -3,7 +3,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 10/07/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 29/07/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
 #########################################################################################################################################################################
  
@@ -213,104 +213,17 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609501978
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1c669094e0e80009b22ab8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e1c669094e0e80009b22ab8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=886c7aee-0585-11eb-8b9f-0242ac110002&terminate=false&userId=
 
 
-
-
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  LISTA - 10 DE JULHO 2022  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  BREVEMENTE NOVA LISTA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Baby First
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/998
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Baby TV (MOVIL)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/65052
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Baby TV SD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1793
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Baby TV HD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/234174
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Boomerang (MX)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7353
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Boomerang Full HD (MX)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7352
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Chu Chu TV
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/126042
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Cartoon Network (MOVIL)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/65067
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Cartoon Network (CO)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1789
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Cartoon Network HD (CO)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1783
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Cartoon Network SD (MX)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/994
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Cartoon Network HD (MX)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7345
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Cartoon Network Full HD (ARG)(Dual Audio)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/26399
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Disney Junior (MOVIL)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/65091
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Disney Junior (MX)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7347
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Disney Junior Full HD (MX)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7356
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Disney Channel (MOVIL)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/65090
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Disney Channel (CO)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1791
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Disney Channel Full HD (CO)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1781
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Disney Channel SD (MX)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7349
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Disney Channel HD (MX)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7348
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Disney Channel
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/26427
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Disney Channel FHD (ARG)(Dual Audio)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/26391
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Discovery Kids (CO)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1790
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Discovery Kids HD (MX)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1782
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Nat Geo Kids (MX)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1795
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Nat Geo Kids (CO)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1784
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Nickelodeon HD (MX)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7359
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Nickelodeon SD (Dual Audio)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1788
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Nickelodeon SD (MX)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1780
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Nick Jr (MOVIL)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/65799
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Nick Jr
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1787
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Nick Jr SD (ARG)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/115726
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Nick Jr HD (ARG)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/115727
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Nick Jr FHD (ARG)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/115728
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: TeenNick
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1786
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: TeenNick Full HD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/1777
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Nick Toons (MX)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7360
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Tooncast
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/7363
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Tooncast (MOVIL)
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/65796
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Mora Kid
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/80920
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Happy Halloween Kids HD
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/80923
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Semillitas
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/114132
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Ultra Familia
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/126040
-#EXTINF:0 tvg-id="ext" group-title="Channels",Infantil: Ultra Kids
-http://titanlivetv.com:8080/8cEW8XH37tDT/GP4qLxWhcCkd/126041
+#EXTINF:0 tvg-id="ext" group-title="Channels",NÃO DISPONÍVEL
+http://0000000000000000000000000000
+
+
+
 
 
