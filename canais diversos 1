@@ -142,6 +142,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc1cb279c91420009
 
 #EXTINF:-1,[COLOR=white][B]DISCOVERY HOME & HEALTH HD[/B][/COLOR][COLOR=white][/COLOR]
 http://pfsv.io:80/07720253/51853/183
+#EXTINF:-1,[COLOR=white][B]DISCOVERY HOME & HEALTH HD[/B][/COLOR][COLOR=white][/COLOR]
+http://8.242.179.178:58002/play/a04r/index.m3u8
+#EXTINF:-1,[COLOR=white][B]DISCOVERY HOME & HEALTH HD[/B][/COLOR][COLOR=white][/COLOR]
+http://8.242.179.178:58002/play/a03v/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]HGTV BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://api.magiaiptv.com/live/800364/107211/m4_BHUM6pXTobkuiDgt5mZh1d3Q_720p
