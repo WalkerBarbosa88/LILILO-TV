@@ -115,6 +115,11 @@ http://45.92.69.72:8001/play/a041
 http://45.92.69.72:8001/play/a032
 #EXTINF:-1,[COLOR=white][B]FOX COMEDY HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a057/index.m3u8
+#EXTINF:-1,[COLOR=white][B]FOX COMEDY HD[/B][/COLOR][COLOR=white][/COLOR]
+http://cdnrede.com:80/sophia/sophia/207204
+
+
+
 #EXTINF:-1,[COLOR=white][B]AMC HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.77:8000/play/a064/index.m3u8
 #EXTINF:-1,[COLOR=white][B]AMC HD[/B][/COLOR][COLOR=white][/COLOR]
