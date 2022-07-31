@@ -24,6 +24,10 @@ http://0000000000000000000000000000
 
 #EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.81:1234
+#EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.81:1234
+#EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://191.212.166.203:4000/play/a0h6
 
 #EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.152:1234 
@@ -96,6 +100,8 @@ http://189.91.128.146:4444/udp/227.10.20.92:1234
 http://8.242.179.178:58002/play/a04r/index.m3u8
 #EXTINF:-1,[COLOR=white][B]DISCOVERY HOME & HEALTH HD[/B][/COLOR][COLOR=white][/COLOR]
 http://8.242.179.178:58002/play/a03v/index.m3u8
+#EXTINF:-1,[COLOR=white][B]DISCOVERY HOME & HEALTH HD[/B][/COLOR][COLOR=white][/COLOR]
+http://191.212.166.203:4000/play/a08j
 
 #EXTINF:-1,[COLOR=white][B]DISCOVERY ANIMAL PLANET HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.118:1234
@@ -156,6 +162,14 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1609920726.m3u8
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,[COLOR=white][B]TRACE URBAN HD[/B][/COLOR][COLOR=white][/COLOR]
 https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
+#EXTINF:-1,[COLOR=white][B]BIS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://191.212.166.203:4000/play/a08y
+#EXTINF:-1,[COLOR=white][B]MTV BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://191.212.166.203:4000/play/a0hs
+#EXTINF:-1,[COLOR=white][B]MULTISHOW BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://191.212.166.203:4000/play/a0hq
+#EXTINF:-1,[COLOR=white][B]MULTI BOX BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://191.212.166.203:4000/play/a0ej
 
 
 
