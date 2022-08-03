@@ -14,118 +14,11 @@ CANAIS ABERTOS / LIVRES BRASIL - https://raw.githubusercontent.com/rogerioronin/
  
 #EXTM3U
 
-
-####################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS WEB TV BRASIL (EM CONSTRUÇÃO)  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-http://0000000000000000000000000000
-
-#EXTM3U
-
-#EXTINF:-1,[COLOR=white][B]ANIMESTATION[/B][/COLOR][COLOR=white][/COLOR]
-https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1674127793.m3u8
-
-#EXTINF:-1,[COLOR=white][B]ANIME TV 1[/B][/COLOR][COLOR=white][/COLOR]
-https://stmv1.srvif.com/animetv/animetv/chunklist_w1435494181.m3u8
-
-#EXTINF:-1,[COLOR=white][B]ANIME TV 2[/B][/COLOR][COLOR=white][/COLOR]
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f08f1-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cd3e6525-b694-489e-8ebf-063dda2defc0&userId=&serverSideAds=true
-
-#EXTINF:-1,[COLOR=white][B]ANI TV[/B][/COLOR][COLOR=white][/COLOR]
-https://tv01.livemustv.com.br/livemustv1358/livemustv1358/chunklist_w1073079000.m3u8
-
-#EXTINF:-1,[COLOR=white][B]AWTV[/B][/COLOR][COLOR=white][/COLOR]
-https://alanza.iptv2022.com/AWTV/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,[COLOR=white][B]BONS TEMPOS TV[/B][/COLOR][COLOR=white][/COLOR]
-https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w915517756.m3u8
-
-#EXTINF:-1,[COLOR=white][B]CONECTV[/B][/COLOR][COLOR=white][/COLOR]
-https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
-
-#EXTINF:-1,[COLOR=white][B]CTV[/B][/COLOR][COLOR=white][/COLOR]
-https://5eaa6849d0971.streamlock.net/ctvpb/ctvpb/chunklist_w311481941.m3u8
-
-#EXTINF:-1,[COLOR=white][B]FRONTEIRA MOVIES[/B][/COLOR][COLOR=white][/COLOR]
-https://alanza.iptv2022.com/FRONTEIRA_MOVIES/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,[COLOR=white][B]GENIAL TV[/B][/COLOR][COLOR=white][/COLOR]
-https://edge1o.live.opencaster.com/caster/ewrsoDoGuhkx.m3u8
-
-#EXTINF:-1,[COLOR=white][B]HITS TV[/B][/COLOR][COLOR=white][/COLOR]
-https://strv1.estbrasil.com/hitstv/hitstv/chunklist_w2079897566.m3u8
-
-#EXTINF:-1,[COLOR=white][B]IMPERIAL TV[/B][/COLOR][COLOR=white][/COLOR]
-https://5eaa6849d0971.streamlock.net/tvimperialnet/tvimperialnet/chunklist_w886409549.m3u8
-
-#EXTINF:-1,[COLOR=white][B]ISTV[/B][/COLOR][COLOR=white][/COLOR]
-https://alanza.iptv2022.com/ISTV_pt-br/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,[COLOR=white][B]JUNDIAI TV[/B][/COLOR][COLOR=white][/COLOR]
-https://stmv2.samcast.com.br/rosanaa9913/rosanaa9913/chunklist_w1552638857.m3u8
-
-#EXTINF:-1,[COLOR=white][B]LOADING TV[/B][/COLOR][COLOR=white][/COLOR]
-https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1369846081.m3u8
-
-#EXTINF:-1,[COLOR=white][B]MAX90 TV[/B][/COLOR][COLOR=white][/COLOR]
-https://alanza.iptv2022.com/TV_MAX_90/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,[COLOR=white][B]MURILO TV[/B][/COLOR][COLOR=white][/COLOR]
-https://video01.kshost.com.br:4443/murilo9207/murilo9207/chunklist_w523216937.m3u8
-
-#EXTINF:-1,[COLOR=white][B]RADIO PLAY PIXEL[/B][/COLOR][COLOR=white][/COLOR]
-http://stream.zeno.fm/8g81y3e51k8uv.m3u
-
-#EXTINF:-1,[COLOR=white][B]REDE BRASIL[/B][/COLOR][COLOR=white][/COLOR]
-https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w107838109.m3u8
-
-#EXTINF:-1,[COLOR=white][B]REDE CLONE[/B][/COLOR][COLOR=white][/COLOR]
-https://srv5.zcast.com.br/redeclonetv/redeclonetv/chunklist_w1793759360.m3u8
-
-#EXTINF:-1,[COLOR=white][B]REDE UTV[/B][/COLOR][COLOR=white][/COLOR]
-https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w1748841458.m3u8
-
-#EXTINF:-1,[COLOR=white][B]RETRO CARTOON 1[/B][/COLOR][COLOR=white][/COLOR]
-https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1937176661.m3u8
-
-#EXTINF:-1,[COLOR=white][B]RETRO CARTOON 2[/B][/COLOR][COLOR=white][/COLOR]
-https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1538682065.m3u8
-
-#EXTINF:-1,[COLOR=white][B]RUNTIME[/B][/COLOR][COLOR=white][/COLOR]
-https://stream.ads.ottera.tv/cl/e839bf53-17d0-4285-86eb-6f23d108f9b1/1280x720_3071200_0_false.m3u8
-
-#EXTINF:-1,[COLOR=white][B]SEVEN TV[/B][/COLOR][COLOR=white][/COLOR]
-https://videodj.fm5.com.br:19360/seventv/seventv.m3u8
-
-#EXTINF:-1,[COLOR=white][B]SOUTH PARK TV[/B][/COLOR][COLOR=white][/COLOR]
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c1c53920-1b34-11ec-b13b-f726df667295&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b653f9b6-9c4f-4434-acae-e507f4a366eb&userId=&serverSideAds=true
-
-#EXTINF:-1,[COLOR=white][B]STRIKER VERSO TV[/B][/COLOR][COLOR=white][/COLOR]
-https://srv3.zcast.com.br/leonardo2328/leonardo2328/chunklist_w1638274806.m3u8
-
-#EXTINF:-1,[COLOR=white][B]TOKUSATO TV[/B][/COLOR][COLOR=white][/COLOR]
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=967d46f0-96bd-11eb-b493-ab25b5b88dc0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8619d5a-ac5a-4804-8d5e-84812ad7686b&userId=&serverSideAds=true
-
-#EXTINF:-1,[COLOR=white][B]TVARACATI[/B][/COLOR][COLOR=white][/COLOR]
-https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,[COLOR=white][B]CANAL 29 TV[/B][/COLOR][COLOR=white][/COLOR]
-https://stmv1.srvif.com/canal29/canal29/chunklist_w1946540340.m3u8
-
-#EXTINF:-1,[COLOR=white][B]TVCARIOCA[/B][/COLOR][COLOR=white][/COLOR]
-https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1359426879.m3u8
-
-#EXTINF:-1,[COLOR=white][B]TVCINE[/B][/COLOR][COLOR=white][/COLOR]
-https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w44162996.m3u8
-
-#EXTINF:-1,[COLOR=white][B]TVCONFIEGO[/B][/COLOR][COLOR=white][/COLOR]
-https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/chunklist_w1747432215.m3u8
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DESPORTIVOS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 http://0000000000000000000000000000
 
-
 #EXTM3U
-
 
 #EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.81:1234
@@ -213,6 +106,26 @@ http://189.91.128.146:4444/udp/227.10.20.118:1234
 
 
 ####################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS MÚSICA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+http://0000000000000000000000000000
+
+
+#EXTINF:-1,[COLOR=white][B]K-POP TV PLAY HD[/B][/COLOR][COLOR=white][/COLOR]
+https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1609920726.m3u8
+#EXTINF:-1,[COLOR=white][B]K-POP TV PLAY HD[/B][/COLOR][COLOR=white][/COLOR]
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,[COLOR=white][B]TRACE URBAN HD[/B][/COLOR][COLOR=white][/COLOR]
+https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
+#EXTINF:-1,[COLOR=white][B]BIS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://191.212.166.203:4000/play/a08y
+#EXTINF:-1,[COLOR=white][B]MTV BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://191.212.166.203:4000/play/a0hs
+#EXTINF:-1,[COLOR=white][B]MULTISHOW BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://191.212.166.203:4000/play/a0hq
+#EXTINF:-1,[COLOR=white][B]MULTI BOX BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://191.212.166.203:4000/play/a0ej
+
+####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  URBAN TV BRASIL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 http://0000000000000000000000000000
 
@@ -229,9 +142,8 @@ http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 
 ####################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS TV DIVERSOS / NOVOS /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS TV DIVERSOS & WEB TV BR NOVOS /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 http://0000000000000000000000000000
-
 
 
 #EXTINF:-1,[COLOR=white][B]TV MAX HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -252,31 +164,75 @@ https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8
 https://cast.cdnseguro.com:19360/8092/8092.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-id="ext" group-title="Undefined",[COLOR=white][B]CANAL SAÚDE HD[/B][/COLOR][COLOR=white][/COLOR]
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
-
 #EXTINF:-1 group-title="ESTILO DE VIDA",[COLOR=white][B]PEOPLE ARE AWESOME HD[/B][/COLOR][COLOR=white][/COLOR]
 https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
-####################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS MÚSICA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-http://0000000000000000000000000000
-
-
-#EXTINF:-1,[COLOR=white][B]K-POP TV PLAY HD[/B][/COLOR][COLOR=white][/COLOR]
-https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1609920726.m3u8
-#EXTINF:-1,[COLOR=white][B]K-POP TV PLAY HD[/B][/COLOR][COLOR=white][/COLOR]
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,[COLOR=white][B]TRACE URBAN HD[/B][/COLOR][COLOR=white][/COLOR]
-https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
-#EXTINF:-1,[COLOR=white][B]BIS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://191.212.166.203:4000/play/a08y
-#EXTINF:-1,[COLOR=white][B]MTV BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://191.212.166.203:4000/play/a0hs
-#EXTINF:-1,[COLOR=white][B]MULTISHOW BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://191.212.166.203:4000/play/a0hq
-#EXTINF:-1,[COLOR=white][B]MULTI BOX BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://191.212.166.203:4000/play/a0ej
-
-
+#EXTINF:-1,[COLOR=white][B]ANIMESTATION[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1674127793.m3u8
+#EXTINF:-1,[COLOR=white][B]ANIME TV 1[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv1.srvif.com/animetv/animetv/chunklist_w1435494181.m3u8
+#EXTINF:-1,[COLOR=white][B]ANIME TV 2[/B][/COLOR][COLOR=white][/COLOR]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f08f1-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cd3e6525-b694-489e-8ebf-063dda2defc0&userId=&serverSideAds=true
+#EXTINF:-1,[COLOR=white][B]ANI TV[/B][/COLOR][COLOR=white][/COLOR]
+https://tv01.livemustv.com.br/livemustv1358/livemustv1358/chunklist_w1073079000.m3u8
+#EXTINF:-1,[COLOR=white][B]AWTV[/B][/COLOR][COLOR=white][/COLOR]
+https://alanza.iptv2022.com/AWTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[COLOR=white][B]BONS TEMPOS TV[/B][/COLOR][COLOR=white][/COLOR]
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w915517756.m3u8
+#EXTINF:-1,[COLOR=white][B]CONECTV[/B][/COLOR][COLOR=white][/COLOR]
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+#EXTINF:-1,[COLOR=white][B]CTV[/B][/COLOR][COLOR=white][/COLOR]
+https://5eaa6849d0971.streamlock.net/ctvpb/ctvpb/chunklist_w311481941.m3u8
+#EXTINF:-1,[COLOR=white][B]FRONTEIRA MOVIES[/B][/COLOR][COLOR=white][/COLOR]
+https://alanza.iptv2022.com/FRONTEIRA_MOVIES/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[COLOR=white][B]GENIAL TV[/B][/COLOR][COLOR=white][/COLOR]
+https://edge1o.live.opencaster.com/caster/ewrsoDoGuhkx.m3u8
+#EXTINF:-1,[COLOR=white][B]HITS TV[/B][/COLOR][COLOR=white][/COLOR]
+https://strv1.estbrasil.com/hitstv/hitstv/chunklist_w2079897566.m3u8
+#EXTINF:-1,[COLOR=white][B]IMPERIAL TV[/B][/COLOR][COLOR=white][/COLOR]
+https://5eaa6849d0971.streamlock.net/tvimperialnet/tvimperialnet/chunklist_w886409549.m3u8
+#EXTINF:-1,[COLOR=white][B]ISTV[/B][/COLOR][COLOR=white][/COLOR]
+https://alanza.iptv2022.com/ISTV_pt-br/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[COLOR=white][B]JUNDIAI TV[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv2.samcast.com.br/rosanaa9913/rosanaa9913/chunklist_w1552638857.m3u8
+#EXTINF:-1,[COLOR=white][B]LOADING TV[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1369846081.m3u8
+#EXTINF:-1,[COLOR=white][B]MAX90 TV[/B][/COLOR][COLOR=white][/COLOR]
+https://alanza.iptv2022.com/TV_MAX_90/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[COLOR=white][B]MURILO TV[/B][/COLOR][COLOR=white][/COLOR]
+https://video01.kshost.com.br:4443/murilo9207/murilo9207/chunklist_w523216937.m3u8
+#EXTINF:-1,[COLOR=white][B]RADIO PLAY PIXEL[/B][/COLOR][COLOR=white][/COLOR]
+http://stream.zeno.fm/8g81y3e51k8uv.m3u
+#EXTINF:-1,[COLOR=white][B]REDE BRASIL[/B][/COLOR][COLOR=white][/COLOR]
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w107838109.m3u8
+#EXTINF:-1,[COLOR=white][B]REDE CLONE[/B][/COLOR][COLOR=white][/COLOR]
+https://srv5.zcast.com.br/redeclonetv/redeclonetv/chunklist_w1793759360.m3u8
+#EXTINF:-1,[COLOR=white][B]REDE UTV[/B][/COLOR][COLOR=white][/COLOR]
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w1748841458.m3u8
+#EXTINF:-1,[COLOR=white][B]RETRO CARTOON 1[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1937176661.m3u8
+#EXTINF:-1,[COLOR=white][B]RETRO CARTOON 2[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1538682065.m3u8
+#EXTINF:-1,[COLOR=white][B]RUNTIME[/B][/COLOR][COLOR=white][/COLOR]
+https://stream.ads.ottera.tv/cl/e839bf53-17d0-4285-86eb-6f23d108f9b1/1280x720_3071200_0_false.m3u8
+#EXTINF:-1,[COLOR=white][B]SEVEN TV[/B][/COLOR][COLOR=white][/COLOR]
+https://videodj.fm5.com.br:19360/seventv/seventv.m3u8
+#EXTINF:-1,[COLOR=white][B]SOUTH PARK TV[/B][/COLOR][COLOR=white][/COLOR]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c1c53920-1b34-11ec-b13b-f726df667295&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b653f9b6-9c4f-4434-acae-e507f4a366eb&userId=&serverSideAds=true
+#EXTINF:-1,[COLOR=white][B]STRIKER VERSO TV[/B][/COLOR][COLOR=white][/COLOR]
+https://srv3.zcast.com.br/leonardo2328/leonardo2328/chunklist_w1638274806.m3u8
+#EXTINF:-1,[COLOR=white][B]TOKUSATO TV[/B][/COLOR][COLOR=white][/COLOR]
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=967d46f0-96bd-11eb-b493-ab25b5b88dc0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8619d5a-ac5a-4804-8d5e-84812ad7686b&userId=&serverSideAds=true
+#EXTINF:-1,[COLOR=white][B]TVARACATI[/B][/COLOR][COLOR=white][/COLOR]
+https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[COLOR=white][B]CANAL 29 TV[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv1.srvif.com/canal29/canal29/chunklist_w1946540340.m3u8
+#EXTINF:-1,[COLOR=white][B]TVCARIOCA[/B][/COLOR][COLOR=white][/COLOR]
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1359426879.m3u8
+#EXTINF:-1,[COLOR=white][B]TVCINE[/B][/COLOR][COLOR=white][/COLOR]
+https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w44162996.m3u8
+#EXTINF:-1,[COLOR=white][B]TVCONFIEGO[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/chunklist_w1747432215.m3u8
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS GENERALISTAS E NOTÍCIAS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -587,19 +543,19 @@ http://189.91.128.146:4444/udp/227.10.20.129:1234
 http://189.91.128.146:4444/udp/227.10.20.80:1234
 #EXTINF:-1,ESPN BR HD
 http://189.91.128.146:4444/udp/227.10.20.81:1234
-#EXTINF:-1,Disc. turbo
+#EXTINF:-1,DISCOVERY TURBO
 http://189.91.128.146:4444/udp/227.10.20.82:1234
-#EXTINF:-1,Disc. Kids
+#EXTINF:-1,DISCOVERY KIDS
 http://189.91.128.146:4444/udp/227.10.20.83:1234
 #EXTINF:-1,TLC
 http://189.91.128.146:4444/udp/227.10.20.84:1234
-#EXTINF:-1,Discovery Home
+#EXTINF:-1,DISCOVERY HOME & HEALTH
 http://189.91.128.146:4444/udp/227.10.20.85:1234
-#EXTINF:-1,ESPN Int.
+#EXTINF:-1,ESPN INTER.
 http://189.91.128.146:4444/udp/227.10.20.86:1234
-#EXTINF:-1,TC Pipoca HD
+#EXTINF:-1,TC PIPOCA HD
 http://189.91.128.146:4444/udp/227.10.20.87:1234
-#EXTINF:-1,Studio Universal
+#EXTINF:-1,STUDIO UNIVERSAL
 http://189.91.128.146:4444/udp/227.10.20.88:1234
 #EXTINF:-1,Megapix
 http://189.91.128.146:4444/udp/227.10.20.89:1234
