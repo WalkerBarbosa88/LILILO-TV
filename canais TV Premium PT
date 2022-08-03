@@ -20,13 +20,54 @@ http://0.0.0.0:0000
 
 
 ####################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] /////////   CANAIS PREMIUM (EM TESTE)  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] /////////   CANAIS EM TESTE   /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://00000000000
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
-http://00000000000000000000000000000
+#EXTINF:-1,BTV HD
+http://45.92.69.70:8001/play/a09s
+#EXTINF:-1,BTV HD
+http://45.92.69.70:8001/play/a08s
+#EXTINF:-1,ELEVEN SPORTS 1
+http://45.92.69.70:8001/play/a08c
+#EXTINF:-1,ELEVEN SPORTS 2
+http://45.92.69.70:8001/play/a08d
+#EXTINF:-1,ELEVEN SPORTS 3
+http://45.92.69.70:8001/play/a082
+#EXTINF:-1,ELEVEN SPORTS 4
+http://45.92.69.70:8001/play/a083
+#EXTINF:-1,ELEVEN SPORTS 5
+http://45.92.69.70:8001/play/a07x
+#EXTINF:-1,ELEVEN SPORTS 6
+http://45.92.69.70:8001/play/a07y
+#EXTINF:-1,SPORT TV+ HD
+http://45.92.69.70:8001/play/a05l
+EXTINF:-1,SPORT TV 1 HD
+http://45.92.69.70:8001/play/a07r
+#EXTINF:-1,SPORT TV 1 HD
+http://45.92.69.70:8001/play/a08o
+#EXTINF:-1,SPORT TV 2 HD
+http://45.92.69.70:8001/play/a07m
+#EXTINF:-1,SPORT TV 2 HD
+http://45.92.69.70:8001/play/a08p
+#EXTINF:-1,SPORT TV 3 HD
+http://45.92.69.70:8001/play/a07n
+#EXTINF:-1,SPORT TV 3 HD
+http://45.92.69.70:8001/play/a08q
+#EXTINF:-1,SPORT TV 4 HD
+http://45.92.69.70:8001/play/a07o
+#EXTINF:-1,SPORT TV 4 HD
+http://45.92.69.70:8001/play/a08r
+#EXTINF:-1,SPORT TV 5 HD
+http://45.92.69.70:8001/play/a07p
+#EXTINF:-1,SPORT TV 5 HD
+http://45.92.69.70:8001/play/a03k
+#EXTINF:-1,SPORT TV 6 HD
+http://45.92.69.70:8001/play/a077
+#EXTINF:-1,SPORT TV NBA HD
+http://45.92.69.70:8001/play/a07f
+
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS SPORT TV PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
