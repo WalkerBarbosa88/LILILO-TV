@@ -29,6 +29,8 @@ https://00000000000
 http://45.92.69.70:8001/play/a09s
 #EXTINF:-1,BTV HD
 http://45.92.69.70:8001/play/a08s
+#EXTINF:-1,BTV HD
+http://srv1.roshen.live/RLQJdytRzI/mpegts?token=g80ms6GRbBiVrsfO
 
 ***********************************************************
 #EXTINF:-1,ELEVEN SPORTS 1
@@ -45,6 +47,12 @@ http://45.92.69.70:8001/play/a07x
 http://45.92.69.70:8001/play/a07y
 
 ***********************************************************
+
+#EXTINF:-1,SPORT TV 2 HD
+http://srv1.roshen.live/Z4hzKXeaKB/mpegts?token=g80ms6GRbBiVrsfO
+#EXTINF:-1,SPORT TV 3 HD
+http://srv1.roshen.live/XI1d7Mp3Ac/mpegts?token=g80ms6GRbBiVrsfO
+
 #EXTINF:-1,SPORT TV+ HD
 http://45.92.69.70:8001/play/a05l
 EXTINF:-1,SPORT TV 1 HD
