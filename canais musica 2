@@ -263,3 +263,68 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ad8f86e1eba00081
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white]CONECTA TV[/COLOR][COLOR=white][/COLOR]
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Музыка\",RTV Altea HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1139.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музыка\",MUSIC PLUS
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1140.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музыка\",MIXM TV
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1141.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музыка\",Kronehit HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1146.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музыка\",Factoria TV HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1148.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музыка\",Musica del Recuerdo
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1149.m3u8
+#EXTINF:0 tvg-id="TraceUrban.ru" group-title="Музыка\",Trace Urban HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1156.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музыка\",Retro Dance 90\'s
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1161.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музыка\",Music Top
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1162.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музыка\",MIX MY DAY TV HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1167.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музыка\",XITE NL HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1169.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музыка\",Ocko Star
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1170.m3u8
+#EXTINF:0 tvg-id="OckoExpres.cz" group-title="Музыка\",Ocko Expres
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1171.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музыка\",MTV Biggest Pop HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1172.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музыка\",MTV Block Party HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1173.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музыка\",MusicPlus HD HU
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1174.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музыка\",Afrobeats
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1180.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музыка\",MGR TV HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1182.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музыка\",Music Reload TV HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1184.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музыка\",Sonus FM
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1185.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музыка\",Xite HD DE
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1186.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музыка\",Прибой ТВ HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1221.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музыка\",Persiana Music
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1226.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музыка\",V2 Beat HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1230.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музыка\",Techno Warehouse HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1240.m3u8
+#EXTINF:0 tvg-id="m-2" group-title="Музыка\",М2 HD
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1247.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музыка\",Portal FoxMix TV
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1269.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Радио\",Radio Хит ТВ
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1165.m3u8
+#EXTINF:0 tvg-id="NASATV.us" group-title="Познавательные\",NASA TV
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1188.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Познавательные\",Королев ТВ
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1196.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Турция\",Briç ve Satranç TV
+http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1279.m3u8
+
+
