@@ -4,7 +4,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA 1 REVISTA: 25/07/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA 1 REVISTA: 04/08/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -79,9 +79,6 @@ https://stream.4fun.tv:8888/hls/4f.m3u8
 #EXTINF:-1,[COLOR=white][B]MTV CLUB HD[/B][/COLOR][COLOR=white][/COLOR]
 http://cdnua06.hls.tv/476/hls/0v8gnwlpo3dtf24ysm1rbcqx6uea79ji/264/stream.m3u8
 
-#EXTINF:-1,[COLOR=white][B]MTV LIVE[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.77:8000/play/a01e/index.m3u8
-
 #EXTINF:-1,[COLOR=white][B]MTV OO´S HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0hf
 
@@ -105,9 +102,6 @@ http://46.29.169.15:4001/play/a01i/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]NRG 91[/B][/COLOR][COLOR=white][/COLOR]
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
-
-#EXTINF:-1,[COLOR=white][B]RADIOLINA TV[/B][/COLOR][COLOR=white][/COLOR]
-https://5bb65e9de3fdf.streamlock.net/live/RadiolinaTV/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]XITE TV[/B][/COLOR][COLOR=white][/COLOR]
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
@@ -360,9 +354,6 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 #EXTINF:-1,[COLOR=white][B]PORTALFOXMIX[/B][/COLOR][COLOR=white][/COLOR]
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
  
-#EXTINF:-1,[COLOR=white][B]RETRO MUSIC CHECA[/B][/COLOR][COLOR=white][/COLOR]
-http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2112431561.m3u8
-
 #EXTINF:-1,[COLOR=white][B]REWING TV[/B][/COLOR][COLOR=white][/COLOR]
 https://tls-cl.cdnz.cl/rewindtv/live/chunklist.m3u8
 
@@ -374,9 +365,6 @@ https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,[COLOR=white][B]RTL CLASSICS SD[/B][/COLOR][COLOR=white][/COLOR]
 https://5a57bda70564a.streamlock.net/litoralclassics/litoralclassics.sdp/chunklist_w1232675025.m3u8
-
-#EXTINF:-1,[COLOR=white][B]PLANETA TV MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
-https://tls-cl.cdnz.cl/planetatv1/ngrp:live_all//playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,[COLOR=white][B]RADIO 80 FOREVER YOUNG TV[/B][/COLOR][COLOR=white][/COLOR]
 https://585b674743bbb.streamlock.net/9076/9076/chunklist.m3u8
@@ -431,9 +419,6 @@ https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
 
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]TOCA HITS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://mix247.ml:444/TocaHits/Top100Mix24-7/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]KARIBENA HD[/B][/COLOR][COLOR=white][/COLOR]
-https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
 
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]CANAL VM LATINO HD[/B][/COLOR][COLOR=white][/COLOR]
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
