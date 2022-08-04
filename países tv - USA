@@ -4,7 +4,7 @@ http://0.0.0.0:000000
 ######################################################################################################################################################
  
 
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 26/07/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 04/08/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #######################################################################################################################################################
  
@@ -141,8 +141,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/12
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Darcizzle Offshore
 http://30a-tv.com/darcizzle.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Docurama
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+
 #EXTINF:0 tvg-id="EVINE.us" group-title="Channels",Evine
 https://aos01-evine.secure.footprint.net/evine/dirty/Evine_Dirty_VIDEO_1_2064000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",FailArmy
