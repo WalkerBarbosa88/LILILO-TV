@@ -70,6 +70,9 @@ http://livetv.powerapp.com.tr/pplustv/pplustv.smil/chunklist_b2628000_sltur.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]POWER DANCE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://livetv.powerapp.com.tr/dance/dance.smil/chunklist_b2628000_sltur.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]POWER LOVE HD[/B][/COLOR][COLOR=white][/COLOR]
+https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]RADIO M2O HD[/B][/COLOR][COLOR=white][/COLOR]
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b2816000.m3u8
 
@@ -252,12 +255,20 @@ https://live.prd.dlive.tv/hls/live/andyx7.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8
 
 ######################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  MÚSICA AFRICANA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  MÚSICA AFRICANA & ROCK  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:-1,[COLOR=white][B]AFROBEAT - ÁFRICA[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,[COLOR=white][B]CATEDRAL DO ROCK HD[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]SLUHAY ROCK HD[/B][/COLOR][COLOR=white][/COLOR]
+https://sluhay.by/live/Ch114pub/index.m3u8
+
+#EXTINF:-1,[COLOR=white][B]ROCK TV[/B][/COLOR][COLOR=white][/COLOR]
+http://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8
 
 ######################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  MÚSICAS ALTERNATIVAS & AO VIVO /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -381,6 +392,10 @@ https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,[COLOR=white][B]MEMORIA TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cloud10.vsgtech.co:3262/live/memoriastv2live.m3u8?PlaylistM3UCL
 
+
+#EXTINF:-1,[COLOR=white][B]RECUERDOS RETRO HD[/B][/COLOR][COLOR=white][/COLOR]
+https://593b04c4c5670.streamlock.net/8002/8002/playlist.m3u8
+
  
 ######################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA LATINA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -428,6 +443,9 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]FABULOSA FM[/B][/COLOR][COLOR=white][/COLOR]
 http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8?PlaylistM3UCL
+
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]LA MEGA MUNDIAL[/B][/COLOR][COLOR=white][/COLOR]
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
 
 ######################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// OUTROS GÉNEROS /////////[/B][/COLOR][COLOR=yellow][/COLOR]
