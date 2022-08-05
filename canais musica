@@ -215,6 +215,9 @@ plugin://plugin.video.youtube/play/?video_id=5lMmnfVylEE
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8Ak6qR.png" group-title="",[COLOR=white][B]IBIZA GLOBAL TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8Ak6qR.png" group-title="",[COLOR=white][B]IBIZA GLOBAL TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://ibgrtv.streaming-pro.com/hls/ibgrlive_2.m3u8
+
 #EXTINF:-1,[COLOR=white][B]MTV CLUB HD[/B][/COLOR][COLOR=white][/COLOR]
 http://cdnua06.hls.tv/476/hls/0v8gnwlpo3dtf24ysm1rbcqx6uea79ji/264/stream.m3u8
 
