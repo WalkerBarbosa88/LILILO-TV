@@ -26,8 +26,30 @@ https://00000000000
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
-http://000000000000000000000
+#EXTINF:-1 group-title="SPORTS WORLD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/38_es.jpg",ELEVEN SPORTS 1 HD
+http://clienteworld.com:80/claud123/claud123/138421
+#EXTINF:-1 group-title="SPORTS WORLD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/38_es.jpg",ELEVEN SPORTS 1 SD
+http://clienteworld.com:80/claud123/claud123/138420
+#EXTINF:-1 group-title="SPORTS WORLD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/39_es.jpg",ELEVEN SPORTS 2 HD
+http://clienteworld.com:80/claud123/claud123/138423
+#EXTINF:-1 group-title="SPORTS WORLD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/39_es.jpg",ELEVEN SPORTS 2 SD
+http://clienteworld.com:80/claud123/claud123/138422
+#EXTINF:-1 group-title="SPORTS WORLD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/40_es.jpg",ELEVEN SPORTS 3 HD
+http://clienteworld.com:80/claud123/claud123/138425
+#EXTINF:-1 group-title="SPORTS WORLD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/40_es.jpg",ELEVEN SPORTS 3 SD
+http://clienteworld.com:80/claud123/claud123/138424
+#EXTINF:-1 group-title="SPORTS WORLD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/41_es.jpg",ELEVEN SPORTS 4
+http://clienteworld.com:80/claud123/claud123/138426
+#EXTINF:-1 group-title="SPORTS WORLD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/41_es.jpg",ELEVEN SPORTS 4 HD
+http://clienteworld.com:80/claud123/claud123/138427
+#EXTINF:-1 group-title="SPORTS WORLD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/42_es.jpg",ELEVEN SPORTS 5
+http://clienteworld.com:80/claud123/claud123/138428
+#EXTINF:-1 group-title="SPORTS WORLD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/42_es.jpg",ELEVEN SPORTS 5 HD
+http://clienteworld.com:80/claud123/claud123/138429
+#EXTINF:-1 group-title="SPORTS WORLD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/43_es.jpg",ELEVEN SPORTS 6
+http://clienteworld.com:80/claud123/claud123/138430
+#EXTINF:-1 group-title="SPORTS WORLD" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/43_es.jpg",ELEVEN SPORTS 6 HD
+http://clienteworld.com:80/claud123/claud123/138431
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS SPORT TV PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
