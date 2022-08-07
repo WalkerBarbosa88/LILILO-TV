@@ -23,10 +23,6 @@ http://0000000000000000000000000000
 
 #EXTINF:-1,[COLOR=white][B]ESPN EXTRA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://acsb.sh:80/4673629418/snakeplay/71917
-#EXTINF:-1,[COLOR=white][B]ESPN EXTRA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://clienteworld.com:80/claud123/claud123/82830
-#EXTINF:-1,[COLOR=white][B]ESPN EXTRA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://clienteworld.com:80/claud123/claud123/82829
 
 #EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.81:1234
@@ -94,11 +90,8 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1,[COLOR=white][B]TNT SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-
-#EXTINF:-1,[COLOR=white][B]PREMIERE CLUB 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://clienteworld.com:80/claud123/claud123/83762
-#EXTINF:-1,[COLOR=white][B]PREMIERE CLUB 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://clienteworld.com:80/claud123/claud123/96736
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PREMIERE CLUBES HD[/B][/COLOR][COLOR=white][/COLOR]
+http://189.91.128.146:4444/udp/227.10.20.102:1234
 
 
 ####################################################################################################################################
@@ -128,10 +121,7 @@ http://189.91.128.146:4444/udp/227.10.20.92:1234
 
 #EXTINF:-1,[COLOR=white][B]DISCOVERY HOME & HEALTH HD[/B][/COLOR][COLOR=white][/COLOR]
 http://191.212.166.203:4000/play/a08j
-#EXTINF:-1,[COLOR=white][B]DISCOVERY HOME & HEALTH HD[/B][/COLOR][COLOR=white][/COLOR]
-http://clienteworld.com:80/claud123/claud123/82917
-#EXTINF:-1,[COLOR=white][B]DISCOVERY HOME & HEALTH HD[/B][/COLOR][COLOR=white][/COLOR]
-http://clienteworld.com:80/claud123/claud123/82916
+
 
 #EXTINF:-1,[COLOR=white][B]DISCOVERY ANIMAL PLANET HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.118:1234
@@ -139,12 +129,6 @@ http://189.91.128.146:4444/udp/227.10.20.118:1234
 #EXTINF:-1,[COLOR=white][B]DISCOVERY WORLD HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82931
 
-#EXTINF:-1,[COLOR=white][B]HGTV FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://clienteworld.com:80/claud123/claud123/82913
-#EXTINF:-1,[COLOR=white][B]HGTV FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://clienteworld.com:80/claud123/claud123/88878
-#EXTINF:-1,[COLOR=white][B]HGTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://clienteworld.com:80/claud123/claud123/82912
 
 
 ####################################################################################################################################
@@ -164,16 +148,11 @@ http://acsb.sh:80/4673629418/snakeplay/72388
 http://191.212.166.203:4000/play/a08y
 #EXTINF:-1,[COLOR=white][B]MTV BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://191.212.166.203:4000/play/a0hs
-#EXTINF:-1,[COLOR=white][B]MTV BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://clienteworld.com:80/claud123/claud123/28206
-#EXTINF:-1,[COLOR=white][B]MTV LIVE FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://clienteworld.com:80/claud123/claud123/88742
 #EXTINF:-1,[COLOR=white][B]MULTISHOW BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://191.212.166.203:4000/play/a0hq
 #EXTINF:-1,[COLOR=white][B]MULTIBOX BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://191.212.166.203:4000/play/a0ej
-#EXTINF:-1,[COLOR=white][B]MUSIC BOX BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://clienteworld.com:80/claud123/claud123/8047
+
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  URBAN TV BRASIL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -198,18 +177,12 @@ http://0000000000000000000000000000
 
 #EXTINF:-1,[COLOR=white][B]CNN BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.160:1234
-#EXTINF:-1,[COLOR=white][B]CNN BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://clienteworld.com:80/claud123/claud123/98280
 
 #EXTINF:-1,[COLOR=white][B]CNN INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1,[COLOR=white][B]GLOBO HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.109:1234
-#EXTINF:-1,[COLOR=white][B]GLOBO SP FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://clienteworld.com:80/claud123/claud123/83014
-#EXTINF:-1,[COLOR=white][B]GLOBO NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://clienteworld.com:80/claud123/claud123/83094
 
 #EXTINF:-1,[COLOR=white][B]TV RECORD HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.147:1234
@@ -226,8 +199,6 @@ https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c
 
 #EXTINF:-1,[COLOR=white][B]BAND NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.131:1234
-#EXTINF:-1,[COLOR=white][B]BAND NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://clienteworld.com:80/claud123/claud123/83085
 
 #EXTINF:-1,[COLOR=white][B]CBN SÃO PAULO HD[/B][/COLOR][COLOR=white][/COLOR]
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
@@ -289,8 +260,7 @@ http://189.91.128.146:4444/udp/227.10.20.97:1234
 http://189.91.128.146:4444/udp/227.10.20.98:1234
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CINEMAX[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.101:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PREMIERE CLUBES HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.102:1234
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]UNIVALE TV[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.103:1234
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PFC 2 HD[/B][/COLOR][COLOR=white][/COLOR]
