@@ -135,8 +135,11 @@ http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
 #EXTINF:-1,[COLOR=white][B]SANTUÁRIO DE FÁTIMA[/B][/COLOR][COLOR=white][/COLOR]
 https://streamer-a01.videos.sapo.pt/live/santuario/chunklist.m3u8?wowzasessionid=inspiration
 
-#EXTINF:-1,[COLOR=white][B]VATICANO NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC7E-LYc1wivk33iyt5bR5zQ/live
+#  https://www.youtube.com/watch?v=KWCIFzlzbP0
+#EXTINF:-1,[COLOR=white][B]VATICANO LIVE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=y1XjOwMXXMg
+
+
 
 #EXTINF:-1,[COLOR=white][B]EURONEWS PT HD[/B][/COLOR][COLOR=white][/COLOR]
 https://euronews.alteox.app/hls/pt_stream.m3u8
