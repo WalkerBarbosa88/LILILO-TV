@@ -264,11 +264,17 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2a
 https://streamlive7.hearthis.at/hls/10354224_orig/index.m3u8
 
 ######################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  MÚSICA AFRICANA & ROCK  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  MÚSICA AFRICANA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
+
 
 #EXTINF:-1,[COLOR=white][B]AFROBEAT - ÁFRICA[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+
+
+######################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  MÚSICA ROCK  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
 
 #EXTINF:-1,[COLOR=white][B]CATEDRAL DO ROCK HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
