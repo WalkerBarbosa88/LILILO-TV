@@ -109,6 +109,9 @@ https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sM
 #EXTINF:-1,[COLOR=white][B]PINK HITS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://46.29.169.15:4001/play/a01i/index.m3u8
 
+#EXTINF:-1,[COLOR=white][B]PINK HITS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://212.200.127.247:8000/play/a0hs/index.m3u8
+
 #EXTINF:-1,[COLOR=white][B]NRG 91[/B][/COLOR][COLOR=white][/COLOR]
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 
