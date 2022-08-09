@@ -199,9 +199,6 @@ http://tvradioimpact.go.ro:8080/tmp_hls/tvimpact/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]DANCE STAR TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
 
-#EXTINF:-1,[COLOR=white][B]MOOZ DANCE SD[/B][/COLOR][COLOR=white][/COLOR]
-https://canale.live/mtv.m3u8/?id=moozdance
-
 #EXTINF:-1,[COLOR=white][B]QUEST DANCE[/B][/COLOR][COLOR=white][/COLOR]
 https://qwest-mix-plex.amagi.tv/playlist720_p.m3u8
 
