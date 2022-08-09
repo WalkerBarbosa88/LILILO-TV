@@ -44,12 +44,6 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=bridgeclassictv
 http://musicbox.mediacdn.ru/cdn/musicboxhd/playlist_sdmid.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]MUSIC BOX GOLD[/COLOR][COLOR=white][/COLOR]
 http://musicbox.mediacdn.ru/cdn/musicboxgold/playlist_sdmid.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]MOOZ DANCE[/COLOR][COLOR=white][/COLOR]
-https://canale.live/mtv.m3u8/?id=moozdance
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]MOOZ HITS[/COLOR][COLOR=white][/COLOR]
-https://canale.live/mtv.m3u8/?id=moozhits
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]MOOZ RO[/COLOR][COLOR=white][/COLOR]
-https://canale.live/mtv.m3u8/?id=moozro
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]VIVA[/COLOR][COLOR=white][/COLOR]
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]VEVO TV[/COLOR][COLOR=white][/COLOR]
