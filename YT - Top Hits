@@ -10,13 +10,51 @@ http://0.0.0.0:0000
 http://0.0.0.0:0000
 #######################################################################################################################################
 
-#EXTINF:-1,[COLOR=yellow][B]VIDEOS OFICIAIS - LISTA ATUALIZADA: 08/06/2022[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]VIDEOS OFICIAIS - LISTA ATUALIZADA: 09/08/2022[/B][/COLOR][COLOR=yellow][/COLOR]
  
 #EXTM3U
 
+#EXTINF:-1,[COLOR=white][B]HALSEY - SO GOOD[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=N6tv11_KMiM&ab_channel=HalseyVEVO
 
-#EXTINF:-1,[COLOR=white][B]NOME DO ARTISTA - TÍTULO DA MUSICA[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+#EXTINF:-1,[COLOR=white][B]AVA MAX - MAYBE YOU ARE THE PROBLEM[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ijS_orLb6VU&ab_channel=AvaMax
+
+#EXTINF:-1,[COLOR=white][B]KYGO - FREEZE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=H0NFTIhxOpc&ab_channel=KygoOfficialVEVO
+
+#EXTINF:-1,[COLOR=white][B]KYGO - DANCING FEET[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=RlaBTqv8tQs&ab_channel=KygoOfficialVEVO
+
+#EXTINF:-1,[COLOR=white][B]KYGO & DEAN LEWIS - LOST WITHOUT YOU[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=QzakjlbO2Lc&ab_channel=KygoOfficialVEVO
+
+#EXTINF:-1,[COLOR=white][B]SIGALA & TALIA MAR - STAY THE NIGHT[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=DiP5eorRbzo&ab_channel=SigalaVEVO
+
+#EXTINF:-1,[COLOR=white][B]CALVIN HARRIS & DUA LIPA - POTION[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=FFV6t4Dl_zQ&ab_channel=CalvinHarrisVEVO
+
+#EXTINF:-1,[COLOR=white][B]KATE BUSH - RUNNING UP THAT HILL[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=wp43OdtAAkM&ab_channel=KateBushMusic
+
+#EXTINF:-1,[COLOR=white][B]BEYONCÉ - BREAK MY SOUL[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=FW4Xg3hl3rE&ab_channel=CelebrityEditz
+
+#EXTINF:-1,[COLOR=white][B]ED SHEERAN - 2 STEPS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Z_MvkyuOJgk&ab_channel=EdSheeran
+
+#EXTINF:-1,[COLOR=white][B]DRAKE & FUTURE - WAIT FOR YOU[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=rP09GUQFDFk&ab_channel=FutureVEVO
+
+#EXTINF:-1,[COLOR=white][B]BLACK EYES PEAS, SHAKIRA E DAVID GUETTA - DON'T YOU WORRY[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=me19SUmWu2s&ab_channel=BlackEyedPeasVEVO
+
+#EXTINF:-1,[COLOR=white][B]REMA - CALM DOWN[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CQLsdm1ZYAw&list=RDCLAK5uy_nqRa4MZhGLlzdFysGGDQyuGA43aqJR8FQ&index=4&ab_channel=Rema
+
+#EXTINF:-1,[COLOR=white][B]KAROL G - PROVENZA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ca48oMV59LU&ab_channel=KarolGVEVO
 
 #EXTINF:-1,[COLOR=white][B]MIMI WEBB - HOUSE ON FIRE[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=i-M9_cKCGuM
