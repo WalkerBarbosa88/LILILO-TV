@@ -4,7 +4,7 @@ http://0.0.0.0:000000
 ######################################################################################################################################################
  
 
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 04/08/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 10/08/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #######################################################################################################################################################
  
@@ -54,32 +54,6 @@ http://185.234.217.19:8016/play/a051/index.m3u8
 http://185.234.217.19:8016/play/a04u/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",YESTERDAY+1
 http://185.234.217.19:8016/play/a053/index.m3u8
-#EXTINF:0 tvg-id="WABCNewYorkABCEast.us" group-title="Channels",ABC
-http://100.35.13.224:8000/play/a08l/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOX 5
-http://100.35.13.224:8000/play/a075/index.m3u8
-#EXTINF:0 tvg-id="metv.il" group-title="Channels",METV
-http://100.35.13.224:8000/play/a05n/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",NYTV LIFE
-http://100.35.13.224:8000/play/a05g/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PIX11
-http://100.35.13.224:8000/play/a08o/index.m3u8
-#EXTINF:0 tvg-id="Start.tr" group-title="Channels",STARTV
-http://100.35.13.224:8000/play/a085/index.m3u8
-#EXTINF:0 tvg-id="Telemundo.mx" group-title="Channels",TELEMUNDO
-http://100.35.13.224:8000/play/a07a/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELEX
-http://100.35.13.224:8000/play/a088/index.m3u8
-#EXTINF:0 tvg-id="UniMas.us" group-title="Channels",UNIMAS
-http://100.35.13.224:8000/play/a08b/index.m3u8
-#EXTINF:0 tvg-id="UnivisionEast.us" group-title="Channels",UNIVISION
-http://100.35.13.224:8000/play/a07t/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Wnbc
-http://100.35.13.224:8000/play/a07x/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",aliento
-http://100.35.13.224:8000/play/a06d/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",wcbs
-http://100.35.13.224:8000/play/a081/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
@@ -280,9 +254,5 @@ http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist
 https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",White Plains Community Media
 http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8
-
-
-
-
 
 
