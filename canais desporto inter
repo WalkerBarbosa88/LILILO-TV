@@ -8,7 +8,7 @@ FONTE DE INFORMAÇÃO:
 
 #EXTM3U
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS VERIFICADAS: 04/08/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS VERIFICADAS: 10/08/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 
 #EXTM3U
@@ -24,10 +24,6 @@ http://93.152.174.144:4000/play/barcatv/index.m3u8
 http://virtualleyplex.com:8080/losobreros/NyKBN9P68Y48/4949
 #EXTINF:0 tvg-id="BeINLaLiga.es" group-title="Channels",[COLOR=white][B]BEIN LALIGA ES HD[/B][/COLOR][COLOR=white][/COLOR]
 http://93.152.174.144:4000/play/beinlaliga/index.m3u8
-
-#EXTM3U
-
-
 #EXTINF:0 tvg-id="ext" group-title="Sport\",FOX SPORTS NEWS
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport\",CBC SPORT
@@ -84,7 +80,6 @@ http://93.152.174.144:4000/play/bein3ar/index.m3u8?checkedby:iptvcat.com
 http://93.152.174.144:4000/play/bein3fr/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport\",BEIN SPORTS 7 AR
 http://93.152.174.144:4000/play/bein7/index.m3u8?checkedby:iptvcat.com
-
 #EXTINF:0 tvg-id="xsport-plus-ua" group-title="Channels",XSPORT+ HD
 http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/3999/stream.m3u8
 #EXTINF:0 tvg-id="xsport-plus-ua" group-title="Channels",XSPORT+ HD
@@ -243,267 +238,142 @@ https://cdnua03.hls.tv/178/hls/mkwug4dbs1ipr67zq508oync23tae9vf/291/stream.m3u8
 https://cdnua03.hls.tv/178/hls/c3rfutxgapbl2vdesh98zyjoiq4k670n/4314/stream.m3u8
 #EXTINF:0 tvg-id="kazsport" group-title="Channels",Qazsport
 http://92.46.127.146:8080/qazsport/index.m3u8?telegramm=yossotv
-
 #EXTINF:0 tvg-id="USANetwork.us" group-title="USA - CANADA SPORTS",USA Network
 http://89.187.175.143:80/3025/mpegts
 #EXTINF:0 tvg-id="tnt" group-title="USA - CANADA SPORTS",TNT HD
 http://89.187.175.143:80/3030/mpegts
-
-
-#EXTINF:0 tvg-id="ext" group-title="Sports",1+1 Спорт (720p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="Sports",1+1 Спорт
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Abu Dhabi Sports 1 (1080p)
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Abu Dhabi Sports 2 (1080p)
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",ACC Network (720p)
-https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Adventure Sports TV (360p) [Not 24/7]
-https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
-#EXTINF:0 tvg-id="ext" group-title="Sports",Alfa Sport (1080p) [Not 24/7]
-https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
-#EXTINF:0 tvg-id="ext" group-title="Sports",All Sports (720p)
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Sports",América Sports (720p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q/live
-#EXTINF:0 tvg-id="ext" group-title="Sports",AntenaSport (720p) [Not 24/7]
-https://stream1.antenaplay.ro/dfs/farasecrete5/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",ATG (432p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",ATG 
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Baduk TV (1080p) [Not 24/7]
-https://allanf181.github.io/adaptive-streams/streams/kr/BadukTV.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Bahrain Sports 1 (720p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="Sports",Bahrain Sports 1 
 http://185.105.4.106:1935/live/Bahrain+Sports/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Best Cable Sports Perú (720p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="Sports",Best Cable Sports Perú 
 https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Billiards TV (1080p) [Not 24/7]
-https://allanf181.github.io/adaptive-streams/streams/kr/BilliardsTV.m3u8
-#EXTINF:0 tvg-id="Canal11.pt" group-title="Sports",Canal 11 (720p)
+#EXTINF:0 tvg-id="Canal11.pt" group-title="Sports",Canal 11 
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Canal Motor (720p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",Canal Motor
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Captital OTB Betting (720p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="Sports",Captital OTB Betting
 https://d2up1hmow19bcd.cloudfront.net/livecf/liveracing/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",CCTV-5体育 (1080p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",CCTV-5体育 
 http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Channel Fight (720p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",Channel Fight
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68
-#EXTINF:0 tvg-id="ext" group-title="Sports",Contacto Deportivo (720p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="Sports",Contacto Deportivo 
 https://live.obslivestream.com/cdeportivo/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",DD Sports (576p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",DD Sports 
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Sports",DeporTV (720p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCSmh3DFxBwFurMttT60PQ1g/live
-#EXTINF:0 tvg-id="ext" group-title="Sports",Dubai Racing 2 (1080p)
-https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Dubai Racing 3 (1080p)
-https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Dubai Racing (1080p)
-https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Dubai Sports 1 (1080p)
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Dubai Sports 2 (720p)
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Dubai Sports 3 (1080p) [Not 24/7]
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",EDGEsport (1080p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",EDGEsport 
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",ERT Sports 2 (1080p) [Geo-blocked]
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports2_ww.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",ERT Sports 3 (1080p) [Geo-blocked]
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports3_ww.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Esports Max [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="Sports",Esports Max 
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Fight Network (1080p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",Fight Network 
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Fighting Spirit (720p)
-https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Fite (720p) [Not 24/7]
-https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",FTF (720p)
-https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Fuel TV (1080p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="Sports",Fuel TV 
 http://fueltv-fueltv-14-nl.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Glory Kickboxing (720p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",Glory Kickboxing 
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Golf & PBA (1080p) [Not 24/7]
-https://allanf181.github.io/adaptive-streams/streams/kr/GolfPBA.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",grvty (1080p)
-https://d37j5jg7ob6kji.cloudfront.net/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Hard Knocks (1080p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="Sports",Hard Knocks 
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",IB Sports (1080p) [Not 24/7]
-https://allanf181.github.io/adaptive-streams/streams/kr/IBSports.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",İdman TV (576p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",İdman TV
 http://109.205.166.68/server124/idman_az/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",IMPACT! Wrestling (1080p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",IMPACT! Wrestling 
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Insight TV (1080p)
-https://insighttv-vizio.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",JTBC Golf & Sports (1080p) [Not 24/7]
-https://allanf181.github.io/adaptive-streams/streams/kr/JTBCGolfSports.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",JTBC Golf (1080p) [Not 24/7]
-https://allanf181.github.io/adaptive-streams/streams/kr/JTBCGolf.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",K League 1 (1080p) [Not 24/7]
-https://allanf181.github.io/adaptive-streams/streams/kr/KLeague1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",K League 2 (1080p) [Not 24/7]
-https://allanf181.github.io/adaptive-streams/streams/kr/KLeague2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",K League 3 (1080p) [Not 24/7]
-https://allanf181.github.io/adaptive-streams/streams/kr/KLeague3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",K-Baduk (1080p) [Not 24/7]
-https://allanf181.github.io/adaptive-streams/streams/kr/KBaduk.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",KBP Sports (720p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="Sports",KBP Sports
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",KSA Sports 1 (1080p) [Not 24/7]
-https://edge.taghtia.com/sa/9.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",KSA Sports 2 (1080p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/ksa-sports2
-#EXTINF:0 tvg-id="ext" group-title="Sports",Lax Sports Network TV (720p)
-https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",MavTV Select (720p)
-https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",MMA Junkie (720p)
-https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",MNB Sport
 https://live.mnb.mn/live/mnb_sport.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Monterrico TV (1080p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="Sports",Monterrico TV
 https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",New Japan Pro Wrestling World (540p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",New Japan Pro Wrestling World 
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Nitro Circus (720p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",Nitro Circus 
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Oman Sports TV (1080p) [Not 24/7]
-https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",One Golf (720p)
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",ORF Sport+ (540p) [Geo-blocked]
+#EXTINF:0 tvg-id="ext" group-title="Sports",ORF Sport+ 
 https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Ovacion TV (720p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="Sports",Ovacion TV 
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Pac 12 Insider (1080p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pac 12 Insider
 https://pac12-redbox.amagi.tv/hls/amagi_hls_data_pac-12AAA-pac12-redbox/CDN/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Players TV (1080p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",Players TV
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Bellator MMA (720p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Bellator MMA 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ebc8688f3697d00072f7cf8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=730&terminate=false&userId=
-#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Boxing (684p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Boxing 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Combate World (240p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Combate World
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Deportes (720p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Deportes 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Extrême (480p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Extrême
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ed327f9e9b0000761141e/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
-#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Fight (720p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Fight 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9bda9fd87eb3a2717cce0/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9bda9fd87eb3a2717cce0&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=5c2fb668-242f-4e7f-a025-087099fd0aca&terminate=false&userId=
-#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Fútbol Para Fans (720p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Fútbol Para Fans 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Glory Kickboxing (720p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Glory Kickboxing 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9be1be738977e2c312134/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9be1be738977e2c312134&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=f6e88030-d7c8-47c8-8fed-7e24dd0a038a&terminate=false&userId=
-#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV MLB (720p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV MLB
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV MLS (480p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV MLS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceLat=45.4994&deviceLon=-73.5703&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=76.0.3809.132&serverSideAds=true&sid=d1634607-2892-447a-b316-17a106f905fb&userId=
-#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV NFL Channel (720p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV NFL Channel 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ced7d5df64be98e07ed47b6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=708&terminate=false&userId=
-#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV PGA TOUR (720p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV PGA TOUR 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5de94dacb394a300099fa22a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=713&terminate=false&userId=
-#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Pluto Action Sports (720p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Pluto Action Sports 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5be1be871843b56328bc3ef1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=8a1b4593-8596-4ff8-8720-2c3271ea36ca&terminate=false&userId=
-#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Pro Wrestling (720p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Pro Wrestling 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Qwest TV Jazz & Beyond (720p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Qwest TV Jazz & Beyond
 https://siloh.pluto.tv/lilo/production/QwestJazz/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Sports (England) (720p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Sports 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7677fa2ec536ce1d587eeb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d7677fa2ec536ce1d587eeb&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=607&terminate=false&userId=
-#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Surf (720p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",Pluto TV Surf 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d1ce51dbaca4afdb7abfe5f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d1ce51dbaca4afdb7abfe5f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=abec40e3-86b9-48b6-981d-dc5eeecc6cf9&terminate=false&userId=
-#EXTINF:0 tvg-id="ext" group-title="Sports",Professional Baseball 1 (1080p) [Not 24/7]
-https://allanf181.github.io/adaptive-streams/streams/kr/ProfessionalBaseball1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Professional Baseball 2 (1080p) [Not 24/7]
-https://allanf181.github.io/adaptive-streams/streams/kr/ProfessionalBaseball2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Professional Baseball 3 (1080p) [Not 24/7]
-https://allanf181.github.io/adaptive-streams/streams/kr/ProfessionalBaseball3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Professional Baseball 4 (1080p) [Not 24/7]
-https://allanf181.github.io/adaptive-streams/streams/kr/ProfessionalBaseball4.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Professional Baseball 5 (1080p) [Not 24/7]
-https://allanf181.github.io/adaptive-streams/streams/kr/ProfessionalBaseball5.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Red Bull TV (1080p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",RedBull Batalla de Gallos (720p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",RedBull Batalla de Gallos 
 https://videostreaming.cloudserverlatam.com/Batalladegallos/Batalladegallos/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",San Marino RTV Sport (720p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",San Marino RTV Sport
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",SBS Golf (1080p) [Not 24/7]
-https://allanf181.github.io/adaptive-streams/streams/kr/SBSGolf.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Screen Golfzon (1080p) [Not 24/7]
-https://allanf181.github.io/adaptive-streams/streams/kr/ScreenGolfzon.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sharjah Sports TV (1080p)
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Ski TV (1080p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="Sports",Ski TV 
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",skySports (1080p) [Not 24/7]
-https://allanf181.github.io/adaptive-streams/streams/kr/SkySports.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",Sport Visión
 https://5fa5de1a545ae.streamlock.net/sportvision35tv/sportvision35tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sports Tonight (576p) [Not 24/7]
-http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sports TV (720p) [Geo-blocked]
-https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sports TV Plus (1080p)
-https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",SportsGrid (1080p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",SportsGrid 
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sportskool TV (720p)
-https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sportswire (1080p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sportswire 
 https://dai.google.com/linear/hls/event/8R__yZf7SR6yMb-oTXgbEQ/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Sporty Stuff TV (720p)
-https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",SSC1 HD (1080p)
-https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Stadium (720p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",Stadium
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",TDM Sports Macau (720p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",TDM Sports Macau 
 http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
-#EXTINF:0 tvg-id="TeletrakTV.cl" group-title="Sports",Teletrak (720p)
+#EXTINF:0 tvg-id="TeletrakTV.cl" group-title="Sports",Teletrak
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",TNT Sports 2 Brasil (720p) [Not 24/7]
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",TNT Sports 3 Brasil (720p)
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",TNT Sports 4 Brasil (720p) [Not 24/7]
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",TNT Sports 5 Brasil (720p) [Not 24/7]
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Turf Móvil (720p)
-https://janus.tvturf.cl/playlist/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Türkmenistan Sport (406p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="Sports",Türkmenistan Sport
 https://alpha.tv.online.tm/hls/ch004.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",TV 2 Sporten (720p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",TV 2 Sporten 
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",TVRI Sport (720p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",TVRI Sport 
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",TVS Boxing (360p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",TVS Boxing 
 https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",TVS Classic Sports (360p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",TVS Classic Sports
 http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",TVS Sports (720p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="Sports",TVS Sports 
 https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",TVS Sports Bureau (720p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",TVS Sports Bureau 
 https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",TVS Turbo (360p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",TVS Turbo 
 https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",TVS Women Sports (720p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",TVS Women Sports 
 https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Unbeaten (1080p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",Unbeaten
 https://unbeaten-roku.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",World of Freesports (720p)
-https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",World Poker Tour (1080p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="Sports",World Poker Tour 
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Yas (1080p)
-https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",Астрахань.Ru Sport (720p)
+#EXTINF:0 tvg-id="ext" group-title="Sports",Астрахань.Ru Sport 
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 
