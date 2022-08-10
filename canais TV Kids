@@ -3,12 +3,11 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 29/07/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 10/08/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
 #########################################################################################################################################################################
  
 #EXTM3U
-
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  RÁDIOS & TV INFANTIS PORTUGAL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -19,6 +18,37 @@ https://000000
 https://s5.radio.co/s9c516a065/listen
 #EXTINF:-1,[COLOR=white][B]RÁDIO ZIG ZAG[/B][/COLOR][COLOR=white][/COLOR]
 https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
+
+
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS INFANTIS PORTUGAL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+#EXTINF:0 tvg-id="BabyTV.pt" group-title="Channels",[COLOR=white][B]BABY TV[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8000/play/a0jk
+#EXTINF:0 tvg-id="canalpanda.pt" group-title="Channels",[COLOR=white][B]CANAL PANDA[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8000/play/a0ix
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CANAL PANDA[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8001/play/a02t
+#EXTINF:0 tvg-id="cartoon.pt" group-title="Channels",[COLOR=white][B]CARTOON NETWORK[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8000/play/a0h3
+#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Channels",[COLOR=white][B]PANDA BIGGS[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8000/play/a0gv
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PANDA BIGGS[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8001/play/a02u
+#EXTINF:0 tvg-id="disneychannel.pt" group-title="Channels",[COLOR=white][B]DISNEY CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8000/play/a0gu
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DISNEY CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8001/play/a02q
+#EXTINF:0 tvg-id="DisneyJunior.pt" group-title="Channels",[COLOR=white][B]DISNEY JUNIOR[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8000/play/a0iv
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DISNEY JUNIOR[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8001/play/a02r
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]LOLLY KIDS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8000/play/a001
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CARTOON NETWORK[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8001/play/a02s
 
 
 #######################################################################################################################
@@ -52,8 +82,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f9200078883
 https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]EBS KIDS[/B][/COLOR][COLOR=white][/COLOR]
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
-#EXTINF:0 tvg-id="lale" group-title="Kids",[COLOR=white][B]LALE[/B][/COLOR][COLOR=white][/COLOR]
-http://stream.atr.ua/lale//live/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]SPACETOON[/B][/COLOR][COLOR=white][/COLOR]
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]ATFAL WA MAWAHED[/B][/COLOR][COLOR=white][/COLOR]
@@ -211,19 +239,4 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609501978c069d00074e0dd2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
 #EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]PLUTO TV RETRO TOONS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1c669094e0e80009b22ab8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e1c669094e0e80009b22ab8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=886c7aee-0585-11eb-8b9f-0242ac110002&terminate=false&userId=
-
-
-#######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  BREVEMENTE NOVA LISTA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://000000
-
-#EXTM3U
-
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",NÃO DISPONÍVEL
-http://0000000000000000000000000000
-
-
-
-
 
