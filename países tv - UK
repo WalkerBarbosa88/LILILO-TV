@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 ##################################################################################################################################################
 
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 04/08/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 10/08/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #################################################################################################################################################
  
@@ -19,7 +19,6 @@ FONTE DE INFORMAÇÃO: https://vk.com/clubslynet
 https://000000
 
 #EXTM3U
-
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",FREESPORTS HD
 http://87.212.248.44:60130/play/a06k
@@ -131,6 +130,9 @@ https://000000
 
 #EXTM3U
 
+
+
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",ATN
 http://87.212.248.44:60230/play/a05g/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",AWE Plus | EUA
@@ -140,8 +142,6 @@ http://87.212.248.44:60230/play/a07u/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",B4U MOVIES (UK)
 http://144.217.70.181:9587/hin2/B4UMOVIESUK/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="BBCNews.nws" group-title="Channels",BBC NEWS
-http://45.153.35.210:8000/play/UK_bbc_news_sd/index.m3u8
-#EXTINF:0 tvg-id="BBCNews.nws" group-title="Channels",BBC NEWS
 http://87.212.248.44:60230/play/a04n/index.m3u8
 #EXTINF:0 tvg-id="BBC1EastMidlands.uk" group-title="Channels",BBC One E Mid
 http://87.212.248.44:60230/play/a04e/index.m3u8
@@ -149,8 +149,6 @@ http://87.212.248.44:60230/play/a04e/index.m3u8
 http://87.212.248.44:60230/play/a04f/index.m3u8
 #EXTINF:0 tvg-id="BBCOneHD.uk" group-title="Channels",BBC One HD
 http://87.212.248.44:60130/play/a05n
-#EXTINF:0 tvg-id="ext" group-title="Channels",BBC One Lon
-http://45.153.35.210:8000/play/UK_bbc_1_sd/index.m3u8
 #EXTINF:0 tvg-id="BBC1NorthernIreland.uk" group-title="Channels",BBC One NI
 http://87.212.248.44:60230/play/a06z/index.m3u8
 #EXTINF:0 tvg-id="BBC1NorthernIreland.uk" group-title="Channels",BBC One NI HD
@@ -169,8 +167,6 @@ http://87.212.248.44:60230/play/a04h/index.m3u8
 http://87.212.248.44:60230/play/a04d/index.m3u8
 #EXTINF:0 tvg-id="BBCParliament.uk" group-title="Channels",BBC Parliament
 http://87.212.248.44:60230/play/a04g/index.m3u8
-#EXTINF:0 tvg-id="BBC2.uk" group-title="Channels",BBC Two
-http://45.153.35.210:8000/play/UK_bbc_2_sd/index.m3u8
 #EXTINF:0 tvg-id="BBC2.uk" group-title="Channels",BBC Two HD
 http://87.212.248.44:60130/play/a05q
 #EXTINF:0 tvg-id="BBC2NorthernIreland.uk" group-title="Channels",BBC Two NI
@@ -382,11 +378,7 @@ http://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u
 #EXTINF:0 tvg-id="ext" group-title="Channels",pocket.watch do Plex | EUA
 https://f3445d6b0acf47dab6af7097fc57ce6d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_PocketWatch/playlist.m3u8?ads.wurl_channel=272&ads.wurl_name=PocketWatch&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=5f91c4ea96a391002df9a661&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.coppa=1&ads.device_type=handset&ads.device_id_type=
 #EXTINF:0 tvg-id="pop.uk" group-title="Channels",POP
-http://45.153.35.210:8000/play/UK_pop_sd/index.m3u8
-#EXTINF:0 tvg-id="pop.uk" group-title="Channels",POP
 http://87.212.248.44:60130/play/a05y
-#EXTINF:0 tvg-id="ext" group-title="Channels",POP Max
-http://45.153.35.210:8000/play/UK_pop_max_sd/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",POP Max
 http://87.212.248.44:60130/play/a05z
 #EXTINF:0 tvg-id="ext" group-title="Channels",POP Max+1
@@ -476,8 +468,6 @@ https://timeline-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",TimeLineᴴᴰ [Pluto]
 https://lds-timeline-samsungau.amagi.tv/playlist720-p.m3u8
 #EXTINF:0 tvg-id="TinyPop.uk" group-title="Channels",Tiny Pop
-http://45.153.35.210:8000/play/UK_tiny_pop_sd/index.m3u8
-#EXTINF:0 tvg-id="TinyPop.uk" group-title="Channels",Tiny Pop
 http://87.212.248.44:60130/play/a05x
 #EXTINF:0 tvg-id="tinypop1.uk" group-title="Channels",Tiny Pop+1
 http://87.212.248.44:60130/play/a08c
@@ -486,11 +476,7 @@ https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.
 #EXTINF:0 tvg-id="ext" group-title="Channels",TJC HD
 http://87.212.248.44:60130/play/a08s
 #EXTINF:0 tvg-id="ext" group-title="Channels",Trace Hits
-http://45.153.35.210:8000/play/a014/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Trace Hits
 http://87.212.248.44:60230/play/a075/index.m3u8
-#EXTINF:0 tvg-id="TraceVault.uk" group-title="Channels",Trace Vault
-http://45.153.35.210:8000/play/a017/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",TRT Worldᴴᴰ
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",US Weekly | EUA
@@ -555,3 +541,5 @@ https://33e805253f2141d7b493982e8f629523.mediatailor.us-east-1.amazonaws.com/v1/
 https://5462283e44cd428abcbb5a468c678e99.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_RakutenTVShows/playlist.m3u8?ads.wurl_channel=425&ads.wurl_name=RakutenTVShows&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 #EXTINF:0 tvg-id="ext" group-title="Channels",EDGEsport
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-edgesportusa-samsungtv-uk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+
+
