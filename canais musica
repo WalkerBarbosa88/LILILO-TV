@@ -262,6 +262,10 @@ https://000000
 #EXTINF:-1,[COLOR=white][B]AFROBEAT - ÁFRICA[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 
+# https://www.dbm-tv.fr/dbm-live/ https://www.dailymotion.com/video/x5qokx5
+#EXTINF:-1,[COLOR=white][B]DBM TV HD[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.dailymotion_com/?url=x5qokx5&amp;mode=playLiveVideo
+
 
 ######################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  MÚSICA ROCK  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
