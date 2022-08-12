@@ -46,6 +46,19 @@ http://194.76.186.98:2021/play/a00l
 #EXTINF:-1,[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
 http://194.76.186.98:2021/play/a00j
 
+#EXTINF:-1,[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
+http://cdnrede.com:80/Teste2021/2021teste/207263
+#EXTINF:-1,[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
+http://cdnrede.com:80/Teste2021/2021teste/207263
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://85.245.237.73:8082/play/a001
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://cdnrede.com:80/Teste2021/2021teste/207264
+#EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]🇹
+http://cdnrede.com:80/Teste2021/2021teste/207265
+#EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://cdnrede.com:80/Teste2021/2021teste/207266
+
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS SPORT TV PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -147,10 +160,11 @@ http://200.24.132.99:8000/play/a023
 http://193.252.43.21:10200/play/a08l
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RMC SPORTS FR. 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://193.252.43.21:10200/play/a09r
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RMC SPORTS FR. 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://193.252.43.21:10200/play/a08l
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RMC SPORTS FR. 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://193.252.43.21:10200/play/a08n
+
+
+
 
 
 ##################################  BENFICA TV   ###########################################################################
