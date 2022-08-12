@@ -35,17 +35,6 @@ http://194.76.186.98:2021/play/a01t
 http://194.76.186.98:2021/play/a01u
 #EXTINF:-1,[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://194.76.186.98:2021/play/a01w
-#EXTINF:-1,[COLOR=white][B]NOS STUDION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://194.76.186.98:2021/play/a00i
-#EXTINF:-1,[COLOR=white][B]TVCINE ACTION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://194.76.186.98:2021/play/a00m
-#EXTINF:-1,[COLOR=white][B]TVCINE EDITION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://194.76.186.98:2021/play/a00k
-#EXTINF:-1,[COLOR=white][B]TVCINE EMOTION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://194.76.186.98:2021/play/a00l
-#EXTINF:-1,[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
-http://194.76.186.98:2021/play/a00j
-
 #EXTINF:-1,[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
 http://cdnrede.com:80/Teste2021/2021teste/207263
 #EXTINF:-1,[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -294,5 +283,15 @@ http://45.92.69.70:8001/play/a07u
 http://45.92.69.70:8001/play/a080
 
 
+#EXTINF:-1,[COLOR=white][B]NOS STUDION HD[/B][/COLOR][COLOR=white][/COLOR]
+http://194.76.186.98:2021/play/a00i
+#EXTINF:-1,[COLOR=white][B]TVCINE ACTION HD[/B][/COLOR][COLOR=white][/COLOR]
+http://194.76.186.98:2021/play/a00m
+#EXTINF:-1,[COLOR=white][B]TVCINE EDITION HD[/B][/COLOR][COLOR=white][/COLOR]
+http://194.76.186.98:2021/play/a00k
+#EXTINF:-1,[COLOR=white][B]TVCINE EMOTION HD[/B][/COLOR][COLOR=white][/COLOR]
+http://194.76.186.98:2021/play/a00l
+#EXTINF:-1,[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
+http://194.76.186.98:2021/play/a00j
 
 
