@@ -10,7 +10,7 @@ http://0.0.0.0:0000
 * LISTAS GRATUITAS IPTV ORG - https://github.com/iptv-org/iptv
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 04/08/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 12/08/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
@@ -107,7 +107,6 @@ https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificca
 #EXTINF:-1,[COLOR=white][B]TVI REALITY TV[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
 
-
 #EXTINF:0 tvg-id="ext" group-title="Religious",[COLOR=white][B]KURIAKOS TV[/B][/COLOR][COLOR=white][/COLOR]
 http://w1.manasat.com:1935/ktv/ktv/chunklist.m3u8
 
@@ -135,18 +134,12 @@ http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
 #EXTINF:-1,[COLOR=white][B]SANTUÁRIO DE FÁTIMA[/B][/COLOR][COLOR=white][/COLOR]
 https://streamer-a01.videos.sapo.pt/live/santuario/chunklist.m3u8?wowzasessionid=inspiration
 
-#  https://www.youtube.com/watch?v=KWCIFzlzbP0
-#EXTINF:-1,[COLOR=white][B]VATICANO LIVE[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=y1XjOwMXXMg
-
-
-
 #EXTINF:-1,[COLOR=white][B]EURONEWS PT HD[/B][/COLOR][COLOR=white][/COLOR]
 https://euronews.alteox.app/hls/pt_stream.m3u8
 
 
 ##########################################################################################################################################
-#EXTINF:-1,[COLOR=orange][B]LISTA 2 REVISTA: 04/08/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA 2 REVISTA: 12/08/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
  
 #EXTM3U
