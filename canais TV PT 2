@@ -47,6 +47,8 @@ http://45.92.69.72:8001/play/a02l
 http://45.92.69.72:8001/play/a02j
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CMTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gf
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CMTV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8001/play/a03x
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PORTO CANAL HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0j2
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PORTO CANAL HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -55,86 +57,97 @@ http://45.92.69.72:8001/play/a041
 ******************************************************************  FILMES E SÉRIES DE TV PT  ******************
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]FOX COMEDY HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX COMEDY HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a032
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]FOX COMEDY HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX COMEDY HD[/B][/COLOR][COLOR=white][/COLOR]
 http://cdnrede.com:80/sophia/sophia/207204
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]AXN HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8000/play/a0gm
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX CRIME[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8000/play/a0h2
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX LIFE[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8000/play/a0h1
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX MOVIES HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8000/play/a0h0
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]AXN HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0go
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]AXN MOVIES[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]AXN MOVIES[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0h6
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]AXN WHITE[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]AXN WHITE[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0h5
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]AXN WHITE HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]AXN WHITE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0jx
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]HOLLYWOOD HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HOLLYWOOD HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0jg
 
 ******************************************************************  MÚSICA  ******************
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]TRACE URBAN HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TRACE URBAN HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a038
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]TRACE URBAN[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TRACE URBAN[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0ig
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]TRACE TOCA HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TRACE TOCA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a03a
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]MCM TOP[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MCM TOP[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0ih
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]MCM POP[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MCM POP[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0jp
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]MTV PORTUGAL[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MTV PORTUGAL[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0h7
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]AFRO MUSIC HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]AFRO MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0hh
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]ALMA LUSA HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ALMA LUSA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a002
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]MEZZO[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MEZZO[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0ii
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]CLUBBING TV HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CLUBBING TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0jr
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]VH1[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]VH1[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0hf
 
 
 ******************************************************************  CANAIS BR E ÁFRICA  ******************
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]RECORD NEWS[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RECORD NEWS[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0jq
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]TPA[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TPA[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0jo
 
 ******************************************************************  DESPORTO  ******************
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]EUROSPORT 1 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]EUROSPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gh
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]EUROSPORT 1 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]EUROSPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a02o
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]CANAL 11[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CANAL 11[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0ge
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]A BOLA TV[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CANAL 11[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8001/play/a03w
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]A BOLA TV[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0ho
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SPORTING TV HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORTING TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a02n
+
 
 ******************************************************************  CANAIS TV INFANTIS  ******************
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]PANDA BIGGS[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PANDA BIGGS[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gv
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]CANAL PANDA[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CANAL PANDA[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0ix
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]DISNEY CHANNEL[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DISNEY CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gu
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]DISNEY JUNIOR[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DISNEY JUNIOR[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0iv
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]CARTOON NETWORK[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CARTOON NETWORK[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0h3
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]LOLLY KIDS HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]LOLLY KIDS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a001
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]BABY TV[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BABY TV[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0jk 
 
 
@@ -163,14 +176,7 @@ http://45.92.69.72:8000/play/a0j3
 http://45.92.69.72:8000/play/a0hg
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]EURONEWS[/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0ik
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]FOX CRIME[/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8000/play/a0h2
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]FOX HD[/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8000/play/a0gm
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]FOX LIFE[/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8000/play/a0h1
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]FOX MOVIES HD[/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8000/play/a0h0
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]FTV[/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0hr
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]FRANCE24[/COLOR][COLOR=white][/COLOR]
@@ -229,12 +235,10 @@ http://45.92.69.72:8001/play/a033
 http://45.92.69.72:8001/play/a03q
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]BLAZE HD[/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a03e
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]CMTV HD[/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8001/play/a03x
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]CNBC[/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a03r
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]CANAL 11 HD[/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8001/play/a03w
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]CANAL 180[/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a03t
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]CANAL Q[/COLOR][COLOR=white][/COLOR]
