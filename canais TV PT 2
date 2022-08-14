@@ -13,42 +13,43 @@ http://0.0.0.0:0000
 
 ******************************************************************  GENERALISTAS & NOTÍCIAS PT  ******************
 
+EXEMPLO  [COLOR=white][B]ONFM PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]RTP1[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP1[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0g7
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]RTP2[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP2[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0g8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]RTP3[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP3[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gd
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]RTP AÇORES[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP AÇORES[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0ir
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]RTP MADEIRA[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP MADEIRA[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0is
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]RTP MEMÓRIA[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP MEMÓRIA[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gk
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]RTP ÁFRICA HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP ÁFRICA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0hn
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SIC[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0g9
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SIC CARAS[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC CARAS[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0jd
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SIC MULHER[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC MULHER[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gt
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SIC NOTÍCIAS[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC NOTÍCIAS[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0ga
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SIC RADICAL[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC RADICAL[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0it
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SIC K[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC K[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gs
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]CNN PORTUGAL[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CNN PORTUGAL[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a02l
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]CNN PORTUGAL HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CNN PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a02j
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]CMTV HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CMTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gf
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]PORTO CANAL HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PORTO CANAL HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0j2
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]PORTO CANAL HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PORTO CANAL HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a041
 
 ******************************************************************  FILMES E SÉRIES DE TV PT  ******************
