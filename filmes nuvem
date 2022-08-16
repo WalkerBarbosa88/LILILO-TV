@@ -1,5 +1,5 @@
 ####################################################################################################################################
-#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]//////////////////  FILMES NUVEM  ///////////////////////[/B][/COLOR]
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]//////////////////  FILMES NUVEM E RECENTES ///////////////////////[/B][/COLOR]
 http://0.0.0.0:000000
 ####################################################################################################################################
  
@@ -7,7 +7,12 @@ http://0.0.0.0:000000
 #EXTINF:-1,[COLOR=yellow][B]LISTA ATUALIZADA: 11/08/2022 [/B][/COLOR][COLOR=yellow][/COLOR]
  
 #EXTM3U
- 
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]///////// FILMES DA NUVEM /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+#EXTM3U
 
 #EXTINF:-1,[COLOR=white][B]MINIMOS 2, A ASCENSÃO DE GRU (2022)[/B][/COLOR][COLOR=white][/COLOR]
 https://cld.pt/dl/download/9e1d60a7-7a3e-48d0-a5e9-51cd50cb607c/Minions.The.Rise.of.Gru.2022.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv
@@ -41,6 +46,23 @@ https://cld.pt/dl/download/34760a90-a966-465e-8ebb-2c9d44b013b0/smallfoot.2018.7
  
 #EXTINF:-1,[COLOR=white][B]MULHER MARAVILHA 1984 (2020)[/B][/COLOR][COLOR=white][/COLOR]
 https://cld.pt/dl/download/6eef2581-a94f-41c5-8e73-6c074a70ccb2/Wonder%20Woman%201984.2020.IMAX.HDRip.XviD.AC3-EVO.avi?download=true
+
+#EXTM3U
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  FILMES RECENTES  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+#EXTM3U
+
+#EXTINF:-1,[COLOR=white][B]SONIC 2 - 2022 (4K)[/B][/COLOR][COLOR=white][/COLOR]
+http://platinumpro-evo.com:8080/movie/pontes82/sB7iL3SpPF/128145.mkv
+
+#EXTINF:-1,[COLOR=white][B]A CIDADE PERDIDA 2022 (4K)[/B][/COLOR][COLOR=white][/COLOR]
+http://platinumpro-evo.com:8080/movie/pontes82/sB7iL3SpPF/128142.mkv
+
+
+
 
 
 
