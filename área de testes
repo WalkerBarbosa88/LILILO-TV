@@ -83,4 +83,81 @@ http://194.76.186.98:2021/play/a01c
 #EXTINF:-1,TVI HD
 http://194.76.186.98:2021/play/a005
 
+#EXTINF:-1,[COLOR=orange][B]/////////  LISTA BR VERIFICADA 17/08/22  /////////[/B][/COLOR][COLOR=orange][/COLOR]
+
+#EXTM3U
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",RECORDTV HD
+http://xcui.vitvabc.xyz:8880/287994016273/287994016273/16748
+#EXTINF:0 tvg-id="animal-hd" group-title="Channels",ANIMAL PLANET HD
+http://xcui.vitvabc.xyz:8880/287994016273/287994016273/16693
+#EXTINF:0 tvg-id="discov_rus-hd" group-title="Channels",DISCOVERY CHANNEL HD
+http://xcui.vitvabc.xyz:8880/287994016273/287994016273/16705
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Channels",COMEDY CENTRAL HD+
+http://xcui.vitvabc.xyz:8880/287994016273/287994016273/16704
+#EXTINF:0 tvg-id="StarOne.uk" group-title="Channels",Star Life
+http://xcui.vitvabc.xyz:8880/287994016273/287994016273/16721
+#EXTINF:0 tvg-id="CineMAX.ro" group-title="Channels",CINEMAX HD
+http://xcui.vitvabc.xyz:8880/287994016273/287994016273/16702
+#EXTINF:0 tvg-id="discov_sci" group-title="Channels",Discovery Science HD+
+http://xcui.vitvabc.xyz:8880/287994016273/287994016273/16708
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SporTV 1 HD+
+http://xcui.vitvabc.xyz:8880/287994016273/287994016273/16753
+#EXTINF:0 tvg-id="discov_turbo-extra" group-title="Channels",Discovery World HD+
+http://xcui.vitvabc.xyz:8880/287994016273/287994016273/16712
+#EXTINF:0 tvg-id="Space.br" group-title="Channels",Space HD+
+http://xcui.vitvabc.xyz:8880/287994016273/287994016273/16750
+#EXTINF:0 tvg-id="ext" group-title="Channels",ID Investigao Discovery HD+
+http://xcui.vitvabc.xyz:8880/287994016273/287994016273/16736
+#EXTINF:0 tvg-id="HBOFamilyHD.cl" group-title="Channels",HBO FAMILY HD
+http://xcui.vitvabc.xyz:8880/287994016273/287994016273/31462
+#EXTINF:0 tvg-id="paramount" group-title="Channels",Paramount Channel HD+
+http://xcui.vitvabc.xyz:8880/287994016273/287994016273/16746
+#EXTINF:0 tvg-id="tnt" group-title="Channels",TNT HD+
+http://xcui.vitvabc.xyz:8880/287994016273/287994016273/16760
+#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Channels",Discovery Turbo HD+
+http://xcui.vitvabc.xyz:8880/287994016273/287994016273/16711
+#EXTINF:0 tvg-id="ext" group-title="Channels",TNT Sies HD+
+http://xcui.vitvabc.xyz:8880/287994016273/287994016273/16761
+#EXTINF:0 tvg-id="history2-rus" group-title="Channels",H2 HD+
+http://xcui.vitvabc.xyz:8880/287994016273/287994016273/16733
+#EXTINF:0 tvg-id="AXN.bg" group-title="Channels",AXN HD+
+http://xcui.vitvabc.xyz:8880/287994016273/287994016273/16695
+#EXTINF:0 tvg-id="Sbtsp.br" group-title="Channels",SBT SP HD+
+http://xcui.vitvabc.xyz:8880/287994016273/287994016273/16749
+#EXTINF:0 tvg-id="Globosp.br" group-title="Channels",Globo SP HD+
+http://xcui.vitvabc.xyz:8880/287994016273/287994016273/16730
+#EXTINF:0 tvg-id="Sony.br" group-title="Channels",Canal Sony HD+
+http://xcui.vitvabc.xyz:8880/287994016273/287994016273/16700
+#EXTINF:0 tvg-id="Megapix.br" group-title="Channels",MEGAPIX HD
+http://xcui.vitvabc.xyz:8880/287994016273/287994016273/31279
+#EXTINF:0 tvg-id="Combate.br" group-title="Channels",Combate HD+
+http://xcui.vitvabc.xyz:8880/287994016273/287994016273/16703
+#EXTINF:0 tvg-id="HBO2.pl" group-title="Channels",HBO 2 HD
+http://xcui.vitvabc.xyz:8880/287994016273/287994016273/31460
+#EXTINF:0 tvg-id="HBO1.nl" group-title="Channels",HBO 1 HD
+http://xcui.vitvabc.xyz:8880/287994016273/287994016273/31465
+#EXTINF:0 tvg-id="Tcfun.br" group-title="Channels",Telecine Fun HD+
+http://xcui.vitvabc.xyz:8880/287994016273/287994016273/16756
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="Channels",Telecine Premium HD+
+http://xcui.vitvabc.xyz:8880/287994016273/287994016273/16758
+#EXTINF:0 tvg-id="Tcaction.br" group-title="Channels",TELECINE ACTION HD
+http://xcui.vitvabc.xyz:8880/287994016273/287994016273/31583
+#EXTINF:0 tvg-id="FOXSports1.us" group-title="Channels",Fox Sports 1 HD+
+http://xcui.vitvabc.xyz:8880/287994016273/287994016273/16725
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="Channels",Telecine Pipoca HD+
+http://xcui.vitvabc.xyz:8880/287994016273/287994016273/16757
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="Channels",ESPN 2 HD+
+http://xcui.vitvabc.xyz:8880/287994016273/287994016273/16716
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 4K
+http://xcui.vitvabc.xyz:8880/287994016273/287994016273/31034
+#EXTINF:0 tvg-id="ESPN3.mx" group-title="Channels",ESPN 3
+http://xcui.vitvabc.xyz:8880/287994016273/287994016273/31142
+#EXTINF:0 tvg-id="ESPN4.br" group-title="Channels",ESPN 4 HD
+http://xcui.vitvabc.xyz:8880/287994016273/287994016273/31148
+
+
+
+
+
 
