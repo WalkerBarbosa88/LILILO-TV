@@ -15,7 +15,7 @@ FONTE DE INFORMAÇÃO: https://vk.com/clubslynet
 #EXTM3U
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////// LISTA CANAIS UK /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  LISTA CANAIS INGLATERRA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTM3U
@@ -40,7 +40,7 @@ http://87.212.248.44:60130/play/a08z
 http://87.212.248.44:60130/play/a090
 #EXTINF:0 tvg-id="ext" group-title="Channels",GREAT! ACTION
 http://87.212.248.44:60130/play/a08y
-#EXTINF:0 tvg-id="HomeandHealth.uk" group-title="Channels",HOME & HEALTH
+#EXTINF:0 tvg-id="HomeandHealth.uk" group-title="Channels",DISCOVERY HOME & HEALTH
 http://87.212.248.44:60130/play/a04s
 #EXTINF:0 tvg-id="id-extra" group-title="Channels",ID
 http://87.212.248.44:60130/play/a04o
@@ -56,7 +56,7 @@ http://87.212.248.44:60130/play/a08n
 http://87.212.248.44:60130/play/a08o
 #EXTINF:0 tvg-id="ext" group-title="Channels",ITV MERIDIAN SOUTH COAST
 http://87.212.248.44:60130/play/a08k
-#EXTINF:0 tvg-id="ext" group-title="Channels",ITV Meridian Thames Valley
+#EXTINF:0 tvg-id="ext" group-title="Channels",ITV MERIDIAN THAMES VALLEY
 http://87.212.248.44:60130/play/a08j
 #EXTINF:0 tvg-id="ITV1Yorkshire.uk" group-title="Channels",ITV YORKSHIRE WEST
 http://87.212.248.44:60130/play/a08l
