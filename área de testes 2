@@ -7,24 +7,26 @@ http://0.0.0.0:0000
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=yellow][B] FILMES PT EM TESTE [/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] FILMES PT - LEGENDADOS [/B][/COLOR][COLOR=yellow][/COLOR]
 
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="" tvg-name="PT: Harry Potter And The Prisoner Of Azkaban" tvg-logo="https://image.tmdb.org/t/p/original/1HdMUghqlgOIvbsU9ZtO40IPRzl.jpg" group-title="VOD Portugal",PT: Harry Potter And The Prisoner Of Azkaban
+#EXTINF:-1,[COLOR=white][B]HARRY POTTER E OS TALISMAS DA MORTE - PARTE 1[/B][/COLOR][COLOR=white][/COLOR]
+
+#EXTINF:-1,[COLOR=white][B]HARRY POTTER E O PRISIONEIRO DE AZKABAN[/B][/COLOR][COLOR=white][/COLOR]
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/221224.mp4
-#EXTINF:-1 tvg-id="" tvg-name="PT: Harry Potter E A Camara Dos Segredos" tvg-logo="https://image.tmdb.org/t/p/original/811j0Jf2D0mK1U6RxXJoZgOB29n.jpg" group-title="VOD Portugal",PT: Harry Potter E A Camara Dos Segredos
+#EXTINF:-1,[COLOR=white][B]HARRY POTTER E O PRISIONEIRO DE AZKABAN[/B][/COLOR][COLOR=white][/COLOR]
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/221223.mp4
-#EXTINF:-1 tvg-id="" tvg-name="PT: Harry Potter E A Ordem Da Fenix" tvg-logo="https://image.tmdb.org/t/p/original/tIf9aUyNljda9MG1pjlOLHCZ3b0.jpg" group-title="VOD Portugal",PT: Harry Potter E A Ordem Da Fenix
+#EXTINF:-1,[COLOR=white][B]HARRY POTTER E A ORDEM DE FELIX[/B][/COLOR][COLOR=white][/COLOR]
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/221222.mp4
-#EXTINF:-1 tvg-id="" tvg-name="PT: Harry Potter E A Pedra Filosofal" tvg-logo="https://image.tmdb.org/t/p/original/qnw9610ojLT0jU3lMSZOAFttt1e.jpg" group-title="VOD Portugal",PT: Harry Potter E A Pedra Filosofal
+#EXTINF:-1,[COLOR=white][B]HARRY POTTER E A PEDRA FILOSOFAL[/B][/COLOR][COLOR=white][/COLOR]
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/221221.mp4
-#EXTINF:-1 tvg-id="" tvg-name="PT: Harry Potter E O Calice De Fogo" tvg-logo="https://image.tmdb.org/t/p/original/5oWB3hjzyECRBAjgWkmZinxl9qA.jpg" group-title="VOD Portugal",PT: Harry Potter E O Calice De Fogo
+#EXTINF:-1,[COLOR=white][B]HARRY POTTER E O CÁLISE DE FOGO[/B][/COLOR][COLOR=white][/COLOR]
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/221220.mp4
-#EXTINF:-1 tvg-id="" tvg-name="PT: Harry Potter E O Principe Misterioso" tvg-logo="https://image.tmdb.org/t/p/original/hTQQ5l9mxA3Rob8PTyvrNNGuj6y.jpg" group-title="VOD Portugal",PT: Harry Potter E O Principe Misterioso
+#EXTINF:-1,[COLOR=white][B]HARRY POTTER E O PRÍNCIPE MISTERIOSO[/B][/COLOR][COLOR=white][/COLOR]
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/221219.mp4
-#EXTINF:-1 tvg-id="" tvg-name="PT: Harry Potter E Os Talismas Da Morte - Parte 1" tvg-logo="https://image.tmdb.org/t/p/original/67FVFOTaeBUQnimhCWpUkDawDct.jpg" group-title="VOD Portugal",PT: Harry Potter E Os Talismas Da Morte - Parte 1
+#EXTINF:-1,[COLOR=white][B]HARRY POTTER E OS TALISMAS DA MORTE - PARTE 1[/B][/COLOR][COLOR=white][/COLOR]
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/221218.mp4
-#EXTINF:-1 tvg-id="" tvg-name="PT: Harry Potter E Os Talismas Da Morte - Parte 2" tvg-logo="https://image.tmdb.org/t/p/original/yD3VosOVW8WxPUzBDpEdzfv5pGx.jpg" group-title="VOD Portugal",PT: Harry Potter E Os Talismas Da Morte - Parte 2
+#EXTINF:-1,[COLOR=white][B]HARRY POTTER E OS TALISMAS DA MORTE - PARTE 2[/B][/COLOR][COLOR=white][/COLOR]
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/221217.mp4
