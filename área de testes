@@ -10,16 +10,12 @@ http://0.0.0.0:0000
 
 
 
-#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H FHD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/HlY8PW.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]LISTA GRATIS PARA TODOS bY DWIGHT FARROKH [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/75297075/89542107/5205|User-Agent=VLC/3.0.18
+
 #EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/HlY8PW.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]DISCOVERY H&H HD[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/75297075/89542107/5053|User-Agent=VLC/3.0.18
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white] DISCOVERY H&H HD [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/75297075/89542107/5053|User-Agent=VLC/3.0.18
 
-
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN FHD" tvg-logo="https://imagizer.imageshack.com/img921/9168/ZCxqJS.png" group-title="CANAIS | ESPORTES",ESPN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]LISTA GRATIS PARA TODOS bY DWIGHT FARROKH [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/75297075/89542107/5215|User-Agent=VLC/3.0.18
 #EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="https://imagizer.imageshack.com/img921/9168/ZCxqJS.png" group-title="CANAIS | ESPORTES",ESPN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]ESPN 1 HD[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/75297075/89542107/5064|User-Agent=VLC/3.0.18
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white] ESPN 1 HD [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/75297075/89542107/5064|User-Agent=VLC/3.0.18
 
 
 #EXTINF:-1,[COLOR=orange][B]/////////  LISTA PT VERIFICADA 12/08/22  /////////[/B][/COLOR][COLOR=orange][/COLOR]
