@@ -8,20 +8,29 @@ http://0.0.0.0:0000
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/HlY8PW.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white] DISCOVERY H&H HD[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/75297075/89542107/5053|User-Agent=VLC/3.0.18
+[COLOR=white][B]MC 80´S[/B][/COLOR][COLOR=white][/COLOR]
 
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="https://imagizer.imageshack.com/img921/9168/ZCxqJS.png" group-title="CANAIS | ESPORTES",ESPN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white] ESPN 1 HD[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/75297075/89542107/5064|User-Agent=VLC/3.0.18
+#EXTINF:-1,[COLOR=orange][B]/////////  CANAIS EM TESTE  /////////[/B][/COLOR][COLOR=orange][/COLOR]
+
+#EXTM3U
+
+
+[COLOR=white][B]HGTV BR HD[/B][/COLOR][COLOR=white][/COLOR]
+
+#EXTINF:-1 tvg-id="discovery.home.health.br" tvg-name="DISCOVERY H&H HD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/HlY8PW.png" group-title="CANAIS | DOCUMENTÁRIOS",DISCOVERY H&H HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/75297075/89542107/5053|User-Agent=VLC/3.0.18
+
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN HD" tvg-logo="https://imagizer.imageshack.com/img921/9168/ZCxqJS.png" group-title="CANAIS | ESPORTES",ESPN 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/75297075/89542107/5064|User-Agent=VLC/3.0.18
 
 #EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2 HD" tvg-logo="https://imagizer.imageshack.com/img923/3127/lvs3XC.png" group-title="CANAIS | ESPORTES",ESPN 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white] ESPN 2 HD[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/75297075/89542107/5062|User-Agent=VLC/3.0.18
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/75297075/89542107/5062|User-Agent=VLC/3.0.18
 
 #EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN 3 HD" tvg-logo="https://imagizer.imageshack.com/img922/1584/5vkptX.png" group-title="CANAIS | ESPORTES",ESPN 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white] ESPN 3 HD[/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/75297075/89542107/465906|User-Agent=VLC/3.0.18
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR=white][B]ESPN 3 HD[/B][/COLOR][COLOR=white][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/75297075/89542107/465906|User-Agent=VLC/3.0.18
 
 #EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/yLVo0Y.png" group-title="CANAIS | VARIEDADES",HGTV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR white] HGTV HD [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/75297075/89542107/5052|User-Agent=VLC/3.0.18
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR=white][B]HGTV BR HD[/B][/COLOR][COLOR=white][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/75297075/89542107/5052|User-Agent=VLC/3.0.18
 
 
 #EXTINF:-1,[COLOR=orange][B]/////////  LISTA PT VERIFICADA 12/08/22  /////////[/B][/COLOR][COLOR=orange][/COLOR]
