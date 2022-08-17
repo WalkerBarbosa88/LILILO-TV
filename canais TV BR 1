@@ -53,14 +53,11 @@ http://189.91.128.146:4444/udp/227.10.20.116:1234
 http://clienteworld.com:80/claud123/claud123/82754
 
 #EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/75297075/89542107/5064|User-Agent=VLC/3.0.18
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/75297075/89542107/5064|User-Agent=VLC/3.0.18
 #EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/75297075/89542107/5062|User-Agent=VLC/3.0.18
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/75297075/89542107/5062|User-Agent=VLC/3.0.18
 #EXTINF:-1,[COLOR=white][B]ESPN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR=white][B]ESPN 3 HD[/B][/COLOR][COLOR=white][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/75297075/89542107/465906|User-Agent=VLC/3.0.18
-
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/75297075/89542107/465906|User-Agent=VLC/3.0.18
 
 #EXTINF:-1,[COLOR=white][B]SPORTV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://acsb.sh:80/4673629418/snakeplay/72332
@@ -141,10 +138,10 @@ http://189.91.128.146:4444/udp/227.10.20.118:1234
 http://clienteworld.com:80/claud123/claud123/82931
 
 #EXTINF:-1,[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/75297075/89542107/5053|User-Agent=VLC/3.0.18
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/75297075/89542107/5053|User-Agent=VLC/3.0.18
 
 #EXTINF:-1,[COLOR=white][B]HGTV BR HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR=white][B]HGTV BR HD[/B][/COLOR][COLOR=white][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/75297075/89542107/5052|User-Agent=VLC/3.0.18
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/75297075/89542107/5052|User-Agent=VLC/3.0.18
 
 
 
