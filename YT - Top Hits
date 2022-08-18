@@ -14,6 +14,10 @@ http://0.0.0.0:0000
  
 #EXTM3U
 
+
+#EXTINF:-1,[COLOR=white][B]TYGA & JHENÉ AIKO, POP SMOKE - SUNSHINE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=FTpohtXaJcM&list=RDCLAK5uy_lqNm3KZ4SvTuiGHhnvuep0z2CwMS0OyL4&index=15
+
 #EXTINF:-1,[COLOR=white][B]CAROLINA DESLANDES FT. ANTONIO ZAMBUJO - COISA MAIS BONITA (LETRA)[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=AVPJ0U3nLS0
 
