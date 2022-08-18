@@ -19,6 +19,8 @@ FONTE DE INFORMAÇÃO: https://vk.com/clubslynet
 #EXTINF:-1,[COLOR=yellow][B]///////// LISTA 1 USA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
+#EXTM3U
+
 
 #EXTINF:0 tvg-id="FiveUSA.uk" group-title="Channels",5 USA
 http://185.234.217.19:8012/play/a04y/index.m3u8
@@ -57,10 +59,12 @@ http://185.234.217.19:8016/play/a053/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
-
+#EXTM3U
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// LISTA 2 USA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
+
+#EXTM3U
 
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",Red Bull TV
@@ -254,5 +258,1516 @@ http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist
 https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",White Plains Community Media
 http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8
+
+#EXTM3U
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]///////// LISTA 3 USA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+#EXTM3U
+
+#EXTINF:0 tvg-id="MSNBCHD.us" group-title="USA | USA",US: MSNBC
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25193
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: The Golf Channel
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25194
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBA tv
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25198
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NESN Boston
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25199
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NESN Plus
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25200
+#EXTINF:0 tvg-id="NESN.us" group-title="USA | USA",US: NESN
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25201
+#EXTINF:0 tvg-id="CineSony.us" group-title="USA | USA",US: Cine Sony
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25202
+#EXTINF:0 tvg-id="CNNenEspanol.us" group-title="USA | USA",US: CNN en Español
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25204
+#EXTINF:0 tvg-id="Syfy.us" group-title="USA | USA",US: Syfy
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25205
+#EXTINF:0 tvg-id="beINSPORTSenespanol.us" group-title="USA | USA",US: Bein Sports En Español
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25206
+#EXTINF:0 tvg-id="TBSHD.us" group-title="USA | USA",US: TBS
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25212
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NFL Network
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25213
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: SBG Stadium
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25214
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: SBG Stadium 1
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25216
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Investigation Discovery Pacific
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25218
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Oprah Winfrey Network
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25220
+#EXTINF:0 tvg-id="AnimalPlanet.us" group-title="USA | USA",US: Animal Planet
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25221
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Motor Trend
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25222
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: TLC Pacific
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25224
+#EXTINF:0 tvg-id="TLC.us" group-title="USA | USA",US: TLC
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25225
+#EXTINF:0 tvg-id="Science.us" group-title="USA | USA",US: Discovery Science
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25226
+#EXTINF:0 tvg-id="DiscoveryFamilia.us" group-title="USA | USA",US: Discovery Familia
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25227
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Discovery Pacific
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25228
+#EXTINF:0 tvg-id="InvestigationDiscovery.us" group-title="USA | USA",US: Investigation Discovery
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25229
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Discovery Español
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25230
+#EXTINF:0 tvg-id="DiscoveryLife.us" group-title="USA | USA",US: Discovery Life
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25231
+#EXTINF:0 tvg-id="Discovery.us" group-title="USA | USA",US: Discovery Channel
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25232
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Discovery Family
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25233
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Natgeo Pacific
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25251
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Ginx Sports TV
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25252
+#EXTINF:0 tvg-id="FOXDeportes.us" group-title="USA | USA",US: FOX Deportes.
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25253
+#EXTINF:0 tvg-id="FXX.us" group-title="USA | USA",US: FXX
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25254
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FXM
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25255
+#EXTINF:0 tvg-id="FX.us" group-title="USA | USA",US: FX
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25256
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Fusion
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25257
+#EXTINF:0 tvg-id="FOXNewsChannel.us" group-title="USA | USA",US: Fox News Channel
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25258
+#EXTINF:0 tvg-id="DIYNetworkHD.us" group-title="USA | USA",US: Diy
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25259
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ABC Milwaukee
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25261
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ABC Kansas City
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25262
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ABC San Antonio
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25263
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ABC Salt lake city
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25264
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ABC Saint Paul
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25266
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ABC Baltimore
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25267
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ABC Tampa Bay
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25268
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ABC Phoenix
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25269
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ABC Indianapolis
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25270
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ABC Cleveland
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25271
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ABC Sacramento
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25272
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ABC Charlotte
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25273
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ABC Miami
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25274
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ABC Orlando
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25275
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ABC Nashville
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25276
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ABC San Diego
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25277
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ABC Denver
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25278
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ABC Dallas
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25281
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ABC Pittsburgh
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25282
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ABC Detroit
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25284
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ABC Boston
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25285
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ABC Atlanta
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25286
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ABC Connecticut
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25288
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ABC Fresno
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25289
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ABC houston
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25290
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ABC durham
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25291
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ABC Chicago
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25292
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ABC New York
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25293
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ABC Philadelphia
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25294
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ABC San Francisco
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25295
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ABC Los Angeles
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25296
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC Washington
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25297
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC St Louis
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25298
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC Seattle
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25299
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC San Diego
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25301
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC Salt Lake City
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25302
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC Sacramento
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25303
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC Raleigh
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25304
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC Portland
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25305
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC Pittsburgh
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25306
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC Phoenix
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25307
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC Philadelphia
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25308
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC New York
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25310
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC New Orleans
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25311
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC Nashville
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25312
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC Minneapolis
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25313
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC Milwaukee
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25314
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC Miami
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25315
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC Los Angeles
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25316
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC Kansas City
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25317
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC Jacksonville
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25318
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC Indianapolis
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25319
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC Houston
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25320
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC Hartford
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25321
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC Green Bay
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25322
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC Detroit
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25323
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC Denver
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25324
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC Dallas
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25325
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC Cleveland
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25326
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC Cincinnati
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25327
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC Chicago
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25328
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC Charlotte
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25329
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC Buffalo
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25330
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC Boston
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25331
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC Baltimore
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25332
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC Atlanta
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25333
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX Washington
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25334
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX Tampa
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25335
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX St Louis
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25336
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX Seattle
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25337
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX San Francisco
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25338
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX San Diego
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25339
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX Salt Lake City
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25341
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX Sacramento
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25342
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX Phoenix
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25344
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX Philadelphia
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25345
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX Orlando
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25346
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX Ocala
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25347
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX New York
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25348
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX New Orleans
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25349
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX Minneapolis
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25351
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX Milwaukee
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25352
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX Miami
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25353
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX Los Angeles
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25354
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX Kansas City
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25355
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX Jacksonville
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25356
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX Indianapolis
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25357
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX Houston
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25358
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX Hartford
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25359
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX Detroit
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25361
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX Denver
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25362
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX Columbus
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25363
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX Dallas
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25364
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX Cleveland
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25365
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX Chicago
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25366
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX Boston
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25368
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX Belmont
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25369
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX Austin
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25371
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX Atlanta
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25372
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: KTVU Plus
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25373
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS Washington
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25374
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS Tampa
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25375
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS St Louis
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25376
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS Seattle
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25377
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS San Francisco
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25378
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS San Diego
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25379
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS San Antonio
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25380
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS Sacramento
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25381
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS Pittsburgh
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25382
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS Phoenix
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25383
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS Philadelphia
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25384
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS Orlando
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25385
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS New York
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25386
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS New Orleans
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25387
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS Nashville
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25388
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS Milwaukee
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25389
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS Minneapolis
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25390
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS Miami
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25391
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS Los Angeles KCAL
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25392
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS Kansas City
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25393
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS Jacksonville
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25394
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS Houston
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25395
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS Hartford
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25396
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS Greensboro
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25397
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS Detroit
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25398
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS Denver
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25399
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS Dallas
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25400
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS Columbus
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25401
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS Chicago
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25403
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS Charlotte
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25404
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS Boston
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25405
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS Baltimore
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25406
+#EXTINF:0 tvg-id="HBOEast.us" group-title="USA | USA",US: HBO
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25407
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Cartoon Network Pacific
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25408
+#EXTINF:0 tvg-id="CartoonNetwork.us" group-title="USA | USA",US: Cartoon Network
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25409
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Disney XD Pacific
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25414
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Fox Bussines Network
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25415
+#EXTINF:0 tvg-id="FoodNetwork.us" group-title="USA | USA",US: Food Network
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25416
+#EXTINF:0 tvg-id="ESPNU.us" group-title="USA | USA",US: ESPN U
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25417
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Eleven Sports Network
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25420
+#EXTINF:0 tvg-id="E.us" group-title="USA | USA",US: E! Entertainment
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25421
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Epix Hits
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25422
+#EXTINF:0 tvg-id="ESPN2.us" group-title="USA | USA",US: ESPN 2
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25423
+#EXTINF:0 tvg-id="ESPNHD.us" group-title="USA | USA",US: ESPN 1
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25424
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Fox College Sports Pacific
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25425
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Fox Collage Sports Atlantic
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25426
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Disney Junior Pacific
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25427
+#EXTINF:0 tvg-id="DisneyChannelEast.us" group-title="USA | USA",US: Disney Channel
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25428
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Cozi TV
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25430
+#EXTINF:0 tvg-id="CookingChannel.us" group-title="USA | USA",US: Cooking Channel
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25431
+#EXTINF:0 tvg-id="CNN.us" group-title="USA | USA",US: CNN
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25432
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CNBC World
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25433
+#EXTINF:0 tvg-id="CNBC.us" group-title="USA | USA",US: CNBC
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25434
+#EXTINF:0 tvg-id="CinemaxHDWest.us" group-title="USA | USA",US: Cinemax West
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25435
+#EXTINF:0 tvg-id="CinemaxActionMaxHDEast.us" group-title="USA | USA",US: Cinemax East
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25436
+#EXTINF:0 tvg-id="CBSSportsNetwork.us" group-title="USA | USA",US: CBS Sports Network
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25437
+#EXTINF:0 tvg-id="BTN.us" group-title="USA | USA",US: BTN
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25438
+#EXTINF:0 tvg-id="Bravo.us" group-title="USA | USA",US: Bravo
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25439
+#EXTINF:0 tvg-id="Boomerang.us" group-title="USA | USA",US: Boomerang
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25440
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: BBC World News
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25441
+#EXTINF:0 tvg-id="BBCAmerica.us" group-title="USA | USA",US: BBC America
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25442
+#EXTINF:0 tvg-id="Freeform.us" group-title="USA | USA",US: Freeform
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25444
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Sony Movie Channel
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25445
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Sundance
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25446
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Syfy Pacific
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25447
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: TNT Pacific
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25448
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: TBS Pacific
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25449
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Travel
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25451
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Travel Pacific
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25452
+#EXTINF:0 tvg-id="TCM.us" group-title="USA | USA",US: TCM
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25453
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Network Pacific
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25454
+#EXTINF:0 tvg-id="WEtv.us" group-title="USA | USA",US: We TV
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25455
+#EXTINF:0 tvg-id="truTV.us" group-title="USA | USA",US: Trutv
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25456
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Fox College Sports Central
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25457
+#EXTINF:0 tvg-id="ESPNews.us" group-title="USA | USA",US: Espn News
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25458
+#EXTINF:0 tvg-id="AmericanHeroes.us" group-title="USA | USA",US: American Heroes
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25459
+#EXTINF:0 tvg-id="AMC.us" group-title="USA | USA",US: AMC
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25460
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS Atlanta
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25461
+#EXTINF:0 tvg-id="ESPNDeportes.us" group-title="USA | USA",US: Espn Deportes
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25462
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: HBO Pacific
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25463
+#EXTINF:0 tvg-id="DisneyChannelEast.us" group-title="USA | USA",US: Disney Channel
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25464
+#EXTINF:0 tvg-id="FOXSports2.us" group-title="USA | USA",US: Fox Sports 2
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25466
+#EXTINF:0 tvg-id="FOXSports1.us" group-title="USA | USA",US: Fox Sports 1
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25467
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: MLB Strike One
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25469
+#EXTINF:0 tvg-id="MLBNetwork.us" group-title="USA | USA",US: MLB Network
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25471
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Universal Kids
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25472
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Baby TV
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25474
+#EXTINF:0 tvg-id="HallmarkMovies-Mysteries.us" group-title="USA | USA",US: Hallmark Movies & Mysteries
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25475
+#EXTINF:0 tvg-id="Hallmark.us" group-title="USA | USA",US: Hallmark Channel
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25476
+#EXTINF:0 tvg-id="ShowtimeE.us" group-title="USA | USA",US: Showtime East
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25478
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Showtime Pacific
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25479
+#EXTINF:0 tvg-id="MSNBCHD.us" group-title="USA | USA",US: MSNBC
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34723
+#EXTINF:0 tvg-id="HLN.us" group-title="USA | USA",US: HLN
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34727
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBA tv
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34728
+#EXTINF:0 tvg-id="Syfy.us" group-title="USA | USA",US: Syfy
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34735
+#EXTINF:0 tvg-id="TBSHD.us" group-title="USA | USA",US: TBS
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34742
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NFL Network
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34743
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: SBG Stadium 2
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34745
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: SBG Stadium 1
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34746
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Oprah Winfrey Network
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34750
+#EXTINF:0 tvg-id="AnimalPlanet.us" group-title="USA | USA",US: Animal Planet
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34751
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Motor Trend
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34752
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: TLC Pacific
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34754
+#EXTINF:0 tvg-id="TLC.us" group-title="USA | USA",US: TLC
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34755
+#EXTINF:0 tvg-id="Science.us" group-title="USA | USA",US: Discovery Science
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34756
+#EXTINF:0 tvg-id="InvestigationDiscovery.us" group-title="USA | USA",US: Investigation Discovery
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34759
+#EXTINF:0 tvg-id="DiscoveryLife.us" group-title="USA | USA",US: Discovery Life
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34761
+#EXTINF:0 tvg-id="Discovery.us" group-title="USA | USA",US: Discovery Channel
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34762
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Discovery Family
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34763
+#EXTINF:0 tvg-id="FX.us" group-title="USA | USA",US: FX
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34786
+#EXTINF:0 tvg-id="NBCSportsBayArea.us" group-title="USA | USA",US: NBC Sports Bay Area
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34790
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ABC Kansas City
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34792
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ABC Baltimore
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34797
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ABC Chicago
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34822
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ABC New York
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34823
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC Sacramento
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34833
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC New Orleans
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34841
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC Miami
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34845
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC Houston
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34850
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC Cleveland
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34856
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC Boston
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34861
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: NBC Atlanta
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34863
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX St Louis
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34866
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX Seattle
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34867
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX New York
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34878
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX New Orleans
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34879
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX Kansas City
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34885
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX Denver
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34892
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX Boston
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34898
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS Seattle
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34907
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS Sacramento
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34911
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS New York
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34916
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS Milwaukee
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34919
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS Miami
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34921
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS Kansas City
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34923
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS Hartford
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34926
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS Dallas
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34930
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS Boston
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34935
+#EXTINF:0 tvg-id="HBOEast.us" group-title="USA | USA",US: HBO
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34937
+#EXTINF:0 tvg-id="DisneyXD.us" group-title="USA | USA",US: Disney XD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34943
+#EXTINF:0 tvg-id="ESPNU.us" group-title="USA | USA",US: ESPN U
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34947
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Epix Hits
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34952
+#EXTINF:0 tvg-id="ESPN2.us" group-title="USA | USA",US: ESPN 2
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34953
+#EXTINF:0 tvg-id="ESPNHD.us" group-title="USA | USA",US: ESPN 1
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34954
+#EXTINF:0 tvg-id="CNN.us" group-title="USA | USA",US: CNN
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34962
+#EXTINF:0 tvg-id="CinemaxHDWest.us" group-title="USA | USA",US: Cinemax West
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34965
+#EXTINF:0 tvg-id="CinemaxActionMaxHDEast.us" group-title="USA | USA",US: Cinemax East
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34966
+#EXTINF:0 tvg-id="BTN.us" group-title="USA | USA",US: BTN
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34968
+#EXTINF:0 tvg-id="BBCAmerica.us" group-title="USA | USA",US: BBC America
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34972
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Sundance
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34976
+#EXTINF:0 tvg-id="TCM.us" group-title="USA | USA",US: TCM
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34983
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Usa Network Pacific
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34984
+#EXTINF:0 tvg-id="WEtv.us" group-title="USA | USA",US: We TV
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34985
+#EXTINF:0 tvg-id="truTV.us" group-title="USA | USA",US: Trutv
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34986
+#EXTINF:0 tvg-id="AmericanHeroes.us" group-title="USA | USA",US: American Heroes
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34989
+#EXTINF:0 tvg-id="AMC.us" group-title="USA | USA",US: AMC
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34990
+#EXTINF:0 tvg-id="ESPNDeportes.us" group-title="USA | USA",US: Espn Deportes
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34992
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: HBO Pacific
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34993
+#EXTINF:0 tvg-id="DisneyChannelEast.us" group-title="USA | USA",US: Disney Channel
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34994
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FS 1
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34997
+#EXTINF:0 tvg-id="MLBNetwork.us" group-title="USA | USA",US: MLB Network
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/35001
+#EXTINF:0 tvg-id="HallmarkMovies-Mysteries.us" group-title="USA | USA",US: Hallmark Movies & Mysteries
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/35005
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",=====USA | USA====
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/35010
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Fox Sports Wisconsin
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/35012
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Fox Sports West
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/35013
+#EXTINF:0 tvg-id="FoxSportsSun.us" group-title="USA | USA",US: Fox Sports SUN
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/35014
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Fox Sports South
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/35015
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Fox Sports San Diego
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/35016
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX YES
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/35018
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Fox Sportstime OH
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/35019
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Fox Sports Ohio
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/35020
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Fox Sports North
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/35021
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Fox Sports Midwest
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/35022
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Fox Sports Florida
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/35023
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Fox Sports Detroit
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/35024
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Fox Sports Arizona
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/35025
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS-POP
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/35027
+#EXTINF:0 tvg-id="FOXSoccerPlus.us" group-title="USA | USA",US: FOX SOCCER PLUS
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/35029
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",===USA | USA NEW CHANNELS====
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/35030
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ABC 4 (Seattle)
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/96386
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ABC 2 (Portland)
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/96387
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Euronews.
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/104314
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: METV
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/106602
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Acc Network.
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/106603
+#EXTINF:0 tvg-id="FX.us" group-title="USA | USA",US: FX
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/111856
+#EXTINF:0 tvg-id="Discovery.us" group-title="USA | USA",US: Discovery
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/111857
+#EXTINF:0 tvg-id="TLC.us" group-title="USA | USA",US: TLC
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/111858
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Baby-TV
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/111859
+#EXTINF:0 tvg-id="FoodNetworkHD.us" group-title="USA | USA",US: Food Network HD.
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/111860
+#EXTINF:0 tvg-id="CineSony.us" group-title="USA | USA",US: Cine Sony
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/111861
+#EXTINF:0 tvg-id="beINSPORTS.us" group-title="USA | USA",US: beIN Sports
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/111862
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ACC Network
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/111864
+#EXTINF:0 tvg-id="TVG.us" group-title="USA | USA",US: TVG
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1119229
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: ACC NETWORK | HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1129987
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: MARQUEE SPORTS NETWORK
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1133431
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: Spectrum Sportsnet LA Dodgers
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1134191
+#EXTINF:0 tvg-id="H2.us" group-title="USA | USA",US: H2
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1134192
+#EXTINF:0 tvg-id="Oxygen.us" group-title="USA | USA",US: Oxygen
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1134193
+#EXTINF:0 tvg-id="BET.us" group-title="USA | USA",US: Bet
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1134353
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX Orlando
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1147734
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: FOX San Jose
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1147735
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: MTV 2
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1151404
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US: CBS Los Angeles KCBS
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1157991
+#EXTINF:0 tvg-id="Nicktoons.us" group-title="USA | USA",US: Nicktoons
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1163436
+#EXTINF:0 tvg-id="CMT.us" group-title="USA | USA",US: CMT
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1163643
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",US American Heroes Channel
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1164977
+#EXTINF:0 tvg-id="ext" group-title="USA | USA",USA | NEWS 12 NEW JERSEY
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1182468
+
+#EXTINF:0 tvg-id="ext" group-title="Latino || USA",USA | Telemundo Tucson
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25234
+#EXTINF:0 tvg-id="ext" group-title="Latino || USA",USA | Telemundo San francisco
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25235
+#EXTINF:0 tvg-id="ext" group-title="Latino || USA",USA | Telemundo Phoenix
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25237
+#EXTINF:0 tvg-id="ext" group-title="Latino || USA",USA | Telemundo Philadelphia
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25238
+#EXTINF:0 tvg-id="ext" group-title="Latino || USA",USA | Telemundo New York
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25239
+#EXTINF:0 tvg-id="ext" group-title="Latino || USA",USA | Telemundo Miami
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25240
+#EXTINF:0 tvg-id="ext" group-title="Latino || USA",USA | Telemundo Los Angeles
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25241
+#EXTINF:0 tvg-id="ext" group-title="Latino || USA",USA | Telemundo Las Vegas
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25242
+#EXTINF:0 tvg-id="ext" group-title="Latino || USA",USA | Telemundo Houston
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25243
+#EXTINF:0 tvg-id="ext" group-title="Latino || USA",USA | Telemundo Fresno
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25245
+#EXTINF:0 tvg-id="ext" group-title="Latino || USA",USA | Telemundo Dallas
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25247
+#EXTINF:0 tvg-id="ext" group-title="Latino || USA",USA | Telemundo Chicago.
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25248
+#EXTINF:0 tvg-id="ext" group-title="Latino || USA",USA | Telemundo Boston
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25249
+#EXTINF:0 tvg-id="ext" group-title="Latino || USA",USA | NBC Telemundo
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/25250
+#EXTINF:0 tvg-id="ext" group-title="Latino || USA",USA | USA Telemundo Phoenix
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34767
+#EXTINF:0 tvg-id="ext" group-title="Latino || USA",USA | USA Telemundo New York
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34769
+#EXTINF:0 tvg-id="ext" group-title="Latino || USA",USA | USA Telemundo Miami
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34770
+#EXTINF:0 tvg-id="ext" group-title="Latino || USA",USA | USA Telemundo Houston
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34773
+#EXTINF:0 tvg-id="ext" group-title="Latino || USA",USA | USA Telemundo Chicago
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34778
+#EXTINF:0 tvg-id="ext" group-title="Latino || USA",USA | USA Telemundo Boston
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/34779
+
+#EXTINF:0 tvg-id="ext" group-title="Deportes",Dep|| beIN Sports en Español |USA Opc 1
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/111863
+
+#EXTINF:0 tvg-id="ext" group-title="USA || LOCALES",US: Newsmaxtv
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1197850
+
+#EXTINF:0 tvg-id="UnivisionEast.us" group-title="USA",US: Univision FHD test
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/27746
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Yes Network
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28485
+#EXTINF:0 tvg-id="ext" group-title="USA",US: WWE PPV
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28486
+#EXTINF:0 tvg-id="ext" group-title="USA",US: WWE 24/7 FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28487
+#EXTINF:0 tvg-id="ext" group-title="USA",US: WPIX 11 NY
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28488
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Wild HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28489
+#EXTINF:0 tvg-id="ext" group-title="USA",US: WGN News Chicago
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28490
+#EXTINF:0 tvg-id="WGN.us" group-title="USA",US: WGN America HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28491
+#EXTINF:0 tvg-id="ext" group-title="USA",US: WEATHER CHANNEL HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28492
+#EXTINF:0 tvg-id="WEtvHD.us" group-title="USA",US: WE TV HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28493
+#EXTINF:0 tvg-id="ext" group-title="USA",US: WCNC Breaking News
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28494
+#EXTINF:0 tvg-id="ext" group-title="USA",US: WAPA America HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28497
+#EXTINF:0 tvg-id="ext" group-title="USA",US: SHOWTIME FAMILY ZONE FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28498
+#EXTINF:0 tvg-id="ext" group-title="USA",US: RT NEWS
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28499
+#EXTINF:0 tvg-id="RevoltHD.us" group-title="USA",US: REVOLT HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28500
+#EXTINF:0 tvg-id="ext" group-title="USA",US: POP TV
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28501
+#EXTINF:0 tvg-id="ext" group-title="USA",US: PBS KIDS EAST
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28502
+#EXTINF:0 tvg-id="PBSNET.us" group-title="USA",US: PBS HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28503
+#EXTINF:0 tvg-id="ext" group-title="USA",US: PAC-12 Networks HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28504
+#EXTINF:0 tvg-id="ext" group-title="USA",US: OWN NETWORK FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28505
+#EXTINF:0 tvg-id="ext" group-title="USA",US: NICK HD (kids)
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28506
+#EXTINF:0 tvg-id="ext" group-title="USA",US: NBCSN Philadelphia HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28508
+#EXTINF:0 tvg-id="ext" group-title="USA",US: NBCSN North West HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28509
+#EXTINF:0 tvg-id="ext" group-title="USA",US: NBCSN Chicago HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28510
+#EXTINF:0 tvg-id="ext" group-title="USA",US: NBCSN California HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28511
+#EXTINF:0 tvg-id="ext" group-title="USA",US: NBCSN Boston HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28512
+#EXTINF:0 tvg-id="ext" group-title="USA",US: NBCSN Bay Area HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28513
+#EXTINF:0 tvg-id="ext" group-title="USA",US: NBC 4 (NY)
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28514
+#EXTINF:0 tvg-id="ext" group-title="USA",US: NBC (EAST)
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28516
+#EXTINF:0 tvg-id="ext" group-title="USA",US: MSG  HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28517
+#EXTINF:0 tvg-id="ext" group-title="USA",US: MLB Live HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28518
+#EXTINF:0 tvg-id="ext" group-title="USA",US: lifetime movies FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28519
+#EXTINF:0 tvg-id="ext" group-title="USA",US: HSN HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28520
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Hallmark Drama
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28523
+#EXTINF:0 tvg-id="ext" group-title="USA",US: GAMESHOW NETWORK HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28524
+#EXTINF:0 tvg-id="Galavision.us" group-title="USA",US: GALAVISION
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28525
+#EXTINF:0 tvg-id="ext" group-title="USA",US: FYI NETWORK
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28526
+#EXTINF:0 tvg-id="ext" group-title="USA",US: FXX WEST
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28527
+#EXTINF:0 tvg-id="FXXHD.us" group-title="USA",US: FXX HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28528
+#EXTINF:0 tvg-id="ext" group-title="USA",US: FX (West)
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28530
+#EXTINF:0 tvg-id="ext" group-title="USA",US: FUSION
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28531
+#EXTINF:0 tvg-id="FuseHD.us" group-title="USA",US: FUSE HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28532
+#EXTINF:0 tvg-id="ext" group-title="USA",US: FOX West
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28533
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Fox Sports Tennessee HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28534
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Fox Sports (West) HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28537
+#EXTINF:0 tvg-id="ext" group-title="USA",US: BALLY SPORTS: SUN
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28538
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Fox Sports (South West) HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28539
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Fox Sports (South East) HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28540
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Fox Sports (Ohio) HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28542
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Fox Sports (College Central) HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28544
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Fox Sports (College Atlantic) HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28545
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Fox Sports (Arizona) HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28546
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Fox College Atlantic HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28549
+#EXTINF:0 tvg-id="FoxBusinessNetworkHD.us" group-title="USA",US: Fox Business HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28550
+#EXTINF:0 tvg-id="WNYWNewYorkFOXHDEast.us" group-title="USA",US: FOX 5 HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28552
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Fight Network HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28553
+#EXTINF:0 tvg-id="ext" group-title="USA",US: EPIX FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28554
+#EXTINF:0 tvg-id="DisneyJuniorHD.us" group-title="USA",US: DISNEY JR HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28555
+#EXTINF:0 tvg-id="DiscoveryLife.us" group-title="USA",US: DISCOVERY LIFE
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28556
+#EXTINF:0 tvg-id="DiscoveryFamilyChannel.us" group-title="USA",US: DISCOVERY FAMILY HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28557
+#EXTINF:0 tvg-id="Crime-InvestigationHD.us" group-title="USA",US: Crime & Investigation FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28558
+#EXTINF:0 tvg-id="ext" group-title="USA",US: CNN INTERNATIONAL HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28560
+#EXTINF:0 tvg-id="ThrillerMAXHD.us" group-title="USA",US: Cinemax ThrillerMax FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28561
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 41 Waiting for the Barbarians
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28562
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 40 The Tax Collector
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28563
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 39 Shifter
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28564
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 38 Nothing But the Blood
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28565
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 36 Ravage
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28566
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 35 Senior Love Triangle
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28567
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 34 An American Pickle
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28568
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 33 Beast No More
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28569
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 32 Irresistible
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28570
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 31 Perfect 10
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28571
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 30 She Dies Tomorrow
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28572
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 29 Chemical Hearts
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28573
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 28 Stage Mother
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28574
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 27 You're Not Alone
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28575
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 26 Frankie
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28576
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 25 You Should Have Left
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28577
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 24 The Vast Of Night
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28578
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 23 The Trip To Greece
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28579
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 22 The Postcard Killings
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28580
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 21 The Outpost
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28581
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 20 The Great Silence
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28582
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 19 Superman: Man of Tomorrow
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28583
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 18 Magic Camp
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28584
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 17 Love Guaranteed
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28585
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 16 G-Loc
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28586
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 15 Chemical Hearts
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28587
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 14 Bill & Ted Face the Music
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28588
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 13 Baba Yaga
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28589
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 12 All together now
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28590
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 11 The War with Grandpa
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28591
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 10 Valley of the Gods
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28592
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 09 Unbelievable
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28593
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 08 The One and Only Ivan
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28594
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 07 The King of Staten Island
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28595
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 06 The Wretched
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28596
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 05 The Owners
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28597
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 04 The Bay of Silence
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28598
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 03 Heartbeat
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28599
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 02 Rogue
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28600
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinema 01 Mulán
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28601
+#EXTINF:0 tvg-id="ext" group-title="USA",US: CBS News
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28602
+#EXTINF:0 tvg-id="ext" group-title="USA",US: CBS New York FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28603
+#EXTINF:0 tvg-id="ext" group-title="USA",US: C-Span HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28604
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Buzzer TV
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28605
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Bounce TV
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28606
+#EXTINF:0 tvg-id="ext" group-title="USA",US: ANTENNA TV
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28607
+#EXTINF:0 tvg-id="TennisChannelHD.us" group-title="USA",US: Tennis Channel HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28615
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Sportsnet World
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28616
+#EXTINF:0 tvg-id="SportsNetOntario.ca" group-title="USA",US: Sportsnet Ontario
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28617
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Sportsnet One
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28618
+#EXTINF:0 tvg-id="TLC.us" group-title="USA",US: TLC HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28619
+#EXTINF:0 tvg-id="TNTHD.us" group-title="USA",US: TNT FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28620
+#EXTINF:0 tvg-id="truTVHD.us" group-title="USA",US: truTV HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28621
+#EXTINF:0 tvg-id="beINSPORTSHD.us" group-title="USA",US: beIN Sports HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28622
+#EXTINF:0 tvg-id="ext" group-title="USA",US: WWE
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28624
+#EXTINF:0 tvg-id="ext" group-title="USA",US: WWE Network FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28625
+#EXTINF:0 tvg-id="ext" group-title="USA",US: WWE HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28626
+#EXTINF:0 tvg-id="VH1Classic.us" group-title="USA",US: VH1 Classic
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28627
+#EXTINF:0 tvg-id="VH1HD.us" group-title="USA",US: VH1 HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28628
+#EXTINF:0 tvg-id="USANetwork.us" group-title="USA",US: USA Network HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28632
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Network HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28633
+#EXTINF:0 tvg-id="ext" group-title="USA",US: UFC Fight Pass
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28634
+#EXTINF:0 tvg-id="ext" group-title="USA",US: UNIVERSAL KIDS HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28636
+#EXTINF:0 tvg-id="ext" group-title="USA",US: OLYMPIC Channel
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28637
+#EXTINF:0 tvg-id="UniMas.us" group-title="USA",US: UNIMAS
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28638
+#EXTINF:0 tvg-id="ext" group-title="USA",US: UFC TV HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28639
+#EXTINF:0 tvg-id="ext" group-title="USA",US: UFC NETWORK HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28640
+#EXTINF:0 tvg-id="ext" group-title="USA",US: UC TV
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28641
+#EXTINF:0 tvg-id="TravelChannel.us" group-title="USA",US: Travel Channel HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28642
+#EXTINF:0 tvg-id="TNTHD.us" group-title="USA",US: TNT HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28643
+#EXTINF:0 tvg-id="TBSHD.us" group-title="USA",US: TBS HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28644
+#EXTINF:0 tvg-id="TVOne.us" group-title="USA",US: TV ONE FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28646
+#EXTINF:0 tvg-id="TVLand.us" group-title="USA",US: TV Land
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28647
+#EXTINF:0 tvg-id="TravelChannel.us" group-title="USA",US: Travel Channel FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28650
+#EXTINF:0 tvg-id="TheWeatherChannelHD.us" group-title="USA",US: THE WEATHER CHANNEL HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28652
+#EXTINF:0 tvg-id="ext" group-title="USA",US: THE SPORTSMAN CHANNEL
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28653
+#EXTINF:0 tvg-id="ext" group-title="USA",US: The Cowboy Channel (RFD-TV)
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28656
+#EXTINF:0 tvg-id="SyfyHD.us" group-title="USA",US: SyFy HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28657
+#EXTINF:0 tvg-id="Syfy.us" group-title="USA",US: SyFy
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28658
+#EXTINF:0 tvg-id="StarzEdge.us" group-title="USA",US: Starz Edge FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28662
+#EXTINF:0 tvg-id="StarzEast.us" group-title="USA",US: Starz East FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28663
+#EXTINF:0 tvg-id="StarzComedyHD.us" group-title="USA",US: Starz Comedy FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28665
+#EXTINF:0 tvg-id="StarzCinemaHD.us" group-title="USA",US: Starz Cinema
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28667
+#EXTINF:0 tvg-id="StarzCinemaHD.us" group-title="USA",US: Starz Cinema FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28668
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Starz Cinema East HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28669
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Spike TV HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28670
+#EXTINF:0 tvg-id="SpikeHD.us" group-title="USA",US: Spike HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28671
+#EXTINF:0 tvg-id="SundanceTV.us" group-title="USA",US: Sundance TV FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28673
+#EXTINF:0 tvg-id="StarzWestHD.us" group-title="USA",US: Starz West HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28674
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Starz Kids & Family 24/7 HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28675
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Starz Black HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28676
+#EXTINF:0 tvg-id="StarzWestHD.us" group-title="USA",US: Starz West FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28678
+#EXTINF:0 tvg-id="StarzEast.us" group-title="USA",US: Starz FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28679
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Starz Family FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28680
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Starz Encore Western FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28681
+#EXTINF:0 tvg-id="StarzEncore.us" group-title="USA",US: Starz Encore
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28682
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Starz Encore Suspense FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28683
+#EXTINF:0 tvg-id="StarzEncore.us" group-title="USA",US: Starz Encore FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28685
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Starz Encore Classic FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28687
+#EXTINF:0 tvg-id="StarzEncoreActionHD.us" group-title="USA",US: Starz Encore Action HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28688
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Starz Encore 2 East FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28689
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Starz Black FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28690
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Showtime West HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28691
+#EXTINF:0 tvg-id="ShowtimeShowcase.us" group-title="USA",US: Showtime Showcase FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28692
+#EXTINF:0 tvg-id="ShowtimeHDEast.us" group-title="USA",US: Showtime FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28693
+#EXTINF:0 tvg-id="ShowtimeE.us" group-title="USA",US: Showtime East HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28694
+#EXTINF:0 tvg-id="SECNetworkHD.us" group-title="USA",US: SEC Network HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28696
+#EXTINF:0 tvg-id="ext" group-title="USA",US: SNY HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28698
+#EXTINF:0 tvg-id="ShowtimeExtremeHD.us" group-title="USA",US: Showtime Extreme FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28699
+#EXTINF:0 tvg-id="ext" group-title="USA",US: SHOWTIME (West) HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28700
+#EXTINF:0 tvg-id="ReelzChannelHD.us" group-title="USA",US: Reelz HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28701
+#EXTINF:0 tvg-id="ext" group-title="USA",US: RT DOCUMENTARY
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28702
+#EXTINF:0 tvg-id="ext" group-title="USA",US: RT America HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28703
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Reelz Channel HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28704
+#EXTINF:0 tvg-id="ext" group-title="USA",US: RED BULL TV FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28705
+#EXTINF:0 tvg-id="ext" group-title="USA",US: PARAMOUNT
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28708
+#EXTINF:0 tvg-id="ext" group-title="USA",US: PAC-12 Washington FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28710
+#EXTINF:0 tvg-id="ext" group-title="USA",US: PAC-12 Oregon FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28711
+#EXTINF:0 tvg-id="ext" group-title="USA",US: PAC-12 Los Angeles FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28712
+#EXTINF:0 tvg-id="ext" group-title="USA",US: PAC-12 Bay Area
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28713
+#EXTINF:0 tvg-id="OWNHD.us" group-title="USA",US: OWN FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28715
+#EXTINF:0 tvg-id="ext" group-title="USA",US: CineMax OuterMax FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28716
+#EXTINF:0 tvg-id="ext" group-title="USA",US: O.W.N HD (oprah winfrey network)
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28717
+#EXTINF:0 tvg-id="OutdoorChannel.us" group-title="USA",US: Outdoor Channel HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28719
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Oprah Winfrey Network HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28720
+#EXTINF:0 tvg-id="NickJr.us" group-title="USA",US: NICK JR
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28721
+#EXTINF:0 tvg-id="NBCSportsNetworkHD.us" group-title="USA",US: NBCSN FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28722
+#EXTINF:0 tvg-id="ext" group-title="USA",US: NBCSN (North West) HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28723
+#EXTINF:0 tvg-id="ext" group-title="USA",US: NICK Junior
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28724
+#EXTINF:0 tvg-id="ext" group-title="USA",US: NatGeo
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28725
+#EXTINF:0 tvg-id="ext" group-title="USA",US: NatGeo HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28726
+#EXTINF:0 tvg-id="ext" group-title="USA",US: NatGeo Wild HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28727
+#EXTINF:0 tvg-id="NHLNetwork.us" group-title="USA",US: NHL Network
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28728
+#EXTINF:0 tvg-id="NHLNetwork.us" group-title="USA",US: NHL Network HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28729
+#EXTINF:0 tvg-id="ext" group-title="USA",US: NFL Now HD VIP
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28730
+#EXTINF:0 tvg-id="ext" group-title="USA",US: NFL Now HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28731
+#EXTINF:0 tvg-id="ext" group-title="USA",US: NFL Network
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28732
+#EXTINF:0 tvg-id="ext" group-title="USA",US: NFL Red Zone (Match time only)
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28733
+#EXTINF:0 tvg-id="ext" group-title="USA",US: NFL Network HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28735
+#EXTINF:0 tvg-id="ext" group-title="USA",US: NFL Network FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28736
+#EXTINF:0 tvg-id="ext" group-title="USA",US: NFL Network 1
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28737
+#EXTINF:0 tvg-id="ext" group-title="USA",US: NBCSN HD VIP
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28738
+#EXTINF:0 tvg-id="NBCSportsNetworkHD.us" group-title="USA",US: NBCSN HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28739
+#EXTINF:0 tvg-id="WNBCNewYorkNBCEast.us" group-title="USA",US: NBC
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28740
+#EXTINF:0 tvg-id="ext" group-title="USA",US: NBC San Diego HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28741
+#EXTINF:0 tvg-id="ext" group-title="USA",US: NBC News HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28742
+#EXTINF:0 tvg-id="GolfChannel.us" group-title="USA",US: NBC Golf HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28743
+#EXTINF:0 tvg-id="GolfChannel.us" group-title="USA",US: NBC Golf FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28744
+#EXTINF:0 tvg-id="ext" group-title="USA",US: NBA HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28745
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Sportsnet West HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28746
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Sportsnet Ontario HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28747
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Sportsnet East HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28748
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Sportsnet 360 HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28749
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Music Choice - R&B/Soul
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28752
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Music Choice - Mexican
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28754
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Music Choice - Metal
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28755
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Music Choice - Dance
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28756
+#EXTINF:0 tvg-id="MTVHD.us" group-title="USA",US: MTV HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28757
+#EXTINF:0 tvg-id="MSNBCHD.us" group-title="USA",US: MSNBC FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28758
+#EXTINF:0 tvg-id="ext" group-title="USA",US: MSG (match time)
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28759
+#EXTINF:0 tvg-id="ext" group-title="USA",US: MoviePlex HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28761
+#EXTINF:0 tvg-id="ext" group-title="USA",US: MovieMax HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28762
+#EXTINF:0 tvg-id="CinemaxMoreMaxHDEast.us" group-title="USA",US: MoreMax FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28763
+#EXTINF:0 tvg-id="ext" group-title="USA",US: MTV Rocks
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28764
+#EXTINF:0 tvg-id="ext" group-title="USA",US:MTV Base HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28765
+#EXTINF:0 tvg-id="MLBNetwork.us" group-title="USA",US: MLB Network
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28767
+#EXTINF:0 tvg-id="ext" group-title="USA",US: MLB HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28769
+#EXTINF:0 tvg-id="LifetimeHD.us" group-title="USA",US: Lifetime HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28770
+#EXTINF:0 tvg-id="ext" group-title="USA",US: IndiePlex HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28771
+#EXTINF:0 tvg-id="InvestigationDiscovery.us" group-title="USA",US: Investigation Discovery HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28772
+#EXTINF:0 tvg-id="IFC.us" group-title="USA",US: IFC HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28773
+#EXTINF:0 tvg-id="HistoryHD.us" group-title="USA",US: History HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28774
+#EXTINF:0 tvg-id="Hallmark.us" group-title="USA",US: Hallmark
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28775
+#EXTINF:0 tvg-id="HallmarkChannelHD.us" group-title="USA",US: Hallmark Channel HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28776
+#EXTINF:0 tvg-id="HGTV.us" group-title="USA",US: HGTV
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28778
+#EXTINF:0 tvg-id="HGTVHD.us" group-title="USA",US: HGTV HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28779
+#EXTINF:0 tvg-id="HBOFamilyEast.us" group-title="USA",US: HBO Family FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28780
+#EXTINF:0 tvg-id="HBO2East.us" group-title="USA",US: HBO 2 East
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28781
+#EXTINF:0 tvg-id="ext" group-title="USA",US: HBO 2 Comedy
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28782
+#EXTINF:0 tvg-id="HBOZoneHD.us" group-title="USA",US: HBO Zone FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28783
+#EXTINF:0 tvg-id="HBOEast.us" group-title="USA",US: HBO
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28784
+#EXTINF:0 tvg-id="HBOSignature.us" group-title="USA",US: HBO Signature
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28785
+#EXTINF:0 tvg-id="HBOHDEast.us" group-title="USA",US: HBO HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28788
+#EXTINF:0 tvg-id="HBOFamilyEast.us" group-title="USA",US: HBO Family HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28789
+#EXTINF:0 tvg-id="HBO2HDEast.us" group-title="USA",US: HBO East HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28790
+#EXTINF:0 tvg-id="HBOComedyHD.us" group-title="USA",US: HBO Comedy HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28791
+#EXTINF:0 tvg-id="ext" group-title="USA",US: HBO 2 West FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28792
+#EXTINF:0 tvg-id="HBO2East.us" group-title="USA",US: HBO 2 FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28793
+#EXTINF:0 tvg-id="GSNHD.us" group-title="USA",US: GSN HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28794
+#EXTINF:0 tvg-id="ext" group-title="USA",US: GRIT TV Movies HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28795
+#EXTINF:0 tvg-id="ext" group-title="USA",US:The Golf Channel
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28796
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Fuel HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28797
+#EXTINF:0 tvg-id="FreeformHD.us" group-title="USA",US: FreeForm HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28798
+#EXTINF:0 tvg-id="ext" group-title="USA",US: BALLY SPORTS Wisconsin HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28799
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Fox Sports San Diego HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28800
+#EXTINF:0 tvg-id="ext" group-title="USA",US: FOX 43 HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28802
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Fox Sports (South) HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28803
+#EXTINF:0 tvg-id="ext" group-title="USA",US: BALLY SPORTS: NORTH
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28804
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Fox Sports HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28805
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Fox Sports (Florida) HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28806
+#EXTINF:0 tvg-id="ext" group-title="USA",US: BALLY SPORTS: DETROIT HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28807
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Fox Sports Cincinnati HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28808
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Fox Sports Carolina HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28809
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Fox Sports 2 HD VIP
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28811
+#EXTINF:0 tvg-id="FOXSports2HD.us" group-title="USA",US: Fox Sports 2 HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28812
+#EXTINF:0 tvg-id="FOXSports2HD.us" group-title="USA",US: Fox Sports 2 FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28813
+#EXTINF:0 tvg-id="FOXSports1.us" group-title="USA",US: Fox Sports 1
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28814
+#EXTINF:0 tvg-id="FOXSports1HD.us" group-title="USA",US: Fox Sports 1 FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28815
+#EXTINF:0 tvg-id="FOXSports1HD.us" group-title="USA",US: Fox Sports 1 HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28816
+#EXTINF:0 tvg-id="FOXSoccerPlus.us" group-title="USA",US: Fox Soccer Plus HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28818
+#EXTINF:0 tvg-id="ext" group-title="USA",US: FOX Sports San Diego HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28819
+#EXTINF:0 tvg-id="FOXDeportes.us" group-title="USA",US: Fox Deportes HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28820
+#EXTINF:0 tvg-id="FOXNewsChannel.us" group-title="USA",US: Fox News HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28821
+#EXTINF:0 tvg-id="WNYWNewYorkFOXHDEast.us" group-title="USA",US: Fox HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28822
+#EXTINF:0 tvg-id="FoodNetwork.us" group-title="USA",US: Food Network
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28823
+#EXTINF:0 tvg-id="FoodNetworkHD.us" group-title="USA",US: Food Network FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28824
+#EXTINF:0 tvg-id="FoodNetworkHD.us" group-title="USA",US: Food Network HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28826
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Fine Living HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28827
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Fight Sport HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28828
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Fight HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28829
+#EXTINF:0 tvg-id="ext" group-title="USA",US: GRIT HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28830
+#EXTINF:0 tvg-id="FXHD.us" group-title="USA",US: FX HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28831
+#EXTINF:0 tvg-id="ext" group-title="USA",US: FOX 43
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28832
+#EXTINF:0 tvg-id="ESPNews.us" group-title="USA",US: ESPN News HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28833
+#EXTINF:0 tvg-id="ESPNU.us" group-title="USA",US: ESPN U HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28835
+#EXTINF:0 tvg-id="ESPNHD.us" group-title="USA",US: ESPN 1 HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28836
+#EXTINF:0 tvg-id="ext" group-title="USA",US: ESPN 2 VIP
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28837
+#EXTINF:0 tvg-id="ESPN2.us" group-title="USA",US: ESPN 2
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28838
+#EXTINF:0 tvg-id="ESPN2.us" group-title="USA",US: ESPN 2 HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28839
+#EXTINF:0 tvg-id="ext" group-title="USA",US: ESPN 2 FHD VIP
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28840
+#EXTINF:0 tvg-id="ESPN2.us" group-title="USA",US: ESPN 2 FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28841
+#EXTINF:0 tvg-id="ext" group-title="USA",US: ESPN 1 VIP
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28842
+#EXTINF:0 tvg-id="ESPNHD.us" group-title="USA",US: ESPN 1 FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28843
+#EXTINF:0 tvg-id="ext" group-title="USA",US: ESPN 3 FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28844
+#EXTINF:0 tvg-id="ext" group-title="USA",US: E! Entertainment HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28846
+#EXTINF:0 tvg-id="ext" group-title="USA",US: E! Entertainment FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28847
+#EXTINF:0 tvg-id="ext" group-title="USA",US: District of Columbia Network
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28848
+#EXTINF:0 tvg-id="ext" group-title="USA",US: District Knowledge Network
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28849
+#EXTINF:0 tvg-id="DisneyXD.us" group-title="USA",US: DISNEY XD FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28850
+#EXTINF:0 tvg-id="DisneyJunior.us" group-title="USA",US: DISNEY JR. HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28851
+#EXTINF:0 tvg-id="DisneyChannelHD.us" group-title="USA",US: DISNEY CHANNEL FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28852
+#EXTINF:0 tvg-id="FOXDeportes.us" group-title="USA",US: FOX DEPORTES HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28853
+#EXTINF:0 tvg-id="ext" group-title="USA",US: DAYSTAR HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28855
+#EXTINF:0 tvg-id="DisneyXD.us" group-title="USA",US: Disney XD HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28856
+#EXTINF:0 tvg-id="DisneyChannelHD.us" group-title="USA",US: Disney Channel HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28857
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Motor Trend
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28858
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Motor Trend HD VIP
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28859
+#EXTINF:0 tvg-id="ScienceHD.us" group-title="USA",US: Discovery Science HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28860
+#EXTINF:0 tvg-id="DiscoveryHD.us" group-title="USA",US: Discovery HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28861
+#EXTINF:0 tvg-id="ext" group-title="USA",US: NatGeo Wild
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28862
+#EXTINF:0 tvg-id="Discovery.us" group-title="USA",US: Discovery Channel HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28863
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Discovery Channel CA FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28864
+#EXTINF:0 tvg-id="ext" group-title="USA",US: DW
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28865
+#EXTINF:0 tvg-id="DIYNetworkHD.us" group-title="USA",US: DIY Network
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28866
+#EXTINF:0 tvg-id="DIYNetworkHD.us" group-title="USA",US: DIY Network HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28867
+#EXTINF:0 tvg-id="ComedyCentralHD.us" group-title="USA",US: Comedy Central HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28868
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Comedy Central HD VIP
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28869
+#EXTINF:0 tvg-id="ComedyCentralHD.us" group-title="USA",US: Comedy Central HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28870
+#EXTINF:0 tvg-id="CinemaxWestHD.us" group-title="USA",US: Cinemax West FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28871
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinemax More FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28872
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinemax More HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28873
+#EXTINF:0 tvg-id="MoreMAX.us" group-title="USA",US: CineMax MoreMax
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28874
+#EXTINF:0 tvg-id="CinemaxActionMaxHDEast.us" group-title="USA",US: CineMax East ..
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28875
+#EXTINF:0 tvg-id="CinemaxEastHD.us" group-title="USA",US: Cinemax East FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28876
+#EXTINF:0 tvg-id="ext" group-title="USA",US: CineMax ActionMax East
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28877
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinemax Action
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28878
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinemax Action FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28879
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinemax Action East FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28880
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Cinemax Action 2 HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28881
+#EXTINF:0 tvg-id="CartoonNetworkHD.us" group-title="USA",US: Cartoon Network HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28882
+#EXTINF:0 tvg-id="ext" group-title="USA",US: CW 11
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28883
+#EXTINF:0 tvg-id="ext" group-title="USA",US: CW FHD VIP Charlotte
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28884
+#EXTINF:0 tvg-id="WDCWWashingtonDCCW.us" group-title="USA",US: CW HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28885
+#EXTINF:0 tvg-id="WDCWWashingtonDCCW.us" group-title="USA",US: CW FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28886
+#EXTINF:0 tvg-id="ext" group-title="USA",US: CW Network
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28887
+#EXTINF:0 tvg-id="ext" group-title="USA",US: CSN BAY AREA HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28888
+#EXTINF:0 tvg-id="CookingChannel.us" group-title="USA",US: COOKING CHANNEL FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28889
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Comedy
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28890
+#EXTINF:0 tvg-id="ext" group-title="USA",US: CNN INTERNATIONAL
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28891
+#EXTINF:0 tvg-id="CNBCHD.us" group-title="USA",US: CNBC HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28892
+#EXTINF:0 tvg-id="MoreMAXHD.us" group-title="USA",US: CINEMAX MOREMAX FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28893
+#EXTINF:0 tvg-id="ext" group-title="USA",US: CBSN News HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28894
+#EXTINF:0 tvg-id="CBSSportsNetworkHD.us" group-title="USA",US: CBS Sports Network HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28895
+#EXTINF:0 tvg-id="ext" group-title="USA",US: CBS REALITY
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28896
+#EXTINF:0 tvg-id="ext" group-title="USA",US: CAPITAL TV
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28897
+#EXTINF:0 tvg-id="ext" group-title="USA",US: C-SPAN 3 HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28899
+#EXTINF:0 tvg-id="CSPAN2.us" group-title="USA",US: C-SPAN 2 HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28900
+#EXTINF:0 tvg-id="CSPAN.us" group-title="USA",US: C-SPAN 1 HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28901
+#EXTINF:0 tvg-id="CNN.us" group-title="USA",US: CNN FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28902
+#EXTINF:0 tvg-id="CNN.us" group-title="USA",US: CNN HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28903
+#EXTINF:0 tvg-id="CNBC.us" group-title="USA",US: CNBC
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28904
+#EXTINF:0 tvg-id="WCBSNewYorkCBSEast.us" group-title="USA",US: CBSN HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28905
+#EXTINF:0 tvg-id="ext" group-title="USA",US: CBS San Diego HD VIP
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28906
+#EXTINF:0 tvg-id="ext" group-title="USA",US: CBS Action
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28907
+#EXTINF:0 tvg-id="ext" group-title="USA",US: C-Span 3
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28908
+#EXTINF:0 tvg-id="CSPAN2.us" group-title="USA",US: C-Span 2
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28909
+#EXTINF:0 tvg-id="CSPAN.us" group-title="USA",US: C-Span 1
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28910
+#EXTINF:0 tvg-id="BYUTV.us" group-title="USA",US: BYU TV
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28911
+#EXTINF:0 tvg-id="ext" group-title="USA",US: BLAZE
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28913
+#EXTINF:0 tvg-id="BravoHD.us" group-title="USA",US: Bravo HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28915
+#EXTINF:0 tvg-id="Boomerang.us" group-title="USA",US: Boomerang
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28916
+#EXTINF:0 tvg-id="Boomerang.us" group-title="USA",US: Boomerang HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28917
+#EXTINF:0 tvg-id="BloombergTVHD.us" group-title="USA",US: Bloomberg TV HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28918
+#EXTINF:0 tvg-id="BloombergTVHD.us" group-title="USA",US: Bloomberg HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28919
+#EXTINF:0 tvg-id="ext" group-title="USA",US: Atlanta Channel
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28920
+#EXTINF:0 tvg-id="A-E.us" group-title="USA",US: A&E TV HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28923
+#EXTINF:0 tvg-id="ActionMaxHDEast.us" group-title="USA",US: ACTION MAX HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28925
+#EXTINF:0 tvg-id="AnimalPlanet.us" group-title="USA",US: Animal Planet
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28926
+#EXTINF:0 tvg-id="AnimalPlanetHD.us" group-title="USA",US: Animal Planet HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28927
+#EXTINF:0 tvg-id="AMC.us" group-title="USA",US: AMC
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28928
+#EXTINF:0 tvg-id="AMC.us" group-title="USA",US: AMC HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28929
+#EXTINF:0 tvg-id="WABCNewYorkABCEast.us" group-title="USA",US: ABC News HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28934
+#EXTINF:0 tvg-id="ABCFamilyChannel.us" group-title="USA",US: ABC HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28935
+#EXTINF:0 tvg-id="ext" group-title="USA",US: ABC Los Angeles
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28936
+#EXTINF:0 tvg-id="ext" group-title="USA",US: ABC (West) HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28941
+#EXTINF:0 tvg-id="A-EHD.us" group-title="USA",US: A&E HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28942
+#EXTINF:0 tvg-id="ext" group-title="USA",US: 5 USA
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28943
+#EXTINF:0 tvg-id="ext" group-title="USA",US: CineMax 5 Star Max FHD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28944
+#EXTINF:0 tvg-id="ext" group-title="USA",US: WORLD FISHING NETWORK
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1120879
+#EXTINF:0 tvg-id="ext" group-title="USA",US: PBS KIDS HD
+http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/1236661
 
 
