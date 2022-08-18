@@ -10,9 +10,12 @@ http://0.0.0.0:0000
 http://0.0.0.0:0000
 #######################################################################################################################################
 
-#EXTINF:-1,[COLOR=yellow][B]VIDEOS OFICIAIS - LISTA ATUALIZADA: 09/08/2022[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]VIDEOS OFICIAIS - LISTA ATUALIZADA: 18/08/2022[/B][/COLOR][COLOR=yellow][/COLOR]
  
 #EXTM3U
+
+#EXTINF:-1,[COLOR=white][B]SWEDISH HOUSE MAFIA FT. CONNIE CONSTANCE - HEAVEN TAKES YOU HOME[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=kYHoSET3SGU
 
 #EXTINF:-1,[COLOR=white][B]HALSEY - SO GOOD[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=N6tv11_KMiM&ab_channel=HalseyVEVO
