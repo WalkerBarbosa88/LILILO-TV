@@ -14,6 +14,12 @@ http://0.0.0.0:0000
  
 #EXTM3U
 
+#EXTINF:-1,[COLOR=white][B]CAROLINA DESLANDES FT. ANTONIO ZAMBUJO - COISA MAIS BONITA (LETRA)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=AVPJ0U3nLS0
+
+#EXTINF:-1,[COLOR=white][B]MATIAS DAMÁSIO - COMO ANTES[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=-h_5VnvE2SE&t=45s
+
 #EXTINF:-1,[COLOR=white][B]SWEDISH HOUSE MAFIA FT. CONNIE CONSTANCE - HEAVEN TAKES YOU HOME[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=kYHoSET3SGU
 
