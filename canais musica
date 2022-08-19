@@ -363,6 +363,24 @@ https://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
 https://56b50ada2d659.streamlock.net/LoveFM/livestream/chunklist_w699998999.m3u8
 https://56b50ada2d659.streamlock.net/LoveFM/livestream/chunklist_w541521754.m3u8
 
+#EXTINF:-1,[COLOR=white][B]THT MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
+http://origin5.mediacdn.ru/live/tntmusic/index.m3u8
+
+#EXTINF:-1,[COLOR=white][B]R-MUSIC RU HD[/B][/COLOR][COLOR=white][/COLOR]
+https://otv.wotom.net/rmusic/stream.m3u8
+
+#EXTINF:-1,[COLOR=white][B]MAIDAN HD[/B][/COLOR][COLOR=white][/COLOR]
+http://live-maidantv.cdnvideo.ru/maidantv/maidantv_720/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]359 HIP-HOP HD[/B][/COLOR][COLOR=white][/COLOR]
+https://cdn3.invivo.bg/359t/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1,[COLOR=white][B]88 STEREO TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]ALWAYS MORE MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
+http://107.178.61.226:8080/alwaysmoremusic247.m3u8
+
 ######################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA ANTIGA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
