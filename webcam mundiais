@@ -400,13 +400,24 @@ http://hoktastream4.webcamera.pl/gdansk_cam_77aeaf/gdansk_cam_77aeaf.stream/chun
 http://hoktastream4.webcamera.pl/nocowanie_cam_a32dd1/nocowanie_cam_a32dd1.stream/playlist.m3u8
 
 
-
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  ESCÓCIA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
-#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
-http://00000000000000000000000
+#EXTINF:-1,[COLOR=white][B]ESCÓCIA - WEBCAM 1[/B][/COLOR][COLOR=white][/COLOR]
+http://5cee0d703d908.streamlock.net:1935/rtplive/edinburghzoo103750_koala.stream/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]ESCÓCIA - WEBCAM 2[/B][/COLOR][COLOR=white][/COLOR]
+http://595b9deb3d6ac.streamlock.net:1935/qlive/edinburghzoosnowmonkey.stream/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]ESCÓCIA - WEBCAM 3[/B][/COLOR][COLOR=white][/COLOR]
+http://5cee0d703d908.streamlock.net:1935/rtplive/EDZ-PH2-ShowDen2.stream/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]ESCÓCIA - WEBCAM 4[/B][/COLOR][COLOR=white][/COLOR]
+http://595b9deb3d6ac.streamlock.net:1935/qlive/edinburghzoo104225.stream/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]ESCÓCIA - WEBCAM 5[/B][/COLOR][COLOR=white][/COLOR]
+http://5cee0d703d908.streamlock.net:1935/rtplive/edinburghzootiger1.stream/playlist.m3u8
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  REINO UNIDO  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
