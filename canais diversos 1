@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 #####################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 04/08/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 19/08/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
 ###########################################################################################################################################
  
@@ -18,16 +18,12 @@ https://000000
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]FOOTBALL DAILY[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-footballdaily/CDN/master.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]RED BULL TV FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]RED BULL TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]BEIN SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FUEL TV FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://fueltv-fueltv-2-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USA",[COLOR=white][B]NITRO CIRCUS[/B][/COLOR][COLOR=white][/COLOR]
@@ -81,35 +77,26 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ABU DHABI SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]CAPTITAL OTB BET HD[/B][/COLOR][COLOR=white][/COLOR]
-https://d2up1hmow19bcd.cloudfront.net/livecf/liveracing/playlist.m3u8
- 
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]DUBAI RACING 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]DUBAI RACING 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]DUBAI RACING 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]DUBAI SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]DUBAI SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]DUBAI SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]KSA SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://edge.taghtia.com/sa/9.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]KSA SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://edge.taghtia.com/sa/10.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ONE GOLF HD[/B][/COLOR][COLOR=white][/COLOR]
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]SKY TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]SKY RACING 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]SKY RACING 2 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -145,20 +132,8 @@ https://aenetworks-ae-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1257yH7.png" group-title="USA",[COLOR=white][B]LIVELY PLACE[/B][/COLOR][COLOR=white][/COLOR]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc1cb279c91420009db261d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5dc1cb279c91420009db261d&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=615&terminate=false&userId=
 
-#EXTINF:-1,[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
-http://204.199.119.14:1979/play/a00u/index.m3u8
-#EXTINF:-1,[COLOR=white][B]DISCOVERY H&H BR HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/75297075/89542107/5053|User-Agent=VLC/3.0.18
-
-#EXTINF:-1,[COLOR=white][B]HGTV ES SD[/B][/COLOR][COLOR=white][/COLOR]
-http://204.199.119.14:1979/play/a01x/index.m3u8
 #EXTINF:-1,[COLOR=white][B]HGTV USA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28778
-#EXTINF:-1,[COLOR=white][B]HGTV BR HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/75297075/89542107/5052|User-Agent=VLC/3.0.18
-
-
-
 
 
 ###########################################################################################################################################
