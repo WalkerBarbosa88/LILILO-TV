@@ -14,6 +14,11 @@ http://0.0.0.0:0000
 
 #EXTM3U
 
+#EXTINF:-1,[COLOR=white][B]CARINA TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://stream7.zivoli.it/carinatv/carinatv/chunks.m3u8?nimblesessionid=7651455
+
+
+
 #EXTINF:-1,[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/75297075/89542107/5053|User-Agent=VLC/3.0.18
 
