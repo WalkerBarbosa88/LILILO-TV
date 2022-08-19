@@ -304,6 +304,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6080411af0350600075
 https://000000
 
 
+#EXTINF:-1,[COLOR=white][B]CARINA TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://stream7.zivoli.it/carinatv/carinatv/chunks.m3u8
+
 #EXTINF:-1,[COLOR=white][B]CAROLINA TV 1[/B][/COLOR][COLOR=white][/COLOR]
 http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
 
