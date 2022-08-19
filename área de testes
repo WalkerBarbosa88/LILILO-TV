@@ -19,23 +19,7 @@ https://stream7.zivoli.it/carinatv/carinatv/chunks.m3u8?nimblesessionid=7651455
 
 
 
-#EXTINF:-1,[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/75297075/89542107/5053|User-Agent=VLC/3.0.18
-
-#EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/75297075/89542107/5064|User-Agent=VLC/3.0.18
-
-#EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/75297075/89542107/5062|User-Agent=VLC/3.0.18
-
-#EXTINF:-1,[COLOR=white][B]ESPN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR=white][B]ESPN 3 HD[/B][/COLOR][COLOR=white][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/75297075/89542107/465906|User-Agent=VLC/3.0.18
-
-#EXTINF:-1,[COLOR=white][B]HGTV BR HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR=white][B]HGTV BR HD[/B][/COLOR][COLOR=white][/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://axr.life:80/75297075/89542107/5052|User-Agent=VLC/3.0.18
-
-
-#EXTINF:-1,[COLOR=orange][B]/////////  LISTA PT VERIFICADA 12/08/22  /////////[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]/////////  LISTA PT VERIFICADA 19/08/22  /////////[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -88,9 +72,10 @@ http://194.76.186.98:2021/play/a01c
 #EXTINF:-1,TVI HD
 http://194.76.186.98:2021/play/a005
 
-#EXTINF:-1,[COLOR=orange][B]/////////  LISTA BR VERIFICADA 17/08/22  /////////[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]/////////  LISTA BR VERIFICADA 19/08/22  /////////[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
+
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",RECORDTV HD
 http://xcui.vitvabc.xyz:8880/287994016273/287994016273/16748
@@ -146,23 +131,9 @@ http://xcui.vitvabc.xyz:8880/287994016273/287994016273/31465
 http://xcui.vitvabc.xyz:8880/287994016273/287994016273/16756
 #EXTINF:0 tvg-id="Tcpremium.br" group-title="Channels",Telecine Premium HD+
 http://xcui.vitvabc.xyz:8880/287994016273/287994016273/16758
-#EXTINF:0 tvg-id="Tcaction.br" group-title="Channels",TELECINE ACTION HD
-http://xcui.vitvabc.xyz:8880/287994016273/287994016273/31583
-#EXTINF:0 tvg-id="FOXSports1.us" group-title="Channels",Fox Sports 1 HD+
-http://xcui.vitvabc.xyz:8880/287994016273/287994016273/16725
 #EXTINF:0 tvg-id="Tcpipoca.br" group-title="Channels",Telecine Pipoca HD+
 http://xcui.vitvabc.xyz:8880/287994016273/287994016273/16757
-#EXTINF:0 tvg-id="ESPN2.mx" group-title="Channels",ESPN 2 HD+
-http://xcui.vitvabc.xyz:8880/287994016273/287994016273/16716
 #EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 4K
 http://xcui.vitvabc.xyz:8880/287994016273/287994016273/31034
 #EXTINF:0 tvg-id="ESPN3.mx" group-title="Channels",ESPN 3
 http://xcui.vitvabc.xyz:8880/287994016273/287994016273/31142
-#EXTINF:0 tvg-id="ESPN4.br" group-title="Channels",ESPN 4 HD
-http://xcui.vitvabc.xyz:8880/287994016273/287994016273/31148
-
-
-
-
-
-
