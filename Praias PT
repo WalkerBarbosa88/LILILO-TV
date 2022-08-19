@@ -8,7 +8,7 @@ FONTE DE INFORMAÇÃO: https://www.webcamgalore.com/Beaches/themecam.html
 #EXTM3U
 
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 09/08/2022. 9 WEBCAM´S OFFLINE[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 19/08/2022. 9 WEBCAM´S OFFLINE[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
@@ -58,7 +58,7 @@ https://video-auth1.iol.pt/beachcam/bccarneiro/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/bccanidelo/playlist.m3u8
 
 
-OFFLINE: 0
+OFFLINE: 1
  
 ########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIAS DO CENTRO  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -103,7 +103,7 @@ https://5e0add8153fcd.streamlock.net:1936/vedetta/baleal.stream/chunklist_w19484
 https://video-auth1.iol.pt/beachcam/bcsaopedromoel/playlist.m3u8
 
 
-OFFLINE: 0
+OFFLINE: 1
 
 ########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIAS COSTA OESTE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -144,7 +144,7 @@ https://video-auth1.iol.pt/beachcam/vimeiro/playlist.m3u8
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",[COLOR=white][B]SANTA CRUZ - PRAIA AZUL[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/bcpraiaazul/playlist.m3u8
  
-OFFLINE: 1
+OFFLINE: 0
 
 ########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIAS DE LISBOA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -295,7 +295,7 @@ https://video-auth1.iol.pt/beachcam/bccabanadopescador/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/bccaparicanovapraia/playlist.m3u8
 
 
-OFFLINE: 3
+OFFLINE: 1
 
 ########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIAS DE SESIMBRA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -435,4 +435,4 @@ https://video-auth1.iol.pt/beachcam/bcbugio1/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 
  
-OFFLINE: 0
+OFFLINE: 1
