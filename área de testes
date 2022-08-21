@@ -10,15 +10,254 @@ http://0.0.0.0:0000
 
 [COLOR=white][B]MC 80´S[/B][/COLOR][COLOR=white][/COLOR]
 
-#EXTINF:-1,[COLOR=orange][B]/////////  CANAIS EM TESTE  /////////[/B][/COLOR][COLOR=orange][/COLOR]
+####################################################################################################################################
+#EXTINF:-1,[COLOR=orange][B]/////////  LISTA PT ADICIONADA: 21/08/22  /////////[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=white][B]CARINA TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://stream7.zivoli.it/carinatv/carinatv/chunks.m3u8?nimblesessionid=7651455
 
 
 
+#EXTINF:0 tvg-id="Canal11.pt" group-title="Channels",Canal 11
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246742
+#EXTINF:0 tvg-id="TVIFiccao.pt" group-title="Channels",Tvi Ficcao
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246741
+#EXTINF:0 tvg-id="AMC.uk" group-title="Channels",AMC HD
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246740
+#EXTINF:0 tvg-id="ext" group-title="Channels",AXN Movies HD
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246739
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fisclo
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246738
+#EXTINF:0 tvg-id="baby-tv" group-title="Channels",Baby Tv
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246737
+#EXTINF:0 tvg-id="rtp1.pt" group-title="Channels",RTP 1
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246736
+#EXTINF:0 tvg-id="rtp2.pt" group-title="Channels",RTP 2
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246735
+#EXTINF:0 tvg-id="RTP3.pt" group-title="Channels",RTP 3
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246734
+#EXTINF:0 tvg-id="RTPAcores.pt" group-title="Channels",RTP Acores
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246733
+#EXTINF:0 tvg-id="RTPMadeira.pt" group-title="Channels",RTP Madeira
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246732
+#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Channels",RTP Memoria
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246731
+#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Channels",RTP Africa
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246730
+#EXTINF:0 tvg-id="RTPi.pt" group-title="Channels",RTP INTERNACIONAL
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246729
+#EXTINF:0 tvg-id="sic.pt" group-title="Channels",Sic
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246728
+#EXTINF:0 tvg-id="sicmulher.pt" group-title="Channels",SIC Mulher
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246727
+#EXTINF:0 tvg-id="sicnoticias.pt" group-title="Channels",SIC NOTICIAS
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246726
+#EXTINF:0 tvg-id="sicradical.pt" group-title="Channels",SIC Radical
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246725
+#EXTINF:0 tvg-id="CanalQ.pt" group-title="Channels",Canal Q
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246724
+#EXTINF:0 tvg-id="PortoCanal.pt" group-title="Channels",Porto Canal
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246723
+#EXTINF:0 tvg-id="TVE24h.pt" group-title="Channels",TVE Internacional
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246722
+#EXTINF:0 tvg-id="24Horas.sp" group-title="Channels",TVE 24h
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246721
+#EXTINF:0 tvg-id="TVI.pt" group-title="Channels",TVI
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246720
+#EXTINF:0 tvg-id="TVI.pt" group-title="Channels",TVI HD
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246719
+#EXTINF:0 tvg-id="TVI24.pt" group-title="Channels",Tvi 24
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246718
+#EXTINF:0 tvg-id="TVIReal.pt" group-title="Channels",TVI Reality
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246717
+#EXTINF:0 tvg-id="TVRecord.es" group-title="Channels",TV RECORD
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246716
+#EXTINF:0 tvg-id="CancaoNova.br" group-title="Channels",Cancao Nova
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246715
+#EXTINF:0 tvg-id="TVFatima.pt" group-title="Channels",TV FAtima
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246714
+#EXTINF:0 tvg-id="canalpanda.pt" group-title="Channels",Canal Panda
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246713
+#EXTINF:0 tvg-id="cartoon" group-title="Channels",Cartoon Network
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246712
+#EXTINF:0 tvg-id="disney" group-title="Channels",Disney Channel
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246711
+#EXTINF:0 tvg-id="DisneyJr.blt" group-title="Channels",Disney Junior
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246710
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="Channels",NICKELODEON
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246709
+#EXTINF:0 tvg-id="jimjam" group-title="Channels",Jim Jam
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246708
+#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Channels",Biggs
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246707
+#EXTINF:0 tvg-id="AXN.it" group-title="Channels",AXN HD
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246706
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="Channels",AXN WHITE HD
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246705
+#EXTINF:0 tvg-id="TVCineEMOTION.pt" group-title="Channels",TVCine Emotion FHD
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246703
+#EXTINF:0 tvg-id="TVCineEDITION.pt" group-title="Channels",TVCine Edition FHD
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246702
+#EXTINF:0 tvg-id="TVCineTOP.pt" group-title="Channels",TVCine Top FHD
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246701
+#EXTINF:0 tvg-id="TVCineACTION.pt" group-title="Channels",TVCine Action FHD
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246700
+#EXTINF:0 tvg-id="fox-hd" group-title="Channels",FOX HD
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246699
+#EXTINF:0 tvg-id="fox-life-hd" group-title="Channels",Fox Life HD
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246698
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",FOX MOVIES
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246697
+#EXTINF:0 tvg-id="fox-crime" group-title="Channels",FOX CRIME
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246696
+#EXTINF:0 tvg-id="FoxComedy.it" group-title="Channels",FOX COMEDY
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246695
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",SYFY
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246694
+#EXTINF:0 tvg-id="hollywood-hd" group-title="Channels",Hollywood FHD
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246693
+#EXTINF:0 tvg-id="Cinemundo.pt" group-title="Channels",CINE MUNDO
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246692
+#EXTINF:0 tvg-id="fox-life" group-title="Channels",FOX Life
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246691
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal NOS
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246690
+#EXTINF:0 tvg-id="TVGlobo.mx" group-title="Channels",TV Globo
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246689
+#EXTINF:0 tvg-id="GloboPremium.pt" group-title="Channels",TV Globo Premium
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246688
+#EXTINF:0 tvg-id="euro" group-title="Channels",Euronews
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246687
+#EXTINF:0 tvg-id="mtvportugal.pt" group-title="Channels",MTV Portugal
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246686
+#EXTINF:0 tvg-id="mezzo" group-title="Channels",Mezzo
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246685
+#EXTINF:0 tvg-id="MCMPop.pt" group-title="Channels",MCM Pop
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246684
+#EXTINF:0 tvg-id="TraceUrban.ru" group-title="Channels",Trace Urban
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246683
+#EXTINF:0 tvg-id="AfroMusic.pt" group-title="Channels",Afro Music
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246682
+#EXTINF:0 tvg-id="vh1-europe" group-title="Channels",VH1
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246681
+#EXTINF:0 tvg-id="travel-hd" group-title="Channels",Travel Channel FHD
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246680
+#EXTINF:0 tvg-id="natgeowild" group-title="Channels",Nat Geo Wild
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246679
+#EXTINF:0 tvg-id="natgeo_hd" group-title="Channels",NAT GEO HD
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246678
+#EXTINF:0 tvg-id="DiscoveryHDShowcase.blt" group-title="Channels",Discovery FHD Showcase
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246677
+#EXTINF:0 tvg-id="discov_rus" group-title="Channels",DISCOVERY CHANNEL
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246676
+#EXTINF:0 tvg-id="ext" group-title="Channels",CaÃ§a e Pesca
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246675
+#EXTINF:0 tvg-id="odisseia.pt" group-title="Channels",ODISSEIA
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246674
+#EXTINF:0 tvg-id="AyE.mx" group-title="Channels",A&E
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246673
+#EXTINF:0 tvg-id="History.uk" group-title="Channels",Historia
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246672
+#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="Channels",Toros TV
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246671
+#EXTINF:0 tvg-id="24Kitchen.pt" group-title="Channels",24 Kitchen FHD
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246670
+#EXTINF:0 tvg-id="E.blt" group-title="Channels",E! ENTERTAINMENT
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246669
+#EXTINF:0 tvg-id="ext" group-title="Channels",CaÃ§avision
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246668
+#EXTINF:0 tvg-id="tlc-russia" group-title="Channels",TLC
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246667
+#EXTINF:0 tvg-id="esp" group-title="Channels",EUROSPORT 1
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246666
+#EXTINF:0 tvg-id="esp2" group-title="Channels",EUROSPORT 2
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246665
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",SPORT TV +
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246664
+#EXTINF:0 tvg-id="RealMadridTV.es" group-title="Channels",Real Madrid TV
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246663
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",BENFICA TV 1 FHD
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246662
+#EXTINF:0 tvg-id="NBA.blt" group-title="Channels",NBA TV
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246661
+#EXTINF:0 tvg-id="MotorvisionChannel.gr" group-title="Channels",Motorvision
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246660
+#EXTINF:0 tvg-id="Motorsport.es" group-title="Channels",Motorsport.tv
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246659
+#EXTINF:0 tvg-id="KombatSport.fr" group-title="Channels",Kombat Sport
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246658
+#EXTINF:0 tvg-id="Premierefchd.br" group-title="Channels",PFC HD
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246657
+#EXTINF:0 tvg-id="CMTV.pt" group-title="Channels",CMTV
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246656
+#EXTINF:0 tvg-id="ABolaTV.pt" group-title="Channels",A Bola TV
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246655
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",Sporting TV HD
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246654
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",Sport TV 1 FHD
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246653
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1 HD (720P)
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246652
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",Sport TV 1
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246651
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",Sport TV 2 FHD
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246650
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",Sport TV 2
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246649
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",Sport TV 3 FHD
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246648
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",Sport TV 3
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246647
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",Sport TV 4
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246646
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",Sport TV 5
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246645
+#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Channels",Eleven Sports 1 FHD 1080
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246644
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eleven Sports 1 FHD (back up)
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246643
+#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Channels",Eleven Sports 1 HD 720
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246642
+#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Channels",Eleven Sports 1 SD
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246641
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Channels",Eleven Sports 2 FHD 1080
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246640
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Channels",Eleven Sports 2 HD
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246639
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Channels",Eleven Sports 2 HD 720
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246638
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Channels",Eleven Sports 2 SD
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246637
+#EXTINF:0 tvg-id="ElevenSports3.pl" group-title="Channels",Eleven Sports 3 FHD 1080
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246636
+#EXTINF:0 tvg-id="ElevenSports3.pl" group-title="Channels",Eleven Sports 3 HD 720
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246635
+#EXTINF:0 tvg-id="ElevenSports3.pl" group-title="Channels",Eleven Sports 3 SD
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246634
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eleven Sports 3 SD (back up)
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246633
+#EXTINF:0 tvg-id="elevensports6.pt" group-title="Channels",Eleven Sports 6 SD
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246632
+#EXTINF:0 tvg-id="ElevenSports4.pl" group-title="Channels",Eleven Sports 4 FHD 1080
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246631
+#EXTINF:0 tvg-id="ElevenSports4.pl" group-title="Channels",Eleven Sports 4 HD 720
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246630
+#EXTINF:0 tvg-id="elevensports4.pt" group-title="Channels",Eleven Sports 4 SD
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246629
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eleven Sports 4 SD (back up)
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246628
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eleven Sports 5 FHD 1080
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246627
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eleven Sports 5 HD 720
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246626
+#EXTINF:0 tvg-id="elevensports5.pt" group-title="Channels",Eleven Sports 5 SD
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246625
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eleven Sports 6 FHD 1080
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246624
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eleven Sports 6 HD 720
+http://iptv.cremtv.com:2052/wanaiptv/wanaiptv/246623
+
+####################################################################################################################################
 #EXTINF:-1,[COLOR=orange][B]/////////  LISTA PT VERIFICADA 19/08/22  /////////[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
@@ -72,6 +311,7 @@ http://194.76.186.98:2021/play/a01c
 #EXTINF:-1,TVI HD
 http://194.76.186.98:2021/play/a005
 
+####################################################################################################################################
 #EXTINF:-1,[COLOR=orange][B]/////////  LISTA BR VERIFICADA 19/08/22  /////////[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
@@ -137,3 +377,7 @@ http://xcui.vitvabc.xyz:8880/287994016273/287994016273/16757
 http://xcui.vitvabc.xyz:8880/287994016273/287994016273/31034
 #EXTINF:0 tvg-id="ESPN3.mx" group-title="Channels",ESPN 3
 http://xcui.vitvabc.xyz:8880/287994016273/287994016273/31142
+
+
+
+
