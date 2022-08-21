@@ -145,8 +145,12 @@ http://acsb.sh:80/4673629418/snakeplay/72388
 http://191.212.166.203:4000/play/a08y
 #EXTINF:-1,[COLOR=white][B]MTV BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://191.212.166.203:4000/play/a0hs
+#EXTINF:-1,[COLOR=white][B]MTV 00´S SD[/B][/COLOR][COLOR=white][/COLOR]
+http://acsb.sh:80/4673629418/snakeplay/72426
 #EXTINF:-1,[COLOR=white][B]MULTISHOW BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://191.212.166.203:4000/play/a0hq
+#EXTINF:-1,[COLOR=white][B]MUSIC BOX SD[/B][/COLOR][COLOR=white][/COLOR]
+http://acsb.sh:80/4673629418/snakeplay/72187
 
 
 ####################################################################################################################################
@@ -222,12 +226,28 @@ http://189.91.128.146:4444/udp/227.10.20.136:1234
 http://189.91.128.146:4444/udp/227.10.20.137:1234
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TELECINE PIPOCA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.87:1234
+#EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Canais | Filmes e Séries",[COLOR=white][B]TELECINE CULT HD[/B][/COLOR][COLOR=white][/COLOR]
+http://acsb.sh:80/4673629418/snakeplay/72352
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CINE BRASIL HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.171:1234
 #EXTINF:-1,[COLOR=white][B]STAR CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.139:1234
 #EXTINF:-1,[COLOR=white][B]PARAMOUNT NETWORK HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.140:1234
+#EXTINF:-1 tvg-id="AMC HD" tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",[COLOR=white][B]AMC HD[/B][/COLOR][COLOR=white][/COLOR]
+http://acsb.sh:80/4673629418/snakeplay/71770
+#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries",[COLOR=white][B]AXN HD[/B][/COLOR][COLOR=white][/COLOR]
+http://acsb.sh:80/4673629418/snakeplay/71783
+#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Filmes e Séries",[COLOR=white][B]CANAL SONY HD[/B][/COLOR][COLOR=white][/COLOR]
+http://acsb.sh:80/4673629418/snakeplay/71826
+#EXTINF:-1 tvg-logo="http://a5.vc/Ck2" group-title="Canais | Filmes e Séries",[COLOR=white][B]FOX HD[/B][/COLOR][COLOR=white][/COLOR]
+http://acsb.sh:80/4673629418/snakeplay/71938
+#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Canais | Filmes e Séries",[COLOR=white][B]HOB HD[/B][/COLOR][COLOR=white][/COLOR]
+http://acsb.sh:80/4673629418/snakeplay/72120
+#EXTINF:-1 tvg-logo="http://a5.vc/u7I" group-title="Canais | Filmes e Séries",[COLOR=white][B]STUDIO UNIVERSAL HD[/B][/COLOR][COLOR=white][/COLOR]
+http://acsb.sh:80/4673629418/snakeplay/72336
+#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries",[COLOR=white][B]WARNER CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
+http://acsb.sh:80/4673629418/snakeplay/72433
 
 
 ####################################################################################################################################
