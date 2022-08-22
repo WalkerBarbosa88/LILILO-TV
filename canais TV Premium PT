@@ -132,15 +132,15 @@ http://189.91.128.146:4444/udp/227.10.20.116:1234
 #EXTINF:-1,[COLOR=white][B]ESPN 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82754
 
-#EXTINF:-1,[COLOR=white][B]GOLTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://200.24.132.99:8000/play/a023
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RMC SPORTS FR. 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://193.252.43.21:10200/play/a08l
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RMC SPORTS FR. 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://193.252.43.21:10200/play/a09r
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RMC SPORTS FR. 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://193.252.43.21:10200/play/a08n
+
+#EXTINF:-1,[COLOR=white][B]SPORT 1+ DE HD[/B][/COLOR][COLOR=white][/COLOR]
+http://80.145.127.202:8001/play/a0g5
 
 ##################################  BENFICA TV   ###########################################################################
 
