@@ -80,6 +80,11 @@ https://allanf181.github.io/adaptive-streams/streams/kr/BilliardsTV.m3u8
 #EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]YAS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 
+#EXTINF:-1,[COLOR=white][B]SPORTS TONIGHT HD[/B][/COLOR][COLOR=white][/COLOR]
+http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
+#EXTINF:-1,[COLOR=white][B]SPORTS TV PLUS HD[/B][/COLOR][COLOR=white][/COLOR]
+https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
+
 *****************************************************  LISTA IPTV ORG DESPORTO  *********************************************************
 
 
