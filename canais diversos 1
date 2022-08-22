@@ -18,10 +18,13 @@ https://000000
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]FOOTBALL DAILY[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-footballdaily/CDN/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]RED BULL TV FHD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]RED BULL TV 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]RED BULL TV HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]RED BULL TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]RED BULL TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+https://videostreaming.cloudserverlatam.com/Batalladegallos/Batalladegallos/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]BEIN SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FUEL TV FHD[/B][/COLOR][COLOR=white][/COLOR]
@@ -58,7 +61,6 @@ https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
 #EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]STADIUM HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stadium.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]EXTREME SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://sc.id-tv.kz/ExtremeSportsHD_34_35.m3u8
 #EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]BET TV HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -67,6 +69,12 @@ https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/chunkl
 https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
 #EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]MORE THAN SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]HARD KNOCKS HD[/B][/COLOR][COLOR=white][/COLOR]
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
+#EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]ONE GOLF HD[/B][/COLOR][COLOR=white][/COLOR]
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]PGA TOUR HD[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5de94dacb394a300099fa22a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=713&terminate=false&userId=
 
 *****************************************************  LISTA IPTV ORG DESPORTO  *********************************************************
 
@@ -193,6 +201,8 @@ https://8d07e65d3c6c45ee8c01da566493d9d2.mediatailor.us-east-1.amazonaws.com/v1/
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
 #EXTINF:-1,[COLOR=white][B]FUN ZONE HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625030145130f25474622/HasBahCa.m3u8
+#EXTINF:-1,[COLOR=white][B]ESPORT MAX HD[/B][/COLOR][COLOR=white][/COLOR]
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
 
 ###########################################################################################################################################
