@@ -75,6 +75,10 @@ https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]PGA TOUR HD[/B][/COLOR][COLOR=white][/COLOR]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5de94dacb394a300099fa22a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=713&terminate=false&userId=
+#EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]BILLIARDS HD[/B][/COLOR][COLOR=white][/COLOR]
+https://allanf181.github.io/adaptive-streams/streams/kr/BilliardsTV.m3u8
+#EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]YAS HD[/B][/COLOR][COLOR=white][/COLOR]
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 
 *****************************************************  LISTA IPTV ORG DESPORTO  *********************************************************
 
