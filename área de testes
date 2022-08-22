@@ -1,6 +1,4 @@
 
-#EXTM3U
-
 ###############################################################################################################################################################################
 #EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]//////////////  ÁREA DE TESTES 1  /////////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
 http://0.0.0.0:0000
@@ -8,7 +6,749 @@ http://0.0.0.0:0000
 
 #EXTM3U
 
-[COLOR=white][B]MC 80´S[/B][/COLOR][COLOR=white][/COLOR]
+####################################################################################################################################
+#EXTINF:-1,[COLOR=orange][B]/////////  LISTA PT ADICIONADA: 22/08/22  /////////[/B][/COLOR][COLOR=orange][/COLOR]
+
+#EXTM3U
+
+#EXTINF:-1,##### |PT| PORTUGAL |#####
+http://cineapp.org:8000/Fernando/Fernando/16697
+#EXTINF:-1,|PT| RTP1
+http://cineapp.org:8000/Fernando/Fernando/2321
+#EXTINF:-1,|PT| RTP1 HD
+http://cineapp.org:8000/Fernando/Fernando/8075
+#EXTINF:-1,|PT| RTP 1 FHD
+http://cineapp.org:8000/Fernando/Fernando/28498
+#EXTINF:-1,|PT| RTP2
+http://cineapp.org:8000/Fernando/Fernando/2320
+#EXTINF:-1,|PT| RTP 2 HD
+http://cineapp.org:8000/Fernando/Fernando/8076
+#EXTINF:-1,|PT| RTP 2 FHD
+http://cineapp.org:8000/Fernando/Fernando/28499
+#EXTINF:-1,|PT| RTP3
+http://cineapp.org:8000/Fernando/Fernando/3412
+#EXTINF:-1,|PT| RTP_3_HD
+http://cineapp.org:8000/Fernando/Fernando/8077
+#EXTINF:-1,|PT| RTP 3 FHD
+http://cineapp.org:8000/Fernando/Fernando/28510
+#EXTINF:-1,|PT| RTP MEMORIA
+http://cineapp.org:8000/Fernando/Fernando/2319
+#EXTINF:-1,|PT| RTP MEMORIA HD
+http://cineapp.org:8000/Fernando/Fernando/8118
+#EXTINF:-1,|PT| RTP MADERIA
+http://cineapp.org:8000/Fernando/Fernando/2318
+#EXTINF:-1,|PT| RTP MADEIRA HD
+http://cineapp.org:8000/Fernando/Fernando/28585
+#EXTINF:-1,|PT| RTP AFRICA
+http://cineapp.org:8000/Fernando/Fernando/3511
+#EXTINF:-1,|PT| RTP AFRICA HD
+http://cineapp.org:8000/Fernando/Fernando/8117
+#EXTINF:-1,|PT| RTP ACORES
+http://cineapp.org:8000/Fernando/Fernando/3499
+#EXTINF:-1,|PT| RTP_ACORES_HD
+http://cineapp.org:8000/Fernando/Fernando/8078
+#EXTINF:-1,|PT| SIC
+http://cineapp.org:8000/Fernando/Fernando/3410
+#EXTINF:-1,|PT| SIC HD
+http://cineapp.org:8000/Fernando/Fernando/8112
+#EXTINF:-1,|PT| SIC FHD
+http://cineapp.org:8000/Fernando/Fernando/28500
+#EXTINF:-1,|PT| SIC RADICAL
+http://cineapp.org:8000/Fernando/Fernando/2370
+#EXTINF:-1,|PT| SIC RADICAL HD
+http://cineapp.org:8000/Fernando/Fernando/8073
+#EXTINF:-1,|PT| SIC CARAS
+http://cineapp.org:8000/Fernando/Fernando/3430
+#EXTINF:-1,|PT| SIC NOTICIAS
+http://cineapp.org:8000/Fernando/Fernando/3426
+#EXTINF:-1,|PT| SIC MULHER
+http://cineapp.org:8000/Fernando/Fernando/3423
+#EXTINF:-1,|PT| TVI
+http://cineapp.org:8000/Fernando/Fernando/2317
+#EXTINF:-1,|PT| TVI HD
+http://cineapp.org:8000/Fernando/Fernando/28501
+#EXTINF:-1,|PT| TVI FHD
+http://cineapp.org:8000/Fernando/Fernando/28502
+#EXTINF:-1,|PT| TVI REALITY
+http://cineapp.org:8000/Fernando/Fernando/3411
+#EXTINF:-1,|PT| TVI REALITY HD
+http://cineapp.org:8000/Fernando/Fernando/8065
+#EXTINF:-1,*** INFORMACÃO ***
+http://cineapp.org:8000/Fernando/Fernando/28503
+#EXTINF:-1,|PT| CMTV SD
+http://cineapp.org:8000/Fernando/Fernando/28504
+#EXTINF:-1,|PT| CMTV HD
+http://cineapp.org:8000/Fernando/Fernando/28505
+#EXTINF:-1,|PT| CMTV FHD
+http://cineapp.org:8000/Fernando/Fernando/28506
+#EXTINF:-1,|PT| TVI 24 SD
+http://cineapp.org:8000/Fernando/Fernando/28507
+#EXTINF:-1,|PT| TVI 24 HD
+http://cineapp.org:8000/Fernando/Fernando/28508
+#EXTINF:-1,|PT| TVI 24 FHD
+http://cineapp.org:8000/Fernando/Fernando/28509
+#EXTINF:-1,|PT| SIC NOTICIAS HD
+http://cineapp.org:8000/Fernando/Fernando/28511
+#EXTINF:-1,|PT| SIC NOTICIAS FHD
+http://cineapp.org:8000/Fernando/Fernando/28512
+#EXTINF:-1,##### |PT| FILMES |#####
+http://cineapp.org:8000/Fernando/Fernando/16699
+#EXTINF:-1,|PT| TVCINE TOP SD
+http://cineapp.org:8000/Fernando/Fernando/2302
+#EXTINF:-1,|PT| TVCINE TOP HD
+http://cineapp.org:8000/Fernando/Fernando/8060
+#EXTINF:-1,|PT| TV CINE TOP FHD
+http://cineapp.org:8000/Fernando/Fernando/28513
+#EXTINF:-1,|PT| TVCINE EDITION
+http://cineapp.org:8000/Fernando/Fernando/2303
+#EXTINF:-1,|PT| TVCINE EDITION HD
+http://cineapp.org:8000/Fernando/Fernando/8061
+#EXTINF:-1,|PT| TV CINE EDITION  FHD
+http://cineapp.org:8000/Fernando/Fernando/28514
+#EXTINF:-1,|PT| TVCINE EMOTION
+http://cineapp.org:8000/Fernando/Fernando/2304
+#EXTINF:-1,|PT| TVCINE EMOTION HD
+http://cineapp.org:8000/Fernando/Fernando/8062
+#EXTINF:-1,|PT| TV CINE EMOTION FHD
+http://cineapp.org:8000/Fernando/Fernando/28515
+#EXTINF:-1,|PT| TVCINE ACTION
+http://cineapp.org:8000/Fernando/Fernando/2305
+#EXTINF:-1,|PT| TVCINE ACTION HD
+http://cineapp.org:8000/Fernando/Fernando/8063
+#EXTINF:-1,|PT| TV CINE ACTION FHD
+http://cineapp.org:8000/Fernando/Fernando/28516
+#EXTINF:-1,|PT| HOLLYWOOD
+http://cineapp.org:8000/Fernando/Fernando/3431
+#EXTINF:-1,|PT| HOLLYWOOD HD
+http://cineapp.org:8000/Fernando/Fernando/8055
+#EXTINF:-1,|PT| HOLLYWOOD FHD
+http://cineapp.org:8000/Fernando/Fernando/28519
+#EXTINF:-1,|PT| NOS STUDIO
+http://cineapp.org:8000/Fernando/Fernando/7182
+#EXTINF:-1,|PT| NOS STUDIOS HD
+http://cineapp.org:8000/Fernando/Fernando/28517
+#EXTINF:-1,|PT| NOS STUDIOS FHD
+http://cineapp.org:8000/Fernando/Fernando/28518
+#EXTINF:-1,|PT| CINE MUNDO
+http://cineapp.org:8000/Fernando/Fernando/3422
+#EXTINF:-1,|PT| CINE MUNDO HD
+http://cineapp.org:8000/Fernando/Fernando/8111
+#EXTINF:-1,|PT| CINE MUNDO FHD
+http://cineapp.org:8000/Fernando/Fernando/28522
+#EXTINF:-1,|PT| FOX MOVIES
+http://cineapp.org:8000/Fernando/Fernando/8064
+#EXTINF:-1,|PT| FOX MOVIES HD
+http://cineapp.org:8000/Fernando/Fernando/28520
+#EXTINF:-1,|PT| FOX MOVIES FHD
+http://cineapp.org:8000/Fernando/Fernando/28521
+#EXTINF:-1,|PT| EUROCHANNEL
+http://cineapp.org:8000/Fernando/Fernando/28525
+#EXTINF:-1,|PT| FATIMA TV
+http://cineapp.org:8000/Fernando/Fernando/28629
+#EXTINF:-1,|PT| CANÇÃO NOVA HD
+http://cineapp.org:8000/Fernando/Fernando/28630
+#EXTINF:-1,|PT| ZAP VIVA FHD
+http://cineapp.org:8000/Fernando/Fernando/28631
+#EXTINF:-1,|PT| KURIAKOS TV HD
+http://cineapp.org:8000/Fernando/Fernando/28632
+#EXTINF:-1,|PT| TPA INTERNACIONAL SD
+http://cineapp.org:8000/Fernando/Fernando/28633
+#EXTINF:-1,|PT| TCV INTERNACIONAL
+http://cineapp.org:8000/Fernando/Fernando/28634
+#EXTINF:-1,|PT| TCV CABO VERDE
+http://cineapp.org:8000/Fernando/Fernando/109476
+#EXTINF:-1,##### |PT| INTERNACIONAIS |#####
+http://cineapp.org:8000/Fernando/Fernando/16700
+#EXTINF:-1,|PT| AXN
+http://cineapp.org:8000/Fernando/Fernando/2308
+#EXTINF:-1,|PT| AXN HD
+http://cineapp.org:8000/Fernando/Fernando/8053
+#EXTINF:-1,|PT| AXN FHD
+http://cineapp.org:8000/Fernando/Fernando/28526
+#EXTINF:-1,|PT| AXN MOVIES
+http://cineapp.org:8000/Fernando/Fernando/2310
+#EXTINF:-1,|PT| AXN MOVIES HD
+http://cineapp.org:8000/Fernando/Fernando/8052
+#EXTINF:-1,|PT| AXN MOVIES FHD
+http://cineapp.org:8000/Fernando/Fernando/28528
+#EXTINF:-1,|PT| AXN WHITE
+http://cineapp.org:8000/Fernando/Fernando/2309
+#EXTINF:-1,|PT| AXN WHITE HD
+http://cineapp.org:8000/Fernando/Fernando/8059
+#EXTINF:-1,|PT| AXN WHITE FHD
+http://cineapp.org:8000/Fernando/Fernando/28527
+#EXTINF:-1,|PT| FOX SD
+http://cineapp.org:8000/Fernando/Fernando/2312
+#EXTINF:-1,|PT| FOX HD
+http://cineapp.org:8000/Fernando/Fernando/28531
+#EXTINF:-1,|PT| FOX FHD
+http://cineapp.org:8000/Fernando/Fernando/28532
+#EXTINF:-1,|PT| FOX COMEDY
+http://cineapp.org:8000/Fernando/Fernando/2311
+#EXTINF:-1,|PT| FOX COMEDY HD
+http://cineapp.org:8000/Fernando/Fernando/8116
+#EXTINF:-1,|PT| FOX COMEDY FHD
+http://cineapp.org:8000/Fernando/Fernando/28534
+#EXTINF:-1,|PT| FOX CRIME
+http://cineapp.org:8000/Fernando/Fernando/2314
+#EXTINF:-1,|PT| FOX CRIME HD
+http://cineapp.org:8000/Fernando/Fernando/8123
+#EXTINF:-1,|PT| FOX CRIME FHD
+http://cineapp.org:8000/Fernando/Fernando/28533
+#EXTINF:-1,|PT| FOX LIFE
+http://cineapp.org:8000/Fernando/Fernando/2313
+#EXTINF:-1,|PT| FOX LIFE HD
+http://cineapp.org:8000/Fernando/Fernando/8115
+#EXTINF:-1,|PT| FOX LIFE FHD
+http://cineapp.org:8000/Fernando/Fernando/28535
+#EXTINF:-1,|PT| TV GOLBO NOW
+http://cineapp.org:8000/Fernando/Fernando/9821
+#EXTINF:-1,|PT| TV GOLBO
+http://cineapp.org:8000/Fernando/Fernando/9822
+#EXTINF:-1,|PT| TV GLOBO SD
+http://cineapp.org:8000/Fernando/Fernando/28571
+#EXTINF:-1,|PT| TV GLOBO HD
+http://cineapp.org:8000/Fernando/Fernando/28572
+#EXTINF:-1,|PT| TV GLOBO FHD
+http://cineapp.org:8000/Fernando/Fernando/28573
+#EXTINF:-1,|PT| MY CUISINE SD
+http://cineapp.org:8000/Fernando/Fernando/28576
+#EXTINF:-1,|PT| MY CUISINE
+http://cineapp.org:8000/Fernando/Fernando/3503
+#EXTINF:-1,|PT| FOOD NETWORK
+http://cineapp.org:8000/Fernando/Fernando/28578
+#EXTINF:-1,|PT| 24 KITCHEN
+http://cineapp.org:8000/Fernando/Fernando/5065
+#EXTINF:-1,|PT| 24 KITCHEN HD
+http://cineapp.org:8000/Fernando/Fernando/8058
+#EXTINF:-1,|PT| STV MOZAMBIQUE
+http://cineapp.org:8000/Fernando/Fernando/17256
+#EXTINF:-1,|PT| TPA ANGOLA
+http://cineapp.org:8000/Fernando/Fernando/17257
+#EXTINF:-1,|PT| CNN
+http://cineapp.org:8000/Fernando/Fernando/17258
+#EXTINF:-1,|PT| CBS REALITY SD
+http://cineapp.org:8000/Fernando/Fernando/28574
+#EXTINF:-1,|PT| CBS REALITY
+http://cineapp.org:8000/Fernando/Fernando/3516
+#EXTINF:-1,|PT|  CAÇAVISION
+http://cineapp.org:8000/Fernando/Fernando/3515
+#EXTINF:-1,|PT| A BOLA
+http://cineapp.org:8000/Fernando/Fernando/8070
+#EXTINF:-1,|PT| FUEL TV
+http://cineapp.org:8000/Fernando/Fernando/8067
+#EXTINF:-1,|PT| Benfica TV HD
+http://cineapp.org:8000/Fernando/Fernando/8066
+#EXTINF:-1,|PT| AMC
+http://cineapp.org:8000/Fernando/Fernando/8054
+#EXTINF:-1,|PT| AMC HD
+http://cineapp.org:8000/Fernando/Fernando/28523
+#EXTINF:-1,|PT| AMC FHD
+http://cineapp.org:8000/Fernando/Fernando/28524
+#EXTINF:-1,|PT| PFC
+http://cineapp.org:8000/Fernando/Fernando/3504
+#EXTINF:-1,|PT| SYFY
+http://cineapp.org:8000/Fernando/Fernando/2322
+#EXTINF:-1,|PT| SYFY HD
+http://cineapp.org:8000/Fernando/Fernando/28529
+#EXTINF:-1,|PT| SYFY FHD
+http://cineapp.org:8000/Fernando/Fernando/28530
+#EXTINF:-1,|PT| CANÇÃO NOVA
+http://cineapp.org:8000/Fernando/Fernando/3436
+#EXTINF:-1,|PT| TVI FICCAO
+http://cineapp.org:8000/Fernando/Fernando/3435
+#EXTINF:-1,|PT| TVI FICÇÃO SD
+http://cineapp.org:8000/Fernando/Fernando/28568
+#EXTINF:-1,|PT| TVI FICCAO HD
+http://cineapp.org:8000/Fernando/Fernando/28569
+#EXTINF:-1,|PT| TVI FICCAO FHD
+http://cineapp.org:8000/Fernando/Fernando/28570
+#EXTINF:-1,|PT| CM TV
+http://cineapp.org:8000/Fernando/Fernando/3434
+#EXTINF:-1,|PT| TLC
+http://cineapp.org:8000/Fernando/Fernando/3513
+#EXTINF:-1,|PT| TV RECORD
+http://cineapp.org:8000/Fernando/Fernando/6139
+#EXTINF:-1,|PT| TV RECORD NEWS
+http://cineapp.org:8000/Fernando/Fernando/3501
+#EXTINF:-1,|PT| TLC SD
+http://cineapp.org:8000/Fernando/Fernando/28575
+#EXTINF:-1,|PT| MÁS CHIC HD
+http://cineapp.org:8000/Fernando/Fernando/28577
+#EXTINF:-1,|PT| CANAL Q SD
+http://cineapp.org:8000/Fernando/Fernando/28582
+#EXTINF:-1,|PT| DOG TV
+http://cineapp.org:8000/Fernando/Fernando/28584
+#EXTINF:-1,|PT| BLAZE
+http://cineapp.org:8000/Fernando/Fernando/3429
+#EXTINF:-1,|PT| BLAZE HD
+http://cineapp.org:8000/Fernando/Fernando/28583
+#EXTINF:-1,|PT| E! ENTERTAINMENT SD
+http://cineapp.org:8000/Fernando/Fernando/28579
+#EXTINF:-1,|PT| E! ENTERTAINMENT
+http://cineapp.org:8000/Fernando/Fernando/3433
+#EXTINF:-1,*** EXCLUSIVE CONNECT ***
+http://cineapp.org:8000/Fernando/Fernando/28635
+#EXTINF:-1,|PT| Saga Velocidade Furiosa
+http://cineapp.org:8000/Fernando/Fernando/28636
+#EXTINF:-1,|PT| Saga 007
+http://cineapp.org:8000/Fernando/Fernando/28637
+#EXTINF:-1,|PT| Pi100Pé
+http://cineapp.org:8000/Fernando/Fernando/28638
+#EXTINF:-1,|PT| APANHADOS
+http://cineapp.org:8000/Fernando/Fernando/28639
+#EXTINF:-1,|PT| MASHA E O URSO
+http://cineapp.org:8000/Fernando/Fernando/28640
+#EXTINF:-1,|PT| DC
+http://cineapp.org:8000/Fernando/Fernando/28641
+#EXTINF:-1,|PT| MARVEL
+http://cineapp.org:8000/Fernando/Fernando/28642
+#EXTINF:-1,|PT| HBO PORTUGAL
+http://cineapp.org:8000/Fernando/Fernando/28643
+#EXTINF:-1,|PT| NETFLIX HD
+http://cineapp.org:8000/Fernando/Fernando/28644
+#EXTINF:-1,##### |PT| MUSICA |#####
+http://cineapp.org:8000/Fernando/Fernando/16701
+#EXTINF:-1,|PT| VH1 SD
+http://cineapp.org:8000/Fernando/Fernando/28619
+#EXTINF:-1,|PT| VH1
+http://cineapp.org:8000/Fernando/Fernando/8056
+#EXTINF:-1,|PT| MTV
+http://cineapp.org:8000/Fernando/Fernando/5041
+#EXTINF:-1,|PT| MTV PORTUGAL HD
+http://cineapp.org:8000/Fernando/Fernando/28621
+#EXTINF:-1,|PT| MTV LIVE HD
+http://cineapp.org:8000/Fernando/Fernando/28622
+#EXTINF:-1,|PT| MCM TOP
+http://cineapp.org:8000/Fernando/Fernando/8072
+#EXTINF:-1,|PT| MCM TOP FHD
+http://cineapp.org:8000/Fernando/Fernando/28623
+#EXTINF:-1,|PT| MCM POP SD
+http://cineapp.org:8000/Fernando/Fernando/28624
+#EXTINF:-1,|PT| TRACE TV
+http://cineapp.org:8000/Fernando/Fernando/17254
+#EXTINF:-1,|PT| TRACE TOCA
+http://cineapp.org:8000/Fernando/Fernando/17255
+#EXTINF:-1,|PT| TRACE URBAN HD
+http://cineapp.org:8000/Fernando/Fernando/28620
+#EXTINF:-1,|PT| AFRO MUSIC SD
+http://cineapp.org:8000/Fernando/Fernando/28618
+#EXTINF:-1,|PT| AFRO MUSIC
+http://cineapp.org:8000/Fernando/Fernando/3427
+#EXTINF:-1,|PT| MEZZO LIVE HD
+http://cineapp.org:8000/Fernando/Fernando/28625
+#EXTINF:-1,|PT| CLUBBING TV
+http://cineapp.org:8000/Fernando/Fernando/28626
+#EXTINF:-1,|PT| CANAL 180 HD
+http://cineapp.org:8000/Fernando/Fernando/28627
+#EXTINF:-1,|PT| M6 MUSIC HD
+http://cineapp.org:8000/Fernando/Fernando/28628
+#EXTINF:-1,##### |PT| INFANTIL |#####
+http://cineapp.org:8000/Fernando/Fernando/16698
+#EXTINF:-1,|PT| BABY
+http://cineapp.org:8000/Fernando/Fernando/4897
+#EXTINF:-1,|PT| NICKELODEON
+http://cineapp.org:8000/Fernando/Fernando/7750
+#EXTINF:-1,|PT| NICK JUNIOR SD
+http://cineapp.org:8000/Fernando/Fernando/28567
+#EXTINF:-1,|PT| CARTOON NETWORK
+http://cineapp.org:8000/Fernando/Fernando/2323
+#EXTINF:-1,|PT| DISNEY JUNIOR
+http://cineapp.org:8000/Fernando/Fernando/2324
+#EXTINF:-1,|PT| DISNEY CHANNEL
+http://cineapp.org:8000/Fernando/Fernando/2368
+#EXTINF:-1,|PT| CANAL PANDA HD
+http://cineapp.org:8000/Fernando/Fernando/8113
+#EXTINF:-1,|PT| JIM JAM
+http://cineapp.org:8000/Fernando/Fernando/3502
+#EXTINF:-1,|PT| BIGGS
+http://cineapp.org:8000/Fernando/Fernando/3439
+#EXTINF:-1,|PT| SIC KIDS
+http://cineapp.org:8000/Fernando/Fernando/5110
+#EXTINF:-1,|PT| SIC K HD
+http://cineapp.org:8000/Fernando/Fernando/8114
+#EXTINF:-1,##### |PT| CULTURA |#####
+http://cineapp.org:8000/Fernando/Fernando/16703
+#EXTINF:-1,|PT| CANAL HISTÓRIA SD
+http://cineapp.org:8000/Fernando/Fernando/28593
+#EXTINF:-1,|PT| HISTORIA
+http://cineapp.org:8000/Fernando/Fernando/3512
+#EXTINF:-1,|PT| DISCOVERY
+http://cineapp.org:8000/Fernando/Fernando/3432
+#EXTINF:-1,|PT| DISCOVERY CHANNEL HD
+http://cineapp.org:8000/Fernando/Fernando/28590
+#EXTINF:-1,|PT| ID INVESTIGATION DISCOVERY HD
+http://cineapp.org:8000/Fernando/Fernando/28591
+#EXTINF:-1,|PT| CRIME INVESTIGAÇÃO SD
+http://cineapp.org:8000/Fernando/Fernando/28594
+#EXTINF:-1,|PT| CACA & PESCA
+http://cineapp.org:8000/Fernando/Fernando/3428
+#EXTINF:-1,|PT| ODISSEA
+http://cineapp.org:8000/Fernando/Fernando/3507
+#EXTINF:-1,|PT| TRAVEL CHANNEL
+http://cineapp.org:8000/Fernando/Fernando/3514
+#EXTINF:-1,|PT| TRAVEL CHANNEL HD
+http://cineapp.org:8000/Fernando/Fernando/28580
+#EXTINF:-1,|PT| NATGEO WILD
+http://cineapp.org:8000/Fernando/Fernando/3510
+#EXTINF:-1,|PT| NATIONAL GEOGRAPHIC WILD HD
+http://cineapp.org:8000/Fernando/Fernando/28588
+#EXTINF:-1,|PT| NATIONAL GEOGRAPHIC WILD FHD
+http://cineapp.org:8000/Fernando/Fernando/28589
+#EXTINF:-1,|PT| NATIONAL GEOGRAPHIC
+http://cineapp.org:8000/Fernando/Fernando/3509
+#EXTINF:-1,|PT| NATIONAL GEOGRAPHIC HD
+http://cineapp.org:8000/Fernando/Fernando/28586
+#EXTINF:-1,|PT| NATIONAL GEOGRAPHIC  FHD
+http://cineapp.org:8000/Fernando/Fernando/28587
+#EXTINF:-1,|PT| ODISSEIA HD
+http://cineapp.org:8000/Fernando/Fernando/28592
+#EXTINF:-1,|PT| FASHION TV
+http://cineapp.org:8000/Fernando/Fernando/8057
+#EXTINF:-1,|PT| FASHION TV HD
+http://cineapp.org:8000/Fernando/Fernando/28595
+#EXTINF:-1,##### |PT| DESPORTO |#####
+http://cineapp.org:8000/Fernando/Fernando/16704
+#EXTINF:-1,|PT| MOTORSPORT TV
+http://cineapp.org:8000/Fernando/Fernando/8068
+#EXTINF:-1,|PT| SPORTING TV HD
+http://cineapp.org:8000/Fernando/Fernando/8074
+#EXTINF:-1,|PT| PORTO CANAL
+http://cineapp.org:8000/Fernando/Fernando/2315
+#EXTINF:-1,|PT| PORTO CANAL HD
+http://cineapp.org:8000/Fernando/Fernando/28581
+#EXTINF:-1,|PT| EUROSPORT1
+http://cineapp.org:8000/Fernando/Fernando/2367
+#EXTINF:-1,|PT| EUROSPORT 1 HD
+http://cineapp.org:8000/Fernando/Fernando/28596
+#EXTINF:-1,|PT| EUROSPORT2
+http://cineapp.org:8000/Fernando/Fernando/3517
+#EXTINF:-1,|PT| EUROSPORT 2 HD
+http://cineapp.org:8000/Fernando/Fernando/28597
+#EXTINF:-1,|PT| BENFICA1
+http://cineapp.org:8000/Fernando/Fernando/2301
+#EXTINF:-1,|PT| SPORT TV+
+http://cineapp.org:8000/Fernando/Fernando/5150
+#EXTINF:-1,|PT| SPORT TV + HD
+http://cineapp.org:8000/Fernando/Fernando/28536
+#EXTINF:-1,|PT| SPORT TV + FHD
+http://cineapp.org:8000/Fernando/Fernando/28537
+#EXTINF:-1,|PT| SPORT TV 1 SD
+http://cineapp.org:8000/Fernando/Fernando/5151
+#EXTINF:-1,|PT| SPORT TV 1 HD
+http://cineapp.org:8000/Fernando/Fernando/2325
+#EXTINF:-1,|PT| SPORT TV 1 FHD
+http://cineapp.org:8000/Fernando/Fernando/28538
+#EXTINF:-1,|PT| SPORT TV 1 4K
+http://cineapp.org:8000/Fernando/Fernando/77435
+#EXTINF:-1,|PT| SPORT TV 2 SD
+http://cineapp.org:8000/Fernando/Fernando/5152
+#EXTINF:-1,|PT| SPORT TV 2 HD
+http://cineapp.org:8000/Fernando/Fernando/2295
+#EXTINF:-1,|PT| SPORT TV 2 FHD
+http://cineapp.org:8000/Fernando/Fernando/28539
+#EXTINF:-1,|PT| SPORT TV 3 SD
+http://cineapp.org:8000/Fernando/Fernando/5153
+#EXTINF:-1,|PT| SPORT TV 3 HD
+http://cineapp.org:8000/Fernando/Fernando/2296
+#EXTINF:-1,|PT| SPORT TV 3 FHD
+http://cineapp.org:8000/Fernando/Fernando/28540
+#EXTINF:-1,|PT| SPORT TV 4 SD
+http://cineapp.org:8000/Fernando/Fernando/28541
+#EXTINF:-1,|PT| SPORT TV 4 HD
+http://cineapp.org:8000/Fernando/Fernando/2297
+#EXTINF:-1,|PT| SPORT TV 4 FHD
+http://cineapp.org:8000/Fernando/Fernando/28542
+#EXTINF:-1,|PT| SPORT TV 5 SD
+http://cineapp.org:8000/Fernando/Fernando/28543
+#EXTINF:-1,|PT| SPORT TV 5 HD
+http://cineapp.org:8000/Fernando/Fernando/2298
+#EXTINF:-1,|PT| SPORT TV 5 FHD
+http://cineapp.org:8000/Fernando/Fernando/28544
+#EXTINF:-1,|PT| SPORT TV 6 FHD
+http://cineapp.org:8000/Fernando/Fernando/82779
+#EXTINF:-1,|PT| SPORT TV NBA
+http://cineapp.org:8000/Fernando/Fernando/17260
+#EXTINF:-1,|PT| SPORT TV NBA FHD
+http://cineapp.org:8000/Fernando/Fernando/28545
+#EXTINF:-1,|PT| ELEVEN SPORTS 1 SD
+http://cineapp.org:8000/Fernando/Fernando/28549
+#EXTINF:-1,|PT| ELEVEN SPORT1
+http://cineapp.org:8000/Fernando/Fernando/7451
+#EXTINF:-1,|PT| ELEVEN SPORTS 1 FHD
+http://cineapp.org:8000/Fernando/Fernando/28550
+#EXTINF:-1,|PT| ELEVEN SPORTS 1 4k
+http://cineapp.org:8000/Fernando/Fernando/77437
+#EXTINF:-1,|PT| ELEVEN SPORTS 2 SD
+http://cineapp.org:8000/Fernando/Fernando/28551
+#EXTINF:-1,|PT| ELEVEN SPORT2
+http://cineapp.org:8000/Fernando/Fernando/7452
+#EXTINF:-1,|PT| ELEVEN SPORTS 2 FHD
+http://cineapp.org:8000/Fernando/Fernando/28552
+#EXTINF:-1,|PT| ELEVEN SPORTS 3 SD
+http://cineapp.org:8000/Fernando/Fernando/28553
+#EXTINF:-1,|PT| ELEVEN SPORT3
+http://cineapp.org:8000/Fernando/Fernando/7453
+#EXTINF:-1,|PT| ELEVEN SPORTS 3 FHD
+http://cineapp.org:8000/Fernando/Fernando/28554
+#EXTINF:-1,|PT| ELEVEN SPORTS 4
+http://cineapp.org:8000/Fernando/Fernando/28555
+#EXTINF:-1,|PT| ELEVEN SPORT4
+http://cineapp.org:8000/Fernando/Fernando/7454
+#EXTINF:-1,|PT| ELEVEN SPORTS 4 FHD
+http://cineapp.org:8000/Fernando/Fernando/28556
+#EXTINF:-1,|PT| ELEVEN SPORTS 5
+http://cineapp.org:8000/Fernando/Fernando/28557
+#EXTINF:-1,|PT| ELEVEN SPORT5
+http://cineapp.org:8000/Fernando/Fernando/7455
+#EXTINF:-1,|PT| ELEVEN SPORTS 5 FHD
+http://cineapp.org:8000/Fernando/Fernando/28558
+#EXTINF:-1,|PT| ELEVEN SPORT6
+http://cineapp.org:8000/Fernando/Fernando/7456
+#EXTINF:-1,|PT| ELEVEN SPORTS 6
+http://cineapp.org:8000/Fernando/Fernando/28559
+#EXTINF:-1,|PT| ELEVEN SPORTS 6 FHD
+http://cineapp.org:8000/Fernando/Fernando/28560
+#EXTINF:-1,|PT| Benfica TV FHD
+http://cineapp.org:8000/Fernando/Fernando/28546
+#EXTINF:-1,|PT|  Benfica TV 4k
+http://cineapp.org:8000/Fernando/Fernando/77436
+#EXTINF:-1,|PT| SPORTING TV SD
+http://cineapp.org:8000/Fernando/Fernando/28547
+#EXTINF:-1,|PT| SPORTING TV FHD
+http://cineapp.org:8000/Fernando/Fernando/28548
+#EXTINF:-1,|PT| A BOLA TV SD
+http://cineapp.org:8000/Fernando/Fernando/28561
+#EXTINF:-1,|PT| A BOLA TV HD
+http://cineapp.org:8000/Fernando/Fernando/28562
+#EXTINF:-1,|PT| A BOLA TV FHD
+http://cineapp.org:8000/Fernando/Fernando/28563
+#EXTINF:-1,|PT| CANAL 11
+http://cineapp.org:8000/Fernando/Fernando/28564
+#EXTINF:-1,|PT| CANAL 11 HD
+http://cineapp.org:8000/Fernando/Fernando/28565
+#EXTINF:-1,|PT| CANAL 11 FHD
+http://cineapp.org:8000/Fernando/Fernando/28566
+#EXTINF:-1,|PT| PFC SD
+http://cineapp.org:8000/Fernando/Fernando/28598
+#EXTINF:-1,|PT| FUEL TV FHD
+http://cineapp.org:8000/Fernando/Fernando/28599
+#EXTINF:-1,|PT| FUEL TV HD
+http://cineapp.org:8000/Fernando/Fernando/28600
+#EXTINF:-1,|PT| TOROS TV HD
+http://cineapp.org:8000/Fernando/Fernando/28601
+#EXTINF:-1,|PT| CAMPO PEQUENO TV HD
+http://cineapp.org:8000/Fernando/Fernando/28602
+#EXTINF:-1,|PT| CAÇA & PESCA FHD
+http://cineapp.org:8000/Fernando/Fernando/28603
+#EXTINF:-1,|PT| CACAVISION SD
+http://cineapp.org:8000/Fernando/Fernando/28604
+#EXTINF:-1,|PT| Outdoor
+http://cineapp.org:8000/Fernando/Fernando/28605
+#EXTINF:-1,|PT| RED BUL TV HD
+http://cineapp.org:8000/Fernando/Fernando/28606
+#EXTINF:-1,|PT| GINX HD
+http://cineapp.org:8000/Fernando/Fernando/28607
+#EXTINF:-1,|PT| WWE HD
+http://cineapp.org:8000/Fernando/Fernando/28608
+#EXTINF:-1,|PT| COMBATE
+http://cineapp.org:8000/Fernando/Fernando/28609
+#EXTINF:-1,|PT| COMBATE HD
+http://cineapp.org:8000/Fernando/Fernando/28610
+#EXTINF:-1,|PT| COMBATE FHD
+http://cineapp.org:8000/Fernando/Fernando/28611
+#EXTINF:-1,|PT| Fight Box HD
+http://cineapp.org:8000/Fernando/Fernando/28612
+#EXTINF:-1,|PT| Fight Network
+http://cineapp.org:8000/Fernando/Fernando/28613
+#EXTINF:-1,|PT| KOMBAT SPORT SD
+http://cineapp.org:8000/Fernando/Fernando/28614
+#EXTINF:-1,|PT| UFC FIGTH PASS FHD
+http://cineapp.org:8000/Fernando/Fernando/28615
+#EXTINF:-1,|PT| NFL NETWORK HD
+http://cineapp.org:8000/Fernando/Fernando/28616
+#EXTINF:-1,|PT| RTP 1 (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77344
+#EXTINF:-1,|PT| RTP 2 (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77345
+#EXTINF:-1,|PT| RTP 3 (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77346
+#EXTINF:-1,|PT| SIC (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77347
+#EXTINF:-1,|PT| TVI (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77348
+#EXTINF:-1,|PT| CMTV (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77349
+#EXTINF:-1,|PT| TVI 24 (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77350
+#EXTINF:-1,|PT| SPORT TV + (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77351
+#EXTINF:-1,|PT| SPORT TV 1 (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77352
+#EXTINF:-1,|PT| SPORT TV 2 (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77353
+#EXTINF:-1,|PT| SPORT TV 3 (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77354
+#EXTINF:-1,|PT| SPORT TV 4 (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77355
+#EXTINF:-1,|PT| SPORT TV 5 (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77356
+#EXTINF:-1,|PT| SPORT TV NBA (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77357
+#EXTINF:-1,|PT| ELEVEN SPORTS 1 (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77358
+#EXTINF:-1,|PT| ELEVEN SPORTS 2 (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77359
+#EXTINF:-1,|PT| ELEVEN SPORTS 3 (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77360
+#EXTINF:-1,|PT| ELEVEN SPORTS 4 (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77361
+#EXTINF:-1,|PT| ELEVEN SPORTS 5 (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77362
+#EXTINF:-1,|PT| ELEVEN SPORTS 6 (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77363
+#EXTINF:-1,|PT| BTV (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77364
+#EXTINF:-1,|PT| JIM JAM (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77365
+#EXTINF:-1,|PT| PFC (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77366
+#EXTINF:-1,|PT| RTP ACORES (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77367
+#EXTINF:-1,|PT| RTP AFRICA (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77368
+#EXTINF:-1,|PT| RTP MADEIRA (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77369
+#EXTINF:-1,|PT| RTP MEMORIA (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77370
+#EXTINF:-1,|PT| 24 KITCHEN (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77371
+#EXTINF:-1,|PT| A BOLA TV (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77372
+#EXTINF:-1,|PT| TVCINE TOP (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77373
+#EXTINF:-1,|PT| TVCINE EDITION (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77374
+#EXTINF:-1,|PT| TVCINE EMOTION (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77375
+#EXTINF:-1,|PT| TVCINE ACTION (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77376
+#EXTINF:-1,|PT| AMC (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77377
+#EXTINF:-1,|PT| AXN MOVIES  (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77378
+#EXTINF:-1,|PT| AXN WHITE (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77379
+#EXTINF:-1,|PT| AXN (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77380
+#EXTINF:-1,|PT| BABY TV (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77381
+#EXTINF:-1,|PT| BLAZE (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77382
+#EXTINF:-1,|PT| BOOMERANG (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77383
+#EXTINF:-1,|PT| CAZA E PESCA (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77384
+#EXTINF:-1,|PT| CACAVISION (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77385
+#EXTINF:-1,|PT| CANAL Q (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77386
+#EXTINF:-1,|PT| CARTOON NETWORK (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77387
+#EXTINF:-1,|PT| CINEMUNDO (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77388
+#EXTINF:-1,|PT| CRIME INVESTIGATION (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77389
+#EXTINF:-1,|PT| DISCOVERY CHANNEL (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77390
+#EXTINF:-1,|PT| DISNEY CHANNEL (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77391
+#EXTINF:-1,|PT| DISNEY JUNIOR (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77392
+#EXTINF:-1,|PT| DOG TV (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77393
+#EXTINF:-1,|PT| E! ENTERTAINMENT (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77394
+#EXTINF:-1,|PT| NICK JR (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77395
+#EXTINF:-1,|PT| NICKELODEON (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77396
+#EXTINF:-1,|PT| EUROSPORT 1 (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77397
+#EXTINF:-1,|PT| FOX COMEDY (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77398
+#EXTINF:-1,|PT| FOX CRIME (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77399
+#EXTINF:-1,|PT| FOX LIFE (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77400
+#EXTINF:-1,|PT| FOX MOVIES (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77401
+#EXTINF:-1,|PT| FOX (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77402
+#EXTINF:-1,|PT| FUEL TV (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77403
+#EXTINF:-1,|PT| GLOBO NOW (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77404
+#EXTINF:-1,|PT| GLOBO (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77405
+#EXTINF:-1,|PT| HISTORIA (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77406
+#EXTINF:-1,|PT| HOLLYWOOD (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77407
+#EXTINF:-1,|PT| KOMBAT SPORT (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77408
+#EXTINF:-1,|PT| MCM TOP (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77409
+#EXTINF:-1,|PT| MOTORVISION (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77410
+#EXTINF:-1,|PT| NATIONAL GEOGRAPHIC (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77411
+#EXTINF:-1,|PT| ODISSEIA (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77412
+#EXTINF:-1,|PT| PANDA BIGGS (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77413
+#EXTINF:-1,|PT| PANDA (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77414
+#EXTINF:-1,|PT| PORTO CANAL (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77415
+#EXTINF:-1,|PT| RECORD NEWS (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77416
+#EXTINF:-1,|PT| SIC CARAS (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77417
+#EXTINF:-1,|PT| SIC K (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77418
+#EXTINF:-1,|PT| SIC MULHER (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77419
+#EXTINF:-1,|PT| SIC NOTICIAS (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77420
+#EXTINF:-1,|PT| SIC RADICAL (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77421
+#EXTINF:-1,|PT| SKY NEWS (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77422
+#EXTINF:-1,|PT| SPORTING TV (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77423
+#EXTINF:-1,|PT| SYFY (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77424
+#EXTINF:-1,|PT| THE FOOD NETWORK (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77425
+#EXTINF:-1,|PT| TLC (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77426
+#EXTINF:-1,|PT| TRACE TOCA (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77427
+#EXTINF:-1,|PT| TRACE URBAN (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77428
+#EXTINF:-1,|PT| TV RECORD (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77429
+#EXTINF:-1,|PT| TVI FICÇÃO (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77430
+#EXTINF:-1,|PT| TVI REALITY (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77431
+#EXTINF:-1,|PT| CANAL 11 (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77432
+#EXTINF:-1,|PT| NOS STUDIOS (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77433
+#EXTINF:-1,|PT| TVI REALITY MOSAICO (LOW)
+http://cineapp.org:8000/Fernando/Fernando/77434
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=orange][B]/////////  LISTA PT VERIFICADA 19/08/22  /////////[/B][/COLOR][COLOR=orange][/COLOR]
