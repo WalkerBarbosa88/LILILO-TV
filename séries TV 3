@@ -7,13 +7,11 @@ http://0.0.0.0:000000
 
 #EXTINF:-1,[COLOR=orange][B]LISTA ADICIONADA: 18/08/2022 [/B][/COLOR][COLOR=orange][/COLOR]
 
+#EXTM3U
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  ARROW  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  ARROW - T01 A T08  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
-
-
-#EXTM3U
 
 
 #EXTINF:0 tvg-id="avi" group-title="Videos",Arrow S01 E01
@@ -362,7 +360,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/22179.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/22486.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  SWAT  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  SWAT - T01 A T05  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:0 tvg-id="avi" group-title="Videos",S.W.A.T. S01 E01
@@ -579,7 +577,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/35970.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/35999.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  HOW TO GET AWAY WITH MURDER  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  HOW TO GET AWAY WITH MURDER - T01 A T06  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
@@ -765,7 +763,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/25555.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/25681.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  LETHAL WEAPON  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  LETHAL WEAPON - T01 A T03  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:0 tvg-id="avi" group-title="Videos",Lethal Weapon S01 E01
@@ -880,7 +878,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/15499.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/15644.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  800 WORDS  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  800 WORDS - T01 A T03  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:0 tvg-id="avi" group-title="Videos",800 Words S01 E01
@@ -963,7 +961,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/12348.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/12627.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  SAVE ME  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  SAVE ME - T01 A T02  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:0 tvg-id="avi" group-title="Videos",Save Me S01 E01
@@ -993,7 +991,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/24797.mkv
 
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  BULLETPROOF ME  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  BULLETPROOF ME - T01 A T03  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:0 tvg-id="avi" group-title="Videos",Bulletproof S01 E01
@@ -1033,7 +1031,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/30161.mkv
 
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  BAND OF BROTHERS  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  BAND OF BROTHERS - T01  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:0 tvg-id="avi" group-title="Videos",Band of Brothers S01 E01
@@ -1058,7 +1056,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/9340.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/9341.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  THE PACIFICIC  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  THE PACIFIC - T01  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:0 tvg-id="avi" group-title="Videos",The Pacific S01 E01
@@ -1083,7 +1081,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/9350.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/9351.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  LUCIFER  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  LUCIFER - T01 A T06  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:0 tvg-id="avi" group-title="Videos",Lucifer S01 E01
@@ -1275,7 +1273,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/33662.mkv
 
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  HELL ON WHEELS  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  HELL ON WHEELS - T01 A T05  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:0 tvg-id="avi" group-title="Videos",Hell on Wheels S01 E01
@@ -1394,7 +1392,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/9507.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/9508.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  DECEPTION  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  DECEPTION - T01  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
@@ -1426,7 +1424,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/9659.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/9660.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  SIX  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  SIX - T01 A T02  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:0 tvg-id="avi" group-title="Videos",SIX S01 E01
@@ -1467,7 +1465,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/11076.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/11077.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  REVERIE  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  REVERIE - T01  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:0 tvg-id="avi" group-title="Videos",Reverie S01 E01
@@ -1493,7 +1491,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/11146.mkv
 
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  SUPERGIRL  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  SUPERGIRL - T01 A T06  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
@@ -1751,7 +1749,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/34281.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/34282.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  THE EXPANSE  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  THE EXPANSE - T01 A T06  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:0 tvg-id="avi" group-title="Videos",The Expanse S01 E01
@@ -1876,7 +1874,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/34805.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/34879.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  HOMELAND  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  HOMELAND - T01 A T08  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:0 tvg-id="avi" group-title="Videos",Homeland S01 E01
@@ -2073,7 +2071,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/25258.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/25371.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  LEGION  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  LEGION - T01 A T03  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
@@ -2133,7 +2131,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/18782.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/18895.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  MARVEL´S DAREDEVIL  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  MARVEL´S DAREDEVIL - T01 A T03  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
@@ -2217,7 +2215,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/12989.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/12990.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  THE AFFAIR  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  THE AFFAIR - T01 A T05  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:0 tvg-id="avi" group-title="Videos",The Affair S01 E01
@@ -2328,7 +2326,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/20608.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/20609.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  BLACK SAILS  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  BLACK SAILS - T01 A T04  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:0 tvg-id="avi" group-title="Videos",Black Sails S01 E01
@@ -2409,7 +2407,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/10264.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/10265.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  12 MONKEYS  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  12 MONKEYS - T01 A T04  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:0 tvg-id="avi" group-title="Videos",12 Monkeys S01 E01
@@ -2506,7 +2504,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/10580.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/10581.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  OUR GIRL  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  OUR GIRL - T01 A T04  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
@@ -2559,7 +2557,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/10947.mkv
 
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  PREACHER  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  PREACHER - T01 A T04  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
@@ -2651,7 +2649,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/20548.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/20549.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  GOLIATH  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  GOLIATH - T01 A T04  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:0 tvg-id="avi" group-title="Videos",Goliath S01 E01
@@ -2720,7 +2718,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/33796.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/33797.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  SALVATION  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  SALVATION - T01 A T02  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:0 tvg-id="avi" group-title="Videos",Salvation S01 E01
@@ -2777,7 +2775,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/12041.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/12154.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  SHARP OBJECTS  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  SHARP OBJECTS - T01  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:0 tvg-id="avi" group-title="Videos",Sharp Objects S01 E01
@@ -2799,7 +2797,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/11762.mkv
 
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  FORGED IN FIRE  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  FORGED IN FIRE - T01 A T08  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
@@ -3225,7 +3223,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/35078.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/35758.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  SHOOTER  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  SHOOTER - T01 A T03  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
@@ -3293,7 +3291,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/11992.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/12117.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  KIM´S CONVENIENCE  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  KIM´S CONVENIENCE - T01 A T05  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
@@ -3429,7 +3427,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/31904.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/31974.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  SNEAKY PETE  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  SNEAKY PETE - T01 A T03  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
@@ -3495,7 +3493,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/33085.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/33086.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  PARANORMAL WITNESS  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  PARANORMAL WITNESS - T01 A T05  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
@@ -3629,7 +3627,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/17117.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/17118.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  GOMORRAH  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  GOMORRAH - T01 A T05  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:0 tvg-id="avi" group-title="Videos",Gomorrah S01 E01
@@ -3750,7 +3748,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/34664.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/34665.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  CASTLE ROCK  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  CASTLE ROCK - T01 A T02  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:0 tvg-id="avi" group-title="Videos",Castle Rock S01 E01
@@ -3795,7 +3793,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/20936.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/21049.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  GET SHORTY  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  GET SHORTY - T01 A T03  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:0 tvg-id="avi" group-title="Videos",Get Shorty S01 E01
@@ -3855,7 +3853,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/20739.mkv
 
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  THE STAIRCASE  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  THE STAIRCASE - T01  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
@@ -3887,7 +3885,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/11558.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/11555.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  THE SINNER  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  THE SINNER - T01 A T04  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:0 tvg-id="avi" group-title="Videos",The Sinner S01 E01
@@ -3956,7 +3954,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/34477.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/34528.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  9-1-1  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  9-1-1 - T01 A T05  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
@@ -4119,7 +4117,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/35949.mkv
 
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  KIDDING  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  KIDDING - T01 A T02  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:0 tvg-id="avi" group-title="Videos",Kidding S01 E01
@@ -4164,7 +4162,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/24185.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/24186.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  MAYANS MC  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  MAYANS MC - T01 A T04  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:0 tvg-id="avi" group-title="Videos",Mayans MC S01 E01
@@ -4249,7 +4247,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/36114.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/36156.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  THE PURGE  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  THE PURGE - T01 A T02  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:0 tvg-id="avi" group-title="Videos",The Purge S01 E01
@@ -4294,7 +4292,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/21052.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/21137.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  MARVEL´S IRON FIST  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  MARVEL´S IRON FIST - T01 A T02  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000 
 
 
@@ -4346,7 +4344,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/12014.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/12015.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  KISS ME FIRST  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  KISS ME FIRST - T01  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000 
 
 #EXTINF:0 tvg-id="avi" group-title="Videos",Kiss Me First S01 E01
@@ -4363,7 +4361,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/12047.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/12048.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  KILLJOYS  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  KILLJOYS - T01 A T05  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000 
 
 
@@ -4469,7 +4467,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/19759.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/20362.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  YOU  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  YOU - T01 A T03  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000 
 
 
@@ -4535,7 +4533,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/34074.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/34075.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  LEGEND QUEST  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  LEGEND QUEST - T01  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000 
 
 #EXTINF:0 tvg-id="avi" group-title="Videos",Legend Quest S01 E01
@@ -4567,7 +4565,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/12204.mkv
 
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  THE CARRIE DIARIES  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  THE CARRIE DIARIES - T01 A T02  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000 
 
 
@@ -4626,7 +4624,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/12258.mkv
 
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  MAGNUM P.I.  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  MAGNUM P.I. - T01 A T04  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000 
 
 
@@ -4784,7 +4782,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/35833.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/35889.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  MANISFEST  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  MANISFEST - T01 A T03  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:0 tvg-id="avi" group-title="Videos",Manifest S01 E01
@@ -4871,7 +4869,7 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/32572.mkv
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/32645.mkv
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  NEW AMSTERDAM  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  NEW AMSTERDAM - T01 A T04  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:0 tvg-id="avi" group-title="Videos",New Amsterdam S01 E01
@@ -5027,9 +5025,8 @@ http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/35968.mkv
 #EXTINF:0 tvg-id="avi" group-title="Videos",New Amsterdam S04 E22
 http://hellohelios.crabdance.com:80/series/9ESUdOYO9Y/bugSyNm4q4/36020.mkv
 
-
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] ///////////  A MILLION LITTLE THINGS  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] ///////////  A MILLION LITTLE THINGS - T01 A T04  ///////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:0 tvg-id="avi" group-title="Videos",A Million Little Things S01 E01
