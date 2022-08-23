@@ -428,6 +428,9 @@ https://cloud10.vsgtech.co:3262/live/memoriastv2live.m3u8?PlaylistM3UCL
 #EXTINF:-1,[COLOR=white][B]RECUERDOS RETRO HD[/B][/COLOR][COLOR=white][/COLOR]
 https://593b04c4c5670.streamlock.net/8002/8002/playlist.m3u8
 
+#EXTINF:-1,[COLOR=white][B]CLASSIC HITS[/B][/COLOR][COLOR=white][/COLOR]
+http://168.205.87.198:8555/live/1431/123456/27.ts
+
  
 ######################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA LATINA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -473,6 +476,8 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]FABULOSA FM[/B][/COLOR][COLOR=white][/COLOR]
 http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8?PlaylistM3UCL
 
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]AMÉRICA LATINA[/B][/COLOR][COLOR=white][/COLOR]
+http://168.205.87.198:8555/live/1431/123456/16.ts
 
 ######################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// OUTROS GÉNEROS /////////[/B][/COLOR][COLOR=yellow][/COLOR]
