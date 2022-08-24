@@ -79,20 +79,8 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/c
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]4FUN TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.4fun.tv:8888/hls/4f.m3u8
 
-#EXTINF:-1,[COLOR=white][B]MTV CLUB HD[/B][/COLOR][COLOR=white][/COLOR]
-http://cdnua06.hls.tv/476/hls/0v8gnwlpo3dtf24ysm1rbcqx6uea79ji/264/stream.m3u8
-
-#EXTINF:-1,[COLOR=white][B]MTV CLUB HD[/B][/COLOR][COLOR=white][/COLOR]
-http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/264/stream.m3u8
-
-#EXTINF:-1,[COLOR=white][B]MTV LIVE HD[/B][/COLOR][COLOR=white][/COLOR]
-http://cdnua06.hls.tv/476/hls/px79rajems05udyfnbg61qhklcv2tzo8/267/stream.m3u8
-
 #EXTINF:-1,[COLOR=white][B]MTV OO´S HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0hf
-
-#EXTINF:-1 tvg-logo="" group-title="TV Musicas",[COLOR=white][B]NRJ HITS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://37.235.38.139:4000/play/a0ar
 
 #EXTINF:-1 tvg-logo="" group-title="TV Musicas",[COLOR=white][B]ONE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://rtmp.one.by:1300
