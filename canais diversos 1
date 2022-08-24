@@ -114,11 +114,6 @@ https://edge.taghtia.com/sa/10.m3u8
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]SKY TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]SKY RACING 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]SKY RACING 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
-
 
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CASAS E CONSTRUÇÃO  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
