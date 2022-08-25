@@ -16,7 +16,7 @@ http://0.0.0.0:0000
      Listas Várias - https://global-satinfo.in/viewtopic.php?f=22&t=2315&start=330
 #EXTM3U
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 23/08/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 25/08/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 
 ####################################################################################################################################
@@ -25,27 +25,9 @@ https://00000000000
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=white][B]SPORT 1+ DE HD[/B][/COLOR][COLOR=white][/COLOR]
-http://80.145.127.202:8001/play/a0g5
+#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
+http://0000000000000000000000
 
-#EXTINF:-1,[COLOR=white][B]SPORT TV 1 SL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://lionboxiptv.xyz:80/AhmetBerlin6565/x8JsqyEHQu/13858
-#EXTINF:-1,[COLOR=white][B]SPORT TV 2 SL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://lionboxiptv.xyz:80/AhmetBerlin6565/x8JsqyEHQu/13859
-
-#EXTINF:-1,[COLOR=white][B]ARENA SPORT 1 RS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://lionboxiptv.xyz:80/AhmetBerlin6565/x8JsqyEHQu/13950
-
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 
 
 ####################################################################################################################################
@@ -56,8 +38,6 @@ https://00000000000
 
 
 #EXTINF:-1,[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
-http://cdnrede.com:80/Teste2021/2021teste/207263
-#EXTINF:-1,[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a03y
 #EXTINF:0 tvg-id="SportTVplus.pt" group-title="DESPORTO",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
 http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais
@@ -65,31 +45,19 @@ http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais
 #EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://194.76.186.98:2021/play/a019
 #EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://cdnrede.com:80/Teste2021/2021teste/207264
-#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://187.14.238.19:4000/play/a061
-
 
 #EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://194.76.186.98:2021/play/a01t
-#EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://cdnrede.com:80/Teste2021/2021teste/207265
 
 #EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://194.76.186.98:2021/play/a01u
-#EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://cdnrede.com:80/Teste2021/2021teste/207266
 
 #EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://cdnrede.com:80/Teste2021/2021teste/207267
 
-#EXTINF:-1,[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://cdnrede.com:80/Teste2021/2021teste/207268
-
 #EXTINF:-1,[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://194.76.186.98:2021/play/a01w
-#EXTINF:-1,[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://cdnrede.com:80/Teste2021/2021teste/207210
 
 
 #EXTM3U
@@ -100,11 +68,12 @@ https://000000
 
 #EXTM3U
 
-
 #EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82825
 #EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.81:1234
+#EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://ttv.bz:80/manolopc1/7U49kuozK8/1047
 
 #EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.128:1234
@@ -123,6 +92,17 @@ http://189.91.128.146:4444/udp/227.10.20.116:1234
 #EXTINF:-1,[COLOR=white][B]ESPN 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82754
 
+#EXTINF:-1,[COLOR=white][B]SPORT 1+ DE HD[/B][/COLOR][COLOR=white][/COLOR]
+http://80.145.127.202:8001/play/a0g5
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 PL HD[/B][/COLOR][COLOR=white][/COLOR]
+http://directtv1.xyz:80/RaYByVnse9/fZK94KwujG/274515
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 PL HD[/B][/COLOR][COLOR=white][/COLOR]
+http://panel.tivix.eu:80/sisilnew/2PgvU7ujL8/95833
+
+#EXTINF:-1,[COLOR=white][B]ARENA SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9726
+#EXTINF:-1,[COLOR=white][B]ARENA SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://185.56.251.38:4000/play/a08j/index.m3u8
 
 
 ##################################  BENFICA TV   ###########################################################################
@@ -145,28 +125,36 @@ http://194.76.186.98:2021/play/a00e
 #EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS ELEVEN SPORTS PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
-
 #EXTM3U
-
 
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://187.14.238.19:4000/play/a055
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://187.14.238.19:4000/play/a04y
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
 
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://187.14.238.19:4000/play/a05g
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
 
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
 
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 
