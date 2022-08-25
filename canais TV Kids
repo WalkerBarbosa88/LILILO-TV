@@ -3,7 +3,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 10/08/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 25/08/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
 #########################################################################################################################################################################
  
@@ -58,10 +58,8 @@ https://000000
 
 #EXTM3U
 
-
 #EXTINF:-1,[COLOR=white][B]GULLI BIL ARABI HD[/B][/COLOR][COLOR=white][/COLOR]
 https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
-
 #EXTINF:-1,[COLOR=white][B]BABY SHARK TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]CAMP SNOOPY[/B][/COLOR][COLOR=white][/COLOR]
@@ -104,8 +102,6 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]FGTV[/B][/COLOR][COLOR=white][/COLOR]
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8
-#EXTINF:0 tvg-id="lale" group-title="Kids",[COLOR=white][B]LALE[/B][/COLOR][COLOR=white][/COLOR]
-http://stream.atr.ua/lale//live/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]LEGO CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
 https://legochannel-roku.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]LEGO TOONS[/B][/COLOR][COLOR=white][/COLOR]
@@ -160,7 +156,7 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/
 https://simultv.s.llnwi.net/n4s4/KartoonCircus/interlink.m3u8
 
 ********************************************************************************************************************************************************
-****************************************************************************  CANAIS IPTV ORG KIDS M3U  ****************************************
+****************************************************************************  CANAIS IPTV ORG KIDS M3U  ************************************************
 
 
 #EXTINF:-1,[COLOR=white][B]KETNET JUNIOR HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -189,7 +185,6 @@ https://rpn1.bozztv.com/36bay2/gusa-hitops/index.m3u8
 https://000000
 
 #EXTM3U
-
 
 #EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]PLUTO TV ANIMAKIDS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1aabee6f4a2c00076a322c&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=905&terminate=false&userId=
