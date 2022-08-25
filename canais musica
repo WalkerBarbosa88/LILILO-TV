@@ -4,7 +4,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 19/08/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 25/08/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -102,9 +102,6 @@ https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sM
 
 #EXTINF:-1,[COLOR=white][B]PINK HITS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://46.29.169.15:4001/play/a01i/index.m3u8
-
-#EXTINF:-1,[COLOR=white][B]PINK HITS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://212.200.127.247:8000/play/a0hs/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]NRG 91[/B][/COLOR][COLOR=white][/COLOR]
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
@@ -212,9 +209,6 @@ https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8Ak6qR.png" group-title="",[COLOR=white][B]IBIZA GLOBAL TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://ibgrtv.streaming-pro.com/hls/ibgrlive_2.m3u8
 
-#EXTINF:-1,[COLOR=white][B]MTV CLUB HD[/B][/COLOR][COLOR=white][/COLOR]
-http://cdnua06.hls.tv/476/hls/0v8gnwlpo3dtf24ysm1rbcqx6uea79ji/264/stream.m3u8
-
 #EXTINF:-1,[COLOR=white][B]MUSIC TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://live.prd.dlive.tv/hls/live/funstudio.m3u8
 
@@ -245,11 +239,6 @@ https://live.prd.dlive.tv/hls/live/andyx7.m3u8
 #EXTINF:-1,[COLOR=white][B]NR1 DANCE HD[/B][/COLOR][COLOR=white][/COLOR]
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]HOT BEATS TV[/B][/COLOR][COLOR=white][/COLOR]
-https://streamlive7.hearthis.at/hls/10354224_orig/index.m3u8
-
-#EXTINF:-1,[COLOR=white][B]4FUN DANCE HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.206:7003/play/a03k
 
 ######################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  MÚSICA AFRICANA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -283,10 +272,6 @@ https://cdn17.fntvchannel.com/index_1080.m3u8
 #EXTINF:-1,[COLOR=yellow][B]/////////  MÚSICAS ALTERNATIVAS & AO VIVO /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
-
-#EXTINF:-1,[COLOR=white][B]EURO INDIE MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
-http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]QELLO CONCERTS[/B][/COLOR][COLOR=white][/COLOR]
 https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
 
@@ -307,9 +292,6 @@ http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
  #EXTINF:-1,[COLOR=white][B]CAROLINA TV 2[/B][/COLOR][COLOR=white][/COLOR]
 https://unlimited1-cl-isp.dps.live/carolinatv2/carolinatv2.smil/playlist.m3u8?PlaylistM3UCL
 
- #EXTINF:-1,[COLOR=white][B]CADENA ELITE HD[/B][/COLOR][COLOR=white][/COLOR]
-https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL
- 
 #EXTINF:-1,[COLOR=white][B]RELOAD TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
 
@@ -457,9 +439,6 @@ https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8?
 
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]TV EXITOS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
-
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]TOCA HITS HD[/B][/COLOR][COLOR=white][/COLOR]
-https://mix247.ml:444/TocaHits/Top100Mix24-7/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]CANAL VM LATINO HD[/B][/COLOR][COLOR=white][/COLOR]
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
