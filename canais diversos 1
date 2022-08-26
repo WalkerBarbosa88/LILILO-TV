@@ -27,6 +27,11 @@ https://videostreaming.cloudserverlatam.com/Batalladegallos/Batalladegallos/play
 
 #EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]BEIN SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
+#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]BEIN SPORTS XTRA HD[/B][/COLOR][COLOR=white][/COLOR]
+https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]BEIN SPORTS XTRA ES HD[/B][/COLOR][COLOR=white][/COLOR]
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FUEL TV FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://fueltv-fueltv-2-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USA",[COLOR=white][B]NITRO CIRCUS[/B][/COLOR][COLOR=white][/COLOR]
@@ -84,6 +89,9 @@ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
 #EXTINF:-1,[COLOR=white][B]SPORTS TV PLUS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
+
+#EXTINF:-1,[COLOR=white][B]BEST CABLE SPORTS TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
 
 *****************************************************  LISTA IPTV ORG DESPORTO  *********************************************************
 
@@ -517,6 +525,8 @@ https://streamcdnb11-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rai
 https://rakuten-africanews-1-no.samsung.wurl.com/manifest/eeb88fab4703f2644e2ca1e8308008c8.m3u8
 #EXTINF:-1,[COLOR=white][B]RT HD[/B][/COLOR][COLOR=white][/COLOR]
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/srak-wx8r/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]CGTN USA HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.new.livestream.com/accounts/7082210/events/9331199/live.m3u8
 
 
 ###########################################################################################################################################
