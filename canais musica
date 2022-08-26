@@ -34,6 +34,9 @@ http://45.11.56.147:8808/stream?id=137
 https://000000
 
 
+#EXTINF:-1,[COLOR=white][B]MOOZ HITS[/B][/COLOR][COLOR=white][/COLOR]
+https://db2-archive.teleon.tv/m3u/m3u.php?ch=moozhits
+
 #EXTINF:-1,[COLOR=white][B]TRACE URBAN FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 
@@ -158,6 +161,9 @@ http://cloudvideo.servers10.com:8080/8004/index.m3u8
 #EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA ELECTRÓNICA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
+
+#EXTINF:-1,[COLOR=white][B]MOOZ DANCE TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://db2-archive.teleon.tv/m3u/m3u.php?ch=moozdance
 
 #EXTINF:-1,[COLOR=white][B]DANCE TV - BEST OF DANCE[/B][/COLOR][COLOR=white][/COLOR]
 https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
