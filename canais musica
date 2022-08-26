@@ -151,6 +151,8 @@ https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_live1_b4131600_sles.m3u8
 #EXTINF:-1,[COLOR=white][B]MUZZONE TV[/B][/COLOR][COLOR=white][/COLOR]
 http://muzzone-stream.daitsuna.net/muzzondvr/muzzone_dvr/chunks_dvr.m3u8
 
+#EXTINF:-1,[COLOR=white][B]CADENA ELITE ES TV[/B][/COLOR][COLOR=white][/COLOR]
+http://cloudvideo.servers10.com:8080/8004/index.m3u8
 
 ##########################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA ELECTRÓNICA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
