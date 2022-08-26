@@ -274,6 +274,10 @@ https://cdn17.fntvchannel.com/index_1080.m3u8
 #EXTINF:-1,[COLOR=yellow][B]/////////  MÚSICAS ALTERNATIVAS & AO VIVO /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
+
+#EXTINF:-1,[COLOR=white][B]EURO INDIE MUSIC[/B][/COLOR][COLOR=white][/COLOR]
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]QELLO CONCERTS[/B][/COLOR][COLOR=white][/COLOR]
 https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
 
@@ -358,6 +362,9 @@ http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]ALWAYS MORE MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
 http://107.178.61.226:8080/alwaysmoremusic247.m3u8
+
+#EXTINF:-1,[COLOR=white][B]FABULOSA TV[/B][/COLOR][COLOR=white][/COLOR]
+http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8
 
 ######################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA ANTIGA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
