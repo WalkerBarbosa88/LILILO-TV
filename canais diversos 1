@@ -154,19 +154,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc1cb279c91420009
 
 #EXTINF:-1,[COLOR=white][B]DISCOVERY H&H BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.85:1234
-#EXTINF:-1,[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/103583
-#EXTINF:-1,[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/18950
 
-#EXTINF:-1,[COLOR=white][B]HGTV USA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28778
-#EXTINF:-1,[COLOR=white][B]HGTV USA FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/28779
 #EXTINF:-1,[COLOR=white][B]HGTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://87.212.248.44:60130/play/a04s
-#EXTINF:-1,[COLOR=white][B]HGTV MX HD[/B][/COLOR][COLOR=white][/COLOR]
-http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/81877
+
 
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS GRÁTIS 4K  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
