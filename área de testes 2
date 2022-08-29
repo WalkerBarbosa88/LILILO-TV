@@ -11,4 +11,8 @@ http://0.0.0.0:0000
 #EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
 http://0000000000000000000000
 
+#EXTINF:-1,[COLOR=white][B]VATICANO LIVE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=NbCtL6lTSug
 
+#EXTINF:-1,[COLOR=white][B]ELTON JONH & DUA LIPA COLD HEART[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=qod03PVTLqk&list=RDCLAK5uy_kWiJXUNLZM9EyS3GBGznl1ku8_cOos97U&index=12
