@@ -61,6 +61,9 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?
 #EXTINF:-1,[COLOR=white][B]BRIDGE DELUXE TV[/B][/COLOR][COLOR=white][/COLOR]
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=bridgedeluxetv
 
+#EXTINF:-1,[COLOR=white][B]BRIDGE HITS TV[/B][/COLOR][COLOR=white][/COLOR]
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=bridgehitstv
+
 #EXTINF:-1,[COLOR=white][B]KRONEHITS FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
@@ -247,6 +250,8 @@ https://live.prd.dlive.tv/hls/live/andyx7.m3u8
 #EXTINF:-1,[COLOR=white][B]NR1 DANCE HD[/B][/COLOR][COLOR=white][/COLOR]
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8
 
+#EXTINF:-1,[COLOR=white][B]CVR TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://live.prd.dlive.tv/hls/live/cybervybezradio.m3u8
 
 ######################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  MÚSICA AFRICANA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -371,6 +376,27 @@ http://107.178.61.226:8080/alwaysmoremusic247.m3u8
 
 #EXTINF:-1,[COLOR=white][B]FABULOSA TV[/B][/COLOR][COLOR=white][/COLOR]
 http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO 4YOU TV[/B][/COLOR][COLOR=white][/COLOR]
+https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
+
+#EXTINF:-1,[COLOR=white][B]HAPPY RÁDIO HD[/B][/COLOR][COLOR=white][/COLOR]
+https://live.prd.dlive.tv/hls/live/happyradio.m3u8
+
+#EXTINF:-1,[COLOR=white][B]HIT FM TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]MUSIC PLUS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://79.172.214.45:10190/stream.m3u8
+
+#EXTINF:-1,[COLOR=white][B]KISS KISS ITÁLIA HD[/B][/COLOR][COLOR=white][/COLOR]
+https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]KISS KISS NAPOLI HD[/B][/COLOR][COLOR=white][/COLOR]
+https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]GOTV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/chunklist_w256350942.m3u8
 
 ######################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA ANTIGA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
