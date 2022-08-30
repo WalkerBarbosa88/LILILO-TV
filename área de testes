@@ -7,6 +7,71 @@ http://0.0.0.0:0000
 #EXTM3U
 
 ####################################################################################################################################
+#EXTINF:-1,[COLOR=orange][B]/////////  LISTA PT ADICIONADA 30/08/22  /////////[/B][/COLOR][COLOR=orange][/COLOR]
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1 HD" tvg-logo="" group-title="Portugal",RTP 1 HD
+http://fortv.cc:8080/carls/1234/78492
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2 HD" tvg-logo="" group-title="Portugal",RTP 2 HD
+http://fortv.cc:8080/carls/1234/78493
+#EXTINF:-1 tvg-id="" tvg-name="PT | MTV PORTUGAL" tvg-logo="" group-title="Portugal",MTV PORTUGAL
+http://fortv.cc:8080/carls/1234/78520
+#EXTINF:-1 tvg-id="" tvg-name="PT: 24 Kitchen HD" tvg-logo="" group-title="Portugal",24 KITCHEN HD
+http://fortv.cc:8080/carls/1234/78426
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN HD" tvg-logo="" group-title="Portugal",AXN HD
+http://fortv.cc:8080/carls/1234/78432
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN White HD" tvg-logo="" group-title="Portugal",AXN WHITE HD
+http://fortv.cc:8080/carls/1234/78431
+#EXTINF:-1 tvg-id="" tvg-name="PT: Canal Panda" tvg-logo="" group-title="Portugal",CANAL PANDA
+http://fortv.cc:8080/carls/1234/78446
+#EXTINF:-1 tvg-id="" tvg-name="PT: CMTV" tvg-logo="" group-title="Portugal",CMTV
+http://fortv.cc:8080/carls/1234/78441
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven 2 HD" tvg-logo="" group-title="Portugal",ELEVEN SPORTS 2 HD
+http://fortv.cc:8080/carls/1234/78455
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven 3" tvg-logo="" group-title="Portugal",ELEVEN SPORTS 3
+http://fortv.cc:8080/carls/1234/78456
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven 4" tvg-logo="" group-title="Portugal",ELEVEN SPORTS 4
+http://fortv.cc:8080/carls/1234/78457
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven 5" tvg-logo="" group-title="Portugal",ELEVEN SPORTS 5
+http://fortv.cc:8080/carls/1234/78458
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven 6" tvg-logo="" group-title="Portugal",ELEVEN SPORTS 6
+http://fortv.cc:8080/carls/1234/78459
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX Crime HD" tvg-logo="" group-title="Portugal",FOX CRIME HD
+http://fortv.cc:8080/carls/1234/78469
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX Life HD" tvg-logo="" group-title="Portugal",FOX LIFE HD
+http://fortv.cc:8080/carls/1234/78471
+#EXTINF:-1 tvg-id="" tvg-name="PT: Hollywood HD" tvg-logo="" group-title="Portugal",HOLLYWOOD HD
+http://fortv.cc:8080/carls/1234/78472
+#EXTINF:-1 tvg-id="" tvg-name="PT: ID Investigation Discovery" tvg-logo="" group-title="Portugal",ID INVESTIGATION DISCOVERY 
+http://fortv.cc:8080/carls/1234/78479
+#EXTINF:-1 tvg-id="" tvg-name="PT: National Geographic HD" tvg-logo="" group-title="Portugal",NATIONAL GEOGRAPHIC HD
+http://fortv.cc:8080/carls/1234/78486
+#EXTINF:-1 tvg-id="" tvg-name="PT: National Geographic Wild" tvg-logo="" group-title="Portugal",NATIONAL GEOGRAPHIC Wild
+http://fortv.cc:8080/carls/1234/78425
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP Memðria" tvg-logo="" group-title="Portugal",RTP MEMÓRIA 
+http://fortv.cc:8080/carls/1234/78496
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC" tvg-logo="" group-title="Portugal",SIC
+http://fortv.cc:8080/carls/1234/78501
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 1" tvg-logo="" group-title="Portugal",SPORT TV 1
+http://fortv.cc:8080/carls/1234/78513
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 2" tvg-logo="" group-title="Portugal",SPORT TV 2
+http://fortv.cc:8080/carls/1234/78515
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 3" tvg-logo="" group-title="Portugal",SPORT TV 3
+http://fortv.cc:8080/carls/1234/78517
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="" group-title="Portugal",SPORT TV 4
+http://fortv.cc:8080/carls/1234/78494
+#EXTINF:-1 tvg-id="" tvg-name="PT: Travel Channel HD" tvg-logo="" group-title="Portugal",TRAVEL CHANNEL HD
+http://fortv.cc:8080/carls/1234/78532
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV Record" tvg-logo="" group-title="Portugal",TV RECORD 
+http://fortv.cc:8080/carls/1234/78523
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI" tvg-logo="" group-title="Portugal",TVI
+http://fortv.cc:8080/carls/1234/78526
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI 24" tvg-logo="" group-title="Portugal",CNN PORTUGAL 
+http://fortv.cc:8080/carls/1234/78527
+
+
+####################################################################################################################################
 #EXTINF:-1,[COLOR=orange][B]/////////  LISTA PT VERIFICADA 28/08/22  /////////[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
