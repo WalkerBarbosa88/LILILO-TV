@@ -315,8 +315,10 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]TROLL TV[/B][/COLOR][COLOR=white][/COLOR]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a
- 
- 
+#EXTINF:-1,[COLOR=white][B]COMEDY CENTRAL HD[/B][/COLOR][COLOR=white][/COLOR]
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]HUMOR MILL HD[/B][/COLOR][COLOR=white][/COLOR]
+https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8
  
  ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  METEOROLOGIA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -335,6 +337,10 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,C
 https://linear-76.frequency.stream/dist/localnow/76/hls/master/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]WEATHER SPY[/B][/COLOR][COLOR=white][/COLOR]
 https://jukin-weatherspy-2-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]WEATHER SPY EUROPA[/B][/COLOR][COLOR=white][/COLOR]
+https://jukin-weatherspy-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]METEONEWS HD[/B][/COLOR][COLOR=white][/COLOR]
+https://streaming.meteonews.net/hls/stream.m3u8
  
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  MODA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
