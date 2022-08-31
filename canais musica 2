@@ -7,7 +7,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 24/08/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 31/08/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 
 FONTE DE INFORMAÇÃO: https://global-satinfo.in/viewtopic.php?f=22&t=2885&start=30
@@ -18,8 +18,6 @@ FONTE DE INFORMAÇÃO: https://global-satinfo.in/viewtopic.php?f=22&t=2885&start
 [COLOR=white][B]SPORT 1+ DE HD[/B][/COLOR][COLOR=white][/COLOR]
 #EXTM3U
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RITSA TV[/B][/COLOR][COLOR=white][/COLOR]
-https://live.prd.dlive.tv/hls/live/fila007.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TRANCE IS STARS[/B][/COLOR][COLOR=white][/COLOR]
 http://tis.catcast.tv/content/391/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CLUBBING TV[/B][/COLOR][COLOR=white][/COLOR]
@@ -54,8 +52,6 @@ https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_
 https://xite-samsung-de.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]INRATING TV[/B][/COLOR][COLOR=white][/COLOR]
 https://inrating-tv.cdn-04.cosmonova.net.ua/hls/inrating-tv_ua_hi/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MUSIC 4EVER HD[/B][/COLOR][COLOR=white][/COLOR]
-http://cdnua06.hls.tv/476/hls/eg9x4823zkf6wlsa5ihj7dm1ynptuqrv/3987/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TRACE URBAN[/B][/COLOR][COLOR=white][/COLOR]
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MUSIC PLUS[/B][/COLOR][COLOR=white][/COLOR]
@@ -218,9 +214,6 @@ https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ad8f86e1eba00081da3ce/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8ae1b0-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=97358d7c-5219-43db-bcda-c5057f0bc369
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]COMPANY TV[/B][/COLOR][COLOR=white][/COLOR]
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]CONECTA TV[/B][/COLOR][COLOR=white][/COLOR]
-http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
-
 
 #EXTINF:0 tvg-id="ext" group-title="Music",A2I MUSIC
 https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
@@ -400,8 +393,6 @@ https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls.m3u8
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_uk_stingrayqello_001.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",QMUSIC
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",RÁDIO PETER PAN TV
-https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",RÁDIO PROS
 http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",RÁDIO SAN BORJA TV
