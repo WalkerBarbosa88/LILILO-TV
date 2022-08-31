@@ -16,7 +16,7 @@ http://0.0.0.0:0000
      Listas Várias - https://global-satinfo.in/viewtopic.php?f=22&t=2315&start=330
 #EXTM3U
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 25/08/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 31/08/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 
 ####################################################################################################################################
@@ -26,8 +26,6 @@ https://00000000000
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://fortv.cc:8080/carls/1234/78513
 #EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://fortv.cc:8080/carls/1234/78515
 #EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -35,8 +33,6 @@ http://fortv.cc:8080/carls/1234/78517
 #EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://fortv.cc:8080/carls/1234/78494
 
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://fortv.cc:8080/carls/1234/35264
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://fortv.cc:8080/carls/1234/78455
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -158,8 +154,6 @@ https://000000
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://187.14.238.19:4000/play/a055
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
@@ -169,16 +163,12 @@ http://80.78.128.1:65437/play/PT_ELEVEN1_HD
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://187.14.238.19:4000/play/a04y
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven2
 
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://187.14.238.19:4000/play/a05g
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven3
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
