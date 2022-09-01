@@ -22,30 +22,4 @@ layouttype>thumbnail</layouttype>
 </channel>
 
 
-
-
-<channels>
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold]CANAIS TV USA[/COLOR][/B]</name>
-<thumbnail>https://ia903407.us.archive.org/20/items/bandeira-usa_202102/Bandeira%20USA.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Sphinxroot/TV/main/USA.m3u</externallink>
-<fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
-<info>CANAIS DE TV DOS ESTADOS UNIDOS DA AMÉRICA</info>
-</channel>
-
-
-
-
-<channels>
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold]AUSTRÁLIA[/COLOR][/B]</name>
-<thumbnail>https://ia801801.us.archive.org/24/items/bandeira-australia_202102/Bandeira%20Austr%C3%A1lia.jpg</thumbnail>
-<externallink>https://iptv-org.github.io/iptv/countries/au.m3u</externallink>
-<fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
-<info>portugalkodi.com</info>
-</channel>
-
-
-
-
 </channels>
