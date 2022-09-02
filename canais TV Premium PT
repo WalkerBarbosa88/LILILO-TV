@@ -13,7 +13,7 @@ http://0.0.0.0:0000
  ta PT M3U Grátis - https://github.com/LITUATUI/M3UPT
   Várias Listas PT - https://github.com/moonlight17884/iptv
     Listas Diárias - https://treshi.github.io/daily-iptv.al/ 
-     Listas Várias - https://global-satinfo.in/viewtopic.php?f=22&t=2315&start=330
+     Listas Várias - https://global-satinfo.in/viewforum.php?f=22&sid=14261766f220116fe35abb7ddf0e87e2
 #EXTM3U
  
 #EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 02/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
@@ -86,10 +86,16 @@ https://000000
 
 #EXTM3U
 
+
+#EXTINF:-1,[COLOR=white][B]ESPN EXTRA HD[/B][/COLOR][COLOR=white][/COLOR]
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/41977.ts
+
 #EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82825
 #EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.81:1234
+#EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://ttv.bz:80/manolopc1/7U49kuozK8/1047
 #EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://ttv.bz:80/manolopc1/7U49kuozK8/1047
 
@@ -99,16 +105,23 @@ http://189.91.128.146:4444/udp/227.10.20.128:1234
 http://189.91.128.146:4444/udp/227.10.20.152:1234
 #EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.86:1234
+#EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/46529
 
 #EXTINF:-1,[COLOR=white][B]ESPN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82828
 #EXTINF:-1,[COLOR=white][B]ESPN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.153:1234
+#EXTINF:-1,[COLOR=white][B]ESPN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://ttv.bz:80/manolopc1/7U49kuozK8/1048
 
 #EXTINF:-1,[COLOR=white][B]ESPN 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.116:1234
 #EXTINF:-1,[COLOR=white][B]ESPN 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82754
+#EXTINF:-1,[COLOR=white][B]ESPN 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://ttv.bz:80/manolopc1/7U49kuozK8/1038
+
 
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 PL HD[/B][/COLOR][COLOR=white][/COLOR]
 http://panel.tivix.eu:80/sisilnew/2PgvU7ujL8/95833
