@@ -54,8 +54,7 @@ https://streaming-live.rtp.pt/liveradio/antena1acores80a/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]ANTENA 1 MADEIRA[/B][/COLOR][COLOR=white][/COLOR]
 https://streaming-live.rtp.pt/liveradio/antena1madeira80a/playlist.m3u8
 
- 
-#EXTINF:-1,[COLOR=white][B]ANTENA 2[/B][/COLOR][COLOR=white][/COLOR]
+ #EXTINF:-1,[COLOR=white][B]ANTENA 2[/B][/COLOR][COLOR=white][/COLOR]
 http://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8
  
 #EXTINF:-1,[COLOR=white][B]ANTENA 3[/B][/COLOR][COLOR=white][/COLOR]
@@ -156,6 +155,10 @@ https://proic1.evspt.com/radar_aac
 
 #EXTINF:-1,[COLOR=white][B]RÁDIO OLISIPIO[/B][/COLOR][COLOR=white][/COLOR]
 https://n0f.radiojar.com/6x85cenb7ehvv?1652976295=&rj-tok=AAABgN0bmTAA5j9zHZcxBl9tWw&rj-ttl=5
+
+#EXTINF:-1,[COLOR=white][B]GOLO FM[/B][/COLOR][COLOR=white][/COLOR]
+https://golo.fm/wp-content/uploads/2022/08/81-01092022-Al-Golo-Rui-Almeida.mp4?_=1
+
 
 
 ######################################################################################################################################
@@ -482,6 +485,8 @@ https://solid24.streamupsolutions.com/proxy/dcofieen?mp=%2Fstream
 http://live.noite.pt:8080/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO OESTE FM[/B][/COLOR][COLOR=white][/COLOR]
 https://sp0.redeaudio.com:10933/live
+#EXTINF:-1,[COLOR=white][B]RÁDIO MARIA[/B][/COLOR][COLOR=white][/COLOR]
+https://dreamsiteradiocp5.com/proxy/rmportugal1?mp=/stream
 
 
 ######################################################################################################################################
