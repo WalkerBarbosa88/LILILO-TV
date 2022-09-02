@@ -6,6 +6,462 @@ http://0.0.0.0:0000
 
 #EXTM3U
 
+
+####################################################################################################################################
+#EXTINF:-1,[COLOR=orange][B]/////////  LISTA PT ADICIONADA 02/09/22  /////////[/B][/COLOR][COLOR=orange][/COLOR]
+
+#EXTM3U
+
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="|BE|4K| SPORTS",##### |BE|4K| SPORTS #####
+http://txm.flysat.live:2089/152072895769187/152094041439631/205413
+#EXTINF:0 tvg-id="rtp1.pt" group-title="|BE|4K| SPORTS",|PT| RTP 1
+http://txm.flysat.live:2089/152072895769187/152094041439631/205770
+#EXTINF:0 tvg-id="rtp1.pt" group-title="|BE|4K| SPORTS",|PT| RTP 1 HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205769
+#EXTINF:0 tvg-id="rtp2.pt" group-title="|BE|4K| SPORTS",|PT| RTP 2
+http://txm.flysat.live:2089/152072895769187/152094041439631/205768
+#EXTINF:0 tvg-id="rtp2.pt" group-title="|BE|4K| SPORTS",|PT| RTP 2 HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205767
+#EXTINF:0 tvg-id="RTP3.pt" group-title="|BE|4K| SPORTS",|PT| RTP 3
+http://txm.flysat.live:2089/152072895769187/152094041439631/205766
+#EXTINF:0 tvg-id="ext" group-title="|BE|4K| SPORTS",|PT| RTP INTERNATIONAL
+http://txm.flysat.live:2089/152072895769187/152094041439631/205765
+#EXTINF:0 tvg-id="TVI24.pt" group-title="|BE|4K| SPORTS",|PT| TVI 24
+http://txm.flysat.live:2089/152072895769187/152094041439631/205764
+#EXTINF:0 tvg-id="sicnoticias.pt" group-title="|BE|4K| SPORTS",|PT| SIC NOTICIAS
+http://txm.flysat.live:2089/152072895769187/152094041439631/205763
+#EXTINF:0 tvg-id="CMTV.pt" group-title="|BE|4K| SPORTS",|PT| CMTV
+http://txm.flysat.live:2089/152072895769187/152094041439631/205762
+#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="|BE|4K| SPORTS",|PT| RTP AFRICA
+http://txm.flysat.live:2089/152072895769187/152094041439631/205761
+#EXTINF:0 tvg-id="RTPMadeira.pt" group-title="|BE|4K| SPORTS",|PT| RTP MADEIRA
+http://txm.flysat.live:2089/152072895769187/152094041439631/205760
+#EXTINF:0 tvg-id="RTPAcores.pt" group-title="|BE|4K| SPORTS",|PT| RTP ACORES
+http://txm.flysat.live:2089/152072895769187/152094041439631/205759
+#EXTINF:0 tvg-id="PortoCanal.pt" group-title="|BE|4K| SPORTS",|PT| PORTO CANAL
+http://txm.flysat.live:2089/152072895769187/152094041439631/205758
+#EXTINF:0 tvg-id="cazaepesca.pt" group-title="|BE|4K| SPORTS",|PT| CACA E PESCA
+http://txm.flysat.live:2089/152072895769187/152094041439631/205757
+#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="|BE|4K| SPORTS",|PT| RTP MEMORIA
+http://txm.flysat.live:2089/152072895769187/152094041439631/205756
+#EXTINF:0 tvg-id="TVIFiccao.pt" group-title="|BE|4K| SPORTS",|PT| TVI FICCAO
+http://txm.flysat.live:2089/152072895769187/152094041439631/205755
+#EXTINF:0 tvg-id="MCSExtreme.pt" group-title="|BE|4K| SPORTS",|PT| MCS EXTREME
+http://txm.flysat.live:2089/152072895769187/152094041439631/205754
+#EXTINF:0 tvg-id="TVIReal.pt" group-title="|BE|4K| SPORTS",|PT| TVI REALITY
+http://txm.flysat.live:2089/152072895769187/152094041439631/205753
+
+#EXTINF:0 tvg-id="ext" group-title="|PT| DESPORTO",##### |PT| DESPORTO #####
+http://txm.flysat.live:2089/152072895769187/152094041439631/205752
+#EXTINF:0 tvg-id="ext" group-title="|PT| DESPORTO",|PT| CANAL 11
+http://txm.flysat.live:2089/152072895769187/152094041439631/205751
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="|PT| DESPORTO",|PT| SPORT TV
+http://txm.flysat.live:2089/152072895769187/152094041439631/205750
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="|PT| DESPORTO",|PT| SPORT TV 1
+http://txm.flysat.live:2089/152072895769187/152094041439631/205749
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="|PT| DESPORTO",|PT| SPORT TV 1 HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205748
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="|PT| DESPORTO",|PT| SPORT TV 2
+http://txm.flysat.live:2089/152072895769187/152094041439631/205747
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="|PT| DESPORTO",|PT| SPORT TV 3
+http://txm.flysat.live:2089/152072895769187/152094041439631/205746
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="|PT| DESPORTO",|PT| SPORT TV 3 HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205745
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="|PT| DESPORTO",|PT| SPORT TV 4
+http://txm.flysat.live:2089/152072895769187/152094041439631/205744
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="|PT| DESPORTO",|PT| SPORT TV 5
+http://txm.flysat.live:2089/152072895769187/152094041439631/205743
+#EXTINF:0 tvg-id="ext" group-title="|PT| DESPORTO",|PT| ELEVEN SPORTS 1 HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205742
+#EXTINF:0 tvg-id="ext" group-title="|PT| DESPORTO",|PT| ELEVEN SPORTS 2 HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205741
+#EXTINF:0 tvg-id="ext" group-title="|PT| DESPORTO",|PT| ELEVEN SPORTS 3 HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205740
+#EXTINF:0 tvg-id="ext" group-title="|PT| DESPORTO",|PT| ELEVEN SPORTS 4 HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205739
+#EXTINF:0 tvg-id="ext" group-title="|PT| DESPORTO",|PT| ELEVEN SPORTS 5 HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205738
+#EXTINF:0 tvg-id="ext" group-title="|PT| DESPORTO",|PT| ELEVEN SPORTS 6 HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205737
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="|PT| DESPORTO",|PT| BTV 1 HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205736
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="|PT| DESPORTO",|PT| SPORTING TV
+http://txm.flysat.live:2089/152072895769187/152094041439631/205735
+#EXTINF:0 tvg-id="KombatSport.pt" group-title="|PT| DESPORTO",|PT| KOMBAT SPORT
+http://txm.flysat.live:2089/152072895769187/152094041439631/205734
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="|PT| DESPORTO",|PT| FUEL TV
+http://txm.flysat.live:2089/152072895769187/152094041439631/205733
+#EXTINF:0 tvg-id="Eurosport1.pt" group-title="|PT| DESPORTO",|PT| EUROSPORT 1
+http://txm.flysat.live:2089/152072895769187/152094041439631/205732
+#EXTINF:0 tvg-id="Eurosport1.pt" group-title="|PT| DESPORTO",|PT| EUROSPORT 1 HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205731
+#EXTINF:0 tvg-id="Eurosport2.pt" group-title="|PT| DESPORTO",|PT| EUROSPORT 2
+http://txm.flysat.live:2089/152072895769187/152094041439631/205730
+#EXTINF:0 tvg-id="ABolaTV.pt" group-title="|PT| DESPORTO",|PT| A BOLA TV
+http://txm.flysat.live:2089/152072895769187/152094041439631/205729
+#EXTINF:0 tvg-id="pfc.pt" group-title="|PT| DESPORTO",|PT| PFC
+http://txm.flysat.live:2089/152072895769187/152094041439631/205728
+#EXTINF:0 tvg-id="ext" group-title="|PT| DESPORTO",|PT| NBA TV
+http://txm.flysat.live:2089/152072895769187/152094041439631/205727
+#EXTINF:0 tvg-id="Motorvision.pt" group-title="|PT| DESPORTO",|PT| MOTORVISION
+http://txm.flysat.live:2089/152072895769187/152094041439631/205726
+#EXTINF:0 tvg-id="RealMadridTV.pt" group-title="|PT| DESPORTO",|PT| REAL MADRID TV
+http://txm.flysat.live:2089/152072895769187/152094041439631/205725
+
+#EXTINF:0 tvg-id="ext" group-title="|PT| AFRICA",##### |PT| AFRICA #####
+http://txm.flysat.live:2089/152072895769187/152094041439631/205724
+#EXTINF:0 tvg-id="ext" group-title="|PT| AFRICA",|PT| ZAP VIVA HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205723
+#EXTINF:0 tvg-id="ext" group-title="|PT| AFRICA",|PT| TV ZIMBO
+http://txm.flysat.live:2089/152072895769187/152094041439631/205722
+#EXTINF:0 tvg-id="ext" group-title="|PT| AFRICA",|PT| TPA 1
+http://txm.flysat.live:2089/152072895769187/152094041439631/205721
+#EXTINF:0 tvg-id="ext" group-title="|PT| AFRICA",|PT| TPA International
+http://txm.flysat.live:2089/152072895769187/152094041439631/205720
+#EXTINF:0 tvg-id="ext" group-title="|PT| AFRICA",|PT| TVM1
+http://txm.flysat.live:2089/152072895769187/152094041439631/205719
+#EXTINF:0 tvg-id="ext" group-title="|PT| AFRICA",|PT| TVM2
+http://txm.flysat.live:2089/152072895769187/152094041439631/205718
+#EXTINF:0 tvg-id="ext" group-title="|PT| AFRICA",|PT| TVMANA MAPUTO
+http://txm.flysat.live:2089/152072895769187/152094041439631/205717
+#EXTINF:0 tvg-id="ext" group-title="|PT| AFRICA",|PT| TCV CABO RADIO
+http://txm.flysat.live:2089/152072895769187/152094041439631/205716
+
+#EXTINF:0 tvg-id="ext" group-title="|PT| BRASIL",##### |PT| BRASIL #####
+http://txm.flysat.live:2089/152072895769187/152094041439631/205715
+#EXTINF:0 tvg-id="tvrecord.pt" group-title="|PT| BRASIL",|PT| TV RECORD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205714
+#EXTINF:0 tvg-id="ext" group-title="|PT| BRASIL",|PT| GLOBO HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205713
+#EXTINF:0 tvg-id="GloboPremium.pt" group-title="|PT| BRASIL",|PT| GLOBO PREMIUM
+http://txm.flysat.live:2089/152072895769187/152094041439631/205712
+
+#EXTINF:0 tvg-id="ext" group-title="|PT| RELIGIAO",##### |PT| RELIGIAO #####
+http://txm.flysat.live:2089/152072895769187/152094041439631/205711
+#EXTINF:0 tvg-id="ext" group-title="|PT| RELIGIAO",|PT| KURIAKOS TV
+http://txm.flysat.live:2089/152072895769187/152094041439631/205710
+#EXTINF:0 tvg-id="ext" group-title="|PT| RELIGIAO",|PT| CAPELA DE FATIMA
+http://txm.flysat.live:2089/152072895769187/152094041439631/205709
+#EXTINF:0 tvg-id="ext" group-title="|PT| RELIGIAO",|PT| CANACAO NOVA
+http://txm.flysat.live:2089/152072895769187/152094041439631/205708
+
+#EXTINF:0 tvg-id="ext" group-title="|PT| CINEMA",##### |PT| CINEMA #####
+http://txm.flysat.live:2089/152072895769187/152094041439631/205707
+#EXTINF:0 tvg-id="fox.pt" group-title="|PT| CINEMA",|PT| FOX HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205706
+#EXTINF:0 tvg-id="FOXComedy.pt" group-title="|PT| CINEMA",|PT| FOX COMEDY
+http://txm.flysat.live:2089/152072895769187/152094041439631/205705
+#EXTINF:0 tvg-id="foxcrime.pt" group-title="|PT| CINEMA",|PT| FOX CRIME HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205704
+#EXTINF:0 tvg-id="foxlife.pt" group-title="|PT| CINEMA",|PT| FOX LIFE HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205703
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="|PT| CINEMA",|PT| FOX MOVIES
+http://txm.flysat.live:2089/152072895769187/152094041439631/205702
+#EXTINF:0 tvg-id="FoxNews.pt" group-title="|PT| CINEMA",|PT| FOX NEWS
+http://txm.flysat.live:2089/152072895769187/152094041439631/205701
+#EXTINF:0 tvg-id="ext" group-title="|PT| CINEMA",|PT| TVCINE TOP HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205700
+#EXTINF:0 tvg-id="ext" group-title="|PT| CINEMA",|PT| TVCINE EDITION HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205699
+#EXTINF:0 tvg-id="ext" group-title="|PT| CINEMA",|PT| TVCINE EMOTION HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205698
+#EXTINF:0 tvg-id="ext" group-title="|PT| CINEMA",|PT| TVCINE ACTION HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205697
+#EXTINF:0 tvg-id="ext" group-title="|PT| CINEMA",|PT| TVCINE EDITION
+http://txm.flysat.live:2089/152072895769187/152094041439631/205696
+#EXTINF:0 tvg-id="ext" group-title="|PT| CINEMA",|PT| TVCINE ACTION
+http://txm.flysat.live:2089/152072895769187/152094041439631/205695
+#EXTINF:0 tvg-id="TVSeries.pt" group-title="|PT| CINEMA",|PT| TV SERIES
+http://txm.flysat.live:2089/152072895769187/152094041439631/205694
+#EXTINF:0 tvg-id="TVSeries.pt" group-title="|PT| CINEMA",|PT| TV SERIES HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205693
+#EXTINF:0 tvg-id="axn.pt" group-title="|PT| CINEMA",|PT| AXN HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205692
+#EXTINF:0 tvg-id="AXNWhite.pt" group-title="|PT| CINEMA",|PT| AXN WHITE HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205691
+#EXTINF:0 tvg-id="ext" group-title="|PT| CINEMA",|PT| AXN MOVIES HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205690
+#EXTINF:0 tvg-id="Cinemundo.pt" group-title="|PT| CINEMA",|PT| CINEMUNDO
+http://txm.flysat.live:2089/152072895769187/152094041439631/205689
+#EXTINF:0 tvg-id="ext" group-title="|PT| CINEMA",|PT| NOS STUDIOS HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205688
+#EXTINF:0 tvg-id="hollywood.pt" group-title="|PT| CINEMA",|PT| HOLLYWOOD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205687
+#EXTINF:0 tvg-id="hollywood.pt" group-title="|PT| CINEMA",|PT| HOLLYWOOD HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205686
+#EXTINF:0 tvg-id="ext" group-title="|PT| CINEMA",|PT| NOS STUDIO HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205685
+
+#EXTINF:0 tvg-id="ext" group-title="|PT| INFANTIL",##### |PT| INFANTIL #####
+http://txm.flysat.live:2089/152072895769187/152094041439631/205684
+#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="|PT| INFANTIL",|PT| NICKELODEON
+http://txm.flysat.live:2089/152072895769187/152094041439631/205683
+#EXTINF:0 tvg-id="NickJr.pt" group-title="|PT| INFANTIL",|PT| NICK JR.
+http://txm.flysat.live:2089/152072895769187/152094041439631/205682
+#EXTINF:0 tvg-id="JimJam.pt" group-title="|PT| INFANTIL",|PT| JIM JAM
+http://txm.flysat.live:2089/152072895769187/152094041439631/205681
+#EXTINF:0 tvg-id="DisneyJunior.pt" group-title="|PT| INFANTIL",|PT| DISNEY JUNIOR
+http://txm.flysat.live:2089/152072895769187/152094041439631/205680
+#EXTINF:0 tvg-id="disneychannel.pt" group-title="|PT| INFANTIL",|PT| DISNEY CHANNEL
+http://txm.flysat.live:2089/152072895769187/152094041439631/205679
+#EXTINF:0 tvg-id="BabyTV.pt" group-title="|PT| INFANTIL",|PT| BABY TV
+http://txm.flysat.live:2089/152072895769187/152094041439631/205678
+#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="|PT| INFANTIL",|PT| BIGGS
+http://txm.flysat.live:2089/152072895769187/152094041439631/205677
+#EXTINF:0 tvg-id="canalpanda.pt" group-title="|PT| INFANTIL",|PT| CANAL PANDA
+http://txm.flysat.live:2089/152072895769187/152094041439631/205676
+#EXTINF:0 tvg-id="cartoon.pt" group-title="|PT| INFANTIL",|PT| CARTOON NETWORK
+http://txm.flysat.live:2089/152072895769187/152094041439631/205675
+
+#EXTINF:0 tvg-id="ext" group-title="|PT| MUSICA",##### |PT| MUSICA #####
+http://txm.flysat.live:2089/152072895769187/152094041439631/205674
+#EXTINF:0 tvg-id="mezzo.pt" group-title="|PT| MUSICA",|PT| MEZZO
+http://txm.flysat.live:2089/152072895769187/152094041439631/205673
+#EXTINF:0 tvg-id="vh1.pt" group-title="|PT| MUSICA",|PT| VH1
+http://txm.flysat.live:2089/152072895769187/152094041439631/205672
+#EXTINF:0 tvg-id="ext" group-title="|PT| MUSICA",|PT| VH1 CLASSIC
+http://txm.flysat.live:2089/152072895769187/152094041439631/205671
+#EXTINF:0 tvg-id="MCMPop.pt" group-title="|PT| MUSICA",|PT| MCM POP
+http://txm.flysat.live:2089/152072895769187/152094041439631/205670
+#EXTINF:0 tvg-id="mtvportugal.pt" group-title="|PT| MUSICA",|PT| MTV PORTUGAL
+http://txm.flysat.live:2089/152072895769187/152094041439631/205669
+#EXTINF:0 tvg-id="AfroMusic.pt" group-title="|PT| MUSICA",|PT| AFRO MUSIC
+http://txm.flysat.live:2089/152072895769187/152094041439631/205668
+#EXTINF:0 tvg-id="ext" group-title="|PT| MUSICA",|PT| TRACE TOCA
+http://txm.flysat.live:2089/152072895769187/152094041439631/205667
+#EXTINF:0 tvg-id="TraceTVUrban.pt" group-title="|PT| MUSICA",|PT| TRACE URBAN
+http://txm.flysat.live:2089/152072895769187/152094041439631/205666
+
+#EXTINF:0 tvg-id="ext" group-title="|PT| CULTURA",##### |PT| CULTURA #####
+http://txm.flysat.live:2089/152072895769187/152094041439631/205665
+#EXTINF:0 tvg-id="eentertainment.pt" group-title="|PT| CULTURA",|PT| E! ENTERTAINMENT
+http://txm.flysat.live:2089/152072895769187/152094041439631/205664
+#EXTINF:0 tvg-id="discoverychannel.pt" group-title="|PT| CULTURA",|PT| DISCOVERY CHANNEL
+http://txm.flysat.live:2089/152072895769187/152094041439631/205663
+#EXTINF:0 tvg-id="DiscoveryHDShowcase.pt" group-title="|PT| CULTURA",|PT| DISCOVERY HD SHOWCASE
+http://txm.flysat.live:2089/152072895769187/152094041439631/205662
+#EXTINF:0 tvg-id="ext" group-title="|PT| CULTURA",|PT| NAT GEO GEOGRAPHIC HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205661
+#EXTINF:0 tvg-id="NatGeoWild.pt" group-title="|PT| CULTURA",|PT| NAT GEO WILD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205660
+#EXTINF:0 tvg-id="ext" group-title="|PT| CULTURA",|PT| CRIME INVESTIGATION
+http://txm.flysat.live:2089/152072895769187/152094041439631/205659
+#EXTINF:0 tvg-id="odisseia.pt" group-title="|PT| CULTURA",|PT| ODISSEIA
+http://txm.flysat.live:2089/152072895769187/152094041439631/205658
+#EXTINF:0 tvg-id="HistoryChannel.pt" group-title="|PT| CULTURA",|PT| HISTORIA
+http://txm.flysat.live:2089/152072895769187/152094041439631/205657
+
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",##### |PT| INTRETINIMENTO #####
+http://txm.flysat.live:2089/152072895769187/152094041439631/205656
+#EXTINF:0 tvg-id="CBSReality.pt" group-title="|PT| INTRETINIMENTO",|PT| CBS REALITY
+http://txm.flysat.live:2089/152072895769187/152094041439631/205655
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT| BLOOMBERG
+http://txm.flysat.live:2089/152072895769187/152094041439631/205654
+#EXTINF:0 tvg-id="24Kitchen.pt" group-title="|PT| INTRETINIMENTO",|PT| 24 KITCHEN HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205653
+#EXTINF:0 tvg-id="AMC.pt" group-title="|PT| INTRETINIMENTO",|PT| AMC
+http://txm.flysat.live:2089/152072895769187/152094041439631/205652
+#EXTINF:0 tvg-id="AMC.pt" group-title="|PT| INTRETINIMENTO",|PT| AMC HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205651
+#EXTINF:0 tvg-id="SicCaras.pt" group-title="|PT| INTRETINIMENTO",|PT| SIC CARAS
+http://txm.flysat.live:2089/152072895769187/152094041439631/205650
+#EXTINF:0 tvg-id="SicK.pt" group-title="|PT| INTRETINIMENTO",|PT| SIC K
+http://txm.flysat.live:2089/152072895769187/152094041439631/205649
+#EXTINF:0 tvg-id="sicmulher.pt" group-title="|PT| INTRETINIMENTO",|PT| SIC MULHER
+http://txm.flysat.live:2089/152072895769187/152094041439631/205648
+#EXTINF:0 tvg-id="TravelChannel.pt" group-title="|PT| INTRETINIMENTO",|PT| TRAVEL CHANNEL HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205647
+#EXTINF:0 tvg-id="TLC.pt" group-title="|PT| INTRETINIMENTO",|PT| TLC
+http://txm.flysat.live:2089/152072895769187/152094041439631/205646
+#EXTINF:0 tvg-id="SyFy.pt" group-title="|PT| INTRETINIMENTO",|PT| SYFY
+http://txm.flysat.live:2089/152072895769187/152094041439631/205645
+#EXTINF:0 tvg-id="TVGalicia.pt" group-title="|PT| INTRETINIMENTO",|PT| TV GALICIA
+http://txm.flysat.live:2089/152072895769187/152094041439631/205644
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT| CNN
+http://txm.flysat.live:2089/152072895769187/152094041439631/205643
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT| SKY NEWS
+http://txm.flysat.live:2089/152072895769187/152094041439631/205642
+#EXTINF:0 tvg-id="sicradical.pt" group-title="|PT| INTRETINIMENTO",|PT| SIC RADICAL
+http://txm.flysat.live:2089/152072895769187/152094041439631/205641
+#EXTINF:0 tvg-id="TVE24h.pt" group-title="|PT| INTRETINIMENTO",|PT| TVE 24H
+http://txm.flysat.live:2089/152072895769187/152094041439631/205640
+#EXTINF:0 tvg-id="CanalQ.pt" group-title="|PT| INTRETINIMENTO",|PT| CANAL Q
+http://txm.flysat.live:2089/152072895769187/152094041439631/205639
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT| CNBC
+http://txm.flysat.live:2089/152072895769187/152094041439631/205638
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT| EURONEWS
+http://txm.flysat.live:2089/152072895769187/152094041439631/205637
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT| TV5 MONDE
+http://txm.flysat.live:2089/152072895769187/152094041439631/205636
+#EXTINF:0 tvg-id="TorosTV.pt" group-title="|PT| INTRETINIMENTO",|PT| TOROS TV
+http://txm.flysat.live:2089/152072895769187/152094041439631/205635
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT| BBC WORLD NEWS
+http://txm.flysat.live:2089/152072895769187/152094041439631/205634
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT| FTV
+http://txm.flysat.live:2089/152072895769187/152094041439631/205633
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT| TV RECORD NEWS HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205632
+#EXTINF:0 tvg-id="TVGlobo.pt" group-title="|PT| INTRETINIMENTO",|PT| TV GLOBO
+http://txm.flysat.live:2089/152072895769187/152094041439631/205631
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT| BOOMERANG HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205630
+#EXTINF:0 tvg-id="sic.pt" group-title="|PT| INTRETINIMENTO",|PT| SIC
+http://txm.flysat.live:2089/152072895769187/152094041439631/205629
+#EXTINF:0 tvg-id="TVI.pt" group-title="|PT| INTRETINIMENTO",|PT| TVI
+http://txm.flysat.live:2089/152072895769187/152094041439631/205628
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT| TVI MOSAICO
+http://txm.flysat.live:2089/152072895769187/152094041439631/205627
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT| TV RECORD NEWS
+http://txm.flysat.live:2089/152072895769187/152094041439631/205626
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT| BOOMERANG
+http://txm.flysat.live:2089/152072895769187/152094041439631/205625
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT| TVI REALITY HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205624
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT| TV GLOBO NOW
+http://txm.flysat.live:2089/152072895769187/152094041439631/205623
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| RTP 1 HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205622
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| RTP 2 HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205621
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| RTP 3 HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205620
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| SIC HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205619
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| TVI HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205618
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| TVI 24 HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205617
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| SIC NOTICIAS HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205616
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| CMTV HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205615
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| PORTO CANAL HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205614
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| CANAL 11 HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205613
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| SPORT TV + HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205612
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| SPORT TV 1 HD NOS
+http://txm.flysat.live:2089/152072895769187/152094041439631/205611
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| SPORT TV 1 HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205610
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| SPORT TV 2 HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205609
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| SPORT TV 3 HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205608
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| ELEVEN SPORTS 1 HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205607
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| ELEVEN SPORTS 2 HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205606
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| ELEVEN SPORTS  3 HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205605
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| ELEVEN SPORTS 4 HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205604
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| ELEVEN SPORTS 5 HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205603
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| ELEVEN SPORTS 6 HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205602
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| BTV 1 HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205601
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| SPORTING TV HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205600
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| SPORT TV NBA HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205599
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| EUROSPORT 1 HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205598
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| A BOLA TV HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205597
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| FIGHT NETWORK HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205596
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| GLOBO PORTUGAL HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205595
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| FOX HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205594
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| FOX CRIME HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205593
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| FOX LIFE HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205592
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| FOX MOVIES HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205591
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| TV CINE TOP HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205590
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| TV CINE EDITION HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205589
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| TV CINE EMOTION HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205588
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| TV CINE ACTION HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205587
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| AXN HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205586
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| AXN WHITE HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205585
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| AXN MOVIES HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205584
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| CINEMUNDO HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205583
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| HOLLYWOOD HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205582
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| NOS STUDIO HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205581
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| ID INVESTIGATION DISCOVERY HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205580
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| E! ENTERTAINMENT HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205579
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| NATIONAL GEOGRAPHIC HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205578
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| NAT GEO WILD HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205577
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| ODISSEIA HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205576
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| HISTORIA HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205575
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| FINE LIVING NETWORK HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205574
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| CASA E COZINHA HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205573
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| BLAZE TV HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205572
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| 24 KITCHEN HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205571
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| AMC HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205570
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| SIC CARAS HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205569
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| SIC MULHER HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205568
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| TRAVEL CHANNEL HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205567
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| SYFY HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205566
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| SIC RADICAL HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205565
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| TVI FICCAO HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205564
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| DOG TV HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205563
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| ZAP VIVA HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205562
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| SPORT TV 4 HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205561
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| SPORT TV 5 HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205560
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| CACA E PESCA HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205559
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| TV RECORD HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205558
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| GLOBO INTERNACIONAL
+http://txm.flysat.live:2089/152072895769187/152094041439631/205557
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| TV GLOBO NOW HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205556
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| SAUDE HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205555
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| TV GLOBO HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205554
+#EXTINF:0 tvg-id="ext" group-title="|PT| INTRETINIMENTO",|PT|4K| TVI MOSAICO HD
+http://txm.flysat.live:2089/152072895769187/152094041439631/205553
+
+
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=orange][B]/////////  LISTA PT ADICIONADA 30/08/22  /////////[/B][/COLOR][COLOR=orange][/COLOR]
 
@@ -172,238 +628,3 @@ http://xcui.vitvabc.xyz:8880/287994016273/287994016273/16758
 http://xcui.vitvabc.xyz:8880/287994016273/287994016273/16757
 #EXTINF:0 tvg-id="ESPN3.mx" group-title="Channels",ESPN 3
 http://xcui.vitvabc.xyz:8880/287994016273/287994016273/31142
-
-
-####################################################################################################################################
-#EXTINF:-1,[COLOR=orange][B]/////////  LISTA BR ADICIONADA 28/08/22  /////////[/B][/COLOR][COLOR=orange][/COLOR]
-
-
-#EXTINF:-1,A&E
-http://179.66.230.120:4000/play/a05p
-#EXTINF:-1,AMC
-http://179.66.230.120:4000/play/a046
-#EXTINF:-1,ANIMAL PLANET
-http://179.66.230.120:4000/play/a06l
-#EXTINF:-1,Animal planet
-http://179.66.230.120:4000/play/a06o
-#EXTINF:-1,Arte 1
-http://179.66.230.120:4000/play/a056
-#EXTINF:-1,BAND HD
-http://179.66.230.120:4000/play/a06f
-#EXTINF:-1,BAND SPORT
-http://179.66.230.120:4000/play/a071
-#EXTINF:-1,BIS
-http://179.66.230.120:4000/play/a04f
-#EXTINF:-1,Baby TV
-http://179.66.230.120:4000/play/a040
-#EXTINF:-1,Band News
-http://179.66.230.120:4000/play/a04y
-#EXTINF:-1,Band Sports
-http://179.66.230.120:4000/play/a04q
-#EXTINF:-1,Boa Vontade TV
-http://179.66.230.120:4000/play/a059
-#EXTINF:-1,Boa Vontade TV
-http://179.66.230.120:4000/play/a051
-#EXTINF:-1,CGTN
-http://179.66.230.120:4000/play/a04d
-#EXTINF:-1,CINECANAL
-http://179.66.230.120:4000/play/a048
-#EXTINF:-1,CNT
-http://179.66.230.120:4000/play/a044
-#EXTINF:-1,Canal Brasil
-http://179.66.230.120:4000/play/a03y
-#EXTINF:-1,Canal ComunitÆrio
-http://179.66.230.120:4000/play/a04n
-#EXTINF:-1,Canal EducaĿªo - MEC
-http://179.66.230.120:4000/play/a05z
-#EXTINF:-1,Canal Rural
-http://179.66.230.120:4000/play/a05r
-#EXTINF:-1,Canal Sony
-http://179.66.230.120:4000/play/a04s
-#EXTINF:-1,Canal do Boi
-http://179.66.230.120:4000/play/a04o
-#EXTINF:-1,CanĿªo Nova
-http://179.66.230.120:4000/play/a060
-#EXTINF:-1,Curta!
-http://179.66.230.120:4000/play/a05g
-#EXTINF:-1,DISC SCIENCE
-http://179.66.230.120:4000/play/a06q
-#EXTINF:-1,DISC THEATER
-http://179.66.230.120:4000/play/a06r
-#EXTINF:-1,DISC WORD
-http://179.66.230.120:4000/play/a06s
-#EXTINF:-1,Disney
-http://179.66.230.120:4000/play/a05s
-#EXTINF:-1,E!
-http://179.66.230.120:4000/play/a05b
-#EXTINF:-1,ESPN
-http://179.66.230.120:4000/play/a06u
-#EXTINF:-1,ESPN 2
-http://179.66.230.120:4000/play/a06v
-#EXTINF:-1,ESPN 3
-http://179.66.230.120:4000/play/a06y
-#EXTINF:-1,ESPN 4
-http://179.66.230.120:4000/play/a06z
-#EXTINF:-1,ESPN EXTRA
-http://179.66.230.120:4000/play/a072
-#EXTINF:-1,FX
-http://179.66.230.120:4000/play/a04r
-#EXTINF:-1,Film & Arts
-http://179.66.230.120:4000/play/a04g
-#EXTINF:-1,Fish TV
-http://179.66.230.120:4000/play/a05n
-#EXTINF:-1,Food Network
-http://179.66.230.120:4000/play/a03u
-#EXTINF:-1,Fox Sports 2
-http://179.66.230.120:4000/play/a050
-#EXTINF:-1,Futura
-http://179.66.230.120:4000/play/a06a
-#EXTINF:-1,GLOBO HD
-http://179.66.230.120:4000/play/a06c
-#EXTINF:-1,Gloob
-http://179.66.230.120:4000/play/a041
-#EXTINF:-1,Gloobinho
-http://179.66.230.120:4000/play/a064
-#EXTINF:-1,HBO
-http://179.66.230.120:4000/play/a074
-#EXTINF:-1,HBO Family
-http://179.66.230.120:4000/play/a05o
-#EXTINF:-1,HBO MUNDI
-http://179.66.230.120:4000/play/a05c
-#EXTINF:-1,HBO POP
-http://179.66.230.120:4000/play/a04a
-#EXTINF:-1,HBO Signature
-http://179.66.230.120:4000/play/a053
-#EXTINF:-1,HBO XTREME
-http://179.66.230.120:4000/play/a062
-#EXTINF:-1,HBO+
-http://179.66.230.120:4000/play/a049
-#EXTINF:-1,HBO2
-http://179.66.230.120:4000/play/a076
-#EXTINF:-1,HISTORY 2
-http://179.66.230.120:4000/play/a06n
-#EXTINF:-1,ID - InvestigaĿªo Discovery
-http://179.66.230.120:4000/play/a04w
-#EXTINF:-1,IDEAL TV
-http://179.66.230.120:4000/play/a04k
-#EXTINF:-1,Lifetime
-http://179.66.230.120:4000/play/a04b
-#EXTINF:-1,Modo Viagem
-http://179.66.230.120:4000/play/a04e
-#EXTINF:-1,Music Box Brazil
-http://179.66.230.120:4000/play/a04l
-#EXTINF:-1,National Geographic
-http://179.66.230.120:4000/play/a04v
-#EXTINF:-1,Nick Jr
-http://179.66.230.120:4000/play/a05t
-#EXTINF:-1,Nickelodeon
-http://179.66.230.120:4000/play/a04u
-#EXTINF:-1,OFF
-http://179.66.230.120:4000/play/a03w
-#EXTINF:-1,PREMIERE CLUB
-http://179.66.230.120:4000/play/a06m
-#EXTINF:-1,Pai Eterno
-http://179.66.230.120:4000/play/a04c
-#EXTINF:-1,Paramount Network
-http://179.66.230.120:4000/play/a03v
-#EXTINF:-1,Polishop TV
-http://179.66.230.120:4000/play/a05y
-#EXTINF:-1,Prime Box Brazil
-http://179.66.230.120:4000/play/a052
-#EXTINF:-1,RAI
-http://179.66.230.120:4000/play/a068
-#EXTINF:-1,RBI
-http://179.66.230.120:4000/play/a05x
-#EXTINF:-1,RECORD HD
-http://179.66.230.120:4000/play/a06d
-#EXTINF:-1,REDETV HD
-http://179.66.230.120:4000/play/a06g
-#EXTINF:-1,RIT
-http://179.66.230.120:4000/play/a05w
-#EXTINF:-1,Record News
-http://179.66.230.120:4000/play/a043
-#EXTINF:-1,Rede Brasil
-http://179.66.230.120:4000/play/a055
-#EXTINF:-1,Rede TV
-http://179.66.230.120:4000/play/a067
-#EXTINF:-1,Rede Vida
-http://179.66.230.120:4000/play/a054
-#EXTINF:-1,SBT HD
-http://179.66.230.120:4000/play/a06e
-#EXTINF:-1,SPACE
-http://179.66.230.120:4000/play/a06x
-#EXTINF:-1,SPORTV
-http://179.66.230.120:4000/play/a06t
-#EXTINF:-1,SPORTV 2
-http://179.66.230.120:4000/play/a06k
-#EXTINF:-1,SPORTV TRANSC
-http://179.66.230.120:4000/play/a02i
-#EXTINF:-1,STAR CHANNEL
-http://179.66.230.120:4000/play/a04j
-#EXTINF:-1,SYFY
-http://179.66.230.120:4000/play/a070
-#EXTINF:-1,SporTV 3
-http://179.66.230.120:4000/play/a06j
-#EXTINF:-1,Studio Universal
-http://179.66.230.120:4000/play/a05e
-#EXTINF:-1,Syfy
-http://179.66.230.120:4000/play/a063
-#EXTINF:-1,TBS
-http://179.66.230.120:4000/play/a05q
-#EXTINF:-1,TCM
-http://179.66.230.120:4000/play/a05d
-#EXTINF:-1,TLC
-http://179.66.230.120:4000/play/a04x
-#EXTINF:-1,TNT
-http://179.66.230.120:4000/play/a079
-#EXTINF:-1,TNT Alternativo
-http://179.66.230.120:4000/play/a078
-#EXTINF:-1,TNT SØries
-http://179.66.230.120:4000/play/a05f
-#EXTINF:-1,TV Aparecida
-http://179.66.230.120:4000/play/a066
-#EXTINF:-1,TV Brasil
-http://179.66.230.120:4000/play/a05k
-#EXTINF:-1,TV Brasil 2
-http://179.66.230.120:4000/play/a05l
-#EXTINF:-1,TV Cultura
-http://179.66.230.120:4000/play/a058
-#EXTINF:-1,TV CÐmara
-http://179.66.230.120:4000/play/a05j
-#EXTINF:-1,TV JustiĿa
-http://179.66.230.120:4000/play/a05h
-#EXTINF:-1,TV Novo Tempo
-http://179.66.230.120:4000/play/a069
-#EXTINF:-1,TV RÆ tim bum
-http://179.66.230.120:4000/play/a05u
-#EXTINF:-1,TV Senado
-http://179.66.230.120:4000/play/a05i
-#EXTINF:-1,Telecine Action
-http://179.66.230.120:4000/play/a075
-#EXTINF:-1,Telecine Fun
-http://179.66.230.120:4000/play/a04h
-#EXTINF:-1,Telecine Pipoca
-http://179.66.230.120:4000/play/a077
-#EXTINF:-1,Telecine Premium
-http://179.66.230.120:4000/play/a073
-#EXTINF:-1,Telecine Touch
-http://179.66.230.120:4000/play/a03x
-#EXTINF:-1,Terra Viva
-http://179.66.230.120:4000/play/a05v
-#EXTINF:-1,The History Channel
-http://179.66.230.120:4000/play/a065
-#EXTINF:-1,Tooncast
-http://179.66.230.120:4000/play/a042
-#EXTINF:-1,TruTV
-http://179.66.230.120:4000/play/a03z
-#EXTINF:-1,Universal TV
-http://179.66.230.120:4000/play/a07a
-#EXTINF:-1,WOOHOO
-http://179.66.230.120:4000/play/a06h
-#EXTINF:-1,Woohoo
-http://179.66.230.120:4000/play/a04t
-#EXTINF:-1,ZooMoo
-http://179.66.230.120:4000/play/a045
-
-
-
