@@ -6,30 +6,7 @@ http://0.0.0.0:000000
 FONTE DE INFORMAÇÃO: http://fmstream.org/index.php?c=G&o=top
  
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 19/08/2022[/B][/COLOR][COLOR=orange][/COLOR]
-
-#######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  A STATE OF TRANCE RÁDIO  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://000000
-
- 
-#EXTM3U
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RADIO ASOT LIVE[/B][/COLOR][COLOR=white][/COLOR]
-http://88.204.56.231:8000/asotlive
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RADIO ASOT ATB[/B][/COLOR][COLOR=white][/COLOR]
-http://88.204.56.231:8000/atb
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RADIO ASOT DEEP[/B][/COLOR][COLOR=white][/COLOR]
-http://88.204.56.231:8000/asotdeep
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RADIO ASOT NONSTOP[/B][/COLOR][COLOR=white][/COLOR]
-http://88.204.56.231:8000/asotnonstop
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RADIO ASOT OLD[/B][/COLOR][COLOR=white][/COLOR]
-http://88.204.56.231:8000/asot-old
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RADIO ASOT RELAX[/B][/COLOR][COLOR=white][/COLOR]
-http://88.204.56.231:8000/asotrelax
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RADIO ASOT TIESTO[/B][/COLOR][COLOR=white][/COLOR]
-http://88.204.56.231:8000/tiesto
-
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 02/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  TOP HITS & DANCE MUSIC  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -129,14 +106,10 @@ https://000000
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR=white][B]RÁDIO GLOBO FM[/B][/COLOR][COLOR=white][/COLOR]
-http://r6.ciclano.io:10009/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO GLOBO FM RJ[/B][/COLOR][COLOR=white][/COLOR]
 https://medias.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
 #EXTINF:-1,[COLOR=white][B]RÁDIO CBN[/B][/COLOR][COLOR=white][/COLOR]
 http://stm10.conectastm.com:8276/;
-#EXTINF:-1,[COLOR=white][B]JOVEM PAN FM[/B][/COLOR][COLOR=white][/COLOR]
-http://jovempanitajai.dyndns.org:8000/;
 #EXTINF:-1,[COLOR=white][B]JOVEM PAN NEWS[/B][/COLOR][COLOR=white][/COLOR]
 http://svrstream2.svreua.com:8350/stream 
 #EXTINF:-1,[COLOR=white][B]RÁDIO COCA-COLA[/B][/COLOR][COLOR=white][/COLOR]
@@ -155,6 +128,8 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 https://22823.live.streamtheworld.com/RT_SP.mp3
 #EXTINF:-1,[COLOR=white][B]RÁDIO MIX SP[/B][/COLOR][COLOR=white][/COLOR]
 https://18733.live.streamtheworld.com/MIXFM_SAOPAULO.mp3
+#EXTINF:-1,[COLOR=white][B]JOVEM PAN FM[/B][/COLOR][COLOR=white][/COLOR]
+http://r13.ciclano.io:8573/live
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  RÁDIOS DE ÁFRICA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -162,21 +137,12 @@ https://000000
 
 #EXTM3U
 
-
-#EXTINF:-1,[COLOR=white][B]RADIO ROMANTICA FM[/B][/COLOR][COLOR=white][/COLOR]
-http://radios.vpn.sapo.pt/AO/radio4.mp3
-#EXTINF:-1,[COLOR=white][B]RCV - RÁDIO CABO VERDE[/B][/COLOR][COLOR=white][/COLOR]
-http://radios.vpn.sapo.pt/CV/radio7.mp3
-#EXTINF:-1,[COLOR=white][B]RÁDIO PRAIA FM[/B][/COLOR][COLOR=white][/COLOR]
-http://radios.vpn.sapo.pt/CV/radio4.mp3
 #EXTINF:-1,[COLOR=white][B]RÁDIO ROMÂNTICA[/B][/COLOR][COLOR=white][/COLOR]
 http://radios.vpn.sapo.pt/AO/radio4.mp3 
 #EXTINF:-1,[COLOR=white][B]RÁDIO MIRAMAR[/B][/COLOR][COLOR=white][/COLOR]
 https://nl.digitalrm.pt:8066/stream
 #EXTINF:-1,[COLOR=white][B]SUPER FM[/B][/COLOR][COLOR=white][/COLOR]
 http://41.223.153.14:8000/;
-#EXTINF:-1,[COLOR=white][B]RNA CANAL A[/B][/COLOR][COLOR=white][/COLOR]
-http://radios.vpn.sapo.pt/AO/radio3.mp3
 #EXTINF:-1,[COLOR=white][B]PRAIA FM[/B][/COLOR][COLOR=white][/COLOR]
 http://radios.vpn.sapo.pt/CV/radio4.mp3 
 #EXTINF:-1,[COLOR=white][B]RÁDIO MACUTO[/B][/COLOR][COLOR=white][/COLOR]
@@ -390,10 +356,7 @@ http://icecast.radiofrance.fr/franceinfo-hifi.aac
 #EXTINF:-1,[COLOR=white][B]EURORADIO FM[/B][/COLOR][COLOR=white][/COLOR]
 http://stream.euroradio.fm:8000/euroradio1
 
-
-
 #EXTM3U
-
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  LISTA RÁDIOS MUNDIAIS 2  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -401,10 +364,8 @@ https://000000
 
 FONTE DE INFORMAÇÃO: https://vk.com/clubslynet
 
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 19/08/2022. 3 OFFLINE[/B][/COLOR][COLOR=orange][/COLOR]
-
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 02/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
 #EXTM3U
-
 
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",1.FM - A List 80s
 http://prmstrm.1.fm:8000/back280s
@@ -842,24 +803,8 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16.mp3
 http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR13.mp3
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio 7 (LV)
 http://stream.radio7.lv:8024/Radio7
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio 7 (Эстония)
-http://raadio7.babahhcdn.com/raadio7
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio AH FM (Канада)
 http://fr3.ah.fm:9000/stream
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio ASOT ATB
-http://88.204.56.231:8000/atb
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio ASOT DEEP
-http://88.204.56.231:8000/asotdeep
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio ASOT LIVE
-http://88.204.56.231:8000/asotlive
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio ASOT NONSTOP
-http://88.204.56.231:8000/asotnonstop
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio ASOT OLD
-http://88.204.56.231:8000/asot-old
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio ASOT RELAX
-http://88.204.56.231:8000/asotrelax
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio ASOT TIESTO
-http://88.204.56.231:8000/tiesto
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Alex Berlin
 http://alex-radio.rosebud-media.de:8000/alex-radio
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Antena 2 Jazzin
@@ -1020,8 +965,6 @@ http://router.euddn.net/8103046e16b71d15d692b57c187875c7/elmar.mp3
 https://eu.stream4cast.com/proxy/energyfm/stream
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Enter FM (Zagreb)
 http://live.enterzagreb.hr:8025/stream
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Europa FM (ROM)
-http://astreaming.edi.ro:8000/europafm_mp3_64k
 #EXTINF:0 tvg-id="avi" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio European Hit
 http://82.135.234.195:8000/ehr.mp3
 #EXTINF:0 tvg-id="avi" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Expres (SK)
@@ -1460,8 +1403,6 @@ http://rmfstream1.interia.pl:8000/rmf_2000
 http://rmfstream1.interia.pl:8000/rmf_80s
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio RMF 90s
 http://rmfstream1.interia.pl:8000/rmf_90s
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio RMF Chopin
-http://rmfstream1.interia.pl:8000/rmf_chopin
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio RMF Dance
 http://rmfstream1.interia.pl:8000/rmf_dance
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio RMF Love
@@ -1500,8 +1441,6 @@ http://95.183.46.2:8000/recordsergi
 http://listen.vdfm.ru:8000/record
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Record (Вышний Волочек)
 http://cp.time4radio.ru:8003/stream
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Record (Димитровград)
-http://efir.mediasv.ru:8000/record
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Record (Екатеринбург)
 http://online-2.gkvr.ru:8000/record_eka_64.aac
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Record (Казань)
@@ -1930,8 +1869,6 @@ https://live.radiospinner.com/after-party-deep-64
 https://live.radiospinner.com/ambient-64
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Spinner - Ambient Space
 https://live.radiospinner.com/ambntspc-64
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Spinner - Atmospheric Breaks
-https://live.radiospinner.com/tmsphrcbrks-64
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Spinner - Baby Sleep White Noise
 https://live.radiospinner.com/bbyslpwhtns-64
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Spinner - Bachata Hit
@@ -2250,8 +2187,6 @@ https://live-bauerdk.sharp-stream.com/DK_HQ_RP15.aac
 http://top80.pl:8000/listen.mp3
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Tre (Эстония)
 http://cdn.treraadio.ee/pohja-tre
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio UMF
-http://88.204.56.231:8000/ultra
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Utenos
 http://gyvai.utenosradijas.lt:8010/stream
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Radio Uzbegim Taronasi (UZ)
@@ -2358,10 +2293,6 @@ http://server1.tnt.ba:8004/stream
 http://server1.tnt.ba:9000/stream
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",TNT Radio Tuzla
 http://server1.tnt.ba:9060/stream
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",The Mix Radio (UK)
-http://fr1.nexuscast.com:9024/stream
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",VIRGIN Radio (ROM)
-http://astreaming.edi.ro:8000/virgin_mp3_64k
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",VIRGIN Radio (UK)
 https://radio.virginradio.co.uk/stream
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Venice Classic Radio Auditorium
