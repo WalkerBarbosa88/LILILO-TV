@@ -97,12 +97,6 @@ http://rtmp.one.by:1300
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]FIRST MUSIC CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
 http://hz1.teleport.cc/HLS/SD.m3u8
 
-#EXTINF:-1,[COLOR=white][B]1HD RU TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://live-1.otcnet.ru/onehdweb/index.m3u8
-
-#EXTINF:-1,[COLOR=white][B]1HD HU TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://1music.hu/1music.m3u8
-
 #EXTINF:-1,[COLOR=white][B]DEEJAY HD[/B][/COLOR][COLOR=white][/COLOR]
 https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b2816000.m3u8
 
