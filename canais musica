@@ -67,6 +67,9 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=bridgehitstv
 #EXTINF:-1,[COLOR=white][B]KRONEHITS FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]1HD MUSIC TV[/B][/COLOR][COLOR=white][/COLOR]
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=1hdmusic
+
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]POWERHD[/B][/COLOR][COLOR=white][/COLOR]
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 
