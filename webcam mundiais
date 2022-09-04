@@ -348,6 +348,10 @@ plugin://plugin.video.youtube/play/?video_id=5t1g8ufsho8
 #EXTINF:-1,[COLOR=yellow][B]/////////  BRASIL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
+
+#EXTINF:-1,[COLOR=white][B]BR - PRAIA COPACABANA, WEBCAM 1[/B][/COLOR][COLOR=white][/COLOR]
+https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/6593/2017/10/01/1300.mp4/HasBahCa.m3u8
+
 #EXTINF:-1,[COLOR=white][B]BR - GOIANIA (VIADUTO AV.T-63)[/B][/COLOR][COLOR=white][/COLOR]
 https://hunq9fz8yk.zoeweb.tv/av85/av85.stream/chunklist_w1519308125.m3u8
 
@@ -382,6 +386,10 @@ https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/c
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANADA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
+
+
+#EXTINF:-1,[COLOR=white][B]TORONTO - CATARATAS DO NIAGARA[/B][/COLOR][COLOR=white][/COLOR]
+https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/4559/2019/08/11/1300.mp4/chunklist_w1595912559.m3u8
 
 # https://www.youtube.com/watch?v=5XSLRSJHVXU
 #EXTINF:-1,[COLOR=white][B]CA - SPRING CREEK CANMORE[/B][/COLOR][COLOR=white][/COLOR]
