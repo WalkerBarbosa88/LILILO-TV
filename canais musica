@@ -154,6 +154,9 @@ http://muzzone-stream.daitsuna.net/muzzondvr/muzzone_dvr/chunks_dvr.m3u8
 #EXTINF:-1,[COLOR=white][B]CADENA ELITE ES TV[/B][/COLOR][COLOR=white][/COLOR]
 http://cloudvideo.servers10.com:8080/8004/index.m3u8
 
+#EXTINF:-1,[COLOR=white][B]MAGIC TV[/B][/COLOR][COLOR=white][/COLOR]
+http://tv.bitvision.ro/stream/channelid/44445956?profile=pass
+
 ##########################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA ELECTRÓNICA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
