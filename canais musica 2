@@ -7,7 +7,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 31/08/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 06/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 
 FONTE DE INFORMAÇÃO: https://global-satinfo.in/viewtopic.php?f=22&t=2885&start=30
@@ -77,6 +77,7 @@ https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS MUSICA ANTIGA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RETRO MUSIC TV[/B][/COLOR][COLOR=white][/COLOR]
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RETRO PLUS TV[/B][/COLOR][COLOR=white][/COLOR]
@@ -97,10 +98,6 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1167.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MEMÓRIAS TV[/B][/COLOR][COLOR=white][/COLOR]
 https://cloud10.vsgtech.co:3262/live/memoriastv2live.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]REWIND RADIO & TV[/B][/COLOR][COLOR=white][/COLOR]
-https://scl.edge.grupoz.cl/rewindtv/ngrp:live_allhd/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Музыка\",[COLOR=white][B]RETRO DANCE 90'S[/B][/COLOR][COLOR=white][/COLOR]
-http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1161.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RECUERDOS RETRO RADIO TV[/B][/COLOR][COLOR=white][/COLOR]
 https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
 
@@ -158,10 +155,6 @@ https://stream.ecable.tv/afrobeats/index.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SEXY KPOP TV[/B][/COLOR][COLOR=white][/COLOR]
 http://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]1MUSIC CHANNEL HUNGARY[/B][/COLOR][COLOR=white][/COLOR]
-http://1music.hu/1music.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HIT MUSIC CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
-http://hitmusic.hu/hitmusic.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CMT MUSIC[/B][/COLOR][COLOR=white][/COLOR]
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PLAY TV[/B][/COLOR][COLOR=white][/COLOR]
@@ -288,8 +281,6 @@ https://59537faa0729a.streamlock.net/beatsradio/beatsradio/playlist.m3u8
 https://livestreamdirect-breezetv.mediaworks.nz/breezetv.m3u8
 #EXTINF:0 tvg-id="DhamaalTV.in" group-title="Music",DHAMAAL
 https://live.hungama.com/linear/dhamaal/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",EL SOL NETWORK TV
-https://rctvhd.net:8081/elsol105fm/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",EVA STREAM
 https://mediacpstreamchile.com:1936/evavision/evavision/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",EVAVISION PACHANGA
@@ -338,18 +329,14 @@ http://103.199.160.85/Content/kalaignarmurasu/Live/Channel(KalaignarMurasu)/inde
 https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8?publisher=83
 #EXTINF:0 tvg-id="ext" group-title="Music",KPOP TV PLAY
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Music",LATIDO MUSIC
 https://latidomusic.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",LATINOS RÁDIO
 https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8
 #EXTINF:0 tvg-id="m-2" group-title="Music",M2
 http://live.m2.tv/hls3/stream.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Music",MARAH FM
 http://vstream3.hadara.ps:8081/marahFM_web/web/playlist.m3u8
-#EXTINF:0 tvg-id="Mastiii.in" group-title="Music",MASTIII
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",MBC FM
 https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",MCN6 MUSIC CHANNEL
@@ -462,7 +449,6 @@ https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",REAL TV
 http://cloud.logicwebs.in:1935/realtv/realtv1/playlist.m3u8
-
 #EXTINF:0 tvg-id="RockTV.it" group-title="Music",ROCK TV
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",ROTANA KHALIJIA
@@ -481,7 +467,6 @@ https://skyfolk.mk/live.m3u8
 https://stream-6.mazana.tv/slagr.m3u
 #EXTINF:0 tvg-id="ext" group-title="Music",SLUHAY TV
 https://sluhay.by/live/Ch045pub/index.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Music",SOLOBAILALO
 https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",STEELBIRD MUSIC 
@@ -538,34 +523,26 @@ http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
 https://musigal-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",TVS MUSIC NETWORK 
 https://rpn1.bozztv.com/36bay2/gusa-tvsmusic/index.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Music",VALLENATO INTER. 
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Music",VIDEO TOUR CHANNEL
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",VISION TV MUSICA
-https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",WANASAH TV 
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Музыка\",RTV ALTEA HD
 http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1139.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыка\",MUSIC PLUS
 http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1140.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыка\",MIXM TV
 http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1141.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Музыка\",FACTORIA TV HD
 http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1148.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыка\",MUSICA DEL RECUERDO
 http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1149.m3u8
 #EXTINF:0 tvg-id="TraceUrban.ru" group-title="Музыка\",TRACE URBAN HD
 http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1156.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Музыка\",MUSIC TOP
 http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1162.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Музыка\",XITE NL HD
 http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1169.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыка\",OCKO STAR
@@ -590,7 +567,6 @@ http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1185.m3u8
 http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1186.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыка\",V2 BEAT HD
 http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1230.m3u8
-
 #EXTINF:0 tvg-id="m-2" group-title="Музыка\",М2 HD
 http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1247.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыка\",PORTAL FOXMIX TV
