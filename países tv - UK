@@ -214,11 +214,11 @@ http://37.235.38.139:4000/play/a048
 http://37.235.38.139:4000/play/a044
 #EXTINF:0 tvg-id="Automoto.fr" group-title="Channels",AUTOMOTO LA CHAINE
 http://37.235.38.139:4000/play/a042
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 1L
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 1
 http://37.235.38.139:4000/play/a054
 #EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",BEIN SPORTS 2
 http://37.235.38.139:4000/play/a0cc
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 3 RED
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 3 
 http://37.235.38.139:4000/play/a056
 #EXTINF:0 tvg-id="BeInSportMax10.fr" group-title="Channels",BEIN SPORTS MAX 10
 http://37.235.38.139:4000/play/a093
@@ -348,7 +348,7 @@ http://37.235.38.139:4000/play/a02l
 http://37.235.38.139:4000/play/a0a5
 
 
-#EXTINF:-1,13eme RUE HD
+#EXTINF:-1,13 EME RUE HD
 http://193.252.43.21:10200/play/a0bo
 #EXTINF:-1,ALTICE STUDIO
 http://193.252.43.21:10200/play/a06c
@@ -390,9 +390,9 @@ http://193.252.43.21:10200/play/a06l
 http://193.252.43.21:10200/play/a06q
 #EXTINF:-1,DISNEY JUNIOR
 http://193.252.43.21:10200/play/a0b9
-#EXTINF:-1,E! France HD - Main
+#EXTINF:-1,EI FRANCE HD
 http://193.252.43.21:10200/play/a06r
-#EXTINF:-1,GameOne HD
+#EXTINF:-1,GAME ONE HD
 http://193.252.43.21:10200/play/a0ci
 #EXTINF:-1,LA CHAINE METEO BOUYTEL
 http://193.252.43.21:10200/play/a0c3
@@ -420,9 +420,9 @@ http://193.252.43.21:10200/play/a0at
 http://193.252.43.21:10200/play/a08l
 #EXTINF:-1,RMC SPORT 2
 http://193.252.43.21:10200/play/a08n
-#EXTINF:-1,RMC SPORT ACCESS 1 FTTB - FTTH
+#EXTINF:-1,RMC SPORT ACCESS 1 
 http://193.252.43.21:10200/play/a09r
-#EXTINF:-1,RMC SPORT ACCESS 2 FTTB - FTTH
+#EXTINF:-1,RMC SPORT ACCESS 2 
 http://193.252.43.21:10200/play/a08v
 #EXTINF:-1,RMC SPORT LIVE 3
 http://193.252.43.21:10200/play/a0d1
@@ -436,7 +436,7 @@ http://193.252.43.21:10200/play/a0cd
 http://193.252.43.21:10200/play/a089
 #EXTINF:-1,SYFY HD
 http://193.252.43.21:10200/play/a0aq
-#EXTINF:-1,SerieClub HD
+#EXTINF:-1,SERIE CLUB HD
 http://193.252.43.21:10200/play/a073
 #EXTINF:-1,TCM CINEMA
 http://193.252.43.21:10200/play/a07z
@@ -456,6 +456,6 @@ http://193.252.43.21:10200/play/a0ch
 http://193.252.43.21:10200/play/a0av
 #EXTINF:-1,WARNER TV HD
 http://193.252.43.21:10200/play/a0au
-#EXTINF:-1,beIN SPORT 1 HD
+#EXTINF:-1,BEIN SPORT 1 HD
 http://193.252.43.21:10200/play/a0c5
 
