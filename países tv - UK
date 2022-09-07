@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 ##################################################################################################################################################
 
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 29/08/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 07/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #################################################################################################################################################
  
@@ -121,214 +121,366 @@ http://87.212.248.44:60130/play/a05x
 #EXTINF:0 tvg-id="TinyPop.uk" group-title="Channels",TINY POP
 http://87.212.248.44:60130/play/a08c
 
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="Великобритания | United Kingdom" timeshift="3",BT SPORT 1 FHD UK
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/6566/index.m3u8
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="Великобритания | United Kingdom" timeshift="3",BT Sport 1 UK
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/2505/index.m3u8
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="Великобритания | United Kingdom" timeshift="3",BT SPORT 2 FHD UK
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/6565/index.m3u8
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="Великобритания | United Kingdom" timeshift="3",BT Sport 2 UK
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/2506/index.m3u8
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="Великобритания | United Kingdom" timeshift="3",BT SPORT 3 FHD UK
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/6564/index.m3u8
+#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="Великобритания | United Kingdom" timeshift="3",BT SPORT ESPN FHD UK
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/6563/index.m3u8
+#EXTINF:0 tvg-id="PremierSports.uk" group-title="Великобритания | United Kingdom" timeshift="3",PREMIER SPORTS UK
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/6555/index.m3u8
+#EXTINF:0 tvg-id="esp2" group-title="Великобритания | United Kingdom" timeshift="3",EUROSPORT 2 HD UK
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/6556/index.m3u8
+#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Великобритания | United Kingdom",SKY SPORTS PREMIER LEAGUE UK
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/7335/index.m3u8
+#EXTINF:0 tvg-id="SkySpFball.uk" group-title="Великобритания | United Kingdom",SKY SPORTS FOOTBALL UK
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/7336/index.m3u8
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Великобритания | United Kingdom",SKY SPORTS MAIN EVENT UK
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/7337/index.m3u8
+#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Великобритания | United Kingdom",SKY SPORTS ARENA UK
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/7338/index.m3u8
+#EXTINF:0 tvg-id="SkySpMix.uk" group-title="Великобритания | United Kingdom",SKY SPORTS MIX UK
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/7339/index.m3u8
+#EXTINF:0 tvg-id="SkySpAction.uk" group-title="Великобритания | United Kingdom",Sky Sports Action HD UK
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/7340/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Великобритания | United Kingdom",SKY SPORTS RACING UK
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/7341/index.m3u8
+#EXTINF:0 tvg-id="SkySpF1.uk" group-title="Великобритания | United Kingdom",SKY SPORTS F1 UK
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/7342/index.m3u8
+#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="Великобритания | United Kingdom",SKY SPORTS CRICKET UK
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/7343/index.m3u8
+#EXTINF:0 tvg-id="SkySpTheOpen.uk" group-title="Великобритания | United Kingdom",SKY SPORTS GOLF UK
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/7344/index.m3u8
+#EXTINF:0 tvg-id="SkySpAction.uk" group-title="Великобритания | United Kingdom",Sky Sports Action FHD UK
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/7345/index.m3u8
+#EXTINF:0 tvg-id="MUTV.uk" group-title="Великобритания | United Kingdom" timeshift="7",MUTV UK
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/10078/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Великобритания | United Kingdom",UK Premier Sports 1 SD IE
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/12284/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Великобритания | United Kingdom",Eurosport 3 HD UK
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/14180/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Великобритания | United Kingdom",Eurosport 3 SD UK
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/14181/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Великобритания | United Kingdom",Eurosport 4 HD UK
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/14182/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Великобритания | United Kingdom",Eurosport 4 SD UK
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/14183/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Великобритания | United Kingdom",Eurosport 5 HD UK
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/14184/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Великобритания | United Kingdom",Eurosport 5 SD UK
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/14185/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Великобритания | United Kingdom",Eurosport 6 HD UK
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/14186/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Великобритания | United Kingdom",Eurosport 6 SD UK
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/14187/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Великобритания | United Kingdom",Eurosport 7 HD UK
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/14188/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Великобритания | United Kingdom",Eurosport 7 SD UK
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/14189/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Великобритания | United Kingdom",Eurosport 8 HD UK
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/14190/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Великобритания | United Kingdom",Eurosport 8 SD UK
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/14191/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Великобритания | United Kingdom",Eurosport 9 SD UK
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/14192/index.m3u8
+#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="Великобритания | United Kingdom",BBC 1 HD
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/19176/index.m3u8
+#EXTINF:0 tvg-id="BBC2.uk" group-title="Великобритания | United Kingdom",BBC 2 HD
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/19177/index.m3u8
+#EXTINF:0 tvg-id="BBC4.uk" group-title="Великобритания | United Kingdom",BBC 4 HD
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/19178/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Великобритания | United Kingdom",BBC Alba HD
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/19179/index.m3u8
+#EXTINF:0 tvg-id="bbc-entertainment" group-title="Великобритания | United Kingdom",BBC Entertainment
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/19180/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Великобритания | United Kingdom",BBC First HD
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/19181/index.m3u8
+#EXTINF:0 tvg-id="BBCParliament.uk" group-title="Великобритания | United Kingdom",BBC Parliament
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/19182/index.m3u8
+#EXTINF:0 tvg-id="BBCScotland.uk" group-title="Великобритания | United Kingdom",BBC Scotland
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/19183/index.m3u8
+#EXTINF:0 tvg-id="bbc-world" group-title="Великобритания | United Kingdom",BBC World News
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/19184/index.m3u8
+#EXTINF:0 tvg-id="ITV1London.uk" group-title="Великобритания | United Kingdom",itv 1 HD
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/19185/index.m3u8
+#EXTINF:0 tvg-id="ITV2.uk" group-title="Великобритания | United Kingdom",itv 2 HD
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/19186/index.m3u8
+#EXTINF:0 tvg-id="ITV3plus1.uk" group-title="Великобритания | United Kingdom",itv 3 +1
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/19187/index.m3u8
+#EXTINF:0 tvg-id="ITV4plus1.uk" group-title="Великобритания | United Kingdom",itv 4 +1
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/19188/index.m3u8
+#EXTINF:0 tvg-id="ITV4.uk" group-title="Великобритания | United Kingdom",itv 4
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/19189/index.m3u8
+#EXTINF:0 tvg-id="ITVBe.uk" group-title="Великобритания | United Kingdom",itv BE
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/19190/index.m3u8
+#EXTINF:0 tvg-id="ITV1London.uk" group-title="Великобритания | United Kingdom",itv FHD
+http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/19191/index.m3u8
+
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// LISTA CANAIS FRANÇA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTM3U
 
-#EXTINF:-1,ALTICE STUDIO
-http://37.235.38.139:4000/play/a08r
-#EXTINF:-1,AB1
+
+#EXTINF:0 tvg-id="AB1.fr" group-title="Channels",AB1
 http://37.235.38.139:4000/play/a043
-#EXTINF:-1,AB3
+#EXTINF:0 tvg-id="AB3.be" group-title="Channels",AB3
 http://37.235.38.139:4000/play/a0c6
-#EXTINF:-1,ACTION
+#EXTINF:0 tvg-id="tv1000-action" group-title="Channels",ACTION
 http://37.235.38.139:4000/play/a048
-#EXTINF:-1,ANIMAUX
+#EXTINF:0 tvg-id="Animaux.fr" group-title="Channels",ANIMAUX
 http://37.235.38.139:4000/play/a044
-#EXTINF:-1,AUTOMOTO LA CHAINE
+#EXTINF:0 tvg-id="Automoto.fr" group-title="Channels",AUTOMOTO LA CHAINE
 http://37.235.38.139:4000/play/a042
-#EXTINF:-1,BEIN SPORTS 1L
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 1L
 http://37.235.38.139:4000/play/a054
-#EXTINF:-1,BEIN SPORTS 2
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",BEIN SPORTS 2
 http://37.235.38.139:4000/play/a0cc
-#EXTINF:-1,BEIN SPORTS 3 RED
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 3 RED
 http://37.235.38.139:4000/play/a056
-#EXTINF:-1,BEIN SPORTS MAX 10
+#EXTINF:0 tvg-id="BeInSportMax10.fr" group-title="Channels",BEIN SPORTS MAX 10
 http://37.235.38.139:4000/play/a093
-#EXTINF:-1,BEIN SPORTS MAX 4
+#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="Channels",BEIN SPORTS MAX 4
 http://37.235.38.139:4000/play/a085
-#EXTINF:-1,BEIN SPORTS MAX 5
+#EXTINF:0 tvg-id="BeInSportMax5.fr" group-title="Channels",BEIN SPORTS MAX 5
 http://37.235.38.139:4000/play/a086
-#EXTINF:-1,BEIN SPORTS MAX 6
+#EXTINF:0 tvg-id="beINSPORTSenespanol467.us" group-title="Channels",BEIN SPORTS MAX 6
 http://37.235.38.139:4000/play/a087
-#EXTINF:-1,BEIN SPORTS MAX 7
+#EXTINF:0 tvg-id="BeInSportMax7.fr" group-title="Channels",BEIN SPORTS MAX 7
 http://37.235.38.139:4000/play/a090
-#EXTINF:-1,BEIN SPORTS MAX 8
+#EXTINF:0 tvg-id="BeInSportMax8.fr" group-title="Channels",BEIN SPORTS MAX 8
 http://37.235.38.139:4000/play/a091
-#EXTINF:-1,BEIN SPORTS MAX 9
+#EXTINF:0 tvg-id="BeInSportMax9.fr" group-title="Channels",BEIN SPORTS MAX 9
 http://37.235.38.139:4000/play/a092
-#EXTINF:-1,BET
+#EXTINF:0 tvg-id="BET.uk" group-title="Channels",BET
 http://37.235.38.139:4000/play/a03o
-#EXTINF:-1,BOING
-http://37.235.38.139:4000/play/a00j
-#EXTINF:-1,BOOMERANG
+#EXTINF:0 tvg-id="boomerang" group-title="Channels",BOOMERANG
 http://37.235.38.139:4000/play/a00o
-#EXTINF:-1,CANAL J
+#EXTINF:0 tvg-id="CanalJ.fr" group-title="Channels",CANAL J
 http://37.235.38.139:4000/play/a0a4
-#EXTINF:-1,CANAL+ CINEMA RED
-http://37.235.38.139:4000/play/a004
-#EXTINF:-1,CANAL+ DECALE
-http://37.235.38.139:4000/play/a003
-#EXTINF:-1,CANAL+ FAMILY RED
-http://37.235.38.139:4000/play/a006
-#EXTINF:-1,CANAL+ SERIES RED
-http://37.235.38.139:4000/play/a007
-#EXTINF:-1,CANAL+ SPORT RED
-http://37.235.38.139:4000/play/a005
-#EXTINF:-1,CANAL+DOCS
+#EXTINF:0 tvg-id="Canal+Docs.fr" group-title="Channels",CANAL+DOCS
 http://37.235.38.139:4000/play/a0b7
-#EXTINF:-1,CANAL+GRAND ECRAN
+#EXTINF:0 tvg-id="CANAL+GrandEcran.fr" group-title="Channels",CANAL+GRAND ECRAN
 http://37.235.38.139:4000/play/a0d0
-#EXTINF:-1,CANAL+ RED
-http://37.235.38.139:4000/play/a002
-#EXTINF:-1,CARTOON NETWORK
+#EXTINF:0 tvg-id="cartoon" group-title="Channels",CARTOON NETWORK
 http://37.235.38.139:4000/play/a0ay
-#EXTINF:-1,CHASSE ET PECHE
+#EXTINF:0 tvg-id="ChassePeche.fr" group-title="Channels",CHASSE ET PECHE
 http://37.235.38.139:4000/play/a04b
-#EXTINF:-1,CINE+ CLASSIC
-http://37.235.38.139:4000/play/a00a
-#EXTINF:-1,CINE+ CLUB
+#EXTINF:0 tvg-id="CinecinemaClub.fr" group-title="Channels",CINE+ CLUB
 http://37.235.38.139:4000/play/a0al
-#EXTINF:-1,CINE+ EMOTION
+#EXTINF:0 tvg-id="CinecinemaEmotion.fr" group-title="Channels",CINE+ EMOTION
 http://37.235.38.139:4000/play/a02n
-#EXTINF:-1,CINE+ FAMIZ
-http://37.235.38.139:4000/play/a009
-#EXTINF:-1,CINE+ FRISSON
-http://37.235.38.139:4000/play/a008
-#EXTINF:-1,CINE+ PREMIER
+#EXTINF:0 tvg-id="CinecinemaPremier.fr" group-title="Channels",CINE+ PREMIER
 http://37.235.38.139:4000/play/a02i
-#EXTINF:-1,CLASSICA
-http://37.235.38.139:4000/play/a0bx
-#EXTINF:-1,CLIQUE TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",CLIQUE TV
 http://37.235.38.139:4000/play/a03i
-#EXTINF:-1,COMEDIE+
+#EXTINF:0 tvg-id="Comedie.fr" group-title="Channels",COMEDIE+
 http://37.235.38.139:4000/play/a09o
-#EXTINF:-1,COMEDY CENTRAL
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Channels",COMEDY CENTRAL
 http://37.235.38.139:4000/play/a0an
-#EXTINF:-1,CSTAR HITS FRANCE
+#EXTINF:0 tvg-id="ext" group-title="Channels",CSTAR HITS FRANCE
 http://37.235.38.139:4000/play/a03b
-#EXTINF:-1,DISNEY CHANNEL
+#EXTINF:0 tvg-id="disney" group-title="Channels",DISNEY CHANNEL
 http://37.235.38.139:4000/play/a00l
-#EXTINF:-1,DISNEY CHANNEL+1
+#EXTINF:0 tvg-id="DisneyCh.Plus1.it" group-title="Channels",DISNEY CHANNEL+1
 http://37.235.38.139:4000/play/a039
-#EXTINF:-1,DISNEY JUNIOR
+#EXTINF:0 tvg-id="DisneyJr.blt" group-title="Channels",DISNEY JUNIOR
 http://37.235.38.139:4000/play/a03j
-#EXTINF:-1,DISNEY+
+#EXTINF:0 tvg-id="Disney+.fr" group-title="Channels",DISNEY+
 http://37.235.38.139:4000/play/a070
-#EXTINF:-1,DJAZZ
-http://37.235.38.139:4000/play/a0a6
-#EXTINF:-1,EQUIDIA
+#EXTINF:0 tvg-id="EquidiaLive.fr" group-title="Channels",EQUIDIA
 http://37.235.38.139:4000/play/a0bv
-#EXTINF:-1,ES1
+#EXTINF:0 tvg-id="ES1.fr" group-title="Channels",ES1
 http://37.235.38.139:4000/play/a06y
-#EXTINF:-1,EUROSPORT 1
+#EXTINF:0 tvg-id="esp" group-title="Channels",EUROSPORT 1
 http://37.235.38.139:4000/play/a02q
-#EXTINF:-1,EUROSPORT 2
+#EXTINF:0 tvg-id="esp2" group-title="Channels",EUROSPORT 2
 http://37.235.38.139:4000/play/a037
-#EXTINF:-1,ELEVEN SPORTS PRO LEAGUE 
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS PRO LEAGUE
 http://37.235.38.139:4000/play/a0c7
-#EXTINF:-1,GAME ONE
-http://37.235.38.139:4000/play/a03g
-#EXTINF:-1,GOLF+
-http://37.235.38.139:4000/play/a09q
-#EXTINF:-1,HISTOIRE
+#EXTINF:0 tvg-id="Histoire.fr" group-title="Channels",HISTOIRE
 http://37.235.38.139:4000/play/a03s
-#EXTINF:-1,INFOSPORT+
+#EXTINF:0 tvg-id="Infosport.fr" group-title="Channels",INFOSPORT+
 http://37.235.38.139:4000/play/a00n
-#EXTINF:-1,J-ONE
-http://37.235.38.139:4000/play/a0a8
-#EXTINF:-1,LA CHAINE METEO
-http://37.235.38.139:4000/play/a05s
-#EXTINF:-1,M6 MUSIC
-http://37.235.38.139:4000/play/a0ak
-#EXTINF:-1,MANGAS
+#EXTINF:0 tvg-id="Mangas.fr" group-title="Channels",MANGAS
 http://37.235.38.139:4000/play/a099
-#EXTINF:-1,MCM
+#EXTINF:0 tvg-id="mcm-top" group-title="Channels",MCM
 http://37.235.38.139:4000/play/a05q
-#EXTINF:-1,MELODY
-http://37.235.38.139:4000/play/a05p
-#EXTINF:-1,MEZZO
+#EXTINF:0 tvg-id="mezzo" group-title="Channels",MEZZO
 http://37.235.38.139:4000/play/a03v
-#EXTINF:-1,MEZZO LIVE
-http://37.235.38.139:4000/play/a0am
-#EXTINF:-1,MTV
+#EXTINF:0 tvg-id="mtv-rus" group-title="Channels",MTV
 http://37.235.38.139:4000/play/a03q
-#EXTINF:-1,MUSEUM
+#EXTINF:0 tvg-id="Museum.fr" group-title="Channels",MUSEUM
 http://37.235.38.139:4000/play/a0a7
-#EXTINF:-1,NATIONAL GEO
+#EXTINF:0 tvg-id="natgeo" group-title="Channels",NATIONAL GEO
 http://37.235.38.139:4000/play/a00g
-#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
+#EXTINF:0 tvg-id="natgeowild" group-title="Channels",NATIONAL GEOGRAPHIC WILD
 http://37.235.38.139:4000/play/a0bq
-#EXTINF:-1,NICKELODEON
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="Channels",NICKELODEON
 http://37.235.38.139:4000/play/a03u
-#EXTINF:-1,NICKELODEON JUNIOR
+#EXTINF:0 tvg-id="nick-jr" group-title="Channels",NICKELODEON JUNIOR
 http://37.235.38.139:4000/play/a03k
-#EXTINF:-1,NICKELODEON TEEN
+#EXTINF:0 tvg-id="ext" group-title="Channels",NICKELODEON TEEN
 http://37.235.38.139:4000/play/a0ao
-#EXTINF:-1,NICKELODEON +1
+#EXTINF:0 tvg-id="NickelodeonPlus1.uk" group-title="Channels",NICKELODEON +1
 http://37.235.38.139:4000/play/a029
-#EXTINF:-1,NOVELAS TV
-http://37.235.38.139:4000/play/a0c0
-#EXTINF:-1,NRJ HITS
-http://37.235.38.139:4000/play/a0ar
-#EXTINF:-1,OCS CHOC
-http://37.235.38.139:4000/play/a04h
-#EXTINF:-1,OCS CITY RED
-http://37.235.38.139:4000/play/a00b
-#EXTINF:-1,OCS GEANTS
-http://37.235.38.139:4000/play/a0bs
-#EXTINF:-1,OCS MAX RED
-http://37.235.38.139:4000/play/a00c
-#EXTINF:-1,OLYMPIA TV
-http://37.235.38.139:4000/play/a06z
-#EXTINF:-1,PARAMOUNT CHANNEL
+#EXTINF:0 tvg-id="paramount" group-title="Channels",PARAMOUNT CHANNEL
 http://37.235.38.139:4000/play/a0bt
-#EXTINF:-1,PARIS PREMIERE
+#EXTINF:0 tvg-id="ParisPremiere.fr" group-title="Channels",PARIS PREMIERE
 http://37.235.38.139:4000/play/a00i
-#EXTINF:-1,PIWI+
-http://37.235.38.139:4000/play/a0a9
-#EXTINF:-1,PLANETE+
+#EXTINF:0 tvg-id="PLANETE.pl" group-title="Channels",PLANETE+
 http://37.235.38.139:4000/play/a00k
-#EXTINF:-1,PLANETE+ A&E
+#EXTINF:0 tvg-id="PLANETEnoLIMIT.fr" group-title="Channels",PLANETE+ A&E
 http://37.235.38.139:4000/play/a09r
-#EXTINF:-1,PLANETE+ CI
+#EXTINF:0 tvg-id="PLANETEJustice.fr" group-title="Channels",PLANETE+ CI
 http://37.235.38.139:4000/play/a03a
-#EXTINF:-1,POLAR+
+#EXTINF:0 tvg-id="PolarPlus.fr" group-title="Channels",POLAR+
 http://37.235.38.139:4000/play/a05r
-#EXTINF:-1,RFM TV
+#EXTINF:0 tvg-id="RFMTV.fr" group-title="Channels",RFM TV
 http://37.235.38.139:4000/play/a00v
-#EXTINF:-1,RTL9
+#EXTINF:0 tvg-id="RTL9.fr" group-title="Channels",RTL9
 http://37.235.38.139:4000/play/a04a
-#EXTINF:-1,SEASONS
+#EXTINF:0 tvg-id="Seasons.fr" group-title="Channels",SEASONS
 http://37.235.38.139:4000/play/a0bu
-#EXTINF:-1,SERIE CLUB
+#EXTINF:0 tvg-id="SerieClub.fr" group-title="Channels",SERIE CLUB
 http://37.235.38.139:4000/play/a0bw
-#EXTINF:-1,SCIENCE ET VIE
+#EXTINF:0 tvg-id="ScienceVie.fr" group-title="Channels",SCIENCE ET VIE
 http://37.235.38.139:4000/play/a045
-#EXTINF:-1,TCM CINEMA
+#EXTINF:0 tvg-id="TCM.fr" group-title="Channels",TCM CINEMA
 http://37.235.38.139:4000/play/a0ab
-#EXTINF:-1,TELETOON+
+#EXTINF:0 tvg-id="TeletoonPlusHD.ge" group-title="Channels",TELETOON+
 http://37.235.38.139:4000/play/a03c
-#EXTINF:-1,TELETOON+ 1
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELETOON+ 1
 http://37.235.38.139:4000/play/a03d
-#EXTINF:-1,TEVA
+#EXTINF:0 tvg-id="Teva.fr" group-title="Channels",TEVA
 http://37.235.38.139:4000/play/a09p
-#EXTINF:-1,TIJI
+#EXTINF:0 tvg-id="tiji" group-title="Channels",TIJI
 http://37.235.38.139:4000/play/a00w
-#EXTINF:-1,TOONAMI
-http://37.235.38.139:4000/play/a0aa
-#EXTINF:-1,TRACE LATINA
-http://37.235.38.139:4000/play/a03z
-#EXTINF:-1,TRACE URBAN
-http://37.235.38.139:4000/play/a03f
-#EXTINF:-1,TV BREIZH
+#EXTINF:0 tvg-id="TVBreizh.fr" group-title="Channels",TV BREIZH
 http://37.235.38.139:4000/play/a00u
-#EXTINF:-1,TOUTE L HISTOIRE
+#EXTINF:0 tvg-id="TouteHistoire.fr" group-title="Channels",TOUTE L HISTOIRE
 http://37.235.38.139:4000/play/a047
-#EXTINF:-1,USHUAIA TV
+#EXTINF:0 tvg-id="UshuaiaTV.fr" group-title="Channels",USHUAIA TV
 http://37.235.38.139:4000/play/a02l
-#EXTINF:-1,WARNER TV
+#EXTINF:0 tvg-id="WarnerHD.mx" group-title="Channels",WARNER TV
 http://37.235.38.139:4000/play/a0a5
+
+
+#EXTINF:-1,13eme RUE HD
+http://193.252.43.21:10200/play/a0bo
+#EXTINF:-1,ALTICE STUDIO
+http://193.252.43.21:10200/play/a06c
+#EXTINF:-1,Action HD
+http://193.252.43.21:10200/play/a07u
+#EXTINF:-1,BEIN SPORTS 3 HD
+http://193.252.43.21:10200/play/a0c7
+#EXTINF:-1,BOOMERANG
+http://193.252.43.21:10200/play/a07w
+#EXTINF:-1,CANAL J
+http://193.252.43.21:10200/play/a07v
+#EXTINF:-1,CANAL+ CINEMA HD
+http://193.252.43.21:10200/play/a0b3
+#EXTINF:-1,CANAL+ DECALE HD
+http://193.252.43.21:10200/play/a0b6
+#EXTINF:-1,CANAL+ FAMILY HD
+http://193.252.43.21:10200/play/a0b5555
+#EXTINF:-1,CANAL+ HD
+http://193.252.43.21:10200/play/a0b7
+#EXTINF:-1,CANAL+ SERIES HD
+http://193.252.43.21:10200/play/a0b1
+#EXTINF:-1,CANAL+ SPORT HD
+http://193.252.43.21:10200/play/a0b4
+#EXTINF:-1,CINE+ CLUB
+http://193.252.43.21:10200/play/a0ba
+#EXTINF:-1,CINE+ EMOTION
+http://193.252.43.21:10200/play/a08b
+#EXTINF:-1,CINE+ FAMIZ
+http://193.252.43.21:10200/play/a0d5
+#EXTINF:-1,CINE+ FRISSON HD
+http://193.252.43.21:10200/play/a0bd
+#EXTINF:-1,CINE+ PREMIER HD
+http://193.252.43.21:10200/play/a0be
+#EXTINF:-1,CLIQUE TV HD
+http://193.252.43.21:10200/play/a0aw
+#EXTINF:-1,DISCOVERY FAMILY HD
+http://193.252.43.21:10200/play/a06l
+#EXTINF:-1,DISCOVERY INVESTIGATION HD
+http://193.252.43.21:10200/play/a06q
+#EXTINF:-1,DISNEY JUNIOR
+http://193.252.43.21:10200/play/a0b9
+#EXTINF:-1,E! France HD - Main
+http://193.252.43.21:10200/play/a06r
+#EXTINF:-1,GameOne HD
+http://193.252.43.21:10200/play/a0ci
+#EXTINF:-1,LA CHAINE METEO BOUYTEL
+http://193.252.43.21:10200/play/a0c3
+#EXTINF:-1,NICKELODEON
+http://193.252.43.21:10200/play/a07f
+#EXTINF:-1,NICKELODEON 4TEEN
+http://193.252.43.21:10200/play/a06p
+#EXTINF:-1,NICKELODEON JUNIOR
+http://193.252.43.21:10200/play/a07t
+#EXTINF:-1,OCS CHOC HD
+http://193.252.43.21:10200/play/a0bq
+#EXTINF:-1,OCS CITY HD
+http://193.252.43.21:10200/play/a0bp
+#EXTINF:-1,OCS GEANTS HD
+http://193.252.43.21:10200/play/a0bs
+#EXTINF:-1,OCS MAX HD
+http://193.252.43.21:10200/play/a0br
+#EXTINF:-1,OL TV
+http://193.252.43.21:10200/play/a0ct
+#EXTINF:-1,PARIS PREMIERE HD
+http://193.252.43.21:10200/play/a071
+#EXTINF:-1,POLAR+ HD
+http://193.252.43.21:10200/play/a0at
+#EXTINF:-1,RMC SPORT 1
+http://193.252.43.21:10200/play/a08l
+#EXTINF:-1,RMC SPORT 2
+http://193.252.43.21:10200/play/a08n
+#EXTINF:-1,RMC SPORT ACCESS 1 FTTB - FTTH
+http://193.252.43.21:10200/play/a09r
+#EXTINF:-1,RMC SPORT ACCESS 2 FTTB - FTTH
+http://193.252.43.21:10200/play/a08v
+#EXTINF:-1,RMC SPORT LIVE 3
+http://193.252.43.21:10200/play/a0d1
+#EXTINF:-1,RMC SPORT LIVE 4
+http://193.252.43.21:10200/play/a0d2
+#EXTINF:-1,RMC SPORT LIVE 5
+http://193.252.43.21:10200/play/a0bu
+#EXTINF:-1,RMC SPORT LIVE 6
+http://193.252.43.21:10200/play/a0cd
+#EXTINF:-1,RTL9 HD
+http://193.252.43.21:10200/play/a089
+#EXTINF:-1,SYFY HD
+http://193.252.43.21:10200/play/a0aq
+#EXTINF:-1,SerieClub HD
+http://193.252.43.21:10200/play/a073
+#EXTINF:-1,TCM CINEMA
+http://193.252.43.21:10200/play/a07z
+#EXTINF:-1,TEVA HD
+http://193.252.43.21:10200/play/a072
+#EXTINF:-1,TF1 HD
+http://193.252.43.21:10200/play/a06a
+#EXTINF:-1,TOONAMI
+http://193.252.43.21:10200/play/a08g
+#EXTINF:-1,TRACE URBAN FR HD
+http://193.252.43.21:10200/play/a0bb
+#EXTINF:-1,TV BREIZH HD
+http://193.252.43.21:10200/play/a0d6
+#EXTINF:-1,USHUAIA HD
+http://193.252.43.21:10200/play/a0ch
+#EXTINF:-1,VICELAND HD
+http://193.252.43.21:10200/play/a0av
+#EXTINF:-1,WARNER TV HD
+http://193.252.43.21:10200/play/a0au
+#EXTINF:-1,beIN SPORT 1 HD
+http://193.252.43.21:10200/play/a0c5
 
