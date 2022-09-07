@@ -9,15 +9,35 @@ http://0.0.0.0:000000
  
 #EXTM3U
 
+#EXTINF:-1,[COLOR=orange][B]/////////  DOCUMENTÁRIOS & EXTRAS  /////////[/B][/COLOR][COLOR=orange][/COLOR]
+https://000000
+
+#EXTINF:-1,[COLOR=white][B]STAR WARS GALAXYS - EDGE ADVENTURE AWAITS[/B][/COLOR][COLOR=white][/COLOR]
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/210907.mkv
+
+###########################################################################################################################################
 
 #EXTINF:-1,[COLOR=orange][B]/////////  FILMES DIVERSOS  /////////[/B][/COLOR][COLOR=orange][/COLOR]
 https://000000
 
 
-#EXTINF:-1,[COLOR=white][B]BREVEMENTE[/B][/COLOR][COLOR=white][/COLOR]
-https://0000000000000000000000000000000
+#EXTINF:-1,[COLOR=white][B]LEGO STAR WARS: HOLIDAY SPECIAL (FR)[/B][/COLOR][COLOR=white][/COLOR]
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/246046.mkv
+
+#EXTINF:-1,[COLOR=white][B]STAR TREK ALÉM DO UNIVERSO (2016)[/B][/COLOR][COLOR=white][/COLOR]
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/211327.mkv
+
+#EXTINF:-1,[COLOR=white][B]STAR WARS: O ÚLTIMO JEDI VII (2017)[/B][/COLOR][COLOR=white][/COLOR]
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/211326.mkv
+
+#EXTINF:-1,[COLOR=white][B]HAN SOLO: UMA HISTÓRIA STAR WARS, 4K (2018)[/B][/COLOR][COLOR=white][/COLOR]
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/12170.mkv
+
+#EXTINF:-1,[COLOR=white][B]STAR WARS, A ASCENSÃO DE SKYWALKER IX (2019)[/B][/COLOR][COLOR=white][/COLOR]
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/209320.mkv
 
 
+###########################################################################################################################################
 
 #EXTINF:-1,[COLOR=orange][B]/////////  SÉRIES DE TV DIVERSAS  /////////[/B][/COLOR][COLOR=orange][/COLOR]
 https://000000
