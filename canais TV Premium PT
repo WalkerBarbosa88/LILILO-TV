@@ -24,50 +24,38 @@ https://00000000000
 
 #EXTM3U
 
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Portugal ➾ Football",BTV HD
+#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1497
 
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Portugal ➾ Sports",SPORT TV+
+#EXTINF:-1,[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1481
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Portugal ➾ Sports",SPORT TV 1
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1483
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Portugal ➾ Sports",SPORT TV 2
+#EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1486
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Portugal ➾ Sports",SPORT TV 3
+#EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1489
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Portugal ➾ Sports",SPORT TV 4
+#EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1492
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Portugal ➾ Sports",SPORT TV 5
+#EXTINF:-1,[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1495
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Sports",SPORT TV 6
+#EXTINF:-1,[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/281487
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Sports",SPORT TV NBA
+#EXTINF:-1,[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2051
 
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Football",ELEVEN SPORTS 1
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1499
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Football",ELEVEN SPORTS 2
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1503
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Football",ELEVEN SPORTS 3
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1506
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Football",ELEVEN SPORTS 4
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1509
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Football",ELEVEN SPORTS 5
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1512
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Football",ELEVEN SPORTS 6
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1515
-
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Movie",NOS STUDIOS
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1454
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Movie",TVCINE ACTION
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1452
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Movie",TVCINE EDITION
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/82254
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Movie",TVCINE EMOTION
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1448
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Movie",TVCINE TOP
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1446
-
 
 #EXTINF:-1,[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
 http://163.172.100.183:2052/portugal@hdhevc@pro2/9804235480@izu@!!/3784
@@ -280,13 +268,26 @@ https://0000000
 
 #EXTM3U
 
+#EXTINF:-1,[COLOR=white][B]NOS STUDIOS SD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1454
+#EXTINF:-1,[COLOR=white][B]NOS STUDIOS FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1446
+
 #EXTINF:-1,[COLOR=white][B]TVCINE ACTION HD[/B][/COLOR][COLOR=white][/COLOR]
 http://194.76.186.98:2021/play/a00m
+#EXTINF:-1,[COLOR=white][B]TVCINE ACTION HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1452
+
 #EXTINF:-1,[COLOR=white][B]TVCINE EDITION HD[/B][/COLOR][COLOR=white][/COLOR]
 http://194.76.186.98:2021/play/a00k
+#EXTINF:-1,[COLOR=white][B]TVCINE EDITION HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/82254
+
 #EXTINF:-1,[COLOR=white][B]TVCINE EMOTION HD[/B][/COLOR][COLOR=white][/COLOR]
 http://194.76.186.98:2021/play/a00l
+#EXTINF:-1,[COLOR=white][B]TVCINE EMOTION HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1448
+
 #EXTINF:-1,[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
 http://194.76.186.98:2021/play/a00j
-
 
