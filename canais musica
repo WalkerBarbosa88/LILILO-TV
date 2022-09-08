@@ -148,6 +148,9 @@ http://muzzone-stream.daitsuna.net/muzzondvr/muzzone_dvr/chunks_dvr.m3u8
 #EXTINF:-1,[COLOR=white][B]CADENA ELITE ES TV[/B][/COLOR][COLOR=white][/COLOR]
 http://cloudvideo.servers10.com:8080/8004/index.m3u8
 
+#EXTINF:-1,[COLOR=white][B]URBAN TV[/B][/COLOR][COLOR=white][/COLOR]
+https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
+
 
 ##########################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA ELECTRÓNICA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -263,6 +266,9 @@ http://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]CLASSIC ROCK TV[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn17.fntvchannel.com/index_1080.m3u8
+
+#EXTINF:-1,[COLOR=white][B]RCK TV[/B][/COLOR][COLOR=white][/COLOR]
+https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8?PlaylistM3UCL
 
 ######################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  MÚSICAS ALTERNATIVAS & AO VIVO /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -472,6 +478,9 @@ http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8?PlaylistM3UCL
 
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]AMÉRICA LATINA[/B][/COLOR][COLOR=white][/COLOR]
 http://168.205.87.198:8555/live/1431/123456/16.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]TOP LATINO TV[/B][/COLOR][COLOR=white][/COLOR]
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/tvweb.stream/playlist.m3u8?PlaylistM3UCL
 
 ######################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// OUTROS GÉNEROS /////////[/B][/COLOR][COLOR=yellow][/COLOR]
