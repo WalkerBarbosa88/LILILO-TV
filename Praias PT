@@ -8,27 +8,40 @@ FONTE DE INFORMAÇÃO: https://www.webcamgalore.com/Beaches/themecam.html
 #EXTM3U
 
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 19/08/2022. 9 WEBCAM´S OFFLINE[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 08/09/2022. 8 WEBCAM´S OFFLINE[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
-
-
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIAS PT YOUTUBE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://0000000000000000000000
 
+#EXTM3U
 
-# https://www.youtube.com/watch?v=ardeumMsaVk&ab_channel=Madeira-Web
-#EXTINF:-1,[COLOR=white][B]MADEIRA - PRAIA DE FRANÇA MAR[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=ardeumMsaVk&ab_channel=Madeira-Web
+#EXTINF:-1,[COLOR=white][B]MADEIRA - PENHA DE FRANÇA MAR[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=LKbVoPp1Nqo
 
-# https://www.youtube.com/watch?v=UJQd9RckYwc&ab_channel=Madeira-Web
 #EXTINF:-1,[COLOR=white][B]MADEIRA - PRAIA DA CALHETA[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=UJQd9RckYwc&ab_channel=Madeira-Web
+plugin://plugin.video.youtube/play/?video_id=Ct1Xja8uaqc
 
-# https://www.youtube.com/watch?v=Wz_mSdgUEP4&ab_channel=Madeira-Web
-#EXTINF:-1,[COLOR=white][B]MADEIRA - PRAIA DO CANIÇAL[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=Wz_mSdgUEP4&ab_channel=Madeira-Web
+#EXTINF:-1,[COLOR=white][B]MADEIRA - PORTO MONIZ - WEBCAM 1[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=qUB8_lgA_54
 
+#EXTINF:-1,[COLOR=white][B]MADEIRA - PORTO MONIZ - WEBCAM 2[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=1rxXrniukE0
+
+#EXTINF:-1,[COLOR=white][B]MADEIRA - PISCINAS DO LIDO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=UZCU4yRiO8g
+
+#EXTINF:-1,[COLOR=white][B]MADEIRA - BARREIRINHA BEACH[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=4J1YwwaZx4I
+
+#EXTINF:-1,[COLOR=white][B]SETÚBAL - PRAIA DA FONTE DA TELHA (NORTE)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=U4AwFAoEPLM
+
+#EXTINF:-1,[COLOR=white][B]SETÚBAL - PRAIA DA FONTE DA TELHA (SUL)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=LO68qQ6-OK8
+
+#EXTINF:-1,[COLOR=white][B]COSTA DA CAPARICA - PRAIA DA SEREIA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=_sT-z5d4ZAU
 
 
 ####################################################################################################################################
@@ -144,7 +157,7 @@ https://video-auth1.iol.pt/beachcam/vimeiro/playlist.m3u8
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",[COLOR=white][B]SANTA CRUZ - PRAIA AZUL[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/bcpraiaazul/playlist.m3u8
  
-OFFLINE: 0
+OFFLINE: 1
 
 ########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIAS DE LISBOA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -295,7 +308,7 @@ https://video-auth1.iol.pt/beachcam/bccabanadopescador/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/bccaparicanovapraia/playlist.m3u8
 
 
-OFFLINE: 1
+OFFLINE: 0
 
 ########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIAS DE SESIMBRA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -341,7 +354,7 @@ https://video-auth1.iol.pt/beachcam/bcalmograve/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/bcsantoandre/playlist.m3u8
 
 
-OFFLINE: 0
+OFFLINE: 1
 
 ########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIAS DO ALGARVE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -393,7 +406,7 @@ https://video-auth1.iol.pt/beachcam/bcamado/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]ALVOR NASCENTE[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/bcalvornascente/playlist.m3u8
 
-OFFLINE: 3
+OFFLINE: 2
   
 ########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIAS DA MADEIRA & AÇORES  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -435,4 +448,4 @@ https://video-auth1.iol.pt/beachcam/bcbugio1/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 
  
-OFFLINE: 1
+OFFLINE: 0
