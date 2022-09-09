@@ -91,6 +91,9 @@ https://stream.4fun.tv:8888/hls/4f.m3u8
 #EXTINF:-1,[COLOR=white][B]MTV OO´S HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0hf
 
+#EXTINF:-1,[COLOR=white][B]MTV LIVE HD[/B][/COLOR][COLOR=white][/COLOR]
+http://193.233.9.49/streams/media/MTV_Live_HD/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="TV Musicas",[COLOR=white][B]ONE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://rtmp.one.by:1300
 
@@ -151,6 +154,8 @@ http://cloudvideo.servers10.com:8080/8004/index.m3u8
 #EXTINF:-1,[COLOR=white][B]URBAN TV[/B][/COLOR][COLOR=white][/COLOR]
 https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1,[COLOR=white][B]M6 MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
+http://190.2.155.162:8080/m6music/mpegts
 
 ##########################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA ELECTRÓNICA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -269,6 +274,9 @@ https://cdn17.fntvchannel.com/index_1080.m3u8
 
 #EXTINF:-1,[COLOR=white][B]RCK TV[/B][/COLOR][COLOR=white][/COLOR]
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,[COLOR=white][B]ROCK HD[/B][/COLOR][COLOR=white][/COLOR]
+http://stream1.chd-servers.ml/chdtvrock/index.m3u8
 
 ######################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  MÚSICAS ALTERNATIVAS & AO VIVO /////////[/B][/COLOR][COLOR=yellow][/COLOR]
