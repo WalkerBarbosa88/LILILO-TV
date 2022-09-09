@@ -91,6 +91,15 @@ https://stream.4fun.tv:8888/hls/4f.m3u8
 #EXTINF:-1,[COLOR=white][B]MTV OO´S HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0hf
 
+#EXTINF:-1,[COLOR=white][B]MTV 80´S[/B][/COLOR][COLOR=white][/COLOR]
+http://myott.top/stream/MQC4SG6DIS/87.m3u8
+
+#EXTINF:-1,[COLOR=white][B]MTV 90´S[/B][/COLOR][COLOR=white][/COLOR]
+http://myott.top/stream/MQC4SG6DIS/88.m3u8
+
+#EXTINF:-1,[COLOR=white][B]MTV HITS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://myott.top/stream/MQC4SG6DIS/302.m3u8
+
 #EXTINF:-1,[COLOR=white][B]MTV LIVE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://193.233.9.49/streams/media/MTV_Live_HD/index.m3u8
 
