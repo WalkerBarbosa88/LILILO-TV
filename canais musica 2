@@ -576,3 +576,113 @@ https://allanf181.github.io/adaptive-streams/streams/kr/Mnet.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Classic;Music",PERSIANA NOSTALGIA
 http://51.210.199.20/hls/stream.m3u8
 
+
+#EXTINF:0 tvg-id="bridge" group-title="Музичні",Bridge
+https://livetv.mylifeisgood.ml/channels/bridgetv24h
+#EXTINF:0 tvg-id="bridge-hd" group-title="Музичні",Bridge TV Deluxe
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=bridgedeluxetv
+#EXTINF:0 tvg-id="dange" group-title="Музичні",BRIDGE TV HITS
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=bridgehitstv
+#EXTINF:0 tvg-id="shlyager" group-title="Музичні",BRIDGE TV Шлягер
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=bridgetvshlyager
+#EXTINF:0 tvg-id="ext" group-title="Музичні",Chd-Tv-Rock
+http://stream1.chd-servers.ml/chdtvrock/index.m3u8
+#EXTINF:0 tvg-id="ClubbingTV.pt" group-title="Музичні",Clubbing TV
+https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музичні",Deep House District
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+#EXTINF:0 tvg-id="DSTV.bg" group-title="Музичні",DSTV
+http://46.249.95.140:8081/hls/data.m3u8
+#EXTINF:0 tvg-id="eumusic" group-title="Музичні",EU Music
+http://91.213.59.156/play/88/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музичні",Happy Radio
+https://live.prd.dlive.tv/hls/live/happyradio.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музичні",House
+https://eu-nl-012.worldcast.tv/dancetelevisionfive/2/dancetelevisionfive.m3u8
+#EXTINF:0 tvg-id="inrating" group-title="Музичні",Inrating
+http://91.213.59.156/play/55/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музичні",Kiss Kiss Italia HD
+https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музичні",Kronehit TV
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музичні",Lenadi
+http://edge-01-pub.persik.by:82/live/Ch052pub/index.m3u8
+#EXTINF:0 tvg-id="m-1" group-title="Музичні",M1 HD
+http://91.213.59.156/play/39/index.m3u8
+#EXTINF:0 tvg-id="m-2" group-title="Музичні",M2 HD
+http://91.213.59.156/play/41/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музичні",M6Music HD
+http://190.2.155.162:8080/m6music/mpegts
+#EXTINF:0 tvg-id="mezzo-hd" group-title="Музичні",Mezzo Live HD
+http://213.226.137.140:81/tl/l56/mpegts
+#EXTINF:0 tvg-id="ext" group-title="Музичні",MTV Biggest Pop HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музичні",MTV Block Party HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="Музичні",MTV Live HD
+http://193.233.9.49/streams/media/MTV_Live_HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музичні",MTV Yo!
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музичні",MUSIC PLUS
+http://79.172.214.45:10190/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музичні",NRG 91 Music HD
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+#EXTINF:0 tvg-id="OckoExpres.cz" group-title="Музичні",Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музичні",Ocko Star
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:0 tvg-id="Ocko.cz" group-title="Музичні",Ocko TV
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:0 tvg-id="RockTV.it" group-title="Музичні",ROCK TV
+https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist_w1354578804_b1600000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музичні",Shant Music
+http://5.188.172.179/Shant-Music/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музичні",Sluhay RADIO
+http://edge-01-pub.persik.by:82/live/Ch048pub/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музичні",Sluhay.by
+http://edge-01-pub.persik.by:82/live/Ch045pub/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музичні",Sluhay.by COVER
+http://edge-01-pub.persik.by:82/live/Ch117pub/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музичні",Sluhay.by EDM
+http://edge-01-pub.persik.by:82/live/Ch091pub/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музичні",Sluhay.by LIVE
+http://edge-01-pub.persik.by:82/live/Ch173pub/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музичні",Sluhay.by MOVA
+http://edge-01-pub.persik.by:82/live/Ch034pub/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музичні",Sluhay.by POP
+http://edge-01-pub.persik.by:82/live/Ch066pub/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музичні",Sluhay.by RAP
+http://edge-01-pub.persik.by:82/live/Ch107pub/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музичні",Sluhay.by ROCK
+http://edge-01-pub.persik.by:82/live/Ch114pub/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музичні",Stereo Citta TV
+https://585b674743bbb.streamlock.net/9080/9080/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музичні",Stingray Alternative HD
+https://stirr.ott-channels.stingray.com/102/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музичні",Stingray Classic Rock HD
+https://stirr.ott-channels.stingray.com/101/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музичні",Stingray Exitos del Momento HD
+https://stirr.ott-channels.stingray.com/190/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музичні",Stingray Flashback 70's HD
+https://stirr.ott-channels.stingray.com/115/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музичні",Stingray Greatest Hits HD
+https://stirr.ott-channels.stingray.com/155/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музичні",Stingray Hip-Hop/R&B HD
+https://stirr.ott-channels.stingray.com/133/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музичні",Stingray Hit List HD
+https://stirr.ott-channels.stingray.com/107/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музичні",Stingray Hot Country HD
+https://stirr.ott-channels.stingray.com/108/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музичні",Stingray Pop Adult HD
+https://stirr.ott-channels.stingray.com/104/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музичні",Stingray Remember the 80s HD
+https://stirr.ott-channels.stingray.com/128/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музичні",Stingray Soul Storm HD
+https://stirr.ott-channels.stingray.com/134/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музичні",TVM 3
+https://edge15.vedge.infomaniak.com/livecast/tvm3/chunklist_w678388921.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музичні",V2Beat TV Live
+https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Музичні",VESELJAK TV
+https://stream.veseljak.tv/hls/stream.m3u8
+
