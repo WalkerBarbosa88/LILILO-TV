@@ -30,9 +30,13 @@ https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
 http://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/index.m3u8
 #EXTINF:-1,[COLOR=white][B]ASSIM É PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
 https://livefocamundo.com:8081/tvmaxrio/index.m3u8?ROGERIOTORRES
-#EXTINF:-1,[COLOR=white][B]RTP INTER. ÁSIA[/B][/COLOR][COLOR=white][/COLOR]
-http://210.210.155.37/qwr9ew/s/s38/index.m3u8
 
+#EXTINF:-1,[COLOR=white][B]SAUDE+ PT[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/81973
+#EXTINF:-1,[COLOR=white][B]DISNEY+ PORTUGAL[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/226084
+#EXTINF:-1,[COLOR=white][B]HBO PORTUGAL[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/201073
 
 
 ##########################################################################################################################################
@@ -48,7 +52,7 @@ http://189.91.128.146:4444/udp/227.10.20.109:1234
 http://189.91.128.146:4444/udp/227.10.20.147:1234
 #EXTINF:-1,[COLOR=white][B]STAR CHANNEL BR[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.139:1234
-#EXTINF:-1,[COLOR=white][B]TDM MACAU TV[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]CANAL MACAU TV[/B][/COLOR][COLOR=white][/COLOR]
 https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Religious",[COLOR=white][B]KURIAKOS ANGOLA[/B][/COLOR][COLOR=white][/COLOR]
 http://w2.manasat.com:1935/ktv-ao/ktv-ao/chunklist.m3u8
@@ -87,9 +91,6 @@ http://162.212.178.69:41042/bysid/608
 
 #EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
 http://162.212.178.69:41042/bysid/608
-
-#EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP INTER. ÁSIA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://210.210.155.37/qwr9ew/s/s38/index.m3u8
 
 #EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]SIC INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
@@ -188,6 +189,8 @@ http://45.92.69.72:8000/play/a0gk
 http://45.92.69.72:8001/play/a00k
 #EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Channels",[COLOR=white][B]RTP ÁFRICA[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0hn
+#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Channels",[COLOR=white][B]RTP ÁFRICA[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1424
 #EXTINF:0 tvg-id="sic.pt" group-title="Channels",[COLOR=white][B]SIC HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0g9
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -247,26 +250,28 @@ http://45.92.69.72:8000/play/a0jo
 ******************************************************************  DESPORTO  ******************
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CANAL 11[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CANAL 11 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0ge
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CANAL 11 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8001/play/a03w
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CANAL 11 PT[/B][/COLOR][COLOR=white][/COLOR]
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index_2.m3u8
 #EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",[COLOR=white][B]SPORT TV+[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0j1
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a03y
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1481
 #EXTINF:0 tvg-id="ABolaTV.pt" group-title="Channels",[COLOR=white][B]A BOLA TV[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0ho
 #EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",[COLOR=white][B]SPORTING TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gg
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORTING TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a02n
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]EUROSPORT HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]EUROSPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a02o
 #EXTINF:0 tvg-id="Eurosport1.pt" group-title="Channels",[COLOR=white][B]EUROSPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gh
+#EXTINF:0 tvg-id="Eurosport1.pt" group-title="Channels",[COLOR=white][B]EUROSPORT 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1518
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FUEL TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a02p
 
@@ -294,9 +299,9 @@ http://45.92.69.72:8001/play/a037
 http://45.92.69.72:8000/play/a0ii
 #EXTINF:0 tvg-id="ClubbingTV.pt" group-title="Channels",[COLOR=white][B]CLUBBING TV[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0jr
-#EXTINF:0 tvg-id="vh1.pt" group-title="Channels",[COLOR=white][B]VH1[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="vh1.pt" group-title="Channels",[COLOR=white][B]MTV 00´S[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0hf
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]VH1[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MTV 00´S[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a039
 
 ****************************************************************** SÉRIES E FILMES TV  ******************
@@ -359,8 +364,8 @@ http://45.92.69.72:8000/play/a0jk
 http://45.92.69.72:8000/play/a0ix
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CANAL PANDA[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a02t
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CANAL PANDA[/B][/COLOR][COLOR=white][/COLOR]
-http://fortv.cc:8080/carls/1234/78446
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PANDA KIDS[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/290678
 #EXTINF:0 tvg-id="cartoon.pt" group-title="Channels",[COLOR=white][B]CARTOON NETWORK[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0h3
 #EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Channels",[COLOR=white][B]PANDA BIGGS[/B][/COLOR][COLOR=white][/COLOR]
@@ -379,6 +384,16 @@ http://45.92.69.72:8001/play/a02r
 http://45.92.69.72:8000/play/a001
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CARTOON NETWORK[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a02s
+#EXTINF:-1,[COLOR=white][B]BOOMERANG HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/24529
+#EXTINF:-1,[COLOR=white][B]JIMJAM HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1442
+#EXTINF:-1,[COLOR=white][B]NICK JUNIOR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9693
+#EXTINF:-1,[COLOR=white][B]NICKELODEON HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Portugal ➾ Kids",PT: nickelodeon
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1436
+
 
 ****************************************************************** CANAIS DISCOVERY / DOCUMENTÁRIOS  ******************
 
