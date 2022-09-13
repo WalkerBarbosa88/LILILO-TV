@@ -17,8 +17,13 @@ EXEMPLO  [COLOR=white][B]ONFM PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP1[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0g7
+#EXTINF:0 tvg-id="rtp1.pt" group-title="Portugal ➾ LifeStyle",[COLOR=white][B]RTP1[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1404
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP2[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0g8
+#EXTINF:0 tvg-id="rtp2.pt" group-title="Portugal ➾ LifeStyle",[COLOR=white][B]RTP2[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1406
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP3[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gd
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP3[/B][/COLOR][COLOR=white][/COLOR]
@@ -87,6 +92,9 @@ http://45.92.69.72:8001/play/a03x
 http://45.92.69.72:8000/play/a0j2
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PORTO CANAL HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a041
+#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ News",[COLOR=white][B]EURONEWS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/4007
+
 
 ******************************************************************  FILMES E SÉRIES DE TV PT  ******************
 
