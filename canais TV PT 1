@@ -10,7 +10,7 @@ http://0.0.0.0:0000
 * LISTAS GRATUITAS IPTV ORG - https://github.com/iptv-org/iptv
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 08/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 13/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
@@ -148,9 +148,6 @@ http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="Religious",[COLOR=white][B]SOBRENATURAL TV[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
-
-#EXTINF:-1,[COLOR=white][B]SANTUÁRIO DE FÁTIMA[/B][/COLOR][COLOR=white][/COLOR]
-https://streamer-a01.videos.sapo.pt/live/santuario/chunklist.m3u8?wowzasessionid=inspiration
 
 #EXTINF:-1,[COLOR=white][B]EURONEWS PT HD[/B][/COLOR][COLOR=white][/COLOR]
 https://euronews.alteox.app/hls/pt_stream.m3u8
