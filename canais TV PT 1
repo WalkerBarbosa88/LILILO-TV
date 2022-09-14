@@ -33,9 +33,15 @@ https://livefocamundo.com:8081/tvmaxrio/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1,[COLOR=white][B]SAUDE+ PT[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/81973
-#EXTINF:-1,[COLOR=white][B]DISNEY+ PORTUGAL[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]NETFLIX TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://topstb.com:8000/50656250782258/27115840859269/199152
+#EXTINF:-1,[COLOR=white][B]DISNEY+ TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/226084
-#EXTINF:-1,[COLOR=white][B]HBO PORTUGAL[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]DISNEY+ STAR WARS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://topstb.com:8000/50656250782258/27115840859269/199144
+#EXTINF:-1,[COLOR=white][B]DISNEY+ MARVEL HD[/B][/COLOR][COLOR=white][/COLOR]
+http://topstb.com:8000/50656250782258/27115840859269/199146
+#EXTINF:-1,[COLOR=white][B]HBO TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/201073
 
 
@@ -48,6 +54,10 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]TV GLOBO HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.109:1234
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TV GLOBO INTER.[/B][/COLOR][COLOR=white][/COLOR]
+http://topstb.com:8000/50656250782258/27115840859269/79073
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",[COLOR=white][B]GLOBO NEWS TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://topstb.com:8000/50656250782258/27115840859269/79187
 #EXTINF:-1,[COLOR=white][B]TV RECORD HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.147:1234
 #EXTINF:-1,[COLOR=white][B]STAR CHANNEL BR[/B][/COLOR][COLOR=white][/COLOR]
@@ -62,6 +72,8 @@ http://45.92.69.72:8000/play/a0jo
 http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]TVM INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]ZAP VIVA INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
+http://topstb.com:8000/50656250782258/27115840859269/199249
 
 
 ##########################################################################################################################################
@@ -230,78 +242,20 @@ http://45.92.69.72:8001/play/a03x
 http://45.92.69.72:8000/play/a0j2
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PORTO CANAL HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a041
- 
-******************************************************************  BRASIL & ÁFRICA  ******************
-
-#EXTINF:0 tvg-id="TVGlobo.pt" group-title="Channels",[COLOR=white][B]TV GLOBO HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8000/play/a0ji
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GLOBO HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8001/play/a03z
-#EXTINF:0 tvg-id="RecordNews.pt" group-title="Channels",[COLOR=white][B]RECORD NEWS[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8000/play/a0jq
-#EXTINF:0 tvg-id="tvrecord.pt" group-title="Channels",[COLOR=white][B]TV RECORD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8000/play/a0ij
-#EXTINF:0 tvg-id="TPA.sp" group-title="Channels",[COLOR=white][B]TPA[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8000/play/a0jo
-
-******************************************************************  DESPORTO  ******************
-
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CANAL 11 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8000/play/a0ge
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CANAL 11 HD[/B][/COLOR][COLOR=white][/COLOR]
-https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index_2.m3u8
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",[COLOR=white][B]SPORT TV+[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8000/play/a0j1
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8001/play/a03y
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1481
-#EXTINF:0 tvg-id="ABolaTV.pt" group-title="Channels",[COLOR=white][B]A BOLA TV[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8000/play/a0ho
-#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",[COLOR=white][B]SPORTING TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8000/play/a0gg
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORTING TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8001/play/a02n
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]EUROSPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8001/play/a02o
-#EXTINF:0 tvg-id="Eurosport1.pt" group-title="Channels",[COLOR=white][B]EUROSPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8000/play/a0gh
-#EXTINF:0 tvg-id="Eurosport1.pt" group-title="Channels",[COLOR=white][B]EUROSPORT 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1518
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FUEL TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8001/play/a02p
-
-******************************************************************  MÚSICA  ******************
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TRACE TOCA[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8001/play/a03a
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TRACE URBAN[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8001/play/a038
-#EXTINF:0 tvg-id="TraceTVUrban.pt" group-title="Channels",[COLOR=white][B]TRACE URBAN[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8000/play/a0ig
-#EXTINF:0 tvg-id="AfroMusic.pt" group-title="Channels",[COLOR=white][B]AFRO MUSIC[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8000/play/a0hh
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ALMA LUSA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8000/play/a002
-#EXTINF:0 tvg-id="MCMPop.pt" group-title="Channels",[COLOR=white][B]MCM POP[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8000/play/a0jp
-#EXTINF:0 tvg-id="mcmtop.pt" group-title="Channels",[COLOR=white][B]MCM TOP[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8000/play/a0ih
-#EXTINF:0 tvg-id="mtvportugal.pt" group-title="Channels",[COLOR=white][B]MTV PORTUGAL[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8000/play/a0h7
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8001/play/a037
-#EXTINF:0 tvg-id="mezzo.pt" group-title="Channels",[COLOR=white][B]MEZZO[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8000/play/a0ii
-#EXTINF:0 tvg-id="ClubbingTV.pt" group-title="Channels",[COLOR=white][B]CLUBBING TV[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8000/play/a0jr
-#EXTINF:0 tvg-id="vh1.pt" group-title="Channels",[COLOR=white][B]MTV 00´S[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8000/play/a0hf
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MTV 00´S[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8001/play/a039
 
 ****************************************************************** SÉRIES E FILMES TV  ******************
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX COMEDY FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8001/play/a032
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX COMEDY FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://topstb.com:8000/50656250782258/27115840859269/199102
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX COMEDY HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1465
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX COMEDY SD[/B][/COLOR][COLOR=white][/COLOR]
+http://topstb.com:8000/50656250782258/27115840859269/199103
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX COMEDY FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://topstb.com:8000/50656250782258/27115840859269/79073
 
 #EXTINF:0 tvg-id="AMC.pt" group-title="Channels",[COLOR=white][B]AMC HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0jf
@@ -351,6 +305,78 @@ http://194.76.186.98:2021/play/a01d
 http://45.92.69.72:8000/play/a0jg
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HOLLYWOOD HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a02v
+ 
+******************************************************************  BRASIL & ÁFRICA  ******************
+
+#EXTINF:0 tvg-id="TVGlobo.pt" group-title="Channels",[COLOR=white][B]TV GLOBO HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8000/play/a0ji
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GLOBO HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8001/play/a03z
+#EXTINF:0 tvg-id="RecordNews.pt" group-title="Channels",[COLOR=white][B]RECORD NEWS[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8000/play/a0jq
+#EXTINF:0 tvg-id="tvrecord.pt" group-title="Channels",[COLOR=white][B]TV RECORD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8000/play/a0ij
+#EXTINF:0 tvg-id="TPA.sp" group-title="Channels",[COLOR=white][B]TPA[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8000/play/a0jo
+
+******************************************************************  DESPORTO  ******************
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8001/play/a03y
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8000/play/a0j1
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CANAL 11 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8000/play/a0ge
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CANAL 11 HD[/B][/COLOR][COLOR=white][/COLOR]
+https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index_2.m3u8
+#EXTINF:0 tvg-id="ABolaTV.pt" group-title="Channels",[COLOR=white][B]A BOLA TV[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8000/play/a0ho
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",[COLOR=white][B]SPORTING TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8000/play/a0gg
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORTING TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8001/play/a02n
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]EUROSPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8001/play/a02o
+#EXTINF:0 tvg-id="Eurosport1.pt" group-title="Channels",[COLOR=white][B]EUROSPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8000/play/a0gh
+#EXTINF:0 tvg-id="Eurosport1.pt" group-title="Channels",[COLOR=white][B]EUROSPORT 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1518
+#EXTINF:0 tvg-id="Eurosport2.pt" group-title="Portugal ➾ Sports",[COLOR=white][B]EUROSPORT 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://topstb.com:8000/50656250782258/27115840859269/29341
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FUEL TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8001/play/a02p
+
+******************************************************************  MÚSICA  ******************
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TRACE TOCA[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8001/play/a03a
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TRACE URBAN[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8001/play/a038
+#EXTINF:0 tvg-id="TraceTVUrban.pt" group-title="Channels",[COLOR=white][B]TRACE URBAN[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8000/play/a0ig
+#EXTINF:0 tvg-id="AfroMusic.pt" group-title="Channels",[COLOR=white][B]AFRO MUSIC[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8000/play/a0hh
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ALMA LUSA HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8000/play/a002
+#EXTINF:0 tvg-id="MCMPop.pt" group-title="Channels",[COLOR=white][B]MCM POP[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8000/play/a0jp
+#EXTINF:0 tvg-id="mcmtop.pt" group-title="Channels",[COLOR=white][B]MCM TOP[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8000/play/a0ih
+#EXTINF:0 tvg-id="mtvportugal.pt" group-title="Channels",[COLOR=white][B]MTV PORTUGAL[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8000/play/a0h7
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MTV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8001/play/a037
+#EXTINF:0 tvg-id="mezzo.pt" group-title="Channels",[COLOR=white][B]MEZZO[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8000/play/a0ii
+#EXTINF:0 tvg-id="ClubbingTV.pt" group-title="Channels",[COLOR=white][B]CLUBBING TV[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8000/play/a0jr
+#EXTINF:0 tvg-id="vh1.pt" group-title="Channels",[COLOR=white][B]MTV 00´S[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8000/play/a0hf
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MTV 00´S[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8001/play/a039
+
+
 
 ****************************************************************** INFANTIS  ******************
 
