@@ -1,0 +1,1201 @@
+####################################################################################################################################################
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]////////////  CANAIS TV PORTUGAL 3 (TESTES)  /////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
+http://0.0.0.0:0000
+####################################################################################################################################################
+ 
+ FONTE DE INFORMAÇÃO: 
+
+* https://raw.githubusercontent.com/inspirationlinks/lista-tuga/master/i%CF%81%D1%82v%20i%D0%B8%E0%B8%A3%CF%81i%D1%8F%CE%B1%D1%82i%CF%83%D0%B8%20li%D0%B8k%E0%B8%A3
+* LISTAS GRATUITAS IPTV ORG - https://github.com/iptv-org/iptv
+
+#EXTM3U
+
+#EXTINF:-1,[COLOR=orange][B]LISTA ADICIONADA: 14/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
+ 
+#EXTM3U
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTP 1  LOW
+http://topstb.com:8000/50656250782258/27115840859269/199287
+#EXTINF:0 tvg-id="rtp1.pt" group-title="Channels",RTP 1 HD
+http://topstb.com:8000/50656250782258/27115840859269/199286
+#EXTINF:0 tvg-id="rtp1.pt" group-title="Channels",RTP 1 FHD
+http://topstb.com:8000/50656250782258/27115840859269/199285
+#EXTINF:0 tvg-id="RTPi.pt" group-title="Channels",RTP INTERNACIONAL
+http://topstb.com:8000/50656250782258/27115840859269/199284
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTP ARENA HD
+http://topstb.com:8000/50656250782258/27115840859269/199283
+#EXTINF:0 tvg-id="rtp2.pt" group-title="Channels",RTP 2
+http://topstb.com:8000/50656250782258/27115840859269/199282
+#EXTINF:0 tvg-id="rtp2.pt" group-title="Channels",RTP 2 HD
+http://topstb.com:8000/50656250782258/27115840859269/199281
+#EXTINF:0 tvg-id="rtp2.pt" group-title="Channels",RTP 2 FHD
+http://topstb.com:8000/50656250782258/27115840859269/199280
+#EXTINF:0 tvg-id="ext" group-title="Channels",SIC LOW
+http://topstb.com:8000/50656250782258/27115840859269/199279
+#EXTINF:0 tvg-id="sic.pt" group-title="Channels",SIC
+http://topstb.com:8000/50656250782258/27115840859269/199278
+#EXTINF:0 tvg-id="sic.pt" group-title="Channels",SIC HD
+http://topstb.com:8000/50656250782258/27115840859269/199277
+#EXTINF:0 tvg-id="sic.pt" group-title="Channels",SIC FHD
+http://topstb.com:8000/50656250782258/27115840859269/199276
+#EXTINF:0 tvg-id="Sic.br" group-title="Channels",SIC INTERNACIONAL
+http://topstb.com:8000/50656250782258/27115840859269/199275
+#EXTINF:0 tvg-id="ext" group-title="Channels",ADVANCE SIC
+http://topstb.com:8000/50656250782258/27115840859269/199274
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVI  LOW
+http://topstb.com:8000/50656250782258/27115840859269/199273
+#EXTINF:0 tvg-id="TVI.pt" group-title="Channels",TVI
+http://topstb.com:8000/50656250782258/27115840859269/199272
+#EXTINF:0 tvg-id="TVI.pt" group-title="Channels",TVI HD
+http://topstb.com:8000/50656250782258/27115840859269/199271
+#EXTINF:0 tvg-id="TVI.pt" group-title="Channels",TVI FHD
+http://topstb.com:8000/50656250782258/27115840859269/199270
+#EXTINF:0 tvg-id="TVIInternacional.es" group-title="Channels",TVI INTERNACIONAL
+http://topstb.com:8000/50656250782258/27115840859269/199269
+#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Channels",RTP Memoria
+http://topstb.com:8000/50656250782258/27115840859269/199268
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTP 3 LOW
+http://topstb.com:8000/50656250782258/27115840859269/199267
+#EXTINF:0 tvg-id="RTP3.pt" group-title="Channels",RTP 3
+http://topstb.com:8000/50656250782258/27115840859269/199266
+#EXTINF:0 tvg-id="ext" group-title="Channels",SIC NOTICIAS LOW
+http://topstb.com:8000/50656250782258/27115840859269/199265
+#EXTINF:0 tvg-id="sicnoticias.pt" group-title="Channels",SIC NOTICIAS
+http://topstb.com:8000/50656250782258/27115840859269/199264
+#EXTINF:0 tvg-id="sicnoticias.pt" group-title="Channels",SIC NOTICIAS HD
+http://topstb.com:8000/50656250782258/27115840859269/199263
+#EXTINF:0 tvg-id="ext" group-title="Channels",CNN PORTUGAL LOW
+http://topstb.com:8000/50656250782258/27115840859269/199262
+#EXTINF:0 tvg-id="TVI24.pt" group-title="Channels",CNN PORTUGAL
+http://topstb.com:8000/50656250782258/27115840859269/199261
+#EXTINF:0 tvg-id="ext" group-title="Channels",CNN PORTUGAL HD
+http://topstb.com:8000/50656250782258/27115840859269/199260
+#EXTINF:0 tvg-id="ext" group-title="Channels",CMTV LOW
+http://topstb.com:8000/50656250782258/27115840859269/199259
+#EXTINF:0 tvg-id="CMTV.pt" group-title="Channels",CMTV
+http://topstb.com:8000/50656250782258/27115840859269/199258
+#EXTINF:0 tvg-id="CMTV.pt" group-title="Channels",CMTV HD
+http://topstb.com:8000/50656250782258/27115840859269/199257
+#EXTINF:0 tvg-id="PortoCanal.pt" group-title="Channels",PORTO CANAL
+http://topstb.com:8000/50656250782258/27115840859269/199256
+#EXTINF:0 tvg-id="ext" group-title="Channels",PORTO CANAL HD
+http://topstb.com:8000/50656250782258/27115840859269/199255
+#EXTINF:0 tvg-id="SicCaras.pt" group-title="Channels",SIC CARAS
+http://topstb.com:8000/50656250782258/27115840859269/199254
+#EXTINF:0 tvg-id="ext" group-title="Channels",SIC CARAS HD
+http://topstb.com:8000/50656250782258/27115840859269/199253
+#EXTINF:0 tvg-id="CanalQ.pt" group-title="Channels",CANAL Q
+http://topstb.com:8000/50656250782258/27115840859269/199252
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV ZIMBO
+http://topstb.com:8000/50656250782258/27115840859269/199251
+#EXTINF:0 tvg-id="ext" group-title="Channels",ZAP VIVA LOW
+http://topstb.com:8000/50656250782258/27115840859269/199250
+#EXTINF:0 tvg-id="zapvivahd.pt" group-title="Channels",Zap Viva HD
+http://topstb.com:8000/50656250782258/27115840859269/199249
+#EXTINF:0 tvg-id="zapvivahd.pt" group-title="Channels",ZAP VIVA FHD
+http://topstb.com:8000/50656250782258/27115840859269/199248
+#EXTINF:0 tvg-id="TVIFiccao.pt" group-title="Channels",TVI FICCAO
+http://topstb.com:8000/50656250782258/27115840859269/199247
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVI FICCAO HD
+http://topstb.com:8000/50656250782258/27115840859269/199246
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBB21-MOSAICO
+http://topstb.com:8000/50656250782258/27115840859269/199245
+#EXTINF:0 tvg-id="ext" group-title="Channels",BBB-21
+http://topstb.com:8000/50656250782258/27115840859269/199244
+#EXTINF:0 tvg-id="TVIReal.pt" group-title="Channels",TVI REALITY
+http://topstb.com:8000/50656250782258/27115840859269/199243
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVI Reality HD
+http://topstb.com:8000/50656250782258/27115840859269/199242
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVI REALITY EXCLUSIVO
+http://topstb.com:8000/50656250782258/27115840859269/199241
+#EXTINF:0 tvg-id="TVIReal.pt" group-title="Channels",TVI REALITY MOSAICO
+http://topstb.com:8000/50656250782258/27115840859269/199240
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVI REALITY  CAM1
+http://topstb.com:8000/50656250782258/27115840859269/199239
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVI REALITY CAM2
+http://topstb.com:8000/50656250782258/27115840859269/199238
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVI REALITY CAM3
+http://topstb.com:8000/50656250782258/27115840859269/199237
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVI REALITY CAM4
+http://topstb.com:8000/50656250782258/27115840859269/199236
+#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Channels",RTP Africa
+http://topstb.com:8000/50656250782258/27115840859269/199235
+#EXTINF:0 tvg-id="RTPMadeira.pt" group-title="Channels",RTP MADEIRA
+http://topstb.com:8000/50656250782258/27115840859269/199234
+#EXTINF:0 tvg-id="RTPAcores.pt" group-title="Channels",RTP Acores
+http://topstb.com:8000/50656250782258/27115840859269/199233
+#EXTINF:0 tvg-id="ext" group-title="Channels",SIC Mulher LOW
+http://topstb.com:8000/50656250782258/27115840859269/199232
+#EXTINF:0 tvg-id="sicmulher.pt" group-title="Channels",SIC MULHER
+http://topstb.com:8000/50656250782258/27115840859269/199231
+#EXTINF:0 tvg-id="sicmulher.pt" group-title="Channels",SIC MULHER HD
+http://topstb.com:8000/50656250782258/27115840859269/199230
+#EXTINF:0 tvg-id="sicradical.pt" group-title="Channels",SIC RADICAL
+http://topstb.com:8000/50656250782258/27115840859269/199229
+#EXTINF:0 tvg-id="sicradical.pt" group-title="Channels",SIC RADICAL HD
+http://topstb.com:8000/50656250782258/27115840859269/199228
+#EXTINF:0 tvg-id="TVRecord.es" group-title="Channels",TV RECORD
+http://topstb.com:8000/50656250782258/27115840859269/199227
+#EXTINF:0 tvg-id="tvrecord.pt" group-title="Channels",TV RECORD HD
+http://topstb.com:8000/50656250782258/27115840859269/199226
+#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO LOW
+http://topstb.com:8000/50656250782258/27115840859269/199225
+#EXTINF:0 tvg-id="TVGlobo.mx" group-title="Channels",TV GLOBO
+http://topstb.com:8000/50656250782258/27115840859269/199224
+#EXTINF:0 tvg-id="TVGlobo.pt" group-title="Channels",TV GLOBO HD
+http://topstb.com:8000/50656250782258/27115840859269/199223
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV GLOBO NOW
+http://topstb.com:8000/50656250782258/27115840859269/199222
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globo Now HD
+http://topstb.com:8000/50656250782258/27115840859269/199221
+#EXTINF:0 tvg-id="ext" group-title="Channels",WRC
+http://topstb.com:8000/50656250782258/27115840859269/199220
+#EXTINF:0 tvg-id="ext" group-title="Channels",WRC MOMENTS HD
+http://topstb.com:8000/50656250782258/27115840859269/199219
+#EXTINF:0 tvg-id="ext" group-title="Channels",A Bola TV LOW
+http://topstb.com:8000/50656250782258/27115840859269/199218
+#EXTINF:0 tvg-id="ABolaTV.pt" group-title="Channels",A BOLA TV
+http://topstb.com:8000/50656250782258/27115840859269/199217
+#EXTINF:0 tvg-id="ext" group-title="Channels",A BOLA TV HD
+http://topstb.com:8000/50656250782258/27115840859269/199216
+#EXTINF:0 tvg-id="Canal11.pt" group-title="Channels",CANAL 11 HD
+http://topstb.com:8000/50656250782258/27115840859269/199215
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV + LOW
+http://topstb.com:8000/50656250782258/27115840859269/199214
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",SPORT TV +
+http://topstb.com:8000/50656250782258/27115840859269/199213
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",SPORT TV +  HD
+http://topstb.com:8000/50656250782258/27115840859269/199212
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTV + FHD
+http://topstb.com:8000/50656250782258/27115840859269/199211
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 1 LOW
+http://topstb.com:8000/50656250782258/27115840859269/199210
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 1 HD 1Mb
+http://topstb.com:8000/50656250782258/27115840859269/199209
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1
+http://topstb.com:8000/50656250782258/27115840859269/199208
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1 HD
+http://topstb.com:8000/50656250782258/27115840859269/199207
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",Sport TV 1 FHD
+http://topstb.com:8000/50656250782258/27115840859269/199206
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 1 UHD
+http://topstb.com:8000/50656250782258/27115840859269/199205
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 2 LOW
+http://topstb.com:8000/50656250782258/27115840859269/199204
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2
+http://topstb.com:8000/50656250782258/27115840859269/199203
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2 HD
+http://topstb.com:8000/50656250782258/27115840859269/199202
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2 FHD
+http://topstb.com:8000/50656250782258/27115840859269/199201
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 3 LOW
+http://topstb.com:8000/50656250782258/27115840859269/199200
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",SPORT TV 3
+http://topstb.com:8000/50656250782258/27115840859269/199199
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",SPORT TV 3 HD
+http://topstb.com:8000/50656250782258/27115840859269/199198
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",SPORT TV 3 FHD
+http://topstb.com:8000/50656250782258/27115840859269/199197
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",SPORT TV 4
+http://topstb.com:8000/50656250782258/27115840859269/199196
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",SPORT TV 4 HD
+http://topstb.com:8000/50656250782258/27115840859269/199195
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",SPORT TV 4 FHD
+http://topstb.com:8000/50656250782258/27115840859269/199194
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",SPORT TV 5
+http://topstb.com:8000/50656250782258/27115840859269/199193
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",SPORT TV 5 HD
+http://topstb.com:8000/50656250782258/27115840859269/199192
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",SPORT TV 5 FHD
+http://topstb.com:8000/50656250782258/27115840859269/199191
+#EXTINF:0 tvg-id="SportTV6.pt" group-title="Channels",SPORT TV 6 HD
+http://topstb.com:8000/50656250782258/27115840859269/199190
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV NBA
+http://topstb.com:8000/50656250782258/27115840859269/199189
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport TV NBA HD
+http://topstb.com:8000/50656250782258/27115840859269/199188
+#EXTINF:0 tvg-id="ext" group-title="Channels",BTV LOW
+http://topstb.com:8000/50656250782258/27115840859269/199187
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",BTV 1
+http://topstb.com:8000/50656250782258/27115840859269/199186
+#EXTINF:0 tvg-id="baltijos-lt" group-title="Channels",BTV HD
+http://topstb.com:8000/50656250782258/27115840859269/199185
+#EXTINF:0 tvg-id="ext" group-title="Channels",BTV HD 1Mb
+http://topstb.com:8000/50656250782258/27115840859269/199184
+#EXTINF:0 tvg-id="ext" group-title="Channels",BTV UHD
+http://topstb.com:8000/50656250782258/27115840859269/199183
+#EXTINF:0 tvg-id="baltijos-lt" group-title="Channels",BTV FHD
+http://topstb.com:8000/50656250782258/27115840859269/199182
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 1 LOW
+http://topstb.com:8000/50656250782258/27115840859269/199181
+#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Channels",ELEVEN SPORTS 1
+http://topstb.com:8000/50656250782258/27115840859269/199180
+#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Channels",ELEVEN SPORTS 1 HD
+http://topstb.com:8000/50656250782258/27115840859269/199179
+#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Channels",ELEVEN SPORTS 1 FHD
+http://topstb.com:8000/50656250782258/27115840859269/199178
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 1 UHD
+http://topstb.com:8000/50656250782258/27115840859269/199177
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 2 LOW
+http://topstb.com:8000/50656250782258/27115840859269/199176
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Channels",ELEVEN SPORTS 2
+http://topstb.com:8000/50656250782258/27115840859269/199175
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Channels",ELEVEN SPORTS 2 HD
+http://topstb.com:8000/50656250782258/27115840859269/199174
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Channels",ELEVEN SPORTS 2 FHD
+http://topstb.com:8000/50656250782258/27115840859269/199173
+#EXTINF:0 tvg-id="ElevenSports3.pl" group-title="Channels",ELEVEN SPORTS 3
+http://topstb.com:8000/50656250782258/27115840859269/199172
+#EXTINF:0 tvg-id="ElevenSports3.pl" group-title="Channels",ELEVEN SPORTS 3 HD
+http://topstb.com:8000/50656250782258/27115840859269/199171
+#EXTINF:0 tvg-id="elevensports4.pt" group-title="Channels",ELEVEN SPORTS 4
+http://topstb.com:8000/50656250782258/27115840859269/199170
+#EXTINF:0 tvg-id="ElevenSports4.pl" group-title="Channels",ELEVEN SPORTS 4 HD
+http://topstb.com:8000/50656250782258/27115840859269/199169
+#EXTINF:0 tvg-id="elevensports5.pt" group-title="Channels",ELEVEN SPORTS 5
+http://topstb.com:8000/50656250782258/27115840859269/199168
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 5 HD
+http://topstb.com:8000/50656250782258/27115840859269/199167
+#EXTINF:0 tvg-id="elevensports6.pt" group-title="Channels",ELEVEN SPORTS 6
+http://topstb.com:8000/50656250782258/27115840859269/199166
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 6 LOW
+http://topstb.com:8000/50656250782258/27115840859269/199165
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 6 HD
+http://topstb.com:8000/50656250782258/27115840859269/199164
+#EXTINF:0 tvg-id="pfc.pt" group-title="Channels",PFC
+http://topstb.com:8000/50656250782258/27115840859269/199163
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",SPORTING TV
+http://topstb.com:8000/50656250782258/27115840859269/199162
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",SPORTING TV HD
+http://topstb.com:8000/50656250782258/27115840859269/199161
+#EXTINF:0 tvg-id="esp" group-title="Channels",EUROSPORT 1
+http://topstb.com:8000/50656250782258/27115840859269/199160
+#EXTINF:0 tvg-id="esp-hd" group-title="Channels",EUROSPORT 1 HD
+http://topstb.com:8000/50656250782258/27115840859269/199159
+#EXTINF:0 tvg-id="esp2" group-title="Channels",EUROSPORT 2
+http://topstb.com:8000/50656250782258/27115840859269/199158
+#EXTINF:0 tvg-id="esp2" group-title="Channels",EUROSPORT 2 HD
+http://topstb.com:8000/50656250782258/27115840859269/199157
+#EXTINF:0 tvg-id="ExtremeSports.uk" group-title="Channels",Extreme Sport
+http://topstb.com:8000/50656250782258/27115840859269/199156
+#EXTINF:0 tvg-id="ext" group-title="Channels",MEO Videoclube
+http://topstb.com:8000/50656250782258/27115840859269/199155
+#EXTINF:0 tvg-id="ext" group-title="Channels",MEO Destaques
+http://topstb.com:8000/50656250782258/27115840859269/199154
+#EXTINF:0 tvg-id="Gametoon.pl" group-title="Channels",Gametoon HD
+http://topstb.com:8000/50656250782258/27115840859269/199153
+#EXTINF:0 tvg-id="ext" group-title="Channels",NETFLIX HD
+http://topstb.com:8000/50656250782258/27115840859269/199152
+#EXTINF:0 tvg-id="HBO.hu" group-title="Channels",HBO HD
+http://topstb.com:8000/50656250782258/27115840859269/199151
+#EXTINF:0 tvg-id="ext" group-title="Channels",OPTO
+http://topstb.com:8000/50656250782258/27115840859269/199150
+#EXTINF:0 tvg-id="ext" group-title="Channels",STAR + HD
+http://topstb.com:8000/50656250782258/27115840859269/199149
+#EXTINF:0 tvg-id="ext" group-title="Channels",DIZI CHANNEL
+http://topstb.com:8000/50656250782258/27115840859269/199148
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISNEY +
+http://topstb.com:8000/50656250782258/27115840859269/199147
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISNEY MARVEL
+http://topstb.com:8000/50656250782258/27115840859269/199146
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISNEY PIXAR
+http://topstb.com:8000/50656250782258/27115840859269/199145
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISNEY STAR WARS
+http://topstb.com:8000/50656250782258/27115840859269/199144
+#EXTINF:0 tvg-id="ext" group-title="Channels",LOLLY KIDS HD
+http://topstb.com:8000/50656250782258/27115840859269/199143
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV CINE + HD
+http://topstb.com:8000/50656250782258/27115840859269/199142
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Cine TOP LOW
+http://topstb.com:8000/50656250782258/27115840859269/199141
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE TOP
+http://topstb.com:8000/50656250782258/27115840859269/199140
+#EXTINF:0 tvg-id="TVCineTOP.pt" group-title="Channels",TVCINE TOP HD
+http://topstb.com:8000/50656250782258/27115840859269/199139
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Cine Edition LOW
+http://topstb.com:8000/50656250782258/27115840859269/199138
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE EDTION
+http://topstb.com:8000/50656250782258/27115840859269/199137
+#EXTINF:0 tvg-id="TVCineEDITION.pt" group-title="Channels",TVCINE EDITION HD
+http://topstb.com:8000/50656250782258/27115840859269/199136
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Cine Emotion LOW
+http://topstb.com:8000/50656250782258/27115840859269/199135
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE EMOTION
+http://topstb.com:8000/50656250782258/27115840859269/199134
+#EXTINF:0 tvg-id="TVCineEMOTION.pt" group-title="Channels",TVCINE EMOTION HD
+http://topstb.com:8000/50656250782258/27115840859269/199133
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE ACTION LOW
+http://topstb.com:8000/50656250782258/27115840859269/199132
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE ACTION
+http://topstb.com:8000/50656250782258/27115840859269/199131
+#EXTINF:0 tvg-id="TVCineACTION.pt" group-title="Channels",TVCINE ACTION HD
+http://topstb.com:8000/50656250782258/27115840859269/199130
+#EXTINF:0 tvg-id="ext" group-title="Channels",NOS STUDIOS LOW
+http://topstb.com:8000/50656250782258/27115840859269/199129
+#EXTINF:0 tvg-id="NOSStudios.pt" group-title="Channels",NOS STUDIOS
+http://topstb.com:8000/50656250782258/27115840859269/199128
+#EXTINF:0 tvg-id="ext" group-title="Channels",NOS STUDIOS HD
+http://topstb.com:8000/50656250782258/27115840859269/199127
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL NOS HD
+http://topstb.com:8000/50656250782258/27115840859269/199126
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINEMUNDO LOW
+http://topstb.com:8000/50656250782258/27115840859269/199125
+#EXTINF:0 tvg-id="Cinemundo.pt" group-title="Channels",CINEMUNDO
+http://topstb.com:8000/50656250782258/27115840859269/199124
+#EXTINF:0 tvg-id="Cinemundo.pt" group-title="Channels",CINEMUNDO HD
+http://topstb.com:8000/50656250782258/27115840859269/199123
+#EXTINF:0 tvg-id="ext" group-title="Channels",HOLLYWOOD LOW
+http://topstb.com:8000/50656250782258/27115840859269/199122
+#EXTINF:0 tvg-id="hollywood" group-title="Channels",HOLLYWOOD
+http://topstb.com:8000/50656250782258/27115840859269/199121
+#EXTINF:0 tvg-id="hollywood-hd" group-title="Channels",HOLLYWOOD HD
+http://topstb.com:8000/50656250782258/27115840859269/199120
+#EXTINF:0 tvg-id="mgm-int" group-title="Channels",AMC
+http://topstb.com:8000/50656250782258/27115840859269/199119
+#EXTINF:0 tvg-id="AMC.uk" group-title="Channels",AMC HD
+http://topstb.com:8000/50656250782258/27115840859269/199118
+#EXTINF:0 tvg-id="ext" group-title="Channels",AXN LOW
+http://topstb.com:8000/50656250782258/27115840859269/199117
+#EXTINF:0 tvg-id="AXN.bg" group-title="Channels",AXN
+http://topstb.com:8000/50656250782258/27115840859269/199116
+#EXTINF:0 tvg-id="AXN.it" group-title="Channels",AXN HD
+http://topstb.com:8000/50656250782258/27115840859269/199115
+#EXTINF:0 tvg-id="ext" group-title="Channels",AXN WHITE LOW
+http://topstb.com:8000/50656250782258/27115840859269/199114
+#EXTINF:0 tvg-id="AXNWhite.pt" group-title="Channels",AXN WHITE
+http://topstb.com:8000/50656250782258/27115840859269/199113
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="Channels",AXN WHITE HD
+http://topstb.com:8000/50656250782258/27115840859269/199112
+#EXTINF:0 tvg-id="ext" group-title="Channels",AXN MOVIES LOW
+http://topstb.com:8000/50656250782258/27115840859269/199111
+#EXTINF:0 tvg-id="ext" group-title="Channels",AXN MOVIES HD
+http://topstb.com:8000/50656250782258/27115840859269/199110
+#EXTINF:0 tvg-id="Fox.mx" group-title="Channels",FOX LOW
+http://topstb.com:8000/50656250782258/27115840859269/199109
+#EXTINF:0 tvg-id="fox-crime" group-title="Channels",FOX
+http://topstb.com:8000/50656250782258/27115840859269/199108
+#EXTINF:0 tvg-id="fox-hd" group-title="Channels",FOX HD
+http://topstb.com:8000/50656250782258/27115840859269/199107
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX CRIME LOW
+http://topstb.com:8000/50656250782258/27115840859269/199106
+#EXTINF:0 tvg-id="fox-crime" group-title="Channels",FOX CRIME
+http://topstb.com:8000/50656250782258/27115840859269/199105
+#EXTINF:0 tvg-id="fox-crime" group-title="Channels",FOX CRIME HD
+http://topstb.com:8000/50656250782258/27115840859269/199104
+#EXTINF:0 tvg-id="FoxComedy.it" group-title="Channels",FOX COMEDY
+http://topstb.com:8000/50656250782258/27115840859269/199103
+#EXTINF:0 tvg-id="FoxComedy.it" group-title="Channels",FOX COMEDY HD
+http://topstb.com:8000/50656250782258/27115840859269/199102
+#EXTINF:0 tvg-id="fox-life" group-title="Channels",FOX LIFE
+http://topstb.com:8000/50656250782258/27115840859269/199101
+#EXTINF:0 tvg-id="fox-life-hd" group-title="Channels",FOX LIFE HD
+http://topstb.com:8000/50656250782258/27115840859269/199100
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX MOVIES LOW
+http://topstb.com:8000/50656250782258/27115840859269/199099
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",FOX MOVIES
+http://topstb.com:8000/50656250782258/27115840859269/199098
+#EXTINF:0 tvg-id="FOXmovies.svn" group-title="Channels",FOX MOVIES HD
+http://topstb.com:8000/50656250782258/27115840859269/199097
+
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",***MARVEL PLUS***
+http://topstb.com:8000/50656250782258/27115840859269/199096
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="MARVEL PLUS",SYFY
+http://topstb.com:8000/50656250782258/27115840859269/199095
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="MARVEL PLUS",SYFY HD
+http://topstb.com:8000/50656250782258/27115840859269/199094
+#EXTINF:0 tvg-id="disney" group-title="MARVEL PLUS",DISNEY CHANNEL
+http://topstb.com:8000/50656250782258/27115840859269/199093
+#EXTINF:0 tvg-id="DisneyJr.blt" group-title="MARVEL PLUS",DISNEY JUNIOR
+http://topstb.com:8000/50656250782258/27115840859269/199092
+#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="MARVEL PLUS",PANDA BIGGS
+http://topstb.com:8000/50656250782258/27115840859269/199091
+#EXTINF:0 tvg-id="PandaKIDS.pt" group-title="MARVEL PLUS",PANDA KIDS
+http://topstb.com:8000/50656250782258/27115840859269/199090
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",CANAL PANDA LOW
+http://topstb.com:8000/50656250782258/27115840859269/199089
+#EXTINF:0 tvg-id="canalpanda.pt" group-title="MARVEL PLUS",CANAL PANDA
+http://topstb.com:8000/50656250782258/27115840859269/199088
+#EXTINF:0 tvg-id="SicK.pt" group-title="MARVEL PLUS",Sic Kids
+http://topstb.com:8000/50656250782258/27115840859269/199087
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",Sic Kids HD
+http://topstb.com:8000/50656250782258/27115840859269/199086
+#EXTINF:0 tvg-id="cartoon" group-title="MARVEL PLUS",CARTOON  NETWORK
+http://topstb.com:8000/50656250782258/27115840859269/199085
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="MARVEL PLUS",NICKELODEON
+http://topstb.com:8000/50656250782258/27115840859269/199084
+#EXTINF:0 tvg-id="nick-jr" group-title="MARVEL PLUS",Nick Junior
+http://topstb.com:8000/50656250782258/27115840859269/199083
+#EXTINF:0 tvg-id="jimjam" group-title="MARVEL PLUS",JIM JAM
+http://topstb.com:8000/50656250782258/27115840859269/199082
+#EXTINF:0 tvg-id="baby-tv" group-title="MARVEL PLUS",BABY TV
+http://topstb.com:8000/50656250782258/27115840859269/199081
+#EXTINF:0 tvg-id="boomerang" group-title="MARVEL PLUS",BOOMERANG
+http://topstb.com:8000/50656250782258/27115840859269/199080
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",Kuriakos tv Kids HD
+http://topstb.com:8000/50656250782258/27115840859269/199079
+#EXTINF:0 tvg-id="NASATV.us" group-title="MARVEL PLUS",NASA TV HD
+http://topstb.com:8000/50656250782258/27115840859269/199078
+#EXTINF:0 tvg-id="natgeowild" group-title="MARVEL PLUS",National Geographic wild
+http://topstb.com:8000/50656250782258/27115840859269/199077
+#EXTINF:0 tvg-id="wild-hd" group-title="MARVEL PLUS",National Geographic wild HD
+http://topstb.com:8000/50656250782258/27115840859269/199076
+#EXTINF:0 tvg-id="natgeo" group-title="MARVEL PLUS",National Geographic
+http://topstb.com:8000/50656250782258/27115840859269/199075
+#EXTINF:0 tvg-id="natgeo_hd" group-title="MARVEL PLUS",National geographic HD
+http://topstb.com:8000/50656250782258/27115840859269/199074
+#EXTINF:0 tvg-id="discov_rus" group-title="MARVEL PLUS",Discovery Channel
+http://topstb.com:8000/50656250782258/27115840859269/199073
+#EXTINF:0 tvg-id="discov_rus-hd" group-title="MARVEL PLUS",DISCOVERY CHANNEL HD
+http://topstb.com:8000/50656250782258/27115840859269/199072
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",ID Investigation Discovery HD
+http://topstb.com:8000/50656250782258/27115840859269/199071
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",Crime Investigacao
+http://topstb.com:8000/50656250782258/27115840859269/199070
+#EXTINF:0 tvg-id="travel-hd" group-title="MARVEL PLUS",TRAVEL CHANNEL HD
+http://topstb.com:8000/50656250782258/27115840859269/199069
+#EXTINF:0 tvg-id="odisseia.pt" group-title="MARVEL PLUS",ODISSEIA
+http://topstb.com:8000/50656250782258/27115840859269/199068
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",ODISSEIA HD
+http://topstb.com:8000/50656250782258/27115840859269/199067
+#EXTINF:0 tvg-id="History.uk" group-title="MARVEL PLUS",HISTORIA
+http://topstb.com:8000/50656250782258/27115840859269/199066
+#EXTINF:0 tvg-id="Historia.es" group-title="MARVEL PLUS",HISTORIA HD
+http://topstb.com:8000/50656250782258/27115840859269/199065
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",KURIAKOS TV
+http://topstb.com:8000/50656250782258/27115840859269/199064
+#EXTINF:0 tvg-id="tlc-russia" group-title="MARVEL PLUS",TLC
+http://topstb.com:8000/50656250782258/27115840859269/199063
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",CASA COZINHA HD
+http://topstb.com:8000/50656250782258/27115840859269/199062
+#EXTINF:0 tvg-id="24Kitchen.svn" group-title="MARVEL PLUS",24 KITCHEN
+http://topstb.com:8000/50656250782258/27115840859269/199061
+#EXTINF:0 tvg-id="24Kitchen.pt" group-title="MARVEL PLUS",24 KITCHEN HD
+http://topstb.com:8000/50656250782258/27115840859269/199060
+#EXTINF:0 tvg-id="food-network-rus" group-title="MARVEL PLUS",FOOD NETWORK
+http://topstb.com:8000/50656250782258/27115840859269/199059
+#EXTINF:0 tvg-id="E.blt" group-title="MARVEL PLUS",E! ENTERTAINMENT
+http://topstb.com:8000/50656250782258/27115840859269/199058
+#EXTINF:0 tvg-id="E!.pl" group-title="MARVEL PLUS",E! ENTERTAINMENT HD
+http://topstb.com:8000/50656250782258/27115840859269/199057
+#EXTINF:0 tvg-id="fashion" group-title="MARVEL PLUS",FASHION TV
+http://topstb.com:8000/50656250782258/27115840859269/199056
+#EXTINF:0 tvg-id="Maschic.mx" group-title="MARVEL PLUS",MAS CHIC
+http://topstb.com:8000/50656250782258/27115840859269/199055
+#EXTINF:0 tvg-id="DogTV354.us" group-title="MARVEL PLUS",DOG TV
+http://topstb.com:8000/50656250782258/27115840859269/199054
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",FUEL HD
+http://topstb.com:8000/50656250782258/27115840859269/199053
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="MARVEL PLUS",FUEL TV HD
+http://topstb.com:8000/50656250782258/27115840859269/199052
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",Red Bull
+http://topstb.com:8000/50656250782258/27115840859269/199051
+#EXTINF:0 tvg-id="cazaepesca.pt" group-title="MARVEL PLUS",Caca & Pesca
+http://topstb.com:8000/50656250782258/27115840859269/199050
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",CACA & PESCA HD
+http://topstb.com:8000/50656250782258/27115840859269/199049
+#EXTINF:0 tvg-id="CacaVision.pt" group-title="MARVEL PLUS",Cacavision
+http://topstb.com:8000/50656250782258/27115840859269/199048
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",CAMPO PEQUENO TV HD
+http://topstb.com:8000/50656250782258/27115840859269/199047
+#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="MARVEL PLUS",TOROS TV
+http://topstb.com:8000/50656250782258/27115840859269/199046
+#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="MARVEL PLUS",Toros TV HD
+http://topstb.com:8000/50656250782258/27115840859269/199045
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",RTP 1 HD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199044
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",RTP 1 FHD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199043
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",RTP 2 HD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199042
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",SIC HD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199041
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",SIC FHD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199040
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",TVI HD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199039
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",TVI FHD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199038
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",SIC NOTICIAS HD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199037
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",CNN PORTUGAL HD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199036
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",CMTV HD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199035
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",CMTV FHD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199034
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",SIC CARAS HD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199033
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",TVI FICCAO HD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199032
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",SIC RADICAL HD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199031
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",GLOBO HD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199030
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",A BOLA HD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199029
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",SPORT TV + HD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199028
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",SPORT TV 1 HD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199027
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",SPORT TV 1 FHD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199026
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",SPORT TV 2 HD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199025
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",SPORT TV 2 FHD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199024
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",SPORT TV 3 HD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199023
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",SPORT TV 4 HD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199022
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",SPORT TV 5 HD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199021
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",SPORT TV NBA HD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199020
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",BTV HD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199019
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",BTV FHD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199018
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",ELEVEN SPORTS 1 HD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199017
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",ELEVEN SPORTS 1 FHD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199016
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",ELEVEN SPORTS 2 HD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199015
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",ELEVEN SPORTS 2 FHD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199014
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",SPORT TV 6 HD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199013
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",TVCINE TOP HD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199012
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",TVCINE TOP FHD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199011
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",TVCINE EDITION HD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199010
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",TVCINE EDITION FHD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199009
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",TVCINE ACTION HD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199008
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",TVCINE ACTION FHD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199007
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",TVCINE EMOTION HD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199006
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",NOS STUDIOS ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199005
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",CINEMUNDO ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199004
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",HOLLYWOOD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199003
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",AXN HD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199002
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",AXN FHD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199001
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",AXN MOVIES HD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/199000
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",FOX HD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/198999
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",FOX FHD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/198998
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",FOX CRIME HD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/198997
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",FOX COMEDY HD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/198996
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",FOX MOVIES HD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/198995
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",SIC KIDS HD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/198994
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",National geographic ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/198993
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",CASA COZINHA ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/198992
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",AMC HD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/198991
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",AXN WHITE HD ᴴᵉᵛᶜ
+http://topstb.com:8000/50656250782258/27115840859269/198990
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",Coronavirus (COVID-19)
+http://topstb.com:8000/50656250782258/27115840859269/93528
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - RTP 1 Full HD
+http://topstb.com:8000/50656250782258/27115840859269/79021
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - SIC MULHER HD
+http://topstb.com:8000/50656250782258/27115840859269/79022
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - SIC Full HD
+http://topstb.com:8000/50656250782258/27115840859269/79023
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - SIC RADICAL Full HD
+http://topstb.com:8000/50656250782258/27115840859269/79024
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - TVI Full HD
+http://topstb.com:8000/50656250782258/27115840859269/79025
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - 24 KITCHEN HD
+http://topstb.com:8000/50656250782258/27115840859269/79026
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - A&E
+http://topstb.com:8000/50656250782258/27115840859269/79027
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - AFRO TV
+http://topstb.com:8000/50656250782258/27115840859269/79029
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - AMC
+http://topstb.com:8000/50656250782258/27115840859269/79030
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - AXN BLACK HD
+http://topstb.com:8000/50656250782258/27115840859269/79032
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - AXN HD
+http://topstb.com:8000/50656250782258/27115840859269/79033
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - AXN WHITE HD
+http://topstb.com:8000/50656250782258/27115840859269/79034
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - BABY TV
+http://topstb.com:8000/50656250782258/27115840859269/79036
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - BBC ENTRAITEMENT
+http://topstb.com:8000/50656250782258/27115840859269/79037
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - BTV 1
+http://topstb.com:8000/50656250782258/27115840859269/79040
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - BTV 1 HD
+http://topstb.com:8000/50656250782258/27115840859269/79041
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - CASA E PESCA
+http://topstb.com:8000/50656250782258/27115840859269/79042
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - CACAVISION
+http://topstb.com:8000/50656250782258/27115840859269/79043
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - CANAL HISTORIA
+http://topstb.com:8000/50656250782258/27115840859269/79044
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - CANAL PANDA
+http://topstb.com:8000/50656250782258/27115840859269/79045
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - CANAL Q
+http://topstb.com:8000/50656250782258/27115840859269/79046
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - CANCAO NOVA
+http://topstb.com:8000/50656250782258/27115840859269/79047
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - CARTOON NETWORK
+http://topstb.com:8000/50656250782258/27115840859269/79048
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - CBS REALITY
+http://topstb.com:8000/50656250782258/27115840859269/79049
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - CINEMUNDO
+http://topstb.com:8000/50656250782258/27115840859269/79050
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - CM TV
+http://topstb.com:8000/50656250782258/27115840859269/79051
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - DISCOVERY CHANNEL
+http://topstb.com:8000/50656250782258/27115840859269/79054
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - DISNEY CHANNEL
+http://topstb.com:8000/50656250782258/27115840859269/79056
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - DISNEY JUNIOR
+http://topstb.com:8000/50656250782258/27115840859269/79057
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - E! ENTERTAINMENT
+http://topstb.com:8000/50656250782258/27115840859269/79058
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - EUROSPORT 1
+http://topstb.com:8000/50656250782258/27115840859269/79060
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - EUROSPORT 2
+http://topstb.com:8000/50656250782258/27115840859269/79061
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - EUROSPORT 1 HD
+http://topstb.com:8000/50656250782258/27115840859269/79062
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - DISCOVERY INVESTIGATION HD
+http://topstb.com:8000/50656250782258/27115840859269/79063
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - FASHION TV
+http://topstb.com:8000/50656250782258/27115840859269/79064
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - FOX COMEDY
+http://topstb.com:8000/50656250782258/27115840859269/79065
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - FOX CRIME
+http://topstb.com:8000/50656250782258/27115840859269/79066
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - FOX HD
+http://topstb.com:8000/50656250782258/27115840859269/79067
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - FOX LIFE
+http://topstb.com:8000/50656250782258/27115840859269/79068
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - FOX MOVIES
+http://topstb.com:8000/50656250782258/27115840859269/79069
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - FUEL TV
+http://topstb.com:8000/50656250782258/27115840859269/79071
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - GLOBO
+http://topstb.com:8000/50656250782258/27115840859269/79072
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - GLOBO INTERNACIONAL
+http://topstb.com:8000/50656250782258/27115840859269/79073
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - GLOBO HD
+http://topstb.com:8000/50656250782258/27115840859269/79074
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - HOLLYWOOD
+http://topstb.com:8000/50656250782258/27115840859269/79075
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - HOLLYWOOD HD
+http://topstb.com:8000/50656250782258/27115840859269/79076
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - JIM JAM
+http://topstb.com:8000/50656250782258/27115840859269/79078
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - MCM POP
+http://topstb.com:8000/50656250782258/27115840859269/79080
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - MEZZO HD
+http://topstb.com:8000/50656250782258/27115840859269/79082
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - MOTORS TV
+http://topstb.com:8000/50656250782258/27115840859269/79083
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - MOTORVISION
+http://topstb.com:8000/50656250782258/27115840859269/79084
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - MTV (PT)
+http://topstb.com:8000/50656250782258/27115840859269/79085
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - NAT GEO WILD
+http://topstb.com:8000/50656250782258/27115840859269/79086
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - NAT. GEOGRAPHIC HD
+http://topstb.com:8000/50656250782258/27115840859269/79087
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - NBA HD
+http://topstb.com:8000/50656250782258/27115840859269/79088
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - NICKELODEON
+http://topstb.com:8000/50656250782258/27115840859269/79089
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - ODISSEIA
+http://topstb.com:8000/50656250782258/27115840859269/79090
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - PANDA BIGGS
+http://topstb.com:8000/50656250782258/27115840859269/79091
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - PFC
+http://topstb.com:8000/50656250782258/27115840859269/79092
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - PORTO CANAL
+http://topstb.com:8000/50656250782258/27115840859269/79094
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - RTP 1
+http://topstb.com:8000/50656250782258/27115840859269/79095
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - RTP 2
+http://topstb.com:8000/50656250782258/27115840859269/79096
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - RTP 3
+http://topstb.com:8000/50656250782258/27115840859269/79097
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - RTP ACORES
+http://topstb.com:8000/50656250782258/27115840859269/79098
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - RTP AFRICA
+http://topstb.com:8000/50656250782258/27115840859269/79099
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - RTP MADEIRA
+http://topstb.com:8000/50656250782258/27115840859269/79101
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - RTP MEMORIA
+http://topstb.com:8000/50656250782258/27115840859269/79102
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - SIC
+http://topstb.com:8000/50656250782258/27115840859269/79104
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - SIC CARAS
+http://topstb.com:8000/50656250782258/27115840859269/79105
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - SIC K
+http://topstb.com:8000/50656250782258/27115840859269/79106
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - SIC MULHER
+http://topstb.com:8000/50656250782258/27115840859269/79107
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - SIC NOTICIAS
+http://topstb.com:8000/50656250782258/27115840859269/79108
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - SIC RADICAL
+http://topstb.com:8000/50656250782258/27115840859269/79109
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - KURIAKOS TV HD
+http://topstb.com:8000/50656250782258/27115840859269/79110
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - SPORT TV 4K UHD
+http://topstb.com:8000/50656250782258/27115840859269/79112
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - SPORTING TV
+http://topstb.com:8000/50656250782258/27115840859269/79113
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - SPORT TV
+http://topstb.com:8000/50656250782258/27115840859269/79114
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - SPORTTV 1 HD
+http://topstb.com:8000/50656250782258/27115840859269/79115
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - SPORTV 1
+http://topstb.com:8000/50656250782258/27115840859269/79116
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - SPORTV 2
+http://topstb.com:8000/50656250782258/27115840859269/79117
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - SPORTV 2 HD
+http://topstb.com:8000/50656250782258/27115840859269/79118
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - SPORTV 3
+http://topstb.com:8000/50656250782258/27115840859269/79119
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - SPORTV 3 HD
+http://topstb.com:8000/50656250782258/27115840859269/79120
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - SPORTV 4
+http://topstb.com:8000/50656250782258/27115840859269/79121
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - SPORTV 5
+http://topstb.com:8000/50656250782258/27115840859269/79122
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - SYFY
+http://topstb.com:8000/50656250782258/27115840859269/79123
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - TLC
+http://topstb.com:8000/50656250782258/27115840859269/79124
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - TOROS HD
+http://topstb.com:8000/50656250782258/27115840859269/79125
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - TOROS TV
+http://topstb.com:8000/50656250782258/27115840859269/79126
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - TPA
+http://topstb.com:8000/50656250782258/27115840859269/79127
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - TRACE URBAN
+http://topstb.com:8000/50656250782258/27115840859269/79128
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - TV RECORD
+http://topstb.com:8000/50656250782258/27115840859269/79130
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - TV SERIES HD
+http://topstb.com:8000/50656250782258/27115840859269/79132
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - TVCINE TOP
+http://topstb.com:8000/50656250782258/27115840859269/79133
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - TVCINE TOP HD
+http://topstb.com:8000/50656250782258/27115840859269/79134
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - TVCINE EDITION
+http://topstb.com:8000/50656250782258/27115840859269/79135
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - TVCINE EDITION HD
+http://topstb.com:8000/50656250782258/27115840859269/79136
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - TVCINE EMOTION
+http://topstb.com:8000/50656250782258/27115840859269/79137
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - TVCINE EMOTION HD
+http://topstb.com:8000/50656250782258/27115840859269/79138
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - TVCINE ACTION
+http://topstb.com:8000/50656250782258/27115840859269/79139
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - TVCINE ACTION HD
+http://topstb.com:8000/50656250782258/27115840859269/79140
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - TVE 24H
+http://topstb.com:8000/50656250782258/27115840859269/79141
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - TVI
+http://topstb.com:8000/50656250782258/27115840859269/79143
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - TVI 24
+http://topstb.com:8000/50656250782258/27115840859269/79144
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - TVI FICCAO
+http://topstb.com:8000/50656250782258/27115840859269/79145
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - TVI REALITY
+http://topstb.com:8000/50656250782258/27115840859269/79146
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - LA LIGA UHD
+http://topstb.com:8000/50656250782258/27115840859269/79147
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - VH1
+http://topstb.com:8000/50656250782258/27115840859269/79148
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - VH1 CLASSIC
+http://topstb.com:8000/50656250782258/27115840859269/79149
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - AMC HD
+http://topstb.com:8000/50656250782258/27115840859269/79150
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - BLAZE HD
+http://topstb.com:8000/50656250782258/27115840859269/79151
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - BTV HD
+http://topstb.com:8000/50656250782258/27115840859269/79152
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - CAçA & PESCA
+http://topstb.com:8000/50656250782258/27115840859269/79153
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - CINEMUNDO HD
+http://topstb.com:8000/50656250782258/27115840859269/79154
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - CM TV HD
+http://topstb.com:8000/50656250782258/27115840859269/79155
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - DISCOVERY CHANNEL HD
+http://topstb.com:8000/50656250782258/27115840859269/79156
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - DISCOVERY SHOWCASE HD
+http://topstb.com:8000/50656250782258/27115840859269/79157
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - ELEVEN SPORTS 1 HD
+http://topstb.com:8000/50656250782258/27115840859269/79158
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - ELEVEN SPORTS 2 HD
+http://topstb.com:8000/50656250782258/27115840859269/79159
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - ELEVEN SPORTS 3 HD
+http://topstb.com:8000/50656250782258/27115840859269/79160
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - ELEVEN SPORTS 4 HD
+http://topstb.com:8000/50656250782258/27115840859269/79161
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - ELEVEN SPORTS 5 HD
+http://topstb.com:8000/50656250782258/27115840859269/79162
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - ELEVEN SPORTS 6 HD
+http://topstb.com:8000/50656250782258/27115840859269/79163
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - EUROSPORT 1 HD
+http://topstb.com:8000/50656250782258/27115840859269/79164
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - FIGHT NETWORK HD
+http://topstb.com:8000/50656250782258/27115840859269/79165
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - FOX CRIME HD
+http://topstb.com:8000/50656250782258/27115840859269/79166
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - FOX LIFE HD
+http://topstb.com:8000/50656250782258/27115840859269/79167
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - FOX MOVIES HD
+http://topstb.com:8000/50656250782258/27115840859269/79168
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - FUEL TV HD
+http://topstb.com:8000/50656250782258/27115840859269/79169
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - iCONCERTS HD
+http://topstb.com:8000/50656250782258/27115840859269/79170
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - LOCALVISÃO TV HD
+http://topstb.com:8000/50656250782258/27115840859269/79171
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - MEZZO LIVE HD
+http://topstb.com:8000/50656250782258/27115840859269/79172
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - MOTORVISION HD
+http://topstb.com:8000/50656250782258/27115840859269/79173
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - MTV PORTUGAL HD
+http://topstb.com:8000/50656250782258/27115840859269/79174
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - NAT GEO WILD HD
+http://topstb.com:8000/50656250782258/27115840859269/79176
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - NATIONAL GEOGRAPHIC HD
+http://topstb.com:8000/50656250782258/27115840859269/79177
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - ODISSEIA HD
+http://topstb.com:8000/50656250782258/27115840859269/79178
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - PORTO CANAL HD
+http://topstb.com:8000/50656250782258/27115840859269/79179
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - SIC CARAS HD
+http://topstb.com:8000/50656250782258/27115840859269/79180
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - SIC NOTICIAS HD
+http://topstb.com:8000/50656250782258/27115840859269/79181
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - SPORTING TV HD
+http://topstb.com:8000/50656250782258/27115840859269/79182
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - SYFY HD
+http://topstb.com:8000/50656250782258/27115840859269/79184
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - TRACE URBAN PT HD
+http://topstb.com:8000/50656250782258/27115840859269/79185
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - TV GLOBO HD
+http://topstb.com:8000/50656250782258/27115840859269/79186
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - TV GLOBO NOW HD
+http://topstb.com:8000/50656250782258/27115840859269/79187
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",VIP:PT - ZAP VIVA HD
+http://topstb.com:8000/50656250782258/27115840859269/79188
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT AXN
+http://topstb.com:8000/50656250782258/27115840859269/29353
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT AXN BLACK
+http://topstb.com:8000/50656250782258/27115840859269/29352
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT AXN WHITE
+http://topstb.com:8000/50656250782258/27115840859269/29351
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT BABY
+http://topstb.com:8000/50656250782258/27115840859269/29350
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT BENFICA
+http://topstb.com:8000/50656250782258/27115840859269/29349
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT CARTOON NETWORK
+http://topstb.com:8000/50656250782258/27115840859269/29348
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT DISCOVERY
+http://topstb.com:8000/50656250782258/27115840859269/29347
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT DISNEY CHANNEL
+http://topstb.com:8000/50656250782258/27115840859269/29345
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT DISNEY JUNIOR
+http://topstb.com:8000/50656250782258/27115840859269/29344
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT E!
+http://topstb.com:8000/50656250782258/27115840859269/29343
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT EUROSPORT 1
+http://topstb.com:8000/50656250782258/27115840859269/29342
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT EUROSPORT 2
+http://topstb.com:8000/50656250782258/27115840859269/29341
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT FOX
+http://topstb.com:8000/50656250782258/27115840859269/29340
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT FOX LIFE
+http://topstb.com:8000/50656250782258/27115840859269/29339
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT FUEL TV
+http://topstb.com:8000/50656250782258/27115840859269/29338
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT HOLLYWOOD HD
+http://topstb.com:8000/50656250782258/27115840859269/29337
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT NAT GEO
+http://topstb.com:8000/50656250782258/27115840859269/29336
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT NATIONAL GEO WILD
+http://topstb.com:8000/50656250782258/27115840859269/29335
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT NICKELODEON
+http://topstb.com:8000/50656250782258/27115840859269/29334
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT PORTO CANAL
+http://topstb.com:8000/50656250782258/27115840859269/29333
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT RTP 1
+http://topstb.com:8000/50656250782258/27115840859269/29332
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT RTP 2
+http://topstb.com:8000/50656250782258/27115840859269/29331
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT RTP 3
+http://topstb.com:8000/50656250782258/27115840859269/29330
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT RTP AFRICA
+http://topstb.com:8000/50656250782258/27115840859269/29329
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT RTP MEMORIA
+http://topstb.com:8000/50656250782258/27115840859269/29328
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT SIC
+http://topstb.com:8000/50656250782258/27115840859269/29327
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT SIC MULHER
+http://topstb.com:8000/50656250782258/27115840859269/29326
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT SIC NOCITAS
+http://topstb.com:8000/50656250782258/27115840859269/29325
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT SIC RADICAL
+http://topstb.com:8000/50656250782258/27115840859269/29324
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT SPORT TV
+http://topstb.com:8000/50656250782258/27115840859269/29323
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT SPORT TV 1
+http://topstb.com:8000/50656250782258/27115840859269/29322
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT SPORT TV 2 HD
+http://topstb.com:8000/50656250782258/27115840859269/29321
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT SPORT TV 3
+http://topstb.com:8000/50656250782258/27115840859269/29320
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT SPORT TV 4
+http://topstb.com:8000/50656250782258/27115840859269/29319
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT SPORT TV 5
+http://topstb.com:8000/50656250782258/27115840859269/29318
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT SPORTING TV
+http://topstb.com:8000/50656250782258/27115840859269/29317
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT TV GLOBO
+http://topstb.com:8000/50656250782258/27115840859269/29316
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT TV SERIES
+http://topstb.com:8000/50656250782258/27115840859269/29315
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT TVCINE 1
+http://topstb.com:8000/50656250782258/27115840859269/29314
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT TVCINE ACTION
+http://topstb.com:8000/50656250782258/27115840859269/29313
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT TVCINE EMOTION
+http://topstb.com:8000/50656250782258/27115840859269/29312
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT TVCINE EDITION
+http://topstb.com:8000/50656250782258/27115840859269/29311
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT TVI
+http://topstb.com:8000/50656250782258/27115840859269/29310
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT TVI 24
+http://topstb.com:8000/50656250782258/27115840859269/29309
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT: Eleven Sport 1 HD
+http://topstb.com:8000/50656250782258/27115840859269/22520
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT: Eleven Sport 2 HD
+http://topstb.com:8000/50656250782258/27115840859269/22519
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT: Eleven Sport 3 HD
+http://topstb.com:8000/50656250782258/27115840859269/22518
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT: Eleven Sport 4 HD
+http://topstb.com:8000/50656250782258/27115840859269/22517
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT: Eleven Sport 5 HD
+http://topstb.com:8000/50656250782258/27115840859269/22516
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT: Eleven Sport 6 HD
+http://topstb.com:8000/50656250782258/27115840859269/22515
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT: ELEVEN SPORTS 1 HD
+http://topstb.com:8000/50656250782258/27115840859269/66450
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT: ELEVEN SPORTS 2 HD
+http://topstb.com:8000/50656250782258/27115840859269/66449
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT: ELEVEN SPORTS 3 HD
+http://topstb.com:8000/50656250782258/27115840859269/66448
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT: ELEVEN SPORTS 4 HD
+http://topstb.com:8000/50656250782258/27115840859269/66447
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT: ELEVEN SPORTS 5 HD
+http://topstb.com:8000/50656250782258/27115840859269/66446
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT: ELEVEN SPORTS 6 HD
+http://topstb.com:8000/50656250782258/27115840859269/66445
+#EXTINF:0 tvg-id="24Kitchen.pt" group-title="MARVEL PLUS",PT: 24 KITCHEN HD
+http://topstb.com:8000/50656250782258/27115840859269/66429
+#EXTINF:0 tvg-id="ABolaTV.pt" group-title="MARVEL PLUS",PT: ABola TV
+http://topstb.com:8000/50656250782258/27115840859269/66398
+#EXTINF:0 tvg-id="AfroMusic.pt" group-title="MARVEL PLUS",PT: Afro Music
+http://topstb.com:8000/50656250782258/27115840859269/66373
+#EXTINF:0 tvg-id="AMC.pt" group-title="MARVEL PLUS",PT: AMC
+http://topstb.com:8000/50656250782258/27115840859269/66396
+#EXTINF:0 tvg-id="AXNBlack.pt" group-title="MARVEL PLUS",PT: AXN BLACK HD
+http://topstb.com:8000/50656250782258/27115840859269/66438
+#EXTINF:0 tvg-id="axn.pt" group-title="MARVEL PLUS",PT: AXN HD
+http://topstb.com:8000/50656250782258/27115840859269/66437
+#EXTINF:0 tvg-id="AXNWhite.pt" group-title="MARVEL PLUS",PT: AXN WHITE HD
+http://topstb.com:8000/50656250782258/27115840859269/66436
+#EXTINF:0 tvg-id="BabyFirstTV.pt" group-title="MARVEL PLUS",PT: Baby First
+http://topstb.com:8000/50656250782258/27115840859269/66385
+#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="MARVEL PLUS",PT: Biggs
+http://topstb.com:8000/50656250782258/27115840859269/66384
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="MARVEL PLUS",PT: BTV 1 HD
+http://topstb.com:8000/50656250782258/27115840859269/66435
+#EXTINF:0 tvg-id="CacaVision.pt" group-title="MARVEL PLUS",PT: CAÇAVISION
+http://topstb.com:8000/50656250782258/27115840859269/66444
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT: Canal NOS
+http://topstb.com:8000/50656250782258/27115840859269/66383
+#EXTINF:0 tvg-id="canalpanda.pt" group-title="MARVEL PLUS",PT: Canal Panda
+http://topstb.com:8000/50656250782258/27115840859269/66382
+#EXTINF:0 tvg-id="CanalQ.pt" group-title="MARVEL PLUS",PT: Canal Q
+http://topstb.com:8000/50656250782258/27115840859269/66381
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT: Cartoon Network Portugal
+http://topstb.com:8000/50656250782258/27115840859269/66386
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT: caza pesca
+http://topstb.com:8000/50656250782258/27115840859269/66428
+#EXTINF:0 tvg-id="CBSReality.pt" group-title="MARVEL PLUS",PT: CBS Reality
+http://topstb.com:8000/50656250782258/27115840859269/66395
+#EXTINF:0 tvg-id="Cinemundo.pt" group-title="MARVEL PLUS",PT: CINEMUNDO
+http://topstb.com:8000/50656250782258/27115840859269/66426
+#EXTINF:0 tvg-id="CMTV.pt" group-title="MARVEL PLUS",PT: CMTV
+http://topstb.com:8000/50656250782258/27115840859269/66421
+#EXTINF:0 tvg-id="discoverychannel.pt" group-title="MARVEL PLUS",PT: Discovery
+http://topstb.com:8000/50656250782258/27115840859269/66367
+#EXTINF:0 tvg-id="discoverychannel.pt" group-title="MARVEL PLUS",PT: Discovery Channel
+http://topstb.com:8000/50656250782258/27115840859269/66432
+#EXTINF:0 tvg-id="disneychannel.pt" group-title="MARVEL PLUS",PT: Disney Channel
+http://topstb.com:8000/50656250782258/27115840859269/66380
+#EXTINF:0 tvg-id="DisneyJunior.pt" group-title="MARVEL PLUS",PT: Disney Junior
+http://topstb.com:8000/50656250782258/27115840859269/66379
+#EXTINF:0 tvg-id="eentertainment.pt" group-title="MARVEL PLUS",PT: E! ENTERTAINMENT
+http://topstb.com:8000/50656250782258/27115840859269/66394
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT: Euronews
+http://topstb.com:8000/50656250782258/27115840859269/66376
+#EXTINF:0 tvg-id="Eurosport1.pt" group-title="MARVEL PLUS",PT: EUROSPORT 1 HD
+http://topstb.com:8000/50656250782258/27115840859269/66460
+#EXTINF:0 tvg-id="Eurosport2.pt" group-title="MARVEL PLUS",PT: EUROSPORT 2
+http://topstb.com:8000/50656250782258/27115840859269/66451
+#EXTINF:0 tvg-id="Eurosport1.pt" group-title="MARVEL PLUS",PT: Eurosport 1
+http://topstb.com:8000/50656250782258/27115840859269/66459
+#EXTINF:0 tvg-id="FOXComedy.pt" group-title="MARVEL PLUS",PT: FOX Comedy
+http://topstb.com:8000/50656250782258/27115840859269/66423
+#EXTINF:0 tvg-id="foxcrime.pt" group-title="MARVEL PLUS",PT: FOX CRIME HD
+http://topstb.com:8000/50656250782258/27115840859269/66366
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="MARVEL PLUS",PT: FOX Movies
+http://topstb.com:8000/50656250782258/27115840859269/66424
+#EXTINF:0 tvg-id="FoxNews.pt" group-title="MARVEL PLUS",PT: FOX News
+http://topstb.com:8000/50656250782258/27115840859269/66375
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT: FTV
+http://topstb.com:8000/50656250782258/27115840859269/66393
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="MARVEL PLUS",PT: Fuel TV
+http://topstb.com:8000/50656250782258/27115840859269/66392
+#EXTINF:0 tvg-id="GloboPremium.pt" group-title="MARVEL PLUS",PT: GLOBO PREMIUM
+http://topstb.com:8000/50656250782258/27115840859269/66422
+#EXTINF:0 tvg-id="HistoryChannel.pt" group-title="MARVEL PLUS",PT: Historia
+http://topstb.com:8000/50656250782258/27115840859269/66387
+#EXTINF:0 tvg-id="hollywood.pt" group-title="MARVEL PLUS",PT: HOLLYWOOD
+http://topstb.com:8000/50656250782258/27115840859269/66427
+#EXTINF:0 tvg-id="JimJam.pt" group-title="MARVEL PLUS",PT: JimJam
+http://topstb.com:8000/50656250782258/27115840859269/66378
+#EXTINF:0 tvg-id="MCMPop.pt" group-title="MARVEL PLUS",PT: MCM Pop
+http://topstb.com:8000/50656250782258/27115840859269/66372
+#EXTINF:0 tvg-id="mezzo.pt" group-title="MARVEL PLUS",PT: Mezzo
+http://topstb.com:8000/50656250782258/27115840859269/66371
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT: Motor vision
+http://topstb.com:8000/50656250782258/27115840859269/66458
+#EXTINF:0 tvg-id="mtvportugal.pt" group-title="MARVEL PLUS",PT: MTV Portugal
+http://topstb.com:8000/50656250782258/27115840859269/66370
+#EXTINF:0 tvg-id="NatGeoWild.pt" group-title="MARVEL PLUS",PT: Nat Geo Wild
+http://topstb.com:8000/50656250782258/27115840859269/66433
+#EXTINF:0 tvg-id="nationalgeographic.pt" group-title="MARVEL PLUS",PT: NATIONAL GEOGRAPHIC HD
+http://topstb.com:8000/50656250782258/27115840859269/66430
+#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="MARVEL PLUS",PT: Nickelodeon
+http://topstb.com:8000/50656250782258/27115840859269/66377
+#EXTINF:0 tvg-id="odisseia.pt" group-title="MARVEL PLUS",PT: Odisseia
+http://topstb.com:8000/50656250782258/27115840859269/66390
+#EXTINF:0 tvg-id="pfc.pt" group-title="MARVEL PLUS",PT: PFC
+http://topstb.com:8000/50656250782258/27115840859269/66453
+#EXTINF:0 tvg-id="PortoCanal.pt" group-title="MARVEL PLUS",PT: Porto Canal
+http://topstb.com:8000/50656250782258/27115840859269/66457
+#EXTINF:0 tvg-id="rtp1.pt" group-title="MARVEL PLUS",PT: RTP 1
+http://topstb.com:8000/50656250782258/27115840859269/66420
+#EXTINF:0 tvg-id="rtp2.pt" group-title="MARVEL PLUS",PT: RTP 2
+http://topstb.com:8000/50656250782258/27115840859269/66419
+#EXTINF:0 tvg-id="RTP3.pt" group-title="MARVEL PLUS",PT: RTP 3
+http://topstb.com:8000/50656250782258/27115840859269/66418
+#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="MARVEL PLUS",PT: RTP Africa
+http://topstb.com:8000/50656250782258/27115840859269/66415
+#EXTINF:0 tvg-id="RTPAcores.pt" group-title="MARVEL PLUS",PT: RTP AÇORES
+http://topstb.com:8000/50656250782258/27115840859269/66414
+#EXTINF:0 tvg-id="RTPMadeira.pt" group-title="MARVEL PLUS",PT: RTP MADEIRA
+http://topstb.com:8000/50656250782258/27115840859269/66417
+#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="MARVEL PLUS",PT: RTP MEMORIA
+http://topstb.com:8000/50656250782258/27115840859269/66416
+#EXTINF:0 tvg-id="sic.pt" group-title="MARVEL PLUS",PT: SIC
+http://topstb.com:8000/50656250782258/27115840859269/66413
+#EXTINF:0 tvg-id="SicCaras.pt" group-title="MARVEL PLUS",PT: SIC CARAS
+http://topstb.com:8000/50656250782258/27115840859269/66412
+#EXTINF:0 tvg-id="SicK.pt" group-title="MARVEL PLUS",PT: SIC K
+http://topstb.com:8000/50656250782258/27115840859269/66411
+#EXTINF:0 tvg-id="sicmulher.pt" group-title="MARVEL PLUS",PT: SIC Mulher
+http://topstb.com:8000/50656250782258/27115840859269/66409
+#EXTINF:0 tvg-id="sicnoticias.pt" group-title="MARVEL PLUS",PT: SIC NOTICIAS
+http://topstb.com:8000/50656250782258/27115840859269/66408
+#EXTINF:0 tvg-id="sicradical.pt" group-title="MARVEL PLUS",PT: SIC RADICAL
+http://topstb.com:8000/50656250782258/27115840859269/66410
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="MARVEL PLUS",PT: SPORT TV
+http://topstb.com:8000/50656250782258/27115840859269/66461
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="MARVEL PLUS",PT: SPORT TV 1 HD
+http://topstb.com:8000/50656250782258/27115840859269/66469
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="MARVEL PLUS",PT: SPORT TV 1 SD
+http://topstb.com:8000/50656250782258/27115840859269/66468
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="MARVEL PLUS",PT: SPORT TV 2 HD
+http://topstb.com:8000/50656250782258/27115840859269/66467
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="MARVEL PLUS",PT: SPORT TV 2 SD
+http://topstb.com:8000/50656250782258/27115840859269/66466
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="MARVEL PLUS",PT: SPORT TV 3 HD
+http://topstb.com:8000/50656250782258/27115840859269/66465
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="MARVEL PLUS",PT: SPORT TV 3 SD
+http://topstb.com:8000/50656250782258/27115840859269/66464
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="MARVEL PLUS",PT: SPORT TV 4
+http://topstb.com:8000/50656250782258/27115840859269/66463
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="MARVEL PLUS",PT: SPORT TV 5
+http://topstb.com:8000/50656250782258/27115840859269/66462
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT: SPORT TV NBA
+http://topstb.com:8000/50656250782258/27115840859269/66452
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="MARVEL PLUS",PT: Sporting TV
+http://topstb.com:8000/50656250782258/27115840859269/66456
+#EXTINF:0 tvg-id="SyFy.pt" group-title="MARVEL PLUS",PT: Syfy
+http://topstb.com:8000/50656250782258/27115840859269/66397
+#EXTINF:0 tvg-id="TLC.pt" group-title="MARVEL PLUS",PT: TLC
+http://topstb.com:8000/50656250782258/27115840859269/66400
+#EXTINF:0 tvg-id="TorosTV.pt" group-title="MARVEL PLUS",PT: Toros TV
+http://topstb.com:8000/50656250782258/27115840859269/66454
+#EXTINF:0 tvg-id="TraceTV.pt" group-title="MARVEL PLUS",PT: Trace TV
+http://topstb.com:8000/50656250782258/27115840859269/66389
+#EXTINF:0 tvg-id="TVGalicia.pt" group-title="MARVEL PLUS",PT: TV Galicia
+http://topstb.com:8000/50656250782258/27115840859269/66406
+#EXTINF:0 tvg-id="TVSeries.pt" group-title="MARVEL PLUS",PT: TV SERIES
+http://topstb.com:8000/50656250782258/27115840859269/66374
+#EXTINF:0 tvg-id="tvc1.pt" group-title="MARVEL PLUS",PT: TVCINE 1 HD
+http://topstb.com:8000/50656250782258/27115840859269/66443
+#EXTINF:0 tvg-id="tvc2.pt" group-title="MARVEL PLUS",PT: TVCINE 2 HD
+http://topstb.com:8000/50656250782258/27115840859269/66442
+#EXTINF:0 tvg-id="tvc3.pt" group-title="MARVEL PLUS",PT: TVCINE 3 HD
+http://topstb.com:8000/50656250782258/27115840859269/66441
+#EXTINF:0 tvg-id="tvc4.pt" group-title="MARVEL PLUS",PT: TVCINE 4 HD
+http://topstb.com:8000/50656250782258/27115840859269/66440
+#EXTINF:0 tvg-id="TVE24h.pt" group-title="MARVEL PLUS",PT: TVE 24h
+http://topstb.com:8000/50656250782258/27115840859269/66405
+#EXTINF:0 tvg-id="TVIInt.pt" group-title="MARVEL PLUS",PT: TVI Internacional
+http://topstb.com:8000/50656250782258/27115840859269/66404
+#EXTINF:0 tvg-id="TVI.pt" group-title="MARVEL PLUS",PT: TVI
+http://topstb.com:8000/50656250782258/27115840859269/66403
+#EXTINF:0 tvg-id="TVI24.pt" group-title="MARVEL PLUS",PT: TVI 24
+http://topstb.com:8000/50656250782258/27115840859269/66407
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT: TVI Ficlo
+http://topstb.com:8000/50656250782258/27115840859269/66402
+#EXTINF:0 tvg-id="TVIReal.pt" group-title="MARVEL PLUS",PT: TVI Reality
+http://topstb.com:8000/50656250782258/27115840859269/66401
+#EXTINF:0 tvg-id="TVSeries.pt" group-title="MARVEL PLUS",PT: TVSeries HD
+http://topstb.com:8000/50656250782258/27115840859269/66439
+#EXTINF:0 tvg-id="vh1.pt" group-title="MARVEL PLUS",PT: VH1
+http://topstb.com:8000/50656250782258/27115840859269/66369
+#EXTINF:0 tvg-id="ext" group-title="MARVEL PLUS",PT: VH1 Classic
+http://topstb.com:8000/50656250782258/27115840859269/66368
