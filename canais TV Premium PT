@@ -18,8 +18,48 @@ http://0.0.0.0:0000
 #EXTM3U
 #EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 14/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
+
 ####################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] /////////   CANAIS EM TESTE   /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] /////////   CANAIS EM TESTE 2   /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://00000000000
+
+#EXTM3U
+
+#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://topstb.com:8000/50656250782258/27115840859269/199185
+#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://topstb.com:8000/50656250782258/27115840859269/199184
+#EXTINF:-1,[COLOR=white][B]BTV FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://topstb.com:8000/50656250782258/27115840859269/199182
+#EXTINF:-1,[COLOR=white][B]BTV SD[/B][/COLOR][COLOR=white][/COLOR]
+http://topstb.com:8000/50656250782258/27115840859269/199187
+#EXTINF:-1,[COLOR=white][B]BTV SD[/B][/COLOR][COLOR=white][/COLOR]
+http://topstb.com:8000/50656250782258/27115840859269/199186
+
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://topstb.com:8000/50656250782258/27115840859269/199179
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://topstb.com:8000/50656250782258/27115840859269/199178
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 2K[/B][/COLOR][COLOR=white][/COLOR]
+http://topstb.com:8000/50656250782258/27115840859269/199177
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 SD[/B][/COLOR][COLOR=white][/COLOR]
+http://topstb.com:8000/50656250782258/27115840859269/199181
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 SD[/B][/COLOR][COLOR=white][/COLOR]
+http://topstb.com:8000/50656250782258/27115840859269/199180
+
+
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://topstb.com:8000/50656250782258/27115840859269/199206
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 2K[/B][/COLOR][COLOR=white][/COLOR]
+http://topstb.com:8000/50656250782258/27115840859269/199205
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 SD[/B][/COLOR][COLOR=white][/COLOR]
+http://topstb.com:8000/50656250782258/27115840859269/199210
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 SD[/B][/COLOR][COLOR=white][/COLOR]
+http://topstb.com:8000/50656250782258/27115840859269/199209
+
+
+####################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B] /////////   CANAIS EM TESTE 1  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://00000000000
 
 #EXTM3U
@@ -47,7 +87,6 @@ http://185.236.229.13:8000/play/a05y/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://185.236.229.13:8000/play/a06a/index.m3u8
-
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1499
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
