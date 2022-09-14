@@ -5,6 +5,29 @@ http://0.0.0.0:0000
 ###############################################################################################################################################################################
 
 #EXTM3U
+####################################################################################################################################
+#EXTINF:-1,[COLOR=orange][B]/////////  CANAIS 4K EM TESTE ADICIONADOS 14/09/2022  /////////[/B][/COLOR][COLOR=orange][/COLOR]
+
+#EXTM3U
+
+#EXTINF:0,EUROSPORT EU
+http://endlesssite.store:81/play/live.php?mac=00:1A:79:90:40:5C&stream=247918&extension=ts
+#EXTINF:0,CANAL+
+http://endlesssite.store:81/play/live.php?mac=00:1A:79:90:40:5C&stream=247907&extension=ts
+#EXTINF:0,BEIN SPORTS AR
+http://endlesssite.store:81/play/live.php?mac=00:1A:79:90:40:5C&stream=330188&extension=ts
+#EXTINF:0,BLOOMBERG
+http://endlesssite.store:81/play/live.php?mac=00:1A:79:90:40:5C&stream=247915&extension=ts
+#EXTINF:0,SPORT 4K (OFFLINE)
+http://endlesssite.store:81/play/live.php?mac=00:1A:79:90:40:5C&stream=772853&extension=ts
+#EXTINF:0,BTV PT
+http://endlesssite.store:81/play/live.php?mac=00:1A:79:90:40:5C&stream=176111&extension=ts
+#EXTINF:0,4K ELEVEN SPORTS PL 
+http://endlesssite.store:81/play/live.php?mac=00:1A:79:90:40:5C&stream=176112&extension=ts
+#EXTINF:0,SPORT TV 1 PT
+http://endlesssite.store:81/play/live.php?mac=00:1A:79:90:40:5C&stream=176113&extension=ts
+#EXTINF:0,RAI 1 IT
+http://endlesssite.store:81/play/live.php?mac=00:1A:79:90:40:5C&stream=247912&extension=ts
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=orange][B]/////////  LISTA PT ADICIONADA: 08/09/2022  /////////[/B][/COLOR][COLOR=orange][/COLOR]
