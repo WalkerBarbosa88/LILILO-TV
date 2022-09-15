@@ -3,17 +3,28 @@
 #EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////////////////  TOP HITS 2020 / 2023  //////////////[/B][/COLOR]
 http://0.0.0.0:0000
 #######################################################################################################################################
- 
- 
+#EXTM3U
 #######################################################################################################################################
 #EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=orange][B]///////////////////  TOP HITS 2022  //////////////[/B][/COLOR]
 http://0.0.0.0:0000
 #######################################################################################################################################
 
-#EXTINF:-1,[COLOR=yellow][B]VIDEOS OFICIAIS - LISTA ATUALIZADA: 18/08/2022[/B][/COLOR][COLOR=yellow][/COLOR]
+
+#EXTINF:-1,[COLOR=yellow][B]VIDEOS OFICIAIS - LISTA ATUALIZADA: 15/09/2022[/B][/COLOR][COLOR=yellow][/COLOR]
  
 #EXTM3U
 
+#EXTINF:-1,[COLOR=white][B]MARSHMELLO E KHALID - NUMB[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=mRXKnG2eugU
+
+#EXTINF:-1,[COLOR=white][B]ELLIE GOULDING - EASY LOVER FT. BIG SEAN[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=qDht4fSRLgk
+
+#EXTINF:-1,[COLOR=white][B]BENNY BLANCO, BTS & SNOOP DOGG - BAD DECISIONS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=BGNkkVrJZks
+
+#EXTINF:-1,[COLOR=white][B]REMA FT. SELENA GOMES - CALM DOWN[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=WcIcVapfqXw
 
 #EXTINF:-1,[COLOR=white][B]ARIANA GRANDE - 34+35 (4K)[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=bFxYBj-qH1A
