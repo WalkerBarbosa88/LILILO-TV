@@ -11,31 +11,31 @@ http://0.0.0.0:0000
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- RTP 1 FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTP 1 FHD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342134
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- RTP 2 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTP 2 HD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342133
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- RTP 2 FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTP 2 FHD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342132
 #EXTINF:0 tvg-id="sic.pt" group-title="Channels",SIC HD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342131
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SIC FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",SIC FHD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342130
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- TVI HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVI HD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342129
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- TVI FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVI FHD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342128
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- CMTV
+#EXTINF:0 tvg-id="ext" group-title="Channels",CMTV
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342126
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- CMTV HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",CMTV HD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342125
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SIC NOTICIAS
+#EXTINF:0 tvg-id="ext" group-title="Channels",SIC NOTICIAS
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342124
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- CNN PORTUGAL
+#EXTINF:0 tvg-id="ext" group-title="Channels",CNN PORTUGAL
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342123
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- PORTO CANAL
+#EXTINF:0 tvg-id="ext" group-title="Channels",PORTO CANAL
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342121
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- RTP 3
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTP 3
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342119
 #EXTINF:0 tvg-id="RTPAcores.pt" group-title="Channels",RTP AÇORES
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342118
@@ -57,123 +57,123 @@ http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342111
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342110
 #EXTINF:0 tvg-id="CNBC.nws" group-title="Channels",CNBC
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342109
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SPORT TV +
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV+
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342107
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342106
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SPORT TV 1 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 1 HD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342105
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SPORT TV 1 FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 1 FHD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342104
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SPORT TV 2 SD
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 2 SD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342103
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SPORT TV 2 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 2 HD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342102
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SPORT TV 2 FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 2 FHD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342101
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SPORT TV 3 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 3 HD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342100
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SPORT TV 3 FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 3 FHD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342099
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT-SPORT TV 4 HD
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",SPORT TV 4 HD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342098
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SPORT TV 4 FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 4 FHD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342097
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SPORT TV 5 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 5 HD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342096
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SPORT TV 5 FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 5 FHD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342095
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SPORT TV 6 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 6 HD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342094
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SPORT TV 6 FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 6 FHD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342093
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- BTV  HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",BTV  HD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342092
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- BTV FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",BTV FHD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342091
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN 1 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 1 HD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342090
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- ELEVEN  1 FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS  1 FHD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342089
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- ELEVEN 2 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 2 HD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342088
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT-ELEVEN 2 FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 2 FHD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342087
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- ELEVEN 3
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 3
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342086
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- ELEVEN 4
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 4
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342085
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- ELEVEN 5
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 5
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342084
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- ELEVEN 6
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 6
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342083
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- CANAL 11 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 11 HD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342081
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- CANAL 11 FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 11 FHD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342080
 #EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",SPORTING TV
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342079
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SPORT TV NBA HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV NBA HD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342078
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SPORT TV NBA FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV NBA FHD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342077
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- EUROSPORT 1
+#EXTINF:0 tvg-id="ext" group-title="Channels",EUROSPORT 1
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342076
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- EUROSPORT 1 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",EUROSPORT 1 HD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342075
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- EUROSPORT 2
+#EXTINF:0 tvg-id="ext" group-title="Channels",EUROSPORT 2
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342074
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- MOTORVISION
+#EXTINF:0 tvg-id="ext" group-title="Channels",MOTORVISION
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342073
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- PFC
+#EXTINF:0 tvg-id="ext" group-title="Channels",PFC
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342072
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- TVI FICÇÃO
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVI FICÇÃO
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342070
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SIC MULHER
+#EXTINF:0 tvg-id="ext" group-title="Channels",SIC MULHER
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342068
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SIC RADICAL
+#EXTINF:0 tvg-id="ext" group-title="Channels",SIC RADICAL
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342067
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SIC CARAS
+#EXTINF:0 tvg-id="ext" group-title="Channels",SIC CARAS
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342066
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- TVI REALITY
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVI REALITY
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342065
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- NOS STUDIOS HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",NOS STUDIOS HD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342064
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- NOS STUDIOS FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",NOS STUDIOS FHD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342063
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- TV CINE TOP HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE TOP HD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342062
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- TV CINE TOP FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE TOP FHD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342061
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- TV CINE EDITION HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE EDITION HD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342060
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- TV CINE EDITION FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE EDITION FHD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342059
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- TV CINE EMOTION HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE EMOTION HD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342058
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- TV CINE EMOTION FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE EMOTION FHD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342057
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- TV CINE ACTION HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE ACTION HD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342056
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- TV CINE ACTION FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE ACTION FHD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342055
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- AMC HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",AMC HD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342054
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- AMC FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",AMC FHD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342053
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- CINEMUNDO
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINEMUNDO
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342052
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- FOX MOVIES
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX MOVIES
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342051
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- AXN HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",AXN HD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342048
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- AXN FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",AXN FHD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342047
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- AXN MOVIES HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",AXN MOVIES HD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342046
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- AXN MOVIES FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",AXN MOVIES FHD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342045
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT- AXN WHITE FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",AXN WHITE FHD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342044
 #EXTINF:0 tvg-id="AXNWhite.pt" group-title="Channels",AXN WHITE HD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342043
@@ -237,7 +237,7 @@ http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342016
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342015
 #EXTINF:0 tvg-id="blaze.pt" group-title="Channels",BLAZE
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342014
-#EXTINF:0 tvg-id="eentertainment.pt" group-title="Channels",E! Entertainment
+#EXTINF:0 tvg-id="eentertainment.pt" group-title="Channels",E! ENTERTAINMENT
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342013
 #EXTINF:0 tvg-id="TLC.pt" group-title="Channels",TLC
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342012
@@ -281,7 +281,7 @@ http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/341994
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/341993
 #EXTINF:0 tvg-id="ARTV.pt" group-title="Channels",ARTV
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/341992
-#EXTINF:0 tvg-id="BBCentertainment.pt" group-title="Channels",BBC Entertainment
+#EXTINF:0 tvg-id="BBCentertainment.pt" group-title="Channels",BBC ENTERTAINMENT
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/341991
 #EXTINF:0 tvg-id="BBCWorldNews.nws" group-title="Channels",BBC WORLD NEWS
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/341990
