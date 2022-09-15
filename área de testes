@@ -6,28 +6,311 @@ http://0.0.0.0:0000
 
 #EXTM3U
 ####################################################################################################################################
-#EXTINF:-1,[COLOR=orange][B]/////////  CANAIS 4K: 14/09/2022  /////////[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]/////////  NOVOS CANAIS PT: 15/09/2022  /////////[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
-#EXTINF:0,EUROSPORT EU
-http://endlesssite.store:81/play/live.php?mac=00:1A:79:90:40:5C&stream=247918&extension=ts
-#EXTINF:0,CANAL+
-http://endlesssite.store:81/play/live.php?mac=00:1A:79:90:40:5C&stream=247907&extension=ts
-#EXTINF:0,BEIN SPORTS AR
-http://endlesssite.store:81/play/live.php?mac=00:1A:79:90:40:5C&stream=330188&extension=ts
-#EXTINF:0,BLOOMBERG
-http://endlesssite.store:81/play/live.php?mac=00:1A:79:90:40:5C&stream=247915&extension=ts
-#EXTINF:0,SPORT 4K (OFFLINE)
-http://endlesssite.store:81/play/live.php?mac=00:1A:79:90:40:5C&stream=772853&extension=ts
-#EXTINF:0,BTV PT
-http://endlesssite.store:81/play/live.php?mac=00:1A:79:90:40:5C&stream=176111&extension=ts
-#EXTINF:0,4K ELEVEN SPORTS PL 
-http://endlesssite.store:81/play/live.php?mac=00:1A:79:90:40:5C&stream=176112&extension=ts
-#EXTINF:0,SPORT TV 1 PT
-http://endlesssite.store:81/play/live.php?mac=00:1A:79:90:40:5C&stream=176113&extension=ts
-#EXTINF:0,RAI 1 IT
-http://endlesssite.store:81/play/live.php?mac=00:1A:79:90:40:5C&stream=247912&extension=ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- RTP 1 FHD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342134
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- RTP 2 HD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342133
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- RTP 2 FHD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342132
+#EXTINF:0 tvg-id="sic.pt" group-title="Channels",SIC HD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342131
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SIC FHD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342130
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- TVI HD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342129
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- TVI FHD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342128
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- CMTV
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342126
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- CMTV HD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342125
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SIC NOTICIAS
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342124
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- CNN PORTUGAL
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342123
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- PORTO CANAL
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342121
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- RTP 3
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342119
+#EXTINF:0 tvg-id="RTPAcores.pt" group-title="Channels",RTP Acores
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342118
+#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Channels",RTP Africa
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342117
+#EXTINF:0 tvg-id="RTPMadeira.pt" group-title="Channels",RTP Madeira
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342116
+#EXTINF:0 tvg-id="ext" group-title="Channels",A BOLA TV FHD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342115
+#EXTINF:0 tvg-id="CNN.pt" group-title="Channels",CNN
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342114
+#EXTINF:0 tvg-id="Bloomberg.nws" group-title="Channels",Bloomberg
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342113
+#EXTINF:0 tvg-id="Euronews.nws" group-title="Channels",Euronews
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342112
+#EXTINF:0 tvg-id="France24.fr" group-title="Channels",France 24
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342111
+#EXTINF:0 tvg-id="SkyNews.uk" group-title="Channels",SKY News
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342110
+#EXTINF:0 tvg-id="CNBC.nws" group-title="Channels",CNBC
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342109
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SPORT TV +
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342107
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342106
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SPORT TV 1 HD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342105
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SPORT TV 1 FHD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342104
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SPORT TV 2 SD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342103
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SPORT TV 2 HD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342102
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SPORT TV 2 FHD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342101
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SPORT TV 3 HD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342100
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SPORT TV 3 FHD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342099
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT-SPORT TV 4 HD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342098
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SPORT TV 4 FHD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342097
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SPORT TV 5 HD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342096
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SPORT TV 5 FHD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342095
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SPORT TV 6 HD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342094
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SPORT TV 6 FHD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342093
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- BTV  HD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342092
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- BTV FHD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342091
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN 1 HD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342090
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- ELEVEN  1 FHD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342089
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- ELEVEN 2 HD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342088
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT-ELEVEN 2 FHD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342087
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- ELEVEN 3
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342086
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- ELEVEN 4
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342085
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- ELEVEN 5
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342084
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- ELEVEN 6
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342083
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- CANAL 11 HD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342081
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- CANAL 11 FHD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342080
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",Sporting TV
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342079
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SPORT TV NBA HD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342078
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SPORT TV NBA FHD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342077
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- EUROSPORT 1
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342076
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- EUROSPORT 1 HD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342075
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- EUROSPORT 2
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342074
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- MOTORVISION
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342073
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- PFC
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342072
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- TVI FICCAO
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342070
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SIC MULHER
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342068
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SIC RADICAL
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342067
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- SIC CARAS
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342066
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- TVI REALITY
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342065
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- NOS STUDIOS HD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342064
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- NOS STUDIOS FHD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342063
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- TV CINE TOP HD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342062
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- TV CINE TOP FHD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342061
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- TV CINE EDITION HD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342060
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- TV CINE EDITION FHD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342059
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- TV CINE EMOTION HD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342058
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- TV CINE EMOTION FHD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342057
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- TV CINE ACTION HD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342056
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- TV CINE Action FHD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342055
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- AMC HD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342054
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- AMC FHD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342053
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- CINEMUNDO
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342052
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- FOX MOVIES
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342051
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- AXN HD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342048
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- AXN FHD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342047
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- AXN MOVIES HD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342046
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- AXN MOVIES FHD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342045
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT- AXN WHITE FHD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342044
+#EXTINF:0 tvg-id="AXNWhite.pt" group-title="Channels",AXN White HD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342043
+#EXTINF:0 tvg-id="fox.pt" group-title="Channels",FOX HD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342042
+#EXTINF:0 tvg-id="fox.pt" group-title="Channels",FOX FHD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342041
+#EXTINF:0 tvg-id="foxlife.pt" group-title="Channels",FOX Life HD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342040
+#EXTINF:0 tvg-id="foxlife.pt" group-title="Channels",FOX Life FHD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342039
+#EXTINF:0 tvg-id="foxcrime.pt" group-title="Channels",FOX Crime HD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342038
+#EXTINF:0 tvg-id="foxcrime.pt" group-title="Channels",FOX Crime FHD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342037
+#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",FOX Comedy
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342036
+#EXTINF:0 tvg-id="SyFy.pt" group-title="Channels",SyFy
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342035
+#EXTINF:0 tvg-id="ext" group-title="Channels",TCV internacional
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342137
+#EXTINF:0 tvg-id="BabyTV.pt" group-title="Channels",Baby TV
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342034
+#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Channels",Biggs
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342033
+#EXTINF:0 tvg-id="canalpanda.pt" group-title="Channels",Canal Panda
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342032
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cartoon Networ
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342031
+#EXTINF:0 tvg-id="disneychannel.pt" group-title="Channels",Disney Channel
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342030
+#EXTINF:0 tvg-id="DisneyJunior.pt" group-title="Channels",Disney Junior
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342029
+#EXTINF:0 tvg-id="JimJam.pt" group-title="Channels",Jim Jam
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342028
+#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Channels",Nickelodeon
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342027
+#EXTINF:0 tvg-id="NickJr.pt" group-title="Channels",Nick Jr.
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342026
+#EXTINF:0 tvg-id="SicK.pt" group-title="Channels",SIC K
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342025
+#EXTINF:0 tvg-id="Boomerang.uk" group-title="Channels",Boomerang
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342024
+#EXTINF:0 tvg-id="ext" group-title="Channels",Lolly Kids
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342023
+#EXTINF:0 tvg-id="PandaKIDS.pt" group-title="Channels",Panda Kids
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342022
+#EXTINF:0 tvg-id="discov_rus-hd" group-title="Channels",Discovery Chanel HD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342021
+#EXTINF:0 tvg-id="DISCOVERYHD.pt" group-title="Channels",Discovery Channel FHD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342020
+#EXTINF:0 tvg-id="CrimeAndInvestigation.nl" group-title="Channels",Crime+Investigation
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342019
+#EXTINF:0 tvg-id="ext" group-title="Channels",ID Investigation Discovery FHD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342018
+#EXTINF:0 tvg-id="nationalgeographic.pt" group-title="Channels",National Geographic FHD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342017
+#EXTINF:0 tvg-id="NatGeoWild.pt" group-title="Channels",National Geographic Wild FHD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342016
+#EXTINF:0 tvg-id="HistoryChannel.pt" group-title="Channels",Historia
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342015
+#EXTINF:0 tvg-id="blaze.pt" group-title="Channels",Blaze
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342014
+#EXTINF:0 tvg-id="eentertainment.pt" group-title="Channels",E! Entertainment
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342013
+#EXTINF:0 tvg-id="TLC.pt" group-title="Channels",TLC
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342012
+#EXTINF:0 tvg-id="CacaVision.pt" group-title="Channels",Cacavision
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342011
+#EXTINF:0 tvg-id="cazaepesca.pt" group-title="Channels",Caca e Pesca
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342010
+#EXTINF:0 tvg-id="CasaCozinha.pt" group-title="Channels",Casa e Cozinha HD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342009
+#EXTINF:0 tvg-id="24Kitchen.pt" group-title="Channels",24 Kitchen HD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342008
+#EXTINF:0 tvg-id="24Kitchen.pt" group-title="Channels",24 Kitchen FHD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342007
+#EXTINF:0 tvg-id="TravelChannel.pt" group-title="Channels",Travel Channel HD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342006
+#EXTINF:0 tvg-id="odisseia.pt" group-title="Channels",Odisseia
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342005
+#EXTINF:0 tvg-id="CANCAONOVA.pt" group-title="Channels",Cancao Nova
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342004
+#EXTINF:0 tvg-id="CBSReality.pt" group-title="Channels",CBS Reality
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342003
+#EXTINF:0 tvg-id="AfroMusic.pt" group-title="Channels",Afro Music
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342002
+#EXTINF:0 tvg-id="MCMPop.pt" group-title="Channels",MCM POP
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342001
+#EXTINF:0 tvg-id="TraceTVUrban.pt" group-title="Channels",Trace Urban
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342000
+#EXTINF:0 tvg-id="mtvportugal.pt" group-title="Channels",MTV Portugal
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/341999
+#EXTINF:0 tvg-id="vh1.pt" group-title="Channels",VH1
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/341998
+#EXTINF:0 tvg-id="TVGlobo.pt" group-title="Channels",Globo
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/341997
+#EXTINF:0 tvg-id="GloboNow.pt" group-title="Channels",Globo Now
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/341996
+#EXTINF:0 tvg-id="tvrecord.pt" group-title="Channels",TV Record
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/341995
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kuriakos TV FHD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/341994
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTP Memðria
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/341993
+#EXTINF:0 tvg-id="ARTV.pt" group-title="Channels",ARTV
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/341992
+#EXTINF:0 tvg-id="BBCentertainment.pt" group-title="Channels",BBC Entertainment
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/341991
+#EXTINF:0 tvg-id="BBCWorldNews.nws" group-title="Channels",BBC World News
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/341990
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal NOS
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/341989
+#EXTINF:0 tvg-id="CanalQ.pt" group-title="Channels",Canal Q
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/341988
+#EXTINF:0 tvg-id="fashion" group-title="Channels",FTV
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/341987
+#EXTINF:0 tvg-id="ext" group-title="Channels",CAMPO PEQUENO TV HD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/341986
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="Channels",Fuel TV
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/341985
+#EXTINF:0 tvg-id="mezzo.pt" group-title="Channels",Mezzo
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/341984
+#EXTINF:0 tvg-id="TVGalicia.pt" group-title="Channels",TV Galicia
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/341983
+#EXTINF:0 tvg-id="tv5monde" group-title="Channels",TV5 Monde
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/341982
+#EXTINF:0 tvg-id="TVE24h.pt" group-title="Channels",TVE 24H
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/341981
+#EXTINF:0 tvg-id="TVE24h.pt" group-title="Channels",TVE Internacional
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/341980
+#EXTINF:0 tvg-id="TorosTV.pt" group-title="Channels",Toros TV
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/341979
+#EXTINF:0 tvg-id="TraceToca.eu" group-title="Channels",Trace Toca
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/341978
+#EXTINF:0 tvg-id="zapvivahd.pt" group-title="Channels",ZAP Viva HD
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/341977
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=orange][B]/////////  LISTA PT ADICIONADA: 08/09/2022  /////////[/B][/COLOR][COLOR=orange][/COLOR]
