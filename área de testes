@@ -5,6 +5,9 @@ http://0.0.0.0:0000
 ###############################################################################################################################################################################
 
 #EXTM3U
+#EXTINF:-1,[COLOR=yellow][B]/////////  TODAS AS LISTAS REVISTAS: 15/09/2022  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTM3U
+
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=orange][B]/////////  NOVOS CANAIS PT: 15/09/2022  /////////[/B][/COLOR][COLOR=orange][/COLOR]
 
@@ -312,237 +315,9 @@ http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/341978
 #EXTINF:0 tvg-id="zapvivahd.pt" group-title="Channels",ZAP VIVA HD
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/341977
 
-####################################################################################################################################
-#EXTINF:-1,[COLOR=orange][B]/////////  LISTA PT ADICIONADA: 08/09/2022  /////////[/B][/COLOR][COLOR=orange][/COLOR]
-
-#EXTM3U
-
-#EXTINF:0 tvg-id="24Kitchen.pt" group-title="Portugal ➾ Food",PT: 24 KITCHEN
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2025
-#EXTINF:0 tvg-id="ABolaTV.pt" group-title="Portugal ➾ LifeStyle",PT: A BOLA TV
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1420
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ LifeStyle",PT: ALMA LUSA
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/264642
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ LifeStyle",PT: AR TV
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9629
-#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Portugal ➾ LifeStyle",PT: PANDA BIGGS
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1439
-#EXTINF:0 tvg-id="blaze.pt" group-title="Portugal ➾ LifeStyle",PT: BLAZE
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/3996
-#EXTINF:0 tvg-id="CanalQ.pt" group-title="Portugal ➾ LifeStyle",PT: CANAL Q
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1430
-#EXTINF:0 tvg-id="CANCAONOVA.pt" group-title="Portugal ➾ LifeStyle",PT: CANÇÃO NOVA
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/290766
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ LifeStyle",PT: CASA E COZINHA
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/6097
-#EXTINF:0 tvg-id="CBSReality.pt" group-title="Portugal ➾ LifeStyle",PT: CBS Reality
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1528
-#EXTINF:0 tvg-id="eentertainment.pt" group-title="Portugal ➾ LifeStyle",PT: E!
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1526
-#EXTINF:0 tvg-id="FoodNetwork.pt" group-title="Portugal ➾ LifeStyle",PT: FOOD NETWOORK
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2044
-#EXTINF:0 tvg-id="odisseia.pt" group-title="Portugal ➾ LifeStyle",PT: ODISSEIA
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1532
-#EXTINF:0 tvg-id="PortoCanal.pt" group-title="Portugal ➾ LifeStyle",PT: PORTO CANAL
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1419
-#EXTINF:0 tvg-id="rtp1.pt" group-title="Portugal ➾ LifeStyle",PT: RTP 1
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1404
-#EXTINF:0 tvg-id="rtp2.pt" group-title="Portugal ➾ LifeStyle",PT: RTP 2
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1406
-#EXTINF:0 tvg-id="RTP3.pt" group-title="Portugal ➾ LifeStyle",PT: RTP 3
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1418
-#EXTINF:0 tvg-id="RTPAcores.pt" group-title="Portugal ➾ LifeStyle",PT: RTP AÇORES
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2055
-#EXTINF:0 tvg-id="RTPMadeira.pt" group-title="Portugal ➾ LifeStyle",PT: RTP MADEIRA
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/278558
-#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Portugal ➾ LifeStyle",PT: RTP MEMÓRIA
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1425
-#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Portugal ➾ LifeStyle",PT: RTP ÁFRICA
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1424
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ LifeStyle",PT: SAUDE+
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/81973
-#EXTINF:0 tvg-id="sic.pt" group-title="Portugal ➾ LifeStyle",PT: SIC
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1408
-#EXTINF:0 tvg-id="SicCaras.pt" group-title="Portugal ➾ LifeStyle",PT: SIC CARAS
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/5910
-#EXTINF:0 tvg-id="SicK.pt" group-title="Portugal ➾ LifeStyle",PT: SIC K
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/4021
-#EXTINF:0 tvg-id="sicradical.pt" group-title="Portugal ➾ LifeStyle",PT: SIC RADICAL
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1429
-#EXTINF:0 tvg-id="TLC.pt" group-title="Portugal ➾ LifeStyle",PT: TLC
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1479
-#EXTINF:0 tvg-id="TravelChannel.pt" group-title="Portugal ➾ LifeStyle",PT: TRAVEL CHANNEL
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1529
-#EXTINF:0 tvg-id="TVIFiccao.pt" group-title="Portugal ➾ LifeStyle",PT: TVI FICÇÃO
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1421
-#EXTINF:0 tvg-id="TVIReal.pt" group-title="Portugal ➾ LifeStyle",PT: TVI REALITY
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1423
-
-#EXTINF:0 tvg-id="blaze.pt" group-title="Portugal ➾ Movie",PT: A&E
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/279741
-#EXTINF:0 tvg-id="AMC.pt" group-title="Portugal ➾ Movie",PT: AMC
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1473
-#EXTINF:0 tvg-id="axn.pt" group-title="Portugal ➾ Movie",PT: AXN
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1469
-#EXTINF:0 tvg-id="AXNBlack.pt" group-title="Portugal ➾ Movie",PT: AXN BLACK
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/278653
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Movie",PT: AXN MOVIES
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1471
-#EXTINF:0 tvg-id="AXNWhite.pt" group-title="Portugal ➾ Movie",PT: AXN WHITE
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1467
-#EXTINF:0 tvg-id="hollywood.pt" group-title="Portugal ➾ Movie",PT: CANAL HOLLYWOOD
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1455
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Movie",PT: CANAL NOS
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/278550
-#EXTINF:0 tvg-id="Cinemundo.pt" group-title="Portugal ➾ Movie",PT: CINE MUNDO
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1477
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Movie",PT: CRIME+ INVESTIGATION
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/5928
-#EXTINF:0 tvg-id="fox.pt" group-title="Portugal ➾ Movie",PT: FOX
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1461
-#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Portugal ➾ Movie",PT: FOX COMEDY
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1465
-#EXTINF:0 tvg-id="foxcrime.pt" group-title="Portugal ➾ Movie",PT: FOX CRIME
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1463
-#EXTINF:0 tvg-id="foxlife.pt" group-title="Portugal ➾ Movie",PT: FOX LIFE
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1459
-#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Portugal ➾ Movie",PT: FOX MOVIES
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1457
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Movie",PT: HBO PORTUGAL
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/201073
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Movie",PT: MEO VIDEOCLUBE
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/265255
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Movie",PT: NOS STUDIOS
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1454
-#EXTINF:0 tvg-id="sicmulher.pt" group-title="Portugal ➾ Movie",PT: SIC MULHER
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1427
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Movie",PT: SYFY PORTUGAL
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1475
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Movie",PT: TVCINE ACTION
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1452
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Movie",PT: TVCINE EDITION
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/82254
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Movie",PT: TVCINE EMOTION
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1448
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Movie",PT: TVCINE TOP
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1446
-
-#EXTINF:0 tvg-id="AfroMusic.pt" group-title="Portugal ➾ Music",PT: AFRO MUSIC CHANNEL
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1536
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Music",PT: CANAL 180
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/146057
-#EXTINF:0 tvg-id="mtvportugal.pt" group-title="Portugal ➾ Music",PT: MTV PORTUGAL
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1534
-
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Motor Sports",PT: AUTOMOTOR SPORT CHANNEL
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/16430
-#EXTINF:0 tvg-id="Motorvision.pt" group-title="Portugal ➾ Motor Sports",PT: MOTORVISION TV
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/4012
-
-#EXTINF:0 tvg-id="BabyTV.pt" group-title="Portugal ➾ Kids",PT: BABY TV
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1441
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Kids",PT: Boomerang
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/24529
-#EXTINF:0 tvg-id="canalpanda.pt" group-title="Portugal ➾ Kids",PT: CANAL PANDA
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1438
-#EXTINF:0 tvg-id="cartoon.pt" group-title="Portugal ➾ Kids",PT: CARTOON NETWORK
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1440
-#EXTINF:0 tvg-id="disneychannel.pt" group-title="Portugal ➾ Kids",PT: DISNEY CHANNEL
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1434
-#EXTINF:0 tvg-id="DisneyJunior.pt" group-title="Portugal ➾ Kids",PT: DISNEY JUNIOR
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1435
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Kids",PT: DISNEY+
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/226084
-#EXTINF:0 tvg-id="JimJam.pt" group-title="Portugal ➾ Kids",PT: JimJam
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1442
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Kids",PT: Nick Junior
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9693
-#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Portugal ➾ Kids",PT: nickelodeon
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1436
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Kids",PT: PANDA Kids
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/290678
-
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Portugal ➾ Football",BTV HD
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1497
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Football",PT: ELEVEN SPORTS 1
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1499
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Football",PT: ELEVEN SPORTS 2
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1503
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Football",PT: ELEVEN SPORTS 3
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1506
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Football",PT: ELEVEN SPORTS 4
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1509
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Football",PT: ELEVEN SPORTS 5
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1512
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Football",PT: ELEVEN SPORTS 6
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1515
-
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ News",PT: Bloomberg
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/5933
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ News",PT: Canal Macau
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/197872
-#EXTINF:0 tvg-id="CMTV.pt" group-title="Portugal ➾ News",PT: CMTV
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1412
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ News",PT: CNN PORTUGAL
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1414
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ News",PT: euronews
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/4007
-#EXTINF:0 tvg-id="sicnoticias.pt" group-title="Portugal ➾ News",PT: SIC NOTÍCIAS
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1416
-#EXTINF:0 tvg-id="TVI.pt" group-title="Portugal ➾ News",PT: TVI
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1410
-
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Sports",PT: CANAL 11
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1480
-#EXTINF:0 tvg-id="Eurosport1.pt" group-title="Portugal ➾ Sports",PT: EUROSPORT 1
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1517
-#EXTINF:0 tvg-id="Eurosport2.pt" group-title="Portugal ➾ Sports",PT: EUROSPORT 2
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1518
-#EXTINF:0 tvg-id="FuelTV.pt" group-title="Portugal ➾ Sports",PT: Fuel TV
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1521
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Portugal ➾ Sports",PT: SPORT TV +
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1481
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Portugal ➾ Sports",PT: SPORT TV 1
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1483
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Portugal ➾ Sports",PT: SPORT TV 2
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1486
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Portugal ➾ Sports",PT: SPORT TV 3
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1489
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Portugal ➾ Sports",PT: SPORT TV 4
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1492
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Portugal ➾ Sports",PT: SPORT TV 5
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1495
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Sports",PT: SPORT TV 6
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/281487
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Sports",PT: SPORT TV NBA
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2051
-#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Portugal ➾ Sports",PT: Sporting TV
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1519
-
-#EXTINF:0 tvg-id="CacaVision.pt" group-title="Portugal ➾ Nature",PT: Caçavision
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/13956
-#EXTINF:0 tvg-id="nationalgeographic.pt" group-title="Portugal ➾ Nature",PT: NAT GEO
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1530
-#EXTINF:0 tvg-id="NatGeoWild.pt" group-title="Portugal ➾ Nature",PT: NAT GEO Wild
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1531
-
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Documentary",PT: Discovery World
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/296226
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Documentary",PT: History
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1525
-#EXTINF:0 tvg-id="investigationdiscovery.pt" group-title="Portugal ➾ Documentary",PT: Investigation Discovery
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/5914
-
-#EXTINF:0 tvg-id="ext" group-title="Portugal",PT: Kuriakos Kids
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/10828
-#EXTINF:0 tvg-id="ext" group-title="Portugal",PT: Kuriakos TV
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9697
-#EXTINF:0 tvg-id="ext" group-title="Portugal",PT: NBA TV
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/296750
-
 
 ####################################################################################################################################
-#EXTINF:-1,[COLOR=orange][B]/////////  LISTAS REVISTAS: 08/09/2022  /////////[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]/////////  LISTAS REVISTAS: 15/09/2022  /////////[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -586,12 +361,6 @@ http://fortv.cc:8080/carls/1234/78523
 http://fortv.cc:8080/carls/1234/78526
 #EXTINF:-1 tvg-id="" tvg-name="PT: TVI 24" tvg-logo="" group-title="Portugal",CNN PORTUGAL 
 http://fortv.cc:8080/carls/1234/78527
-
-
-####################################################################################################################################
-#EXTINF:-1,[COLOR=orange][B]/////////  CANAIS TV PT  /////////[/B][/COLOR][COLOR=orange][/COLOR]
-
-#EXTM3U
 
 #EXTINF:-1,24 KITCHEN HD
 http://194.76.186.98:2021/play/a00w
