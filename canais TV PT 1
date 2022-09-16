@@ -30,6 +30,8 @@ https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
 http://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/index.m3u8
 #EXTINF:-1,[COLOR=white][B]ASSIM É PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
 https://livefocamundo.com:8081/tvmaxrio/index.m3u8?ROGERIOTORRES
+#EXTINF:-1,[COLOR=white][B]VIRTUAL TV PR HD[/B][/COLOR][COLOR=white][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/chunklist_w10453154.m3u8
 
 
 ##########################################################################################################################################
@@ -47,6 +49,8 @@ http://189.91.128.146:4444/udp/227.10.20.147:1234
 http://189.91.128.146:4444/udp/227.10.20.139:1234
 #EXTINF:-1,[COLOR=white][B]CANAL MACAU TV[/B][/COLOR][COLOR=white][/COLOR]
 https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]TDM MACAU TV[/B][/COLOR][COLOR=white][/COLOR]
+http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/HasBahCa.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Religious",[COLOR=white][B]KURIAKOS ANGOLA[/B][/COLOR][COLOR=white][/COLOR]
 http://w2.manasat.com:1935/ktv-ao/ktv-ao/chunklist.m3u8
 #EXTINF:-1,[COLOR=white][B]TPA[/B][/COLOR][COLOR=white][/COLOR]
@@ -140,6 +144,9 @@ http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
 
 #EXTINF:-1,[COLOR=white][B]EURONEWS PT HD[/B][/COLOR][COLOR=white][/COLOR]
 https://euronews.alteox.app/hls/pt_stream.m3u8
+
+#EXTINF:-1,[COLOR=white][B]SANTUÁRIO DE FÁTIMA HD[/B][/COLOR][COLOR=white][/COLOR]
+https://streamer-a01.videos.sapo.pt/live/santuario/chunklist.m3u8?wowzasessionid=inspiration
 
 
 ##########################################################################################################################################
