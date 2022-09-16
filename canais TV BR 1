@@ -14,6 +14,10 @@ CANAIS ABERTOS / LIVRES BRASIL - https://raw.githubusercontent.com/rogerioronin/
  
 #EXTM3U
 
+
+#EXTINF:-1,[COLOR=white][B]A FAZENDA BR (LIVE YOUTUBE)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=puP5-lzeOQQ
+
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DESPORTIVOS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 http://0000000000000000000000000000
