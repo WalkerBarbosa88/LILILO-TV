@@ -269,130 +269,97 @@ https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",Viva Russia HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIVA RUSSIA HD
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Factoria TV HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",FACTORIA TV HD
 https://eu1.servers10.com:8081/8010/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",MTV Xmas HD FR
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV XMAS HD FR
 http://190.2.155.162:8080/mtvfrance/mpegts
 #EXTINF:0 tvg-id="MTVHits.fr" group-title="Channels",MTV HITS HD FR
 http://190.2.155.162:8080/mtvhit/mpegts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MTV Biggest Pop HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV BIGGEST POP HD
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",MTV Block Party HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV BLOCK PARTY HD
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",MUZZIK HIP-HOP
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",POP STAR
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:0 tvg-id="TraceUrban.ru" group-title="Channels",Trace Urban HD
+#EXTINF:0 tvg-id="TraceUrban.ru" group-title="Channels",TRACE URBAN HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Trance is Star
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRANCE IS STAR 
 http://tis.catcast.tv/content/391/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Ocko Star
+#EXTINF:0 tvg-id="ext" group-title="Channels",OCKO STAR 
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",TRANCE IS STAR TV
 https://tis.catcast.tv/content/391/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Kronehit HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",KRONEHITS HD
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Kronehit TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",KRONEHITS TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Afrobeats
+#EXTINF:0 tvg-id="ext" group-title="Channels",AFROBEATS
 https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Первый музыкальный HD (Россия)
-http://rtmp.one.by:2300
-#EXTINF:0 tvg-id="ext" group-title="Channels",Portal FoxMix TV
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",PORTAL FOXMIX TV
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
-#EXTINF:0 tvg-id="M6MusicHits.fr" group-title="Channels",M6 Music HD
+#EXTINF:0 tvg-id="M6MusicHits.fr" group-title="Channels",M6 MUSIC HD
 http://190.2.155.162:8080/m6music/mpegts
 #EXTINF:0 tvg-id="ext" group-title="Channels",MGR TV HD
 https://vod.streams.ovh:3876/stream/play.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",MN Music
+#EXTINF:0 tvg-id="ext" group-title="Channels",MN MUSIC 
 http://mntv.livebox.co.in/musichls/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",MUSIC PLUS
 http://79.172.214.45:10190/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",XITE TV HD (NL)
+#EXTINF:0 tvg-id="ext" group-title="Channels",XITE TV HD 
 http://ms2.mx-cd.net/tv/226-1855782/XITE_NL.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Прибой ТВ HD
-http://185.78.112.46:8077/priboy_tv_hd/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",INRATING TV HD
 http://inrating-tv.cdn-04.cosmonova.net.ua/hls/inrating-tv_ua_hi/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTV Altea HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTV ALTEA HD
 http://54.38.156.56/live/stream/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Reload Radio Music Power HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",RELOAD RADIO MUSIC POWER 
 http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Music Top
+#EXTINF:0 tvg-id="ext" group-title="Channels",MUSIC TOP 
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Music Reload TV HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",MUSIC RELOAD TV HD
 http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Maidan TV HD Татарстан
+#EXTINF:0 tvg-id="ext" group-title="Channels",MAIDAN TV HD
 http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
-#EXTINF:0 tvg-id="mezzo-hd" group-title="Channels",Mezzo Live HD
+#EXTINF:0 tvg-id="mezzo-hd" group-title="Channels",MEZZO LIVE HD
 https://sc.id-tv.kz/mezzo_life_hd_34_35.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sonus FM
+#EXTINF:0 tvg-id="ext" group-title="Channels",SONUS FM
 http://www.sonus.fm:1935/public/stream_720p/chunklist_w514335426.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Radio Хит ТВ (300p)
-http://lova.me/hls/hit.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",MusicPlus HD HU
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",MUSICPLUS HD
 http://s02.diazol.hu:10190/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Musica del Recuerdo
+#EXTINF:0 tvg-id="ext" group-title="Channels",MUSICA DEL RECUERDO 
 https://eu1.servers10.com:8081/8066/index.m3u8
 #EXTINF:0 tvg-id="TVM3.ch" group-title="Channels",TVM3
 https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Techno Warehouse HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",TECHNO WAREHOUSE HD
 https://eu-nl-012.worldcast.tv/dancetelevisionthree/dancetelevisionthree.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Best of Dance TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEST OF DANCE TV
 https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Deep House District
+#EXTINF:0 tvg-id="ext" group-title="Channels",DEEP HOUSE DISTRICT 
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",DANCE TV TECHNO
 https://eu-nl-012.worldcast.tv/dancetelevisionthree/dancetelevisionthree.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Techno Warehouse
+#EXTINF:0 tvg-id="ext" group-title="Channels",TECHNO WAREHOUSE
 https://eu-nl-012.worldcast.tv/dancetelevisionthree/2/dancetelevisionthree.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",House
+#EXTINF:0 tvg-id="ext" group-title="Channels",HOUSE
 https://eu-nl-012.worldcast.tv/dancetelevisionfive/2/dancetelevisionfive.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",V2 Beat HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",V2 BEAT HD
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",XITE NL HD
 http://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Xite HD DE
+#EXTINF:0 tvg-id="ext" group-title="Channels",XITE HD DE
 https://xite-samsung-de.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",World HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",WORLD HD
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Шум дождя
-https://a.jsrdn.com/broadcast/76381deeda/+0000/c.m3u8
-#EXTINF:0 tvg-id="kuhnya" group-title="Channels",КУХНЯ ТВ
-https://sc.id-tv.kz/kuhnya_hd_34_35.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Кулинар ТВ
-http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
-#EXTINF:0 tvg-id="eda" group-title="Channels",ЕДА
-https://sc.id-tv.kz/EdaHD_34_35.m3u8
-#EXTINF:0 tvg-id="eda-hd" group-title="Channels",ЕДА HD
-https://sc.id-tv.kz:443/EdaHD_34_35.m3u8
-#EXTINF:0 tvg-id="telecafe" group-title="Channels",Телекафе
-https://sc.id-tv.kz:443/Telecafe_36_37.m3u8
-
-#EXTINF:0 tvg-id="dozhd" group-title="Channels",Дождь
-http://46.19.100.174:4450/play/a00f/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Дождь r
-http://46.19.100.174:4450/play/a00f/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Каббала
-http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
-#EXTINF:0 tvg-id="cctv" group-title="Channels",CGTN Русский
-http://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Meteonews
-https://streaming.meteonews.net/hls/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Luxury HD
-http://nano.teleservice.su:8080/hls/luxury.m3u8
-
-#EXTINF:0 tvg-id="avi" group-title="Videos",Black Sabbath Последний концерт 2017
-https://hye1eaipby4w.takedwn.ws/01_08_19/01/08/15/tYz885fY/1080_fPrE3bbi.mp4/index-v1-a1.m3u8
-
-
 
 #EXTINF:0 tvg-id="ext" group-title="Music",A2I MUSIC
 https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",ARABICA TV (720p)
+#EXTINF:0 tvg-id="ext" group-title="Music",ARABICA TV HD
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",ARTIST ALOUD
 https://live.hungama.com/linear/artist-aloud/playlist.m3u8
@@ -422,20 +389,7 @@ http://216.66.42.47:7777/GemAZ_HD.m3u8
 https://tv.inka.net.pe/bestcablehatuntv/bestcablehatuntv/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",HITS 360 TV
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",HQM BALADAS
-https://livelist01.yowi.tv/lista/5d7d2c21e0ec7a8a99fd1fdbc52cbdc0782f77fc/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",HQM FOLK
-https://livelist01.yowi.tv/lista/9f5310c179e8e840188d183be235f755b18cf703/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",HQM HITS
-https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",HQM POP
-https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",HQM REMEMBER
-https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",HQM ROCK
-https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",HQM SPANISH
-https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Music",IBIZA GLOBAL TV
 https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
 #EXTINF:0 tvg-id="KalaignarIsaiAruvi.in" group-title="Music",ISAI ARUVI
@@ -700,35 +654,35 @@ https://allanf181.github.io/adaptive-streams/streams/kr/Mnet.m3u8
 http://51.210.199.20/hls/stream.m3u8
 
 
-#EXTINF:0 tvg-id="bridge" group-title="Музичні",Bridge
+#EXTINF:0 tvg-id="bridge" group-title="Музичні",BRIDGE
 https://livetv.mylifeisgood.ml/channels/bridgetv24h
-#EXTINF:0 tvg-id="bridge-hd" group-title="Музичні",Bridge TV Deluxe
+#EXTINF:0 tvg-id="bridge-hd" group-title="Музичні",BRIDGE TV DELUXE
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=bridgedeluxetv
 #EXTINF:0 tvg-id="dange" group-title="Музичні",BRIDGE TV HITS
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=bridgehitstv
-#EXTINF:0 tvg-id="shlyager" group-title="Музичні",BRIDGE TV Шлягер
+#EXTINF:0 tvg-id="shlyager" group-title="Музичні",BRIDGE TV 
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=bridgetvshlyager
-#EXTINF:0 tvg-id="ext" group-title="Музичні",Chd-Tv-Rock
+#EXTINF:0 tvg-id="ext" group-title="Музичні",CHD TV ROCK
 http://stream1.chd-servers.ml/chdtvrock/index.m3u8
-#EXTINF:0 tvg-id="ClubbingTV.pt" group-title="Музичні",Clubbing TV
+#EXTINF:0 tvg-id="ClubbingTV.pt" group-title="Музичні",CLUBBING TV
 https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музичні",Deep House District
+#EXTINF:0 tvg-id="ext" group-title="Музичні",DEEP HOUSE DISTRICT 
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:0 tvg-id="DSTV.bg" group-title="Музичні",DSTV
 http://46.249.95.140:8081/hls/data.m3u8
-#EXTINF:0 tvg-id="eumusic" group-title="Музичні",EU Music
+#EXTINF:0 tvg-id="eumusic" group-title="Музичні",EU MUSIC
 http://91.213.59.156/play/88/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музичні",Happy Radio
+#EXTINF:0 tvg-id="ext" group-title="Музичні",HAPPY RADIO
 https://live.prd.dlive.tv/hls/live/happyradio.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музичні",House
+#EXTINF:0 tvg-id="ext" group-title="Музичні",HOUSE 
 https://eu-nl-012.worldcast.tv/dancetelevisionfive/2/dancetelevisionfive.m3u8
-#EXTINF:0 tvg-id="inrating" group-title="Музичні",Inrating
+#EXTINF:0 tvg-id="inrating" group-title="Музичні",INRATING 
 http://91.213.59.156/play/55/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музичні",Kiss Kiss Italia HD
+#EXTINF:0 tvg-id="ext" group-title="Музичні",KISS KISS ITÁLIA HD
 https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музичні",Kronehit TV
+#EXTINF:0 tvg-id="ext" group-title="Музичні",KRONEHITS TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музичні",Lenadi
+#EXTINF:0 tvg-id="ext" group-title="Музичні",LENADI
 http://edge-01-pub.persik.by:82/live/Ch052pub/index.m3u8
 #EXTINF:0 tvg-id="m-1" group-title="Музичні",M1 HD
 http://91.213.59.156/play/39/index.m3u8
@@ -736,75 +690,75 @@ http://91.213.59.156/play/39/index.m3u8
 http://91.213.59.156/play/41/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музичні",M6Music HD
 http://190.2.155.162:8080/m6music/mpegts
-#EXTINF:0 tvg-id="mezzo-hd" group-title="Музичні",Mezzo Live HD
+#EXTINF:0 tvg-id="mezzo-hd" group-title="Музичні",MEZZO LIVE HD
 http://213.226.137.140:81/tl/l56/mpegts
-#EXTINF:0 tvg-id="ext" group-title="Музичні",MTV Biggest Pop HD
+#EXTINF:0 tvg-id="ext" group-title="Музичні",MTV BIGGEST POP HD
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музичні",MTV Block Party HD
+#EXTINF:0 tvg-id="ext" group-title="Музичні",MTV BLOCK PARTY HD
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-#EXTINF:0 tvg-id="mtvlive-hd" group-title="Музичні",MTV Live HD
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="Музичні",MTV LIVE HD
 http://193.233.9.49/streams/media/MTV_Live_HD/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музичні",MTV Yo!
+#EXTINF:0 tvg-id="ext" group-title="Музичні",MTV YO!
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музичні",MUSIC PLUS
 http://79.172.214.45:10190/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музичні",NRG 91 Music HD
+#EXTINF:0 tvg-id="ext" group-title="Музичні",NRG 91 MUSIC HD
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
-#EXTINF:0 tvg-id="OckoExpres.cz" group-title="Музичні",Ocko Expres
+#EXTINF:0 tvg-id="OckoExpres.cz" group-title="Музичні",OCKO EXPRESS
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музичні",Ocko Star
+#EXTINF:0 tvg-id="ext" group-title="Музичні",OCKO STAR
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:0 tvg-id="Ocko.cz" group-title="Музичні",Ocko TV
+#EXTINF:0 tvg-id="Ocko.cz" group-title="Музичні",OCKO TV
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 #EXTINF:0 tvg-id="RockTV.it" group-title="Музичні",ROCK TV
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist_w1354578804_b1600000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музичні",Shant Music
+#EXTINF:0 tvg-id="ext" group-title="Музичні",SHANT MUSIC 
 http://5.188.172.179/Shant-Music/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музичні",Sluhay RADIO
+#EXTINF:0 tvg-id="ext" group-title="Музичні",SLUHAY RADIO
 http://edge-01-pub.persik.by:82/live/Ch048pub/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музичні",Sluhay.by
+#EXTINF:0 tvg-id="ext" group-title="Музичні",SLUHAY.by
 http://edge-01-pub.persik.by:82/live/Ch045pub/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музичні",Sluhay.by COVER
+#EXTINF:0 tvg-id="ext" group-title="Музичні",SLUHAY.by COVER
 http://edge-01-pub.persik.by:82/live/Ch117pub/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музичні",Sluhay.by EDM
+#EXTINF:0 tvg-id="ext" group-title="Музичні",SLUHAY.by EDM
 http://edge-01-pub.persik.by:82/live/Ch091pub/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музичні",Sluhay.by LIVE
+#EXTINF:0 tvg-id="ext" group-title="Музичні",SLUHAY.by LIVE
 http://edge-01-pub.persik.by:82/live/Ch173pub/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музичні",Sluhay.by MOVA
+#EXTINF:0 tvg-id="ext" group-title="Музичні",SLUHAY.by MOVA
 http://edge-01-pub.persik.by:82/live/Ch034pub/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музичні",Sluhay.by POP
+#EXTINF:0 tvg-id="ext" group-title="Музичні",SLUHAY.by POP
 http://edge-01-pub.persik.by:82/live/Ch066pub/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музичні",Sluhay.by RAP
+#EXTINF:0 tvg-id="ext" group-title="Музичні",SLUHAY.by RAP
 http://edge-01-pub.persik.by:82/live/Ch107pub/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музичні",Sluhay.by ROCK
+#EXTINF:0 tvg-id="ext" group-title="Музичні",SLUHAY.by ROCK
 http://edge-01-pub.persik.by:82/live/Ch114pub/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музичні",Stereo Citta TV
+#EXTINF:0 tvg-id="ext" group-title="Музичні",STEREO CITTA TV
 https://585b674743bbb.streamlock.net/9080/9080/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музичні",Stingray Alternative HD
+#EXTINF:0 tvg-id="ext" group-title="Музичні",STINGRAY ALTERNATIVE HD
 https://stirr.ott-channels.stingray.com/102/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музичні",Stingray Classic Rock HD
+#EXTINF:0 tvg-id="ext" group-title="Музичні",STINGRAY CLASSIC ROCK HD
 https://stirr.ott-channels.stingray.com/101/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музичні",Stingray Exitos del Momento HD
+#EXTINF:0 tvg-id="ext" group-title="Музичні",STINGRAY ÊXITOS DEL MOMENTO HD
 https://stirr.ott-channels.stingray.com/190/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музичні",Stingray Flashback 70's HD
+#EXTINF:0 tvg-id="ext" group-title="Музичні",STINGRAY FLASHBACK 70's HD
 https://stirr.ott-channels.stingray.com/115/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музичні",Stingray Greatest Hits HD
+#EXTINF:0 tvg-id="ext" group-title="Музичні",STINGRAY GREATEST HITS HD
 https://stirr.ott-channels.stingray.com/155/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музичні",Stingray Hip-Hop/R&B HD
+#EXTINF:0 tvg-id="ext" group-title="Музичні",STINGRAY HIP-HOP/R&B HD
 https://stirr.ott-channels.stingray.com/133/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музичні",Stingray Hit List HD
+#EXTINF:0 tvg-id="ext" group-title="Музичні",STINGRAY HIT LIST HD
 https://stirr.ott-channels.stingray.com/107/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музичні",Stingray Hot Country HD
+#EXTINF:0 tvg-id="ext" group-title="Музичні",STINGRAY HOT COUNTRY HD
 https://stirr.ott-channels.stingray.com/108/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музичні",Stingray Pop Adult HD
+#EXTINF:0 tvg-id="ext" group-title="Музичні",STINGRAY POP ADULT HD
 https://stirr.ott-channels.stingray.com/104/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музичні",Stingray Remember the 80s HD
+#EXTINF:0 tvg-id="ext" group-title="Музичні",STINGRAY REMEMBER THE 80´S HD
 https://stirr.ott-channels.stingray.com/128/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музичні",Stingray Soul Storm HD
+#EXTINF:0 tvg-id="ext" group-title="Музичні",STINGRAY SOUL STORM HD
 https://stirr.ott-channels.stingray.com/134/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музичні",TVM 3
 https://edge15.vedge.infomaniak.com/livecast/tvm3/chunklist_w678388921.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музичні",V2Beat TV Live
+#EXTINF:0 tvg-id="ext" group-title="Музичні",V2BEAT TV LIVE
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музичні",VESELJAK TV
 https://stream.veseljak.tv/hls/stream.m3u8
