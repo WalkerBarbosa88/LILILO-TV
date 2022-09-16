@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 ##################################################################################################################################################
 
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 07/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 16/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #################################################################################################################################################
  
@@ -214,11 +214,11 @@ http://37.235.38.139:4000/play/a048
 http://37.235.38.139:4000/play/a044
 #EXTINF:0 tvg-id="Automoto.fr" group-title="Channels",AUTOMOTO LA CHAINE
 http://37.235.38.139:4000/play/a042
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 1
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",BEIN SPORTS 1
 http://37.235.38.139:4000/play/a054
 #EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",BEIN SPORTS 2
 http://37.235.38.139:4000/play/a0cc
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 3 
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",BEIN SPORTS 3
 http://37.235.38.139:4000/play/a056
 #EXTINF:0 tvg-id="BeInSportMax10.fr" group-title="Channels",BEIN SPORTS MAX 10
 http://37.235.38.139:4000/play/a093
@@ -236,16 +236,12 @@ http://37.235.38.139:4000/play/a091
 http://37.235.38.139:4000/play/a092
 #EXTINF:0 tvg-id="BET.uk" group-title="Channels",BET
 http://37.235.38.139:4000/play/a03o
-#EXTINF:0 tvg-id="boomerang" group-title="Channels",BOOMERANG
-http://37.235.38.139:4000/play/a00o
 #EXTINF:0 tvg-id="CanalJ.fr" group-title="Channels",CANAL J
 http://37.235.38.139:4000/play/a0a4
 #EXTINF:0 tvg-id="Canal+Docs.fr" group-title="Channels",CANAL+DOCS
 http://37.235.38.139:4000/play/a0b7
 #EXTINF:0 tvg-id="CANAL+GrandEcran.fr" group-title="Channels",CANAL+GRAND ECRAN
 http://37.235.38.139:4000/play/a0d0
-#EXTINF:0 tvg-id="cartoon" group-title="Channels",CARTOON NETWORK
-http://37.235.38.139:4000/play/a0ay
 #EXTINF:0 tvg-id="ChassePeche.fr" group-title="Channels",CHASSE ET PECHE
 http://37.235.38.139:4000/play/a04b
 #EXTINF:0 tvg-id="CinecinemaClub.fr" group-title="Channels",CINE+ CLUB
@@ -268,8 +264,6 @@ http://37.235.38.139:4000/play/a00l
 http://37.235.38.139:4000/play/a039
 #EXTINF:0 tvg-id="DisneyJr.blt" group-title="Channels",DISNEY JUNIOR
 http://37.235.38.139:4000/play/a03j
-#EXTINF:0 tvg-id="Disney+.fr" group-title="Channels",DISNEY+
-http://37.235.38.139:4000/play/a070
 #EXTINF:0 tvg-id="EquidiaLive.fr" group-title="Channels",EQUIDIA
 http://37.235.38.139:4000/play/a0bv
 #EXTINF:0 tvg-id="ES1.fr" group-title="Channels",ES1
@@ -316,8 +310,6 @@ http://37.235.38.139:4000/play/a00k
 http://37.235.38.139:4000/play/a09r
 #EXTINF:0 tvg-id="PLANETEJustice.fr" group-title="Channels",PLANETE+ CI
 http://37.235.38.139:4000/play/a03a
-#EXTINF:0 tvg-id="PolarPlus.fr" group-title="Channels",POLAR+
-http://37.235.38.139:4000/play/a05r
 #EXTINF:0 tvg-id="RFMTV.fr" group-title="Channels",RFM TV
 http://37.235.38.139:4000/play/a00v
 #EXTINF:0 tvg-id="RTL9.fr" group-title="Channels",RTL9
@@ -346,116 +338,4 @@ http://37.235.38.139:4000/play/a047
 http://37.235.38.139:4000/play/a02l
 #EXTINF:0 tvg-id="WarnerHD.mx" group-title="Channels",WARNER TV
 http://37.235.38.139:4000/play/a0a5
-
-
-#EXTINF:-1,13 EME RUE HD
-http://193.252.43.21:10200/play/a0bo
-#EXTINF:-1,ALTICE STUDIO
-http://193.252.43.21:10200/play/a06c
-#EXTINF:-1,Action HD
-http://193.252.43.21:10200/play/a07u
-#EXTINF:-1,BEIN SPORTS 3 HD
-http://193.252.43.21:10200/play/a0c7
-#EXTINF:-1,BOOMERANG
-http://193.252.43.21:10200/play/a07w
-#EXTINF:-1,CANAL J
-http://193.252.43.21:10200/play/a07v
-#EXTINF:-1,CANAL+ CINEMA HD
-http://193.252.43.21:10200/play/a0b3
-#EXTINF:-1,CANAL+ DECALE HD
-http://193.252.43.21:10200/play/a0b6
-#EXTINF:-1,CANAL+ FAMILY HD
-http://193.252.43.21:10200/play/a0b5555
-#EXTINF:-1,CANAL+ HD
-http://193.252.43.21:10200/play/a0b7
-#EXTINF:-1,CANAL+ SERIES HD
-http://193.252.43.21:10200/play/a0b1
-#EXTINF:-1,CANAL+ SPORT HD
-http://193.252.43.21:10200/play/a0b4
-#EXTINF:-1,CINE+ CLUB
-http://193.252.43.21:10200/play/a0ba
-#EXTINF:-1,CINE+ EMOTION
-http://193.252.43.21:10200/play/a08b
-#EXTINF:-1,CINE+ FAMIZ
-http://193.252.43.21:10200/play/a0d5
-#EXTINF:-1,CINE+ FRISSON HD
-http://193.252.43.21:10200/play/a0bd
-#EXTINF:-1,CINE+ PREMIER HD
-http://193.252.43.21:10200/play/a0be
-#EXTINF:-1,CLIQUE TV HD
-http://193.252.43.21:10200/play/a0aw
-#EXTINF:-1,DISCOVERY FAMILY HD
-http://193.252.43.21:10200/play/a06l
-#EXTINF:-1,DISCOVERY INVESTIGATION HD
-http://193.252.43.21:10200/play/a06q
-#EXTINF:-1,DISNEY JUNIOR
-http://193.252.43.21:10200/play/a0b9
-#EXTINF:-1,EI FRANCE HD
-http://193.252.43.21:10200/play/a06r
-#EXTINF:-1,GAME ONE HD
-http://193.252.43.21:10200/play/a0ci
-#EXTINF:-1,LA CHAINE METEO BOUYTEL
-http://193.252.43.21:10200/play/a0c3
-#EXTINF:-1,NICKELODEON
-http://193.252.43.21:10200/play/a07f
-#EXTINF:-1,NICKELODEON 4TEEN
-http://193.252.43.21:10200/play/a06p
-#EXTINF:-1,NICKELODEON JUNIOR
-http://193.252.43.21:10200/play/a07t
-#EXTINF:-1,OCS CHOC HD
-http://193.252.43.21:10200/play/a0bq
-#EXTINF:-1,OCS CITY HD
-http://193.252.43.21:10200/play/a0bp
-#EXTINF:-1,OCS GEANTS HD
-http://193.252.43.21:10200/play/a0bs
-#EXTINF:-1,OCS MAX HD
-http://193.252.43.21:10200/play/a0br
-#EXTINF:-1,OL TV
-http://193.252.43.21:10200/play/a0ct
-#EXTINF:-1,PARIS PREMIERE HD
-http://193.252.43.21:10200/play/a071
-#EXTINF:-1,POLAR+ HD
-http://193.252.43.21:10200/play/a0at
-#EXTINF:-1,RMC SPORT 1
-http://193.252.43.21:10200/play/a08l
-#EXTINF:-1,RMC SPORT 2
-http://193.252.43.21:10200/play/a08n
-#EXTINF:-1,RMC SPORT ACCESS 1 
-http://193.252.43.21:10200/play/a09r
-#EXTINF:-1,RMC SPORT ACCESS 2 
-http://193.252.43.21:10200/play/a08v
-#EXTINF:-1,RMC SPORT LIVE 3
-http://193.252.43.21:10200/play/a0d1
-#EXTINF:-1,RMC SPORT LIVE 4
-http://193.252.43.21:10200/play/a0d2
-#EXTINF:-1,RMC SPORT LIVE 5
-http://193.252.43.21:10200/play/a0bu
-#EXTINF:-1,RMC SPORT LIVE 6
-http://193.252.43.21:10200/play/a0cd
-#EXTINF:-1,RTL9 HD
-http://193.252.43.21:10200/play/a089
-#EXTINF:-1,SYFY HD
-http://193.252.43.21:10200/play/a0aq
-#EXTINF:-1,SERIE CLUB HD
-http://193.252.43.21:10200/play/a073
-#EXTINF:-1,TCM CINEMA
-http://193.252.43.21:10200/play/a07z
-#EXTINF:-1,TEVA HD
-http://193.252.43.21:10200/play/a072
-#EXTINF:-1,TF1 HD
-http://193.252.43.21:10200/play/a06a
-#EXTINF:-1,TOONAMI
-http://193.252.43.21:10200/play/a08g
-#EXTINF:-1,TRACE URBAN FR HD
-http://193.252.43.21:10200/play/a0bb
-#EXTINF:-1,TV BREIZH HD
-http://193.252.43.21:10200/play/a0d6
-#EXTINF:-1,USHUAIA HD
-http://193.252.43.21:10200/play/a0ch
-#EXTINF:-1,VICELAND HD
-http://193.252.43.21:10200/play/a0av
-#EXTINF:-1,WARNER TV HD
-http://193.252.43.21:10200/play/a0au
-#EXTINF:-1,BEIN SPORT 1 HD
-http://193.252.43.21:10200/play/a0c5
 
