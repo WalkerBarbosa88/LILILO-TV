@@ -37,10 +37,6 @@ http://platin4k.eu:80/kralkerim/8TKLyJivVEA/55273?checkedby:iptvcat.com
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",CBC SPORT
 http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="sport1_rus" group-title="Sport",Матч! Арена
-http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="boec" group-title="Sport",Матч! Боец
-http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",ELEVEN SPORT 1 (FR)
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/135979?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",ELEVEN SPORT 1 (NL)
@@ -342,7 +338,7 @@ https://edge.taghtia.com/sa/10.m3u8?checkedby:iptvcat.com
 https://live.mnb.mn/live/mnb_sport.stream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",MAV TV MOTORSPORTS NETWORK
 https://mavtv-mavtvglobal-1-nz.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",MAV Tv MOTORSPORTS NETWORK
+#EXTINF:0 tvg-id="ext" group-title="Sport",MAV TV MOTORSPORTS NETWORK
 https://mavtv-mavtvglobal-1-nl.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",MIDPEN MEDIA CENTER & SPORTS CHANNEL
 https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8?checkedby:iptvcat.com
@@ -350,7 +346,7 @@ https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8?che
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",TRACE SPORTS STARS
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SuperSportNews.al" group-title="Sport",Super Sport 1 HD
+#EXTINF:0 tvg-id="SuperSportNews.al" group-title="Sport",SUPER SPORT 1 HD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161887?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 2 HD
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161883?checkedby:iptvcat.com
@@ -421,7 +417,7 @@ http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69539?checkedby:iptvcat.com
 http://78.83.191.18:8000/play/a076?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="esp" group-title="Sport",EUROSPORT 
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69549?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="esp" group-title="Sport",Eurosport
+#EXTINF:0 tvg-id="esp" group-title="Sport",EUROSPORT
 http://78.83.191.18:8000/play/a05y?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="esp" group-title="Sport",EUROSPORT 1 HD+
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69550?checkedby:iptvcat.com
