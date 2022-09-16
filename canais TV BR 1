@@ -14,9 +14,25 @@ CANAIS ABERTOS / LIVRES BRASIL - https://raw.githubusercontent.com/rogerioronin/
  
 #EXTM3U
 
+####################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS EXTRAS BRASIL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+http://0000000000000000000000000000
+
+#EXTM3U
 
 #EXTINF:-1,[COLOR=white][B]A FAZENDA BR (LIVE YOUTUBE)[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=puP5-lzeOQQ
+#EXTINF:-1,[COLOR=white][B]GHOST TV[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="AGRO",[COLOR=white][B]AGRO BRASIL TV[/B][/COLOR][COLOR=white][/COLOR]
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="ANIME E TOKUSATSU",[COLOR=white][B]LOADING TV[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="GEEK",[COLOR=white][B]BONS TEMPOS TV[/B][/COLOR][COLOR=white][/COLOR]
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="GEEK",[COLOR=white][B]RETRO CARTOONS TV[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8?ROGERIOTORRES
+
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DESPORTIVOS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
