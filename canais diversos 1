@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 #####################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 08/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 16/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
 ###########################################################################################################################################
  
@@ -24,14 +24,12 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]RED BULL TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://videostreaming.cloudserverlatam.com/Batalladegallos/Batalladegallos/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]BEIN SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
 #EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]BEIN SPORTS XTRA HD[/B][/COLOR][COLOR=white][/COLOR]
 https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]BEIN SPORTS XTRA ES HD[/B][/COLOR][COLOR=white][/COLOR]
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FUEL TV FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://fueltv-fueltv-2-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USA",[COLOR=white][B]NITRO CIRCUS[/B][/COLOR][COLOR=white][/COLOR]
@@ -278,8 +276,6 @@ https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 https://inliveserver.com:1936/11010/11010/playlist.m3u8?PlaylistM3UCL
 #EXTINF: -1,[COLOR=white][B]TMZ[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
-#EXTINF:155,[COLOR=white][B]PEOPLE TV[/B][/COLOR][COLOR=white][/COLOR]
-https://peopletv-oo.akamaized.net/playlist480p.m3u8
 #EXTINF:155,[COLOR=white][B]GLAMOUR TV[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglamour/CDN/playlist.m3u8
 #EXTINF:155,[COLOR=white][B]YOUNG TV HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -371,8 +367,6 @@ https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_sam_19
 https://000000
 
 
-#EXTINF:-1,[COLOR=white][B]THE BEACH TV[/B][/COLOR][COLOR=white][/COLOR]
-https://live.lwcdn.com/live/amlst:ALH8QFrg_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YajfXJ1.png" group-title="USA",[COLOR=white][B]BEACH TV PAWLEYS ISLAND[/B][/COLOR][COLOR=white][/COLOR]
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tHopHL9.png" group-title="USA",[COLOR=white][B]BEACH TV 30A[/B][/COLOR][COLOR=white][/COLOR]
@@ -465,8 +459,6 @@ https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 #EXTINF:-1,[COLOR=white][B]TOPCINE TV[/B][/COLOR][COLOR=white][/COLOR]
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-#EXTINF:-1,[COLOR=white][B]AMC PRESENTS[/B][/COLOR][COLOR=white][/COLOR]
-https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]AVA SERIES HD[/B][/COLOR][COLOR=white][/COLOR]
 http://51.210.199.4/hls/stream.m3u8
 #EXTINF:-1,[COLOR=white][B]BBC DRAMA HD[/B][/COLOR][COLOR=white][/COLOR]
