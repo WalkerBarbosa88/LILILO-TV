@@ -10,7 +10,7 @@ http://0.0.0.0:0000
 * LISTAS GRATUITAS IPTV ORG - https://github.com/iptv-org/iptv
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 13/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 16/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
@@ -30,13 +30,6 @@ https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
 http://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/index.m3u8
 #EXTINF:-1,[COLOR=white][B]ASSIM É PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
 https://livefocamundo.com:8081/tvmaxrio/index.m3u8?ROGERIOTORRES
-
-#EXTINF:-1,[COLOR=white][B]SAUDE+ PT[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/81973
-#EXTINF:-1,[COLOR=white][B]DISNEY+ TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/226084
-#EXTINF:-1,[COLOR=white][B]HBO TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/201073
 
 
 ##########################################################################################################################################
@@ -106,11 +99,8 @@ https://bit.ly/sicportugal?/3000k.m3u8
 #EXTINF:-1,[COLOR=white][B]SIC HD[/B][/COLOR][COLOR=white][/COLOR]
 http://194.76.186.98:2021/play/a004
 
-#EXTINF:-1,[COLOR=white][B]SIC NOTÍCIAS HD[/B][/COLOR][COLOR=white][/COLOR]
-https://bit.ly/sicnotici?/index.m3u8?HasBahCa.m3u8
-
-#EXTINF:-1,[COLOR=white][B]SIC NOTÍCIAS HD[/B][/COLOR][COLOR=white][/COLOR]
-https://bit.ly/sicnotici?/index.m3u8
+#EXTINF:-1,[COLOR=white][B]SIC NOTÍCIAS FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8000/play/a0ga
 
 #EXTINF:-1,[COLOR=white][B]TVI FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://194.76.186.98:2021/play/a005
@@ -150,9 +140,6 @@ http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
 
 #EXTINF:-1,[COLOR=white][B]EURONEWS PT HD[/B][/COLOR][COLOR=white][/COLOR]
 https://euronews.alteox.app/hls/pt_stream.m3u8
-
-#EXTINF:-1,[COLOR=white][B]CMTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://fortv.cc:8080/carls/1234/78441
 
 
 ##########################################################################################################################################
