@@ -116,91 +116,91 @@ http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1240.m3u8
 https://000000
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]V2BEAT[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",V2BEAT
 http://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]RU.TV[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",RU.TV
 http://46.174.83.66/RU_TV/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]MUSIC BOX RUSSIAN[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",MUSIC BOX RUSSIAN
 http://musicbox.mediacdn.ru/cdn/musicboxhd/playlist_sdmid.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]MUSIC BOX GOLD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",MUSIC BOX GOLD
 http://musicbox.mediacdn.ru/cdn/musicboxgold/playlist_sdmid.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]VIVA[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIVA
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]XITE HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",XITE HD
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]XITE HD DE[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",XITE HD DE
 https://xite-samsung-de.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]MUSIC PLUS[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",MUSIC PLUS
 http://79.172.214.45:10190/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]TVM3[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVM3
 https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]ZEROUNO TV[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",ZEROUNO TV
 http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]MUSIC TOP[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",MUSIC TOP
 http://200.115.193.177/live/msctphd-360/chunklist_w1135351997.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]M6 MUSIC[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",M6 MUSIC
 http://190.2.155.162:8080/m6music/mpegts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]AFROBEATS[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",AFROBEATS
 https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]MTV YO![/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV YO!
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SEXY KPOP TV[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",SEXY KPOP TV
 http://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]CMT MUSIC[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",CMT MUSIC
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]PLAY TV[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",PLAY TV
 http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]STEREO CITTA TV[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",STEREO CITTA TV
 https://585b674743bbb.streamlock.net/9080/9080/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]FABULOSA FM[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",FABULOSA FM
 http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]HITS 360[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",HITS 360
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]VIDEO TOUR CHANNEL[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",VIDEO TOUR CHANNEL
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]MUSIC TOP[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]MOLAHITS TV[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",MOLAHITS TV
 http://ventdelnord.tv:8080/mola/directe.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]TV VCONLINE HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV VCONLINE HD
 https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]RUIDOS TV[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",RUIDOS TV
 https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]ALEGRIA TV HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALEGRIA TV HD
 https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]PORTAL FOXMIX HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",PORTAL FOXMIX HD
 https://593b04c4c5670.streamlock.net:443/portalfoxmix/portalfoxmix/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]TURBO MIX TV[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",TURBO MIX TV
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]TOP TV[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",TOP TV
 https://cast.cdnseguro.com:19360/8092/8092.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]LATIN ZONE TV[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",LATIN ZONE TV
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]CADENA ELITE[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",CADENA ELITE
 https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]BAJO CERO TV[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",BAJO CERO TV
 https://mediacpstreamchile.com:1936/bajocero/bajocero/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]LATINOS RÁDIO[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",LATINOS RÁDIO
 https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]RCKTV[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",RCKTV
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]FREESTYLES DJ´S HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",FREESTYLES DJ´S HD
 https://paneltv.online:1936/8178/8178/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]CANAL 38[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 38
 https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SEXY KPOP TV[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",SEXY KPOP TV
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]HATUN TV[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",HATUN TV
 https://tv.inka.net.pe/bestcablehatuntv/bestcablehatuntv/index.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]BEST CABLE MUSIC[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEST CABLE MUSIC
 https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]MAS CUMBIA[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",MAS CUMBIA
 https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]TV EXITOS HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV EXITOS HD
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]MUNDO DE LA MÚSICA TV[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",MUNDO DE LA MÚSICA TV
 https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]ZAPPING MUSIC HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",ZAPPING MUSIC HD
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-id="ext" group-title="Channels",FACTORIA TV HD
 https://eu1.servers10.com:8081/8010/index.m3u8
@@ -269,60 +269,60 @@ http://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",WORLD HD
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Музыкальные",[COLOR=white]BRIDGE TV[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Музыкальные",BRIDGE TV
 https://livetv.mylifeisgood.ml/channels/bridgerushittv
-#EXTINF:0 tvg-id="ext" group-title="Музыкальные",[COLOR=white]BRIDGE TV[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Музыкальные",BRIDGE TV
 https://livetv.mylifeisgood.ml/channels/bridgetvshlyager
-#EXTINF:0 tvg-id="ext" group-title="Музыкальные",[COLOR=white]ТНТ MUSIC HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Музыкальные",ТНТ MUSIC HD
 https://sc.id-tv.kz:443/TNTMusic_34_35.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музыкальные",[COLOR=white]М1 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Музыкальные",М1 HD
 http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4598/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музыкальные",[COLOR=white]М2 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Музыкальные",М2 HD
 http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4601/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музыкальные",[COLOR=white]ONE RU HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Музыкальные",ONE RU HD
 http://rtmp.one.by:2200/
-#EXTINF:0 tvg-id="ext" group-title="Музыкальные",[COLOR=white]ONE RU HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Музыкальные",ONE RU HD
 http://rtmp.one.by:1300/
-#EXTINF:0 tvg-id="ext" group-title="Музыкальные",[COLOR=white]ONE RU HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Музыкальные",ONE RU HD
 http://rtmp.one.by:2300
-#EXTINF:0 tvg-id="ext" group-title="Музыкальные",[COLOR=white]MTV SPANKIN NEW[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Музыкальные",MTV SPANKIN NEW
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музыкальные",[COLOR=white]MTV BLOCK PARTY[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Музыкальные",MTV BLOCK PARTY
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white]1HD MUSIC TV[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Music",1HD MUSIC TV
 https://sc.id-tv.kz/1hd.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white]7S MUSIC[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Music",7S MUSIC
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white]9XM[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Music",9XM
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white]30A MUSIC[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Music",30A MUSIC
 https://30a-tv.com/music.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white]30A MUSIC[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Music",30A MUSIC
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white]101 TELE ANTEQUERA[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Music",101 TELE ANTEQUERA
 https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white]BAEBLE MUSIC[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Music",BAEBLE MUSIC
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbaeble/CDN/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white]BARAZA TV[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Music",BARAZA TV
 https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white]BEST CABLE MAS CUMBIA[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Music",BEST CABLE MAS CUMBIA
 https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white]BEST CABLE MUSIC[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Music",BEST CABLE MUSIC
 https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white]BIBEL TV MUSIK[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Music",BIBEL TV MUSIK
 http://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white]CADENA ELITE[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Music",CADENA ELITE
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white]CALIFORNIA MUSIC CHANNEL[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Music",CALIFORNIA MUSIC CHANNEL
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white]CANAL 38[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Music",CANAL 38
 https://rtmp.info/canal38/envivo/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white]CAROLINA TV[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Music",CAROLINA TV
 https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white]CITY MUSIC TV[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Music",CITY MUSIC TV
 https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white]COMPANY TV[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Music",COMPANY TV
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",A2I MUSIC
 https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
