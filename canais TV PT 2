@@ -342,12 +342,11 @@ http://45.92.69.72:8001/play/a03c
 http://45.92.69.72:8001/play/a03g
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ODISSEIA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a03d
+      
 
-
-#EXTM3U         
-#EXTINF:-1,[COLOR=orange][B]LISTA 2 ADICIONADA: 18/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
-#EXTM3U
-
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS PT LISTA 2  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
 
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",RTP 1 FHD
