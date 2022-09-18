@@ -61,11 +61,6 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=bridgedeluxetv
 #EXTINF:-1,[COLOR=white][B]BRIDGE HITS TV[/B][/COLOR][COLOR=white][/COLOR]
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=bridgehitstv
 
-#EXTINF:-1,[COLOR=white][B]PINK HITS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1083
-#EXTINF:-1,[COLOR=white][B]PINK HITS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://vipuhdteam.com:8080/pimptv/3TL4ezQGmR/1084
-
 #EXTINF:-1,[COLOR=white][B]KRONEHITS FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
