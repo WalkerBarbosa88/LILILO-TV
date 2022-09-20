@@ -20,8 +20,6 @@ http://0000000000000000000000000000
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=white][B]A FAZENDA BR (LIVE YOUTUBE)[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=puP5-lzeOQQ
 #EXTINF:-1,[COLOR=white][B]GHOST TV[/B][/COLOR][COLOR=white][/COLOR]
 https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="AGRO",[COLOR=white][B]AGRO BRASIL TV[/B][/COLOR][COLOR=white][/COLOR]
