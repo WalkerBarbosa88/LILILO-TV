@@ -10,9 +10,20 @@ http://0.0.0.0:0000
 #######################################################################################################################################
 
 
-#EXTINF:-1,[COLOR=yellow][B]VIDEOS OFICIAIS - LISTA ATUALIZADA: 15/09/2022[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA DE VÍDEOS OFICIAIS ATUALIZADA: 20/09/2022[/B][/COLOR][COLOR=yellow][/COLOR]
  
 #EXTM3U
+
+#EXTINF:-1,[COLOR=white][B]ELTON JOHN & BRITNEY SPEARS - HOLD ME CLOSER[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8hLtlzkoGPk
+
+#EXTINF:-1,[COLOR=white][B]KSI - NOT OVER YET (LIVE 2022)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=pqFlKhUDO5U
+
+#EXTINF:-1,[COLOR=white][B]KSI - PATIENCE (2021)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=p_4M4TKTydM
+
+
 
 #EXTINF:-1,[COLOR=white][B]MARSHMELLO E KHALID - NUMB[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=mRXKnG2eugU
