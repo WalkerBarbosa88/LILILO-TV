@@ -118,6 +118,9 @@ https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificca
 #EXTINF:-1,[COLOR=white][B]TVI REALITY TV[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
 
+#EXTINF:-1,[COLOR=white][B]TVI REALITY TV[/B][/COLOR][COLOR=white][/COLOR]
+https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Religious",[COLOR=white][B]KURIAKOS TV[/B][/COLOR][COLOR=white][/COLOR]
 http://w1.manasat.com:1935/ktv/ktv/chunklist.m3u8
 
