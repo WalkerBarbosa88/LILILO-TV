@@ -10,7 +10,7 @@ http://0.0.0.0:0000
 * LISTAS GRATUITAS IPTV ORG - https://github.com/iptv-org/iptv
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 16/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 23/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
@@ -181,8 +181,6 @@ http://45.92.69.72:8000/play/a0gk
 http://45.92.69.72:8001/play/a00k
 #EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Channels",[COLOR=white][B]RTP ÁFRICA[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0hn
-#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Channels",[COLOR=white][B]RTP ÁFRICA[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1424
 #EXTINF:0 tvg-id="sic.pt" group-title="Channels",[COLOR=white][B]SIC HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0g9
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -231,9 +229,6 @@ http://45.92.69.72:8001/play/a041
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX COMEDY FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a032
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX COMEDY HD[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1465
-
 #EXTINF:0 tvg-id="AMC.pt" group-title="Channels",[COLOR=white][B]AMC HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0jf
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]AMC HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -317,8 +312,6 @@ http://45.92.69.72:8001/play/a02n
 http://45.92.69.72:8001/play/a02o
 #EXTINF:0 tvg-id="Eurosport1.pt" group-title="Channels",[COLOR=white][B]EUROSPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gh
-#EXTINF:0 tvg-id="Eurosport1.pt" group-title="Channels",[COLOR=white][B]EUROSPORT 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1518
 #EXTINF:0 tvg-id="Eurosport2.pt" group-title="Portugal ➾ Sports",[COLOR=white][B]EUROSPORT 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://topstb.com:8000/50656250782258/27115840859269/29341
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FUEL TV HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -364,8 +357,6 @@ http://45.92.69.72:8000/play/a0jk
 http://45.92.69.72:8000/play/a0ix
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CANAL PANDA[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a02t
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PANDA KIDS[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/290678
 #EXTINF:0 tvg-id="cartoon.pt" group-title="Channels",[COLOR=white][B]CARTOON NETWORK[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0h3
 #EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Channels",[COLOR=white][B]PANDA BIGGS[/B][/COLOR][COLOR=white][/COLOR]
@@ -384,15 +375,6 @@ http://45.92.69.72:8001/play/a02r
 http://45.92.69.72:8000/play/a001
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CARTOON NETWORK[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a02s
-#EXTINF:-1,[COLOR=white][B]BOOMERANG HD[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/24529
-#EXTINF:-1,[COLOR=white][B]JIMJAM HD[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1442
-#EXTINF:-1,[COLOR=white][B]NICK JUNIOR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/9693
-#EXTINF:-1,[COLOR=white][B]NICKELODEON HD[/B][/COLOR][COLOR=white][/COLOR]
-#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Portugal ➾ Kids",PT: nickelodeon
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1436
 
 
 ****************************************************************** CANAIS DISCOVERY / DOCUMENTÁRIOS  ******************
