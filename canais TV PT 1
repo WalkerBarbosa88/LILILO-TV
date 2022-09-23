@@ -229,6 +229,9 @@ http://45.92.69.72:8001/play/a041
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX COMEDY FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a032
+#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",[COLOR=white][B]FOX COMEDY[/B][/COLOR][COLOR=white][/COLOR]
+http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342036
+
 #EXTINF:0 tvg-id="AMC.pt" group-title="Channels",[COLOR=white][B]AMC HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0jf
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]AMC HD[/B][/COLOR][COLOR=white][/COLOR]
