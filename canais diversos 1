@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 #####################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 16/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 23/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
 ###########################################################################################################################################
  
@@ -64,8 +64,6 @@ https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
 #EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]STADIUM HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stadium.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]EXTREME SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
-https://sc.id-tv.kz/ExtremeSportsHD_34_35.m3u8
 #EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]BET TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/chunklist_b3596000_slENG.m3u8
 #EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]BEST CABLE SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -172,10 +170,7 @@ http://api.magiaiptv.com/live/800349/713534/m1_6Ij7gxZOdZwDVlMjlbHc5_1080p
 
 #EXTINF:-1,[COLOR=white][B]HGTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://87.212.248.44:60130/play/a04s
-#EXTINF:-1,[COLOR=white][B]HGTV BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://89.187.173.219:80/daniel2022/daniel2022/498
-#EXTINF:-1,[COLOR=white][B]HGTV BR FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://89.187.173.219:80/daniel2022/daniel2022/497
+
 
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS GRÁTIS 4K  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
