@@ -7,7 +7,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
             
-#EXTINF:-1,[COLOR=orange][B]LISTA 1 REVISTA: 16/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA 1 REVISTA: 23/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -17,66 +17,41 @@ EXEMPLO  [COLOR=white][B]ONFM PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP1[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0g7
-#EXTINF:0 tvg-id="rtp1.pt" group-title="Portugal ➾ LifeStyle",[COLOR=white][B]RTP1[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1404
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP2[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0g8
-#EXTINF:0 tvg-id="rtp2.pt" group-title="Portugal ➾ LifeStyle",[COLOR=white][B]RTP2[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1406
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP3[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gd
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP3[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1418
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP AÇORES[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0ir
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP AÇORES[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/2055
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP MADEIRA[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0is
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP MADEIRA[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/278558
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP MEMÓRIA[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gk
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP MEMÓRIA[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1425
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP ÁFRICA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0hn
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP ÁFRICA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1424
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0g9
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1408
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC CARAS[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0jd
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC CARAS[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/5910
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC MULHER[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gt
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC MULHER[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1427
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC NOTÍCIAS[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0ga
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC RADICAL[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0it
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC RADICAL[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1429
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC K[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gs
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC K[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/4021
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVI[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gb
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVI[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1410
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVI FICÇÃO[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0iu
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVI FICÇÃO[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1421
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVI REALITY HD[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1423
+
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CNN PORTUGAL[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a02l
@@ -92,8 +67,7 @@ http://45.92.69.72:8001/play/a03x
 http://45.92.69.72:8000/play/a0j2
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PORTO CANAL HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a041
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ News",[COLOR=white][B]EURONEWS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/4007
+
 
 
 ******************************************************************  FILMES E SÉRIES DE TV PT  ******************
@@ -101,14 +75,10 @@ http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/4007
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX COMEDY HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a032
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX COMEDY FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1465
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]AMC HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0jf
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CINEMUNDO HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0je
-#EXTINF:0 tvg-id="Cinemundo.pt" group-title="Portugal ➾ Movie",[COLOR=white][B]CINEMUNDO HD[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1477
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gm
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -133,16 +103,12 @@ http://45.92.69.72:8000/play/a0jg
 http://45.92.69.72:8001/play/a02v
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SYFY HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gp
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ Movie",[COLOR=white][B]SYFY HD[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1475
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]AXN HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a02z
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]AXN MOVIES HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a034
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]AXN WHITE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a033
-#EXTINF:0 tvg-id="AXNBlack.pt" group-title="Portugal ➾ Movie",[COLOR=white][B]AXN BLACK HD[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/278653
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX CRIME HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a031
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX LIFE HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -177,10 +143,6 @@ http://45.92.69.72:8000/play/a0ii
 http://45.92.69.72:8000/play/a0jr
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MTV 00´S[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0hf
-#EXTINF:0 tvg-id="AfroMusic.pt" group-title="Portugal ➾ Music",[COLOR=white][B]AFRO MUSIC CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1536
-#EXTINF:0 tvg-id="ext" group-title="Portugal ➾ LifeStyle",[COLOR=white][B]ALMA LUSA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/264642
 
 
 ******************************************************************  CANAIS BR E ÁFRICA  ******************
@@ -204,22 +166,14 @@ http://45.92.69.72:8001/play/a03z
 http://45.92.69.72:8000/play/a0gh
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]EUROSPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a02o
-#EXTINF:0 tvg-id="Eurosport2.pt" group-title="Portugal ➾ Sports",[COLOR=white][B]EUROSPORT 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1518
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CANAL 11[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0ge
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CANAL 11[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a03w
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CANAL 11[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1480
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]A BOLA TV[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0ho
-#EXTINF:0 tvg-id="ABolaTV.pt" group-title="Portugal ➾ LifeStyle",[COLOR=white][B]A BOLA TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1420
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORTING TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a02n
-#EXTINF:0 tvg-id="FuelTV.pt" group-title="Portugal ➾ Sports",[COLOR=white][B]FUEL TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/iptvlogin2021/TxuRYF2022D5Wt/1521
 
 
 ******************************************************************  CANAIS TV INFANTIS  ******************
@@ -525,8 +479,6 @@ http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342007
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342005
 #EXTINF:0 tvg-id="CANCAONOVA.pt" group-title="Channels",[COLOR=white][B]CANÇÃO NOVA[/B][/COLOR][COLOR=white][/COLOR]
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342004
-#EXTINF:0 tvg-id="CBSReality.pt" group-title="Channels",[COLOR=white][B]CBS REALITY[/B][/COLOR][COLOR=white][/COLOR]
-http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342003
 #EXTINF:0 tvg-id="AfroMusic.pt" group-title="Channels",[COLOR=white][B]AFRO MUSIC[/B][/COLOR][COLOR=white][/COLOR]
 http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342002
 #EXTINF:0 tvg-id="MCMPop.pt" group-title="Channels",[COLOR=white][B]MCM POP[/B][/COLOR][COLOR=white][/COLOR]
