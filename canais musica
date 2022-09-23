@@ -4,7 +4,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 16/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 23/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -112,9 +112,6 @@ http://hz1.teleport.cc/HLS/SD.m3u8
 #EXTINF:-1,[COLOR=white][B]DEEJAY HD[/B][/COLOR][COLOR=white][/COLOR]
 https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b2816000.m3u8
 
-#EXTINF:-1,[COLOR=white][B]PINK HITS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://46.29.169.15:4001/play/a01i/index.m3u8
-
 #EXTINF:-1,[COLOR=white][B]NRG 91[/B][/COLOR][COLOR=white][/COLOR]
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 
@@ -189,18 +186,6 @@ https://eu-nl-012.worldcast.tv/dancetelevisionfour/2/dancetelevisionfour.m3u8
 #EXTINF:-1,[COLOR=white][B]DANCE TV - HOUSE FLOOR[/B][/COLOR][COLOR=white][/COLOR]
 https://eu-nl-012.worldcast.tv/dancetelevisionfive/2/dancetelevisionfive.m3u8
 
-#EXTINF:-1,[COLOR=white][B]DANCE TV - DEEP TECH[/B][/COLOR][COLOR=white][/COLOR]
-https://eu-nl-012.worldcast.tv/dancetelevisionsix/2/dancetelevisionsix.m3u8
-
-#EXTINF:-1,[COLOR=white][B]DANCE TV - MAINSTAGE[/B][/COLOR][COLOR=white][/COLOR]
-https://eu-nl-012.worldcast.tv/dancetelevisionseven/2/dancetelevisionseven.m3u8
-
-#EXTINF:-1,[COLOR=white][B]DANCE TV - CHILL AF[/B][/COLOR][COLOR=white][/COLOR]
-https://eu-nl-012.worldcast.tv/dancetelevisioneight/2/dancetelevisioneight.m3u8
-
-#EXTINF:-1,[COLOR=white][B]DANCE TV - MELODIC TECH[/B][/COLOR][COLOR=white][/COLOR]
-https://eu-nl-012.worldcast.tv/dancetelevisionnine/2/dancetelevisionnine.m3u8
-
 #EXTINF:-1,[COLOR=white][B]DANCE IMPACT TV[/B][/COLOR][COLOR=white][/COLOR]
 http://tvradioimpact.go.ro:8080/tmp_hls/tvimpact/index.m3u8
 
@@ -264,10 +249,6 @@ https://edge.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8?checkedby:iptv
 ######################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  MÚSICA ROCK  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
-
-
-#EXTINF:-1,[COLOR=white][B]CATEDRAL DO ROCK HD[/B][/COLOR][COLOR=white][/COLOR]
-https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]SLUHAY ROCK HD[/B][/COLOR][COLOR=white][/COLOR]
 https://sluhay.by/live/Ch114pub/index.m3u8
@@ -341,12 +322,6 @@ http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]POWERTURK HD[/B][/COLOR][COLOR=white][/COLOR]
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]MUSIC BOX HITS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://musicbox.mediacdn.ru/cdn/musicboxhd/playlist_sdmid.m3u8
-
-#EXTINF:-1,[COLOR=white][B]MUSIC BOX GOLD HD[/B][/COLOR][COLOR=white][/COLOR]
-http://musicbox.mediacdn.ru/cdn/musicboxgold/playlist_sdmid.m3u8
 
 #EXTINF:-1,[COLOR=white][B]RU TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
