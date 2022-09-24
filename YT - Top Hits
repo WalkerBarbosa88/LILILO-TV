@@ -14,11 +14,11 @@ http://0.0.0.0:0000
  
 #EXTM3U
 
-
-
-
 #EXTINF:-1,[COLOR=white][B]LIZZO - 2 BE LOVED (AM I READY)[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=krdQLzzAeZU
+
+#EXTINF:-1,[COLOR=white][B]CALVIN HARRIS - STAY WITH ME[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=eMQuofsOOzo
 
 #EXTINF:-1,[COLOR=white][B]ELTON JOHN & BRITNEY SPEARS - HOLD ME CLOSER[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8hLtlzkoGPk
