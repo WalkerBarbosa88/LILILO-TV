@@ -17,6 +17,9 @@ http://0.0.0.0:0000
 #EXTINF:-1,[COLOR=white][B]LIZZO - 2 BE LOVED (AM I READY)[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=krdQLzzAeZU
 
+#EXTINF:-1,[COLOR=white][B]PINK - IRRELEVENT[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=54TqACn_9V8
+
 #EXTINF:-1,[COLOR=white][B]DJ KHALED FT. DRAKE - STAYING ALIVE[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=PM2f835zx88
 
