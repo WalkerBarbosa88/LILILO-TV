@@ -103,6 +103,9 @@ http://myott.top/stream/MQC4SG6DIS/302.m3u8
 #EXTINF:-1,[COLOR=white][B]MTV LIVE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://193.233.9.49/streams/media/MTV_Live_HD/index.m3u8
 
+#EXTINF:-1,[COLOR=white][B]MTV LIVE HD[/B][/COLOR][COLOR=white][/COLOR]
+http://5.14.125.198:25463/play/a04i/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="TV Musicas",[COLOR=white][B]ONE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://rtmp.one.by:1300
 
@@ -185,6 +188,18 @@ https://eu-nl-012.worldcast.tv/dancetelevisionfour/2/dancetelevisionfour.m3u8
 
 #EXTINF:-1,[COLOR=white][B]DANCE TV - HOUSE FLOOR[/B][/COLOR][COLOR=white][/COLOR]
 https://eu-nl-012.worldcast.tv/dancetelevisionfive/2/dancetelevisionfive.m3u8
+
+#EXTINF:-1,[COLOR=white][B]DANCE TV - DEEP TECHNO & HOUSE[/B][/COLOR][COLOR=white][/COLOR]
+https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
+
+#EXTINF:-1,[COLOR=white][B]DANCE TV - MAINSTREAM[/B][/COLOR][COLOR=white][/COLOR]
+https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
+
+#EXTINF:-1,[COLOR=white][B]DANCE TV - CHILLOUT[/B][/COLOR][COLOR=white][/COLOR]
+https://mbit1.worldcast.tv/dancetelevisioneight/stream_0.m3u8
+
+#EXTINF:-1,[COLOR=white][B]DANCE TV - MELODIC TECH[/B][/COLOR][COLOR=white][/COLOR]
+https://mbit1.worldcast.tv/dancetelevisionnine/stream_0.m3u8
 
 #EXTINF:-1,[COLOR=white][B]DANCE IMPACT TV[/B][/COLOR][COLOR=white][/COLOR]
 http://tvradioimpact.go.ro:8080/tmp_hls/tvimpact/index.m3u8
