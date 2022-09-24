@@ -170,10 +170,8 @@ http://api.magiaiptv.com/live/800349/713534/m1_6Ij7gxZOdZwDVlMjlbHc5_1080p
 
 #EXTINF:-1,[COLOR=white][B]HGTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://87.212.248.44:60130/play/a04s
-#EXTINF:-1,[COLOR=white][B]HGTV BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://4p.vc:80/zeads1234/123456/18699
-#EXTINF:-1,[COLOR=white][B]HGTV BR SD[/B][/COLOR][COLOR=white][/COLOR]
-http://4p.vc:80/zeads1234/123456/18700
+#EXTINF:-1,[COLOR=white][B]HGTV BR FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://187.120.222.12:8000/play/HGTV/index.m3u8
 
 
 ###########################################################################################################################################
