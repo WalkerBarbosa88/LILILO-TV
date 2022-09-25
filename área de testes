@@ -7,13 +7,13 @@ http://0.0.0.0:0000
 #EXTM3U
 
 ####################################################################################################################################
-#EXTINF:-1,[COLOR=orange][B]/////////  TESTE DE FILMES E SÉRIES DE TV  /////////[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  TESTE DE FILMES E SÉRIES DE TV  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #EXTM3U
 
-SITE: https://soap2day.to/ (SEM PUBLICIDADE)
-      https://moviestars.to/ (MUITA PUBLICIDADE)
-      https://yesmovies.ag (SEM PUBLICIDADE)
+SITE: https://soap2day.to/ (SEM PUBLICIDADE) - FUNCIONA
+      https://moviestars.to/ (MUITA PUBLICIDADE) - FUNCIONA
+      https://yesmovies.ag (SEM PUBLICIDADE) - NÃO FUNCIONA
       
 
 #EXTINF:-1,[COLOR=white][B]DOCUMENTÁRIO: OBI WAN KENOBI (2022)[/B][/COLOR][COLOR=white][/COLOR]
@@ -32,7 +32,7 @@ https://moplay.org/ts/gAAAAABjMDRbde2PAiNd_WjC3j95hW7LTWrne00472_-padfFIN-AMb3VA
 
 
 ####################################################################################################################################
-#EXTINF:-1,[COLOR=orange][B]/////////  LISTAS REVISTAS: 15/09/2022  /////////[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  LISTAS REVISTAS: 15/09/2022  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #EXTM3U
 
@@ -127,7 +127,7 @@ http://194.76.186.98:2021/play/a01c
 http://194.76.186.98:2021/play/a005
 
 ####################################################################################################################################
-#EXTINF:-1,[COLOR=orange][B]/////////  LISTA CANAIS TV BR  /////////[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  LISTA CANAIS TV BR  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #EXTM3U
 
