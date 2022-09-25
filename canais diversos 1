@@ -168,8 +168,10 @@ http://api.magiaiptv.com/live/800349/713534/m1_6Ij7gxZOdZwDVlMjlbHc5_720p_2M
 #EXTINF:-1,[COLOR=white][B]DISCOVERY H&H BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://api.magiaiptv.com/live/800349/713534/m1_6Ij7gxZOdZwDVlMjlbHc5_1080p
 
-#EXTINF:-1,[COLOR=white][B]HGTV HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]HGTV ES HD[/B][/COLOR][COLOR=white][/COLOR]
 http://87.212.248.44:60130/play/a04s
+#EXTINF:-1,[COLOR=white][B]HGTV TK HD[/B][/COLOR][COLOR=white][/COLOR]
+http://95.211.250.58/HGTV/index.m3u8
 
 
 
