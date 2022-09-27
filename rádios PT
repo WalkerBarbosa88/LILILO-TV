@@ -430,14 +430,11 @@ http://centova.radios.pt:8493/stream
 http://centova.radios.pt:8511/stream/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO ANTENA LIVRE GOUVEIA[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radios.pt:9456/stream/;
-#EXTINF:-1,[COLOR=white][B]RÁDIO F[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8579/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO ALTITUDE[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radio.com.pt:9034/stream/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO VOZ DO SORRAIA[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radios.pt:8511/stream/;
-#EXTINF:-1,[COLOR=white][B]RÁDIO F[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:8579/stream
+
 
 ######################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  DISTRITO: LEIRIA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
