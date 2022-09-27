@@ -6,7 +6,7 @@ http://0.0.0.0:000000
 FONTE DE INFORMAÇÃO: http://fmstream.org/index.php?c=G&o=top
  
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 02/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 27/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  TOP HITS & DANCE MUSIC  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -30,8 +30,6 @@ https://rfcmedia.streamguys1.com/MusicPulsePremium.mp3
 https://pureplay.cdnstream1.com/6025_128.mp3 
 #EXTINF:-1,[COLOR=white][B]TOP SUMMER BR[/B][/COLOR][COLOR=white][/COLOR]
 http://94.130.133.39/topsummerstation.mp3 
-#EXTINF:-1,[COLOR=white][B]MY105 STREAM 1[/B][/COLOR][COLOR=white][/COLOR]
-http://stream01.my105.ch/backup11.mp3
 #EXTINF:-1,[COLOR=white][B]ORIGINAL HITS[/B][/COLOR][COLOR=white][/COLOR]
 http://listen-original.sharp-stream.com/originalchart.mp3
 #EXTINF:-1,[COLOR=white][B]BRIDGE FM[/B][/COLOR][COLOR=white][/COLOR]
@@ -137,16 +135,10 @@ https://000000
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=white][B]RÁDIO ROMÂNTICA[/B][/COLOR][COLOR=white][/COLOR]
-http://radios.vpn.sapo.pt/AO/radio4.mp3 
 #EXTINF:-1,[COLOR=white][B]RÁDIO MIRAMAR[/B][/COLOR][COLOR=white][/COLOR]
 https://nl.digitalrm.pt:8066/stream
 #EXTINF:-1,[COLOR=white][B]SUPER FM[/B][/COLOR][COLOR=white][/COLOR]
 http://41.223.153.14:8000/;
-#EXTINF:-1,[COLOR=white][B]PRAIA FM[/B][/COLOR][COLOR=white][/COLOR]
-http://radios.vpn.sapo.pt/CV/radio4.mp3 
-#EXTINF:-1,[COLOR=white][B]RÁDIO MACUTO[/B][/COLOR][COLOR=white][/COLOR]
-http://s2.voscast.com:8098/;
 #EXTINF:-1,[COLOR=white][B]AFRO FM[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.zeno.fm/fu367ky6hkeuv
 #EXTINF:-1,[COLOR=white][B]RÁDIO GUMBE FM[/B][/COLOR][COLOR=white][/COLOR]
@@ -364,7 +356,7 @@ https://000000
 
 FONTE DE INFORMAÇÃO: https://vk.com/clubslynet
 
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 02/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 27/09/2022 - 4 OFFLINE[/B][/COLOR][COLOR=orange][/COLOR]
 #EXTM3U
 
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",1.FM - A List 80s
