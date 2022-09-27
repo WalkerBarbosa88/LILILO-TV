@@ -104,12 +104,18 @@ https://000000
 #EXTM3U
 
 
+#EXTINF:-1,[COLOR=white][B]RÁDIO NACIONAL[/B][/COLOR][COLOR=white][/COLOR]
+https://radio2.lflr.com.br/ebc-live/radio-nacional-am/chunks.m3u8
 #EXTINF:-1,[COLOR=white][B]RÁDIO GLOBO FM RJ[/B][/COLOR][COLOR=white][/COLOR]
 https://medias.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
 #EXTINF:-1,[COLOR=white][B]RÁDIO CBN[/B][/COLOR][COLOR=white][/COLOR]
 http://stm10.conectastm.com:8276/;
+#EXTINF:-1,[COLOR=white][B]RÁDIO CBN[/B][/COLOR][COLOR=white][/COLOR]
+https://medias.sgr.globo.com/hls/aCBNSP/aCBNSP.m3u8
 #EXTINF:-1,[COLOR=white][B]JOVEM PAN NEWS[/B][/COLOR][COLOR=white][/COLOR]
 http://svrstream2.svreua.com:8350/stream 
+#EXTINF:-1,[COLOR=white][B]JOVEM PAN FM[/B][/COLOR][COLOR=white][/COLOR]
+http://r13.ciclano.io:8573/live
 #EXTINF:-1,[COLOR=white][B]RÁDIO COCA-COLA[/B][/COLOR][COLOR=white][/COLOR]
 https://str3.openstream.co/1084?aw_0_1st.collectionid%3D3908%26stationId%3D3908%26publisherId%3D1108%26k%3D1637665614%26aw_0_azn.pcountry%3D%5B%22BR%22%5D%26aw_0_azn.planguage%3D%5B%22pt%22%5D%26aw_0_azn.pgenre%3D%5B%22Top40%5C%2FHits+-+Pop%22%2C%22Rock%22%2C%22Electronic%22%5D
 #EXTINF:-1,[COLOR=white][B]RÁDIO ENERGIA FM[/B][/COLOR][COLOR=white][/COLOR]
@@ -126,8 +132,15 @@ http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/p
 https://22823.live.streamtheworld.com/RT_SP.mp3
 #EXTINF:-1,[COLOR=white][B]RÁDIO MIX SP[/B][/COLOR][COLOR=white][/COLOR]
 https://18733.live.streamtheworld.com/MIXFM_SAOPAULO.mp3
-#EXTINF:-1,[COLOR=white][B]JOVEM PAN FM[/B][/COLOR][COLOR=white][/COLOR]
-http://r13.ciclano.io:8573/live
+#EXTINF:-1,[COLOR=white][B]RÁDIO NATIVA FM[/B][/COLOR][COLOR=white][/COLOR]
+http://streaming10.hstbr.net:8154/live
+#EXTINF:-1,[COLOR=white][B]RÁDIO CAPITAL BR[/B][/COLOR][COLOR=white][/COLOR]
+https://ice.fabricahost.com.br/capitalfmsp
+#EXTINF:-1,[COLOR=white][B]RÁDIO EDUCADORA[/B][/COLOR][COLOR=white][/COLOR]
+http://streaming.educadora.irdeb.ba.gov.br/stream-01
+#EXTINF:-1,[COLOR=white][B]RÁDIO TROPICAL FM[/B][/COLOR][COLOR=white][/COLOR]
+http://r13.ciclano.io:8942/live
+
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  RÁDIOS DE ÁFRICA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -143,6 +156,27 @@ http://41.223.153.14:8000/;
 https://stream.zeno.fm/fu367ky6hkeuv
 #EXTINF:-1,[COLOR=white][B]RÁDIO GUMBE FM[/B][/COLOR][COLOR=white][/COLOR]
 http://s4.nexuscast.com:8548/stream
+#EXTINF:-1,[COLOR=white][B]RÁDIO CABINDA[/B][/COLOR][COLOR=white][/COLOR]
+https://paineldj.com.br:20140/stream
+#EXTINF:-1,[COLOR=white][B]RÁDIO MARIA ANGOLA[/B][/COLOR][COLOR=white][/COLOR]
+https://dreamsiteradiocp5.com/proxy/rmangola?mp=/stream 
+#EXTINF:-1,[COLOR=white][B]LUANDA ANTENA COMERCIAL[/B][/COLOR][COLOR=white][/COLOR]
+http://lacluanda.radioca.st/streams/128kbps
+#EXTINF:-1,[COLOR=white][B]SAVANE FM[/B][/COLOR][COLOR=white][/COLOR]
+https://stream.zeno.fm/rfhpc7y9grquv
+#EXTINF:-1,[COLOR=white][B]RÁDIO COMERCIAL[/B][/COLOR][COLOR=white][/COLOR]
+http://radios.vpn.sapo.pt/CV/radio9.mp3
+#EXTINF:-1,[COLOR=white][B]PRAIA FM[/B][/COLOR][COLOR=white][/COLOR]
+http://radios.vpn.sapo.pt/CV/radio4.mp3
+#EXTINF:-1,[COLOR=white][B]RÁDIO CABO VERDE[/B][/COLOR][COLOR=white][/COLOR]
+http://radios.vpn.sapo.pt/CV/radio7.mp3
+#EXTINF:-1,[COLOR=white][B]RÁDIO ÁFRICA[/B][/COLOR][COLOR=white][/COLOR]
+http://136.0.17.26:8000/;
+#EXTINF:-1,[COLOR=white][B]AFRO FM[/B][/COLOR][COLOR=white][/COLOR]
+https://stream.zeno.fm/fu367ky6hkeuv
+#EXTINF:-1,[COLOR=white][B]AFM[/B][/COLOR][COLOR=white][/COLOR]
+http://play.golo.fm:7992/stream
+
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  RÁDIOS DO CANADA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -181,6 +215,8 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]BBC WORLD[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+#EXTINF:-1,[COLOR=white][B]BBC WORLD USA[/B][/COLOR][COLOR=white][/COLOR]
+http://utulsa.streamguys1.com/KWGSHD3-MP3
 #EXTINF:-1,[COLOR=white][B]BBC RADIO 1[/B][/COLOR][COLOR=white][/COLOR]
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
 #EXTINF:-1,[COLOR=white][B]BBC RADIO 1 XTRA[/B][/COLOR][COLOR=white][/COLOR]
@@ -197,6 +233,8 @@ http://stream.live.vc.bbcmedia.co.uk/bbc_radio_four_extra
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_five_live_online_nonuk
 #EXTINF:-1,[COLOR=white][B]BBC RADIO 6[/B][/COLOR][COLOR=white][/COLOR]
 http://stream.live.vc.bbcmedia.co.uk/bbc_6music
+#EXTINF:-1,[COLOR=white][B]BBC RADIO SCOTLAND[/B][/COLOR][COLOR=white][/COLOR]
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_scotland_fm 
 #EXTINF:-1,[COLOR=white][B]BBC RADIO MANCHESTER[/B][/COLOR][COLOR=white][/COLOR]
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_manchester
 #EXTINF:-1,[COLOR=white][B]BBC RADIO WORLD SERVICE[/B][/COLOR][COLOR=white][/COLOR]
@@ -347,6 +385,8 @@ http://addrad.io/4459dvr
 http://icecast.radiofrance.fr/franceinfo-hifi.aac 
 #EXTINF:-1,[COLOR=white][B]EURORADIO FM[/B][/COLOR][COLOR=white][/COLOR]
 http://stream.euroradio.fm:8000/euroradio1
+#EXTINF:-1,[COLOR=white][B]METROPOLE FM BR[/B][/COLOR][COLOR=white][/COLOR]
+https://listen.radioking.com/radio/268642/stream/313975
 
 #EXTM3U
 
