@@ -1,14 +1,25 @@
-####################################################################################################################################
-#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////////////  DESENHOS ANIMADOS ANTIGOS (AUDIO PT)  //////////////[/B][/COLOR][COLOR=greenyelow][/COLOR]
+###########################################################################################################################################################
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////////////  SÉRIES TV ANTIGOS (AUDIO PT)  //////////////[/B][/COLOR][COLOR=greenyelow][/COLOR]
 http://0.0.0.0:0000
-####################################################################################################################################
+###########################################################################################################################################################
  
 #EXTM3U
 
-#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: BREVEMENTE[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 28/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
+
+#EXTINF:-1,[COLOR=yellow][B]/////////  DIVERSOS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]A OVELHA CHONE - DVD COMPLETO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=XThpH9vbJvc
+
+#EXTINF:-1 tvg-logo="",
+plugin://plugin.video.youtube/play/?video_id=
+
+###########################################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  D´ARTACÃO E OS TRÊS MOSCÃOTEIROS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
@@ -42,7 +53,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Wxbv96
 #EXTINF:-1 tvg-logo="",[COLOR=white][B]EPISÓDIO 10, A GRANDE FUGA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CH1uUT9yo3A&ab_channel=DogtanianandthethreeMuskehounds
 
-########################################################
+####################################################################################################################################################
 
 #EXTINF:-1,[COLOR=yellow][B]/////////  PANDA TAO TAO  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
@@ -78,7 +89,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3SS9aU
 #EXTINF:-1 tvg-logo="",[COLOR=white][B]EPISÓDIO 10, OS ESTRANHOS AMIGOS[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=gJB6KfjryHg&list=PL_nrkj0VMuOYKQUbjQmK3SAyGBfeVxIGn&index=10&ab_channel=clubejunior
 
-########################################################
+####################################################################################################################################################
 
 #EXTINF:-1,[COLOR=yellow][B]/////////  ERA UMA VEZ ... A VIDA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
@@ -126,7 +137,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=NR8Us-
 #EXTINF:-1 tvg-logo="",
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
 
-########################################################
+####################################################################################################################################################
 
 
 #EXTINF:-1,[COLOR=yellow][B]/////////  ERA UMA VEZ ... O ESPAÇO  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -162,7 +173,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8v0pAg
 #EXTINF:-1 tvg-logo="",[COLOR=white][B]EPISODIO 1O, O PLANETA DESPEDAÇADO[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ilbno_AAbvo&ab_channel=YuriPitau
 
-########################################################
+####################################################################################################################################################
 
 #EXTINF:-1,[COLOR=yellow][B]/////////  TOM SAWYER  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
@@ -198,7 +209,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=2CC9TX
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=rklH4xIbYBg&ab_channel=PsYkYd79
 
 
-########################################################
+####################################################################################################################################################
 
 #EXTINF:-1,[COLOR=yellow][B]/////////  O BOCAS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
@@ -236,7 +247,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4NXCKZ
 #EXTINF:-1 tvg-logo="",
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
 
-########################################################
+####################################################################################################################################################
 
 #EXTINF:-1,[COLOR=yellow][B]/////////  RUA SÉSAMO  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
@@ -275,7 +286,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=e3Qu0a
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
 
 
-########################################################
+####################################################################################################################################################
 
 #EXTINF:-1,[COLOR=yellow][B]/////////  NODDY  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
@@ -314,7 +325,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=6vzn5C
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
 
 
-########################################################
+####################################################################################################################################################
 
 #EXTINF:-1,[COLOR=yellow][B]/////////  RUCA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
@@ -353,5 +364,5 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YcFeZI
 #EXTINF:-1 tvg-logo="",
 plugin://plugin.video.youtube/play/?video_id=
 
-########################################################
+####################################################################################################################################################
 
