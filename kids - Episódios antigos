@@ -16,9 +16,6 @@ https://000000
 #EXTINF:-1 tvg-logo="",[COLOR=white][B]A OVELHA CHONE - DVD COMPLETO[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=XThpH9vbJvc
 
-#EXTINF:-1 tvg-logo="",
-plugin://plugin.video.youtube/play/?video_id=
-
 ###########################################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  D´ARTACÃO E OS TRÊS MOSCÃOTEIROS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
@@ -134,8 +131,6 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=aD3scb
 #EXTINF:-1 tvg-logo="",[COLOR=white][B]EPISÓDIO 15, A DIGESTÃO[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=NR8Us-jZ3kM&list=PLapqUe7ahArdwmctd4HOOKqSu7AfQlLOa&index=15
 
-#EXTINF:-1 tvg-logo="",
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
 
 ####################################################################################################################################################
 
@@ -244,9 +239,6 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=MaAEvt
 #EXTINF:-1 tvg-logo="",[COLOR=white][B]EPISÓDIO 10 - ÉPOCA DOS NINHOS[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4NXCKZgZrRM&ab_channel=PsYkYd79
 
-#EXTINF:-1 tvg-logo="",
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
-
 ####################################################################################################################################################
 
 #EXTINF:-1,[COLOR=yellow][B]/////////  RUA SÉSAMO  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -282,10 +274,6 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=kJhR2M
 #EXTINF:-1 tvg-logo="",[COLOR=white][B]EPISODIO 10 - O CONDE DE KONTARR[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=e3Qu0a9eAIM&list=PLapqUe7ahAreM8XeYi__gDPfAJqMvfs-9&index=10&ab_channel=miguelunas
 
-#EXTINF:-1 tvg-logo="",
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
-
-
 ####################################################################################################################################################
 
 #EXTINF:-1,[COLOR=yellow][B]/////////  NODDY  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -320,10 +308,6 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=e9m5Cr
 
 #EXTINF:-1 tvg-logo="",[COLOR=white][B]EPISODIO 10 - NODDY´S A MAIS[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=6vzn5C17pNQ&ab_channel=miguelunas
-
-#EXTINF:-1 tvg-logo="",
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
-
 
 ####################################################################################################################################################
 
