@@ -126,27 +126,44 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=b4VQIy
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=nu_b2p9llmo&list=PLxDgGtCmbXYIxjIukVFnq5YKBQu4XwL1X&index=7&ab_channel=PortugueseFairyTales
 
 #EXTINF:-1 tvg-logo="",[COLOR=white][B]O RATO DA CIDADE E O RATO DO CAMPO[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=nu_b2p9llmo&list=ZL89MdEGTxc
+plugin://plugin.video.youtube/play/?video_id=ZL89MdEGTxc
 
 #EXTINF:-1 tvg-logo="",[COLOR=white][B]O PATINHO FEIO[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=nu_b2p9llmo&list=0LLZEvXP4KQ
+plugin://plugin.video.youtube/play/?video_id=0LLZEvXP4KQ
 
 #EXTINF:-1 tvg-logo="",[COLOR=white][B]O HOMEM BISCOITO DE GENGIBRE[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=nu_b2p9llmo&list=vrdMYiEgIxU
+plugin://plugin.video.youtube/play/?video_id=vrdMYiEgIxU
 
 #EXTINF:-1 tvg-logo="",[COLOR=white][B]O LEÃO E O RATO[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=nu_b2p9llmo&list=HwVx3ylkCr4
+plugin://plugin.video.youtube/play/?video_id=HwVx3ylkCr4
 
 #EXTINF:-1 tvg-logo="",[COLOR=white][B]O FLAUTISTA DE HAMELIN[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=nu_b2p9llmo&list=u527dxe8TUE
+plugin://plugin.video.youtube/play/?video_id=u527dxe8TUE
 
 #EXTINF:-1 tvg-logo="",[COLOR=white][B]O PÁSSARO DE OURO[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=nu_b2p9llmo&list=EbjFSxZ272g
+plugin://plugin.video.youtube/play/?video_id=EbjFSxZ272g
 
 #EXTINF:-1 tvg-logo="",[COLOR=white][B]A ABELHA MAIA[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=nu_b2p9llmo&list=1FxzJZ_WR4Q
+plugin://plugin.video.youtube/play/?video_id=1FxzJZ_WR4Q
 
 #EXTINF:-1 tvg-logo="",[COLOR=white][B]O SONHO DA LEITEIRA[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=nu_b2p9llmo&list=2joNneEIxBw
+plugin://plugin.video.youtube/play/?video_id=2joNneEIxBw
+
+
+#EXTINF:-1 tvg-logo="",
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+
+#EXTINF:-1 tvg-logo="",
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+
+#EXTINF:-1 tvg-logo="",
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+
+#EXTINF:-1 tvg-logo="",
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+
+#EXTINF:-1 tvg-logo="",
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+
 #EXTINF:-1 tvg-logo="",
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
