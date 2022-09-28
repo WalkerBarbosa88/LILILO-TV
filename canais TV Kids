@@ -3,7 +3,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 16/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 28/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
 #########################################################################################################################################################################
  
@@ -285,92 +285,3 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f0d668b8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:0 tvg-id="ext" group-title="Kids",[COLOR=white][B]PLUTO TV TWEEN HD[/B][/COLOR][COLOR=white][/COLOR]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ae5af8797b00095c0794/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5db0ae5af8797b00095c0794&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=991&terminate=false&userId=
-
-#######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS TV INFANTIS IPTV ORG  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://000000
-
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",KETNET JUNIOR HD
-https://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",KOOGI TV HD
-https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",NEW KID TV
-https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PBS KIDS EASTERN TV
-https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PINKFONG BABY SHARK HD
-https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TJ JUNIOR HD
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=31
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVS HI TOPS HD
-https://rpn1.bozztv.com/36bay2/gusa-hitops/index.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Animation;Kids;Religious",3ABN KIDS NETWORK
-https://3abn-live.akamaized.net/hls/live/2010550-b/Kids/master.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Kids",ABC KIDS
-https://c.mjh.nz/101002210222
-#EXTINF:0 tvg-id="ext" group-title="Kids",AFARIN TV
-https://5ab29cc78f681.streamlock.net/afarinTV/livestream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",AGHAPY KIDS
-https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",BATTERY POP
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",BOB ESPONJA+
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609a33d06972da0007748ecf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc9fd0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=195dd54b-932b-4f28-be70-7e736585335a
-#EXTINF:0 tvg-id="ext" group-title="Kids",BOOMERANG ESLOVÉNIDA
-http://194.163.179.246/slovenci/djeciji/boomerang.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Kids",BRAT TV
-https://brat-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",CAMP SPOOPY
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
-#EXTINF:0 tvg-id="ext" group-title="Kids",CARTOON NETWORK (PORTUGAL)
-https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",CLOUDSERVER KIDS
-https://videostreaming.cloudserverlatam.com/Kids90/Kids90/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",COCORO
-https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",HAPPYKIDS JUNIOR 
-https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",KABILLION HD
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",KIDS CLICK 
-https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",KIDS FLIX 
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
-#EXTINF:0 tvg-id="ext" group-title="Kids",LEGO CHANNEL 
-https://legochannel-roku.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",MY KIDZ
-http://210.210.155.37/uq2663/h/h191/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",NICKELODEON AUSTRALIA 
-http://c0.cdn.trinity-tv.net/stream/7tsewn83ddjifz69us9je7eftbm5nuausb4dsvz9g5aydin9672n734qbb9jgcfpiqtpwudvs9dpi2udjc3eh4h462eie5azjmfbfgfjeqfuhjmmgx9zuj736ijg7nffhf8rviq5svkgxbp639y9nfgc.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",POCKET WATCH 
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpocketwatch/CDN/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",SEO TV KIDS 
-https://panel.seo.tv.bo:3182/live/franzleonellive.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",SKWAD
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
-#EXTINF:0 tvg-id="ext" group-title="Kids",TAHA TV
-https://media2.livaat.com/TAHA-TV/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",TELETUBBIES 
-https://8f720e1353ce43b8babcd780fe178755.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_WildBrainPresentsTeletubbies/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",TOON GOGGLES 
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
-#EXTINF:0 tvg-id="ext" group-title="Kids",TOONMAX TV
-http://210.210.155.37/qwr9ew/s/s50/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",TVS PINBALL NETWORK 
-https://rpn1.bozztv.com/36bay2/gusa-TVSCartoonNetwork/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",WATCH IT KID
-https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Kids",ZOO MOO 
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="o" group-title="Kids",О TV HD
-https://sc.id-tv.kz/o.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Animation;Kids",CARTOONITO (PORTUGAL)
-https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Animation;Kids",SPACETOON INDONÉSIA
-https://bravo.kugo.id/spacetoon/udp.stream/playlist.m3u8
-
-
