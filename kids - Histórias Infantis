@@ -1,11 +1,11 @@
 
-####################################################################################################################################
-#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////////// HISTÓRIAS E CONTOS INFANTIS //////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
+#############################################################################################################################################################
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////////  HISTÓRIAS E CONTOS INFANTIS (AUDIO PT)  //////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
 http://0.0.0.0:0000
-####################################################################################################################################
+#############################################################################################################################################################
  
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 28/08/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 28/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
 #EXTM3U
  
 #EXTINF:-1 tvg-logo="",[COLOR=white][B]A HISTÓRIA DA CAROCHINHA[/B][/COLOR][COLOR=white][/COLOR]
@@ -149,21 +149,81 @@ plugin://plugin.video.youtube/play/?video_id=1FxzJZ_WR4Q
 #EXTINF:-1 tvg-logo="",[COLOR=white][B]O SONHO DA LEITEIRA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=2joNneEIxBw
 
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]O GATO DE BOTAS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Kymxpr32uVQ
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]O LIVRO DA SELVA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=uxcrfaD3yq0
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]A PEQUENA GALINHA VERMELHA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=b4VQIyDQRIk
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]O PESCADOR E A MULHER[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4qivoqjQXcI&list=PLxDgGtCmbXYIxjIukVFnq5YKBQu4XwL1X&index=14
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]A PRINCESA E O DRAGÃO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=A_4N7qlfTKY&list=PLxDgGtCmbXYIxjIukVFnq5YKBQu4XwL1X&index=16
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]A VACA MÁGICA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HrFy41MERpA&list=PLxDgGtCmbXYIxjIukVFnq5YKBQu4XwL1X&index=19
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]O TIGRE VEM AÍ[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=OgF8GquLi8c&list=PLxDgGtCmbXYIxjIukVFnq5YKBQu4XwL1X&index=20
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]A ÁRVORE ORGULHOSA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=whanPx5CZSU&list=PLxDgGtCmbXYIxjIukVFnq5YKBQu4XwL1X&index=21
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]SINBAD (PARTE2)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=pMgFRtXih-k&list=PLxDgGtCmbXYIxjIukVFnq5YKBQu4XwL1X&index=23
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]O COMPANHEIRO DE VIAGEM[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=qPKWJ0qIukE&list=PLxDgGtCmbXYIxjIukVFnq5YKBQu4XwL1X&index=24
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]QUEM PÕE O GUIZO NO GATO?[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=lvbesnzOY0s&list=PLxDgGtCmbXYIxjIukVFnq5YKBQu4XwL1X&index=25
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]O AVARENTO NO ARBUSTO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=n9WUz61MjzI&list=PLxDgGtCmbXYIxjIukVFnq5YKBQu4XwL1X&index=26
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]A LENDA DO CORTADOR DE BAMBU[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=2j91A-gL9Eg&list=PLxDgGtCmbXYIxjIukVFnq5YKBQu4XwL1X&index=26
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]O ABETO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8X_DtaXt3L8&list=PLxDgGtCmbXYIxjIukVFnq5YKBQu4XwL1X&index=28
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]AQUILO QUE O VELHOTE FAZ ESTÁ SEMPRE CERTO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Gb52jIQT0Ic&list=PLxDgGtCmbXYIxjIukVFnq5YKBQu4XwL1X&index=29
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]O BÚFALO INTELIGENTE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=JrCaw_xJcko&list=PLxDgGtCmbXYIxjIukVFnq5YKBQu4XwL1X&index=30
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]A SINETA MÁGICA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=sGQQhIBrMF4&list=PLxDgGtCmbXYIxjIukVFnq5YKBQu4XwL1X&index=31
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]OS TRÊS CABELOS DE OURO DO DIABO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=_xAyfk_yvQk&list=PLxDgGtCmbXYIxjIukVFnq5YKBQu4XwL1X&index=32
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]AS FANTÁSTICAS VIAGENS DE SINBAD (PARTE3)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=LywqTFQg174&list=PLxDgGtCmbXYIxjIukVFnq5YKBQu4XwL1X&index=34
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]O PESCADOR INTELIGENTE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Po7IBvqRjcQ&list=PLxDgGtCmbXYIxjIukVFnq5YKBQu4XwL1X&index=34
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]A ÁGUA NO DESERTO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=R3-oGyWX-E8&list=PLxDgGtCmbXYIxjIukVFnq5YKBQu4XwL1X&index=36
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]O PEIXE COM CABEÇA DE OURO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=B4gpOKzR-NY&list=PLxDgGtCmbXYIxjIukVFnq5YKBQu4XwL1X&index=36
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]O PRATO DE OURO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ePeUbGyCEGc&list=PLxDgGtCmbXYIxjIukVFnq5YKBQu4XwL1X&index=37
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]A FADA PERDIDA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=dOzpaA1rKZM&list=PLxDgGtCmbXYIxjIukVFnq5YKBQu4XwL1X&index=38
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]OS RAPAZES COM AS ESTRELAS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=KkxWKPKhi-E&list=PLxDgGtCmbXYIxjIukVFnq5YKBQu4XwL1X&index=39
 
 #EXTINF:-1 tvg-logo="",
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
 
-#EXTINF:-1 tvg-logo="",
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
-
-#EXTINF:-1 tvg-logo="",
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
-
-#EXTINF:-1 tvg-logo="",
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
-
-#EXTINF:-1 tvg-logo="",
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
-
-#EXTINF:-1 tvg-logo="",
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
