@@ -9,7 +9,7 @@ http://0.0.0.0:000000
 #EXTM3U
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////// FILMES DA NUVEM /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]///////// FILMES NA NUVEM /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTM3U
@@ -20,6 +20,19 @@ https://cld.pt/dl/download/9e1d60a7-7a3e-48d0-a5e9-51cd50cb607c/Minions.The.Rise
 #EXTINF:-1,[COLOR=white][B]NOMADLAND 2020[/B][/COLOR][COLOR=white][/COLOR]
 https://cld.pt/dl/download/7f76cb67-85f0-46cb-a862-707a5629b9d2/Nomadland.2020.1080p.WEBRip.x264-RARBG.mp4?download=true
  
+#EXTINF:-1,[COLOR=white][B]THOR: AMOR & TROVÃO 2022[/B][/COLOR][COLOR=white][/COLOR]
+https://cld.pt/dl/download/42381135-b433-4c4d-94b7-680a960fd4a9/Thor.Love.and.Thunder.2022.1080p.WEBRip.x264-RARBG.mp4
+ 
+#EXTINF:-1,[COLOR=white][B]BATMAN (2022)[/B][/COLOR][COLOR=white][/COLOR] 
+https://cld.pt/dl/download/03f22049-7db2-4e3d-941b-7b151cc28df7/The%20Batman%20(2022)%201080p%20HDRip%20x264%20-%20ProLover.mp4
+
+#EXTINF:-1,[COLOR=white][B]BULLET TRAIN (2022)[/B][/COLOR][COLOR=white][/COLOR] 
+https://cld.pt/dl/download/d990c752-ee88-482c-9974-5a0332b49ae9/Bullet.Train.2022.1080p.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv
+
+#EXTINF:-1,[COLOR=white][B]LOU (2022) (MULTI-SUB)[/B][/COLOR][COLOR=white][/COLOR]
+
+
+ 
 #EXTM3U
 
 
@@ -27,6 +40,9 @@ https://cld.pt/dl/download/7f76cb67-85f0-46cb-a862-707a5629b9d2/Nomadland.2020.1
 #EXTINF:-1,[COLOR=yellow][B]/////////  FILMES RECENTES E/OU EM TESTES  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
+
+#EXTINF:-1,[COLOR=white][B]DOWNTON ABBEY (MOVIE)[/B][/COLOR][COLOR=white][/COLOR]
+https://b-g-ca-6.feetcdn.com:2223/v2-hls-playback/19ec80b804164730d342f715ef66f6a045d1e23d39bc37e21c44c556737857872a4dd8ae752d10d6141ae41c111ebc8263b452bd220c50544c1dfe0411e489c6d8d07e6dc7a51f41407f9d9dcf5f8595b7077e6831211c5c2bc9feb21dd8bc70dab7048c119bf14632ef3fd474d3222ca4ea76fb0e1d0ece7033b968b855dc064d1445f09afe8aa9a09321e3d4b2e12e1a850a308122476a46503f55287e159b2c519abb1f91fa8e5f5e5784455e7535/1080/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]TOP GUN: MAVERICK (2022) - MULTI-SUBS[/B][/COLOR][COLOR=white][/COLOR]
 http://clientportal.link:80/movie/h8YC5m3Ymo68/QjxDBO04/108970.mkv
