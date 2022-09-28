@@ -1,5 +1,5 @@
 ####################################################################################################################################
-#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////////////  DESENHOS ANIMADOS ANTIGOS  //////////////[/B][/COLOR][COLOR=greenyelow][/COLOR]
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////////////  DESENHOS ANIMADOS ANTIGOS (AUDIO PT)  //////////////[/B][/COLOR][COLOR=greenyelow][/COLOR]
 http://0.0.0.0:0000
 ####################################################################################################################################
  
@@ -9,7 +9,7 @@ http://0.0.0.0:0000
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=yellow][B]D´ARTACÃO E OS TRÊS MOSCÃOTEIROS[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  D´ARTACÃO E OS TRÊS MOSCÃOTEIROS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:-1 tvg-logo="",[COLOR=white][B]EPISÓDIO 1, A VIAGEM DE DARTACÃO[/B][/COLOR][COLOR=white][/COLOR]
@@ -44,7 +44,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=CH1uUT
 
 ########################################################
 
-#EXTINF:-1,[COLOR=yellow][B]PANDA TAO TAO[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  PANDA TAO TAO  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
@@ -80,7 +80,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=gJB6Kf
 
 ########################################################
 
-#EXTINF:-1,[COLOR=yellow][B]ERA UMA VEZ ... A VIDA[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  ERA UMA VEZ ... A VIDA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
@@ -129,7 +129,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
 ########################################################
 
 
-#EXTINF:-1,[COLOR=yellow][B]ERA UMA VEZ ... O ESPAÇO[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  ERA UMA VEZ ... O ESPAÇO  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:-1 tvg-logo="",[COLOR=white][B]EPISÓDIO 1, O PLANETA ÓMEGA[/B][/COLOR][COLOR=white][/COLOR]
@@ -164,7 +164,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ilbno_
 
 ########################################################
 
-#EXTINF:-1,[COLOR=yellow][B]TOM SAWYER[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  TOM SAWYER  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:-1 tvg-logo="",[COLOR=white][B]EPISODIO 1[/B][/COLOR][COLOR=white][/COLOR]
@@ -200,7 +200,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=rklH4x
 
 ########################################################
 
-#EXTINF:-1,[COLOR=yellow][B]O BOCAS[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  O BOCAS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:-1 tvg-logo="",[COLOR=white][B]EPISODIO 1 - A CASA DO BOCAS[/B][/COLOR][COLOR=white][/COLOR]
@@ -238,7 +238,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
 
 ########################################################
 
-#EXTINF:-1,[COLOR=yellow][B]RUA SÉSAMO[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  RUA SÉSAMO  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:-1 tvg-logo="",[COLOR=white][B]EPISODIO 1 - A LIMPEZA DO POUPAS[/B][/COLOR][COLOR=white][/COLOR]
@@ -277,7 +277,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
 
 ########################################################
 
-#EXTINF:-1,[COLOR=yellow][B]NODDY[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  NODDY  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTINF:-1 tvg-logo="",[COLOR=white][B]EPISODIO 1 - NODDY TEM UMA VISITA[/B][/COLOR][COLOR=white][/COLOR]
@@ -316,7 +316,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
 
 ########################################################
 
-#EXTINF:-1,[COLOR=yellow][B]RUCA[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  RUCA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
@@ -351,7 +351,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YZuZzS
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=YcFeZIi_pBk&list=PLapqUe7ahArc207UFTFfC3AOrmPh-Ne8b&index=10&ab_channel=miguelunas
 
 #EXTINF:-1 tvg-logo="",
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+plugin://plugin.video.youtube/play/?video_id=
 
 ########################################################
 
