@@ -1,19 +1,19 @@
 
-####################################################################################################################################
-#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////// MÚSICAS INFANTIS E DVD´S COMPLETOS //////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
+##########################################################################################################################################################
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]/////////  MÚSICAS INFANTIS (AUDIO PT)  //////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
 http://0.0.0.0:0000
-####################################################################################################################################
+##########################################################################################################################################################
  
 #EXTM3U
 
-#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: BREVEMENTE[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 28/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
 #EXTM3U
 
 
-####################################################################################################################################
+##########################################################################################################################################################
 #EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=yellow][B]//////////////////  MÚSICAS INFANTIS  //////////////////[/B][/COLOR][COLOR=white][/COLOR]
 http://0.0.0.0:000000
-####################################################################################################################################
+##########################################################################################################################################################
 
 
 
@@ -141,13 +141,16 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=u5jw5g
 #EXTINF:-1 tvg-logo="",[COLOR=white][B]A ARANHA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HJVAgfW8fC0
 
+#EXTINF:-1 tvg-logo="",
+plugin://plugin.video.youtube/play/?video_id=
+
 
 #EXTM3U
 
-####################################################################################################################################
+##########################################################################################################################################################
 #EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=yellow][B]//////////////////  DVD´S COMPLETOS  //////////////////[/B][/COLOR][COLOR=white][/COLOR]
 http://0.0.0.0:000000
-####################################################################################################################################
+##########################################################################################################################################################
 
 
 
@@ -179,7 +182,15 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TUtRv5
 #EXTINF:-1 tvg-logo="",[COLOR=white][B]SUCESSOS DA MINHA ESCOLA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=2usLXBJqQgY&ab_channel=VKids
 
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]CAIXINHA DE SONHOS - PIPI DAS MEIAS ALTAS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=3luiXlcIOLQ
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]OS PATINHOS - AS CANÇÕES DA NOSSA ESCOLA (DVD COMPLETO)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=HfJNWtXVsbA
+
 #EXTINF:-1 tvg-logo="",
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+plugin://plugin.video.youtube/play/?video_id=
+
+
 
 
