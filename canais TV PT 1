@@ -10,7 +10,7 @@ http://0.0.0.0:0000
 * LISTAS GRATUITAS IPTV ORG - https://github.com/iptv-org/iptv
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 23/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 29/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
@@ -18,13 +18,13 @@ http://0.0.0.0:0000
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=white][B]ONFM TV HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]ONFM TV HD (OFFLINE)[/B][/COLOR][COLOR=white][/COLOR]
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]MATOSINHOS TV[/B][/COLOR][COLOR=white][/COLOR]
 https://5d82644094cc0.streamlock.net/xradiotv/xradiotv/chunklist_w1017197052.m3u8
-#EXTINF:-1,[COLOR=white][B]FAMA TV[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]FAMA TV (OFFLINE)[/B][/COLOR][COLOR=white][/COLOR]
 https://streamer-b02.videos.sapo.pt/live/famatv/chunklist_w1059365209.m3u8
-#EXTINF:-1,[COLOR=white][B]RÁDIO SINES[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]RÁDIO SINES (OFFLINE)[/B][/COLOR][COLOR=white][/COLOR]
 https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
 #EXTINF:-1,[COLOR=white][B]TV BRICS PT HD[/B][/COLOR][COLOR=white][/COLOR]
 http://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/index.m3u8
@@ -43,8 +43,6 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]TV GLOBO HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.109:1234
-#EXTINF:-1,[COLOR=white][B]GLOBO NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://187.120.222.12:8000/play/GloboNews/index.m3u8
 #EXTINF:-1,[COLOR=white][B]TV RECORD HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.147:1234
 #EXTINF:-1,[COLOR=white][B]STAR CHANNEL BR[/B][/COLOR][COLOR=white][/COLOR]
@@ -75,23 +73,8 @@ http://162.212.178.69:41042/bysid/608
 #EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://203.77.246.50:5000/udp/239.1.1.196:5000
 
-#EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://194.76.186.98:2021/play/a001
-
-#EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://109.51.212.78:8000/play/a021
-
 #EXTINF:-1,[COLOR=white][B]RTP 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://fortv.cc:8080/carls/1234/78493
-
-#EXTINF:-1,[COLOR=white][B]RTP 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://194.76.186.98:2021/play/a002
-
-#EXTINF:-1,[COLOR=white][B]RTP 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://109.51.212.78:8000/play/a026
-
-#EXTINF:-1,[COLOR=white][B]RTP 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://109.51.212.78:8000/play/a028
 
 #EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
 http://162.212.178.69:41042/bysid/608
@@ -110,24 +93,12 @@ https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]SIC HD[/B][/COLOR][COLOR=white][/COLOR]
 https://bit.ly/sicportugal?/3000k.m3u8
-#EXTINF:-1,[COLOR=white][B]SIC HD[/B][/COLOR][COLOR=white][/COLOR]
-http://194.76.186.98:2021/play/a004
-#EXTINF:-1,[COLOR=white][B]SIC HD[/B][/COLOR][COLOR=white][/COLOR]
-http://109.51.212.78:8000/play/a022
 
 #EXTINF:-1,[COLOR=white][B]SIC NOTÍCIAS FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0ga
-#EXTINF:-1,[COLOR=white][B]SIC NOTÍCIAS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://109.51.212.78:8000/play/a024
-
-#EXTINF:-1,[COLOR=white][B]TVI FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://194.76.186.98:2021/play/a005
 
 #EXTINF:-1 tvg-id="" tvg-id="tvi.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/tvi.png",[COLOR=white][B]TVI SD[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth4.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
-
-#EXTINF:-1,[COLOR=white][B]TVI HD[/B][/COLOR][COLOR=white][/COLOR]
-http://109.51.212.78:8000/play/a027
 
 #EXTINF:-1,[COLOR=white][B]TVI FICÇÃO HD[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
@@ -156,22 +127,9 @@ https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/in
 #EXTINF:-1 tvg-id="" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/11.png",[COLOR=white][B]CANAL 11 INTER.[/B][/COLOR][COLOR=white][/COLOR]
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index_2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="Religious",[COLOR=white][B]SOBRENATURAL TV[/B][/COLOR][COLOR=white][/COLOR]
-http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="Religious",[COLOR=white][B]SOBRENATURAL TV[/B][/COLOR][COLOR=white][/COLOR]
-http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
-
 #EXTINF:-1,[COLOR=white][B]EURONEWS PT HD[/B][/COLOR][COLOR=white][/COLOR]
 https://euronews.alteox.app/hls/pt_stream.m3u8
 
-#EXTINF:-1,[COLOR=white][B]SANTUÁRIO DE FÁTIMA HD[/B][/COLOR][COLOR=white][/COLOR]
-https://streamer-a01.videos.sapo.pt/live/santuario/chunklist.m3u8?wowzasessionid=inspiration
-
-#EXTINF:-1,[COLOR=white][B]CMTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://109.51.212.78:8000/play/a025
-#EXTINF:-1,[COLOR=white][B]CNN PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://109.51.212.78:8000/play/a029
 
 
 ##########################################################################################################################################
@@ -278,8 +236,6 @@ http://45.92.69.72:8001/play/a031
 http://45.92.69.72:8000/play/a0gm
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a02y
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX HD[/B][/COLOR][COLOR=white][/COLOR]
-http://194.76.186.98:2021/play/a00u
 #EXTINF:0 tvg-id="foxlife.pt" group-title="Channels",[COLOR=white][B]FOX LIFE[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0h1
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX LIFE HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -296,8 +252,6 @@ http://45.92.69.72:8001/play/a02w
 http://45.92.69.72:8000/play/a0gp
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SYFY[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a035
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SYFY[/B][/COLOR][COLOR=white][/COLOR]
-http://194.76.186.98:2021/play/a01d
 #EXTINF:0 tvg-id="hollywood.pt" group-title="Channels",[COLOR=white][B]HOLLYWOOD HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0jg
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HOLLYWOOD HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -371,8 +325,6 @@ http://45.92.69.72:8000/play/a0hf
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MTV 00´S[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a039
 
-
-
 ****************************************************************** INFANTIS  ******************
 
 
@@ -401,9 +353,7 @@ http://45.92.69.72:8000/play/a001
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CARTOON NETWORK[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a02s
 
-
 ****************************************************************** CANAIS DISCOVERY / DOCUMENTÁRIOS  ******************
-
 
 #EXTINF:0 tvg-id="blaze.pt" group-title="Channels",[COLOR=white][B]BLAZE[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0h4
@@ -417,10 +367,6 @@ http://45.92.69.72:8000/play/a0hg
 http://45.92.69.72:8001/play/a03b
 #EXTINF:0 tvg-id="nationalgeographic.pt" group-title="Channels",[COLOR=white][B]NATIONAL GEOGRAPHIC[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0hb
-#EXTINF:0 tvg-id="nationalgeographic.pt" group-title="Channels",[COLOR=white][B]NATIONAL GEOGRAPHIC[/B][/COLOR][COLOR=white][/COLOR]
-http://194.76.186.98:2021/play/a014
-#EXTINF:0 tvg-id="nationalgeographic.pt" group-title="Channels",[COLOR=white][B]NATIONAL GEOGRAPHIC WILD HD[/B][/COLOR][COLOR=white][/COLOR]
-http://194.76.186.98:2021/play/a003
 #EXTINF:0 tvg-id="odisseia.pt" group-title="Channels",[COLOR=white][B]ODISSEIA[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0hd
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NAT GEO HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -431,8 +377,6 @@ http://45.92.69.72:8001/play/a03g
 http://45.92.69.72:8001/play/a03d
 #EXTINF:0 tvg-id="HistoryChannel.pt" group-title="Channels",[COLOR=white][B]CANAL HISTÓRIA[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0he
-
-
 
 ****************************************************************** CANAIS NOTÍCIAS  ******************
 
@@ -485,11 +429,4 @@ http://45.92.69.72:8001/play/a03t
 http://45.92.69.72:8000/play/a0gx
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TRAVEL HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a03j
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TRAVEL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://194.76.186.98:2021/play/a01c
-
-#EXTINF:-1,[COLOR=white][B]CASA & COZINHA PT HD[/B][/COLOR][COLOR=white][/COLOR]
-http://194.76.186.98:2021/play/a00v
-
-
 
