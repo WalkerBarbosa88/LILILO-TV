@@ -16,7 +16,7 @@ http://0.0.0.0:0000
      Listas Várias - https://global-satinfo.in/viewforum.php?f=22&sid=14261766f220116fe35abb7ddf0e87e2
      
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 23/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 29/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 
 ####################################################################################################################################
@@ -25,30 +25,90 @@ https://00000000000
 
 #EXTM3U
 
+
 #EXTINF:-1,[COLOR=white][B]BTV FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.13:8000/play/a05e/index.m3u8
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/68985
+#EXTINF:-1,[COLOR=white][B]BTV FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/68986
+#EXTINF:-1,[COLOR=white][B]BTV FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/68987
+
+#EXTINF:-1,[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/69000
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/68988
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/68989
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/68990
+#EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/68991
+#EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/68992
+#EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/68993
 #EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.13:8000/play/a05l/index.m3u8
-#EXTINF:0 tvg-id="NBA.blt" group-title="Channels",[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.13:8000/play/a05y/index.m3u8
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/68994
+#EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/68995
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Portugal",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/68996
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Portugal",[COLOR=white][B]SPORT TV 4[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/68997
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Portugal",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/68998
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Portugal",[COLOR=white][B]SPORT TV 5[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/68999
+#EXTINF:0 tvg-id="ext" group-title="Portugal",[COLOR=white][B]SPORT TV 6 FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/249069
+#EXTINF:0 tvg-id="ext" group-title="Portugal",[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/69001
 
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.13:8000/play/a06b/index.m3u8
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/69004
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.13:8000/play/a06a/index.m3u8
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/69003
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.13:8000/play/a05x/index.m3u8
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.13:8000/play/a05w/index.m3u8
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/69002
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.13:8000/play/a05h/index.m3u8
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.13:8000/play/a05i/index.m3u8
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.13:8000/play/a060/index.m3u8
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/69007
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/69006
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/69005
+#EXTINF:0 tvg-id="ext" group-title="Portugal",ELEVEN SPORTS 3 FHD
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/69010
+#EXTINF:0 tvg-id="ext" group-title="Portugal",ELEVEN SPORTS 3 HD
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/69009
+#EXTINF:0 tvg-id="ElevenSports3.pt" group-title="Portugal",ELEVEN SPORTS 3
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/69008
+#EXTINF:0 tvg-id="ext" group-title="Portugal",ELEVEN SPORTS 4 FHD
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/69011
+#EXTINF:0 tvg-id="ext" group-title="Portugal",ELEVEN SPORTS 5 FHD
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/69012
+#EXTINF:0 tvg-id="ext" group-title="Portugal",ELEVEN SPORTS 6 FHD 
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/69013
 
-#EXTINF:0 tvg-id="esp-hd" group-title="Channels",[COLOR=white][B]EUROSPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.13:8000/play/a05t/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Portugal",NOS STUDIOS HD
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/69085
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TVCINE ACTION HD
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/69059
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TVCINE ACTION 
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/69060
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TVCINE EDITION HD
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/69055
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TVCINE EDITION
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/69056
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TVCINE EMOTION HD
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/69057
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TVCINE EMOTION 
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/69058
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TVCINE TOP HD
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/69053
+#EXTINF:0 tvg-id="ext" group-title="Portugal",TVCINE TOP HD
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/69054
+
 
 
 ####################################################################################################################################
