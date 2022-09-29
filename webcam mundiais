@@ -226,7 +226,7 @@ http://hls.shimogo-live.jp/camera3/index.m3u8
 #EXTINF:-1,[COLOR=yellow][B]/////////  EARTH TV - LIVE CAM & OUTRAS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
-#EXTINF:-1,[COLOR=white][B]EARTH TV - LIVE CAM[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]EARTH TV - LIVE CAM (OFFLINE)[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=8k04Z8708A0
 #EXTINF:-1,[COLOR=white][B]EARTH TV - USA, TIMES SQUARE[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=1-iS7LArMPA&ab_channel=EarthCam
