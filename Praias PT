@@ -16,6 +16,24 @@ https://0000000000000000000000
 
 #EXTM3U
 
+#EXTINF:-1,[COLOR=white][B]SETÚBAL - PRAIA DA FONTE DA TELHA (NORTE)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=U4AwFAoEPLM
+
+#EXTINF:-1,[COLOR=white][B]SETÚBAL - PRAIA DA FONTE DA TELHA (SUL)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=LO68qQ6-OK8
+
+#EXTINF:-1,[COLOR=white][B]COSTA DA CAPARICA - PRAIA DA SEREIA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=_sT-z5d4ZAU
+
+#EXTINF:-1,[COLOR=white][B]ALGARVE - PRAIA DA ROCHA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=p-3IJdRMXqM&ab_channel=MarioNogueira
+
+#EXTINF:-1,[COLOR=white][B]SETÚBAL - PORTINHO DA ARRÁBIDA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=wE3fVh24Tlk&ab_channel=Playocean
+
+#EXTINF:-1,[COLOR=white][B]AÇORES - LAJES DO PICO[/B][/COLOR][COLOR=white][/COLOR]
+https://s74.ipcamlive.com/streams/4aafqwtzgmi89yvok/stream.m3u8
+
 #EXTINF:-1,[COLOR=white][B]MADEIRA - PENHA DE FRANÇA MAR[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=LKbVoPp1Nqo
 
@@ -37,21 +55,6 @@ plugin://plugin.video.youtube/play/?video_id=4J1YwwaZx4I
 #EXTINF:-1,[COLOR=white][B]MADEIRA - PRAIA DA PONTA GORDA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=MgMWOQIgIBY
 
-#EXTINF:-1,[COLOR=white][B]SETÚBAL - PRAIA DA FONTE DA TELHA (NORTE)[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=U4AwFAoEPLM
-
-#EXTINF:-1,[COLOR=white][B]SETÚBAL - PRAIA DA FONTE DA TELHA (SUL)[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=LO68qQ6-OK8
-
-#EXTINF:-1,[COLOR=white][B]COSTA DA CAPARICA - PRAIA DA SEREIA[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=_sT-z5d4ZAU
-
-#EXTINF:-1,[COLOR=white][B]ALGARVE - PRAIA DA ROCHA[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=p-3IJdRMXqM&ab_channel=MarioNogueira
-
-#EXTINF:-1,[COLOR=white][B]SETÚBAL - PORTINHO DA ARRÁBIDA[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=wE3fVh24Tlk&ab_channel=Playocean
-
 #EXTINF:-1,[COLOR=white][B]MADEIRA - PONTO DA CRUZ[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=tRLRxEofP7I&ab_channel=Madeira-Web
 
@@ -60,9 +63,6 @@ plugin://plugin.video.youtube/play/?video_id=eZQwsGA1ko4&ab_channel=Madeira-Web
 
 #EXTINF:-1,[COLOR=white][B]MADEIRA - SUNSET TERRACE BAR[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=Ogd1ItUCxkQ&ab_channel=Madeira-Web
-
-#EXTINF:-1,[COLOR=white][B]AÇORES - LAJES DO PICO[/B][/COLOR][COLOR=white][/COLOR]
-https://s74.ipcamlive.com/streams/4aafqwtzgmi89yvok/stream.m3u8
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIAS DO NORTE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
