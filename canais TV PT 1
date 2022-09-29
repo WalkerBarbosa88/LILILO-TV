@@ -18,13 +18,13 @@ http://0.0.0.0:0000
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=white][B]ONFM TV HD (OFFLINE)[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]ONFM TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]MATOSINHOS TV[/B][/COLOR][COLOR=white][/COLOR]
 https://5d82644094cc0.streamlock.net/xradiotv/xradiotv/chunklist_w1017197052.m3u8
-#EXTINF:-1,[COLOR=white][B]FAMA TV (OFFLINE)[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]FAMA TV[/B][/COLOR][COLOR=white][/COLOR]
 https://streamer-b02.videos.sapo.pt/live/famatv/chunklist_w1059365209.m3u8
-#EXTINF:-1,[COLOR=white][B]RÁDIO SINES (OFFLINE)[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]RÁDIO SINES[/B][/COLOR][COLOR=white][/COLOR]
 https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
 #EXTINF:-1,[COLOR=white][B]TV BRICS PT HD[/B][/COLOR][COLOR=white][/COLOR]
 http://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/index.m3u8
