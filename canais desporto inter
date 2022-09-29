@@ -7,8 +7,258 @@ FONTE DE INFORMAÇÃO:
               https://global-satinfo.in/viewtopic.php?f=22&t=315&start=410
 
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 29/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 29/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
 #EXTM3U
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]///////////  PACOTE DESPORTO PREMIUM  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+
+#EXTM3U
+
+
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",Aberdeen FC TV UK [Match Time Only]
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/18596
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",Dundee TV UK [Match Time Only]
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/18598
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",Hearts TV [Match Time Only]
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/18599
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",Hibs TV UK [Match Time Only]
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/18597
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",SuperSport LaLiga HD ZA
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/39406
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",SuperSport PSL FHD ZA
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/39407
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",SuperSport Premier League FHD ZA
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/39408
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",SuperSport Grandstand FHD ZA
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/39409
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",SuperSport Variety 2 FHD ZA
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/39410
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",SuperSport Variety 1 FHD ZA
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/39411
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",SuperSport Motorsport FHD ZA
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/39412
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",SuperSport Football FHD ZA
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/39413
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",SuperSport Variety 4 FHD ZA
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/39414
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",SuperSport Variety 3 FHD ZA
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/39415
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",SuperSport Rugby FHD ZA
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/39416
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",SuperSport Cricket FHD ZA
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/39417
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",SuperSport Blitz FHD ZA
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/39519
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",SuperSport Action FHD ZA
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/39520
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports NBA HD AR {ENG]
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/38519
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN SPORTS 3 EN
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94442
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 3 Hevc EN
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94443
+#EXTINF:0 tvg-id="beINSportsEnglish3.qa" group-title="Sport Package",beIN Sports 3 HD EN
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94444
+#EXTINF:0 tvg-id="beINSportsEnglish3.qa" group-title="Sport Package",beIN Sports 3 FHD EN
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94445
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN SPORTS 2 EN
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94446
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 2 Hevc EN
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94447
+#EXTINF:0 tvg-id="beINSportsEnglish2.qa" group-title="Sport Package",beIN Sports 2 HD EN
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94448
+#EXTINF:0 tvg-id="beINSportsEnglish2.qa" group-title="Sport Package",beIN Sports 2 FHD EN
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94449
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN SPORTS 1 EN
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94450
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 1 Hevc EN
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94451
+#EXTINF:0 tvg-id="beINSportsEnglish1.qa" group-title="Sport Package",beIN Sports 1 HD EN
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94452
+#EXTINF:0 tvg-id="beINSportsEnglish1.qa" group-title="Sport Package",beIN Sports 1 FHD EN
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94453
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports XTRA 2 AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94454
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports XTRA 2 Hevc AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94455
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports XTRA 2 HD AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94456
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports XTRA 1 AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94457
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports XTRA 1 Hevc AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94458
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports XTRA 1 HD AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94459
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 7 AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94460
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 7 Hevc AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94461
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 7 HD AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94462
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 7 4K FHD AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94463
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 6 AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94464
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 6 Hevc AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94465
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 6 HD AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94466
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 6 4K AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94467
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 5 AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94468
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 5 Hevc AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94469
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 5 HD AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94470
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 5 4K FHD AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94471
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 4 AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94472
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 4 Hevc AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94473
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 4 HD AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94474
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 4 4K FHD AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94475
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 3 AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94476
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 3 Hevc AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94477
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 3 HD AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94478
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 3 4K FHD AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94479
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 2 AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94480
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 2 Hevc AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94481
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 2 HD AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94482
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 2 4K FHD AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94483
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 1 AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94484
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 1 Hevc AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94485
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 1 HD AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94486
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 1 4K AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94487
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 3 PREMIUM AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94488
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 3 PREMIUM Hevc AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94489
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 3 PREMIUM HD AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94490
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 3 PREMIUM 4K FHD AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94491
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 2 PREMIUM AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94492
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 2 PREMIUM Hevc AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94493
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 2 PREMIUM HD AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94494
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 2 PREMIUM 4K FHD AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94495
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 1 PREMIUM AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94496
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 1 PREMIUM Hevc AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94497
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 1 PREMIUM HD AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94498
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 1 4K FHD AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94499
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports Global HD AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94500
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports Global FHD AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94501
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports News HD AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94502
+#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports News FHD AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94503
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sports",Abu Dhabi Sports 1 HD AE
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/16516
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sports",Abu Dhabi Sports 2 HD AE
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/16517
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sports",Al Ahly Club HD AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/18456
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sports",ON Sport HD EG
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/10003
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sports",Dubai Sports HD AE
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/17609
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sports",AlKass Sports 1 HD QA
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/19599
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sports",AlKass Sports 2 HD QA
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/19600
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sports",AlKass Sports 3 HD QA
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/19601
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sports",YAS Sports FHD AE
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/19447
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sports",SSC Sports FHD 1 AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/112095
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sports",SSC Sports FHD 2 AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/112096
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sports",SSC Sports FHD 3 AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/112097
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sports",SSC Sports 4 FHD AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/112098
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sports",SSC Sports FHD 5 AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/112099
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sports",SSC Sports 6 FHD AR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/112100
+#EXTINF:0 tvg-id="SportKlub1.hr" group-title="EX-YU Sport",Sport Klub 1 HD HR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/14103
+#EXTINF:0 tvg-id="SportKlub2.hr" group-title="EX-YU Sport",Sport Klub 2 HD HR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/14102
+#EXTINF:0 tvg-id="SportKlub3.hr" group-title="EX-YU Sport",Sport Klub 3 HD HR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/14101
+#EXTINF:0 tvg-id="ext" group-title="EX-YU Sport",Sport Klub 4 HD HR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/14097
+#EXTINF:0 tvg-id="ext" group-title="EX-YU Sport",Sport Klub 5 HD HR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/14096
+#EXTINF:0 tvg-id="ext" group-title="EX-YU Sport",Sport Klub 6 HD HR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/14095
+#EXTINF:0 tvg-id="ext" group-title="EX-YU Sport",Sport Klub 9 HD HR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/29272
+#EXTINF:0 tvg-id="ext" group-title="EX-YU Sport",Sport Klub 10 HD HR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/29271
+#EXTINF:0 tvg-id="ArenaSport6.hr" group-title="EX-YU Sport",Arena Sport 6 FHD HR
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/9727
+#EXTINF:0 tvg-id="ext" group-title="EX-YU Sport",Eurosport 1 HD RS
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/8986
+#EXTINF:0 tvg-id="ext" group-title="EX-YU Sport",Eurosport 2 HD RS
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/8987
+#EXTINF:0 tvg-id="ext" group-title="EX-YU Sport",Arena Sport 1 FHD RS
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/9726
+#EXTINF:0 tvg-id="ext" group-title="EX-YU Sport",Arena Sport 1 (Backup) RS
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/9725
+#EXTINF:0 tvg-id="ext" group-title="EX-YU Sport",Arena Sport 2 HD RS
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/9724
+#EXTINF:0 tvg-id="ext" group-title="EX-YU Sport",Arena Sport 2 (Backup) RS
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/9723
+#EXTINF:0 tvg-id="ext" group-title="EX-YU Sport",Arena Sport 3 FHD RS
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/9722
+#EXTINF:0 tvg-id="ext" group-title="EX-YU Sport",Arena Sport 3 (Backup) RS
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/9721
+#EXTINF:0 tvg-id="ext" group-title="EX-YU Sport",Arena Sport 4 FHD RS
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/9720
+#EXTINF:0 tvg-id="ext" group-title="EX-YU Sport",Arena Sport 4 (Backup) RS
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/9719
+#EXTINF:0 tvg-id="ext" group-title="EX-YU Sport",Arena Sport 5 FHD RS
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/9718
+#EXTINF:0 tvg-id="ext" group-title="EX-YU Sport",Arena Sport 5 (Backup) RS
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/9717
+
+
+
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]///////////  PACOTE GRATUITO  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
 
 
 #EXTINF:0 tvg-id="ext" group-title="Sport",BEST CABLE SPORTS PERU HD
