@@ -7,7 +7,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
             
-#EXTINF:-1,[COLOR=orange][B]LISTA 1 REVISTA: 23/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA 1 REVISTA: 29/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -19,7 +19,6 @@ EXEMPLO  [COLOR=white][B]ONFM PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0g7
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP2[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0g8
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP3[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gd
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP AÇORES[/B][/COLOR][COLOR=white][/COLOR]
@@ -32,27 +31,20 @@ http://45.92.69.72:8000/play/a0gk
 http://45.92.69.72:8000/play/a0hn
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0g9
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC CARAS[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0jd
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC MULHER[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gt
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC NOTÍCIAS[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0ga
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC RADICAL[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0it
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC K[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gs
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVI[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gb
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVI FICÇÃO[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0iu
-
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CNN PORTUGAL[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a02l
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CNN PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
