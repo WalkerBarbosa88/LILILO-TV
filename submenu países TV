@@ -7,7 +7,7 @@ layouttype>thumbnail</layouttype>
 <thumbnail>https://ia803400.us.archive.org/6/items/sub-menu-tv-mundial/SubMenu%20TV%20Mundial.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
-<info>
+<info>CANAIS DE TV DE VÁRIOS PAÍSES MUNDIAIS</info>
 </channel>
 </channels>
  
@@ -24,11 +24,22 @@ layouttype>thumbnail</layouttype>
 
 <channels>
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]CANAIS TV USA[/COLOR][/B]</name>
+<thumbnail>https://ia801803.us.archive.org/9/items/bandeira-usa/Bandeira%20USA.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/LILILO-TV/main/pa%C3%ADses%20tv%20-%20USA</externallink>
+<fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
+<info>CANAIS DE TV ESTADOS UNIDOS DA AMÉRICA</info>
+</channel>
+
+
+
+<channels>
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR gold]CANAIS TV FR[/COLOR][/B]</name>
 <thumbnail>https://ia903405.us.archive.org/34/items/bandeira-franca/Bandeira%20Fran%C3%A7a.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/WalkerBarbosa88/LILILO-TV/main/pa%C3%ADses%20tv%20-%20FR</externallink>
 <fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
-<info>CANAIS DE TV DO REINO UNIDO</info>
+<info>CANAIS DE TV DO FRANÇA</info>
 </channel>
 
 
