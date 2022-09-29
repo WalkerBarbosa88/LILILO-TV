@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 ##################################################################################################################################################
 
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 16/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 29/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #################################################################################################################################################
  
@@ -19,6 +19,7 @@ FONTE DE INFORMAÇÃO: https://vk.com/clubslynet
 https://000000
 
 #EXTM3U
+
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",FREESPORTS HD
 http://87.212.248.44:60130/play/a06k
@@ -204,141 +205,6 @@ https://000000
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="AB1.fr" group-title="Channels",AB1
-http://37.235.38.139:4000/play/a043
-#EXTINF:0 tvg-id="AB3.be" group-title="Channels",AB3
-http://37.235.38.139:4000/play/a0c6
-#EXTINF:0 tvg-id="tv1000-action" group-title="Channels",ACTION
-http://37.235.38.139:4000/play/a048
-#EXTINF:0 tvg-id="Animaux.fr" group-title="Channels",ANIMAUX
-http://37.235.38.139:4000/play/a044
-#EXTINF:0 tvg-id="Automoto.fr" group-title="Channels",AUTOMOTO LA CHAINE
-http://37.235.38.139:4000/play/a042
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",BEIN SPORTS 1
-http://37.235.38.139:4000/play/a054
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",BEIN SPORTS 2
-http://37.235.38.139:4000/play/a0cc
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",BEIN SPORTS 3
-http://37.235.38.139:4000/play/a056
-#EXTINF:0 tvg-id="BeInSportMax10.fr" group-title="Channels",BEIN SPORTS MAX 10
-http://37.235.38.139:4000/play/a093
-#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="Channels",BEIN SPORTS MAX 4
-http://37.235.38.139:4000/play/a085
-#EXTINF:0 tvg-id="BeInSportMax5.fr" group-title="Channels",BEIN SPORTS MAX 5
-http://37.235.38.139:4000/play/a086
-#EXTINF:0 tvg-id="beINSPORTSenespanol467.us" group-title="Channels",BEIN SPORTS MAX 6
-http://37.235.38.139:4000/play/a087
-#EXTINF:0 tvg-id="BeInSportMax7.fr" group-title="Channels",BEIN SPORTS MAX 7
-http://37.235.38.139:4000/play/a090
-#EXTINF:0 tvg-id="BeInSportMax8.fr" group-title="Channels",BEIN SPORTS MAX 8
-http://37.235.38.139:4000/play/a091
-#EXTINF:0 tvg-id="BeInSportMax9.fr" group-title="Channels",BEIN SPORTS MAX 9
-http://37.235.38.139:4000/play/a092
-#EXTINF:0 tvg-id="BET.uk" group-title="Channels",BET
-http://37.235.38.139:4000/play/a03o
-#EXTINF:0 tvg-id="CanalJ.fr" group-title="Channels",CANAL J
-http://37.235.38.139:4000/play/a0a4
-#EXTINF:0 tvg-id="Canal+Docs.fr" group-title="Channels",CANAL+DOCS
-http://37.235.38.139:4000/play/a0b7
-#EXTINF:0 tvg-id="CANAL+GrandEcran.fr" group-title="Channels",CANAL+GRAND ECRAN
-http://37.235.38.139:4000/play/a0d0
-#EXTINF:0 tvg-id="ChassePeche.fr" group-title="Channels",CHASSE ET PECHE
-http://37.235.38.139:4000/play/a04b
-#EXTINF:0 tvg-id="CinecinemaClub.fr" group-title="Channels",CINE+ CLUB
-http://37.235.38.139:4000/play/a0al
-#EXTINF:0 tvg-id="CinecinemaEmotion.fr" group-title="Channels",CINE+ EMOTION
-http://37.235.38.139:4000/play/a02n
-#EXTINF:0 tvg-id="CinecinemaPremier.fr" group-title="Channels",CINE+ PREMIER
-http://37.235.38.139:4000/play/a02i
-#EXTINF:0 tvg-id="ext" group-title="Channels",CLIQUE TV
-http://37.235.38.139:4000/play/a03i
-#EXTINF:0 tvg-id="Comedie.fr" group-title="Channels",COMEDIE+
-http://37.235.38.139:4000/play/a09o
-#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Channels",COMEDY CENTRAL
-http://37.235.38.139:4000/play/a0an
-#EXTINF:0 tvg-id="ext" group-title="Channels",CSTAR HITS FRANCE
-http://37.235.38.139:4000/play/a03b
-#EXTINF:0 tvg-id="disney" group-title="Channels",DISNEY CHANNEL
-http://37.235.38.139:4000/play/a00l
-#EXTINF:0 tvg-id="DisneyCh.Plus1.it" group-title="Channels",DISNEY CHANNEL+1
-http://37.235.38.139:4000/play/a039
-#EXTINF:0 tvg-id="DisneyJr.blt" group-title="Channels",DISNEY JUNIOR
-http://37.235.38.139:4000/play/a03j
-#EXTINF:0 tvg-id="EquidiaLive.fr" group-title="Channels",EQUIDIA
-http://37.235.38.139:4000/play/a0bv
-#EXTINF:0 tvg-id="ES1.fr" group-title="Channels",ES1
-http://37.235.38.139:4000/play/a06y
-#EXTINF:0 tvg-id="esp" group-title="Channels",EUROSPORT 1
-http://37.235.38.139:4000/play/a02q
-#EXTINF:0 tvg-id="esp2" group-title="Channels",EUROSPORT 2
-http://37.235.38.139:4000/play/a037
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS PRO LEAGUE
-http://37.235.38.139:4000/play/a0c7
-#EXTINF:0 tvg-id="Histoire.fr" group-title="Channels",HISTOIRE
-http://37.235.38.139:4000/play/a03s
-#EXTINF:0 tvg-id="Infosport.fr" group-title="Channels",INFOSPORT+
-http://37.235.38.139:4000/play/a00n
-#EXTINF:0 tvg-id="Mangas.fr" group-title="Channels",MANGAS
-http://37.235.38.139:4000/play/a099
-#EXTINF:0 tvg-id="mcm-top" group-title="Channels",MCM
-http://37.235.38.139:4000/play/a05q
-#EXTINF:0 tvg-id="mezzo" group-title="Channels",MEZZO
-http://37.235.38.139:4000/play/a03v
-#EXTINF:0 tvg-id="mtv-rus" group-title="Channels",MTV
-http://37.235.38.139:4000/play/a03q
-#EXTINF:0 tvg-id="Museum.fr" group-title="Channels",MUSEUM
-http://37.235.38.139:4000/play/a0a7
-#EXTINF:0 tvg-id="natgeo" group-title="Channels",NATIONAL GEO
-http://37.235.38.139:4000/play/a00g
-#EXTINF:0 tvg-id="natgeowild" group-title="Channels",NATIONAL GEOGRAPHIC WILD
-http://37.235.38.139:4000/play/a0bq
-#EXTINF:0 tvg-id="nickelodeon-rus" group-title="Channels",NICKELODEON
-http://37.235.38.139:4000/play/a03u
-#EXTINF:0 tvg-id="nick-jr" group-title="Channels",NICKELODEON JUNIOR
-http://37.235.38.139:4000/play/a03k
-#EXTINF:0 tvg-id="ext" group-title="Channels",NICKELODEON TEEN
-http://37.235.38.139:4000/play/a0ao
-#EXTINF:0 tvg-id="NickelodeonPlus1.uk" group-title="Channels",NICKELODEON +1
-http://37.235.38.139:4000/play/a029
-#EXTINF:0 tvg-id="paramount" group-title="Channels",PARAMOUNT CHANNEL
-http://37.235.38.139:4000/play/a0bt
-#EXTINF:0 tvg-id="ParisPremiere.fr" group-title="Channels",PARIS PREMIERE
-http://37.235.38.139:4000/play/a00i
-#EXTINF:0 tvg-id="PLANETE.pl" group-title="Channels",PLANETE+
-http://37.235.38.139:4000/play/a00k
-#EXTINF:0 tvg-id="PLANETEnoLIMIT.fr" group-title="Channels",PLANETE+ A&E
-http://37.235.38.139:4000/play/a09r
-#EXTINF:0 tvg-id="PLANETEJustice.fr" group-title="Channels",PLANETE+ CI
-http://37.235.38.139:4000/play/a03a
-#EXTINF:0 tvg-id="RFMTV.fr" group-title="Channels",RFM TV
-http://37.235.38.139:4000/play/a00v
-#EXTINF:0 tvg-id="RTL9.fr" group-title="Channels",RTL9
-http://37.235.38.139:4000/play/a04a
-#EXTINF:0 tvg-id="Seasons.fr" group-title="Channels",SEASONS
-http://37.235.38.139:4000/play/a0bu
-#EXTINF:0 tvg-id="SerieClub.fr" group-title="Channels",SERIE CLUB
-http://37.235.38.139:4000/play/a0bw
-#EXTINF:0 tvg-id="ScienceVie.fr" group-title="Channels",SCIENCE ET VIE
-http://37.235.38.139:4000/play/a045
-#EXTINF:0 tvg-id="TCM.fr" group-title="Channels",TCM CINEMA
-http://37.235.38.139:4000/play/a0ab
-#EXTINF:0 tvg-id="TeletoonPlusHD.ge" group-title="Channels",TELETOON+
-http://37.235.38.139:4000/play/a03c
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELETOON+ 1
-http://37.235.38.139:4000/play/a03d
-#EXTINF:0 tvg-id="Teva.fr" group-title="Channels",TEVA
-http://37.235.38.139:4000/play/a09p
-#EXTINF:0 tvg-id="tiji" group-title="Channels",TIJI
-http://37.235.38.139:4000/play/a00w
-#EXTINF:0 tvg-id="TVBreizh.fr" group-title="Channels",TV BREIZH
-http://37.235.38.139:4000/play/a00u
-#EXTINF:0 tvg-id="TouteHistoire.fr" group-title="Channels",TOUTE L HISTOIRE
-http://37.235.38.139:4000/play/a047
-#EXTINF:0 tvg-id="UshuaiaTV.fr" group-title="Channels",USHUAIA TV
-http://37.235.38.139:4000/play/a02l
-#EXTINF:0 tvg-id="WarnerHD.mx" group-title="Channels",WARNER TV
-http://37.235.38.139:4000/play/a0a5
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",FR: TF 1
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/55358
 #EXTINF:0 tvg-id="France2.fr" group-title="Channels",FR: France 2
@@ -379,8 +245,6 @@ http://platin4k.eu:80/kralkerim/8TKLyJivVEA/55376
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/55377
 #EXTINF:0 tvg-id="TMC.fr" group-title="Channels",FR: Tmc
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/55378
-#EXTINF:0 tvg-id="ParamountChannel.fr" group-title="Channels",FR: Paramount Channel
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/55379
 #EXTINF:0 tvg-id="TCM.fr" group-title="Channels",FR: Tcm Cinema
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/55380
 #EXTINF:0 tvg-id="ext" group-title="Channels",FR: E! Entertaiment
@@ -529,6 +393,5 @@ http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161951
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161952
 #EXTINF:0 tvg-id="BFMTV.fr" group-title="Channels",FR: BFM Tv
 http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161953
-
 
 
