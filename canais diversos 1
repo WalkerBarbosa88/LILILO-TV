@@ -354,8 +354,10 @@ https://linear-76.frequency.stream/dist/localnow/76/hls/master/playlist.m3u8
 https://jukin-weatherspy-2-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]WEATHER SPY EUROPA[/B][/COLOR][COLOR=white][/COLOR]
 https://jukin-weatherspy-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]METEONEWS HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]METEONEWS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://streaming.meteonews.net/hls/stream.m3u8
+#EXTINF:-1,[COLOR=white][B]METEONEWS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
  
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  MODA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -424,6 +426,12 @@ https://d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_motorvisiontv_001.m3u
 https://dizbp2a9dfz47.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-22elw950yr3vp-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1,[COLOR=white][B]MOTOR RACING HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d2hnz12weo628w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AFV2-prod/samsung.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1,[COLOR=white][B]EL GARAGE TV[/B][/COLOR][COLOR=white][/COLOR]
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1,[COLOR=white][B]MOTORSUR MEDIA[/B][/COLOR][COLOR=white][/COLOR]
+https://59ce1298bfb98.streamlock.net/motorsur/motorsur/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]PLUTO TV CUSTOM GARAGE[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e78faa05a0e200007a6f487/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  VIAGENS E TURISMO  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -555,7 +563,11 @@ https://000000
 
 
 #EXTINF:-1,[COLOR=white][B]TASTEMADE TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://tastemade-freetv16min-plex.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-plex/CDN/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]TASTEMADE TV AU HD[/B][/COLOR][COLOR=white][/COLOR]
 https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]TASTEMADE TV ES HD[/B][/COLOR][COLOR=white][/COLOR]
+https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]BON APPÉTIT HD[/B][/COLOR][COLOR=white][/COLOR]
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]GUSTO TV HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -568,8 +580,10 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/master.m3u8
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5af61f59d5eeee7af3d1db8f/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]CHEF CHAMPION TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://rpn1.bozztv.com/36bay2/gusa-chefchampion/mono.m3u8
-
-
+#EXTINF:-1,[COLOR=white][B]FOOD 52 HD[/B][/COLOR][COLOR=white][/COLOR]
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1212A-redboxfood52A/CDN/master.m3u8
+#EXTINF:-1,[COLOR=white][B]IFOOD TV[/B][/COLOR][COLOR=white][/COLOR]
+https://ft-ifood-roku.amagi.tv/playlist.m3u8
  
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  RELAXAMENTO & OUTROS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
