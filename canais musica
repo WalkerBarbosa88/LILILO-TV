@@ -554,6 +554,45 @@ https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]SPIRIT TV USA EN[/B][/COLOR][COLOR=white][/COLOR]
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
+#EXTINF:-1,[COLOR=white][B]MEZZO LIVE TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://190.2.155.162:8080/mezzolive/index.m3u8
+#EXTINF:-1,[COLOR=white][B]30A TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://30a-tv.com/music.m3u8
+#EXTINF:-1,[COLOR=white][B]BEATS RADIO TV[/B][/COLOR][COLOR=white][/COLOR]
+https://59537faa0729a.streamlock.net/beatsradio/beatsradio/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]BREEZE TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://livestreamdirect-breezetv.mediaworks.nz/breezetv.m3u8
+#EXTINF:-1,[COLOR=white][B]CALTEX TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://vid1.caltexmusic.com/hls/caltextv.m3u8
+#EXTINF:-1,[COLOR=white][B]CANAL 38[/B][/COLOR][COLOR=white][/COLOR]
+https://rtmp.info/canal38/envivo/chunks.m3u8
+#EXTINF:-1,[COLOR=white][B]COMPANY TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
+#EXTINF:-1,[COLOR=white][B]CONECTA TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]FARRA PLAY HD[/B][/COLOR][COLOR=white][/COLOR]
+http://159.203.148.226/live/farra.m3u8
+#EXTINF:-1,[COLOR=white][B]GO-RTV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]HITS 360 TV[/B][/COLOR][COLOR=white][/COLOR]
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]KM TV NOW[/B][/COLOR][COLOR=white][/COLOR]
+https://kmtvnow-samsung-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]K POP TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]MUSIC+ HD[/B][/COLOR][COLOR=white][/COLOR]
+http://s02.diazol.hu:10192/stream.m3u8
+#EXTINF:-1,[COLOR=white][B]OXIGENO TV[/B][/COLOR][COLOR=white][/COLOR]
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]TROPICAL URBAN TV[/B][/COLOR][COLOR=white][/COLOR]
+https://srv.panelcast.net/urbantv/urbantv/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]VOICE OVER TV[/B][/COLOR][COLOR=white][/COLOR]
+https://cloudvideo.servers10.com:8081/8198/index.m3u8
+#EXTINF:-1,[COLOR=white][B]M6 MUSIC[/B][/COLOR][COLOR=white][/COLOR]
+http://190.2.155.162:8080/m6music/mpegts
+#EXTINF:-1,[COLOR=white][B]VISION TV[/B][/COLOR][COLOR=white][/COLOR]
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
+
 #EXTM3U
 
 #######################################################################################################################################################################
