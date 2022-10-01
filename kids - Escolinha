@@ -1,15 +1,27 @@
 ####################################################################################################################################
-#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////// ESPAÇO ESCOLINHA //////////////[/B][/COLOR][COLOR=greenyelow][/COLOR]
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////  ESPAÇO ESCOLINHA (AUDIO PT-PT)  ///////////[/B][/COLOR][COLOR=greenyelow][/COLOR]
 http://0.0.0.0:0000
 ####################################################################################################################################
  
 #EXTM3U
 
-#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: BREVEMENTE[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 01/10/2022[/B][/COLOR][COLOR=orange][/COLOR]
+
+#EXTM3U
+#EXTINF:-1,[COLOR=yellow][B]/////////  LINKS DE TESTE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://0000000000000000000000
+
+#EXTINF:-1,[COLOR=white][B]A ROTINA SEMANAL - ESTUDO EM CASA[/B][/COLOR][COLOR=white][/COLOR]
+https://cdn-ondemand.rtp.pt/nas2.share/h264/512x384/p7820/preview/p7820_1_202010191042034167d_videoprv.mp4
+
+#EXTINF:-1,[COLOR=white][B]OS NÚMEROS ATÉ 100 - ESTUDO EM CASA[/B][/COLOR][COLOR=white][/COLOR]
+https://ondemand-streaming.rtp.pt/nas2.share/h264/512x384/p7783/p7783_2_202010224722.m3u8
+
+#EXTINF:-1,[COLOR=white][B]OS ANIMAIS EM INGLÊS - ESTUDO EM CASA[/B][/COLOR][COLOR=white][/COLOR]
+https://cdn-ondemand.rtp.pt/nas2.share/h264/512x384/p7788/preview/p7788_1_202010231611023820d_videoprv.mp4
 
 #EXTM3U
 
- 
 #EXTINF:-1,[COLOR=white][B]A CANÇÃO DE CONTAR, CONHEÇA OS NÚMEROS DE 1 A 10[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TQehi_5QplQ&ab_channel=BabyTVPortuguês
 
@@ -35,4 +47,28 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=EGIdH8
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=wSWH1sa1nWk&ab_channel=Videosinfantis
 
 #EXTINF:-1,
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+plugin://plugin.video.youtube/play/?video_id=
+
+#EXTINF:-1,
+plugin://plugin.video.youtube/play/?video_id=
+
+#EXTINF:-1,
+plugin://plugin.video.youtube/play/?video_id=
+
+#EXTINF:-1,
+plugin://plugin.video.youtube/play/?video_id=
+
+#EXTINF:-1,
+plugin://plugin.video.youtube/play/?video_id=
+
+#EXTINF:-1,
+plugin://plugin.video.youtube/play/?video_id=
+
+#EXTINF:-1,
+plugin://plugin.video.youtube/play/?video_id=
+
+#EXTINF:-1,
+plugin://plugin.video.youtube/play/?video_id=
+
+#EXTINF:-1,
+plugin://plugin.video.youtube/play/?video_id=
