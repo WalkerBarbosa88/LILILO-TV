@@ -20,7 +20,10 @@ https://ondemand-streaming.rtp.pt/nas2.share/h264/512x384/p7783/p7783_2_20201022
 #EXTINF:-1,[COLOR=white][B]OS ANIMAIS EM INGLÊS - ESTUDO EM CASA[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn-ondemand.rtp.pt/nas2.share/h264/512x384/p7788/preview/p7788_1_202010231611023820d_videoprv.mp4
 
-#EXTM3U
+
+####################################################################################################################################
+
+#EXTINF:-1,[COLOR=white][B]APRENDER COM O YOUTUBE[/B][/COLOR][COLOR=white][/COLOR]
 
 #EXTINF:-1,[COLOR=white][B]A CANÇÃO DE CONTAR, CONHEÇA OS NÚMEROS DE 1 A 10[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TQehi_5QplQ&ab_channel=BabyTVPortuguês
