@@ -14,7 +14,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
 
-#EXTINF:-1,[COLOR=yellow][B]///////// RÁDIOS, TV E CANAIS PT EXCLUSIVOS /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  RÁDIOS, TV E CANAIS PT EXCLUSIVOS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #EXTM3U
 
@@ -35,10 +35,31 @@ https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/chunklist_
 
 
 ##########################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////// CANAIS EXPRESSÃO PT /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS EXPRESSÃO PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTM3U
+
+#EXTINF:-1,[COLOR=white][B]TPA[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8000/play/a0jo
+#EXTINF:-1,[COLOR=white][B]TPA[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/26374
+#EXTINF:-1,[COLOR=white][B]TVM SD[/B][/COLOR][COLOR=white][/COLOR]
+http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]TVM HD[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/31315
+#EXTINF:-1,[COLOR=white][B]TVM INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
+http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religious",[COLOR=white][B]KURIAKOS ANGOLA[/B][/COLOR][COLOR=white][/COLOR]
+http://w2.manasat.com:1935/ktv-ao/ktv-ao/chunklist.m3u8
+#EXTINF:-1,[COLOR=white][B]AFRICA CHANNEL FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://megaott.cx:900/live/1504419863/3177101108/376194.m3u8
+#EXTINF:-1,[COLOR=white][B]CITIZEN TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/45511
+#EXTINF:-1,[COLOR=white][B]CANAL MACAU TV[/B][/COLOR][COLOR=white][/COLOR]
+https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]TDM MACAU TV[/B][/COLOR][COLOR=white][/COLOR]
+http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/HasBahCa.m3u8
 
 
 #EXTINF:-1,[COLOR=white][B]TV GLOBO HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -47,18 +68,7 @@ http://189.91.128.146:4444/udp/227.10.20.109:1234
 http://189.91.128.146:4444/udp/227.10.20.147:1234
 #EXTINF:-1,[COLOR=white][B]STAR CHANNEL BR[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.139:1234
-#EXTINF:-1,[COLOR=white][B]CANAL MACAU TV[/B][/COLOR][COLOR=white][/COLOR]
-https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]TDM MACAU TV[/B][/COLOR][COLOR=white][/COLOR]
-http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/HasBahCa.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Religious",[COLOR=white][B]KURIAKOS ANGOLA[/B][/COLOR][COLOR=white][/COLOR]
-http://w2.manasat.com:1935/ktv-ao/ktv-ao/chunklist.m3u8
-#EXTINF:-1,[COLOR=white][B]TPA[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8000/play/a0jo
-#EXTINF:-1,[COLOR=white][B]TVM HD[/B][/COLOR][COLOR=white][/COLOR]
-http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]TVM INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
-http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
+
 
 ##########################################################################################################################################
 
