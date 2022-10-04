@@ -13,6 +13,11 @@ FONTE DE INFORMAÇÃO: http://fmstream.org/index.php?c=G&o=top
 https://000000
 
 
+
+#EXTINF:-1,[COLOR=white][B]POWER FM[/B][/COLOR][COLOR=white][/COLOR]
+http://85.0.32.106:7000/play/POWERFM
+#EXTINF:-1,[COLOR=white][B]POWERTURK FM[/B][/COLOR][COLOR=white][/COLOR]
+http://85.0.32.106:7000/play/POWERTURKFMxx
 #EXTINF:-1,[COLOR=white][B]RADIO KRONEHIT GREATEST HITS[/B][/COLOR][COLOR=white][/COLOR]
 https://secureonair.krone.at/kronehit13.mp3
 #EXTINF:-1,[COLOR=white][B]RADIO KRONEHIT HITS[/B][/COLOR][COLOR=white][/COLOR]
