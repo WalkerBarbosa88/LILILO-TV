@@ -235,6 +235,7 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1423
 
 #EXTM3U
 
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",11 FULL HD
 http://176.79.76.155:8000/play/a00h/index.m3u8
 #EXTINF:0 tvg-id="24Kitchen.pt" group-title="Channels",24 Kitchen
@@ -371,8 +372,6 @@ http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24314
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30008
 #EXTINF:0 tvg-id="RTP3.pt" group-title="Channels",PT:RTP 3
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24512
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT:RTP 3 HD
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30391
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT:TV GLOBO HD
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/31216
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT:TV GLOBO
@@ -381,8 +380,6 @@ http://cs22cs.uk:2052/zorro/I1T0bCwDjC/22960
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/22961
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT:SIC HD
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24313
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT:SIC
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24517
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT:SIC K
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24519
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT:SIC Mulher
@@ -393,32 +390,20 @@ http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24521
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24518
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT:SIC Radical
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/20255
-#EXTINF:0 tvg-id="TLC.pt" group-title="Channels",PT:TLC
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/22953
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT:TVI
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/20245
-#EXTINF:0 tvg-id="TVIFiccao.pt" group-title="Channels",PT:TVI FICCAO
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/22879
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT:TVI 24 HD
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/20243
 #EXTINF:0 tvg-id="TVI24.pt" group-title="Channels",PT:TVI 24
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24311
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT:RTP Madeira
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24515
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT:RTP MEMORIA
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24516
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT:CANAL Q
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30379
-#EXTINF:0 tvg-id="FuelTV.pt" group-title="Channels",PT:FUEL TV
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30377
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT:Odisseia HD
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24308
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT:CNN POR
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/22954
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT:TVCine TOP
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/22889
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT:Toros Tv
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/20247
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT:RTP Acores
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24513
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT:RTP ?FRICA
@@ -433,14 +418,10 @@ http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24472
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24473
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT:ARTV
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30381
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT:BBC Entertainment
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24481
 #EXTINF:0 tvg-id="hollywood.pt" group-title="Channels",PT:Canal Hollywood
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30427
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT:CM TV***
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/27671
-#EXTINF:0 tvg-id="mezzo.pt" group-title="Channels",PT: Mezzo
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/40751
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT:E! ENTERTAINMENT
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24491
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT:MCM POP
@@ -451,8 +432,6 @@ http://cs22cs.uk:2052/zorro/I1T0bCwDjC/20246
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30363
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT:MTV PORTUGAL
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30382
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT:Trace Urban
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30400
 #EXTINF:0 tvg-id="ext" group-title="Channels",PR:Trace Toca
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24332
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT:VH1
@@ -464,56 +443,32 @@ http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24474
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT:CAPELA DE FATIMA
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24484
 
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL CINEMA",=== PORTUGAL CINEMA ===
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30443
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL CINEMA",PT:Odesseia
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30418
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL CINEMA",PT:Zap Viva
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/39498
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL CINEMA",PT:TVCINE Action
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30441
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL CINEMA",PT:TVC 1
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24318
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL CINEMA",PR:Tvcine 1 TOP
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/20272
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL CINEMA",PT:TVCINE 2 Action
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30439
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL CINEMA",PT:Tvcine 2 HD
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/20271
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL CINEMA",PT:CINE TV 3 EMOTION
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/27658
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL CINEMA",PT:MARVEL II (exclusive)
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30435
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL CINEMA",PT:TVCINE 4
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24539
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL CINEMA",PT:NOS Studios HD
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30429
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL CINEMA",PT:Cinemundo HD
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24326
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL CINEMA",PT:SYFY
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24533
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL CINEMA",PT:AXN MOVIES
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24315
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL CINEMA",PT:AXN BLACK HD
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/22968
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL CINEMA",PT:TVCine EDITION HD
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30430
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL CINEMA",PT:AXN WHITE
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/22900
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL CINEMA",PT:AXN HD
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24319
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL CINEMA",PT:EuroNews Portugues
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30434
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL CINEMA",PT:FOX Movies HD
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24499
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL CINEMA",PT:Fox Comedy
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24307
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL CINEMA",PT:Cacavizion
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30428
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL CINEMA",PT:FOX CRIME HD
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24496
-#EXTINF:0 tvg-id="fox.pt" group-title="PORTUGAL CINEMA",PT:FOX HD
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24497
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL CINEMA",PT:FOX LIFE HD
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24498
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL CINEMA",PT:RECORD NEWS
@@ -522,17 +477,11 @@ http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30432
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24475
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL CINEMA",PT:Hollywood
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/20266
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL CINEMA",PT:TVSeries
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30426
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL CINEMA",PT:DC TV (exclusive)
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24536
 
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL SPORT",=== PORTUGAL SPORT ===
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30425
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL SPORT",PT:SPORTINGTV FHD
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30404
-#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="PORTUGAL SPORT",PT:Sporting TV
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/27659
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL SPORT",PT:Sport TV +
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/20254
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL SPORT",PT:SPORT TV
@@ -541,8 +490,6 @@ http://cs22cs.uk:2052/zorro/I1T0bCwDjC/27660
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30398
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL SPORT",PT:SPORT TV 1 HD
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/21003
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL SPORT",PT:SPORT TV 1 FHD
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30423
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL SPORT",PT:SPORT TV 2
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/26931
 #EXTINF:0 tvg-id="sporttv2.pt" group-title="PORTUGAL SPORT",PT:SPORT TV 2 HD
@@ -551,10 +498,6 @@ http://cs22cs.uk:2052/zorro/I1T0bCwDjC/21002
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30397
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL SPORT",PT:SPORT TV 6
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24528
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL SPORT",PT:SPORT TV 3 HD
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30421
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL SPORT",PT:SPORT TV 4
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/27101
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL SPORT",PT:SPORT TV 4 HD
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30419
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL SPORT",PT:SPORT TV 5
@@ -568,19 +511,13 @@ http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30416
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL SPORT",PT:ELEVEN SPORTS 1 HD
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30028
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL SPORT",PT:Eleven Sport 2 HD
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30414
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL SPORT",PT:Eleven Sport 2 HD
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30029
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL SPORT",PT:Eleven Sport 3
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30412
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL SPORT",PT:Eleven Sport 4
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30410
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL SPORT",PT:Eleven Sport 5
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30408
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL SPORT",PT:Eleven Sport 6
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30406
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL SPORT",PT:Eleven Sports 6
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30405
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL SPORT",PT:Benfica tv
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/20270
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL SPORT",PT:EUROSPORT News
@@ -606,22 +543,14 @@ http://cs22cs.uk:2052/zorro/I1T0bCwDjC/22878
 
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL KIDS",=== PORTUGAL KIDS ===
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30376
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL KIDS",PT:Kuriakos TV
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/31102
 #EXTINF:0 tvg-id="BabyTV.pt" group-title="PORTUGAL KIDS",PT:BABY TV
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24477
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL KIDS",PT:Panda
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24309
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL KIDS",PT:APANHADOS 2 (exclusive)
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/20269
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL KIDS",PT:NBA TV
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30374
 #EXTINF:0 tvg-id="PandaBiggs.pt" group-title="PORTUGAL KIDS",PT:Panda Biggs
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24310
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL KIDS",PT:Nick Jr
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30373
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL KIDS",PT:SIC Kids
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/27661
 #EXTINF:0 tvg-id="disneychannel.pt" group-title="PORTUGAL KIDS",PT:DISNEY CHANNEL
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24489
 #EXTINF:0 tvg-id="Nickelodeon.pt" group-title="PORTUGAL KIDS",PT:Nickelodeon
@@ -630,8 +559,6 @@ http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24506
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30372
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL KIDS",PT:Cartoon Network
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24324
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL KIDS",== PORTUGAL DOCUMENTARY ==
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30371
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL KIDS",PT:CACA E PESCA
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/22890
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL KIDS",PT:Nat Geo Wild
@@ -640,30 +567,18 @@ http://cs22cs.uk:2052/zorro/I1T0bCwDjC/28419
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30368
 #EXTINF:0 tvg-id="nationalgeographic.pt" group-title="PORTUGAL KIDS",PT:NATIONAL GEOGRAPHIC
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30367
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL KIDS",PT:DISCOVERY CHANNEL
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24488
-#EXTINF:0 tvg-id="HistoryChannel.pt" group-title="PORTUGAL KIDS",PT:Historia
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/30370
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL KIDS",PT:24KITCHEN HD
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/27095
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL KIDS",PT:24 KITCHEN
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/24321
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL KIDS",PT:TVI Reality
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/20244
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL KIDS",PT:MARVEL (exclusive)
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/22904
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL KIDS",PT:DISNEY+ MARVEL
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/39490
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL KIDS",PT:Cancao Nova
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/39491
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL KIDS",PT:A Grande Familia 1
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/39492
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL KIDS",PT:FILMES ACÇÃO (exclusive)
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/39493
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL KIDS",PT:A Grande Familia 2
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/39494
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL KIDS",PT:FILMES Evolution Kids (exclusive)
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/39497
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL KIDS",PT:A Feiticeira BR
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/39499
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL KIDS",PT:A Casa do Mickey Mouse BR
@@ -674,11 +589,6 @@ http://cs22cs.uk:2052/zorro/I1T0bCwDjC/39502
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/39503
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL KIDS",PT:Caverna do Dragão 1
 http://cs22cs.uk:2052/zorro/I1T0bCwDjC/39506
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL KIDS",PT:Superman Animado 02
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/39507
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL KIDS",PT:Superman Animado 01
-http://cs22cs.uk:2052/zorro/I1T0bCwDjC/39508
-
 
 
 ####################################################################################################################################
