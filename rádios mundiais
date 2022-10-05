@@ -15,7 +15,14 @@ https://000000
 
 
 #EXTINF:-1,[COLOR=white][B]POWER FM[/B][/COLOR][COLOR=white][/COLOR]
-http://85.0.32.106:7000/play/POWERFM
+https://live.powerapp.com.tr/powerfm/abr/powerfm/256/chunks.m3u8?nimblesessionid=89169601
+#EXTINF:-1,[COLOR=white][B]POWER DANCE FM[/B][/COLOR][COLOR=white][/COLOR]
+https://listen.powerapp.com.tr/powerdance/abr/powerdance/256/chunks.m3u8?nimblesessionid=196669618
+#EXTINF:-1,[COLOR=white][B]POWER LOVE FM[/B][/COLOR][COLOR=white][/COLOR]
+https://listen.powerapp.com.tr/powerlove/abr/powerlove/256/chunks.m3u8?nimblesessionid=196670672
+#EXTINF:-1,[COLOR=white][B]POWER PLUS+ FM[/B][/COLOR][COLOR=white][/COLOR]
+https://listen.powerapp.com.tr/powerplus/abr/powerplus/256/chunks.m3u8?nimblesessionid=196671538
+
 #EXTINF:-1,[COLOR=white][B]POWERTURK FM[/B][/COLOR][COLOR=white][/COLOR]
 http://85.0.32.106:7000/play/POWERTURKFMxx
 #EXTINF:-1,[COLOR=white][B]RADIO KRONEHIT GREATEST HITS[/B][/COLOR][COLOR=white][/COLOR]
