@@ -18,6 +18,15 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=jtfh6O
 #EXTINF:-1,[COLOR=white][B]SCP, CAMPEÃO 2020/21: FESTA APÓS O APITO[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=xzNI_SMGzy0&ab_channel=VSPORTS-LigaPortugalBwin
 
+#EXTINF:-1,[COLOR=white][B]SPORTING - RETRO ESPECTIVA CAMPEÃO 20/21[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=eT9d-UaAerk
+
+#EXTINF:-1,[COLOR=white][B]SPORTING - RETRO ESPECTIVA CAMPEÃO 20/21[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=0zZ3cju-tzU
+
+#EXTINF:-1,[COLOR=white][B]SPORTING - GOLOS 20/21[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=Pty8h6qCy3Y
+
 
 #EXTINF:-1,[COLOR=yellow][B]HINOS DO SPORTING[/B][/COLOR][COLOR=yellow][/COLOR]
 
