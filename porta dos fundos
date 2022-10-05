@@ -3,18 +3,32 @@
 #EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]//////////////  ESPECIAL PORTA DOS FUNDOS  //////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
 http://0.0.0.0:00000
 ####################################################################################################################################
- 
- 
+  
 #EXTM3U
 
 #EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 05/10/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
+#EXTM3U
+#EXTINF:-1,[COLOR=yellow][B]//////////////////  PORTA DOS FUNDOS TV  //////////////////[/B][/COLOR][COLOR=white][/COLOR]
+
+
+#EXTINF:-1 group-title="VARIEDADES",[COLOR=white][B]PORTA DOS FUNDOS TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTM3U
+
+#EXTINF:-1,[COLOR=yellow][B]//////////////////  FILMES  //////////////////[/B][/COLOR][COLOR=white][/COLOR]
+
+#EXTM3U
 
 #EXTINF:-1 group-title="VARIEDADES",[COLOR=white][B]PORTA DOS FUNDOS: TE PREGO LÁ FORA (FILME 2021)[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/movie/claud123/claud123/140255.mp4
 
-#EXTINF:-1 group-title="VARIEDADES",[COLOR=white][B]PORTA DOS FUNDOS TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+#EXTM3U
+
+#EXTINF:-1,[COLOR=yellow][B]//////////////////  STAND-UP COMEDY  //////////////////[/B][/COLOR][COLOR=white][/COLOR]
+
+#EXTM3U
 
 #EXTINF:-1 tvg-logo="",[COLOR=white][B]SEQUESTRO FAMILIAR[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=qTMImTW7MZ0
@@ -63,3 +77,5 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=us1mxp
  
 #EXTINF:-1 tvg-logo="",[COLOR=white][B]PRÓXIMO PREFEITO[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=LVXPrpfUrvE
+
+
