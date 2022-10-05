@@ -22,9 +22,9 @@ https://listen.powerapp.com.tr/powerdance/abr/powerdance/256/chunks.m3u8?nimbles
 https://listen.powerapp.com.tr/powerlove/abr/powerlove/256/chunks.m3u8?nimblesessionid=196670672
 #EXTINF:-1,[COLOR=white][B]POWER PLUS+ FM[/B][/COLOR][COLOR=white][/COLOR]
 https://listen.powerapp.com.tr/powerplus/abr/powerplus/256/chunks.m3u8?nimblesessionid=196671538
-
 #EXTINF:-1,[COLOR=white][B]POWERTURK FM[/B][/COLOR][COLOR=white][/COLOR]
-http://85.0.32.106:7000/play/POWERTURKFMxx
+https://live.powerapp.com.tr/powerturk/abr/powerturk/256/chunks.m3u8?nimblesessionid=89173474
+
 #EXTINF:-1,[COLOR=white][B]RADIO KRONEHIT GREATEST HITS[/B][/COLOR][COLOR=white][/COLOR]
 https://secureonair.krone.at/kronehit13.mp3
 #EXTINF:-1,[COLOR=white][B]RADIO KRONEHIT HITS[/B][/COLOR][COLOR=white][/COLOR]
