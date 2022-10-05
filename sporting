@@ -3,11 +3,11 @@
 http://0.0.0.0:0000
 ######################################################################################################################################
  
-
 #EXTM3U
 
 #EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 05/10/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
+#EXTM3U
 
 #EXTINF:-1,[COLOR=yellow][B]FESTA DO TÍTULO 2020 / 2021[/B][/COLOR][COLOR=yellow][/COLOR]
 
@@ -27,7 +27,7 @@ plugin://plugin.video.youtube/play/?video_id=0zZ3cju-tzU
 #EXTINF:-1,[COLOR=white][B]SPORTING - GOLOS 20/21[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=Pty8h6qCy3Y
 
-
+#EXTM3U
 #EXTINF:-1,[COLOR=yellow][B]HINOS DO SPORTING[/B][/COLOR][COLOR=yellow][/COLOR]
 
 
@@ -43,7 +43,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=GBtd_W
 #EXTINF:-1,[COLOR=white][B]CÂNTICOS SCP AO VIVO NO ESTÁDIO[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=iIk1gRfjrFE&list=RDQMpKT9Le5a2ng&index=5&ab_channel=ValterSva
  
-
+#EXTM3U
 #EXTINF:-1,[COLOR=yellow][B]SPORTING - HISTÓRIA E CONQUISTAS[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
