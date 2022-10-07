@@ -4,51 +4,48 @@
 http://0.0.0.0:000000
 ##################################################################################################################################################
 
-#EXTINF:-1,[COLOR=orange][B]LISTAS ADICIONADA: 29/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS ADICIONADA: 07/10/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #################################################################################################################################################
  
 #EXTM3U
 
-#EXTINF:0 tvg-id="ext" group-title="Spain",101 Tele Antequera ES
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/92797
+
 #EXTINF:0 tvg-id="ext" group-title="Spain",13 TV ES
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48641
-#EXTINF:0 tvg-id="ext" group-title="Spain",24 Horas ES
+#EXTINF:0 tvg-id="ext" group-title="Spain",24 HORAS ES
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48642
 #EXTINF:0 tvg-id="ext" group-title="Spain",25 TV ES
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/92795
-#EXTINF:0 tvg-id="ext" group-title="Spain",A3 Series ES
+#EXTINF:0 tvg-id="ext" group-title="Spain",A3 SERIES ES
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48646
 #EXTINF:0 tvg-id="ext" group-title="Spain",Alcarria TV HD ES
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/100193
-#EXTINF:0 tvg-id="ext" group-title="Spain",Alternativa TV HD ES
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/92799
 #EXTINF:0 tvg-id="AMC.es" group-title="Spain",AMC ES
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48648
 #EXTINF:0 tvg-id="AMC.es" group-title="Spain",AMC FHD ES
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48647
 #EXTINF:0 tvg-id="ext" group-title="Spain",Andalucia ES
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48654
-#EXTINF:0 tvg-id="Antena3.es" group-title="Spain",Antena 3 ES
+#EXTINF:0 tvg-id="Antena3.es" group-title="Spain",ANTENA 3 ES
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48656
-#EXTINF:0 tvg-id="Antena3.es" group-title="Spain",Antena 3 FHD ES
+#EXTINF:0 tvg-id="Antena3.es" group-title="Spain",ANTENA 3 FHD ES
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48655
-#EXTINF:0 tvg-id="ext" group-title="Spain",Aragon ES
+#EXTINF:0 tvg-id="ext" group-title="Spain",ARAGON ES
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48657
 #EXTINF:0 tvg-id="AXNhd.es" group-title="Spain",AXN ES
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48652
 #EXTINF:0 tvg-id="AXNhd.es" group-title="Spain",AXN FHD ES
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48649
-#EXTINF:0 tvg-id="AXNWhite.es" group-title="Spain",AXN White HD ES
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="Spain",AXN WHITE HD ES
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48651
-#EXTINF:0 tvg-id="AXNWhite.es" group-title="Spain",AXN White FHD ES
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="Spain",AXN WHITE FHD ES
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48650
-#EXTINF:0 tvg-id="ext" group-title="Spain",Baby ES
+#EXTINF:0 tvg-id="ext" group-title="Spain",BABY ES
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48658
-#EXTINF:0 tvg-id="BarcaTV.es" group-title="Spain",Barca TV ES
+#EXTINF:0 tvg-id="BarcaTV.es" group-title="Spain",BARÇA TV ES
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48659
-#EXTINF:0 tvg-id="ext" group-title="Spain",Be Mad FHD ES
+#EXTINF:0 tvg-id="ext" group-title="Spain",BE MAD FHD ES
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48660
 #EXTINF:0 tvg-id="ext" group-title="Spain",Blaze ES
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48674
@@ -64,8 +61,6 @@ http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48680
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/100176
 #EXTINF:0 tvg-id="Cocina.es" group-title="Spain",Canal Cocina ES
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/92808
-#EXTINF:0 tvg-id="ext" group-title="Spain",Canal Sierra de Cádiz FHD ES
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/100192
 #EXTINF:0 tvg-id="ext" group-title="Spain",Canal Sur 2 ES
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/100149
 #EXTINF:0 tvg-id="ext" group-title="Spain",Caracol HD HD ES
@@ -118,10 +113,6 @@ http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48714
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/100156
 #EXTINF:0 tvg-id="Energy.es" group-title="Spain",Energy ES
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48717
-#EXTINF:0 tvg-id="ext" group-title="Spain",ETB 2 HD ES
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/100185
-#EXTINF:0 tvg-id="ext" group-title="Spain",ETB SAT HD ES
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/100182
 #EXTINF:0 tvg-id="Eurosport1.es" group-title="Spain",EuroSport 1 ES
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48720
 #EXTINF:0 tvg-id="Eurosport1.es" group-title="Spain",EuroSport 1 FHD ES
@@ -134,10 +125,6 @@ http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48725
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48730
 #EXTINF:0 tvg-id="ext" group-title="Spain",Fox FHD ES
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48727
-#EXTINF:0 tvg-id="FoxLife.es" group-title="Spain",Fox Life FHD ES
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48728
-#EXTINF:0 tvg-id="FoxNews.es" group-title="Spain",FOX News ES
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48726
 #EXTINF:0 tvg-id="ext" group-title="Spain",El Garage TV HD ES
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/100178
 #EXTINF:0 tvg-id="ext" group-title="Spain",Gol TV ES
@@ -174,8 +161,6 @@ http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/361399
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48747
 #EXTINF:0 tvg-id="LaSexta.sp" group-title="Spain",La Sexta FHD ES
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48751
-#EXTINF:0 tvg-id="LaSexta.sp" group-title="Spain",La Sexta HD ES
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48752
 #EXTINF:0 tvg-id="ext" group-title="Spain",Levante TV HD ES
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48755
 #EXTINF:0 tvg-id="ext" group-title="Spain",Liga Campeones 1 HD ES
@@ -192,7 +177,7 @@ http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48775
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48776
 #EXTINF:0 tvg-id="ext" group-title="Spain",MOLA TV ES
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/92826
-#EXTINF:0 tvg-id="ext" group-title="Spain",Movistar 0# FHD ES
+#EXTINF:0 tvg-id="ext" group-title="Spain",# FHD ES
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48779
 #EXTINF:0 tvg-id="M.Accion.es" group-title="Spain",Movistar Accion FHD ES
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48938
@@ -234,8 +219,6 @@ http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48935
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48920
 #EXTINF:0 tvg-id="M.Deportes2.es" group-title="Spain",Movistar Deportes 2 ES
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48934
-#EXTINF:0 tvg-id="M.Deportes.es" group-title="Spain",Movistar Deportes FHD ES
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48929
 #EXTINF:0 tvg-id="ext" group-title="Spain",Movistar Disney HD ES
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48804
 #EXTINF:0 tvg-id="ext" group-title="Spain",Movistar Disney ES
@@ -252,8 +235,6 @@ http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48926
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48826
 #EXTINF:0 tvg-id="M.Estrenos.es" group-title="Spain",Movistar EStrenos FHD ES
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48827
-#EXTINF:0 tvg-id="ext" group-title="Spain",Movistar F1 FHD ES
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48807
 #EXTINF:0 tvg-id="ext" group-title="Spain",Movistar Formula FHD ES
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/48918
 #EXTINF:0 tvg-id="Golf.es" group-title="Spain",Movistar Golf ES
@@ -388,30 +369,7 @@ http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/96024
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/96025
 #EXTINF:0 tvg-id="ext" group-title="Spain",Footters 6 ES [Live During Events Only]
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/96026
-#EXTINF:0 tvg-id="ext" group-title="Spain",Evento 1 HD ES [Live During Events Only]
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/96027
-#EXTINF:0 tvg-id="ext" group-title="Spain",Evento 2 HD ES [Live During Events Only]
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/96028
-#EXTINF:0 tvg-id="ext" group-title="Spain",Evento 3 HD ES [Live During Events Only]
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/96029
-#EXTINF:0 tvg-id="ext" group-title="Spain",Evento 4 HD ES [Live During Events Only]
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/96030
-#EXTINF:0 tvg-id="ext" group-title="Spain",Evento 5 HD ES [Live During Events Only]
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/96031
-#EXTINF:0 tvg-id="ext" group-title="Spain",Evento 6 HD ES [Live During Events Only]
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/96032
-#EXTINF:0 tvg-id="ext" group-title="Spain",Evento 7 HD ES [Live During Events Only]
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/96033
-#EXTINF:0 tvg-id="ext" group-title="Spain",Evento 8 HD ES [Live During Events Only]
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/96034
-#EXTINF:0 tvg-id="ext" group-title="Spain",Evento 9 HD ES [Live During Events Only]
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/96035
-#EXTINF:0 tvg-id="ext" group-title="Spain",Evento 10 HD ES [Live During Events Only]
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/96036
-#EXTINF:0 tvg-id="ext" group-title="Spain",Evento 11 HD ES [Live During Events Only]
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/96037
-#EXTINF:0 tvg-id="ext" group-title="Spain",Evento 12 HD ES [Live During Events Only]
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/96038
+
 #EXTINF:0 tvg-id="ext" group-title="24/7 Spain",A las once en casa ES
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/299349
 #EXTINF:0 tvg-id="ext" group-title="24/7 Spain",Ana y los 7 ES
@@ -508,10 +466,6 @@ http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/299396
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/299391
 #EXTINF:0 tvg-id="ext" group-title="24/7 Spain",MTV En Vivo ES
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/299425
-#EXTINF:0 tvg-id="ext" group-title="24/7 Spain",MTV Good Vibes ES
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/299426
-#EXTINF:0 tvg-id="ext" group-title="24/7 Spain",MTV Love Music ES
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/299424
 #EXTINF:0 tvg-id="ext" group-title="24/7 Spain",MTV Music Made in Spain ES
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/299423
 #EXTINF:0 tvg-id="ext" group-title="24/7 Spain",MTV Originals ES
