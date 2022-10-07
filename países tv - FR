@@ -4,11 +4,12 @@
 http://0.0.0.0:000000
 ##################################################################################################################################################
 
-#EXTINF:-1,[COLOR=orange][B]LISTAS ADICIONADA: 29/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS ADICIONADA: 07/10/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #################################################################################################################################################
  
 #EXTM3U
+
 
 #EXTINF:0 tvg-id="ext" group-title="France",13 Eme Rue FR
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/22936
@@ -102,14 +103,10 @@ http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/22961
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/22925
 #EXTINF:0 tvg-id="CinecinemaEmotion.fr" group-title="France",Ciné+ Emotion FHD FR
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/23051
-#EXTINF:0 tvg-id="CinecinemaPremier.fr" group-title="France",Ciné+ Premier HD FR
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/23039
 #EXTINF:0 tvg-id="CinecinemaClassic.fr" group-title="France",Ciné+ Classic FHD FR
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/23047
 #EXTINF:0 tvg-id="ext" group-title="France",Ciné+ Famiz FR
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/23045
-#EXTINF:0 tvg-id="ext" group-title="France",Ciné+ FX FHD FR
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/23043
 #EXTINF:0 tvg-id="ext" group-title="France",Ciné+ Polar FHD FR
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/23041
 #EXTINF:0 tvg-id="CNews.fr" group-title="France",CNews FHD FR
@@ -124,8 +121,6 @@ http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/22960
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/22990
 #EXTINF:0 tvg-id="DisneyMagic.fr" group-title="France",Disney Cinema FHD FR
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/22992
-#EXTINF:0 tvg-id="DisneyJunior.fr" group-title="France",Disney Junior HD FR
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/22988
 #EXTINF:0 tvg-id="ext" group-title="France",Disney+ FR
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/22987
 #EXTINF:0 tvg-id="ext" group-title="France",E! Entertainment FHD FR
@@ -206,8 +201,6 @@ http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/22964
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/22963
 #EXTINF:0 tvg-id="ext" group-title="France",Planet FR
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/22967
-#EXTINF:0 tvg-id="ext" group-title="France",Rouge Tv FR
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/22906
 #EXTINF:0 tvg-id="ext" group-title="France",RTL 9 FHD FR
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/22905
 #EXTINF:0 tvg-id="ext" group-title="France",RMC Sport 1 HD FR
@@ -240,8 +233,6 @@ http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/22902
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/22903
 #EXTINF:0 tvg-id="ext" group-title="France",Trace Africa HD FR
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/27752
-#EXTINF:0 tvg-id="ext" group-title="France",Trace Tropical FHD FR
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/27751
 #EXTINF:0 tvg-id="TCM.fr" group-title="France",TCM Cinema FR
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/23037
 #EXTINF:0 tvg-id="TeleTOON.fr" group-title="France",TeleToon+ HD FR
@@ -298,3 +289,5 @@ http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/38350
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/27721
 #EXTINF:0 tvg-id="ext" group-title="France",RTL Luxembourg LU
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/55826
+
+
