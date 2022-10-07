@@ -3,7 +3,7 @@
 http://0.0.0.0:0000
 ############################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 29/09/2022[/B][/COLOR][COLOR=orange][/COLOR] 
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 07/10/2022[/B][/COLOR][COLOR=orange][/COLOR] 
 
 Fonte de Informação: 
 
@@ -368,7 +368,7 @@ http://189.91.128.146:4444/udp/227.10.20.166:1234
 
 
 ####################################################################################################################################
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 29/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 07/10/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIL1ho006Jea_Lf0E91i8HE9TZjeKXIkmm2Ygqo2p6ZO3JAOwYALJ56UPiax7h1rGOFw&usqp=CAU",[COLOR=white][B]DELUXE LOUNGE[/B][/COLOR][COLOR=white][/COLOR]
@@ -502,6 +502,7 @@ http://0000000000000000000000000000
 
 #EXTM3U
 
+
 #EXTINF:0 tvg-id="ext" group-title="Brazil",A&E HD BR
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46500
 #EXTINF:0 tvg-id="ext" group-title="Brazil",AMC HD BR
@@ -528,8 +529,6 @@ http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46512
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46513
 #EXTINF:0 tvg-id="ext" group-title="Brazil",Comedy Central HD BR
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46514
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Cultura HD BR
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46515
 #EXTINF:0 tvg-id="ext" group-title="Brazil",Discovery Civilization HD BR
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46516
 #EXTINF:0 tvg-id="ext" group-title="Brazil",Discovery H H HD BR
@@ -544,8 +543,6 @@ http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46520
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46521
 #EXTINF:0 tvg-id="ext" group-title="Brazil",Discovery Turbo HD BR
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46522
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Discovery World HD BR
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46523
 #EXTINF:0 tvg-id="ext" group-title="Brazil",Disney Channel HD BR
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46524
 #EXTINF:0 tvg-id="ext" group-title="Brazil",Discovery Channel 4K UHD BR
@@ -574,8 +571,6 @@ http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46540
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46539
 #EXTINF:0 tvg-id="ext" group-title="Brazil",Globo News HD BR
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46543
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Fx HD BR
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46542
 #EXTINF:0 tvg-id="ext" group-title="Brazil",Globo RJ FHD BR
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46541
 #EXTINF:0 tvg-id="ext" group-title="Brazil",Gnt HD BR
@@ -664,20 +659,12 @@ http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46597
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46596
 #EXTINF:0 tvg-id="ext" group-title="Brazil",Space HD BR
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46594
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Sony BR
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46593
 #EXTINF:0 tvg-id="ext" group-title="Brazil",Sony HD BR
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46592
 #EXTINF:0 tvg-id="ext" group-title="Brazil",Shoptime BR
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46590
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Sbt HD BR
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46589
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Rede Vida BR
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46587
 #EXTINF:0 tvg-id="ext" group-title="Brazil",Rede Tv HD BR
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46586
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Rede New BR
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46585
 #EXTINF:0 tvg-id="ext" group-title="Brazil",Record News HD BR
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46583
 #EXTINF:0 tvg-id="ext" group-title="Brazil",Record HD BR
@@ -704,8 +691,6 @@ http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46570
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46571
 #EXTINF:0 tvg-id="ext" group-title="Brazil",Nick HD BR
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46568
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Nat Geo Wild HD BR
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46567
 #EXTINF:0 tvg-id="ext" group-title="Brazil",Nat Geo Kids HD BR
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46566
 #EXTINF:0 tvg-id="ext" group-title="Brazil",Mtv Live HD BR
@@ -718,8 +703,6 @@ http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46561
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/51188
 #EXTINF:0 tvg-id="ext" group-title="Brazil",Multishow HD BR
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46564
-#EXTINF:0 tvg-id="ext" group-title="Brazil",Max Up HD BR
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46560
 #EXTINF:0 tvg-id="ext" group-title="Brazil",Max Prime HD BR
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46559
 #EXTINF:0 tvg-id="ext" group-title="Brazil",Max HD BR
@@ -774,7 +757,4 @@ http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46601
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46599
 #EXTINF:0 tvg-id="ext" group-title="Brazil",TBS HD BR
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/46600
-
-
-
 
