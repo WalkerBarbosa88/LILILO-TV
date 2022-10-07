@@ -7,7 +7,7 @@ FONTE DE INFORMAÇÃO:
               https://global-satinfo.in/viewtopic.php?f=22&t=315&start=410
 
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 29/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 07/10/2022[/B][/COLOR][COLOR=orange][/COLOR]
 #EXTM3U
 
 #######################################################################################################################
@@ -18,14 +18,6 @@ https://000000
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="ext" group-title="Sport Package",Aberdeen FC TV UK [Match Time Only]
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/18596
-#EXTINF:0 tvg-id="ext" group-title="Sport Package",Dundee TV UK [Match Time Only]
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/18598
-#EXTINF:0 tvg-id="ext" group-title="Sport Package",Hearts TV [Match Time Only]
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/18599
-#EXTINF:0 tvg-id="ext" group-title="Sport Package",Hibs TV UK [Match Time Only]
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/18597
 #EXTINF:0 tvg-id="ext" group-title="Sport Package",SuperSport LaLiga HD ZA
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/39406
 #EXTINF:0 tvg-id="ext" group-title="Sport Package",SuperSport PSL FHD ZA
@@ -48,8 +40,6 @@ http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/39414
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/39415
 #EXTINF:0 tvg-id="ext" group-title="Sport Package",SuperSport Rugby FHD ZA
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/39416
-#EXTINF:0 tvg-id="ext" group-title="Sport Package",SuperSport Cricket FHD ZA
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/39417
 #EXTINF:0 tvg-id="ext" group-title="Sport Package",SuperSport Blitz FHD ZA
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/39519
 #EXTINF:0 tvg-id="ext" group-title="Sport Package",SuperSport Action FHD ZA
@@ -82,14 +72,10 @@ http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94452
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94453
 #EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports XTRA 2 AR
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94454
-#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports XTRA 2 Hevc AR
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94455
 #EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports XTRA 2 HD AR
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94456
 #EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports XTRA 1 AR
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94457
-#EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports XTRA 1 Hevc AR
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94458
 #EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports XTRA 1 HD AR
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/94459
 #EXTINF:0 tvg-id="ext" group-title="Sport Package",beIN Sports 7 AR
@@ -250,19 +236,11 @@ http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/9720
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/9719
 #EXTINF:0 tvg-id="ext" group-title="EX-YU Sport",Arena Sport 5 FHD RS
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/9718
-#EXTINF:0 tvg-id="ext" group-title="EX-YU Sport",Arena Sport 5 (Backup) RS
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/9717
-
-#######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////////  LISTA DESPORTO GRATUITO  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://000000
-
-
 #EXTINF:0 tvg-id="ext" group-title="Sport",BEST CABLE SPORTS PERU HD
 https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ERT SPORTS 2 FHD 
+#EXTINF:0 tvg-id="ext" group-title="Sport",ERT SPORTS 2 FHD
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports2_ww.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ERT SPORTS 3 FHD 
+#EXTINF:0 tvg-id="ext" group-title="Sport",ERT SPORTS 3 FHD
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports3_ww.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",FREESPORTS HD
 https://d3cq7cdp2cfi92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/hls-harvester2-1293-prod/us-east-1/cc-2ff27mp9b8422/master.m3u8?checkedby:iptvcat.com
@@ -302,14 +280,84 @@ http://168.205.87.198:8555/live/1221/123456/148.ts?checkedby:iptvcat.com
 http://168.205.87.198:8555/live/1431/123456/148.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",ALL SPORTS
 http://168.205.87.198:8555/live/JOSEE/123456/148.ts?checkedby:iptvcat.com
-
-####################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]LISTA VERIFICADA: 29/09/2022[/B][/COLOR][COLOR=yellow][/COLOR]
-
-#EXTM3U
-
-
-#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Sport",BAHRAIN SPORTS 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",BAHRAIN SPORTS 2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",MAV TV MOTORSPORTS NETWORK
+https://mavtv-mavtvglobal-1-nz.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",MAV TV MOTORSPORTS NETWORK
+https://mavtv-mavtvglobal-1-nl.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",MIDPEN MEDIA CENTER & SPORTS CHANNEL
+https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORTOUTDOOR TV
+https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",TRACE SPORTS STARS
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SuperSportNews.al" group-title="Sport",SUPER SPORT 1 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161887?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 2 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161883?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 3 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161886?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 4 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161885?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 5 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161884?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",ELEVEN SPORTS 2 (BE)
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/135980?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="AutoMotorundSportChannel.de" group-title="Sport",AUTO MOTOR SPORT HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69613?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",DIEMA SPORT 1 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69537?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="DiemaSport2.bg" group-title="Sport",DIEMA SPORT 2 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69538?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="DiemaSport1.bg" group-title="Sport",DIEMA SPORT HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69539?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="esp" group-title="Sport",EUROSPORT 1 HD+
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69550?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="esp2" group-title="Sport",EUROSPORT 2 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69551?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",MAX SPORTS 1 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69644?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",MAX SPORTS 3 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69645?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",MAX SPORTS 3 HD
+http://78.83.191.18:8000/play/a075?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",MAX SPORTS 4 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69646?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",MAX SPORTS 4 HD
+http://78.83.191.18:8000/play/a07f?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",MAX SPORTS 2 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69577?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",MAX SPORTS 2 HD+
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69574?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="NOVAsport.bg" group-title="Sport",NOVA SPORT
+http://78.83.191.18:8000/play/a04a?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="NovaSport.cz" group-title="Sport",NOVA SPORT HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69590?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SkySportPlus.it" group-title="Sport",SPORT PLUS HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69653?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORTAL HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69654?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",CANBANGLA TV FHD
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CTsport.cz" group-title="Sport",CT4 SPORT FHD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115460?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Golf.fr" group-title="Sport",GOLF CHANNEL
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115471?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="NovaSport.cz" group-title="Sport",NOVA SPORT 1 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115489?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="sport1_hd" group-title="Sport",SPORT 1 FHD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115502?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",AUTO MOTOR SPORT CHANNEL
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/6422?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",DAZN SPORT HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/13863?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",DAZN SPORT 2
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/13864?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",DAZN SPORT 2 HD+
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/95383?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="TraceSport.svn" group-title="Channels",TRACE SPORTS HD
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",BARÇA TV ES. HD
@@ -374,8 +422,6 @@ http://93.152.174.144:4000/play/ssportsf1/index.m3u8
 http://app.powerfhd.me/live/sup.php
 #EXTINF:0 tvg-id="SkySports4.uk" group-title="Channels",SKY SPORTS 4
 http://93.152.174.144:4000/play/skysports4/index.m3u8
-#EXTINF:0 tvg-id="SkySports3.uk" group-title="Channels",SKY SPORTS 3
-http://93.152.174.144:4000/play/skysports3/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",SKY SPORTS 24 IT
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 #EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Channels",SKY SPORTS 1
@@ -396,11 +442,8 @@ http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=setantaplus
 http://livetv.mylifeisgood.ml/channels/setantahd
 #EXTINF:0 tvg-id="kazsport" group-title="Channels",QAZSPORT
 http://92.46.127.146:8080/qazsport/index.m3u8?telegramm=yossotv
-
 #EXTINF:0 tvg-id="ext" group-title="Sport\",FOX SPORTS NEWS
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport\",CBC SPORT
-http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport\",ALL SPORTS
 http://168.205.87.198:8555/live/michele/123456/148.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="Bandsports.br" group-title="Sport\",BAND SPORTS
@@ -429,12 +472,10 @@ http://93.152.174.144:4000/play/bein1fr/index.m3u8?checkedby:iptvcat.com
 http://93.152.174.144:4000/play/bein2fr/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="beINSport3.fr" group-title="Sport\",BEIN SPORTS 3 FR
 http://93.152.174.144:4000/play/bein3fr/index.m3u8?checkedby:iptvcat.com
-
 #EXTINF:0 tvg-id="USANetwork.us" group-title="USA - CANADA SPORTS",USA NETWORK
 http://89.187.175.143:80/3025/mpegts
 #EXTINF:0 tvg-id="tnt" group-title="USA - CANADA SPORTS",TNT HD
 http://89.187.175.143:80/3030/mpegts
-
 #EXTINF:0 tvg-id="ext" group-title="Sports",1+1 SPORT
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",ATG
@@ -513,8 +554,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7677fa2ec536ce1d5
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d1ce51dbaca4afdb7abfe5f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d1ce51dbaca4afdb7abfe5f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=abec40e3-86b9-48b6-981d-dc5eeecc6cf9&terminate=false&userId=
 #EXTINF:0 tvg-id="ext" group-title="Sports",RED BULL 1 TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",RED BULL 2 TV
-https://videostreaming.cloudserverlatam.com/Batalladegallos/Batalladegallos/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",SAN MARINO RTV SPORT
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",SKI TV
@@ -547,121 +586,4 @@ https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 https://unbeaten-roku.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",WORLD POWER TOUR
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Sport",BAHRAIN SPORTS 1
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BAHRAIN SPORTS 2
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",BEST CABLE SPORTS PERU
-https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",FREESPORTS  FHD
-https://d3cq7cdp2cfi92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/hls-harvester2-1293-prod/us-east-1/cc-2ff27mp9b8422/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",KSA SPORTS 1 FHD
-https://edge.taghtia.com/sa/9.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",KSA SPORTS 2 FHD
-https://edge.taghtia.com/sa/10.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",MNB SPORT
-https://live.mnb.mn/live/mnb_sport.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",MAV TV MOTORSPORTS NETWORK
-https://mavtv-mavtvglobal-1-nz.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",MAV TV MOTORSPORTS NETWORK
-https://mavtv-mavtvglobal-1-nl.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",MIDPEN MEDIA CENTER & SPORTS CHANNEL
-https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SPORTOUTDOOR TV
-https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",TRACE SPORTS STARS
-https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SuperSportNews.al" group-title="Sport",SUPER SPORT 1 HD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161887?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 2 HD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161883?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 3 HD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161886?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 4 HD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161885?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SUPER SPORT 5 HD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161884?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="TS4HD.al" group-title="Sport",TRING SPORT 4
-http://cineapp.org:8000/Fernando/Fernando/9678?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="TS3HD.al" group-title="Sport",TRING SPORT 3 HD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/55272?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="TS4HD.al" group-title="Sport",TRING SPORT 4 HD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/55273?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ESPORTS MAX HD
-http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ELEVEN SPORTS 1 (FR)
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/135979?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ELEVEN SPORTS 1 (NL)
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/135978?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ELEVEN SPORTS 2 (BE)
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/135980?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Sport",ELEVEN SPORTS 1 HD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/135975?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Sport",ELEVEN SPORTS 2 HD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/135976?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ElevenSports3.pl" group-title="Sport",ELEVEN SPORTS 3 HD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/135977?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",VOO SPORT WORLD 2 HD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/135973?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",VOO SPORT WORLD 3 HD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/135974?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ALL SPORTS
-http://168.205.87.198:8555/live/1431/123456/148.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ALL SPORTS
-http://168.205.87.198:8555/live/1221/123456/148.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",ALL SPORTS
-http://168.205.87.198:8555/live/JOSEE/123456/148.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="AutoMotorundSportChannel.de" group-title="Sport",AUTO MOTOR SPORT HD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69613?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",DIEMA SPORT 1 HD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69537?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="DiemaSport2.bg" group-title="Sport",DIEMA SPORT 2 HD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69538?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="DiemaSport1.bg" group-title="Sport",DIEMA SPORT HD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69539?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="esp" group-title="Sport",EUROSPORT 1 HD+
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69550?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="esp2" group-title="Sport",EUROSPORT 2 HD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69551?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",MAX SPORTS 1 HD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69644?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",MAX SPORTS 3 HD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69645?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",MAX SPORTS 3 HD
-http://78.83.191.18:8000/play/a075?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",MAX SPORTS 4 HD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69646?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",MAX SPORTS 4 HD
-http://78.83.191.18:8000/play/a07f?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",MAX SPORTS 2 HD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69577?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",MAX SPORTS 2 HD+
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69574?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="NOVAsport.bg" group-title="Sport",NOVA SPORT
-http://78.83.191.18:8000/play/a04a?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="NovaSport.cz" group-title="Sport",NOVA SPORT HD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69590?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="SkySportPlus.it" group-title="Sport",SPORT PLUS HD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69653?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",SPORTAL HD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/69654?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",CANBANGLA TV FHD
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="CTsport.cz" group-title="Sport",CT4 SPORT FHD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115460?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="Golf.fr" group-title="Sport",GOLF CHANNEL
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115471?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="NovaSport.cz" group-title="Sport",NOVA SPORT 1 HD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115489?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="sport1_hd" group-title="Sport",SPORT 1 FHD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115502?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",AUTO MOTOR SPORT CHANNEL
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/6422?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",DAZN SPORT HD
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/13863?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",DAZN SPORT 2
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/13864?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",DAZN SPORT 2 HD+
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/95383?checkedby:iptvcat.com
 
