@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 ##################################################################################################################################################
 
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 29/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 07/10/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #################################################################################################################################################
  
@@ -13,6 +13,7 @@ FONTE DE INFORMAÇÃO: https://vk.com/clubslynet
                      https://m3u.cl/lista-iptv-espana.php
 
 #EXTM3U
+
 
 #EXTINF:0 tvg-id="ext" group-title="United Kingdom",5 Select UK
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/25079
@@ -46,14 +47,10 @@ http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/25031
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/25040
 #EXTINF:0 tvg-id="Euronews.nws" group-title="United Kingdom",EuroNews UK
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/10904
-#EXTINF:0 tvg-id="ext" group-title="United Kingdom",Fashion TV HD UK
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/22517
 #EXTINF:0 tvg-id="Film4.uk" group-title="United Kingdom",Film4 UK
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/25036
 #EXTINF:0 tvg-id="FoodNetwork.uk" group-title="United Kingdom",Food UK
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/14587
-#EXTINF:0 tvg-id="FX.uk" group-title="United Kingdom",Fox HD UK
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/25035
 #EXTINF:0 tvg-id="ext" group-title="United Kingdom",Red Bull TV FHD UK
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/25084
 #EXTINF:0 tvg-id="GODChannel.uk" group-title="United Kingdom",GOD Channel UK
@@ -100,8 +97,6 @@ http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/23518
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/20936
 #EXTINF:0 tvg-id="HorseAndCountry.uk" group-title="United Kingdom",Horse & Country UK
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/38421
-
-
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",FREESPORTS HD
 http://87.212.248.44:60130/play/a06k
@@ -191,9 +186,9 @@ http://87.212.248.44:60130/play/a06z
 http://87.212.248.44:60130/play/a05w
 #EXTINF:0 tvg-id="ext" group-title="Channels",SONY CLASSIC
 http://87.212.248.44:60130/play/a08b
-#EXTINF:0 tvg-id="SonyMovies.uk" group-title="Channels",SONY MOVIES
+#EXTINF:0 tvg-id="GREATmovies.uk" group-title="Channels",SONY MOVIES
 http://87.212.248.44:60130/play/a05v
-#EXTINF:0 tvg-id="SonyMovies.uk" group-title="Channels",SONY MOVIES
+#EXTINF:0 tvg-id="GREATmovies.uk" group-title="Channels",SONY MOVIES
 http://87.212.248.44:60130/play/a08d
 #EXTINF:0 tvg-id="ext" group-title="Channels",TJC HD
 http://87.212.248.44:60130/play/a08s
@@ -203,21 +198,22 @@ http://87.212.248.44:60130/play/a089
 http://87.212.248.44:60130/play/a05x
 #EXTINF:0 tvg-id="TinyPop.uk" group-title="Channels",TINY POP
 http://87.212.248.44:60130/play/a08c
-#EXTINF:0 tvg-id="BTSport1.uk" group-title="Великобритания | United Kingdom" timeshift="3",BT SPORT 1 FHD UK
+
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="Великобритания | United Kingdom",BT SPORT 1 FHD UK
 http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/6566/index.m3u8
-#EXTINF:0 tvg-id="BTSport1.uk" group-title="Великобритания | United Kingdom" timeshift="3",BT SPORT 1 UK
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="Великобритания | United Kingdom",BT SPORT 1 UK
 http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/2505/index.m3u8
-#EXTINF:0 tvg-id="BTSport2.uk" group-title="Великобритания | United Kingdom" timeshift="3",BT SPORT 2 FHD UK
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="Великобритания | United Kingdom",BT SPORT 2 FHD UK
 http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/6565/index.m3u8
-#EXTINF:0 tvg-id="BTSport2.uk" group-title="Великобритания | United Kingdom" timeshift="3",BT SPORT 2 UK
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="Великобритания | United Kingdom",BT SPORT 2 UK
 http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/2506/index.m3u8
-#EXTINF:0 tvg-id="BTSport3.uk" group-title="Великобритания | United Kingdom" timeshift="3",BT SPORT 3 FHD UK
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="Великобритания | United Kingdom",BT SPORT 3 FHD UK
 http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/6564/index.m3u8
-#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="Великобритания | United Kingdom" timeshift="3",BT SPORT ESPN FHD UK
+#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="Великобритания | United Kingdom",BT SPORT ESPN FHD UK
 http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/6563/index.m3u8
-#EXTINF:0 tvg-id="PremierSports.uk" group-title="Великобритания | United Kingdom" timeshift="3",PREMIER SPORTS UK
+#EXTINF:0 tvg-id="PremierSports.uk" group-title="Великобритания | United Kingdom",PREMIER SPORTS UK
 http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/6555/index.m3u8
-#EXTINF:0 tvg-id="esp2" group-title="Великобритания | United Kingdom" timeshift="3",EUROSPORT 2 HD UK
+#EXTINF:0 tvg-id="esp2" group-title="Великобритания | United Kingdom",EUROSPORT 2 HD UK
 http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/6556/index.m3u8
 #EXTINF:0 tvg-id="SkySpPL.uk" group-title="Великобритания | United Kingdom",SKY SPORTS PREMIER LEAGUE UK
 http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/7335/index.m3u8
@@ -279,4 +275,3 @@ http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/19189/index.m3u8
 http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/19190/index.m3u8
 #EXTINF:0 tvg-id="ITV1London.uk" group-title="Великобритания | United Kingdom",ITV FHD
 http://he11o.akadatel.com/iptv/RHA3G7Y2NYUP4E/19191/index.m3u8
-
