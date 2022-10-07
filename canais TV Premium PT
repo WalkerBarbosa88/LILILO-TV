@@ -25,37 +25,37 @@ https://00000000000
 
 #EXTM3U
 
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",BTV HD
+#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1497
 
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",SPORT TV +
+#EXTINF:-1,[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1481
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1483
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2
+#EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1486
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",SPORT TV 3
+#EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1489
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",SPORT TV 4
+#EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1492
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",SPORT TV 5
+#EXTINF:-1,[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1495
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 6
+#EXTINF:-1,[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281487
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV NBA
+#EXTINF:-1,[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2051
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 1
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1499
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 2
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1503
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 3
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1506
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 4
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1509
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 5
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1512
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 6
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1515
 
 
