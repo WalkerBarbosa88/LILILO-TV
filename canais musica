@@ -163,6 +163,9 @@ https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,[COLOR=white][B]M6 MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
 http://190.2.155.162:8080/m6music/mpegts
 
+#EXTINF:-1,[COLOR=white][B]ALWAYS MORE MUSIC[/B][/COLOR][COLOR=white][/COLOR]
+http://107.178.61.226:8080/alwaysmoremusic247.m3u8
+
 ##########################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA ELECTRÓNICA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
@@ -212,6 +215,10 @@ http://ibgrtv.streaming-pro.com/hls/ibgrlive_2.m3u8
 https://live.prd.dlive.tv/hls/live/funstudio.m3u8
 #EXTINF:-1,[COLOR=white][B]MUSIC TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn-curie.wasd.tv/live/1132718/tracks-v1a1/mono.m3u8
+#EXTINF:-1,[COLOR=white][B]MUSIC TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
+https://cdn.wasd.tv/live/1511797/index.m3u8
+#EXTINF:-1,[COLOR=white][B]MUSIC TV 8 HD[/B][/COLOR][COLOR=white][/COLOR]
+https://livefocamundo.com:8081/psycologictv/index.m3u8
 #EXTINF:-1,[COLOR=white][B]MUSIC TV 9 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://live.prd.dlive.tv/hls/live/cybervybezradio.m3u8
 #EXTINF:-1,[COLOR=white][B]SONUS FM TV HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -222,6 +229,8 @@ http://tis.catcast.tv/content/391/index.m3u8
 https://live.prd.dlive.tv/hls/live/andyx7.m3u8
 #EXTINF:-1,[COLOR=white][B]NR1 DANCE HD[/B][/COLOR][COLOR=white][/COLOR]
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]RADIOLINA DANCE HD[/B][/COLOR][COLOR=white][/COLOR]
+https://5bb65e9de3fdf.streamlock.net/Radiolina/dancechannel/playlist.m3u8
 
 ######################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  MÚSICA AFRICANA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -358,6 +367,9 @@ https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]GOTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/chunklist_w256350942.m3u8
+
+#EXTINF:-1,[COLOR=white][B]SMASH TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://a6.smashmalta.com:82/live/urusei/yatsura/6.ts
 
 ######################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA ANTIGA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
