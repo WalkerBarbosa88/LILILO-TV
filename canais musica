@@ -91,23 +91,23 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/c
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]4FUN TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.4fun.tv:8888/hls/4f.m3u8
 
-#EXTINF:-1,[COLOR=white][B]MTV OO´S HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8000/play/a0hf
-
-#EXTINF:-1,[COLOR=white][B]MTV 80´S[/B][/COLOR][COLOR=white][/COLOR]
-http://myott.top/stream/MQC4SG6DIS/87.m3u8
-
-#EXTINF:-1,[COLOR=white][B]MTV 90´S[/B][/COLOR][COLOR=white][/COLOR]
-http://myott.top/stream/MQC4SG6DIS/88.m3u8
+#EXTINF:-1,[COLOR=white][B]MTV LIVE HD[/B][/COLOR][COLOR=white][/COLOR]
+http://193.233.9.49/streams/media/MTV_Live_HD/index.m3u8
+#EXTINF:-1,[COLOR=white][B]MTV LIVE HD[/B][/COLOR][COLOR=white][/COLOR]
+http://5.14.125.198:25463/play/a04i/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]MTV HITS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://myott.top/stream/MQC4SG6DIS/302.m3u8
 
-#EXTINF:-1,[COLOR=white][B]MTV LIVE HD[/B][/COLOR][COLOR=white][/COLOR]
-http://193.233.9.49/streams/media/MTV_Live_HD/index.m3u8
+#EXTINF:-1,[COLOR=white][B]MTV CLUB SD[/B][/COLOR][COLOR=white][/COLOR]
+http://live.easy24dar.tk:80/XKHn7Hy3uj/hVGae2QxjM/93933
 
-#EXTINF:-1,[COLOR=white][B]MTV LIVE HD[/B][/COLOR][COLOR=white][/COLOR]
-http://5.14.125.198:25463/play/a04i/index.m3u8
+#EXTINF:-1,[COLOR=white][B]MTV OO´S HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8000/play/a0hf
+#EXTINF:-1,[COLOR=white][B]MTV 80´S[/B][/COLOR][COLOR=white][/COLOR]
+http://myott.top/stream/MQC4SG6DIS/87.m3u8
+#EXTINF:-1,[COLOR=white][B]MTV 90´S[/B][/COLOR][COLOR=white][/COLOR]
+http://myott.top/stream/MQC4SG6DIS/88.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV Musicas",[COLOR=white][B]ONE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://rtmp.one.by:1300
@@ -243,6 +243,10 @@ https://edge.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8?checkedby:iptv
 ######################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  MÚSICA ROCK  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
+
+
+#EXTINF:-1,[COLOR=white][B]KERRANG TV UK HD[/B][/COLOR][COLOR=white][/COLOR]
+http://live.easy24dar.tk:80/XKHn7Hy3uj/hVGae2QxjM/38784
 
 #EXTINF:-1,[COLOR=white][B]SLUHAY ROCK HD[/B][/COLOR][COLOR=white][/COLOR]
 https://sluhay.by/live/Ch114pub/index.m3u8
