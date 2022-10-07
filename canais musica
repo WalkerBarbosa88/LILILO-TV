@@ -371,6 +371,15 @@ http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/chunklist_w256350
 #EXTINF:-1,[COLOR=white][B]SMASH TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://a6.smashmalta.com:82/live/urusei/yatsura/6.ts
 
+#EXTINF:-1,[COLOR=white][B]BIZ MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
+http://st.biztv.uz/hls/m_hi/index.m3u8
+
+#EXTINF:-1,[COLOR=white][B]BRASA MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
+http://live.salto.nl/hls/sotv1_high.m3u8
+
+#EXTINF:-1,[COLOR=white][B]COUNTRY MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
+https://rebroadcast.mytvtogo.net/mytvtogo/countrymusic4u/chunks.m3u8
+
 ######################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA ANTIGA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
