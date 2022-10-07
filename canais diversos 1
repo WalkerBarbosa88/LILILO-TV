@@ -166,6 +166,8 @@ http://api.magiaiptv.com/live/800349/713534/m1_6Ij7gxZOdZwDVlMjlbHc5_1080p
 http://87.212.248.44:60130/play/a04s
 #EXTINF:-1,[COLOR=white][B]HGTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2273
+#EXTINF:-1,[COLOR=white][B]HGTV BR HD[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=&maxbitrate=0&buffer=20191129153332&url=http://4p.vc:80/Jefersonaraujo/pvjefersonpv/22203
 
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS GRÁTIS 4K  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
