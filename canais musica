@@ -4,7 +4,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 29/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 07/10/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -49,7 +49,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/p
 #EXTINF:-1,[COLOR=white][B]TRACE LATINA HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]BOX HITS UK[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]4 MUSIC UK[/B][/COLOR][COLOR=white][/COLOR]
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 
 #EXTINF:-1,[COLOR=white][B]THE BOX UK[/B][/COLOR][COLOR=white][/COLOR]
@@ -174,76 +174,55 @@ https://000000
 #EXTINF:-1,[COLOR=white][B]MOOZ DANCE TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://db2-archive.teleon.tv/m3u/m3u.php?ch=moozdance
 
-#EXTINF:-1,[COLOR=white][B]DANCE TV - BEST OF DANCE[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]DANCE TV - BEST OF DANCE (OFFLINE)[/B][/COLOR][COLOR=white][/COLOR]
 https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-
-#EXTINF:-1,[COLOR=white][B]DANCE TV - DEEP HOUSE[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]DANCE TV - DEEP HOUSE (OFFLINE)[/B][/COLOR][COLOR=white][/COLOR]
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
-
-#EXTINF:-1,[COLOR=white][B]DANCE TV - BEST OF TECHNO[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]DANCE TV - BEST OF TECHNO (OFFLINE)[/B][/COLOR][COLOR=white][/COLOR]
 https://eu-nl-012.worldcast.tv/dancetelevisionthree/2/dancetelevisionthree.m3u8
-
-#EXTINF:-1,[COLOR=white][B]DANCE TV - TECHNO HOUSE[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]DANCE TV - TECHNO HOUSE (OFFLINE)[/B][/COLOR][COLOR=white][/COLOR]
 https://eu-nl-012.worldcast.tv/dancetelevisionfour/2/dancetelevisionfour.m3u8
-
-#EXTINF:-1,[COLOR=white][B]DANCE TV - HOUSE FLOOR[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]DANCE TV - HOUSE FLOOR (OFFLINE)[/B][/COLOR][COLOR=white][/COLOR]
 https://eu-nl-012.worldcast.tv/dancetelevisionfive/2/dancetelevisionfive.m3u8
-
 #EXTINF:-1,[COLOR=white][B]DANCE TV - DEEP TECHNO & HOUSE[/B][/COLOR][COLOR=white][/COLOR]
 https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
-
 #EXTINF:-1,[COLOR=white][B]DANCE TV - MAINSTREAM[/B][/COLOR][COLOR=white][/COLOR]
 https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
-
 #EXTINF:-1,[COLOR=white][B]DANCE TV - CHILLOUT[/B][/COLOR][COLOR=white][/COLOR]
 https://mbit1.worldcast.tv/dancetelevisioneight/stream_0.m3u8
-
 #EXTINF:-1,[COLOR=white][B]DANCE TV - MELODIC TECH[/B][/COLOR][COLOR=white][/COLOR]
 https://mbit1.worldcast.tv/dancetelevisionnine/stream_0.m3u8
 
 #EXTINF:-1,[COLOR=white][B]DANCE IMPACT TV[/B][/COLOR][COLOR=white][/COLOR]
 http://tvradioimpact.go.ro:8080/tmp_hls/tvimpact/index.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]DANCE STAR TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
-
 #EXTINF:-1,[COLOR=white][B]QUEST DANCE[/B][/COLOR][COLOR=white][/COLOR]
 https://qwest-mix-plex.amagi.tv/playlist720_p.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="UK" tvg-language="English" tvg-logo="https://i.imgur.com/aqMhht6.png" group-title="",[COLOR=white][B]CLUBBING TV[/B][/COLOR][COLOR=white][/COLOR]
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
-
 #EXTINF:-1,[COLOR=white][B]CLUBBING TV[/B][/COLOR][COLOR=white][/COLOR]
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 
 # https://www.youtube.com/channel/UCalCDSmZAYD73tqVZ4l8yJg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gr55mAl.jpg" group-title="",[COLOR=white][B]ASOT TV[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=5lMmnfVylEE
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8Ak6qR.png" group-title="",[COLOR=white][B]IBIZA GLOBAL TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8Ak6qR.png" group-title="",[COLOR=white][B]IBIZA GLOBAL TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://ibgrtv.streaming-pro.com/hls/ibgrlive_2.m3u8
-
 #EXTINF:-1,[COLOR=white][B]MUSIC TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://live.prd.dlive.tv/hls/live/funstudio.m3u8
-
 #EXTINF:-1,[COLOR=white][B]MUSIC TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn-curie.wasd.tv/live/1132718/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1,[COLOR=white][B]MUSIC TV 9 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://live.prd.dlive.tv/hls/live/cybervybezradio.m3u8
-
 #EXTINF:-1,[COLOR=white][B]SONUS FM TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://60015180a7f57.streamlock.net:444/public/stream_source/chunklist_w191033718.m3u8
-
 #EXTINF:-1,[COLOR=white][B]TRANCE IS STAR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://tis.catcast.tv/content/391/index.m3u8
-
 #EXTINF:-1,[COLOR=white][B]RETRO DANCE 90 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://live.prd.dlive.tv/hls/live/andyx7.m3u8
-
 #EXTINF:-1,[COLOR=white][B]NR1 DANCE HD[/B][/COLOR][COLOR=white][/COLOR]
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8
 
@@ -335,9 +314,6 @@ https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]RU TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 
-#EXTINF:-1,[COLOR=white][B]EG MELODY SD[/B][/COLOR][COLOR=white][/COLOR]
-http://46.40.6.203/EGMelody/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/32rDv4l.png" group-title="",[COLOR=white][B]LOVE FM RADIO TV[/B][/COLOR][COLOR=white][/COLOR]
 https://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
 https://56b50ada2d659.streamlock.net/LoveFM/livestream/chunklist_w699998999.m3u8
@@ -419,9 +395,6 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,[COLOR=white][B]REWIND TV & RÁDIO HD[/B][/COLOR][COLOR=white][/COLOR]
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,[COLOR=white][B]MEMORIA TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://cloud10.vsgtech.co:3262/live/memoriastv2live.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,[COLOR=white][B]RECUERDOS RETRO HD[/B][/COLOR][COLOR=white][/COLOR]
 https://593b04c4c5670.streamlock.net/8002/8002/playlist.m3u8
@@ -651,8 +624,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff5ec5500d4c70007341c7c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8a1e60-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=de18fdd4-d30a-4263-8ecc-df902150744d
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]PLUTO TV MTV LATINO[/B][/COLOR][COLOR=white][/COLOR]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96d351652631e36d4331f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=965&terminate=false&userId=
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]PLUTO TV MTV LOVE MUSIC[/B][/COLOR][COLOR=white][/COLOR]
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600ae79fa46e17000794e84c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]PLUTO TV MTV MADE IN SPAIN[/B][/COLOR][COLOR=white][/COLOR]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a26a056d55b30007918d5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&serverSideAds=false&tags=ROKU_CONTENT_TAGS
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]PLUTO TV MTV ORIGINALS[/B][/COLOR][COLOR=white][/COLOR]
