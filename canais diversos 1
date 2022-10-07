@@ -231,7 +231,10 @@ https://d3vdwtqqboxhm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d12hafsmzbqmzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/KitchenNightmare2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1,[COLOR=white][B]DR. WHO?[/B][/COLOR][COLOR=white][/COLOR]
 https://d1lejqr2weuk14.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8ebttpj228lrg-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
+#EXTINF:-1,[COLOR=white][B]INK MASTER HD[/B][/COLOR][COLOR=white][/COLOR]
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60807fd5db701400078219c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,[COLOR=white][B]MESTRES DO ILUSIONISMO[/B][/COLOR][COLOR=white][/COLOR]
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254ac8f30665a00077ec182/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  JOGOS E GAMES STREAMING LIVE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
