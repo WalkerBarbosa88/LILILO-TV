@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 #####################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 29/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 07/10/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
 ###########################################################################################################################################
  
@@ -18,12 +18,10 @@ https://000000
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]FOOTBALL DAILY[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-footballdaily/CDN/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]RED BULL TV 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]RED BULL TV FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]RED BULL TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]RED BULL TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]RED BULL TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-https://videostreaming.cloudserverlatam.com/Batalladegallos/Batalladegallos/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]BEIN SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
 #EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]BEIN SPORTS XTRA HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -166,8 +164,6 @@ http://api.magiaiptv.com/live/800349/713534/m1_6Ij7gxZOdZwDVlMjlbHc5_1080p
 
 #EXTINF:-1,[COLOR=white][B]HGTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://87.212.248.44:60130/play/a04s
-#EXTINF:-1,[COLOR=white][B]HGTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://103.162.136.235:4500/play/a033/index.m3u8
 
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS GRÁTIS 4K  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
