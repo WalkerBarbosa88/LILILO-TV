@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 ####################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 28/09/2022 [/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 07/10/2022 [/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
@@ -41,88 +41,21 @@ https://cld.pt/dl/download/ee0cd0a7-746a-435f-b521-10fe19fdf526/Diary.of.a.Wimpy
 #EXTINF:-1,[COLOR=yellow][B]/////////  FILMES RECENTES (VO) E/OU EM TESTES  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
+#EXTM3U
 
-#EXTINF:-1,[COLOR=white][B]DOWNTON ABBEY (MOVIE)[/B][/COLOR][COLOR=white][/COLOR]
-https://b-g-ca-6.feetcdn.com:2223/v2-hls-playback/19ec80b804164730d342f715ef66f6a045d1e23d39bc37e21c44c556737857872a4dd8ae752d10d6141ae41c111ebc8263b452bd220c50544c1dfe0411e489c6d8d07e6dc7a51f41407f9d9dcf5f8595b7077e6831211c5c2bc9feb21dd8bc70dab7048c119bf14632ef3fd474d3222ca4ea76fb0e1d0ece7033b968b855dc064d1445f09afe8aa9a09321e3d4b2e12e1a850a308122476a46503f55287e159b2c519abb1f91fa8e5f5e5784455e7535/1080/index.m3u8
+[COLOR=white][B]AS AGENTES 355 (2022)[/B][/COLOR][COLOR=white][/COLOR]
 
-#EXTINF:-1,[COLOR=white][B]MINIMOS & MAIS - VOL. 1[/B][/COLOR][COLOR=white][/COLOR]
-https://b-g-eu-7.feetcdn.com:2223/v2-hls-playback/cd45a905920962ccfafeb6e0683b2ec9f126103fb23ba008a86fdc63b8d145068f6467d4483cf32fa5584a115782913b756a0ffaee4d4bacb9d326b8a7e05d0fe71d8e36d0a717469f6cf5587bf1ed55cbe47d7c0c2acb5fae711038f58d842edd01597db35f7a3f8971a04b5235feea1e400c2206194c28eaab05926e2e42774ae018448197b2a861f57add3bf076a076ab5ad38b3a05cd1f201f4a3f57759745adbf75a9bd9228df653f9c184acf00/1080/index.m3u8
-
-#EXTINF:-1,[COLOR=white][B]FANTASTIC BEASTS: THE SECRETS OF DUMBLEDORE[/B][/COLOR][COLOR=white][/COLOR]
-https://b-g-ca-4.feetcdn.com:2223/v2-hls-playback/535c20832cd3b0c901beb18896a5143a907eaff95664618798c7144ea4b78402bde10b00c92b1a22f3269ce693917aa24f1866a1b6f7d09cacf6eb917ae080df24046d0fc0001696eced19afd4c26b67e5d15d736458316a84636d22f1d89ec01975f54ff6925f4e75c42663077fe9e1725e6b77ec7050907f568ec33b7c7bad08139079550ab47f85c5cbc0084f6dba15990ac733d240c195c36074ee4d5925fb317f7f8f8727a4e60ab52d3ef8d28c/1080/index.m3u8
-
-#EXTINF:-1,[COLOR=white][B]COMMANDO (2022)[/B][/COLOR][COLOR=white][/COLOR]
-https://wkmq.vizcloud.ink/simple/EqPFIf4QWADtjDlGha7rC5curFxcu7uzAEN7rqk+wYMnU94US2El/br/H4/v.m3u8 
-
-#EXTINF:-1,[COLOR=white][B]THIRTEEN LIVES (2022)[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]COMMANDO (2022)[/B][/COLOR][COLOR=white][/COLOR]
+https://wkmq.vizcloud.ink/simple/EqPFIf4QWADtjDlGha7rC5curFxcu7uzAEN7rqk+wYMnU94US2El/br/H4/v.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]THIRTEEN LIVES (2022)[/B][/COLOR][COLOR=white][/COLOR]
 https://jjka.vizcloud.ink/simple/EqPFJvgQWADtjDlGha7rC5AuqlwU8vazFwV7rqk+wYMnU94US2El/br/H4/v.m3u8
-
-#EXTINF:-1,[COLOR=white][B]TOP GUN: MAVERICK (2022) - MULTI-SUBS[/B][/COLOR][COLOR=white][/COLOR]
-http://clientportal.link:80/movie/h8YC5m3Ymo68/QjxDBO04/108970.mkv
-
-#EXTINF:-1,[COLOR=white][B]TOP GUN: MAVERICK (2022)[/B][/COLOR][COLOR=white][/COLOR]
-http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/36583.mkv
-
-#EXTINF:-1,[COLOR=white][B]AMBULANCE (2022)[/B][/COLOR][COLOR=white][/COLOR]
-http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/35791.mkv
-
-#EXTINF:-1,[COLOR=white][B]JURASSIC WORLD, DOMINION (2022)[/B][/COLOR][COLOR=white][/COLOR]
-http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/36417.mkv
-#EXTINF:-1,[COLOR=white][B]JURASSIC WORLD, DOMINION - 4K (2022)[/B][/COLOR][COLOR=white][/COLOR]
-http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/36418.mkv
-
-#EXTINF:-1,[COLOR=white][B]ELVIS (2022)[/B][/COLOR][COLOR=white][/COLOR]
-http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/36562.mkv
-
-#EXTINF:-1,[COLOR=white][B]SNIPER: ROGUE MISSION (2022)[/B][/COLOR][COLOR=white][/COLOR]
-http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/36565.mkv
-
-#EXTINF:-1,[COLOR=white][B]LIGHTYEAR (2022)[/B][/COLOR][COLOR=white][/COLOR]
-http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/36419.mkv
-
-#EXTINF:-1,[COLOR=white][B]DC LEAGUE OF SUPER PETS (2022)[/B][/COLOR][COLOR=white][/COLOR]
-http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/36618.mkv
-
-#EXTINF:-1,[COLOR=white][B]AMERICAN PIE: GIRLS RULES (2020)[/B][/COLOR][COLOR=white][/COLOR]
-http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/29145.mkv
-
-#EXTINF:-1,[COLOR=white][B]HACKER: TRUST NO ONE (2022)[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HACKER: TRUST NO ONE (2022)[/B][/COLOR][COLOR=white][/COLOR]
 https://oywq.vizcloud.ink/simple/EqPFIfMQWADtjDlGha7rC5Uu_VwBvrezAwx7rqk+wYMnU94US2El/br/H4/v.m3u8
-
-#EXTINF:-1,[COLOR=white][B]DRAGON: THE WEAPON OF GOD (2022)[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DRAGON: THE WEAPON OF GOD (2022)[/B][/COLOR][COLOR=white][/COLOR]
 https://kadk.vizcloud.ink/simple/EqPFIf4QWADtjDlGha7rC8cu+lxdu7j5DQJ7rqk+wYMnU94US2El/br/H4/v.m3u8
-
-#EXTINF:-1,[COLOR=white][B]AVATAR 1 (2009)[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]AVATAR 1 (2009)[/B][/COLOR][COLOR=white][/COLOR]
 https://geok.vizcloud.ink/simple/EqPFIf0QWADtjDlGha7rC5Yuqlxe4ry6Fxh7rqk+wYMnU94US2El/br/H4/v.m3u8
-
-#EXTINF:-1,[COLOR=white][B]A ERA DO GELO: AS AVENTURAS DE BUCK (2022) (AUDIO BR)[/B][/COLOR][COLOR=white][/COLOR]
-http://top.streancdn.fun:80/movie/0987654321/1234567890/2068662.mp4
-
-#EXTINF:-1,[COLOR=white][B]HOTEL TRANSILVÂNIA: TRANSFORMAÇÃO (2022)[/B][/COLOR][COLOR=white][/COLOR]
-http://top.streancdn.fun:80/movie/0987654321/1234567890/2068674.mp4
-
-#EXTM3U
-
-#######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  FILMES DOBRADOS (AUDIO BR)  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://000000
-
-#EXTM3U
-
-
-#EXTINF:-1,[COLOR=white][B]AS AGENTES 355 (2022)[/B][/COLOR][COLOR=white][/COLOR]
-http://top.streancdn.fun:80/movie/0987654321/1234567890/2070181.mp4
-#EXTINF:-1,[COLOR=white][B]ANIMAIS FANTÁSTICOS: OS SEGREDOS DE DUMBLEDORE (2022)[/B][/COLOR][COLOR=white][/COLOR]
-http://top.streancdn.fun:80/movie/0987654321/1234567890/2070182.mp4
-#EXTINF:-1,[COLOR=white][B]SILVERTON: CERCO FECHADO (2022)[/B][/COLOR][COLOR=white][/COLOR]
-http://top.streancdn.fun:80/movie/0987654321/1234567890/2070183.mp4
-#EXTINF:-1,[COLOR=white][B]MORBIUS (2022)[/B][/COLOR][COLOR=white][/COLOR]
-http://top.streancdn.fun:80/movie/0987654321/1234567890/2070184.mp4
-#EXTINF:-1,[COLOR=white][B]CORRER ATIRANDO (2022)[/B][/COLOR][COLOR=white][/COLOR]
-http://top.streancdn.fun:80/movie/0987654321/1234567890/2070203.mp4
-
-
-
-
+#EXTINF:0 tvg-id="avi" group-title="Videos",[COLOR=white][B]AMERICAN PIE: GIRLS RULES (2020)[/B][/COLOR][COLOR=white][/COLOR]
+http://hellohelios.crabdance.com:80/movie/9ESUdOYO9Y/bugSyNm4q4/29145.mkv
 
 
