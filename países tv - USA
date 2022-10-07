@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 ######################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA ADICIONADA: 29/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA ADICIONADA: 07/10/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #######################################################################################################################################################
  
@@ -13,12 +13,11 @@ FONTE DE INFORMAÇÃO: https://vk.com/clubslynet
                      https://m3u.cl/lista-iptv-espana.php
 #EXTM3U
 
-
 #EXTINF:0 tvg-id="ext" group-title="United States",A&E FHD US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/8264
-#EXTINF:0 tvg-id="ext" group-title="United States",ABC News HD US
+#EXTINF:0 tvg-id="ext" group-title="United States",ABC NEWS HD US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/16710
-#EXTINF:0 tvg-id="ext" group-title="United States",Amazing Discoveries HD US
+#EXTINF:0 tvg-id="ext" group-title="United States",AMAZING DISCOVERIES HD US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/24676
 #EXTINF:0 tvg-id="AMC.us" group-title="United States",AMC HD US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/10056
@@ -44,22 +43,12 @@ http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/10926
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/8261
 #EXTINF:0 tvg-id="ext" group-title="United States",Bravo West US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/23691
-#EXTINF:0 tvg-id="ext" group-title="United States",TV One FHD US
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/11905
-#EXTINF:0 tvg-id="ext" group-title="United States",C-SPAN 1 HD US
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/11629
-#EXTINF:0 tvg-id="ext" group-title="United States",C-SPAN 2 HD US
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/11630
-#EXTINF:0 tvg-id="ext" group-title="United States",C-SPAN 3 HD US
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/11631
 #EXTINF:0 tvg-id="CartoonNetworkHD.us" group-title="United States",Cartoon Network FHD US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/10878
 #EXTINF:0 tvg-id="ext" group-title="United States",One America News HD US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/17319
 #EXTINF:0 tvg-id="ext" group-title="United States",CBSN HD US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/8258
-#EXTINF:0 tvg-id="ext" group-title="United States",Cinemax 5Starmax HD US
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/11904
 #EXTINF:0 tvg-id="ext" group-title="United States",Cinemax ActionMax HD US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/11916
 #EXTINF:0 tvg-id="ext" group-title="United States",Cinemax East HD US
@@ -104,10 +93,6 @@ http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/17444
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/24677
 #EXTINF:0 tvg-id="ext" group-title="United States",E! HD US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/8257
-#EXTINF:0 tvg-id="ext" group-title="United States",Entertainment Tonight FHD US
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/19393
-#EXTINF:0 tvg-id="ext" group-title="United States",ET Live FHD US
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/24680
 #EXTINF:0 tvg-id="ext" group-title="United States",Fashion One HD US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/24678
 #EXTINF:0 tvg-id="ext" group-title="United States",Food Network HD US
@@ -152,7 +137,7 @@ http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/16767
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/16679
 #EXTINF:0 tvg-id="ext" group-title="United States",ID Fashion FHD US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/15014
-#EXTINF:0 tvg-id="IFC.us" group-title="United States",IFC HD US
+#EXTINF:0 tvg-id="ext" group-title="United States",IFC HD US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/9686
 #EXTINF:0 tvg-id="ext" group-title="United States",IndiePlex HD US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/24684
@@ -180,15 +165,11 @@ http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/9670
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/11908
 #EXTINF:0 tvg-id="ext" group-title="United States",MTV Live HD US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/9671
-#EXTINF:0 tvg-id="ext" group-title="United States",NASA TV HD US
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/11067
 #EXTINF:0 tvg-id="ext" group-title="United States",NBC (East) FHD US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/8260
-#EXTINF:0 tvg-id="ext" group-title="United States",Nickelodeon HD US
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/27892
 #EXTINF:0 tvg-id="ext" group-title="United States",Nick JR HD US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/10927
-#EXTINF:0 tvg-id="OWN.us" group-title="United States",OWN HD US
+#EXTINF:0 tvg-id="ext" group-title="United States",OWN HD US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/8241
 #EXTINF:0 tvg-id="ext" group-title="United States",Oxygen HD US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/10928
@@ -208,8 +189,6 @@ http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/15174
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/10716
 #EXTINF:0 tvg-id="ext" group-title="United States",SEC Network HD US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/15178
-#EXTINF:0 tvg-id="ext" group-title="United States",SHO x BET HD US
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/9694
 #EXTINF:0 tvg-id="ext" group-title="United States",Showtime 2 HD US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/10877
 #EXTINF:0 tvg-id="ext" group-title="United States",Showtime Extreme FHD US
@@ -220,13 +199,11 @@ http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/11582
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/25081
 #EXTINF:0 tvg-id="ext" group-title="United States",Sony Movie Channel HD US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/24688
-#EXTINF:0 tvg-id="ext" group-title="United States",Starz Cinema FHD US
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/8238
 #EXTINF:0 tvg-id="ext" group-title="United States",Starz Encore Family FHD US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/24689
 #EXTINF:0 tvg-id="ext" group-title="United States",Starz Comedy FHD US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/9667
-#EXTINF:0 tvg-id="StarzEncoreBlack.us" group-title="United States",Starz Black FHD US
+#EXTINF:0 tvg-id="ext" group-title="United States",Starz Black FHD US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/24687
 #EXTINF:0 tvg-id="ext" group-title="United States",Starz Edge FHD US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/9668
@@ -248,7 +225,7 @@ http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/15179
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/9659
 #EXTINF:0 tvg-id="ext" group-title="United States",TBS HD US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/10879
-#EXTINF:0 tvg-id="TCM.us" group-title="United States",TCM US
+#EXTINF:0 tvg-id="ext" group-title="United States",TCM US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/17445
 #EXTINF:0 tvg-id="ext" group-title="United States",Tennis Channel HD US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/8244
@@ -278,14 +255,10 @@ http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/23661
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/8259
 #EXTINF:0 tvg-id="ext" group-title="United States",Motor Trend HD US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/10974
-#EXTINF:0 tvg-id="VH1.us" group-title="United States",VH1 Classic US
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/16682
 #EXTINF:0 tvg-id="ext" group-title="United States",VH1 HD US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/11632
 #EXTINF:0 tvg-id="ext" group-title="United States",Viceland HD US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/9665
-#EXTINF:0 tvg-id="ext" group-title="United States",National Geographic Wild HD US
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/25364
 #EXTINF:0 tvg-id="ext" group-title="United States",We TV HD US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/11909
 #EXTINF:0 tvg-id="ext" group-title="United States",WGN America HD US
@@ -313,8 +286,6 @@ http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/11898
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/11906
 #EXTINF:0 tvg-id="ext" group-title="US Sports",CBS Sports (CBSSN) HD US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/8245
-#EXTINF:0 tvg-id="ext" group-title="US Sports",Eleven Sports Network HD US
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/23217
 #EXTINF:0 tvg-id="ext" group-title="US Sports",ESPN News HD US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/11583
 #EXTINF:0 tvg-id="ext" group-title="US Sports",ESPN+ HD US
@@ -327,8 +298,6 @@ http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/10881
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/10880
 #EXTINF:0 tvg-id="ext" group-title="US Sports",Fox Deportes HD US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/20365
-#EXTINF:0 tvg-id="ext" group-title="US Sports",Fox Soccer Plus HD US
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/9661
 #EXTINF:0 tvg-id="FOXSports1.us" group-title="US Sports",Fox Sports 1 HD US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/8254
 #EXTINF:0 tvg-id="FOXSports2.us" group-title="US Sports",Fox Sports 2 HD US
@@ -365,19 +334,5 @@ http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/11915
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/9692
 #EXTINF:0 tvg-id="ext" group-title="US Sports",The Sportsman Channel HD US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/19384
-#EXTINF:0 tvg-id="ext" group-title="US Sports",beIN Sports Connect 8 US
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/39499
-#EXTINF:0 tvg-id="ext" group-title="US Sports",beIN Sports Connect 7 US
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/39500
-#EXTINF:0 tvg-id="ext" group-title="US Sports",beIN Sports Connect 6 US
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/39501
-#EXTINF:0 tvg-id="ext" group-title="US Sports",beIN Sports Connect 5 US
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/39502
-#EXTINF:0 tvg-id="ext" group-title="US Sports",beIN Sports Connect 4 US
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/39503
-#EXTINF:0 tvg-id="ext" group-title="US Sports",beIN Sports Espanyol HD US
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/39504
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="US Sports",beIN Sports HD US
+#EXTINF:0 tvg-id="ext" group-title="US Sports",beIN Sports HD US
 http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/39506
-#EXTINF:0 tvg-id="ext" group-title="US Sports",beIN Sports La Liga FHD US
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/40529
