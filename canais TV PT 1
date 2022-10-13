@@ -34,6 +34,8 @@ https://livefocamundo.com:8081/tvmaxrio/index.m3u8?ROGERIOTORRES
 https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/chunklist_w10453154.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DISNEY+ HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/226084
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HBO PORTUGAL[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/201073
 
 
 ##########################################################################################################################################
