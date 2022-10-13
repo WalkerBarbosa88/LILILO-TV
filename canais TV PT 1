@@ -10,7 +10,7 @@ http://0.0.0.0:0000
 * LISTAS GRATUITAS IPTV ORG - https://github.com/iptv-org/iptv
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 07/10/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 13/10/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
@@ -46,8 +46,6 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]TPA[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0jo
-#EXTINF:-1,[COLOR=white][B]TPA[/B][/COLOR][COLOR=white][/COLOR]
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/26374
 #EXTINF:-1,[COLOR=white][B]TVM SD[/B][/COLOR][COLOR=white][/COLOR]
 http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]TVM INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -111,12 +109,6 @@ https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificca
 https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Religious",[COLOR=white][B]KURIAKOS TV[/B][/COLOR][COLOR=white][/COLOR]
 http://w1.manasat.com:1935/ktv/ktv/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Religious",[COLOR=white][B]KURIAKOS CINE[/B][/COLOR][COLOR=white][/COLOR]
-http://w2.manasat.com:1935/kcine/kcine/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Religious",[COLOR=white][B]KURIAKOS MUSIC[/B][/COLOR][COLOR=white][/COLOR]
-http://w2.manasat.com:1935/kmusic/kmusic/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Religious",[COLOR=white][B]KURIAKOS KIDS[/B][/COLOR][COLOR=white][/COLOR]
-http://w2.manasat.com:1935/kkids/kkids/chunklist.m3u8
 #EXTINF:-1,[COLOR=white][B]CANAL 11[/B][/COLOR][COLOR=white][/COLOR]
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/11.png",[COLOR=white][B]CANAL 11 INTER.[/B][/COLOR][COLOR=white][/COLOR]
@@ -133,6 +125,7 @@ http://45.92.69.72:8001/play/a03x
  #EXTM3U
 
 ******************************************************************  GENERALISTAS & NOTÍCIAS PT  ******************
+
 
 #EXTINF:0 tvg-id="rtp1.pt" group-title="Channels",[COLOR=white][B]RTP1[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0g7
@@ -204,12 +197,8 @@ http://45.92.69.72:8001/play/a041
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX COMEDY FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a032
-#EXTINF:0 tvg-id="ext" group-title="Portugal",[COLOR=white][B]FOX COMEDY FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/69069
 #EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",[COLOR=white][B]FOX COMEDY SD[/B][/COLOR][COLOR=white][/COLOR]
-http://max.omegadigital.xyz:8080/Ndani123/un3GJtv8q8/342036
-#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Portugal",[COLOR=white][B]FOX COMEDY SD[/B][/COLOR][COLOR=white][/COLOR]
-http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/69070
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1465
 #EXTINF:0 tvg-id="AMC.pt" group-title="Channels",[COLOR=white][B]AMC HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0jf
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]AMC HD[/B][/COLOR][COLOR=white][/COLOR]
