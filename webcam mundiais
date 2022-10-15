@@ -623,6 +623,8 @@ http://169.47.9.197:1935/live/wb.stream/playlist.m3u8
 https://000000
 
 FONTE DE INFORMAÇÃO: https://vk.com/clubslynet
+                     http://topplay.do.am/FreeWebCamsWorld.m3u
+                     http://live2-orsk.cdnvideo.ru/orsk-infochhd/infochhd/chunklist.m3u8
 
 #EXTM3U
 
@@ -631,9 +633,6 @@ FONTE DE INFORMAÇÃO: https://vk.com/clubslynet
 #EXTM3U
 
 
-
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",=== Наша группа в ВК (https://vk.com/clubslynet) ===
-http://live-orsk.cdnvideo.ru/orsk/hithd/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Austria 1
 https://spitzerberg.at/webcam/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Austria 2
