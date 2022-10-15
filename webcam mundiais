@@ -623,24 +623,45 @@ http://169.47.9.197:1935/live/wb.stream/playlist.m3u8
 https://000000
 
 FONTE DE INFORMAÇÃO: https://vk.com/clubslynet
-#EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 29/09/2022[/B][/COLOR][COLOR=orange][/COLOR]
+
 #EXTM3U
 
+#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 15/10/2022[/B][/COLOR][COLOR=orange][/COLOR]
+
+#EXTM3U
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",=== Наша группа в ВК (https://vk.com/clubslynet) ===
+http://live-orsk.cdnvideo.ru/orsk/hithd/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Austria 1
+https://spitzerberg.at/webcam/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Austria 2
+https://streaming11.huberwebmedia.at/LiveApp/streams/197624825349370259602376.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Austria 3
 https://5857499ee635b.streamlock.net/tourismusverbandlechtal-rtplive/_definst_/mp4:camera4.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Austria 4
 https://5857499ee635b.streamlock.net/tourismusverbandlechtal-rtplive/_definst_/mp4:camera2.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Austria 5
 https://5857499ee635b.streamlock.net/tourismusverbandlechtal-rtplive/_definst_/mp4:camera3.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Brazil 1
+http://cameras.interaviation.com.br/camera01/interaviation1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Brazil 2
 http://cameras.interaviation.com.br/camera02/interaviation2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Brazil 3
+https://live2.monuv.com.br/rtmp/48699.stream/str-rtmp-4c3396/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Brazil 4
+https://live2.monuv.com.br/rtmp/48698.stream/str-rtmp-4c3396/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Brazil 5
 http://5a8d73edc0407.streamlock.net:1935/lopesip/lopesip02.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Canada
 http://5ddd47d64e730.streamlock.net:1935/ospreycam/ospreycam.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Czech - Jablunkov
+http://stream.silesnet.net/webcams/jablunkov.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Czech - Ratibor
 http://stream.hqv.cz/ratibor.obecni.net/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Czech 1
+http://185.15.109.62:8086/hls/live.stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Czech 10
 http://31.47.96.14:80/hls/roznov.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Czech 2
@@ -661,6 +682,16 @@ http://31.47.96.14:80/hls/eroplan.m3u8
 http://31.47.96.14:80/hls/DbecvaK.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Germany - Binz
 http://cam01.binz-kabel.de/cam1/960.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Germany - DEVK 1
+https://streaming.devk.de/hls/cam5_720p2628kbs/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Germany - DEVK 2
+https://streaming.devk.de/hls/cam1_720p2628kbs/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Germany - DEVK 3
+https://streaming.devk.de/hls/cam2_720p2628kbs/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Germany - DEVK 4
+https://streaming.devk.de/hls/cam3_720p2628kbs/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Germany - DEVK 5
+https://streaming.devk.de/hls/cam4_720p2628kbs/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Germany - Groemitz
 http://osltv.stream24.net/osltv1/_definst_/mp4:groemitz.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Germany - Groemitz 2
@@ -673,8 +704,14 @@ http://5857db5306b83.streamlock.net/heidelberg-rtplive/_definst_/mp4:camera2.str
 http://5857db5306b83.streamlock.net/heidelberg-rtplive/_definst_/mp4:camera1.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Germany - Heidelberg 3
 http://5857db5306b83.streamlock.net/heidelberg-rtplive/_definst_/mp4:camera3.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Germany - Selb
-http://s1.worldcam.live:8081/selb/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Germany - Kellenhusen
+https://srv-streaming-02.nordwind-ev.de/hls/kellenhusen.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Germany - Nabu 1
+https://video.stream24.net/nabu/_definst_/mp4:nabucam1.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Germany - Nabu 2
+https://video.stream24.net/nabu/_definst_/mp4:nabucam2.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Germany - Regensburg
+https://rathausturm-wanderfalken.de/stream/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Germany - Sokol 1
 http://tdt.shmhost.net/falke1/livestream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Germany - Sokol 2
@@ -685,6 +722,8 @@ http://tdt.shmhost.net/falke3/livestream.m3u8
 http://tdt.shmhost.net/falke4/livestream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Germany - Vogel
 http://vogelkamera3.dyndns.tv/hls/live.stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Germany - Vogel 2
+http://vogelkamera.dyndns.tv/hls/live.stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Germany - Vogel 3
 http://vogelkamera2.dyndns.tv/hls/live.stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Germany - Zinnowitz
@@ -696,13 +735,15 @@ http://streams.oessm.org:1935/AXIS_P3364/Cam217.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Germany 11
 http://stream.falkenkamera.de:8080/stream.webm
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Germany 12
-https://www.pc-wolf.de/hochdorf/stream/hochdorf.m3u8
+https://srv-streaming-02.nordwind-ev.de/hls/kellenhusen.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Germany 13
 https://s2.livecam-pro.live/cam055/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Germany 14
 https://s2.livecam-pro.live/cam056/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Germany 15
 https://5f27cc8163c2e.streamlock.net/1044/1044.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Germany 16
+https://cam.grassau.com/rathausmarkt_hamburg/hls/live.stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Germany 17
 https://5f27cc8163c2e.streamlock.net/887/887.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Germany 2
@@ -711,10 +752,26 @@ http://80.73.96.50/webcam05/playlist.m3u8
 http://80.73.96.50/webcam06/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Germany 4
 http://tdt.shmhost.net/geist/livestream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Germany 5
+https://www.terra-livestream.eu/storch-winkl/storch-winkl.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Germany 6
+https://uhu.streaming.pixtura.de/live/Uhu2.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Germany 7
+https://www.terra-livestream.eu/turmfalken-eggstaett/turmfalken.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Germany 8
+https://www.terra-livestream.eu/bartgeier/2bartgeier.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Germany 9
 http://streams.oessm.org:1935/AXIS_P5635/Cam222.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Hungary - Aquapark
+https://streaming.hungarospa.hu:8088/hls/axis3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Hungary - Beach
+https://streaming.hungarospa.hu:8088/hls/axis0.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Hungary - Beach 2
+https://streaming.hungarospa.hu:8088/hls/axis2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Hungary - Hotel
 https://stream.idokep.hu/live/hotelvictoria/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Hungary - Spa
+https://streaming.hungarospa.hu:8088/hls/axis1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Poland - Cieszyn
 http://cdn.stream360.pl/CieszynCam/CieszynRynekHD.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Poland - Lipowa
@@ -731,6 +788,8 @@ http://91.224.104.112/xxx_wyciag_III/tracks-v1/mono.m3u8
 http://91.224.104.112:80/ujsoly/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Poland - Widok
 http://91.224.104.112:80/wgwidok/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Poland 1
+http://s1.worldcam.live:8081/koden/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Poland 10
 http://s1.worldcam.live:8081/zalewo-fontanna/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Poland 11
@@ -785,8 +844,10 @@ https://stream.arkomnet.eu/juszczyna/index.m3u8
 http://s1.worldcam.live:8081/mwgmazury2/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Poland 34
 https://tvbrzesko.pl/kamcentrum/tracks-v1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Poland 35
+https://kamery.netsystem.net.pl/brzesko/hls/live.stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Poland 4
-http://s1.worldcam.live:8081/mwgmazury/index.m3u8
+https://tvbrzesko.pl/JAKUB/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Poland 5
 http://s1.worldcam.live:8081/brzozowstadion/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Poland 6
@@ -797,16 +858,26 @@ http://194.116.130.227:1935/gda/gda_molo.stream/chunklist.m3u8
 http://live.kamera24.pl/umolawa/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Poland 9
 http://176.103.33.10:8090/Avathar3/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Portugal - Santuário de Fátima
+https://streamer-b02.videos.sapo.pt/live/santuario/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Scotland - Жирафы
+http://595b9deb3d6ac.streamlock.net:1935/qlive/edinburghzoo104225.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Scotland - Коала
 http://5cee0d703d908.streamlock.net:1935/rtplive/edinburghzoo103750_koala.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Scotland - Львы
+http://5cee0d703d908.streamlock.net:1935/rtplive/edinburghzoolion.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Scotland - Обезьяны
 http://595b9deb3d6ac.streamlock.net:1935/qlive/edinburghzoosnowmonkey.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Scotland - Панда
 http://5cee0d703d908.streamlock.net:1935/rtplive/EDZ-PH2-ShowDen2.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Scotland - Пингвины
-http://595b9deb3d6ac.streamlock.net:1935/qlive/edinburghzoo104225.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Scotland - Тигр
 http://5cee0d703d908.streamlock.net:1935/rtplive/edinburghzootiger1.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Scotland 1
+https://cdn.zetcast.net/dk-cliffcam-3/cliffcam3abr/dk-cliffcam-3/stream_720p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Scotland 2
+https://cdn.zetcast.net/dk-cliffcam-1/cliffcam1abr/dk-cliffcam-1/stream_720p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Scotland 3
+https://gb-lon-edge-01.zetcast.net/SumburghAirport2/SumburghAirport2ABR/sumburghairport2/stream_720p/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",UK - Abergynolwyn
 http://maybach.railcam.co.uk/Abergynolwyn_68473/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",UK - Airport 1
@@ -837,6 +908,8 @@ https://paxman.railcam.co.uk/Crewe3_13496/tracks-v1a1/mono.m3u8
 https://maybach.railcam.co.uk/Crowcombe_72940/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",UK - Dawlish
 http://camsecure.co/HLS/dawlish.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",UK - Dymchurch
+https://maybach.railcam.co.uk/Dymchurch_23456/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",UK - Falcon 1
 https://video.ntu.ac.uk/falconcam1/camera.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",UK - Falcon 2
@@ -889,6 +962,8 @@ https://maybach.railcam.co.uk/Todmorden_19065/tracks-v1/mono.m3u8
 https://camsecure.co/HLS/tresco1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",UK - Tresco 2
 http://camsecure.co/HLS/tresco2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",UK - Turks & Caicos
+https://edge01.london.nginx.hdontap.com/hosb1/turks-caicos_seven_stars_resort.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",UK - Tywyn Wharf
 http://paxman.railcam.co.uk/TywynWharf_24712/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",UK - Wansford
@@ -909,12 +984,18 @@ http://stream.wildlifestreaming.io:1935/Marwell/marwell_penguin.stream/playlist.
 http://stream.wildlifestreaming.io:1935/WildlifeKate/230.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",UK - Птицы 1
 http://stream.wildlifestreaming.io:1935/StowMarie/s1.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",UK - Птицы 2
+http://stream.wildlifestreaming.io:1935/WildlifeKate/yew9.stream_aac/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",UK - Птицы 3
 http://stream.wildlifestreaming.io:1935/WildlifeKate/235.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",UK - Птицы 4
 http://stream.wildlifestreaming.io:1935/WildlifeKate/100.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",UK - Птицы 5
 http://stream.wildlifestreaming.io:1935/WildlifeKate/yew32.stream_aac/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",UK - Птицы 6
+http://stream.wildlifestreaming.io:1935/WildlifeKate/yew4.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",UK - Птицы 7
+http://stream.wildlifestreaming.io:1935/StowMarie/s4.stream_aac/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",UK - Фламинго
 http://stream.wildlifestreaming.io:1935/Marwell/marwell_flamingo.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",UK - Ящик с кормом
@@ -923,10 +1004,14 @@ http://stream.wildlifestreaming.io:1935/WildlifeKate/HDMammal.stream/playlist.m3
 https://59b69eab8875b.streamlock.net/live/Beach_Cam_01.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",USA - Beech Moutain Resort
 https://55507e0501d25.streamlock.net/live/beechsummit.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",USA - Cardiff
+https://edge01.london.nginx.hdontap.com/hosb5/cardiffreef-ptz_hdontap.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",USA - Cedar Point Park
 https://56cdb389b57ec.streamlock.net:1935/live/cedar1.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",USA - Cedar Point Park 2
 https://56cdb389b57ec.streamlock.net:1935/live/cedar2.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",USA - Commons Beach
+https://edge01.london.nginx.hdontap.com/hosb1/commonsbeach_ttv.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",USA - Dead Dog Saloon MarshWalk
 http://58f0f58ecd733.streamlock.net:1935/DeadDogSaloonCam3/deaddog3/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",USA - Dead Dog Saloon Stage
@@ -947,12 +1032,28 @@ http://55507e0501d25.streamlock.net/live/greenparrot2.stream/playlist.m3u8
 https://55507e0501d25.streamlock.net/live-audio/hogsbreath3.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",USA - Hogs Breath Saloon 2
 https://55507e0501d25.streamlock.net/live-audio/hogsbreath2-audio.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",USA - Hotel 1
+https://island.networkingdesign.com:8183/hls/live.stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",USA - Hotel 2
+https://island.networkingdesign.com:8184/hls/live.stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",USA - Huntington Beach
 https://56cdb389b57ec.streamlock.net:1935/live/hbsouth.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",USA - Kure Beach
 http://5a5f765a4fcc2.streamlock.net:1935/live/kbstreet.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",USA - Las Vegas
+https://cams.lvonline.com/live/LVNetOrleansEast.stream_720p/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",USA - Las Vegas 2
-http://cams.lasvegas.net:1935/live/LVNetOrleansDown.stream/playlist.m3u8
+https://cams.lvonline.com/live/LVNetOrleansDown.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",USA - Las Vegas 3
+https://cams.lvonline.com/live/LVNetOrleansWest.stream_720p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",USA - Las Vegas 4
+https://cams.lvonline.com/live/LVNetFlamingoStNorthWest.stream_720p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",USA - Las Vegas 5
+https://cams.lvonline.com/live/LasVesgasNetHotelNorthCamNorth.stream_720p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",USA - Las Vegas 6
+https://cams.lvonline.com/live/LasVesgasNetHotelNorthCamSouth.stream_720p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",USA - Las Vegas 7
+https://cams.lvonline.com/live/LVNetFlamingoStNorthEast.stream_720p/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",USA - Minnesota
 https://55507e0501d25.streamlock.net/live/spiritmtn.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",USA - Myrtle Beach Cam
@@ -961,6 +1062,12 @@ https://5ab0d1d85f91f.streamlock.net/fuel/boardwalk_1.stream/chunklist.m3u8
 https://5ab0d1d85f91f.streamlock.net/Riptydz/cam-rt-volleyball.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",USA - Myrtle Beach Cam 3
 https://5ab0d1d85f91f.streamlock.net/Riptydz/cam-rt-blvd.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",USA - Oakland Park
+https://edge01.london.nginx.hdontap.com/hosb5/oaklandpark_highpoweredgraphics.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",USA - Ober
+https://stream.resortcams.com/live/ober2.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",USA - Portola Hotel
+https://edge01.london.nginx.hdontap.com/hosb1/portola_ttv.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",USA - Pwillys Beach
 http://media5.tripsmarter.com:1935/pwillyspier//pwillyspiercam/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",USA - Schooners Beach Cam
@@ -973,6 +1080,10 @@ http://5ed7b8fd7bf40.streamlock.net:1935/schoonerssunsetHDCam/schsun/playlist.m3
 http://5a5f765a4fcc2.streamlock.net:1935/live/spp.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",USA - Southport 2
 http://5a5f765a4fcc2.streamlock.net:1935/live/fishy.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",USA - Squaw Valley
+https://edge01.london.nginx.hdontap.com/hosb1/squaw-kt22_ttv.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",USA - Sunnyside Resort
+https://edge01.london.nginx.hdontap.com/hosb1/sunnyside_ttv.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",USA - Traffic
 http://d2a6g6zgxepbwi.cloudfront.net/wbrztraffic/mp4:trafficstream.sdp/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",USA - Warm Winds
@@ -1029,18 +1140,52 @@ http://abkvideo1.orionnet.online/cam805/tracks-v1/mono.m3u8
 http://abkvideo1.orionnet.online/cam1553/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Абакан 9
 http://abkvideo1.orionnet.online/cam1554/tracks-v1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Абхазия 1
+https://a-mobile.camera/cams/WEB-AGU1/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Абхазия 10
+https://a-mobile.camera/cams/WEB685-SHKOLA-3/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Абхазия 11
+https://a-mobile.camera/cams/WEB691-SHKOLA-12/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Абхазия 12
+https://a-mobile.camera/cams/WEB16-STADIONRESBUPLIC/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Абхазия 13
+https://a-mobile.camera/cams/WEB5-CHASI/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Абхазия 14
+https://a-mobile.camera/cams/WEB17-Tennis/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Абхазия 15
+https://a-mobile.camera/cams/WEB4-APSHALASFOOTBALL/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Абхазия 16
+https://a-mobile.camera/cams/WEB28-Sovmin/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Абхазия 17
+https://a-mobile.camera/cams/WEB-PARK-LVOV/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Абхазия 2
+https://a-mobile.camera/cams/WEB36-Afonpark/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Абхазия 3
+https://a-mobile.camera/cams/WEB692-SHKOLA-11/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Абхазия 4
+http://a-mobile.camera/cams/WEB20-RTPCSUKHUM/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Абхазия 5
+https://a-mobile.camera/cams/WEB6-PSOU(2)/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Абхазия 6
+https://a-mobile.camera/cams/WEB23-PSOUKPP/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Абхазия 7
+http://a-mobile.camera/cams/WEB50-Ritsa/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Абхазия 8
+https://a-mobile.camera/cams/WEB3-APSHALASTENNIS/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Абхазия 9
+http://a-mobile.camera/cams/WEB18-BASKETBALL/video.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Австралия 1
-http://streamer.swellnet.com.au:1935/surfcams/scarborough.stream/chunklist.m3u8
+https://streamer.swellnet.com/surfcams/scarborough.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Австралия 2
-http://streamer.swellnet.com.au:1935/surfcams/duranbah.stream/playlist.m3u8
+https://streamer.swellnet.com/surfcams/duranbah.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Австралия 3
-http://streamer.swellnet.com.au:1935/surfcams/torquay.stream/chunklist.m3u8
+https://streamer.swellnet.com/surfcams/torquay.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Австралия 4
-http://streamer.swellnet.com.au:1935/surfcams/wollongong.stream/chunklist.m3u8
+https://streamer.swellnet.com/surfcams/wollongong.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Австралия 5
-http://streamer.swellnet.com.au:1935/surfcams/thirroul.stream/chunklist.m3u8
+https://streamer.swellnet.com/surfcams/thirroul.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Австралия 6
-http://streamer.swellnet.com.au:1935/surfcams/shark-island.stream/playlist.m3u8
+https://streamer.swellnet.com/surfcams/shark-island.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Актау - Берег Каспия 14 мкрн
 http://cam.x-com.kz:8081/caspy14/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Актау - Берег Каспия 15 мкрн
@@ -1059,6 +1204,8 @@ http://cam.x-com.kz:8081/dramteatr/index.m3u8
 http://cam.x-com.kz:8081/downtown/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Алматы - ГК Шымбулак 1
 http://ipcam.kz/cam1/tracks-v1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Алматы - ГК Шымбулак 2
+http://ipcam.kz/cam2/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Алматы - ГК Шымбулак 3
 http://ipcam.kz/cam3/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Алматы - ГК Шымбулак 4
@@ -1098,7 +1245,19 @@ http://s2.moidom-stream.ru/s/public/0000089759.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Апатиты 8
 http://s1.moidom.karelia.pro/s/public/0000007343.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Аргентина
-http://200.50.248.57:8080/Camara1/index.m3u8
+http://nqnmunicam.ddns.net:1935/camnqn/rio_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Аргентина 2
+https://karamaui.freewaves.live/hls/live.stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Аргентина 3
+https://mchpano.freewaves.live/hls/live.stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Аргентина 4
+https://mogotes.freewaves.live/hls/live.stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Аргентина 5
+https://kitegesell.freewaves.live/hls/live.stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Аргентина 6
+http://nqnmunicam.ddns.net:1935/camnqn/parque_720p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Аргентина 7
+http://nqnmunicam.ddns.net:1935/camnqn/avnorte_720p/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Артек Кипарисный
 http://193.238.110.3/9/hls/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Артек Лазурный
@@ -1115,6 +1274,22 @@ http://193.238.110.3/6/hls/live.m3u8
 http://193.238.110.3/2/hls/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Артек Янтарный
 http://193.238.110.3/3/hls/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Архангельск - Вельск
+https://flow.vybor-net.ru/live/velsk_stella/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Архангельск - Вельск 2
+https://flow.vybor-net.ru/live/velsk_ploshhad/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Архангельск - Вельск 3
+https://flow.vybor-net.ru/live/velsk_karpedchenko/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Архангельск - Вельск 4
+https://flow.vybor-net.ru/live/filjaevskaja_det_pl2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Архангельск - Вельск 5
+https://flow.vybor-net.ru/live/gorka_muravevskaja_katok/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Архангельск - Вельск 6
+https://flow.vybor-net.ru/live/velsk_ploshhad2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Архангельск - Октябрьский 1
+https://flow.vybor-net.ru/live/Okt_ploshad/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Архангельск - Октябрьский 2
+https://flow.vybor-net.ru/live/Okt_dk/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Астана - ТРЦ Хан Шатыр
 http://92.46.108.21:1934/rtplive/_definst_/camera1.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Астана - ТРЦ Хан Шатыр 2
@@ -1140,17 +1315,25 @@ http://dvr.astrakhan.ru/cam27hd/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Астрахань 8
 http://dvr.astrakhan.ru/kir-19-hd-2/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Астрахань 9
-http://dvr.astrakhan.ru/cam3hd/index.m3u8
+https://dvr2.astrakhan.ru/aers-schit11-hd-2/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Астрахань:Ахтубинск
 https://dvr.astrakhan.ru/ahtu-leni-1a-hd-4/tracks-v1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Астрахань:Икряное
-https://dvr2.astrakhan.ru/ikry-mira-6-hd-1/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Астрахань:Камызяк
 https://dvr.astrakhan.ru/kami-tara-4-hd-3/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Астрахань:Нариманов
 http://dvr.astrakhan.ru/cam2hd/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Аша
 http://37.79.254.224:1234/hls1/tvg.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Аэропорт Гамбург
+http://stream-5gw.1000eyes.de/cupertino/hamDDFB28.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Аэропорт Гамбург 2
+http://stream-5gw.1000eyes.de/cupertino/hamDDFBCE.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Аэропорт Гамбург 3
+http://stream-5gw.1000eyes.de/cupertino/hamDDD79C.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Аэропорт Гамбург 4
+http://stream-5gw.1000eyes.de/cupertino/hamDD9CCF.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Аэропорт Дюссельдорфа 1
+http://stream-5gw.1000eyes.de/cupertino/dus5a92.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Аэропорт Дюссельдорфа 2
 http://stream-5gw.1000eyes.de:1935/cupertino/dus5abb.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Аэропорт Дюссельдорфа 3
@@ -1165,10 +1348,40 @@ http://stream-5gw.1000eyes.de/cupertino/cgn06B1E8.stream/playlist.m3u8
 http://stream-5gw.1000eyes.de/cupertino/cgn2C70DD.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Аэропорт Кельн/Бонн 3
 http://stream-5gw.1000eyes.de/cupertino/cgn4463E1.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Байкальский Музей
-http://bm.isc.irk.ru:8085/hls/st2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Байкальский Музей 5
-http://bm.isc.irk.ru:8085/hls/st8.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Байкал 1
+https://cctv1.dreamnet.su:8090/hls/1191934/f0ac96fca1459a8e334e/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Байкал 2
+https://cctv1.dreamnet.su:8090/hls/1080065/56e330650f2906d3f92a/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Байкал 3
+https://cctv1.dreamnet.su:8090/hls/563529/395dc81d248e6d85e5e9/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Байкал 4
+https://cctv1.dreamnet.su:8090/hls/275781/f354cfc02d8f6b24afc3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Байкал 5
+https://cctv1.dreamnet.su:8090/hls/311490/8751c2768bca7321dcd4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Байкал 6
+https://cctv1.dreamnet.su:8090/hls/275770/68241c469e2ea32f8671/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Байкал 7
+https://tv.streams.baikal-telecom.net/Olkhon_cam2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Байкал 8
+https://tv.streams.baikal-telecom.net/Olkhon_cam1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Балашиха 1
+https://webcams.glavstroy.ru/100lichny-2/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Балашиха 2
+https://webcams.glavstroy.ru/100lichny-11/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Балашиха 3
+https://webcams.glavstroy.ru/100lichny-3/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Балашиха 4
+https://webcams.glavstroy.ru/100lichny-4/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Балашиха 5
+https://webcams.glavstroy.ru/100lichny-10/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Балашиха 6
+https://webcams.glavstroy.ru/100lichny-6/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Балашиха 7
+https://webcams.glavstroy.ru/100lichny-7/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Балашиха 8
+https://webcams.glavstroy.ru/100lichny-8/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Балашиха 9
+https://webcams.glavstroy.ru/100lichny-9/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Барнаул 1
 https://live.katun24.ru:8082/drama/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Барнаул 2
@@ -1287,12 +1500,20 @@ http://hls3.bashtel.ru/hls/cam301.m3u8
 http://hls3.bashtel.ru/hls/cam304.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Благовещенск 5
 http://hls3.bashtel.ru/hls/cam312.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Благовещенск 6
+http://hls3.bashtel.ru/hls/cam310.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Благовещенск 7
 http://hls3.bashtel.ru/hls/cam320.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Благовещенск 8
 http://hls3.bashtel.ru/hls/cam311.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Болгария
 http://old.rn-tv.com/live/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Болгария 2
+https://streamer103.neterra.tv/radiovidin/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Босния 1
+https://edith03.tv.blic.net:1935/live/kamera02.stream_480p/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Босния 2
+https://edith03.tv.blic.net:1935/live/kamera01.stream_480p/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Босния 3
 https://5c0dfccda11db.streamlock.net/Bjelasnica/Bjelasnica_Hotel_Han.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Босния 4
@@ -1341,12 +1562,16 @@ https://video.iluki.ru/VLK-LNP-1-PUB-1/index.m3u8
 https://video.iluki.ru/VLK-DYK-2-PUB-1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Великие Луки - Себеж
 https://video.iluki.ru/SBZ-NAB-PUB-2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Великие Луки - Себеж 2
+https://video.iluki.ru/SBZ-SEN-2-PUB-1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Великие Луки - Себеж 3
 https://video.iluki.ru/SBZ-NAB-PUB-4/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Великие Луки - Себеж 4
 https://video.iluki.ru/SBZ-7NV-40-PUB-1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Великие Луки - Себеж 5
 https://video.iluki.ru/SBZ-7NV-55-PUB-1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Великие Луки - Себеж 6
+https://video.iluki.ru/SBZ-7NV-66-PUB-1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Великие Луки - Себеж 7
 https://video.iluki.ru/SBZ-NAB-PUB-1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Великие Луки - Себеж 8
@@ -1381,6 +1606,26 @@ https://camera.mxc.ru/hls/cam93/stream.m3u8
 https://camera.mxc.ru/hls/cam94/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Великий Новгород 9
 https://camera.mxc.ru/hls/cam95/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Венгрия
+https://s12infocam.infornax.hu/t2/nv/fehervar1/hls/720/720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Венгрия 10
+https://s20infocam.infornax.hu/t2/nv/alsoors-strand/hls/720/720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Венгрия 2
+https://s20infocam.infornax.hu/t2/nv/vp-20/hls/720/720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Венгрия 3
+https://s12infocam.infornax.hu/t2/nv/fehervar2/hls/720/720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Венгрия 4
+https://s20infocam.infornax.hu/t7/nv/madarles-kuvik/hls/720/720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Венгрия 5
+https://s20infocam.infornax.hu/t2/nv/herend/hls/720/720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Венгрия 6
+https://s20infocam.infornax.hu/t2/nv/vmeteo-mencs/hls/720/720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Венгрия 7
+https://s20infocam.infornax.hu/t2/nv/vp-mezradio/hls/960/960.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Венгрия 8
+https://s20infocam.infornax.hu/t2/nv/vmeteo/hls/720/720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Венгрия 9
+https://s20infocam.infornax.hu/t7/nv/madarles-vadles/hls/720/720.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Верхняя Пышма
 http://31.131.80.2:8080/a4e4e837-be8c-486f-b624-9e4a8245760c/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Верхняя Пышма 2
@@ -1447,6 +1692,64 @@ http://185.46.48.18:8080/cam4/index.m3u8
 http://185.46.48.18:8080/cam5/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Владимир
 http://kgb-system.ru:8080/hls/224417/d20efa30812b9b7c30ff/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Волгоград - Детская площадка
+http://flussonic.powernet.com.ru:8080/user94028/tracks-v1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Волгоград - Мамаев Курган
+http://flussonic.powernet.com.ru:8080/user81415/tracks-v1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Волгоград - Площадь имени Ленина
+http://flussonic.powernet.com.ru:8080/user36662/tracks-v1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Волгоград - Площадь перед ДК
+http://flussonic.powernet.com.ru:8080/user55640/tracks-v1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Волгоград - Площадь перед кинотеатром
+http://flussonic.powernet.com.ru:8080/user55644/tracks-v1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Волгоград - Ротонда
+http://flussonic.powernet.com.ru:8080/user54216/tracks-v1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Волгоград - Спортивная площадка
+http://flussonic.powernet.com.ru:8080/user90260/tracks-v1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Волгоград - Храм Богородицы
+http://flussonic.powernet.com.ru:8080/user55248/tracks-v1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Волгоград - ул.Космонатов
+http://flussonic.powernet.com.ru:8080/user87469/tracks-v1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Волгоград - ул.Пархоменко
+http://flussonic.powernet.com.ru:8080/user89689/tracks-v1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Волжский - Бассейн
+http://flussonic.powernet.com.ru:8080/user59769/tracks-v1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Волжский - Вид на сцену
+http://flussonic.powernet.com.ru:8080/user74701/tracks-v1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Волжский - Вокзал
+http://flussonic.powernet.com.ru:8080/user81246/tracks-v1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Волжский - Детская площадка
+http://flussonic.powernet.com.ru:8080/user43206/tracks-v1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Волжский - Магазин Заря
+http://flussonic.powernet.com.ru:8080/user61026/tracks-v1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Волжский - Парк
+http://flussonic.powernet.com.ru:8080/user57948/tracks-v1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Волжский - Парковка
+http://flussonic.powernet.com.ru:8080/user80280/tracks-v1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Волжский - Пешеходный переход
+http://flussonic.powernet.com.ru:8080/user103725/tracks-v1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Волжский - Площадь Труда
+http://flussonic.powernet.com.ru:8080/user67496/tracks-v1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Волжский - Сквер
+http://flussonic.powernet.com.ru:8080/user94100/tracks-v1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Волжский - Сквер 2
+http://flussonic.powernet.com.ru:8080/user82829/tracks-v1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Волжский - Умная остановка
+http://flussonic.powernet.com.ru:8080/user86091/tracks-v1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Волжский - ул.Дружбы
+http://flussonic.powernet.com.ru:8080/user35833/tracks-v1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Волжский - ул.Дружбы 2
+http://flussonic.powernet.com.ru:8080/user29907/tracks-v1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Волжский - ул.Карбышева
+http://flussonic.powernet.com.ru:8080/user39178/tracks-v1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Волжский - ул.Комсомольская
+http://flussonic.powernet.com.ru:8080/user91498/tracks-v1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Волжский - ул.Мира
+http://flussonic.powernet.com.ru:8080/user102078/tracks-v1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Вологда 1
+http://yes35.ru/web/webcam-1/webcam.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Вологда 2
+http://yes35.ru/web/webcam-3/webcam.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Воронеж 1
 http://178.210.46.102:80/cam9/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Воронеж 10
@@ -1467,6 +1770,8 @@ http://178.210.46.102:80/cam5/index.m3u8
 http://178.210.46.102:80/cam6/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Воронеж 8
 http://178.210.46.102:80/cam7/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Воронеж 9
+http://178.210.46.102:80/cam8/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Всеволожск - мкр.Южный
 http://109.230.128.131:8080/sotnikova1/tracks-v1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Всеволожск - ул.Александровская
@@ -1477,6 +1782,12 @@ https://s131-obzor.tvhost.ru:21200/hls/3496313/89d0d244ca322f8407da/playlist.m3u
 https://s131-obzor.tvhost.ru:21200/hls/3496308/b936309fc8b73918add6/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Вышний Волочек 3
 https://s131-obzor.tvhost.ru:21200/hls/3496303/c66ef403265f408355eb/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Гаврилов Посад 1
+rtmp://81.20.107.197:1935/fullhd/camera1
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Гаврилов Посад 2
+rtmp://81.20.107.197:1935/fullhd/camera2
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Гаврилов Посад 3
+rtmp://81.20.107.197:1935/fullhd/camera4
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Гай 1
 http://gaj-pobeda.camsh.gts.tv/hls/gaj-voichenko.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Гай 2
@@ -1487,6 +1798,10 @@ http://gaj-pobeda.camsh.gts.tv/hls/gaj-pobeda.m3u8
 http://gaj-krug.camsh.gts.tv/hls/gaj-krug.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Геленджик 1
 http://gelendzhik.org:8080/Central_pier/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Геленджик 10
+http://gelendzhik.org:8080/TC_GELENDZHIK_LENINA/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Геленджик 11
+http://gelendzhik.org:8080/TC_GELENDZHIK_OSTROVSKOGO/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Геленджик 12
 http://gelendzhik.org:8080/Central_Square2/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Геленджик 13
@@ -1507,6 +1822,26 @@ http://gelendzhik.org:8080/Andreevskiy_park/index.m3u8
 http://gelendzhik.org:8080/Stella/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Геленджик 9
 http://gelendzhik.org:8080/Torikos/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Георгиевск
+http://cam.serdi.ru/Komsomolec_Pamyatnik/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Георгиевск 10
+http://cam.serdi.ru/Skver_6/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Георгиевск 2
+http://cam.serdi.ru/Ozero3/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Георгиевск 3
+http://cam.serdi.ru/Ozero2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Георгиевск 4
+http://cam.serdi.ru/Skver_4/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Георгиевск 5
+http://cam.serdi.ru/Krasnih_Partizan/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Георгиевск 6
+http://cam.serdi.ru/Skver_3/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Георгиевск 7
+http://cam.serdi.ru/Skver_1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Георгиевск 8
+http://cam.serdi.ru/Skver_2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Георгиевск 9
+http://cam.serdi.ru/Skver_5/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Глазов
 http://91.210.192.74:8081/hls/340/46c4cd4aae2a82b0f44f/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Глазов 2
@@ -1524,7 +1859,7 @@ https://mediacp.alphastream.eu/kortrik/kortrik.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Греция 13
 https://mediacp.alphastream.eu/trikalacity1/trikalacity1.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Греция 14
-https://mediacp.alphastream.eu/lefkada/lefkada.stream/playlist.m3u8
+https://mediacp.alphastream.eu/tsagarada/tsagarada.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Греция 15
 https://mediacp.alphastream.eu/trikalacity3/trikalacity3.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Греция 16
@@ -1535,6 +1870,8 @@ https://corfulive.gr/OasisHotel/OasisHotel.m3u8
 https://corfulive.gr/vrachos/vrachos.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Греция 19
 https://corfulive.gr/Akron/Akron.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Греция 2
+https://mediacp.alphastream.eu/lefkada/lefkada.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Греция 20
 https://corfulive.gr/akti_kontogialos/akti_kontogialos.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Греция 3
@@ -1671,16 +2008,26 @@ https://cam.evpanet.com:18120/hls/1942119/346c42b950dd81fef8f4/playlist.m3u8
 https://cam.evpanet.com:18120/hls/1942082/32c96875ffc1a48125e6/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Ейск 1
 http://195.110.52.71/cam8/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Ейск 2
+http://195.110.52.71/cam6/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Ейск 3
 http://195.110.52.71/cam2/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Ейск 4
 http://195.110.52.71/cam3/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Ейск 5
 http://195.110.52.71/cam5/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Ейск 6
+http://195.110.52.71/cam11/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Ейск 7
-http://195.110.52.71/cam9/stream.m3u8
+http://195.110.52.71/cam1/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Екатеринбург 1
 http://ekbcamera.lsr.ru:8080/hls/13/8b32346f3987bcc61886/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Екатеринбург 2
+https://cctv-sa5-b2b.tula.vs.ertelecom.ru:18080/hls/266291181/c6a446695569e1a4def1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Екатеринбург 3
+https://cctv-sa3-b2b.ekat.vs.ertelecom.ru:18080/hls/35074651/ae645ebf9216196c127e/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Екатеринбург 4
+https://cctv-sa2-b2b.ekat.ertelecom.ru:18080/hls/41086261/fe9478f4bdb0de7f23eb/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Железногорск 1
 http://109.196.208.35:8080/hls/5084/5daf290b92fcefb69889/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Железногорск 2
@@ -1697,8 +2044,20 @@ http://109.196.208.35:8080/hls/5082/a2908a8c67853882815b/playlist.m3u8
 http://109.196.208.35:8080/hls/5088/cded7c7476b9e239979b/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Зеленая поляна - Банное
 http://video-mgn.freedom1.ru/mgn.glc-bannoe/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Зубцов 1
+https://zubtsov-net.ru/bonus/hls/sov22hd/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Зубцов 2
+https://zubtsov-net.ru/bonus/hls/pob4hd/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Ивантеевка
-https://cdn.wasd.tv/live/1292125/index.m3u8
+https://hls.iks-video.ml/Cam1Mix/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Ивантеевка 2
+https://hls.iks-video.ml/Cam2Mix/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Ивантеевка 3
+https://hls.iks-video.ml/Cam3Mix/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Ивантеевка 4
+https://hls.iks-video.ml/Cam9Mix/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Ивантеевка 5
+https://hls.iks-video.ml/Cam10Mix/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Излучинск 1
 https://nginx03.pride-net.ru/izl_school2_p4/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Излучинск 2
@@ -1731,16 +2090,44 @@ http://tv.streams.baikal-telecom.net/Glazkovskii_naSverdlovskiy/index.m3u8
 http://tv.streams.baikal-telecom.net/Glazkovskii_naKirovskii/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Иркутск 7
 http://cctv.baikal-telecom.net/Zapadniy_cam1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Исландия 1
+https://st1.livefromiceland.is/lfi/reynisfjara/tracks-v1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Исландия 2
+https://st1.livefromiceland.is/lfi/stykkisholmur/tracks-v1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Исландия 3
+https://st1.livefromiceland.is/lfi/perlan3/tracks-v1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Исландия 4
+https://st1.livefromiceland.is/lfi/jokulsarlon/tracks-v1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Испания 1
+https://cdnlive.codev8.net/la8valladolidlive/smil:channel2.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Испания 10
+https://cdnlive.codev8.net/la8bierzolive/smil:channel2.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Испания 11
+https://cdnlive.codev8.net/la8avilalive/smil:channel2.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Испания 2
+https://cdnlive.codev8.net/la8zamoralive/smil:channel2.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Испания 3
+https://cdnlive.codev8.net/la8sorialive/smil:channel2.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Испания 4
+https://cdnlive.codev8.net/la8segovialive/smil:channel2.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Испания 5
+https://cdnlive.codev8.net/la8salamancalive/smil:channel2.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Испания 6
+https://cdnlive.codev8.net/la8palencialive/smil:channel2.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Испания 7
+https://cdnlive.codev8.net/la8leonlive/smil:channel2.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Испания 8
+https://5b8d2cbe62ad6.streamlock.net/live/spanje.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Испания 9
+https://cdnlive.codev8.net/la8burgoslive/smil:channel2.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Иссык-Куль (KG)
 http://213.145.131.243/cam2/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Иссык-Куль 2
 http://webcam.elcat.kg:5080/LiveApp/streams/589225622301509711776199.m3u8?token=null
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Иссык-Куль 3
 http://webcam.elcat.kg:5080/LiveApp/streams/995816260846723504129014.m3u8?token=null
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Иссык-Куль 5
-http://webcam.elcat.kg:5080/LiveApp/streams/052275274688088298715032.m3u8?token=null
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Иссык-Куль 6
-http://webcam.elcat.kg:5080/LiveApp/streams/950826773587936775731099.m3u8?token=null
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Иссык-Куль 4
+http://webcam.elcat.kg:5080/LiveApp/streams/322216804561336984165479.m3u8?token=null
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Италия
 http://cdn-004.whatsupcams.com/hls/it_ischia01.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Италия 10
@@ -1773,38 +2160,60 @@ http://cdn.universmotri.ru/ipcam/cam37.stream/playlist.m3u8
 http://cdn.universmotri.ru/ipcam/cam32.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Казань 4
 http://cdn.universmotri.ru/ipcam/cam36.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Калининград 1
+http://media.gov39.ru:1935/webcam-rec/zavod_bravo.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Калининград 10
 https://599da0b457148.streamlock.net:1936/traffic/trafcam6zel.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Калининград 11
 https://599da0b457148.streamlock.net:1936/traffic/trafcam11prol.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Калининград 12
 https://599da0b457148.streamlock.net:1936/traffic/trafcam3frunze.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Калининград 13
+https://599da0b457148.streamlock.net:1936/traffic/trafcam4shevl.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Калининград 14
+http://media.gov39.ru:1935/webcam-rec/mapp_chernyshevskoe2.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Калининград 15
+http://media.gov39.ru:1935/webcam-rec/onkocenter2.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Калининград 16
 https://599da0b457148.streamlock.net:1936/traffic/trafcam7bagram.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Калининград 2
+http://media.gov39.ru:1935/webcam-rec/mapp_gzhehodki.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Калининград 3
+http://media.gov39.ru:1935/webcam-rec/mapp_gronovo.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Калининград 4
+http://media.gov39.ru:1935/webcam-rec/mapp_bagrat.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Калининград 5
+http://media.gov39.ru:1935/webcam-rec/onkocenter.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Калининград 6
+http://media.gov39.ru:1935/webcam-rec/onkocenter3.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Калининград 7
+http://media.gov39.ru:1935/webcam-rec/mapp_chernyshevskoe.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Калининград 8
+http://media.gov39.ru:1935/webcam-rec/dsvasilkovo.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Калининград 9
 https://599da0b457148.streamlock.net:1936/traffic/trafcam14ds.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Калуга
 https://cam-kaluga.saferegion.net/pj2d-5hH/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Каменск-Уральский 1
-http://78.139.78.106:8080/hls/3666/4523b7b7c4cbcf446019/playlist.m3u8
+http://streamer-01.kamensktel.ru:8080/hls/782257/a0f6e3727770348b0efb/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Каменск-Уральский 10
 http://streamer-01.kamensktel.ru:8080/hls/382301/ad821cf32826a18dd60f/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Каменск-Уральский 11
 http://78.139.78.106:8080/hls/3849/30aef21385b0c2fe006e/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Каменск-Уральский 2
-http://78.139.78.106:8080/hls/3674/3816e1b1e92deed01a13/playlist.m3u8
+http://78.139.78.106:8080/hls/5834/2f8bf0f5c8636217224c/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Каменск-Уральский 3
-http://78.139.78.106:8080/hls/3708/03e7ae98f545c249a7b1/playlist.m3u8
+http://78.139.78.106:8080/hls/72268/33b41d264ae7127d3f2b/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Каменск-Уральский 4
-http://78.139.78.106:8080/hls/3851/f45c989e7fb7abfd9ad8/playlist.m3u8
+http://78.139.78.106:8080/hls/150942/a5769d49147bfd719aa2/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Каменск-Уральский 5
-http://78.139.78.106:8080/hls/3845/8216a419a83adc0fc9bd/playlist.m3u8
+http://78.139.78.106:8080/hls/150946/02c96251bff7c5c757de/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Каменск-Уральский 6
 http://78.139.78.106:8080/hls/3652/dbe4fdd4c5d98cb5b638/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Каменск-Уральский 7
 http://78.139.78.106:8080/hls/3655/052d803f907e20ef8cc4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Каменск-Уральский 8
-http://78.139.78.106:8080/hls/135843/9e5677c0857f6c121371/playlist.m3u8
+http://78.139.78.106:8080/hls/151232/bcb4a10598f2602c742f/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Каменск-Уральский 9
 http://78.139.78.106:8080/hls/3668/8dbe225c7c43210946a9/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Каспийск 1
@@ -1847,6 +2256,8 @@ http://ip2.kerch.net:8092/220-20/1.m3u8
 http://ip2.kerch.net:8092/125-242/1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Керчь - Парк Аленка
 http://ip2.kerch.net:8092/125-155/1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Керчь - Парк Аленка 2
+http://ip2.kerch.net:8092/125-142/1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Керчь - Парк Комсомольский
 http://ip2.kerch.net:8092/18-3/1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Керчь - Парк Комсомольский 2
@@ -1947,6 +2358,8 @@ http://s2.moidom.karelia.pro/s/public/0000010695.m3u8
 http://s2.moidom.karelia.pro/s/public/0000001049.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Кондопога 9
 http://s2.moidom.karelia.pro/s/public/0000001345.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Костанай
+http://87.76.32.49:8080/100/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Костомукша 1
 http://s1.moidom.karelia.pro/s/public/0000008055.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Костомукша 2
@@ -2011,6 +2424,8 @@ http://flussonic.multi-net.ru/dorogi-4/tracks-v1/mono.m3u8
 http://flussonic.multi-net.ru/dorogi-3/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Красноярск 25
 http://flussonic.multi-net.ru/dorogi-5/tracks-v1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Красноярск 3
+http://krkvideo15.orionnet.online/cam3209/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Красноярск 4
 http://krkvideo13.orionnet.online/cam3399/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Красноярск 5
@@ -2047,6 +2462,12 @@ http://85.208.223.248:8081/sv4/mystream.m3u8
 http://85.208.223.248:8081/vo/mystream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Кушва 8
 http://85.208.223.248:8081/ps/mystream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Ленинск-Кузнецкий
+https://cams.tclk.ru/cam1/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Ленинск-Кузнецкий 2
+https://cams.tclk.ru/cam4/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Ленинск-Кузнецкий 3
+https://cams.tclk.ru/cam3/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Липецк
 http://81.20.204.174:8888/CAM2/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Липецк 10
@@ -2063,10 +2484,12 @@ http://streamer.lan48.ru/c558afc1-f895-440d-a45c-6577849d61ca/tracks-v1/mono.m3u
 http://streamer.lan48.ru/a8133434-8acc-4f3b-a2f1-cd5e60c29abf/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Липецк 6
 http://streamer.lan48.ru/91494086-1c9f-46b5-b339-2027526d5fe1/tracks-v1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Липецк 7
+http://streamer.lan48.ru/0b035749-8c1b-4a5b-95cc-b6961dbdbd53/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Липецк 8
 http://streamer.lan48.ru/280b16be-8718-495b-aed2-951bcfc5c4d6/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Липецк 9
-http://streamer.lan48.ru/89448ced-e583-4cd0-8716-1e3548c33d20/tracks-v1/mono.m3u8
+http://streamer.lan48.ru/215b7b46-4d49-4fde-8b3d-f436fbec8bed/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Литва - Вильнюс
 http://s1.dcdn.lt/livecam/vl108.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Литва - Вильнюс 2
@@ -2113,6 +2536,20 @@ http://s1.dcdn.lt/livecam/sll50.stream/chunklist.m3u8
 http://176.120.189.181:8081/play/Lixadmin/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Лихославль 2
 http://176.120.189.181:8081/play/Lixadmin2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Ломоносов 1
+https://cam.satnet-spb.ru/stream/5a67a7b2900850ad9da25847.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Ломоносов 2
+https://cam.satnet-spb.ru/stream/5d62389b9008ce72a85f8df1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Ломоносов 3
+https://cam.satnet-spb.ru/stream/5a67a7b4900850ad9da2584a.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Ломоносов 4
+https://cam.satnet-spb.ru/stream/5a67a7b4900850ad9da2584b.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Ломоносов 5
+https://cam.satnet-spb.ru/stream/5a67a7b2900850ad9da25848.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Львов UA 1
+http://sukhovolya-tserkva.org.ua/live-video/church.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Львов UA 2
+http://sukhovolya-tserkva.org.ua/live-video/church1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Люксембург
 http://live-edge.rtl.lu/cita/cita_a1/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Люксембург 2
@@ -2173,6 +2610,8 @@ http://hls.m-ten.ru:8080/hls/24/live.m3u8
 http://hls.m-ten.ru:8080/hls/18/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Междуреченск 16
 http://hls.m-ten.ru:8080/hls/23/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Междуреченск 2
+http://hls.m-ten.ru:8080/hls/40/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Междуреченск 3
 http://hls.m-ten.ru:8080/hls/17/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Междуреченск 4
@@ -2187,10 +2626,28 @@ http://hls.m-ten.ru:8080/hls/7/live.m3u8
 http://hls.m-ten.ru:8080/hls/9/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Междуреченск 9
 http://hls.m-ten.ru:8080/hls/10/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Миасс 1
+https://live.dolina.su/hls/sv-new-camera21.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Миасс 2
+https://live.dolina.su/hls/sv-new-camera2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Миасс 3
+https://live.dolina.su/hls/sv-new-camera20.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Миасс 4
+https://live.dolina.su/hls/sv-new-camera5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Миасс 5
+https://live.dolina.su/hls/sv-new-camera6.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Миасс 6
+https://live.dolina.su/hls/sv-new-camera19.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Миасс 7
+https://live.dolina.su/hls/sv-new-camera18.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Минусинск 1
 http://abkvideo1.orionnet.online/cam5042/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Минусинск 2
 http://abkvideo1.orionnet.online/cam1481/tracks-v1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Мирное - Мемориал
+http://195.49.206.244:9090/Memorial/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Мирное 1
+http://flu.ttk.mx:9090/SportMirnoe/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Мирное 2
 http://flu.ttk.mx:9090/SportMirnoe2/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Мирное 3
@@ -2207,6 +2664,8 @@ http://cameras.inetcom.ru/hls/camera12_13.m3u8
 http://57820f09e94a7.streamlock.net/live/D1-1.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Москва 11
 http://57820f09e94a7.streamlock.net/live/Vidnoe7.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Москва 12
+http://57820f09e94a7.streamlock.net/live/Vidnoe8.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Москва 13
 http://57820f09e94a7.streamlock.net/live/Vidnoe4.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Москва 14
@@ -2246,7 +2705,7 @@ http://553dc34944e34.streamlock.net:1935/ingrad/SilverPark2.stream/chunklist.m3u
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Москва 3
 http://57820f09e94a7.streamlock.net/live/Setun.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Москва 30
-http://553dc34944e34.streamlock.net:1935/ingrad/SilverPark5.stream/chunklist.m3u8
+http://57820f09e94a7.streamlock.net:1935/live/Symphony34.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Москва 31
 https://hlspull-muslim.cdnvideo.ru/muslim-rtsp/stream1/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Москва 32
@@ -2312,7 +2771,7 @@ http://91.202.44.216:8080/cam8/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Мурманск - Площадь Пять углов
 http://www.camera.mels.ru/stream12.flv
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Мурманск 1
-https://s2.moidom-stream.ru/s/public/0000089199.m3u8
+https://s2.moidom-stream.ru/s/public/0000088777.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Мурманск 10
 https://s2.moidom-stream.ru/s/public/0000091043.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Мурманск 11
@@ -2453,8 +2912,22 @@ http://cctv.tv-kom.ru/hls/mvs/7mv.m3u8
 http://cctv.tv-kom.ru/hls/mvs/10mv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Нелидово 9
 http://cctv.tv-kom.ru/hls/mvs/9mv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Нидерланды - Львы 1
+http://56d7ccce550bc.streamlock.net/rtplive/leeuwen_3.sdp/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Нидерланды - Львы 2
+http://56d7ccce550bc.streamlock.net/rtplive/leeuwen_2.sdp/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Нидерланды - Морские котики
 https://6162417352ffd.streamlock.net/live/ecomare.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Нидерланды - Окапи 1
+http://56d7ccce550bc.streamlock.net/rtplive/tapir_new.sdp/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Нидерланды - Окапи 2
+http://56d7ccce550bc.streamlock.net/rtplive/tapir_binnen.sdp/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Нидерланды - Океанариум
+http://56d7ccce550bc.streamlock.net/rtplive/oceanium_1.sdp/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Нидерланды - Слоны
+http://56d7ccce550bc.streamlock.net/rtplive/olifanten_buitencam2.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Нидерланды - Слоны 2
+http://56d7ccce550bc.streamlock.net/rtplive/olifanten_buitencam1.sdp/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Нидерланды - Схевенинген 1
 http://live.streamink.nl/live/sys1.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Нидерланды - Схевенинген 2
@@ -2485,8 +2958,16 @@ https://5d881567b7568.streamlock.net/live/Koolmees2.stream/playlist.m3u8
 https://5d881567b7568.streamlock.net/live/Pimpelmees2.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Нидерланды 16
 https://5b8d2cbe62ad6.streamlock.net/live/vlissingen4.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Нидерланды 17
+https://stream.inmoves.nl/rtplive/GRP_01.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Нидерланды 18
+https://stream.inmoves.nl/rtplive/GRP_02.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Нидерланды 19
+https://stream.inmoves.nl/rtplive/GKR_01.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Нидерланды 2
 https://595b9deb3d6ac.streamlock.net/rtplive/paulmartens101732.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Нидерланды 20
+https://stream.inmoves.nl/rtplive/GKR_02.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Нидерланды 21
 http://s1.worldcam.live:8081/egmondaanzee/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Нидерланды 22
@@ -2504,7 +2985,7 @@ https://5d881567b7568.streamlock.net/live/Dras.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Нидерланды 5
 https://584b389d712f9.streamlock.net/live/pindacam.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Нидерланды 6
-https://5d881567b7568.streamlock.net/live/Boerenzwaluw3.stream/chunklist.m3u8
+https://5d881567b7568.streamlock.net/live/Bosuil5Binnen.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Нидерланды 7
 http://streaming02.mapgear.eu/deventer_verkeer/hdunantlaan.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Нидерланды 8
@@ -2517,6 +2998,8 @@ https://nginx03.pride-net.ru/novvart8/index.m3u8
 https://nginx03.pride-net.ru/cam_60l8/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Нижневартовск 11
 https://nginx02.pride-net.ru/industr20_2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Нижневартовск 2
+https://nginx02.pride-net.ru/ln19/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Нижневартовск 3
 https://nginx03.pride-net.ru/Mira60i/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Нижневартовск 4
@@ -2550,7 +3033,7 @@ http://cam.ntks.ru/dnepr5/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Нижний Тагил 9
 http://cam.ntks.ru/school25/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Николаевка
-https://flu.ttk.mx/camnab_nikolaevka/tracks-v1/mono.m3u8
+http://flu.ttk.mx:9090/camnab_nikolaevka/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Новокузнецк 1
 https://ipcam.rdtc.ru/ipcam/ipcam_12/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Новокузнецк 10
@@ -2627,6 +3110,20 @@ http://lifecam.sigma-ktv.ru/Gor_pl/index.m3u8
 http://lifecam.sigma-ktv.ru/Sibirskaya/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Новый Уренгой - ул.Дружбы народов
 http://lifecam.sigma-ktv.ru/Administraciya/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Норильск 1
+https://norilsk.city.online/api/live/3_NORCOM.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Норильск 2
+https://norilsk.city.online/api/live/4_NORCOM.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Норильск 3
+https://norilsk.city.online/api/live/5_NORCOM.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Норильск 4
+https://norilsk.city.online/api/live/6_NORCOM.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Норильск 5
+https://norilsk.city.online/api/live/7_NORCOM.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Норильск 6
+https://norilsk.city.online/api/live/8_NORCOM.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Норильск 7
+https://norilsk.city.online/api/live/9_NORCOM.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",ОШ (KG)
 http://213.145.131.243/cam3/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Одесса - ЖК Мариинский
@@ -2677,10 +3174,6 @@ http://95.182.112.19:8100/hls/camera2.m3u8
 http://95.182.112.19:8100/hls/camera3.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Оленегорск 4
 http://95.182.112.19:8100/hls/camera4.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Ольхон
-https://tv.streams.baikal-telecom.net/Olkhon_cam2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Ольхон 2
-https://tv.streams.baikal-telecom.net/Olkhon_cam1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Омск 1
 https://hls-msk06.timetechnology.ru:8080/1560/hls/npme99cjzfq1yi1o/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Омутнинск
@@ -2726,7 +3219,7 @@ http://video.infodor.pro:8080/N18/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Орск 1
 http://kljuch.camsh.orsk.ru/hls/kljuch.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Орск 10
-http://severnyj2.camsh.orsk.ru/hls/severnyj2.m3u8
+http://dobrovolskogo.camsh.orsk.ru/hls/dobrovolskogo.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Орск 11
 http://avangard.camsh.orsk.ru/hls/avangard.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Орск 12
@@ -2740,19 +3233,21 @@ http://shevchenko.camsh.orsk.ru/hls/shevchenko.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Орск 16
 http://ctc.camsh.orsk.ru/hls/ctc.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Орск 17
-http://severnyj3.camsh.orsk.ru/hls/severnyj3.m3u8
+http://vizazh2.camsh.orsk.ru/hls/vizazh2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Орск 18
 http://dvorets-pioneerov.camsh.orsk.ru/hls/dvorets-pionerov.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Орск 19
 http://komsomolskaya.camsh.orsk.ru/hls/komsomolskaya.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Орск 2
-http://severnyj.camsh.orsk.ru/hls/severnyj.m3u8
+http://milyj-dom.camsh.orsk.ru/hls/milyj-dom.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Орск 20
-http://severnyj4.camsh.orsk.ru/hls/severnyj4.m3u8
+http://lenkom.camsh.orsk.ru/hls/lenkom.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Орск 3
 http://vizazh.camsh.orsk.ru/hls/vizazh.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Орск 4
 http://lenkom.camsh.orsk.ru/hls/lenkom.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Орск 5
+http://rif.camsh.orsk.ru/hls/rif.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Орск 6
 http://kramatorskaya.camsh.orsk.ru/hls/kramatorskaya.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Орск 7
@@ -2773,6 +3268,12 @@ http://cctv2.vrn.ru:8080/hls/10034927/315bc249908e1b08ebbc/playlist.m3u8
 http://cctv2.vrn.ru:8080/hls/10034934/e9032f1162b88a1c8aa2/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Петергоф - Большой каскад
 https://hls-spb03.timetechnology.ru:8080/1431/hls/33qjdyx5l645e6gx/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Петергоф 1
+https://cam.satnet-spb.ru/stream/5a67a7b7900850ad9da2584c.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Петергоф 2
+https://cam.satnet-spb.ru/stream/5a7970a890088446e79f4eeb.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Петергоф 3
+https://cam.satnet-spb.ru/stream/5a67a7b1900850ad9da25846.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Петрозаводск - Бульвар Интернационалистов
 http://s2.moidom.karelia.pro/s/public/0000002045.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Петрозаводск - Варкауса наб. - Мурманская ул.
@@ -2832,7 +3333,7 @@ http://s1.moidom.karelia.pro/s/public/0000007281.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Петрозаводск 14
 http://s2.moidom-stream.ru/s/public/0000089451.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Петрозаводск 15
-http://s2.moidom-stream.ru/s/public/0000088773.m3u8
+http://s1.moidom-stream.ru/s/public/0000088773.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Петрозаводск 16
 http://s2.moidom.karelia.pro/s/public/0000000683.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Петрозаводск 17
@@ -2891,10 +3392,28 @@ https://cdn-3-go.toya.net.pl/kamery/lodz_lublinek3.m3u8
 https://cdn-3-go.toya.net.pl/kamery/lodz_lublinek2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Польша - Аэропорт 3
 https://cdn-3-go.toya.net.pl/kamery/lodz_lublinek1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Польша - Аэропорт 4
+https://cdn2.bieszczady.live/hls-live/bezmiechowa1/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Польша - Аэропорт 5
 https://videocdn.km-net.pl/Lososina_Dolna/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Польша - Аэропорт 6
 https://tvbrzesko.pl/strzelce-ladowisko/tracks-v1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Польша - Гданьск
+https://kamera.task.gda.pl/rtplive/k002.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Польша - Гданьск 2
+https://kamera.task.gda.pl/rtplive/k109.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Польша - Гдыня
+https://kamera.task.gda.pl/rtplive/k015.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Польша - Гдыня 2
+https://kamera.task.gda.pl/rtplive/k016.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Польша - Микошево
+https://kamera.task.gda.pl/rtplive/mikoszewo.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Польша - Сопот
+https://kamera.task.gda.pl/rtplive/molo.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Польша - Хель 1
+https://kamera.task.gda.pl/rtplive/hel1.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Польша - Хель 2
+https://kamera.task.gda.pl/rtplive/hel3.sdp/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Полярные Зори 1
 http://s2.moidom.karelia.pro/s/public/0000007153.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Полярные Зори 2
@@ -2903,6 +3422,54 @@ http://s2.moidom.karelia.pro/s/public/0000089089.m3u8
 http://s2.moidom.karelia.pro/s/public/0000088767.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Приморско-Ахтарск
 http://ahtarirtv.ru:8081/atv/2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Псков - Жилой комплекс Видный
+http://citycams.pskovline.ru:8080/cam12/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Псков - Золотая набережная
+http://citycams.pskovline.ru:8080/cam13/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Псков - Летний сад
+http://citycams.pskovline.ru:8080/cam14/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Псков - Октябрьская площадь
+http://citycams.pskovline.ru:8080/cam1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Псков - Ольгинский мост
+http://citycams.pskovline.ru:8080/cam2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Псков - Перекресток Инженерной и Индустриальной
+http://citycams.pskovline.ru:8080/cam16/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Псков - Перекресток Рижского и М.Горького
+http://citycams.pskovline.ru:8080/cam10/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Псков - Перекресток Рижского и Юбиленой
+http://citycams.pskovline.ru:8080/cam6/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Псков - Перекресток Чудской и Поземского
+http://citycams.pskovline.ru:8080/cam19/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Псков - Перекресток ул.Октябрьского и Вокзальной
+http://citycams.pskovline.ru:8080/cam9/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Псков - Перекресток ул.Труда и ул.Звездной
+http://citycams.pskovline.ru:8080/cam8/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Псков - Площадь Героев-Десантников
+http://citycams.pskovline.ru:8080/cam7/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Псков - Площадь Победы
+http://citycams.pskovline.ru:8080/cam4/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Псков - Привокзальная площадь
+http://citycams.pskovline.ru:8080/cam5/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Псков - Рижский проспект
+http://citycams.pskovline.ru:8080/cam15/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Псков 1
+http://citycams.pskovline.ru:8080/cam11/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Псков 2
+http://citycams.pskovline.ru:8080/cam18/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Псков 3
+http://citycams.pskovline.ru:8080/cam20/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Псков 4
+http://citycams.pskovline.ru:8080/cam22/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Псков 5
+http://citycams.pskovline.ru:8080/cam26/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Псков 6
+http://citycams.pskovline.ru:8080/cam23/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Псков 7
+http://citycams.pskovline.ru:8080/cam24/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Псков 8
+http://citycams.pskovline.ru:8080/cam21/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Псков 9
+http://citycams.pskovline.ru:8080/cam25/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Пушкино
 http://cam.indikom.ru/15/hls/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Пушкино 2
@@ -2951,6 +3518,16 @@ http://zssd-baboon.hls.camzonecdn.com/CamzoneStreams/zssd-baboon/Playlist.m3u8
 http://zssd-hippo.hls.camzonecdn.com/CamzoneStreams/zssd-hippo/Playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",США - Белый медведь
 http://polarplunge.hls.camzonecdn.com/CamzoneStreams/polarplunge/Playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",США - Гепард
+https://nzp-ms06.si.edu/live_edge_cheetah_01/cheetah_y01_01_1080_all.smil/chunklist_b6000000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",США - Гепард 2
+https://nzp-ms06.si.edu/live_edge_cheetah_02/cheetah_y01_02_1080_all.smil/chunklist_b6000000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",США - Дикий Пес
+https://edge01.london.nginx.hdontap.com/hosb6/african-wild-dogs_ptz_rpz.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",США - Жираф
+http://zoocams.elpasozoo.org/ZOOGF.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",США - Жираф 2
+http://zoocams.elpasozoo.org/ZooGH.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",США - Жираф 3
 http://edge01.london.nginx.hdontap.com/hosb1/giraffe_rpz.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",США - Землекоп 1
@@ -2967,6 +3544,8 @@ http://nzp-ms06.si.edu/live_edge_lion/smil:lion01_all.smil/chunklist_b5500000_sl
 http://edge01.london.nginx.hdontap.com/hosb1/lion_rpz.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",США - Лемур
 http://edge01.london.nginx.hdontap.com/hosb1/lemur_rpz.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",США - Морской лев
+http://zoocams.elpasozoo.org/ZooSLO.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",США - Обезьяна
 http://ape.hls.camzonecdn.com/CamzoneStreams/ape/Playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",США - Панда
@@ -2977,8 +3556,12 @@ http://nzp-ms06.si.edu/live_edge_panda/panda03/chunklist.m3u8
 http://zssd-panda.hls.camzonecdn.com/CamzoneStreams/zssd-panda/Playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",США - Пингвины
 http://zssd-penguin.hls.camzonecdn.com/CamzoneStreams/zssd-penguin/Playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",США - Пятнистые генеты
+http://cha-fi1-prd-vid-str-002.epbfi.com:1935/live/sloth.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",США - Сафари
 http://zssd-kijami.hls.camzonecdn.com/CamzoneStreams/zssd-kijami/Playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",США - Сиаманг
+http://zoocams.elpasozoo.org/ZooSP.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",США - Слон
 http://elephants.hls.camzonecdn.com/CamzoneStreams/elephants/Playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",США - Слон 2
@@ -2987,16 +3570,28 @@ http://nzp-ms06.si.edu/live_edge_elephant/elephant01/chunklist.m3u8
 http://edge01.london.nginx.hdontap.com/hosb1/elephant-mudpit_rpz.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",США - Слон 4
 http://edge01.london.nginx.hdontap.com/hosb5/elephant-exhibit_rpz.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",США - Снежный леопард
+http://cha-fi1-prd-vid-str-002.epbfi.com:1935/live/snowleopard.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",США - Сова
 http://zssd-owlburrow.hls.camzonecdn.com/CamzoneStreams/zssd-owlburrow/Playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",США - Сова 2
 http://zssd-owlaviary.hls.camzonecdn.com/CamzoneStreams/zssd-owlaviary/Playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",США - Совка
 https://live.hdontap.com/hls/hosbdvr5/ty-mayo_eastern-screech-owl.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",США - Сокол
+https://edge01.london.nginx.hdontap.com/hosb1/f44-fisheye_utica.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",США - Сурикат
+http://zoocams.elpasozoo.org/ZooM.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",США - Тамарины
+http://cha-fi1-prd-vid-str-002.epbfi.com:1935/live/tamarin.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",США - Тигр
 http://zssd-tiger.hls.camzonecdn.com/CamzoneStreams/zssd-tiger/Playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",США - Утконос
+https://zssd-platypus.hls.camzonecdn.com/CamzoneStreams/zssd-platypus/Playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",США - Фламинго
 http://edge01.london.nginx.hdontap.com/hosb1/flamingo_rpz.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Самара
+https://cdn.mediagolod.online/hls/zhkolimp1/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Санкт-Петербург 1
 http://195.218.230.43:8081/nimble_live/aviator06/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Санкт-Петербург 10
@@ -3012,13 +3607,15 @@ http://crm.eid.spb.ru/streams2/kudrovosadik/s.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Санкт-Петербург 15
 http://crm.eid.spb.ru/streams2/kudrovo4/s.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Санкт-Петербург 16
-https://camera.glorax.com/live/Golden_City_8_kvartal.m3u8
+https://camera.glorax.com/live/GloraX_Aura_Belorusskaya_3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Санкт-Петербург 17
+https://stream.krugloff.com/well/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Санкт-Петербург 18
 https://stream.krugloff.com/neworl1_3_2-2/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Санкт-Петербург 19
 http://crm.eid.spb.ru/streams2/kudrovo2/s.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Санкт-Петербург 2
-http://crm.eid.spb.ru/streams2/kudrovo1/s.m3u8
+https://stream.krugloff.com/ilona2/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Санкт-Петербург 20
 http://195.218.230.43:8081/nimble_live/aviator03/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Санкт-Петербург 21
@@ -3038,9 +3635,9 @@ http://195.218.230.43:8081/nimble_live/urbanist01/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Санкт-Петербург 4
 http://erlyvideo.v6.spb.ru/Street_V6_1/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Санкт-Петербург 5
-https://camera.glorax.com/live/GloraX_Aura_Kurskaya.m3u8
+https://camera.glorax.com/live/Glorax_City_Baltiyskaya.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Санкт-Петербург 6
-https://camera.glorax.com/live/GloraX_Aura_Vasileostrovsky.m3u8
+https://camera.glorax.com/live/GloraX_City_Zanevsky_DOY.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Санкт-Петербург 7
 https://camera.glorax.com/live/NTVO-3.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Санкт-Петербург 8
@@ -3100,11 +3697,15 @@ http://cc-stream-02.uilim.ru/cam-3-17-3/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Саянск 9
 http://cc-stream-02.uilim.ru/cam-2b-8-1/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Севастополь 1
-https://ott-oko.sevstar.net/cam_nab_kornilova/tracks-v1a1/mono.m3u8
+https://video.sevtelecom.ru/uchkuevka.3.boks.2-70535bedb7/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Севастополь 10
 http://185.71.81.253/ploshad.zaharova.2-9509405e30/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Севастополь 11
 https://video.sevtelecom.ru/naberezhnaya.klokachyova.kam.8-48e8e7a7a9/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Севастополь 12
+https://ott-oko.sevstar.net/cam_oko_feduhiny_vysoty/tracks-v1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Севастополь 13
+https://ott-oko.sevstar.net/cam_dolina_belbek/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Севастополь 2
 http://video.sevtelecom.ru:8080/mramornyj.3-941e1c3b49/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Севастополь 3
@@ -3151,20 +3752,44 @@ http://s1.moidom-stream.ru/s/public/0000007157.m3u8
 http://s1.moidom.karelia.pro/s/public/0000007155.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Сегежа 6
 http://s1.moidom.karelia.pro/s/public/0000007119.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Семей (KZ)
+http://cloud.nic.kz/live/cam_place.webm
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Сербия 1
 https://5a4e346f7b586.streamlock.net:1935/uzivo/palic.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Сербия 10
-https://stream5.infokop.net:1443/live_cameras/camera_3/playlist.m3u8
+https://stream5.infokop.net:1443/live_cameras/camera_10/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Сербия 11
 https://stream5.infokop.net:1443/live_cameras/camera_6/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Сербия 12
+https://stream5.infokop.net:1443/live_cameras/skituljko/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Сербия 13
+https://stream5.infokop.net:1443/live_cameras/srebrnac/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Сербия 14
+https://stream5.infokop.net:1443/live_cameras/galasport/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Сербия 15
+https://stream5.infokop.net:1443/live_cameras/husky/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Сербия 16
+https://stream5.infokop.net:1443/live_cameras/cardaci/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Сербия 17
+https://stream5.infokop.net:1443/live_cameras/jat2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Сербия 18
+https://kamere.amss.org.rs/gradina2/gradina2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Сербия 19
+https://kamere.amss.org.rs/gradina1/gradina1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Сербия 2
+https://stream5.infokop.net:1443/live_cameras/jat/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Сербия 20
+https://kamere.amss.org.rs/horgos2/horgos2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Сербия 3
-https://5a4e346f7b586.streamlock.net:1935/uzivo/jadran-korzo.stream/playlist.m3u8
+https://stream5.infokop.net:1443/live_cameras/green/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Сербия 4
 https://kamere.amss.org.rs/batrovci1/batrovci1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Сербия 5
 https://kamere.amss.org.rs/presevo1/presevo1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Сербия 6
 https://kamere.amss.org.rs/batrovci2/batrovci2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Сербия 7
+https://stream5.infokop.net:1443/live_cameras/grand/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Сербия 8
 https://stream5.infokop.net:1443/live_cameras/camera_1/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Сербия 9
@@ -3196,11 +3821,37 @@ http://195.88.112.26:555/SGx78OT0?container=mjpeg&stream=main
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Симферополь - Остановка 7
 http://195.88.112.26:555/xsZLEKlO?container=mjpeg&stream=main
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Симферополь - Остановка 8
-http://195.88.112.26:555/PPkRG44m?container=mjpeg&stream=main
+http://195.88.112.26:555/KHDGhBtn?container=mjpeg&stream=main
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Симферополь - Остановка 9
-http://195.88.112.26:555/Ecryvake?container=mjpeg&stream=main
+http://195.88.112.26:555/L17NbaQD?container=mjpeg&stream=main
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Симферополь - Перевальное
+https://live.ardinvest.net/perevalnoe.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Симферополь - Площадь
 http://195.54.43.96:555/o70ut108?container=mjpeg&stream=main
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Симферополь - Село
+http://195.88.112.26:555/HMZU4Iqx?container=mjpeg&stream=main
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Симферополь - Смотровая Жукова
+https://live.ardinvest.net/2_zhukova_2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Симферополь - Смотровая Жукова 2
+https://live.ardinvest.net/zhukova.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Симферополь - Соборная мечеть
+http://flu.ttk.mx:9090/Mar'ino_TTK/tracks-v1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Симферополь - Советская
+https://live.ardinvest.net/sovetskaya.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Симферополь - Стадион
+http://195.54.43.96:555/F3vYg69X?container=mjpeg&stream=main
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Симферополь 1
+http://iptv.media-ix.com:11375/cam01/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Симферополь 2
+http://iptv.media-ix.com:11375/lz02/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Симферополь 3
+http://iptv.media-ix.com:11375/lz01/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Симферополь 4
+http://80.245.112.23/5/hls/live5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Симферополь 5
+http://80.245.112.23/2/hls/live2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Симферополь 6
+http://80.245.112.23/3/hls/live3.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Словакия 1
 http://stream.kukaj.se/stream/7/video.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Словакия 10
@@ -3251,6 +3902,14 @@ http://stream.profi-net.sk:1935/tmr/STREAM30.stream/playlist.m3u8
 http://stream.profi-net.sk:1935/tmr//STREAM29.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Словакия 9
 http://stream.kukaj.se/stream/8/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Словения - Зебры
+https://cdn-005.whatsupcams.com/hls/si_zoolj11.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Словения - Львы
+https://cdn-005.whatsupcams.com/hls/si_ljzoo10.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Словения - Птицы
+https://cdn-005.whatsupcams.com/hls/si_ljzoo5.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Словения - Птицы 2
+https://cdn-006.whatsupcams.com/hls/si_ljzoo8.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Сортавала 1
 http://s1.moidom.karelia.pro/s/public/0000008057.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Сортавала 2
@@ -3476,19 +4135,19 @@ http://stream.telko.ru/Tuhach_28_9_cam2/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Старица 1
 https://s131-obzor.tvhost.ru:21200/hls/2252626/d678a23369514d400fb2/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Старица 10
-http://176.120.189.181:8081/play/MOST_ponopam_00/playlist.m3u8
+http://176.120.185.153:8083/play/127(00)/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Старица 11
 http://176.120.185.133:8081/play/Monastir_00/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Старица 12
-http://176.120.189.181:8081/play/zaxar_00/chunks.m3u8
+http://176.120.189.146:8081/play/Administrazia_00/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Старица 13
-http://176.120.189.181:8081/play/zaxar2_00/chunks.m3u8
+http://176.120.189.146:8081/play/Gidropost_2_00/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Старица 14
-http://176.120.189.181:8081/play/Proxorov_00/chunks.m3u8
+http://176.120.189.146:8081/play/Gidropost_1_00/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Старица 15
-http://176.120.189.181:8081/play/METIZI_2_00/playlist.m3u8
+http://176.120.189.146:8081/play/Obelisk1_00/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Старица 2
-http://176.120.189.181:8081/play/PLIAJ_00/playlist.m3u8
+http://176.120.189.146:8081/play/schkola_00/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Старица 3
 http://176.120.185.153:8081/play/Naberegnaya_00/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Старица 4
@@ -3505,14 +4164,24 @@ http://176.120.189.146:8081/play/zaxar_na_gorod_00/playlist.m3u8
 http://176.120.189.146:8081/play/zaxar_na_resyrs_00/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Староконстантинов
 https://sk.vlasenko.net/hls/starcam.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Стрежевой 1
+http://strezhi.ru:1935/live/cam1.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Стрежевой 2
+http://strezhi.ru:1935/live/d305.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Стрежевой 3
+http://strezhi.ru:1935/live/cam4.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Стрый UA 1
 http://193.53.83.168/hls4/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Стрый UA 2
 https://stream-uspinnia.pp.ua/hls2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Стрый UA 3
+http://78.154.174.169:82/hls17/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Стрый UA 4
+http://78.154.174.169:82/hls22/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Судак 1
-https://flu.ttk.mx/nabsudak2/tracks-v1/mono.m3u8
+http://flu.ttk.mx:9090/nabsudak2/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Судак 2
-https://flu.ttk.mx/nabsudak/tracks-v1/mono.m3u8
+http://flu.ttk.mx:9090/nabsudak/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Суоярви 1
 http://s1.moidom.karelia.pro/s/public/0000008043.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Суоярви 2
@@ -3547,6 +4216,24 @@ http://flussonic.tele-plus.ru/Engelsa_7_4pod/index.m3u8?token=dvor86
 http://flussonic.tele-plus.ru/mosaic/index.m3u8?token=dvor86
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Сургут 9
 http://flussonic.tele-plus.ru/Ugorskaya_42/index.m3u8?token=dvor86
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Таруса 1
+https://trs3.cam.camstream.ru/hls/live.stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Таруса 2
+https://trs2.cam.camstream.ru/hls/live.stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Таруса 3
+https://trs1.cam.camstream.ru/hls/live.stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Тверь - Компьютерия 1
+https://media.computeria.ru/html5/cam1.stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Тверь - Компьютерия 2
+https://media.computeria.ru/html5/cam2.stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Тверь - Компьютерия 3
+https://media.computeria.ru/html5/cam5.stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Тверь - Компьютерия 4
+https://media.computeria.ru/html5/cam6.stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Тверь - Компьютерия 5
+https://media.computeria.ru/html5/cam9.stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Тверь - Компьютерия 6
+https://media.computeria.ru/html5/cam3.stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Тверь 1
 https://s131-obzor.tvhost.ru:21200/hls/2252633/2bb727dd63764062ed99/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Тверь 2
@@ -3575,6 +4262,12 @@ http://cdn08.vtomske.ru/hls/stream6.m3u8
 http://cdn08.vtomske.ru/hls/stream8.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Томск 5
 http://cdn08.vtomske.ru/hls/stream9.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Томск 6
+http://admin.tomsk.ru/cam/cam1/cam1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Томск 7
+http://admin.tomsk.ru/cam/cam3/cam3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Томск 8
+http://admin.tomsk.ru/cam/cam4/cam4.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Трехгорный 1
 http://89.237.41.2/cams/live/lenina1106/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Трехгорный 10
@@ -3595,52 +4288,60 @@ http://89.237.41.2/cams/live/50letpobedy2232/index.m3u8
 http://89.237.41.2/cams/live/50letpobedy162/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Трехгорный 9
 http://89.237.41.2/cams/live/50letpobedy123/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Тула
+https://lenin-live.sunlink.ru/live/lenin.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Тула 2
+https://ermitage-live.sunlink.ru/ermitage/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Тулун 1
-http://tv.t-tk.ru/cam_vokzal/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Тулун 10
-http://tv.t-tk.ru/cam_park_mira_ploshad/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Тулун 11
-http://tv.t-tk.ru/park_gidro/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Тулун 12
-http://tv.t-tk.ru/prometey/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Тулун 13
-http://tv.t-tk.ru/atrium2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Тулун 14
-http://tv.t-tk.ru/1412/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Тулун 15
-http://tv.t-tk.ru/lenina_2/index.m3u8
+https://tv.t-tk.ru/ostanovka_lenina/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Тулун 2
-http://tv.t-tk.ru/cam_fontan_lenina/index.m3u8
+https://tv.t-tk.ru/1425/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Тулун 3
-http://tv.t-tk.ru/lenina_128/index.m3u8
+https://tv.t-tk.ru/1426/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Тулун 4
-http://tv.t-tk.ru/cam_mn_yasla/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Тулун 5
-http://tv.t-tk.ru/1413/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Тулун 6
-http://tv.t-tk.ru/1409/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Тулун 7
-http://tv.t-tk.ru/cam_gidroliznij_peshehod/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Тулун 8
-http://tv.t-tk.ru/cam_gimnaziya_stek/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Тулун 9
-http://tv.t-tk.ru/cam_bratskoe_kolco/index.m3u8
+https://tv.t-tk.ru/cam_ul_lenina/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Турция 1
 http://konya.sehirkameralari.com/live/52f8ad56da5f9/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Турция 10
+https://eyup3.taliavision.com/livestream/hls/ozgecan2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Турция 11
+https://server.arvas.com.tr/dortyol.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Турция 12
 http://212.175.207.19:1935/canliyayin/dbbBelediye1.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Турция 13
+https://eyup3.taliavision.com/livestream/hls/ozgecan1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Турция 14
+https://eyup2.taliavision.com/livestream/hls/yaglidere2/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Турция 15
+https://eyup2.taliavision.com/livestream/hls/yaglidere1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Турция 16
+http://95.0.0.94:1935/live/aksemseddincami.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Турция 17
+http://konya.sehirkameralari.com/live/56ab52e122769/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Турция 18
+http://konya.sehirkameralari.com/live/594b8ece1bb48/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Турция 19
+http://konya.sehirkameralari.com/live/52f8ab33dccf7/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Турция 2
 http://212.156.98.150:1936/Kamera/Stadyum.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Турция 20
+http://cdn-ipkamera.yayin.com.tr/marmarisbel/bozburun/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Турция 3
 http://212.156.98.150:1936/Kamera/Meydan.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Турция 4
+https://eyup.taliavision.com/livestream/hls/hzhalit3/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Турция 5
 http://ibb-media4.ibb.gov.tr:1935/live/114.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Турция 6
+https://eyup4.taliavision.com/livestream/hls/aksemsettin1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Турция 7
 http://ibb-media4.ibb.gov.tr:1935/live/66.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Турция 8
 http://212.175.207.19:1935/canliyayin/dbbYayla.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Турция 9
 http://212.175.207.19:1935/canliyayin/adaletparkcam.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Тюмень
+http://217.116.59.24:8080/test_1/index.m3u8?token=null
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Ужур
 http://91.211.56.203:8081/sibmf/uz117/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Ужур 2
@@ -3695,6 +4396,8 @@ http://dvr.usinsknet.ru:8081/hls/716/eb2c2d5b05e93ba125ef/playlist.m3u8
 http://xn--b1apyo.xn--p1ai/videoplayer/hls-1/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Усолье-Сибирское 10
 http://xn--b1apyo.xn--p1ai/videoplayer/hls-21/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Усолье-Сибирское 11
+http://xn--b1apyo.xn--p1ai/videoplayer/hls-19/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Усолье-Сибирское 2
 http://xn--b1apyo.xn--p1ai/videoplayer/hls-2/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Усолье-Сибирское 3
@@ -3705,6 +4408,8 @@ http://xn--b1apyo.xn--p1ai/videoplayer/hls-4/live.m3u8
 http://xn--b1apyo.xn--p1ai/videoplayer/hls-6/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Усолье-Сибирское 6
 http://xn--b1apyo.xn--p1ai/videoplayer/hls-7/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Усолье-Сибирское 7
+http://xn--b1apyo.xn--p1ai/videoplayer/hls-18/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Усолье-Сибирское 8
 http://xn--b1apyo.xn--p1ai/videoplayer/hls-12/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Усолье-Сибирское 9
@@ -3747,6 +4452,8 @@ http://hls3.bashtel.ru/hls/cam210.m3u8
 http://hls3.bashtel.ru/hls/cam202.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Учалы 3
 http://hls3.bashtel.ru/hls/cam206.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Учалы 4
+http://hls3.bashtel.ru/hls/cam203.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Учалы 5
 http://hls3.bashtel.ru/hls/cam209.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Учалы 6
@@ -3789,6 +4496,8 @@ http://webcam.feonet.net/adv_42370/index.m3u8
 http://webcam.feonet.net/adv_92333/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Франция 1
 https://live.viewsurf.com/liveedge/sanary01_5_3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Франция 10
+https://live.viewsurf.com/liveedge/fayolle01_1_1/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Франция 11
 https://live.viewsurf.com/liveedge/arras01_1_1.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Франция 12
@@ -3803,6 +4512,8 @@ https://live.viewsurf.com/liveedge/pariscam3_1_1.stream/chunklist.m3u8
 https://live.viewsurf.com/liveedge/pariscam4_1_1.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Франция 6
 https://live.viewsurf.com/liveedge/pariscam5_1_1.stream/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Франция 7
+https://sarralbe.live-kd.com/live/sarralbe/sarralbe.stream_aac/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Франция 8
 http://5ef477949826a.streamlock.net:1935/live/portbastia2.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Франция 9
@@ -3810,7 +4521,7 @@ http://5ef477949826a.streamlock.net:1935/live/portovecchio.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Хабаровск 1
 https://camcity.redcom.ru/CamPrudLogoRadio/tracks-v1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Хабаровск 10
-https://camcity.redcom.ru/CamNorthParkLogoRadio/tracks-v1/index.m3u8
+https://camcity.redcom.ru/CamVahova10b_1LogoRadio/tracks-v1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Хабаровск 11
 https://camcity.redcom.ru/CamRadostiLogoRadio/tracks-v1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Хабаровск 12
@@ -3843,6 +4554,12 @@ https://camcity.redcom.ru/CamKazGor13aLogoRadio/tracks-v1/index.m3u8
 https://camcity.redcom.ru/CamPlSlavyLogoRadio/tracks-v1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Херсон 1
 http://pravoslav.tv:90/hlsplay/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Хорватия 1
+https://cdn-002.whatsupcams.com/hls/hr_zgzoo02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Хорватия 2
+https://cdn-006.whatsupcams.com/hls/hr_svetvincenat01.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Хорватия 3
+https://cdn-004.whatsupcams.com/hls/hr_senj03.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Челябинск 1
 http://cams.is74.ru/live/sub/cam1013.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Челябинск 10
@@ -3925,6 +4642,8 @@ http://212.111.1.7:1937/vlmcam03/vlmcam03.stream/playlist.m3u8
 http://212.111.1.7:1937/vlmcam04/vlmcam04.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Чехия - Валашске-Мезиржичи 5
 http://212.111.1.7:1937/vlmcam05/vlmcam05.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Чехия - Дикие кони
+http://live.idnes.cz/slow/milovice/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Чехия - Ж/д вокзал Вршовице
 http://live.idnes.cz/slow/vrsovice/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Чехия - Ж/д вокзал Кутна-гора
@@ -3939,6 +4658,10 @@ http://live.idnes.cz/slow/kralovstvizeleznic/playlist.m3u8
 http://live.idnes.cz/slow/amc/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Чехия - Пчелы
 https://live.idnes.cz/slow/vcely1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Чехия - Пчелы 2
+https://live.idnes.cz/slow/vcely3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Чехия - Пчелы 3
+https://live.idnes.cz/slow/vcely2/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",ШКОЛА 1
 http://193.106.94.142:8080/shkola2-1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",ШКОЛА 10
@@ -3971,6 +4694,20 @@ http://91.211.56.203:8081/sibmf/sharipovo/chunks.m3u8
 http://91.211.56.203:8081/sibmf/shar231/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Шарыпово 3
 http://cam.sibmf.ru:8080/hls/194086/23f6207a7d74eaa777ab/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Шарья 1
+https://live2.sharya.online/cam3/hls/live.stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Шарья 2
+https://live2.sharya.online/cam26/hls/live.stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Шарья 3
+https://live2.sharya.online/cam10/hls/live.stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Шарья 4
+https://live2.sharya.online/cam17/hls/live.stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Шарья 5
+https://live2.sharya.online/cam25/hls/live.stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Шарья 6
+https://live2.sharya.online/cam7/hls/live.stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Шарья 7
+https://live2.sharya.online/cam13/hls/live.stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Шахтинск 1
 http://45.13.18.225:8080/hls/41645/739afa6a30317e043b0d/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Шахтинск 2
@@ -3979,7 +4716,7 @@ http://45.13.18.225:8080/hls/41571/cb185e076efb16645f3b/playlist.m3u8
 http://45.13.18.225:8080/hls/41567/83b147da59f31400ebbf/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Швейцария
 http://tierpark1.r.worldssl.net/NTPG/NTPG.CAM2.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Швейцария 10
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Швейцария 2
 https://stream.vedge.infomaniak.com/livecast/webcam07luganoch.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Швейцария 3
 https://stream.vedge.infomaniak.com/livecast/webcam06luganoch.stream/playlist.m3u8
@@ -4009,8 +4746,6 @@ http://stream02.vikingsecurity.ee:1935/tlnzoo3/cam3338/playlist.m3u8
 http://stream02.vikingsecurity.ee:1935/tlnzoo2/cam2937/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Эстония 14
 http://stream02.vikingsecurity.ee:1935/tlnzoo2/cam1618/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Эстония 15 (4K)
-http://83.166.53.184:8080/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Эстония 2
 http://stream02.vikingsecurity.ee:1935/tlnzoo3/cam4880/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Эстония 3
@@ -4027,6 +4762,8 @@ http://stream02.vikingsecurity.ee:1935/tlnzoo3/cam1976/playlist.m3u8
 http://stream02.vikingsecurity.ee:1935/tlnzoo3/cam1968/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Эстония 9
 http://stream02.vikingsecurity.ee:1935/tlnzoo3/cam4378/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Югорск
+http://193.238.132.197:80/732636f3-8aef-4a41-a0d7-37d4ac627aca/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Ялта 1
 http://195.49.206.244:9090/yalta/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Ялта 2
@@ -4042,7 +4779,7 @@ https://cam.a-com.tv:18080/hls/1171/d7924b04af1a69471529/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Ялуторовск 2
 https://cam.a-com.tv:18080/hls/1173/3235919fb07149fe4b0a/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Ялуторовск 3
-https://cam.a-com.tv:18080/hls/1207/b36af564a692eb929c73/playlist.m3u8
+https://cam.a-com.tv:18080/hls/190/0205808d6a97068359f6/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Ялуторовск 4
 https://cam.a-com.tv:18080/hls/2867/ecc9181604c1f6644aee/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Ялуторовск 5
@@ -4067,5 +4804,7 @@ http://hls3.bashtel.ru/hls/cam109.m3u8
 http://hls3.bashtel.ru/hls/cam116.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Наша группа в ВК (https://vk.com/clubslynet)",Янаул 6
 http://hls3.bashtel.ru/hls/cam118.m3u8
+
+
 
 
