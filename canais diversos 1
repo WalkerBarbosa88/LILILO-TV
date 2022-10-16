@@ -140,7 +140,6 @@ https://d1igp1kv49nlwd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1,[COLOR=white][B]THE OLD HOUSE MAKERS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d2j3i48a0fc7gv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qq20snrqma51q-prod/amgthisoldhousemakers/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1257yH7.png" group-title="USA",[COLOR=white][B]LIVELY PLACE[/B][/COLOR][COLOR=white][/COLOR]
 https://aenetworks-ae-1.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -214,7 +213,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=858
 https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/c.m3u8
 #EXTINF:-1,[COLOR=white][B]CHIVE TV[/B][/COLOR][COLOR=white][/COLOR]
 https://dqgmxyaqqrria.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-ams/samsungtvplus_us_chivetv_001.m3u8?ads.caid=ChiveTV&ads.csid=samsungtvplus_us_chivetv_ssai&ads.os=Tizen&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-7&ads._fw_content_genre=entertainment&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=1095&ads.xumo_contentName=Atmosphere&ads.xumo_providerId=1095&ads.xumo_providerName=Atmosphere&ads.xumo_channelId=9999523&ads.xumo_imdb_genre=Drama&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",[COLOR=white][B]THE PET COLLECTIVE[/B][/COLOR][COLOR=white][/COLOR]
+https://the-pet-collective-international-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",[COLOR=white][B]THE PET COLLECTIVE[/B][/COLOR][COLOR=white][/COLOR]
+https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  PROGRAMAS DE TV 24 HORAS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -237,7 +239,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254ac8f30665a00077ec1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d815eb889bca2ce7b746fdd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d815eb889bca2ce7b746fdd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=142&terminate=false&userId=
 #EXTINF:-1,[COLOR=white][B]PLUTO TV - CSI[/B][/COLOR][COLOR=white][/COLOR]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5efbd29e4aa26700076c0d06&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=355&terminate=false&userId=
-
+#EXTINF:-1,[COLOR=white][B]THE LOVE BOAT[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7794a788d29000079d2f07/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  JOGOS E GAMES STREAMING LIVE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -552,6 +555,26 @@ https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/srak-wx8r/playlist.m3
 #EXTINF:-1,[COLOR=white][B]CGTN USA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://api.new.livestream.com/accounts/7082210/events/9331199/live.m3u8
 
+
+###########################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  NEGÓCIOS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+
+#EXTINF:-1,[COLOR=white][B]30A INVESTEMENT PITCH HD[/B][/COLOR][COLOR=white][/COLOR]
+https://30a-tv.com/feeds/xodglobal/30atv.m3u8
+#EXTINF:-1,[COLOR=white][B]BLOOMBERG TV EUROPE HD[/B][/COLOR][COLOR=white][/COLOR]
+https://bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1,[COLOR=white][B]BLOOMBERG TV USA HD[/B][/COLOR][COLOR=white][/COLOR]
+https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]BUSINESS ROCKSTARS HD[/B][/COLOR][COLOR=white][/COLOR]
+https://content.uplynk.com/channel/7ad2b600b40b4a89933ab6981757f8b3.m3u8
+#EXTINF:-1,[COLOR=white][B]CNBC EUROPE HD[/B][/COLOR][COLOR=white][/COLOR]
+http://ott-cdn.ucom.am/s65/index.m3u8
+#EXTINF:-1,[COLOR=white][B]REAL VISION HD[/B][/COLOR][COLOR=white][/COLOR]
+https://a.jsrdn.com/broadcast/2a755012a8/+0000/c.m3u8
+#EXTINF:-1,[COLOR=white][B]YAHOO FINANCES[/B][/COLOR][COLOR=white][/COLOR]
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  GASTRONOMIA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
