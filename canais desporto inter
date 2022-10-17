@@ -7,7 +7,7 @@ FONTE DE INFORMAÇÃO:
               https://global-satinfo.in/viewtopic.php?f=22&t=315&start=410
 
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 13/10/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 17/10/2022[/B][/COLOR][COLOR=orange][/COLOR]
 #EXTM3U
 
 #######################################################################################################################
@@ -212,8 +212,6 @@ http://hls1.sweet.tv/stream/ywrqrkcppthkuwa64z5r9qaddpcqde3fhd76cpgkjhqzxs2jp6u2
 https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/291/stream.m3u8
 #EXTINF:0 tvg-id="setanta-sport" group-title="Channels",SETANTA SPORTS HD
 http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/291/stream.m3u8
-#EXTINF:0 tvg-id="setanta-sport-plus" group-title="Channels",SETANTA SPORTS 2
-http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=setantaplus
 #EXTINF:0 tvg-id="kazsport" group-title="Channels",QAZSPORT
 http://92.46.127.146:8080/qazsport/index.m3u8?telegramm=yossotv
 
@@ -237,8 +235,6 @@ http://78.83.191.18:8000/play/a04b?checkedby:iptvcat.com
 http://78.83.191.18:8000/play/a073?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="MaxSport2.bg" group-title="Sport\",MAX SPORT 2 HD
 http://78.83.191.18:8000/play/a074?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Sport\",BEIN SPORT 1 HD
-https://srvccc.rise2549blood.xyz/kaynakstreamradarco/selcukbein1app/naxi/caxi.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport\",BEIN SPORTS PREMIUM 1HD
 http://7b30f9aa.tvclub.xyz/iptv/SGME6W4L2A6MNZ/6131/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="beINSport1.fr" group-title="Sport\",BEIN SPORTS 1 FR
@@ -261,8 +257,6 @@ https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/
 https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
 #EXTINF:0 tvg-id="Canal11.pt" group-title="Sports",CANAL 11
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",CANAL MOTOR
-http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",CCTV 5
 http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",CONTACTO DESPORTIVO
@@ -362,5 +356,5 @@ https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",UNBEATEN
 https://unbeaten-roku.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",WORLD POWER TOUR
-https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3
 
