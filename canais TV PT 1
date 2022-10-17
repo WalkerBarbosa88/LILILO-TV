@@ -10,7 +10,7 @@ http://0.0.0.0:0000
 * LISTAS GRATUITAS IPTV ORG - https://github.com/iptv-org/iptv
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 13/10/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 17/10/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
@@ -343,6 +343,7 @@ http://45.92.69.72:8000/play/a001
 http://45.92.69.72:8001/play/a02s
 
 ****************************************************************** CANAIS DISCOVERY / DOCUMENTÁRIOS  ******************
+
 
 #EXTINF:0 tvg-id="blaze.pt" group-title="Channels",[COLOR=white][B]BLAZE[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0h4
