@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 #####################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 13/10/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 17/10/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
 ###########################################################################################################################################
  
@@ -165,8 +165,7 @@ http://api.magiaiptv.com/live/800349/713534/m1_6Ij7gxZOdZwDVlMjlbHc5_1080p
 http://87.212.248.44:60130/play/a04s
 #EXTINF:-1,[COLOR=white][B]HGTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2273
-#EXTINF:-1,[COLOR=white][B]HGTV BR HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=&maxbitrate=0&buffer=20191129153332&url=http://4p.vc:80/Jefersonaraujo/pvjefersonpv/22203
+
 
 
 ###########################################################################################################################################
@@ -415,8 +414,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0510962948d00096
 https://d275e95ir6yrv9.cloudfront.net/dist/localnow/11/hls/master/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]AUTO MOTO TV[/B][/COLOR][COLOR=white][/COLOR]
 https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
- #EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]CANAL MOTOR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
 #EXTINF:-1,[COLOR=white][B]PLUTO TV CARS[/B][/COLOR][COLOR=white][/COLOR]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b3a4249444e05d09cc46&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=663&terminate=false&userId=
 #EXTINF:-1,[COLOR=white][B]CANAL MOTOR HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -447,8 +444,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1,[COLOR=white][B]TVS TRAVEL NETWORK[/B][/COLOR][COLOR=white][/COLOR]
 https://rpn1.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
-#EXTINF:-1,[COLOR=white][B]TRAVEL & ADVENTURE HD[/B][/COLOR][COLOR=white][/COLOR]
-http://live-1.otcnet.ru/tadtmf/tracks-v1a1/index.m3u8
 #EXTINF:-1,[COLOR=white][B]TASTEMADE TRAVEL HD[/B][/COLOR][COLOR=white][/COLOR]
 https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]TRAVEL XP HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -569,8 +564,6 @@ https://bloomberg.com/media-manifest/streams/eu.m3u8
 https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]BUSINESS ROCKSTARS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://content.uplynk.com/channel/7ad2b600b40b4a89933ab6981757f8b3.m3u8
-#EXTINF:-1,[COLOR=white][B]CNBC EUROPE HD[/B][/COLOR][COLOR=white][/COLOR]
-http://ott-cdn.ucom.am/s65/index.m3u8
 #EXTINF:-1,[COLOR=white][B]REAL VISION HD[/B][/COLOR][COLOR=white][/COLOR]
 https://a.jsrdn.com/broadcast/2a755012a8/+0000/c.m3u8
 #EXTINF:-1,[COLOR=white][B]YAHOO FINANCES[/B][/COLOR][COLOR=white][/COLOR]
