@@ -209,6 +209,9 @@ https://video-auth1.iol.pt/beachcam/praiadosulericeira/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/bcpescadores/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]PRAIA SÃO LOURENÇO[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/saolourenco/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]MATADOURO + SKATEPARK[/B][/COLOR][COLOR=white][/COLOR]
+https://video-auth1.iol.pt/beachcam/matadouroskatepark/playlist.m3u8
+
 
 OFFLINE: 0
 
@@ -235,12 +238,12 @@ OFFLINE: 0
 https://video-auth1.iol.pt
  
 
-#EXTINF:-1,[COLOR=white][B]PRAIA DAS AVENCAS[/B][/COLOR][COLOR=white][/COLOR]
-https://video-auth1.iol.pt/beachcam/praiadasavencas/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]PRAIA DO GUINCHO NORTE[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/praiaguinchonorte/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]PRAIA DO GUINCHO SUL[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/praiaguinchosul/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]PRAIA DAS AVENCAS[/B][/COLOR][COLOR=white][/COLOR]
+https://video-auth1.iol.pt/beachcam/praiadasavencas/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]PRAIA DA CRESMINA[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/crismina/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]BAÍA DE CASCAIS[/B][/COLOR][COLOR=white][/COLOR]
@@ -249,6 +252,14 @@ https://video-auth1.iol.pt/beachcam/praiadospescadores/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/conceicao/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]PRAIA DAS MOITAS[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/moitas/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]SÃO JOÃO DO ESTORIL[/B][/COLOR][COLOR=white][/COLOR]
+https://video-auth1.iol.pt/beachcam/saojoaodoestoril/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]PRAIA DA PAREDE[/B][/COLOR][COLOR=white][/COLOR]
+https://video-auth1.iol.pt/beachcam/parede/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]CARCAVELOS[/B][/COLOR][COLOR=white][/COLOR]
+https://video-auth1.iol.pt/beachcam/carcavelos/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]CARCAVELOS - CALHAU[/B][/COLOR][COLOR=white][/COLOR]
+https://video-auth1.iol.pt/beachcam/carcavelos2/playlist.m3u8
 
 
 OFFLINE: 1
@@ -311,7 +322,8 @@ https://cams.cdn-surfline.com/cdn-int/pt-barbas/chunklist.m3u8
 https://video-auth1.iol.pt/beachcam/bccabanadopescador/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]COSTA CAPARICA, PRAIA NOVA[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/bccaparicanovapraia/playlist.m3u8
-
+#EXTINF:-1,[COLOR=white][B]COSTA CAPARICA, RIVIERA[/B][/COLOR][COLOR=white][/COLOR]
+https://video-auth1.iol.pt/beachcam/riviera/playlist.m3u8
 
 OFFLINE: 0
 
@@ -357,7 +369,10 @@ https://video-auth1.iol.pt/beachcam/furnasmar/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/bcalmograve/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]LAGOA SANTO ANDRÉ[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/bcsantoandre/playlist.m3u8
-
+#EXTINF:-1,[COLOR=white][B]PRAIA DO CARVALHAL[/B][/COLOR][COLOR=white][/COLOR]
+https://video-auth1.iol.pt/beachcam/carvalhal/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]ZAMBUJEIRA DO MAR[/B][/COLOR][COLOR=white][/COLOR]
+https://video-auth1.iol.pt/beachcam/zambujeira/playlist.m3u8
 
 OFFLINE: 0
 
@@ -408,8 +423,11 @@ https://video-auth1.iol.pt/beachcam/bcalagoa/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/bcpraiaverde/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]PRAIA DO AMADO[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/bcamado/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]ALVOR NASCENTE[/B][/COLOR][COLOR=white][/COLOR]
-https://video-auth1.iol.pt/beachcam/bcalvornascente/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]PRAIA DA LUZ[/B][/COLOR][COLOR=white][/COLOR]
+https://video-auth1.iol.pt/beachcam/luz/playlist.m3u8
+
+
+
 
 OFFLINE: 1
   
@@ -424,10 +442,6 @@ https://video-auth1.iol.pt/beachcam/madeirajardimdomar/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/jardimdomardois/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]MADEIRA, PORTO SANTO - CAM 1[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/bcportosanto/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]MADEIRA, PORTO SANTO - CAM 2[/B][/COLOR][COLOR=white][/COLOR]
-https://video-auth1.iol.pt/beachcam/bcportosanto/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]MADEIRA, PONTA PEQUENA, PAUL[/B][/COLOR][COLOR=white][/COLOR]
-https://video-auth1.iol.pt/beachcam/madeirajardimdomar/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]MADEIRA, JARDIM DO MAR[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/jardimdomardois/playlist.m3u8
 
