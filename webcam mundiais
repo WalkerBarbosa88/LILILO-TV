@@ -229,13 +229,10 @@ plugin://plugin.video.youtube/play/?video_id=9KW76QyFP_A&ab_channel=earthTV
 plugin://plugin.video.youtube/play/?video_id=SukLLCbZKvs&ab_channel=earthTV
 #EXTINF:-1,[COLOR=white][B]EARTH TV - TIMES SQUARE IN 4K[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=1-iS7LArMPA&ab_channel=EarthCam
-
-#EXTINF:-1,[COLOR=white][B]I LOVE YOU VENICE - BEACH MULTI-CAMS[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=OMebkpnYJJo&ab_channel=ILoveYouVenice
-#EXTINF:-1,[COLOR=white][B]WEBCAM GREECE LIVE - WORLD MULTI-CAMS[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=3Gt0fZXJVpM&ab_channel=WebcamGreece.Com
 #EXTINF:-1,[COLOR=white][B]MAGIC LIVE - ROLLING MULTI-CAMS[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=b19UiwxE5xo&ab_channel=MagicLive
+#EXTINF:-1,[COLOR=white][B]MADEIRA, PORTUGAL - ROLLING MULTI-CAMS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=_AwBL-uRZd0&ab_channel=Webcamtaxi
 #EXTINF:-1,[COLOR=white][B]FERATEL - GERMANY ROLLING MULTI-CAM[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=Li3Dvqlo5uE&ab_channel=feratel%E2%80%93yourwindowtotheworld
 
