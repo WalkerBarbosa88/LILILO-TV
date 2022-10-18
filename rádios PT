@@ -27,6 +27,8 @@ https://listen.radioking.com/radio/505570/stream/563098
 http://centova.radio.com.pt:9430/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO REGIONAL DANCE[/B][/COLOR][COLOR=white][/COLOR]
 https://play.radioregional.pt/stream/10/
+#EXTINF:-1 tvg-logo="https://m80.iol.pt/images/logos_inner_black/m80dance.png" group-title="Media Capital Radios Portugal",[COLOR=white][B]M80 DANCE[/B][/COLOR][COLOR=white][/COLOR]
+http://mcrscast.mcr.iol.pt:80/m80Dance
 
 
 ######################################################################################################################################
@@ -95,12 +97,20 @@ https://sp0.redeaudio.com/8028/stream/
 
 #EXTINF:0 tvg-logo="" group-title="https://upload.wikimedia.org/wikipedia/pt/c/ce/Logotipo_da_R%C3%A1dio_Cidade_%28Rio_de_Janeiro%29.png",[COLOR=white][B]CIDADE FM[/B][/COLOR][COLOR=white][/COLOR]
 http://mcrscast.mcr.iol.pt/cidadefm
+#EXTINF:-1 tvg-logo="https://cidade.iol.pt/images/webradios/logo_WB_HIPHOP.PNG" group-title="Media Capital Radios Portugal",[COLOR=white][B]CIDADE HIP HOP[/B][/COLOR][COLOR=white][/COLOR]
+http://mcrscast.mcr.iol.pt:80/cidHiphop
+#EXTINF:-1 tvg-logo="https://cidade.iol.pt/images/webradios/logo_WB_CIDADE.PNG" group-title="Media Capital Radios Portugal",[COLOR=white][B]CIDADE LATINA[/B][/COLOR][COLOR=white][/COLOR]
+http://mcrscast.mcr.iol.pt:80/cidLatina
 
 #EXTINF:-1,[COLOR=white][B]RÁDIO COMERCIAL[/B][/COLOR][COLOR=white][/COLOR]
 http://mcrscast.mcr.iol.pt/comercial.mp3
 
 #EXTINF:-1,[COLOR=white][B]M80 NACIONAL[/B][/COLOR][COLOR=white][/COLOR]
 http://mcrscast.mcr.iol.pt/m80
+#EXTINF:-1 tvg-logo="https://m80.iol.pt/images/logos_inner_black/m8080s.png" group-title="Media Capital Radios Portugal",[COLOR=white][B]M80 80´S[/B][/COLOR][COLOR=white][/COLOR]
+http://mcrscast.mcr.iol.pt:80/M8080
+#EXTINF:-1 tvg-logo="https://m80.iol.pt/images/logos_inner_black/m8090s.png" group-title="Media Capital Radios Portugal",[COLOR=white][B]M80 90´S[/B][/COLOR][COLOR=white][/COLOR]
+http://mcrscast.mcr.iol.pt:80/M8090
 
 #EXTINF:-1,[COLOR=white][B]RFM NACIONAL[/B][/COLOR][COLOR=white][/COLOR]
 http://21313.live.streamtheworld.com/RFMAAC.aac
@@ -156,8 +166,12 @@ https://n0f.radiojar.com/6x85cenb7ehvv?1652976295=&rj-tok=AAABgN0bmTAA5j9zHZcxBl
 
 #EXTINF:-1,[COLOR=white][B]RÁDIO GOLO FM[/B][/COLOR][COLOR=white][/COLOR]
 http://play.golo.fm:8020/;stream.mp3
+
 #EXTINF:-1,[COLOR=white][B]SMOOTH FM[/B][/COLOR][COLOR=white][/COLOR]
 https://media3.mcr.iol.pt/livefm/smooth.mp3/icecast.audio
+#EXTINF:-1 tvg-logo="https://smoothfm.iol.pt/images/smooth-radios/nocover-SFM-COOL.jpg" group-title="Media Capital Radios Portugal",[COLOR=white][B]SMOOTH COOL[/B][/COLOR][COLOR=white][/COLOR]
+http://mcrscast.mcr.iol.pt:80/smoCool
+
 #EXTINF:-1,[COLOR=white][B]RECORD FM[/B][/COLOR][COLOR=white][/COLOR]
 http://213.239.218.99:7098/;
 #EXTINF:-1,[COLOR=white][B]MUNDIAL FM[/B][/COLOR][COLOR=white][/COLOR]
