@@ -16,7 +16,7 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold]RÁDIOS PORTUGAL[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]RÁDIOS PORTUGAL 1[/COLOR][/B]</name>
 <thumbnail>https://ia801803.us.archive.org/6/items/radios-portugal/R%C3%A1dios%20Portugal.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/WalkerBarbosa88/LILILO-TV/main/r%C3%A1dios%20PT</externallink>
 <fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
@@ -24,14 +24,43 @@
 </channel>
 
 
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]RÁDIOS PORTUGAL 2[/COLOR][/B]</name>
+<thumbnail>https://ia804508.us.archive.org/6/items/link-externo/Link%20Externo.jpg</thumbnail>
+<externallink>https://github.com/Sphinxroot/m3u-radio-music-playlists/blob/main/portugal.m3u</externallink>
+<fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
+<info>portugalkodi.com</info>
+</channel>
+
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold]RÁDIOS MUNDIAIS[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]RÁDIOS MUNDIAIS 1[/COLOR][/B]</name>
 <thumbnail>https://ia801707.us.archive.org/29/items/radios-mundiais_202012/R%C3%A1dios%20Mundiais.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/WalkerBarbosa88/LILILO-TV/main/r%C3%A1dios%20mundiais</externallink>
 <fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
 <info>portugalkodi.com</info>
 </channel>
+
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]RÁDIOS MUNDIAIS 2[/COLOR][/B]</name>
+<thumbnail>https://ia801707.us.archive.org/29/items/radios-mundiais_202012/R%C3%A1dios%20Mundiais.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Sphinxroot/m3u-radio-music-playlists/main/---everything-full.m3u</externallink>
+<fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
+<info>portugalkodi.com</info>
+</channel>
+
+
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]RÁDIOS TDT CHANNEL[/COLOR][/B]</name>
+<thumbnail>https://ia601805.us.archive.org/10/items/tdt-channels_202104/TDT%20Channels.jpg</thumbnail>
+<externallink>https://www.tdtchannels.com/lists/radio.m3u8</externallink>
+<fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
+<info>portugalkodi.com</info>
+</channel>
+
 
 
 </channels>
