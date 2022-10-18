@@ -123,7 +123,9 @@ https://000000
 
 
 #EXTINF:-1,[COLOR=white][B]SRA DA GRAÇA, VILA REAL[/B][/COLOR][COLOR=white][/COLOR]
-https://itl.rtsp.me/5YP6UEljrZDrmUgftze-Jg/1666112350/hls/yb4YT586.m3u8?ip=188.80.165.183
+https://itl.rtsp.me/5YP6UEljrZDrmUgftze-Jg/1666112350/hls/yb4YT586.m3u8?ip=188.80.165.
+#EXTINF:-1,[COLOR=white][B]CIDADE DO NATAL LIVE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=Cp4RRAEgpeU&ab_channel=CityofRovaniemi
 
 
 #######################################################################################################################
