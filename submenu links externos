@@ -23,6 +23,7 @@
 </channel>
 
 
+
 <channels>
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR gold]FLUXUS TV ENG[/COLOR][/B]</name>
@@ -39,6 +40,16 @@
 <name>[B][COLOR lime]●[/COLOR] [COLOR gold]FLUXUS TV ESP[/COLOR][/B]</name>
 <thumbnail>https://ia801809.us.archive.org/15/items/fluxus-tv/Fluxus%20TV.jpg</thumbnail>
 <externallink>https://bit.ly/FTV-ESP</externallink>
+<fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
+<info>portugalkodi.com</info>
+</channel>
+
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]LISTA PT[/COLOR][/B]</name>
+<thumbnail>https://ia804506.us.archive.org/13/items/link-externo-2/Link%20Externo2.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/LITUATUI/M3UPT/main/m3upt.m3u</externallink>
 <fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
 <info>portugalkodi.com</info>
 </channel>
