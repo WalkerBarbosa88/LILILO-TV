@@ -41,6 +41,9 @@ https://s5.radio.co/s9c516a065/listen
 #EXTINF:-1,[COLOR=white][B]RÁDIO ZIG ZAG[/B][/COLOR][COLOR=white][/COLOR]
 https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://radiocomercial.iol.pt/images/logo-cover.jpg" group-title="Media Capital Radios Portugal",[COLOR=white][B]RÁDIO COMERCIAL KIDS[/B][/COLOR][COLOR=white][/COLOR]
+http://mcrscast.mcr.iol.pt:80/rcKids
+
 
 ######################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  RÁDIOS NACIONAIS E/OU ONLINE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
