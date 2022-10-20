@@ -648,4 +648,21 @@ https://a.jsrdn.com/broadcast/41e3e6703e/+0000/c.m3u8
 https://content.uplynk.com/channel/3e4b9cada2b74cf18977298804134a36.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Relax",[COLOR=white][B]STINGRAY NATURESCAPE[/B][/COLOR][COLOR=white][/COLOR]
 https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BEACHES LIVE[/B][/COLOR][COLOR=white][/COLOR]
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TROPICS LIVE[/B][/COLOR][COLOR=white][/COLOR]
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SUNSET LIVE[/B][/COLOR][COLOR=white][/COLOR]
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RIVERS LIVE[/B][/COLOR][COLOR=white][/COLOR]
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MOUNTAIN LIVE[/B][/COLOR][COLOR=white][/COLOR]
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]LAKE LIVE[/B][/COLOR][COLOR=white][/COLOR]
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOREST LIVE[/B][/COLOR][COLOR=white][/COLOR]
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]AURORA LIVE[/B][/COLOR][COLOR=white][/COLOR]
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
+
 
