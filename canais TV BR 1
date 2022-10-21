@@ -11,6 +11,7 @@ CANAIS ABERTOS / LIVRES BRASIL - https://raw.githubusercontent.com/rogerioronin/
                                  https://github.com/cloudblood/uu - VÁRIOS LINKS DE XXX E CANAIS BR
                                  https://github.com/wjunior1973/wiptv/blob/main/wiptvfull
                                  https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2022/master/CanaisB5.m3u8 - Lista Canais BR.
+                                 https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2022/master/Canais%20KODI2.m3u8
  
 #EXTM3U
 
@@ -32,6 +33,8 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8?ROGERIOTORRES
 http://189.81.142.134:4000/play/a05z
 #EXTINF:-1,[COLOR=white][B]CANAL RURAL[/B][/COLOR][COLOR=white][/COLOR]
 http://189.81.142.134:4000/play/a05r
+#EXTINF:-1,[COLOR=white][B]CARTOONITO HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800575/759878/m4_0LsT3zQewCyqpN6kUJEaSZg1_720p
 
 
 ####################################################################################################################################
@@ -136,6 +139,8 @@ http://189.91.128.146:4444/udp/227.10.20.83:1234
 
 #EXTINF:-1,[COLOR=white][B]DISCOVERY SCIENCE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.92:1234 
+#EXTINF:-1,[COLOR=white][B]DISCOVERY SCIENCE HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800575/759878/m3_yIvLaPOcxH4qTtjiZfV3p2Y7_720p_2M
 
 #EXTINF:-1,[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.85:1234
@@ -148,9 +153,15 @@ http://api.magiaiptv.com/live/800575/759878/m1_6Ij7gxZOdZwDVlMjlbHc5_1080p
 
 #EXTINF:-1,[COLOR=white][B]DISCOVERY ANIMAL PLANET HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.118:1234
+#EXTINF:-1,[COLOR=white][B]DISCOVERY ANIMAL PLANET HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800575/759878/m1_ZJTh6oMdeOk_1080p
 
 #EXTINF:-1,[COLOR=white][B]DISCOVERY WORLD HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82931
+#EXTINF:-1,[COLOR=white][B]DISCOVERY WORLD HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800575/759878/m2_be0dGtMO3SNcZq7TRHUvKXpn_720p
+
+
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS MÚSICA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -161,6 +172,9 @@ http://0000000000000000000000000000
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1609920726.m3u8
 #EXTINF:-1,[COLOR=white][B]K-POP TV PLAY HD[/B][/COLOR][COLOR=white][/COLOR]
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,[COLOR=white][B]SEXY KPOP HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800575/759878/m2_9EOCjuxykuMtRyJM_720p
+
 #EXTINF:-1,[COLOR=white][B]TRACE URBAN HD[/B][/COLOR][COLOR=white][/COLOR]
 https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
 #EXTINF:-1,[COLOR=white][B]TRACE BRAZUCA HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -206,17 +220,24 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8?ROGERI
 http://189.91.128.146:4444/udp/227.10.20.109:1234
 #EXTINF:-1,[COLOR=white][B]GLOBO NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://api.magiaiptv.com/live/800575/759878/p3_TkpBaA2SR5zzC0o
+#EXTINF:-1,[COLOR=white][B]GLOBO NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800575/759878/m3_1R7hfaksLPjw6EHrN8XGvFSo_1080p
 
 #EXTINF:-1,[COLOR=white][B]TV RECORD HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.147:1234
 #EXTINF:-1,[COLOR=white][B]RECORD NEWS HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://189.91.128.146:4444/udp/227.10.20.170:1234
+#EXTINF:-1,[COLOR=white][B]RECORD NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800575/759878/m2_dHYy9wieO2jb1QALkn30rI7u_720p
+
 #EXTINF:-1,[COLOR=white][B]REDE TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.122:1234
 #EXTINF:-1,[COLOR=white][B]JOVEM PAN NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8?ROGERIOTORRES
 #EXTINF:-1,[COLOR=white][B]BAND NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.131:1234
+#EXTINF:-1,[COLOR=white][B]BAND NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800575/759878/m3_wM1DcpyixXePdVU8F2ogE6KT_720p_2M
 #EXTINF:-1,[COLOR=white][B]SBT HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.120:1234 
 #EXTINF:-1,[COLOR=white][B]SBT HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -264,6 +285,16 @@ http://acsb.sh:80/4673629418/snakeplay/72120
 http://acsb.sh:80/4673629418/snakeplay/72336
 #EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries",[COLOR=white][B]WARNER CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
 http://acsb.sh:80/4673629418/snakeplay/72433
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/7bb54630-d5d6-450e-997c-3ab0c78c31e3" parent-code= "" group-title="NooXTV",[COLOR=white][B]STAR+ 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800575/759878/m3_B7hFXSnaqw2EJk3Ic6pPyi5Y_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/311a22e0-02be-49f0-b21d-ec2323baaa05" parent-code= "" group-title="NooXTV",[COLOR=white][B]STAR+2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800575/759878/m1_e8e0475e7548d3b1_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/6a2330b3-8524-4639-af31-eea7bcee377e" parent-code= "" group-title="NooXTV",[COLOR=white][B]STAR+ 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800575/759878/m1_9b0bf85a96462778_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/6da04136-e1b9-4450-b2e2-ef7562b6eee2" parent-code= "" group-title="NooXTV",[COLOR=white][B]STAR+ 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800575/759878/m2_ee92c0f83475cfae7c8_720p
+
+
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  OUTROS CANAIS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
