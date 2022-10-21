@@ -3,12 +3,11 @@
 http://0.0.0.0:000000
 ##################################################################################################################################################
 
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 17/10/2022[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 21/10/2022[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #################################################################################################################################################
  
 #EXTM3U
-
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",IT: 111 TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/265364
@@ -20,8 +19,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/961
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/16018
 #EXTINF:0 tvg-id="ext" group-title="Channels",IT: A3 NEWS
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/16016
-#EXTINF:0 tvg-id="ext" group-title="Channels",IT: ALPA UNO TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/279912
 #EXTINF:0 tvg-id="ext" group-title="Channels",IT: ALTO ADIGE TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/18673
 #EXTINF:0 tvg-id="ext" group-title="Channels",IT: ANTENNA 2
@@ -48,8 +45,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/14747
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/279908
 #EXTINF:0 tvg-id="Boing.it" group-title="Channels",IT: Boing
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/966
-#EXTINF:0 tvg-id="Boomerang.it" group-title="Channels",IT: Boomerang
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/9565
 #EXTINF:0 tvg-id="ext" group-title="Channels",IT: Byoblu
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296110
 #EXTINF:0 tvg-id="PescaeCaccia.it" group-title="Channels",IT: Caccia
@@ -62,8 +57,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/279917
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/279906
 #EXTINF:0 tvg-id="ext" group-title="Channels",IT: Canale 2 TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/18773
-#EXTINF:0 tvg-id="ext" group-title="Channels",IT: Canale 3
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296105
 #EXTINF:0 tvg-id="Canale5.it" group-title="Channels",IT: Canale 5
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/902
 #EXTINF:0 tvg-id="ext" group-title="Channels",IT: Canale 7
@@ -96,8 +89,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/981
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/279945
 #EXTINF:0 tvg-id="ext" group-title="Channels",IT: Cuore Ribelle TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296085
-#EXTINF:0 tvg-id="ext" group-title="Channels",IT: Cusano TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/279922
 #EXTINF:0 tvg-id="ext" group-title="Channels",IT: DAZN 1
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/79220
 #EXTINF:0 tvg-id="ext" group-title="Channels",IT: DAZN 2
@@ -112,8 +103,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/263655
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/287758
 #EXTINF:0 tvg-id="DisneyJunior.it" group-title="Channels",IT: Disney junior
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1988
-#EXTINF:0 tvg-id="ext" group-title="Channels",IT: Disney+
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/50687
 #EXTINF:0 tvg-id="ext" group-title="Channels",IT: Disney+ Film
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/279927
 #EXTINF:0 tvg-id="ext" group-title="Channels",IT: Disney+ Nature
@@ -234,8 +223,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/279929
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/992
 #EXTINF:0 tvg-id="ext" group-title="Channels",IT: Motortrend
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/75151
-#EXTINF:0 tvg-id="ext" group-title="Channels",IT: NAT GEO
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2512
 #EXTINF:0 tvg-id="NatGeoWild.it" group-title="Channels",IT: NAT GEO Wild
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/279657
 #EXTINF:0 tvg-id="ext" group-title="Channels",IT: Nautical Channel
@@ -308,8 +295,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296096
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/280010
 #EXTINF:0 tvg-id="ext" group-title="Channels",IT: Radio Italia Cina
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296624
-#EXTINF:0 tvg-id="RadioItalia.it" group-title="Channels",IT: Radio Italia TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2518
 #EXTINF:0 tvg-id="ext" group-title="Channels",IT: Radio JukeBox TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/280026
 #EXTINF:0 tvg-id="ext" group-title="Channels",IT: Radio Lombardia TV
@@ -338,8 +323,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/151640
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296112
 #EXTINF:0 tvg-id="ext" group-title="Channels",IT: Radio Zeta TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/279994
-#EXTINF:0 tvg-id="ext" group-title="Channels",IT: RadioLina TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296101
 #EXTINF:0 tvg-id="ext" group-title="Channels",IT: RadioLine A TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/280009
 #EXTINF:0 tvg-id="Rai1.it" group-title="Channels",IT: Rai 1
@@ -396,8 +379,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/287551
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/280005
 #EXTINF:0 tvg-id="ext" group-title="Channels",IT: RMK TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/174218
-#EXTINF:0 tvg-id="ext" group-title="Channels",IT: Rossini TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/909
 #EXTINF:0 tvg-id="ext" group-title="Channels",IT: RTC Tele Calabria
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/74335
 #EXTINF:0 tvg-id="ext" group-title="Channels",IT: RTL 1025
@@ -414,8 +395,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/264575
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/74339
 #EXTINF:0 tvg-id="ext" group-title="Channels",IT: RTV San Marino
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/56783
-#EXTINF:0 tvg-id="ext" group-title="Channels",IT: RTV Sport
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/174221
 #EXTINF:0 tvg-id="ext" group-title="Channels",IT: Sardegna Uno
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/74337
 #EXTINF:0 tvg-id="ext" group-title="Channels",IT: Senato TV
@@ -524,8 +503,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/18733
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/265389
 #EXTINF:0 tvg-id="ext" group-title="Channels",IT: Telegranda
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/287584
-#EXTINF:0 tvg-id="ext" group-title="Channels",IT: TeleMantova
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/55225
 #EXTINF:0 tvg-id="ext" group-title="Channels",IT: Telemolise
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/287585
 #EXTINF:0 tvg-id="ext" group-title="Channels",IT: Telenord
@@ -588,12 +565,8 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/287566
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/265402
 #EXTINF:0 tvg-id="TVAVicenza.it" group-title="Channels",IT: TVA Vicenza
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1032
-#EXTINF:0 tvg-id="ext" group-title="Channels",IT: TVL
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/287569
 #EXTINF:0 tvg-id="ext" group-title="Channels",IT: TVRS
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/18759
-#EXTINF:0 tvg-id="ext" group-title="Channels",IT: Umbria TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/55229
 #EXTINF:0 tvg-id="ext" group-title="Channels",IT: Uninettuno University TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/904
 #EXTINF:0 tvg-id="ext" group-title="Channels",IT: Vera TV
@@ -612,5 +585,4 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/173567
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/287594
 #EXTINF:0 tvg-id="ext" group-title="Channels",IT: Zerouno TV Music
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/265410
-
 
