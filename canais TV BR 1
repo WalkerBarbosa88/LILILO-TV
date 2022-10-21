@@ -168,13 +168,6 @@ http://api.magiaiptv.com/live/800575/759878/m2_be0dGtMO3SNcZq7TRHUvKXpn_720p
 http://0000000000000000000000000000
 
 
-#EXTINF:-1,[COLOR=white][B]K-POP TV PLAY HD[/B][/COLOR][COLOR=white][/COLOR]
-https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1609920726.m3u8
-#EXTINF:-1,[COLOR=white][B]K-POP TV PLAY HD[/B][/COLOR][COLOR=white][/COLOR]
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,[COLOR=white][B]SEXY KPOP HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800575/759878/m2_9EOCjuxykuMtRyJM_720p
-
 #EXTINF:-1,[COLOR=white][B]TRACE URBAN HD[/B][/COLOR][COLOR=white][/COLOR]
 https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
 #EXTINF:-1,[COLOR=white][B]TRACE BRAZUCA HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -189,7 +182,14 @@ http://acsb.sh:80/4673629418/snakeplay/72187
 http://api.magiaiptv.com/live/800575/759878/m3_bdp8X6CKQZjtAfYc5voH_720p
 #EXTINF:-1,[COLOR=white][B]MULTISHOW HD[/B][/COLOR][COLOR=white][/COLOR]
 http://api.magiaiptv.com/live/800575/759878/m1_xBEDmuNinjXaf4ZHcGkRsr7h_720p
-
+#EXTINF:-1 group-title="CANAIS | MUSICA" tvg-logo="http://logocanais.ddns.net/Logo/Bis1.png",[COLOR=white][B]BIS FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://axr.life:80/096154/686531/5195
+#EXTINF:-1,[COLOR=white][B]K-POP TV PLAY HD[/B][/COLOR][COLOR=white][/COLOR]
+https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1609920726.m3u8
+#EXTINF:-1,[COLOR=white][B]K-POP TV PLAY HD[/B][/COLOR][COLOR=white][/COLOR]
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,[COLOR=white][B]SEXY KPOP HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800575/759878/m2_9EOCjuxykuMtRyJM_720p
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  URBAN TV BRASIL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
