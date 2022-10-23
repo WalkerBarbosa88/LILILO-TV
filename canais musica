@@ -78,7 +78,8 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/c
 
 #EXTINF:-1,[COLOR=white][B]MTV LIVE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://193.233.9.49/streams/media/MTV_Live_HD/index.m3u8
-
+#EXTINF:-1,[COLOR=white][B]MTV LIVE HD[/B][/COLOR][COLOR=white][/COLOR]
+http://92.246.84.102:8000/play/a0c9/index.m3u8
 #EXTINF:-1,[COLOR=white][B]MTV OO´S HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0hf
 
@@ -149,6 +150,9 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]MOOZ DANCE TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://db2-archive.teleon.tv/m3u/m3u.php?ch=moozdance
+
+#EXTINF:-1,[COLOR=white][B]4FUN DANCE HD[/B][/COLOR][COLOR=white][/COLOR]
+http://92.246.84.102:8000/play/a0ej/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]DANCE TV - BEST OF DANCE[/B][/COLOR][COLOR=white][/COLOR]
 https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
@@ -345,6 +349,9 @@ http://live.salto.nl/hls/sotv1_high.m3u8
 
 #EXTINF:-1,[COLOR=white][B]COUNTRY MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
 https://rebroadcast.mytvtogo.net/mytvtogo/countrymusic4u/chunks.m3u8
+
+#EXTINF:-1,[COLOR=white][B]VOX MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
+http://92.246.84.102:8000/play/a0ep/index.m3u8
 
 ######################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA ANTIGA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
