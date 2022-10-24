@@ -4,7 +4,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 16/10/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 24/10/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 
 FONTE DE INFORMAÇÃO: https://global-satinfo.in/viewtopic.php?f=22&t=2885&start=30
@@ -108,9 +108,6 @@ https://000000
 
 #EXTM3U
 
-
-#EXTINF:0 tvg-id="ext" group-title="Music",101 TELE ANTEQUERA
-https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",1HD MUSIC TV
 https://sc.id-tv.kz/1hd.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",30A MUSIC
@@ -137,8 +134,6 @@ http://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",CALIFORNIA MUSIC CHANNEL
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",CANAL 38
-https://rtmp.info/canal38/envivo/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",CAROLINA TV
 https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",CITY MUSIC TV
@@ -263,8 +258,6 @@ https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_uk_stingrayqello_001.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",RÁDIO PROS
 http://highvolume04.streampartner.nl/radiopros/livestream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",RÁDIO TROPICAL TARAPOTO
-https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",RÁDIO Weser TV Bremen
 https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",RCK TV
@@ -343,8 +336,6 @@ https://mediacpstreamchile.com:1936/bajocero/bajocero/playlist.m3u8?PlaylistM3UC
 https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-id="ext" group-title="Channels",CADENA ELITE
 https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 38
-https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-id="ext" group-title="Channels",CMT MUSIC
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",FABULOSA FM
@@ -467,6 +458,86 @@ http://ms2.mx-cd.net/tv/226-1855782/XITE_NL.stream/chunklist.m3u8
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-id="ext" group-title="Channels",ZEROUNO TV
 http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rewind Radio y TV * | CL
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Retro Plus TV * | CL
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Recuerdos Retro Radio TV * | CL
+https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Retro Plus TV Señal 2 * | CL
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Radioteca TV * | CL
+https://paneltv.net:3570/live/txtkignslive.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Euro Indie Music | GB
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Retro Music Television | CZ
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Carolina TV | CL
+https://unlimited1-cl-isp.dps.live/carolinatv/carolinatv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Conecta TV | MX
+https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",ShowVen TV | VE
+https://vcp.myplaytv.com/coll/coll/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Maxima FM | CL
+https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Re7 | CL
+https://hostv7.tvestacion7.com:3222/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Vision Musica TV | PE
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",La Sabrosura TV | CL
+https://tv.streaming-chile.com:1936/radiosabrosura/radiosabrosura/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nubeh TV | VE
+https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Oxigeno Network | VE
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Panavision | VE
+https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Italianissimo | VE
+https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",FM Hit | CL
+https://videostreaming.cloudserverlatam.com:443/radiofmhit/radiofmhit/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Radiomania | CL
+https://videostreaming.cloudserverlatam.com:443/8000/8000/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",PlanetaTV Music | CL
+https://scl.edge.grupoz.cl/music/live/music.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Evavisión Pachanga | CL
+http://159.69.56.148:25461/live/evavision/2r4rfasf/38.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Buenisima Radio TV | CO
+http://streamyes.alsolnet.com/buturama/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Vintage Music | CR
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Soy Plancha TV | CR
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal VM Latino | CR
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Uniao | BR
+https://596639ebdd89b.streamlock.net:443/tvuniao/tvuniao/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Carolina TV 2 | CL
+https://unlimited1-cl-isp.dps.live/carolinatv2/carolinatv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Solobailalo TV | CL
+https://5ff3d9babae13.streamlock.net:443/8000/8000/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Memorias TV | PE
+https://stmv2.zcastbr.com/memoriastv/memoriastv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",VClassicTV | CL
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",La Chilena TV | CL
+https://vdochile.com:3134/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cantina TV | VE
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fiesta Max TV | VE
+http://vcpar.myplaytv.com/fiestamax/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Urbano TV | CR
+https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Oldies Hits TV | CR
+https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",VClassicTV Tropical | CL
+https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",MMC - Freetv.com | US
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Flash - Freetv.com | US
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",La Despechada TV | CO
+https://servidordevideo.co:3077/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-id="ext" group-title="Музыка\",AFROBEATS
 http://gmediatv.nl/op/WW1GdFlteHBaM016TURCQWNtRnRZbXhsY2k1eWRRPT0/1180.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыка\",FACTORIA TV HD
@@ -581,142 +652,6 @@ http://rtmp.one.by:2200/
 http://rtmp.one.by:1300/
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",ONE RU HD
 http://rtmp.one.by:2300
-#EXTINF:0 tvg-id="m-1" group-title="Музыкальные",М1 HD
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rewind Radio y TV * | CL
-https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Retro Plus TV * | CL
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Recuerdos Retro Radio TV * | CL
-https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Retro Plus TV Señal 2 * | CL
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Ruidos TV * | CL
-https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",RCKTV * | CL
-https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Radioteca TV * | CL
-https://paneltv.net:3570/live/txtkignslive.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Mundo de la Musica TV * | CL
-https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Latinos Radio * | CL
-https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Euro Indie Music | GB
-http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Zapping Music | CL
-https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Portal FoxMix | CL
-https://593b04c4c5670.streamlock.net:443/portalfoxmix/portalfoxmix/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Retro Music Television | CZ
-https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Alegria TV | CL
-https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Carolina TV | CL
-https://unlimited1-cl-isp.dps.live/carolinatv/carolinatv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 38 | CR
-https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bajo Cero TV | CL
-https://mediacpstreamchile.com:1936/bajocero/bajocero/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Conecta TV | MX
-https://stream8.mexiserver.com:1936/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",ShowVen TV | VE
-https://vcp.myplaytv.com/coll/coll/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Maxima FM | CL
-https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Music Top | AR
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV vconline.cl | CL
-https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV Exitos | DO
-https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Video Tour Channel | CR
-http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Hatun TV | PE
-https://tv.inka.net.pe/bestcablehatuntv/bestcablehatuntv/index.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Mas Cumbia | PE
-https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Turbo Mix TV | PE
-https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sexy Kpop TV | BR
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Re7 | CL
-https://hostv7.tvestacion7.com:3222/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Vision Musica TV | PE
-https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Hits 360 | DO
-http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",La Sabrosura TV | CL
-https://tv.streaming-chile.com:1936/radiosabrosura/radiosabrosura/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Latin Zone TV | US
-https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Nubeh TV | VE
-https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Oxigeno Network | VE
-https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Panavision | VE
-https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Italianissimo | VE
-https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",FM Hit | CL
-https://videostreaming.cloudserverlatam.com:443/radiofmhit/radiofmhit/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Radiomania | CL
-https://videostreaming.cloudserverlatam.com:443/8000/8000/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",PlanetaTV Music | CL
-https://scl.edge.grupoz.cl/music/live/music.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Evavisión Pachanga | CL
-http://159.69.56.148:25461/live/evavision/2r4rfasf/38.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Buenisima Radio TV | CO
-http://streamyes.alsolnet.com/buturama/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Vintage Music | CR
-https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Soy Plancha TV | CR
-https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canal VM Latino | CR
-https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Cadena Elite | ES
-https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fabulosa FM | ES
-http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Molahits TV | ES
-http://ventdelnord.tv:8080/mola/directe.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Goodstock Radio | CL
-https://live.tvcontrolcp.com:1936/goodstock/goodstock/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Top TV | BR
-https://cast.cdnseguro.com:19360/8092/8092.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV Uniao | BR
-https://596639ebdd89b.streamlock.net:443/tvuniao/tvuniao/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Carolina TV 2 | CL
-https://unlimited1-cl-isp.dps.live/carolinatv2/carolinatv2.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Solobailalo TV | CL
-https://5ff3d9babae13.streamlock.net:443/8000/8000/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Memorias TV | PE
-https://stmv2.zcastbr.com/memoriastv/memoriastv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",VClassicTV | CL
-https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Freestyledjs | CL
-https://paneltv.online:1936/8178/8178/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",La Chilena TV | CL
-https://vdochile.com:3134/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Cantina TV | VE
-https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fiesta Max TV | VE
-http://vcpar.myplaytv.com/fiestamax/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Urbano TV | CR
-https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Oldies Hits TV | CR
-https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",VClassicTV Tropical | CL
-https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",MMC - Freetv.com | US
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Flash - Freetv.com | US
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",La Despechada TV | CO
-https://servidordevideo.co:3077/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",Voice Over Radio TV | CR
-https://tv.fullhd-streaming.com:3285/hybrid/play.m3u8?PlaylistM3UCL
-
-http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4598/stream.m3u8
 #EXTINF:0 tvg-id="m-2" group-title="Музыкальные",М2 HD
 http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4601/stream.m3u8
 #EXTINF:0 tvg-id="tnt-music" group-title="Музыкальные",ТНТ MUSIC HD
