@@ -14,6 +14,35 @@ http://0.0.0.0:0000
  
 #EXTM3U
 
+
+#EXTINF:-1,[COLOR=white][B]TAYLOR SWIFT - ANTI-HERO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=b1kbLwvqugk&list=RDCLAK5uy_lqNm3KZ4SvTuiGHhnvuep0z2CwMS0OyL4&start_radio=1&ab_channel=TaylorSwiftVEVO
+
+#EXTINF:-1,[COLOR=white][B]SICKICK - THE RETURN OF THE MACK (POST MALONE FT. MARK MORRISON REMIX)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3KEsRHFNWOo&ab_channel=SickickMusic
+
+#EXTINF:-1,[COLOR=white][B]SICKICK - REMIX PARTE 6 (AGOSTO 2022)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3KEsRHFNWOo&ab_channel=YNWeIQUEeAU&ab_channel=SickickMusic
+
+#EXTINF:-1,[COLOR=white][B]SHAKIRA E OZUNA - MONOTONIA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=j5y6xLpRwx4&ab_channel=shakiraVEVO
+
+#EXTINF:-1,[COLOR=white][B]WIZKID - BAD TO ME[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=2mkhevOXVNk&ab_channel=WizkidVEVO
+
+#EXTINF:-1,[COLOR=white][B]A-HA - AS IF[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=2p4n7JgdCsc&list=RDCLAK5uy_lqNm3KZ4SvTuiGHhnvuep0z2CwMS0OyL4&index=9&ab_channel=ahaVEVO
+
+#EXTINF:-1,[COLOR=white][B]SYRO - AINDA NOS TEMOS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=N2gI1Zz4EpI&ab_channel=SYRO
+
+
+
+
+
+
+
+
 #EXTINF:-1,[COLOR=white][B]LIZZO - 2 BE LOVED (AM I READY)[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=krdQLzzAeZU
 
