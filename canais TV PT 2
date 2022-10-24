@@ -7,7 +7,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
             
-#EXTINF:-1,[COLOR=orange][B]LISTA 1 REVISTA: 17/10/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA 1 REVISTA: 24/10/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -435,8 +435,9 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1423
 
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS PT IPTV ORG: 18/10/2022  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS PT IPTV ORG: 24/10/2022  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://0000000000000000
+
 
 #EXTINF:0 tvg-id="ext" group-title="Undefined",Africanews
 https://rakuten-africanews-1-pt.samsung.wurl.com/manifest/playlist.m3u8
@@ -468,7 +469,6 @@ https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 http://93.152.174.144:4000/play/sic/index.m3u8
 #EXTINF:0 tvg-id="TV3cat.es" group-title="Undefined",TV3CAT
 https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="News",Azerbaijan News TV 
 https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",CGTN 
@@ -499,8 +499,6 @@ https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 #EXTINF:0 tvg-id="bloomberg" group-title="Business",Bloomberg TV Europe 
 https://bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",BTV World 
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/playlist.m3u8
 #EXTINF:0 tvg-id="kbs-world" group-title="General",KBS World 
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="General",NTV Europe 
@@ -527,7 +525,6 @@ https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Documentary",RT Documentary Russian 
 http://uiptv.do.am/1ufc/300663722/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Classic",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:0 tvg-id="cnl-europe" group-title="Religious",CNL Европа 
