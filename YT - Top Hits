@@ -36,12 +36,8 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=2p4n7J
 #EXTINF:-1,[COLOR=white][B]SYRO - AINDA NOS TEMOS[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=N2gI1Zz4EpI&ab_channel=SYRO
 
-
-
-
-
-
-
+#EXTINF:-1,[COLOR=white][B]AITCH FT. ED SHEERAN - MY G[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=81ZwDYRE6uc&ab_channel=AitchVEVO
 
 #EXTINF:-1,[COLOR=white][B]LIZZO - 2 BE LOVED (AM I READY)[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=krdQLzzAeZU
