@@ -43,6 +43,34 @@ https://00000000000
 #EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
 http://000000000000
 
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://acsa.ws:80/668630/Aps8fQ/72332.ts
+#EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4273.ts
+#EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4274.ts
+#EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://acsa.ws:80/668630/Aps8fQ/131188.ts
+
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4272.ts
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 5[/B][/COLOR][COLOR=white][/COLOR]
+http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4277.ts
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 5[/B][/COLOR][COLOR=white][/COLOR]
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 6[/B][/COLOR][COLOR=white][/COLOR]
+http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4275.ts
+
+#EXTINF:-1,[COLOR=white][B]RMC SPORTS 1 FR[/B][/COLOR][COLOR=white][/COLOR]
+http://51.178.65.238:80/RMC1/index.m3u8
+#EXTINF:-1,[COLOR=white][B]RMC SPORTS 2 FR[/B][/COLOR][COLOR=white][/COLOR]
+http://51.178.65.238:80/RMC2/index.m3u8
+#EXTINF:-1,[COLOR=white][B]RMC SPORTS 3 FR[/B][/COLOR][COLOR=white][/COLOR]
+http://51.178.65.238:80/RMC3/index.m3u8
+#EXTINF:-1,[COLOR=white][B]RMC SPORTS 4 FR[/B][/COLOR][COLOR=white][/COLOR]
+http://51.178.65.238:80/RMC4/index.m3u8
+
+
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS SPORT TV PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://00000000000
