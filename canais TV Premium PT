@@ -19,7 +19,7 @@ http://0.0.0.0:0000
      Listas Várias - https://global-satinfo.in/viewforum.php?f=22&sid=14261766f220116fe35abb7ddf0e87e2
      
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 20/10/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 25/10/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 
 ####################################################################################################################################
@@ -40,32 +40,8 @@ https://00000000000
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800575/759878/m3_UCWbpolpkgstvp_1080p
-#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800575/759878/m3_DFwhzUuzfistv1_1080p
-#EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800575/759878/m3_FZukotDQWYstv2_1080p
-#EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800575/759878/m3_eAb6FoNigKstv3_720p_2M
-#EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800575/759878/m3_eargH0Pv9qstv4_720p_2M
-#EXTINF:-1,[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800575/759878/m3_L4QIjJorwjstv5_1080p
-#EXTINF:-1,[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800575/759878/m2_EUassaafSPdfgORT_720p
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://213.13.19.35/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://213.13.19.35/shls/LIVE$Eleven_Sports_3_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://213.13.19.35/shls/LIVE$Eleven_Sports_4_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://213.13.19.35/shls/LIVE$Eleven_Sports_5_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://213.13.19.35/shls/LIVE$Eleven_Sports_6_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
-
+#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
+http://000000000000
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS SPORT TV PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -82,38 +58,18 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1481
 
 #EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1483
-#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95408
-#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95408
 
 #EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1486
-#EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95411
-#EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95411
 
 #EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1489
-#EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95413
-#EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95413
 
 #EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1492
-#EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95415
-#EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95415
 
 #EXTINF:-1,[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95416
-#EXTINF:-1,[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1495
-#EXTINF:-1,[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95416
 
 #EXTINF:-1,[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281487
@@ -154,17 +110,6 @@ http://clienteworld.com:80/claud123/claud123/82754
 #EXTINF:-1,[COLOR=white][B]GOL TV FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://160.20.164.171:8001/play/a03x
 
-#EXTINF:0 tvg-id="RMCSport1.fr" group-title="Channels",[COLOR=white][B]RMC SPORT 1 FR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161951
-
-#EXTINF:0 tvg-id="RMCSport2.fr" group-title="Channels",[COLOR=white][B]RMC SPORT 2 FR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/63176
-
-#EXTINF:0 tvg-id="RMCSport3.fr" group-title="Channels",[COLOR=white][B]RMC SPORT 3 FR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161950
-#EXTINF:0 tvg-id="RMCSport4.fr" group-title="Channels",[COLOR=white][B]RMC SPORT 4 FR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://platin4k.eu:80/kralkerim/8TKLyJivVEA/161949
-
 
 ##################################  BENFICA TV   ###########################################################################
 
@@ -196,31 +141,17 @@ https://000000
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1499
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95418
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95418
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://venomtt.com:8000/kdcxxD1U/543545/22520
 
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1503
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95419
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95419
 
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1506
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95420
 
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1509
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95421
 
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://www.pandar.plus:25461/rZC48XkCCZDmUxi/7hO8LilPodZeSup/95422
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1512
 
