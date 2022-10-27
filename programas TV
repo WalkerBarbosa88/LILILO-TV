@@ -1,5 +1,5 @@
 ########################################################################################################################################################################
-#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////////  PROGRAMAS TV PT  /////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]//////////////  PROGRAMAS TV PT  ////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
 http://0.0.0.0:000000
 #######################################################################################################################################################################
  
@@ -9,6 +9,115 @@ FONTE DE INFORMAÇÃO: https://www.webcamgalore.com/Beaches/themecam.html
 #EXTM3U
 #EXTINF:-1,[COLOR=orange][B]LISTA ADICIONADA: 27/10/2022[/B][/COLOR][COLOR=orange][/COLOR]
 #EXTM3U
+
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  DIOGO BATÁGUAS - YOUTUBE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+
+
+#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - SETEMBRO 2022
+plugin://plugin.video.youtube/play/?video_id=7JymLpRbBrk
+
+#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - AGOSTO 2022
+plugin://plugin.video.youtube/play/?video_id=q-E6ZeBGPJU
+
+#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - JULHO 2022
+plugin://plugin.video.youtube/play/?video_id=hks6owUNxX0
+
+#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - JUNHO 2022
+plugin://plugin.video.youtube/play/?video_id=FVBrPa5__yA
+
+#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - MAIO 2022
+plugin://plugin.video.youtube/play/?video_id=
+
+#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - ABRIL 2022
+plugin://plugin.video.youtube/play/?video_id=GxWI7r0UB_0
+
+#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - MARÇO 2022
+plugin://plugin.video.youtube/play/?video_id=uzfbUV3aKU0
+
+#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - FEVEREIRO 2022
+plugin://plugin.video.youtube/play/?video_id=SUmfwl-4lXA
+
+#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - JANEIRO 2022
+plugin://plugin.video.youtube/play/?video_id=zuKIh2U2xfE
+
+
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  EIXO DO MAL - SIC NOTÍCIAS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 21/10/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/10/21/9420cdbf-2250-46de-973c-d712658efdef/eixo-do-mal-2010_22hv00510250-540p.m3u8
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 14/10/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/10/14/75800320-6d2d-4bef-8698-af1af19c84ae/eixo-do-mal-pgm-1310.m3u8
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 7/10/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/10/07/1492b49e-6525-45de-84b1-a26ebba57de5/eixo-do-mal-6-outubro-pgm_22hv00475330.m3u8
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 30/9/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/09/29/8cb50168-de63-45cd-896a-e167affa1c8f/ft_eixo-do-mal.m3u8
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 23/9/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/09/23/1b58d6e4-21d1-4731-8b26-38cf585c6924/eixo-do-mal-pgm-2209.m3u8
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 16/9/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/09/16/d2c8e2df-6a01-4b9f-bb1d-cd1ef23e37e6/eixo-de-mal-15-setembro-pgm_22hv00428220.m3u8
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 2/9/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/09/02/b8b54d8b-bcd4-4a36-9369-0e3a88f2f039/eixo-do-mal--pgm-0109_22hv00399110.m3u8
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 29/7/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/07/28/53a5e599-d8d7-4b20-b3d9-18cb270adeb2/eixo-do-mal.m3u8
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 21/7/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/07/22/e5835d6b-b99f-4cf8-82da-cecb5c891c40/eixo-do-mal-pgm-2107_22hv00320849.m3u8
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 8/7/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/07/08/8f2187b4-047a-4fbe-9ba5-a488c778569f/eixo-do-mal-0707-pgm.m3u8
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 1/7/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/07/01/bf53d7ae-4a96-4714-b4f5-937c2e500f70/eixo-do-mal.m3u8
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 24/6/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/06/23/b01a0919-3c70-42e2-8d18-b7bba91ffbb9/eixo-do-mal-2306-pgm.m3u8
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 17/6/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/06/16/a00accd2-1660-4130-a203-5c4466c69a00/eixo_22hv00241305.m3u8
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 10/6/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/06/09/105f1b43-ace7-427a-a2f8-e8d82d99c222/eixo-do-mal.1.m3u8
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 3/6/2022
+https://cdn.jwplayer.com/manifests/d8bDnO1G.m3u8
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 27/5/2022
+https://cdn.jwplayer.com/manifests/eqEt1HyE.m3u8
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 20/5/2022
+https://cdn.jwplayer.com/manifests/Dh2LtscL.m3u8
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 13/5/2022
+https://cdn.jwplayer.com/manifests/sFcOH5k4.m3u8
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 6/5/2022
+https://cdn.jwplayer.com/manifests/KASJPaYj.m3u8
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 29/4/2022
+https://cdn.jwplayer.com/manifests/Mbkr8pJ8.m3u8
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 22/4/2022
+https://cdn.jwplayer.com/manifests/3AhzNuqR.m3u8
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 15/4/2022
+https://content.jwplatform.com/manifests/jL3dl5uq.m3u8
+
+
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  O OUTRO LADO - RTP3  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -150,72 +259,6 @@ https://cdn.jwplayer.com/manifests/cZo2e5yC.m3u8
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 13/4/2022
 https://cdn.jwplayer.com/manifests/6ipev8fs.m3u8
 
-#######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  EIXO DO MAL - SIC NOTÍCIAS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://000000
-
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 14/10/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/10/14/75800320-6d2d-4bef-8698-af1af19c84ae/eixo-do-mal-pgm-1310.m3u8
-
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 7/10/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/10/07/1492b49e-6525-45de-84b1-a26ebba57de5/eixo-do-mal-6-outubro-pgm_22hv00475330.m3u8
-
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 30/9/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/09/29/8cb50168-de63-45cd-896a-e167affa1c8f/ft_eixo-do-mal.m3u8
-
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 23/9/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/09/23/1b58d6e4-21d1-4731-8b26-38cf585c6924/eixo-do-mal-pgm-2209.m3u8
-
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 16/9/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/09/16/d2c8e2df-6a01-4b9f-bb1d-cd1ef23e37e6/eixo-de-mal-15-setembro-pgm_22hv00428220.m3u8
-
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 2/9/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/09/02/b8b54d8b-bcd4-4a36-9369-0e3a88f2f039/eixo-do-mal--pgm-0109_22hv00399110.m3u8
-
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 29/7/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/07/28/53a5e599-d8d7-4b20-b3d9-18cb270adeb2/eixo-do-mal.m3u8
-
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 21/7/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/07/22/e5835d6b-b99f-4cf8-82da-cecb5c891c40/eixo-do-mal-pgm-2107_22hv00320849.m3u8
-
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 8/7/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/07/08/8f2187b4-047a-4fbe-9ba5-a488c778569f/eixo-do-mal-0707-pgm.m3u8
-
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 1/7/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/07/01/bf53d7ae-4a96-4714-b4f5-937c2e500f70/eixo-do-mal.m3u8
-
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 24/6/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/06/23/b01a0919-3c70-42e2-8d18-b7bba91ffbb9/eixo-do-mal-2306-pgm.m3u8
-
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 17/6/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/06/16/a00accd2-1660-4130-a203-5c4466c69a00/eixo_22hv00241305.m3u8
-
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 10/6/2022
-https://videos.impresa.pt/videos/hls/sicnot/2022/06/09/105f1b43-ace7-427a-a2f8-e8d82d99c222/eixo-do-mal.1.m3u8
-
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 3/6/2022
-https://cdn.jwplayer.com/manifests/d8bDnO1G.m3u8
-
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 27/5/2022
-https://cdn.jwplayer.com/manifests/eqEt1HyE.m3u8
-
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 20/5/2022
-https://cdn.jwplayer.com/manifests/Dh2LtscL.m3u8
-
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 13/5/2022
-https://cdn.jwplayer.com/manifests/sFcOH5k4.m3u8
-
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 6/5/2022
-https://cdn.jwplayer.com/manifests/KASJPaYj.m3u8
-
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 29/4/2022
-https://cdn.jwplayer.com/manifests/Mbkr8pJ8.m3u8
-
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 22/4/2022
-https://cdn.jwplayer.com/manifests/3AhzNuqR.m3u8
-
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 15/4/2022
-https://content.jwplatform.com/manifests/jL3dl5uq.m3u8
 
 
 #######################################################################################################################
@@ -292,38 +335,6 @@ https://cdn.jwplayer.com/manifests/Mvuo738f.m3u8
 https://cdn.jwplayer.com/manifests/v8e6Ytdz.m3u8
 
 
-#######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  DIOGO BATÁGUAS - YOUTUBE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://000000
-
-
-
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - SETEMBRO 2022
-plugin://plugin.video.youtube/play/?video_id=7JymLpRbBrk
-
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - AGOSTO 2022
-plugin://plugin.video.youtube/play/?video_id=q-E6ZeBGPJU
-
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - JULHO 2022
-plugin://plugin.video.youtube/play/?video_id=hks6owUNxX0
-
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - JUNHO 2022
-plugin://plugin.video.youtube/play/?video_id=FVBrPa5__yA
-
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - MAIO 2022
-plugin://plugin.video.youtube/play/?video_id=
-
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - ABRIL 2022
-plugin://plugin.video.youtube/play/?video_id=GxWI7r0UB_0
-
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - MARÇO 2022
-plugin://plugin.video.youtube/play/?video_id=uzfbUV3aKU0
-
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - FEVEREIRO 2022
-plugin://plugin.video.youtube/play/?video_id=SUmfwl-4lXA
-
-#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - JANEIRO 2022
-plugin://plugin.video.youtube/play/?video_id=zuKIh2U2xfE
 
 
 
