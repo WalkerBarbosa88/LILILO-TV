@@ -3,8 +3,7 @@
 http://0.0.0.0:000000
 #######################################################################################################################################################################
  
-FONTE DE INFORMAÇÃO: https://www.webcamgalore.com/Beaches/themecam.html
-                     https://www.webcamtaxi.com/en/portugal.html
+FONTE DE INFORMAÇÃO: LITUATUI/M3UPT GITHUB
 
 #EXTM3U
 #EXTINF:-1,[COLOR=orange][B]LISTA ADICIONADA: 27/10/2022[/B][/COLOR][COLOR=orange][/COLOR]
@@ -46,11 +45,19 @@ plugin://plugin.video.youtube/play/?video_id=zuKIh2U2xfE
 
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  ISTO É GOZAR COM QUEM TRABALHA - SIC  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]//////  ISTO É GOZAR COM QUEM TRABALHA - SIC  //////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
-#EXTINF:-1,[COLOR=white][B]09 OUT 2022[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,PROGRAMA DIA 23/10/2022
+https://videos.impresa.pt/videos/hls/sic/2022/10/23/9a5bf3bf-04f3-4c70-8c3b-58c2c909faca/SIC-23_10_2022-21_43_22-22_17_10-parte-1-540p.m3u8
+#EXTINF:-1,PROGRAMA DIA 09/10/2022
 https://videos.impresa.pt/videos/hls/sic/2022/10/09/c3207bd5-6da2-4081-88b1-d8dd7bdff24f/SIC-10_09_2022-9_44_38-PM-10_11_04-PM-IEGCQT-540p.m3u8
+#EXTINF:-1,PROGRAMA DIA 25/09/2022
+https://videos.impresa.pt/videos/hls/sic/2022/09/25/87ae3e83-7a69-467e-a3d4-ec6a466c11ba/SIC-09_25_2022-9_47_04-PM-10_15_28-PM-total-540p.m3u8
+#EXTINF:-1,PROGRAMA DIA 18/09/2022
+https://videos.impresa.pt/videos/hls/sic/2022/09/18/a02f1e00-362e-4309-b929-e46bf88d2f99/SIC-18_09_2022-21_44_28-22_14_09-parte-1--online-video-cutter.com--540p.m3u8
+
+
 
 
 #######################################################################################################################
