@@ -48,6 +48,9 @@ plugin://plugin.video.youtube/play/?video_id=zuKIh2U2xfE
 #EXTINF:-1,[COLOR=yellow][B]//////  ISTO É GOZAR COM QUEM TRABALHA - SIC  //////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
+
+#EXTINF:-1,PROGRAMA DIA 30/10/2022 (BREVEMENTE)
+https://00000000000000000000
 #EXTINF:-1,PROGRAMA DIA 23/10/2022
 https://videos.impresa.pt/videos/hls/sic/2022/10/23/9a5bf3bf-04f3-4c70-8c3b-58c2c909faca/SIC-23_10_2022-21_43_22-22_17_10-parte-1-540p.m3u8
 #EXTINF:-1,PROGRAMA DIA 09/10/2022
@@ -56,8 +59,8 @@ https://videos.impresa.pt/videos/hls/sic/2022/10/09/c3207bd5-6da2-4081-88b1-d8dd
 https://videos.impresa.pt/videos/hls/sic/2022/09/25/87ae3e83-7a69-467e-a3d4-ec6a466c11ba/SIC-09_25_2022-9_47_04-PM-10_15_28-PM-total-540p.m3u8
 #EXTINF:-1,PROGRAMA DIA 18/09/2022
 https://videos.impresa.pt/videos/hls/sic/2022/09/18/a02f1e00-362e-4309-b929-e46bf88d2f99/SIC-18_09_2022-21_44_28-22_14_09-parte-1--online-video-cutter.com--540p.m3u8
-
-
+#EXTINF:-1,PROGRAMA DIA 12/09/2022
+https://videos.impresa.pt/videos/hls/sic/2022/09/11/c9eb3a31-c0fe-4638-ba61-a234bdc79947/SIC-11_09_2022-21_34_16-22_10_07-qq--online-video-cutter.com--540p.m3u8
 
 
 #######################################################################################################################
@@ -65,70 +68,70 @@ https://videos.impresa.pt/videos/hls/sic/2022/09/18/a02f1e00-362e-4309-b929-e46b
 https://000000
 
 
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 21/10/2022
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",EIXO DO MAL - 21/10/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/10/21/9420cdbf-2250-46de-973c-d712658efdef/eixo-do-mal-2010_22hv00510250-540p.m3u8
 
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 14/10/2022
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",EIXO DO MAL - 14/10/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/10/14/75800320-6d2d-4bef-8698-af1af19c84ae/eixo-do-mal-pgm-1310.m3u8
 
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 7/10/2022
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",EIXO DO MAL - 07/10/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/10/07/1492b49e-6525-45de-84b1-a26ebba57de5/eixo-do-mal-6-outubro-pgm_22hv00475330.m3u8
 
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 30/9/2022
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",EIXO DO MAL - 30/09/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/09/29/8cb50168-de63-45cd-896a-e167affa1c8f/ft_eixo-do-mal.m3u8
 
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 23/9/2022
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",EIXO DO MAL - 23/09/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/09/23/1b58d6e4-21d1-4731-8b26-38cf585c6924/eixo-do-mal-pgm-2209.m3u8
 
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 16/9/2022
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",EIXO DO MAL - 16/09/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/09/16/d2c8e2df-6a01-4b9f-bb1d-cd1ef23e37e6/eixo-de-mal-15-setembro-pgm_22hv00428220.m3u8
 
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 2/9/2022
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",EIXO DO MAL - 02/09/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/09/02/b8b54d8b-bcd4-4a36-9369-0e3a88f2f039/eixo-do-mal--pgm-0109_22hv00399110.m3u8
 
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 29/7/2022
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",EIXO DO MAL - 29/07/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/07/28/53a5e599-d8d7-4b20-b3d9-18cb270adeb2/eixo-do-mal.m3u8
 
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 21/7/2022
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",EIXO DO MAL - 21/07/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/07/22/e5835d6b-b99f-4cf8-82da-cecb5c891c40/eixo-do-mal-pgm-2107_22hv00320849.m3u8
 
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 8/7/2022
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",EIXO DO MAL - 08/07/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/07/08/8f2187b4-047a-4fbe-9ba5-a488c778569f/eixo-do-mal-0707-pgm.m3u8
 
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 1/7/2022
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",EIXO DO MAL - 01/07/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/07/01/bf53d7ae-4a96-4714-b4f5-937c2e500f70/eixo-do-mal.m3u8
 
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 24/6/2022
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",EIXO DO MAL - 24/06/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/06/23/b01a0919-3c70-42e2-8d18-b7bba91ffbb9/eixo-do-mal-2306-pgm.m3u8
 
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 17/6/2022
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",EIXO DO MAL - 17/06/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/06/16/a00accd2-1660-4130-a203-5c4466c69a00/eixo_22hv00241305.m3u8
 
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 10/6/2022
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",EIXO DO MAL - 10/06/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/06/09/105f1b43-ace7-427a-a2f8-e8d82d99c222/eixo-do-mal.1.m3u8
 
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 3/6/2022
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",EIXO DO MAL - 03/06/2022
 https://cdn.jwplayer.com/manifests/d8bDnO1G.m3u8
 
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 27/5/2022
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",EIXO DO MAL - 27/05/2022
 https://cdn.jwplayer.com/manifests/eqEt1HyE.m3u8
 
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 20/5/2022
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",EIXO DO MAL - 20/05/2022
 https://cdn.jwplayer.com/manifests/Dh2LtscL.m3u8
 
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 13/5/2022
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",EIXO DO MAL - 13/05/2022
 https://cdn.jwplayer.com/manifests/sFcOH5k4.m3u8
 
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 6/5/2022
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",EIXO DO MAL - 06/05/2022
 https://cdn.jwplayer.com/manifests/KASJPaYj.m3u8
 
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 29/4/2022
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",EIXO DO MAL - 29/04/2022
 https://cdn.jwplayer.com/manifests/Mbkr8pJ8.m3u8
 
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 22/4/2022
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",EIXO DO MAL - 22/04/2022
 https://cdn.jwplayer.com/manifests/3AhzNuqR.m3u8
 
-#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",Eixo do Mal - 15/4/2022
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",EIXO DO MAL - 15/04/2022
 https://content.jwplatform.com/manifests/jL3dl5uq.m3u8
 
 
@@ -138,70 +141,70 @@ https://content.jwplatform.com/manifests/jL3dl5uq.m3u8
 https://000000
 
 
-#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E35 17/10/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O OUTRO LADO - T7E35 17/10/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221017000000e035t1180.mp4/master.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
 
-#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E34 10/10/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O OUTRO LADO - T7E34 10/10/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221010000000e034t4090.mp4/master.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
 
-#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E33 3/10/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O OUTRO LADO - T7E33 03/10/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221003000000e033t8013.mp4/master.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
 
-#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E32 26/9/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O OUTRO LADO - T7E32 26/09/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220926235914e032t3558.mp4/master.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
 
-#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E31 19/9/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O OUTRO LADO - T7E31 19/09/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220919235949e031t8705.mp4/master.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
 
-#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E30 12/9/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O OUTRO LADO - T7E30 12/09/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220912235851e030t7021.mp4/master.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
 
-#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E29 5/9/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O OUTRO LADO - T7E29 05/09/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220905000000e029t3055.mp4/master.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
 
-#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E28 25/7/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O OUTRO LADO - T7E28 25/07/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220725000000e028t6244.mp4/master.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
 
-#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E27 18/7/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O OUTRO LADO - T7E27 18/07/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220718000000e027t0802.mp4/master.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
 
-#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E26 11/7/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O OUTRO LADO - T7E26 11/07/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220711235955e026t0988.mp4/master.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
 
-#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E25 4/7/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O OUTRO LADO - T7E25 4/07/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220704000000e025t6101.mp4/master.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
 
-#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E24 27/6/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O OUTRO LADO - T7E24 27/06/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220627000000e024t9179.mp4/master.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
 
-#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E23 20/6/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O OUTRO LADO - T7E23 20/06/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220620000000e023t6226.mp4/master.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
 
-#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E22 13/6/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O OUTRO LADO - T7E22 13/06/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220613235950e022t6667.mp4/master.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
 
-#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E21 6/6/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O OUTRO LADO - T7E21 06/06/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220606000000e021t7368.mp4/master.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
 
-#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E20 30/5/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O OUTRO LADO - T7E20 30/05/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220530235952e020t0472.mp4/master.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
 
-#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E19 23/5/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O OUTRO LADO - T7E19 23/05/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220523235949e019t8146.mp4/master.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
 
-#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E18 16/5/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O OUTRO LADO - T7E18 16/05/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220516000000e018t0535.mp4/master.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
 
-#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E17 9/5/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O OUTRO LADO - T7E17 09/05/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220509000000e017t4281.mp4/master.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
 
-#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E16 2/5/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O OUTRO LADO - T7E16 02/05/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220502000000e016t2439.mp4/master.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
 
-#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E15 18/4/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O OUTRO LADO - T7E15 18/04/2022
 https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220418235938e015t4728.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
 
-#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E14 11/4/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O OUTRO LADO - T7E14 11/04/2022
 https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411000000e014t6348.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
 
 
@@ -210,73 +213,73 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411
 https://000000
 
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 26/10/2022
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",SEM MODERAÇÃO - 26/10/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/10/25/c905f244-5a32-48a2-a9da-29c3cd9f3634/sem-moderacao-pgm-25-out-540p.m3u8
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 19/10/2022
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",SEM MODERAÇÃO - 19/10/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/10/18/3df38bb9-fef4-430d-8ac2-fd2899f751fe/sem-moderacao.6-540p.m3u8
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 12/10/2022
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",SEM MODERAÇÃO - 12/10/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/10/11/d96c6ae9-b8bd-4bb6-af1a-fa731be03a16/sem-moderacao.5.m3u8
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 5/10/2022
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",SEM MODERAÇÃO - 05/10/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/10/04/5fc7f845-03e9-45df-b963-444381a0f420/sem-moderacao.4.m3u8
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 28/9/2022
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",SEM MODERAÇÃO - 28/09/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/09/27/954b7c1e-814d-4c45-97a4-65f489209c87/sem-moderacao.3.m3u8
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 21/9/2022
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",SEM MODERAÇÃO - 21/09/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/09/20/b8841d55-b224-4282-8be3-5fbcd009ae04/sem-moderacao.2.m3u8
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 14/9/2022
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",SEM MODERAÇÃO - 14/09/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/09/13/c26ca26f-b0c6-4a5f-8e59-dbafda57235a/sem-moderacao.1.m3u8
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 7/9/2022
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",SEM MODERAÇÃO - 07/09/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/09/06/79e245c8-6a4b-4512-a13a-a92b4cb78d83/sem-moderacao.m3u8
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 27/7/2022
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",SEM MODERAÇÃO - 27/07/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/07/26/39857ab1-c026-412d-9662-4827b504b7b3/sem-moderacao.m3u8
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 20/7/2022
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",SEM MODERAÇÃO - 20/07/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/07/19/b3781633-dd29-46f0-a003-e6273d730bb0/sem-moderacao-pgm-1907_22hv00316274.m3u8
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 6/7/2022
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",SEM MODERAÇÃO - 06/07/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/07/06/73b8e62b-9889-48e9-9ed6-4772d13a818b/sem-moderacao.1.m3u8
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 29/6/2022
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",SEM MODERAÇÃO - 29/06/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/06/29/3d4a27ad-5321-409a-a026-acafffbc4c92/sem-moderacao.m3u8
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 22/6/2022
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",SEM MODERAÇÃO - 22/06/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/06/22/3cd6e32d-74f1-45f4-89ac-9c7fddb415d7/sem-moderacao.m3u8
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 15/6/2022
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",SEM MODERAÇÃO - 15/06/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/06/15/dc6b2cc1-910c-404f-9cbd-a1202cda7236/sem-moderacao.m3u8
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 8/6/2022
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",SEM MODERAÇÃO - 08/06/2022
 https://cdn.jwplayer.com/manifests/blBwHnnm.m3u8
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 1/6/2022
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",SEM MODERAÇÃO - 01/06/2022
 https://cdn.jwplayer.com/manifests/xO1sxiyG.m3u8
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 25/5/2022
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",SEM MODERAÇÃO - 25/05/2022
 https://cdn.jwplayer.com/manifests/kUTFZ84l.m3u8
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 18/5/2022
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",SEM MODERAÇÃO - 18/05/2022
 https://cdn.jwplayer.com/manifests/BjlBpNLO.m3u8
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 11/5/2022
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",SEM MODERAÇÃO - 11/05/2022
 https://cdn.jwplayer.com/manifests/wvICIGMt.m3u8
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 4/5/2022
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",SEM MODERAÇÃO - 4/05/2022
 https://cdn.jwplayer.com/manifests/w1ivoJC5.m3u8
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 27/4/2022
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",SEM MODERAÇÃO - 27/04/2022
 https://cdn.jwplayer.com/manifests/A5m2MNbl.m3u8
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 20/4/2022
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",SEM MODERAÇÃO - 20/04/2022
 https://cdn.jwplayer.com/manifests/cZo2e5yC.m3u8
 
-#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 13/4/2022
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",SEM MODERAÇÃO - 13/04/2022
 https://cdn.jwplayer.com/manifests/6ipev8fs.m3u8
 
 
@@ -294,73 +297,70 @@ https://videos.impresa.pt/videos/hls/sicnot/2022/10/21/3a41dd2a-6dbb-49ad-a698-6
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 15/10/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/10/15/78984233-614e-4e4f-b2b4-506ecdb8adce/gs.m3u8
 
-#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 7/10/2022
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 07/10/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/10/07/f3cf12b0-fcea-4b1f-9288-41d437a653f9/programa-cujo-nome-pgm-7-out_22hv00477403.m3u8
 
-#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 1/10/2022
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 01/10/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/09/30/d5f969db-0884-4b50-9da7-4b9016ce04f6/programa-cujo-nome-pgm-30-set_22hv00462070.m3u8
 
-#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 24/9/2022
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 24/009/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/09/23/152e7fde-352a-41d4-8947-ba44bf545e60/programa-cujo-nome-23-set-pgm.m3u8
 
-#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 17/9/2022
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 17/09/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/09/16/380750c3-848c-4d67-a848-0ba7b33f18cf/programa-cujo-nome-pgm033-pgm_22hv00429991.m3u8
 
-#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 10/9/2022
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 10/09/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/09/09/0b8b8250-7266-4031-bf43-905109838efe/ft_programa-cujo-nome-ep32-9-set-pgm.m3u8
 
-#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 3/9/2022
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 03/09/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/09/02/1e614fca-e9f4-4171-8a86-6e19765a0e57/pgm-cujo-nome-pgm-0209_22hv00401340.m3u8
 
-#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 30/7/2022
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 30/07/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/07/29/fd24006e-de2f-43bd-aee3-b31e257d4c68/programa-cujo-nome-pgm-2907_22hv00335344.m3u8
 
-#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 23/7/2022
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 23/07/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/07/23/32bccada-f6a7-4dea-aeb9-e3cf4bc245e9/programa-cujo-nome-2207-pgm_22hv00322825.m3u8
 
-#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 16/7/2022
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 16/07/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/07/15/fe284cf4-7769-4b6b-88ff-7b0eaec26eae/gs0807-pgm_22hv00292575.m3u8
 
-#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 9/7/2022
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 09/07/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/07/08/1c4937cf-774f-4f02-bb3e-8fce310ba7ae/gs0807-pgm.m3u8
 
-#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 2/7/2022
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 02/07/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/07/01/be20aba5-84dc-4cfa-8eda-533853f936f6/gs0107-pgm.m3u8
 
-#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 25/6/2022
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 25/06/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/06/24/b6dcb3b2-d02f-46fe-9d16-66a7ef2868ce/gs2406-pgm_22hv00259908.m3u8
 
-#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 18/6/2022
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 18/06/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/06/17/ecabfabe-cc9a-45cc-b3f3-05d1796a9d39/programa-cujo-nome-pgm-1706.m3u8
 
-#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 11/6/2022
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 11/06/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/06/11/e9f210fb-8982-42a1-b734-8a7aa2a73937/programa-cujo-nome-pgm-1006_22hv00230763.m3u8
 
-#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 4/6/2022
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 04/06/2022
 https://cdn.jwplayer.com/manifests/A0HsPe8E.m3u8
 
-#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 28/5/2022
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 28/05/2022
 https://cdn.jwplayer.com/manifests/Z79K1nuz.m3u8
 
-#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 21/5/2022
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 21/05/2022
 https://cdn.jwplayer.com/manifests/N6KxFMnT.m3u8
 
-#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 14/5/2022
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 14/05/2022
 https://cdn.jwplayer.com/manifests/bGgWcbW7.m3u8
 
-#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 7/5/2022
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 07/05/2022
 https://cdn.jwplayer.com/manifests/IVMUreOJ.m3u8
 
-#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 30/4/2022
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 30/04/2022
 https://cdn.jwplayer.com/manifests/ZocaiFcb.m3u8
 
-#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 23/4/2022
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 23/04/2022
 https://cdn.jwplayer.com/manifests/Mvuo738f.m3u8
 
-#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 16/4/2022
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 16/04/2022
 https://cdn.jwplayer.com/manifests/v8e6Ytdz.m3u8
-
-
-
 
 
