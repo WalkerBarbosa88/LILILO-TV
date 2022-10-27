@@ -14,6 +14,18 @@
 
 <channels>
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]PROGRAMAS TV PT[/COLOR][/B]</name>
+<thumbnail>https://ia801400.us.archive.org/18/items/programas-tv/Programas%20TV.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/LILILO-TV/main/programas%20TV</externallink>
+<fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
+<info></info>
+</channel>
+
+
+
+
+<channels>
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR gold]DISCOTECA HOLLYWOOD[/COLOR][/B]</name>
 <thumbnail>https://ia801702.us.archive.org/11/items/discoteca-hollywood/Discoteca%20Hollywood.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/ufXtnqTG</externallink>
@@ -52,6 +64,7 @@
 </channel>
 
 
+
 <channels>
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR gold]CAMPEÃO 2020 / 2021[/COLOR][/B]</name>
@@ -61,15 +74,6 @@
 <info></info>
 </channel>
 
-
-<channels>
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold]PROGRAMAS TV PT[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/LILILO-TV/main/programas%20TV</externallink>
-<fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
-<info></info>
-</channel>
 
 
 </channels>
