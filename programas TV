@@ -196,6 +196,12 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411
 https://000000
 
 
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 26/10/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/10/25/c905f244-5a32-48a2-a9da-29c3cd9f3634/sem-moderacao-pgm-25-out-540p.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 19/10/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/10/18/3df38bb9-fef4-430d-8ac2-fd2899f751fe/sem-moderacao.6-540p.m3u8
+
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 12/10/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/10/11/d96c6ae9-b8bd-4bb6-af1a-fa731be03a16/sem-moderacao.5.m3u8
 
@@ -264,6 +270,12 @@ https://cdn.jwplayer.com/manifests/6ipev8fs.m3u8
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  PCNELID - SIC NOTÍCIAS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
+
+NOME DO PROGRAMA:  Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
+
+
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 21/10/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/10/21/3a41dd2a-6dbb-49ad-a698-69876c7ff7e8/programa-cujo-nome-pgm-21-out_22hv00512692-540p.m3u8
 
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 15/10/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/10/15/78984233-614e-4e4f-b2b4-506ecdb8adce/gs.m3u8
