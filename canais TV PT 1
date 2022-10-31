@@ -10,13 +10,14 @@ http://0.0.0.0:0000
 * LISTAS GRATUITAS IPTV ORG - https://github.com/iptv-org/iptv
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 21/10/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 31/10/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
 #EXTINF:-1,[COLOR=yellow][B]/////////  RÁDIOS, TV E CANAIS PT EXCLUSIVOS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #EXTM3U
+
 
 #EXTINF:-1,[COLOR=white][B]ONFM TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
@@ -42,8 +43,7 @@ https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
 https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="NASATV.us" group-title="Science",[COLOR=white][B]NASA TV[/B][/COLOR][COLOR=white][/COLOR] 
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Kim87Pv.jpg" group-title="",[COLOR=white][B]VATICANO NEWS ITÁLIA[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=sOa63PGqydM&ab_channel=VaticanNews-Portugu%C3%AAs
+
 
 
 ##########################################################################################################################################
