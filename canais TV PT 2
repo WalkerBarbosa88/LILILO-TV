@@ -7,7 +7,7 @@ http://0.0.0.0:0000
  
 #EXTM3U
             
-#EXTINF:-1,[COLOR=orange][B]LISTA 1 REVISTA: 24/10/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA 1 REVISTA: 31/10/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -302,8 +302,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1420
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/264642
 #EXTINF:0 tvg-id="AMC.pt" group-title="Channels",PT: AMC
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1473
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: AUTOMOTOR SPORT CHANNEL
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/16430
 #EXTINF:0 tvg-id="axn.pt" group-title="Channels",PT: AXN
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1469
 #EXTINF:0 tvg-id="AXNBlack.pt" group-title="Channels",PT: AXN BLACK
