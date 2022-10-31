@@ -39,8 +39,11 @@ http://live-1.otcnet.ru/onehdweb/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]1HD MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
 https://sc.id-tv.kz/1hd.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]1HD ROMENIA HD[/B][/COLOR][COLOR=
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]1HD ROMENIA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/chunklist_b5256000.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]4FUN MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
+https://stream.4fun.tv:8888/hls/4f.m3u8
 
 #EXTINF:-1,[COLOR=white][B]TRACE URBAN FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
