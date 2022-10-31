@@ -3,7 +3,7 @@
 http://0.0.0.0:0000
 ############################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 21/10/2022[/B][/COLOR][COLOR=orange][/COLOR] 
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 31/10/2022[/B][/COLOR][COLOR=orange][/COLOR] 
 
 Fonte de Informação: 
 
@@ -21,20 +21,12 @@ http://0000000000000000000000000000
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=white][B]GHOST TV[/B][/COLOR][COLOR=white][/COLOR]
-https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8?ROGERIOTORRES
-#EXTINF:-1 group-title="ANIME E TOKUSATSU",[COLOR=white][B]LOADING TV[/B][/COLOR][COLOR=white][/COLOR]
-https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="GEEK",[COLOR=white][B]BONS TEMPOS TV[/B][/COLOR][COLOR=white][/COLOR]
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK",[COLOR=white][B]RETRO CARTOONS TV[/B][/COLOR][COLOR=white][/COLOR]
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8?ROGERIOTORRES
-#EXTINF:-1,[COLOR=white][B]CANAL EDUCAÇÃO[/B][/COLOR][COLOR=white][/COLOR]
-http://189.81.142.134:4000/play/a05z
-#EXTINF:-1,[COLOR=white][B]CANAL RURAL[/B][/COLOR][COLOR=white][/COLOR]
-http://189.81.142.134:4000/play/a05r
-#EXTINF:-1,[COLOR=white][B]CARTOONITO HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800575/759878/m4_0LsT3zQewCyqpN6kUJEaSZg1_720p
+
 
 
 ####################################################################################################################################
@@ -43,41 +35,28 @@ http://0000000000000000000000000000
 
 #EXTM3U
 
-
-#EXTINF:-1,[COLOR=white][B]ESPN EXTRA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://acsb.sh:80/4673629418/snakeplay/71917
-#EXTINF:-1,[COLOR=white][B]ESPN EXTRA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.81.142.134:4000/play/a072
-#EXTINF:-1,[COLOR=white][B]ESPN EXTRA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800575/759878/m1_ByxjeSWip68MPJsHRqZ2vku_720p
-
 #EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.81:1234
 #EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82825
-#EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.81.142.134:4000/play/a06u
+
 
 #EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.152:1234 
 #EXTINF:-1,[COLOR=white][B]ESPN 2 SD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.86:1234 
-#EXTINF:-1,[COLOR=white][B]ESPN 2 SD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.81.142.134:4000/play/a06v
 
 #EXTINF:-1,[COLOR=white][B]ESPN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.153:1234
 #EXTINF:-1,[COLOR=white][B]ESPN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82828
-#EXTINF:-1,[COLOR=white][B]ESPN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.81.142.134:4000/play/a06y
+
 
 #EXTINF:-1,[COLOR=white][B]ESPN 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.116:1234 
 #EXTINF:-1,[COLOR=white][B]ESPN 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82754
-#EXTINF:-1,[COLOR=white][B]ESPN 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.81.142.134:4000/play/a06z
+
 
 #EXTINF:-1,[COLOR=white][B]SPORTV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://acsb.sh:80/4673629418/snakeplay/72332
@@ -85,8 +64,7 @@ http://acsb.sh:80/4673629418/snakeplay/72332
 http://acsb.sh:80/4673629418/snakeplay/72324
 #EXTINF:-1,[COLOR=white][B]SPORTV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://acsb.sh:80/4673629418/snakeplay/131113.ts
-#EXTINF:-1,[COLOR=white][B]SPORTV 3 SD[/B][/COLOR][COLOR=white][/COLOR]
-http://acsb.sh:80/4673629418/snakeplay/131108.ts
+
 
 #EXTINF:-1,[COLOR=white][B]ALL SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://5cf4a2c2512a2.streamlock.net:1935/dgrau/dgrau/playlist.m3u8
@@ -139,27 +117,19 @@ http://189.91.128.146:4444/udp/227.10.20.83:1234
 
 #EXTINF:-1,[COLOR=white][B]DISCOVERY SCIENCE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.92:1234 
-#EXTINF:-1,[COLOR=white][B]DISCOVERY SCIENCE HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800575/759878/m3_yIvLaPOcxH4qTtjiZfV3p2Y7_720p_2M
 
 #EXTINF:-1,[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.85:1234
 #EXTINF:-1,[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
 http://acsb.sh:80/4673629418/snakeplay/71870
-#EXTINF:-1,[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800575/759878/m1_6Ij7gxZOdZwDVlMjlbHc5_720p_2M
-#EXTINF:-1,[COLOR=white][B]DISCOVERY H&H FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800575/759878/m1_6Ij7gxZOdZwDVlMjlbHc5_1080p
+
 
 #EXTINF:-1,[COLOR=white][B]DISCOVERY ANIMAL PLANET HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.118:1234
-#EXTINF:-1,[COLOR=white][B]DISCOVERY ANIMAL PLANET HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800575/759878/m1_ZJTh6oMdeOk_1080p
 
 #EXTINF:-1,[COLOR=white][B]DISCOVERY WORLD HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82931
-#EXTINF:-1,[COLOR=white][B]DISCOVERY WORLD HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800575/759878/m2_be0dGtMO3SNcZq7TRHUvKXpn_720p
+
 
 
 
@@ -172,24 +142,15 @@ http://0000000000000000000000000000
 https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
 #EXTINF:-1,[COLOR=white][B]TRACE BRAZUCA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://acsb.sh:80/4673629418/snakeplay/72388
-#EXTINF:-1,[COLOR=white][B]MTV BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800575/759878/m1_G78hbKTqXvwtlVHfAMF0k5p9_720p
-#EXTINF:-1,[COLOR=white][B]MTV 00´S SD[/B][/COLOR][COLOR=white][/COLOR]
-http://acsb.sh:80/4673629418/snakeplay/72426
 #EXTINF:-1,[COLOR=white][B]MUSIC BOX SD[/B][/COLOR][COLOR=white][/COLOR]
 http://acsb.sh:80/4673629418/snakeplay/72187
-#EXTINF:-1,[COLOR=white][B]MUSIC BOX HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800575/759878/m3_bdp8X6CKQZjtAfYc5voH_720p
-#EXTINF:-1,[COLOR=white][B]MULTISHOW HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800575/759878/m1_xBEDmuNinjXaf4ZHcGkRsr7h_720p
 #EXTINF:-1 group-title="CANAIS | MUSICA" tvg-logo="http://logocanais.ddns.net/Logo/Bis1.png",[COLOR=white][B]BIS FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://axr.life:80/096154/686531/5195
 #EXTINF:-1,[COLOR=white][B]K-POP TV PLAY HD[/B][/COLOR][COLOR=white][/COLOR]
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1609920726.m3u8
 #EXTINF:-1,[COLOR=white][B]K-POP TV PLAY HD[/B][/COLOR][COLOR=white][/COLOR]
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,[COLOR=white][B]SEXY KPOP HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800575/759878/m2_9EOCjuxykuMtRyJM_720p
+
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  URBAN TV BRASIL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -218,17 +179,12 @@ http://189.91.128.146:4444/udp/227.10.20.160:1234
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1,[COLOR=white][B]GLOBO HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.109:1234
-#EXTINF:-1,[COLOR=white][B]GLOBO NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800575/759878/p3_TkpBaA2SR5zzC0o
-#EXTINF:-1,[COLOR=white][B]GLOBO NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800575/759878/m3_1R7hfaksLPjw6EHrN8XGvFSo_1080p
+
 
 #EXTINF:-1,[COLOR=white][B]TV RECORD HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.147:1234
 #EXTINF:-1,[COLOR=white][B]RECORD NEWS HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://189.91.128.146:4444/udp/227.10.20.170:1234
-#EXTINF:-1,[COLOR=white][B]RECORD NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800575/759878/m2_dHYy9wieO2jb1QALkn30rI7u_720p
 
 #EXTINF:-1,[COLOR=white][B]REDE TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.122:1234
@@ -236,12 +192,8 @@ http://189.91.128.146:4444/udp/227.10.20.122:1234
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8?ROGERIOTORRES
 #EXTINF:-1,[COLOR=white][B]BAND NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.131:1234
-#EXTINF:-1,[COLOR=white][B]BAND NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800575/759878/m3_wM1DcpyixXePdVU8F2ogE6KT_720p_2M
 #EXTINF:-1,[COLOR=white][B]SBT HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.120:1234 
-#EXTINF:-1,[COLOR=white][B]SBT HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.81.142.134:4000/play/a06e
 #EXTINF:-1,[COLOR=white][B]SBT INTERIOR HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-1,[COLOR=white][B]REUTERS HD (ENG.)[/B][/COLOR][COLOR=white][/COLOR]
@@ -271,28 +223,6 @@ http://189.91.128.146:4444/udp/227.10.20.171:1234
 http://189.91.128.146:4444/udp/227.10.20.139:1234
 #EXTINF:-1,[COLOR=white][B]PARAMOUNT NETWORK HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.140:1234
-#EXTINF:-1 tvg-id="AMC HD" tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",[COLOR=white][B]AMC HD[/B][/COLOR][COLOR=white][/COLOR]
-http://acsb.sh:80/4673629418/snakeplay/71770
-#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries",[COLOR=white][B]AXN HD[/B][/COLOR][COLOR=white][/COLOR]
-http://acsb.sh:80/4673629418/snakeplay/71783
-#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Filmes e Séries",[COLOR=white][B]CANAL SONY HD[/B][/COLOR][COLOR=white][/COLOR]
-http://acsb.sh:80/4673629418/snakeplay/71826
-#EXTINF:-1 tvg-logo="http://a5.vc/Ck2" group-title="Canais | Filmes e Séries",[COLOR=white][B]STAR CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://acsb.sh:80/4673629418/snakeplay/71938
-#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Canais | Filmes e Séries",[COLOR=white][B]HBO HD[/B][/COLOR][COLOR=white][/COLOR]
-http://acsb.sh:80/4673629418/snakeplay/72120
-#EXTINF:-1 tvg-logo="http://a5.vc/u7I" group-title="Canais | Filmes e Séries",[COLOR=white][B]STUDIO UNIVERSAL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://acsb.sh:80/4673629418/snakeplay/72336
-#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="Canais | Filmes e Séries",[COLOR=white][B]WARNER CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://acsb.sh:80/4673629418/snakeplay/72433
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/7bb54630-d5d6-450e-997c-3ab0c78c31e3" parent-code= "" group-title="NooXTV",[COLOR=white][B]STAR+ 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800575/759878/m3_B7hFXSnaqw2EJk3Ic6pPyi5Y_720p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/311a22e0-02be-49f0-b21d-ec2323baaa05" parent-code= "" group-title="NooXTV",[COLOR=white][B]STAR+2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800575/759878/m1_e8e0475e7548d3b1_720p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/6a2330b3-8524-4639-af31-eea7bcee377e" parent-code= "" group-title="NooXTV",[COLOR=white][B]STAR+ 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800575/759878/m1_9b0bf85a96462778_720p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/6da04136-e1b9-4450-b2e2-ef7562b6eee2" parent-code= "" group-title="NooXTV",[COLOR=white][B]STAR+ 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800575/759878/m2_ee92c0f83475cfae7c8_720p
 
 
 
@@ -397,7 +327,7 @@ http://189.91.128.146:4444/udp/227.10.20.166:1234
 
 
 ####################################################################################################################################
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 21/10/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 31/10/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIL1ho006Jea_Lf0E91i8HE9TZjeKXIkmm2Ygqo2p6ZO3JAOwYALJ56UPiax7h1rGOFw&usqp=CAU",[COLOR=white][B]DELUXE LOUNGE[/B][/COLOR][COLOR=white][/COLOR]
@@ -525,9 +455,11 @@ http://189.91.128.146:4444/udp/227.10.20.163:1234
 http://189.91.128.146:4444/udp/227.10.20.164:1234
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTA ADICIONADA: 28/10/2022[/B][/COLOR][COLOR=orange][/COLOR] 
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 31/10/2022[/B][/COLOR][COLOR=orange][/COLOR] 
 
 #EXTM3U
+
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR1: PREMIERE 2 FHD¹
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/215651
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR1: PREMIERE 2 H265¹
@@ -594,14 +526,6 @@ http://tugapt.top:8080/LierT2022/psM7nbqpUq/215751
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/270166
 #EXTINF:0 tvg-id="ext" group-title="Channels",A Fazenda Sinal 1_Alternativo
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/270167
-#EXTINF:0 tvg-id="ext" group-title="Channels",A Fazenda Sinal 2
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/270168
-#EXTINF:0 tvg-id="ext" group-title="Channels",A Fazenda Sinal 2_Alternativo
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/270169
-#EXTINF:0 tvg-id="ext" group-title="Channels",A Fazenda Sinal 3
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/270170
-#EXTINF:0 tvg-id="ext" group-title="Channels",A Fazenda Sinal 3_Alternativo
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/270171
 #EXTINF:0 tvg-id="ext" group-title="Channels",A Fazenda Sinal 4
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/270172
 #EXTINF:0 tvg-id="ext" group-title="Channels",A Fazenda Sinal 4_Alternativo
@@ -614,18 +538,8 @@ http://tugapt.top:8080/LierT2022/psM7nbqpUq/270175
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/270176
 #EXTINF:0 tvg-id="ext" group-title="Channels",A Fazenda Sinal 6_Alternativo
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/270177
-#EXTINF:0 tvg-id="ext" group-title="Channels",A Fazenda Sinal 7
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/270178
 #EXTINF:0 tvg-id="ext" group-title="Channels",A Fazenda Sinal 7_Alternativo
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/270179
-#EXTINF:0 tvg-id="ext" group-title="Channels",A Fazenda Sinal 8
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/270180
-#EXTINF:0 tvg-id="ext" group-title="Channels",A Fazenda Sinal 8_Alternativo
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/270181
-#EXTINF:0 tvg-id="ext" group-title="Channels",A Fazenda Sinal 9
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/270182
-#EXTINF:0 tvg-id="ext" group-title="Channels",A Fazenda Sinal 9_Alternativo
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/270183
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR1: PREMIERE 7 HD¹
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272386
 #EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO AM FHD
@@ -750,8 +664,6 @@ http://tugapt.top:8080/LierT2022/psM7nbqpUq/272448
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272449
 #EXTINF:0 tvg-id="NickJrHD.us" group-title="Channels",NICK JR HD
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272450
-#EXTINF:0 tvg-id="nick-jr" group-title="Channels",NICK JR SD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272451
 #EXTINF:0 tvg-id="nickelod-hd" group-title="Channels",NICKELODEON FHD
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272452
 #EXTINF:0 tvg-id="nickelod-hd" group-title="Channels",NICKELODEON HD
@@ -1004,12 +916,6 @@ http://tugapt.top:8080/LierT2022/psM7nbqpUq/272575
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272576
 #EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Channels",COMEDY CENTRAL SD
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272577
-#EXTINF:0 tvg-id="DogTV354.us" group-title="Channels",DOG TV FHD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272578
-#EXTINF:0 tvg-id="DogTV354.us" group-title="Channels",DOG TV HD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272579
-#EXTINF:0 tvg-id="DogTV354.us" group-title="Channels",DOG TV SD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272580
 #EXTINF:0 tvg-id="E.uk" group-title="Channels",E! FHD
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272581
 #EXTINF:0 tvg-id="E.uk" group-title="Channels",E! HD
@@ -1064,12 +970,6 @@ http://tugapt.top:8080/LierT2022/psM7nbqpUq/272605
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272606
 #EXTINF:0 tvg-id="ext" group-title="Channels",MUSIC BOX BRAZIL SD
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272607
-#EXTINF:0 tvg-id="tlc-russia" group-title="Channels",TLC SD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272608
-#EXTINF:0 tvg-id="tlc-russia-hd" group-title="Channels",TLC HD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272609
-#EXTINF:0 tvg-id="tlc-russia-hd" group-title="Channels",TLC FHD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272610
 #EXTINF:0 tvg-id="ext" group-title="Channels",TRAVEL BOX FHD
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272611
 #EXTINF:0 tvg-id="ext" group-title="Channels",TRAVEL BOX HD
@@ -1118,8 +1018,6 @@ http://tugapt.top:8080/LierT2022/psM7nbqpUq/272632
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272633
 #EXTINF:0 tvg-id="Rederecord.br" group-title="Channels",RECORD ES SD
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272634
-#EXTINF:0 tvg-id="Rederecord.br" group-title="Channels",RECORD FHD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272635
 #EXTINF:0 tvg-id="Rederecord.br" group-title="Channels",RECORD HD
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272636
 #EXTINF:0 tvg-id="ext" group-title="Channels",RECORD MG FHD
@@ -1152,8 +1050,6 @@ http://tugapt.top:8080/LierT2022/psM7nbqpUq/272649
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272650
 #EXTINF:0 tvg-id="ext" group-title="Channels",RECORD RS SD
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272651
-#EXTINF:0 tvg-id="Rederecord.br" group-title="Channels",RECORD SD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272652
 #EXTINF:0 tvg-id="ext" group-title="Channels",RECORD SP FHD
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272653
 #EXTINF:0 tvg-id="ext" group-title="Channels",RECORD SP HD
@@ -1214,10 +1110,6 @@ http://tugapt.top:8080/LierT2022/psM7nbqpUq/272680
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272681
 #EXTINF:0 tvg-id="Sbt.br" group-title="Channels",SBT SD
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272682
-#EXTINF:0 tvg-id="ext" group-title="Channels",SBT SP FHD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272683
-#EXTINF:0 tvg-id="ext" group-title="Channels",SBT SP HD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272684
 #EXTINF:0 tvg-id="Sbtsp.br" group-title="Channels",SBT SP SD
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272685
 #EXTINF:0 tvg-id="animal-hd" group-title="Channels",ANIMAL PLANET FHD
@@ -1234,28 +1126,12 @@ http://tugapt.top:8080/LierT2022/psM7nbqpUq/272690
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272691
 #EXTINF:0 tvg-id="natgeo" group-title="Channels",NAT GEO SD
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272692
-#EXTINF:0 tvg-id="natgeo_hd" group-title="Channels",NAT GEO HD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272693
-#EXTINF:0 tvg-id="natgeo_hd" group-title="Channels",NAT GEO FHD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272694
 #EXTINF:0 tvg-id="H2.uk" group-title="Channels",HISTORY 2 FHD
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272695
 #EXTINF:0 tvg-id="H2.uk" group-title="Channels",HISTORY 2 HD
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272696
-#EXTINF:0 tvg-id="history2-rus" group-title="Channels",HISTORY 2 SD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272697
-#EXTINF:0 tvg-id="HistoryHD.ru" group-title="Channels",HISTORY FHD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272698
-#EXTINF:0 tvg-id="HistoryHD.ru" group-title="Channels",HISTORY HD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272699
 #EXTINF:0 tvg-id="history-rus" group-title="Channels",HISTORY SD
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272700
-#EXTINF:0 tvg-id="wild-hd" group-title="Channels",NAT GEO WILD HD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272701
-#EXTINF:0 tvg-id="natgeowild" group-title="Channels",NAT GEO WILD SD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272702
-#EXTINF:0 tvg-id="wild-hd" group-title="Channels",NAT GEO WILD FHD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272703
 #EXTINF:0 tvg-id="AyE.mx" group-title="Channels",A&E FHD
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272704
 #EXTINF:0 tvg-id="AyE.mx" group-title="Channels",A&E HD
@@ -1276,22 +1152,8 @@ http://tugapt.top:8080/LierT2022/psM7nbqpUq/272711
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272712
 #EXTINF:0 tvg-id="ext" group-title="Channels",STAR LIFE FHD
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272713
-#EXTINF:0 tvg-id="ext" group-title="Channels",STAR LIFE HD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272714
 #EXTINF:0 tvg-id="StarOne.uk" group-title="Channels",STAR LIFE SD
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272715
-#EXTINF:0 tvg-id="ext" group-title="Channels",STAR HITS FHD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272716
-#EXTINF:0 tvg-id="ext" group-title="Channels",STAR HITS HD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272717
-#EXTINF:0 tvg-id="ext" group-title="Channels",STAR HITS SD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272718
-#EXTINF:0 tvg-id="ext" group-title="Channels",STAR HITS 2 FHD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272719
-#EXTINF:0 tvg-id="ext" group-title="Channels",STAR HITS 2 HD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272720
-#EXTINF:0 tvg-id="ext" group-title="Channels",STAR HITS 2 SD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272721
 #EXTINF:0 tvg-id="TCM.uk" group-title="Channels",TCM FHD
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272722
 #EXTINF:0 tvg-id="TCM.uk" group-title="Channels",TCM HD
@@ -1350,8 +1212,6 @@ http://tugapt.top:8080/LierT2022/psM7nbqpUq/272748
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272749
 #EXTINF:0 tvg-id="SpaceHD.mx" group-title="Channels",SPACE HD
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272750
-#EXTINF:0 tvg-id="Space.br" group-title="Channels",SPACE SD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272751
 #EXTINF:0 tvg-id="StudioUniversalHD.cl" group-title="Channels",STUDIO UNIVERSAL FHD
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272752
 #EXTINF:0 tvg-id="StudioUniversalHD.cl" group-title="Channels",STUDIO UNIVERSAL HD
@@ -1364,68 +1224,26 @@ http://tugapt.top:8080/LierT2022/psM7nbqpUq/272755
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272756
 #EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",SYFY SD
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272757
-#EXTINF:0 tvg-id="Canalrural.br" group-title="Channels",CANAL RURAL
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272758
 #EXTINF:0 tvg-id="ext" group-title="Channels",FONTE TV
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272759
 #EXTINF:0 tvg-id="ext" group-title="Channels",ITV BRASIL
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272760
 #EXTINF:0 tvg-id="ext" group-title="Channels",PUC TV GOIÁS
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272761
-#EXTINF:0 tvg-id="ext" group-title="Channels",TBC BRASIL CENTRAL
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272762
-#EXTINF:0 tvg-id="ext" group-title="Channels",TERÊ TV
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272763
 #EXTINF:0 tvg-id="ext" group-title="Channels",TV ABERTA
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272764
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV AD-BELÉM
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272765
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV ALBA
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272766
-#EXTINF:0 tvg-id="Tvassembleia.br" group-title="Channels",TV ASSEMBLEIA
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272767
 #EXTINF:0 tvg-id="ext" group-title="Channels",TV ATIVIDADE
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272768
 #EXTINF:0 tvg-id="ext" group-title="Channels",TV BRUSQUE
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272769
 #EXTINF:0 tvg-id="ext" group-title="Channels",TV CANAL 16
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272770
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV CANDIDES
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272771
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV CIDADE VERDE
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272772
-#EXTINF:0 tvg-id="Tvcultura.br" group-title="Channels",TV CULTURA
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272773
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV CULTURA VALE DO AÇO
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272774
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV DIARIO
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272775
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV DIFUSORA
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272776
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV DIFUSORA DO SUL
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272777
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV GALEGA
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272778
 #EXTINF:0 tvg-id="TVGazeta.br" group-title="Channels",TV GAZETA FHD
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272779
 #EXTINF:0 tvg-id="TVGazeta.br" group-title="Channels",TV GAZETA HD
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272780
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV GERAL HD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272781
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV GERAL SD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272782
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV GUARAPARI
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272783
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV ITAPE
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272784
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV JAGUAR
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272785
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV JORNET
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272786
 #EXTINF:0 tvg-id="ext" group-title="Channels",TV MANA PORTUGUES
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272787
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV METRÓPOLE
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272788
 #EXTINF:0 tvg-id="ext" group-title="Channels",TV MUNDIAL
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272789
 #EXTINF:0 tvg-id="ext" group-title="Channels",TV O POVO
@@ -1434,26 +1252,14 @@ http://tugapt.top:8080/LierT2022/psM7nbqpUq/272790
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272791
 #EXTINF:0 tvg-id="ext" group-title="Channels",TV POÇOS
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272792
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV SETE LAGOAS
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272793
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV TRANSAMÉRICA
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272794
 #EXTINF:0 tvg-id="ext" group-title="Channels",TV UNIVERSAL
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272795
-#EXTINF:0 tvg-id="TVE.se" group-title="Channels",TVE
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272796
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVE BAHIA HD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272797
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVE BAHIA SD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272798
 #EXTINF:0 tvg-id="ext" group-title="Channels",TVN Brasil
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272799
 #EXTINF:0 tvg-id="ext" group-title="Channels",VIA MORENA
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272800
 #EXTINF:0 tvg-id="Cancaonova.br" group-title="Channels",CANÇÃO NOVA HD
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272801
-#EXTINF:0 tvg-id="CancaoNova.br" group-title="Channels",CANÇÃO NOVA SD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272802
 #EXTINF:0 tvg-id="ext" group-title="Channels",GOSPEL MOVIES
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272803
 #EXTINF:0 tvg-id="ext" group-title="Channels",REDE FAMILIA HD
@@ -1496,10 +1302,6 @@ http://tugapt.top:8080/LierT2022/psM7nbqpUq/272821
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272822
 #EXTINF:0 tvg-id="24dok" group-title="Channels",TBS SD
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272823
-#EXTINF:0 tvg-id="ESPN.uk" group-title="Channels",ESPN FHD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272824
-#EXTINF:0 tvg-id="ESPN.uk" group-title="Channels",ESPN HD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272825
 #EXTINF:0 tvg-id="Fishtv.br" group-title="Channels",FISH TV FHD
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272826
 #EXTINF:0 tvg-id="Fishtv.br" group-title="Channels",FISH TV HD
@@ -1604,10 +1406,6 @@ http://tugapt.top:8080/LierT2022/psM7nbqpUq/272875
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272876
 #EXTINF:0 tvg-id="ext" group-title="Channels",STAR CHANNEL HD
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272877
-#EXTINF:0 tvg-id="otr" group-title="Channels",STAR CHANNEL SD
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272878
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO MAX 01
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/273507
 #EXTINF:0 tvg-id="ext" group-title="Channels",HBO MAX 02
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/273508
 #EXTINF:0 tvg-id="ext" group-title="Channels",HBO MAX 03
@@ -1616,8 +1414,6 @@ http://tugapt.top:8080/LierT2022/psM7nbqpUq/273509
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/273510
 #EXTINF:0 tvg-id="ext" group-title="Channels",HBO MAX 05
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/273511
-
-
 
 
 
