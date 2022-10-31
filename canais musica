@@ -34,7 +34,9 @@ http://45.11.56.147:8808/stream?id=137
 https://000000
 
 
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]1HD MUSIC TV[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]1HD MUSIC FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://live-1.otcnet.ru/onehdweb/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]1HD MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
 https://sc.id-tv.kz/1hd.m3u8
 
 #EXTINF:-1,[COLOR=white][B]TRACE URBAN FHD[/B][/COLOR][COLOR=white][/COLOR]
