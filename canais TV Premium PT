@@ -40,6 +40,84 @@ https://00000000000
 #EXTM3U
 
 
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",PT: SPORT TV +
+http://iptvtree.net:8080/F17744/f01e18e2/1481
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",SPORT TV + PT
+http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2530/index.m3u8
+
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1
+http://iptvtree.net:8080/F17744/f01e18e2/1483
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1 HD PT
+http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2525/index.m3u8
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2 HD PT
+http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2526/index.m3u8
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2
+http://iptvtree.net:8080/F17744/f01e18e2/1486
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3
+http://iptvtree.net:8080/F17744/f01e18e2/1489
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",SPORT TV 3 HD PT
+http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2527/index.m3u8
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",SPORT TV 4 PT
+http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2528/index.m3u8
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4
+http://iptvtree.net:8080/F17744/f01e18e2/1492
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT: SPORT TV 5
+http://iptvtree.net:8080/F17744/f01e18e2/1495
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",SPORT TV 5 PT
+http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2529/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 6
+http://iptvtree.net:8080/F17744/f01e18e2/281487
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV NBA
+http://iptvtree.net:8080/F17744/f01e18e2/2051
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE Action
+http://iptvtree.net:8080/F17744/f01e18e2/1452
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE Edition
+http://iptvtree.net:8080/F17744/f01e18e2/82254
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE Emotion
+http://iptvtree.net:8080/F17744/f01e18e2/1448
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE Top
+http://iptvtree.net:8080/F17744/f01e18e2/1446
+
+
+
+
+
+
+#EXTINF:0 tvg-id="elevensports1.pt" group-title="Channels",Eleven Sports 1 HD PT
+http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2531/index.m3u8
+#EXTINF:0 tvg-id="elevensports2.pt" group-title="Channels",Eleven Sports 2 HD PT
+http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2532/index.m3u8
+#EXTINF:0 tvg-id="ElevenSports3.pt" group-title="Channels",Eleven Sports 3 PT
+http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2533/index.m3u8
+#EXTINF:0 tvg-id="ElevenSports4.pt" group-title="Channels",Eleven Sports 4 PT
+http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2534/index.m3u8
+#EXTINF:0 tvg-id="ElevenSports5.pt" group-title="Channels",Eleven Sports 5 PT
+http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2535/index.m3u8
+#EXTINF:0 tvg-id="ElevenSports6.pt" group-title="Channels",Eleven Sports 6 PT
+http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2536/index.m3u8
+#EXTINF:0 tvg-id="ElevenSports3.pt" group-title="Channels",Eleven Sports 3 PT
+http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/7062/index.m3u8
+#EXTINF:0 tvg-id="ElevenSports4.pt" group-title="Channels",Eleven Sports 4 PT
+http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/7063/index.m3u8
+#EXTINF:0 tvg-id="ElevenSports6.pt" group-title="Channels",Eleven Sports 6 PT
+http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/7064/index.m3u8
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 1
+http://iptvtree.net:8080/F17744/f01e18e2/1499
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 2
+http://iptvtree.net:8080/F17744/f01e18e2/1503
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 3
+http://iptvtree.net:8080/F17744/f01e18e2/1506
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 4
+http://iptvtree.net:8080/F17744/f01e18e2/1509
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 5
+http://iptvtree.net:8080/F17744/f01e18e2/1512
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 6
+http://iptvtree.net:8080/F17744/f01e18e2/1515
+
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4272.ts
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
