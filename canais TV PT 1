@@ -54,12 +54,26 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]TPA[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0jo
+#EXTINF:-1,[COLOR=white][B]TPA[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvtree.net:8080/F17744/f01e18e2/165152
 #EXTINF:-1,[COLOR=white][B]TVM SD[/B][/COLOR][COLOR=white][/COLOR]
 http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]TVM INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]TVM INTER. HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]ZAP ZIP HD[/B][/COLOR][COLOR=white][/COLOR] 
+http://iptvtree.net:8080/F17744/f01e18e2/2067
+#EXTINF:-1,[COLOR=white][B]TCV INTER. HD[/B][/COLOR][COLOR=white][/COLOR] 
+http://iptvtree.net:8080/F17744/f01e18e2/11424
+#EXTINF:-1,[COLOR=white][B]RWANDA TV HD[/B][/COLOR][COLOR=white][/COLOR] 
+http://iptvtree.net:8080/F17744/f01e18e2/4295
+#EXTINF:-1,[COLOR=white][B]RTI 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvtree.net:8080/F17744/f01e18e2/3671
+#EXTINF:-1,[COLOR=white][B]AFRICA NEWS ENG. HD[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvtree.net:8080/F17744/f01e18e2/283863
+#EXTINF:-1,[COLOR=white][B]VOX AFRICA EUROPE[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvtree.net:8080/F17744/f01e18e2/296379
 #EXTINF:-1,[COLOR=white][B]CANAL MACAU TV[/B][/COLOR][COLOR=white][/COLOR]
 https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]TDM MACAU TV[/B][/COLOR][COLOR=white][/COLOR]
