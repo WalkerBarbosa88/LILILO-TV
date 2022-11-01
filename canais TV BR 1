@@ -26,6 +26,14 @@ http://0000000000000000000000000000
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK",[COLOR=white][B]RETRO CARTOONS TV[/B][/COLOR][COLOR=white][/COLOR]
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="GEEK",[COLOR=white][B]CANAL BRASIL[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvtree.net:8080/F17744/f01e18e2/14569
+#EXTINF:-1 group-title="GEEK",[COLOR=white][B]CANAL OFF[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvtree.net:8080/F17744/f01e18e2/14532
+#EXTINF:-1 group-title="GEEK",[COLOR=white][B]CANAL VIVA[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvtree.net:8080/F17744/f01e18e2/14553
+#EXTINF:-1 group-title="GEEK",[COLOR=white][B]SPACE TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvtree.net:8080/F17744/f01e18e2/295111
 
 
 
@@ -35,16 +43,23 @@ http://0000000000000000000000000000
 
 #EXTM3U
 
+
+#EXTINF:-1,[COLOR=white][B]ESPN EXTRA HD[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvtree.net:8080/F17744/f01e18e2/8789
+
 #EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.81:1234
 #EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82825
-
+#EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvtree.net:8080/F17744/f01e18e2/8793
 
 #EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.152:1234 
 #EXTINF:-1,[COLOR=white][B]ESPN 2 SD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.86:1234 
+#EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvtree.net:8080/F17744/f01e18e2/8801
 
 #EXTINF:-1,[COLOR=white][B]ESPN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.153:1234
@@ -122,7 +137,11 @@ http://189.91.128.146:4444/udp/227.10.20.92:1234
 http://189.91.128.146:4444/udp/227.10.20.85:1234
 #EXTINF:-1,[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
 http://acsb.sh:80/4673629418/snakeplay/71870
+#EXTINF:-1,[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvtree.net:8080/F17744/f01e18e2/8904
 
+#EXTINF:-1,[COLOR=white][B]HGTV BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvtree.net:8080/F17744/f01e18e2/147274
 
 #EXTINF:-1,[COLOR=white][B]DISCOVERY ANIMAL PLANET HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.118:1234
@@ -150,6 +169,14 @@ http://axr.life:80/096154/686531/5195
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1609920726.m3u8
 #EXTINF:-1,[COLOR=white][B]K-POP TV PLAY HD[/B][/COLOR][COLOR=white][/COLOR]
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,[COLOR=white][B]MTV BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvtree.net:8080/F17744/f01e18e2/147283
+#EXTINF:-1,[COLOR=white][B]MULTISHOW HD[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvtree.net:8080/F17744/f01e18e2/14528
+#EXTINF:-1,[COLOR=white][B]MUSICBOX BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvtree.net:8080/F17744/f01e18e2/278696
+#EXTINF:-1,[COLOR=white][B]BIS BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvtree.net:8080/F17744/f01e18e2/24621
 
 
 ####################################################################################################################################
@@ -179,7 +206,8 @@ http://189.91.128.146:4444/udp/227.10.20.160:1234
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1,[COLOR=white][B]GLOBO HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.109:1234
-
+#EXTINF:-1,[COLOR=white][B]GLOBO NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvtree.net:8080/F17744/f01e18e2/14513
 
 #EXTINF:-1,[COLOR=white][B]TV RECORD HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.147:1234
@@ -190,6 +218,9 @@ http://189.91.128.146:4444/udp/227.10.20.170:1234
 http://189.91.128.146:4444/udp/227.10.20.122:1234
 #EXTINF:-1,[COLOR=white][B]JOVEM PAN NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8?ROGERIOTORRES
+#EXTINF:-1,[COLOR=white][B]JOVEM PAN NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvtree.net:8080/F17744/f01e18e2/286091
+
 #EXTINF:-1,[COLOR=white][B]BAND NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.131:1234
 #EXTINF:-1,[COLOR=white][B]SBT HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -198,6 +229,8 @@ http://189.91.128.146:4444/udp/227.10.20.120:1234
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-1,[COLOR=white][B]REUTERS HD (ENG.)[/B][/COLOR][COLOR=white][/COLOR]
 https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
+#EXTINF:-1,[COLOR=white][B]BAND NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/6161/index.m3u8
 
 
 ####################################################################################################################################
