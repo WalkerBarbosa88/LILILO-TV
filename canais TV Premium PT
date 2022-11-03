@@ -1,6 +1,6 @@
 
 ########################################################################################################################################################
-#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////////  CANAIS PREMIUM PORTUGAL & OUTROS  //////////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////////  CANAIS PREMIUM PORTUGAL //////////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
 http://0.0.0.0:0000
 ########################################################################################################################################################
  
@@ -287,46 +287,6 @@ http://iptvtree.net:8080/F17744/f01e18e2/82254
 http://iptvtree.net:8080/F17744/f01e18e2/1448
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
 http://iptvtree.net:8080/F17744/f01e18e2/1446
-
-
-##################################  ESPECIAL CANAIS BEIN SPORTS ###################################################################
-#EXTM3U
- 
-#EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS BEIN SPORTS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://0000000
-
-
-#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇬🇧 ⚽️➾ BEIN SPORTS 1 HD
-http://213.7.193.54:4000/play/a002/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇫🇷 ⚽️➾ BEIN SPORTS 1 HD
-http://localiptv62000.from-ok.com:9000/live:domeneprojekat/gzliiQzDPI/93
-#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇫🇷 ⚽️➾ BEIN SPORTS 1 HD
-http://37.235.38.139:4000/play/a054
-#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇫🇷 ⚽️➾ BEIN SPORTS 2 HD
-http://localiptv62000.from-ok.com:9000/live:domeneprojekat/gzliiQzDPI/94
-#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇫🇷 ⚽️➾ BEIN SPORTS 2 HD
-http://37.235.38.139:4000/play/a0cc
-#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇫🇷 ⚽️➾ BEIN SPORTS MAX 4 HD
-http://37.235.38.139:4000/play/a085
-#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇫🇷 ⚽️➾ BEIN SPORTS MAX 5 HD
-http://37.235.38.139:4000/play/a086
-#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇫🇷 ⚽️➾ BEIN SPORTS MAX 6 HD
-http://37.235.38.139:4000/play/a087
-#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇬🇧 🚴⚽️➾ BEIN SPORTS HD
-http://213.7.193.54:4000/play/a002
-#EXTINF:-1 tvg-id="" group-title="World Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇪🇸 🚴⚽️➾ BEIN SPORTS XTRA HD
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
-#EXTINF:-1 tvg-id="" group-title="World Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇺🇸 🚴⚽️➾ BEIN SPORTS XTRA [Pluto]
-https://bit.ly/BeinSportXtra?/master.m3u8
-#EXTINF:-1 tvg-id="" group-title="World Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇺🇸 🚴⚽️➾ BEIN SPORTS XTRA [Pluto]
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
-#EXTINF:-1 tvg-id="" group-title="World Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇺🇸 🚴⚽️➾ BEIN SPORTS XTRA
-https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
-
-
-
-
-
 
 
 
