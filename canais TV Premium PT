@@ -1,6 +1,6 @@
 
 ########################################################################################################################################################
-#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////////  CANAIS PREMIUM PORTUGAL  //////////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////////  CANAIS PREMIUM PORTUGAL & OUTROS  //////////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
 http://0.0.0.0:0000
 ########################################################################################################################################################
  
@@ -111,6 +111,9 @@ https://000000
 #EXTM3U
 
 
+#EXTINF:-1,[COLOR=white][B]ESPN EXTRA HD[/B][/COLOR][COLOR=white][/COLOR]
+http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/41977.ts
+
 #EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82825
 #EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -137,24 +140,45 @@ http://clienteworld.com:80/claud123/claud123/82754
 http://160.20.164.171:8001/play/a03x
 #EXTINF:-1,[COLOR=white][B]GOL TV SD[/B][/COLOR][COLOR=white][/COLOR]
 http://200.41.79.165:8000/play/a05u/index.m3u8
+#EXTINF:-1,[COLOR=white][B]GOL TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://170.83.242.155:5350/play/a00v
+#EXTINF:-1,[COLOR=white][B]GOL TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://160.20.164.171:8001/play/a03x
+#EXTINF:-1,[COLOR=white][B]GOL TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://200.24.132.99:8000/play/a023
 
 #EXTINF:-1,[COLOR=white][B]RMC SPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/logantv/ACXhn9BC5m/161951
 #EXTINF:-1,[COLOR=white][B]RMC SPORT 1 FR[/B][/COLOR][COLOR=white][/COLOR]
 http://51.178.65.238:80/RMC1/index.m3u8
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 1 FR[/B][/COLOR][COLOR=white][/COLOR]
+http://51.178.65.238:80/RMC1/index.m3u8
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 1 FR[/B][/COLOR][COLOR=white][/COLOR]
+http://platin4k.eu:80/logantv/ACXhn9BC5m/161951
 
 #EXTINF:-1,[COLOR=white][B]RMC SPORT 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/logantv/ACXhn9BC5m/63176
 #EXTINF:-1,[COLOR=white][B]RMC SPORT 2 FR[/B][/COLOR][COLOR=white][/COLOR]
 http://51.178.65.238:80/RMC2/index.m3u8
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 2 FR[/B][/COLOR][COLOR=white][/COLOR]
+http://51.178.65.238:80/RMC2/index.m3u8
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 2 FR[/B][/COLOR][COLOR=white][/COLOR]
+http://platin4k.eu:80/logantv/ACXhn9BC5m/63176
 
 #EXTINF:-1,[COLOR=white][B]RMC SPORT 3 FR[/B][/COLOR][COLOR=white][/COLOR]
 http://51.178.65.238:80/RMC3/index.m3u8
 #EXTINF:-1,[COLOR=white][B]RMC SPORT 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/logantv/ACXhn9BC5m/161950
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 3 FR[/B][/COLOR][COLOR=white][/COLOR]
+http://51.178.65.238:80/RMC3/index.m3u8
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 3 FR[/B][/COLOR][COLOR=white][/COLOR]
+http://platin4k.eu:80/logantv/ACXhn9BC5m/161950
 
 #EXTINF:-1,[COLOR=white][B]RMC SPORT 4 FR[/B][/COLOR][COLOR=white][/COLOR]
 http://51.178.65.238:80/RMC4/index.m3u8
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 4 FR[/B][/COLOR][COLOR=white][/COLOR]
+http://51.178.65.238:80/RMC4/index.m3u8
+
 
 
 ##################################  BENFICA TV   ###########################################################################
@@ -263,5 +287,46 @@ http://iptvtree.net:8080/F17744/f01e18e2/82254
 http://iptvtree.net:8080/F17744/f01e18e2/1448
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
 http://iptvtree.net:8080/F17744/f01e18e2/1446
+
+
+##################################  ESPECIAL CANAIS BEIN SPORTS ###################################################################
+#EXTM3U
+ 
+#EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS BEIN SPORTS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://0000000
+
+
+#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇬🇧 ⚽️➾ BEIN SPORTS 1 HD
+http://213.7.193.54:4000/play/a002/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇫🇷 ⚽️➾ BEIN SPORTS 1 HD
+http://localiptv62000.from-ok.com:9000/live:domeneprojekat/gzliiQzDPI/93
+#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇫🇷 ⚽️➾ BEIN SPORTS 1 HD
+http://37.235.38.139:4000/play/a054
+#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇫🇷 ⚽️➾ BEIN SPORTS 2 HD
+http://localiptv62000.from-ok.com:9000/live:domeneprojekat/gzliiQzDPI/94
+#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇫🇷 ⚽️➾ BEIN SPORTS 2 HD
+http://37.235.38.139:4000/play/a0cc
+#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇫🇷 ⚽️➾ BEIN SPORTS MAX 4 HD
+http://37.235.38.139:4000/play/a085
+#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇫🇷 ⚽️➾ BEIN SPORTS MAX 5 HD
+http://37.235.38.139:4000/play/a086
+#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇫🇷 ⚽️➾ BEIN SPORTS MAX 6 HD
+http://37.235.38.139:4000/play/a087
+#EXTINF:-1 tvg-id="" group-title="Premium Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇬🇧 🚴⚽️➾ BEIN SPORTS HD
+http://213.7.193.54:4000/play/a002
+#EXTINF:-1 tvg-id="" group-title="World Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇪🇸 🚴⚽️➾ BEIN SPORTS XTRA HD
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+#EXTINF:-1 tvg-id="" group-title="World Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇺🇸 🚴⚽️➾ BEIN SPORTS XTRA [Pluto]
+https://bit.ly/BeinSportXtra?/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="World Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇺🇸 🚴⚽️➾ BEIN SPORTS XTRA [Pluto]
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
+#EXTINF:-1 tvg-id="" group-title="World Sports" tvg-logo="https://raw.githubusercontent.com/inspirationlinks/inspiration-1/master/beinsports.ico",🇺🇸 🚴⚽️➾ BEIN SPORTS XTRA
+https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
+
+
+
+
+
+
 
 
