@@ -28,10 +28,24 @@ https://00000000000
 
 #EXTM3U
 
-PORTUGAL ESTÁ NO GRUPO H
+PORTUGAL ESTÁ NO GRUPO H - CANAIS BAND E BAND SPORTS TEM O EXCLUSIVO DO MUNDIAL PARA O BRASIL
 
-#EXTINF:-1,[COLOR=white][B]BREVEMENTE[/B][/COLOR][COLOR=white][/COLOR]
-http://00000000000000000000000000000
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8001/play/a045
+#EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP INTERNACIONAL[/B][/COLOR][COLOR=white][/COLOR]
+http://162.212.178.69:41042/bysid/608
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8000/play/a0g9
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVI[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8000/play/a0gb
+
+
+#EXTINF:-1,[COLOR=white][B]BAND TV BR[/B][/COLOR][COLOR=white][/COLOR]
+https://stream-09.ix7.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm4_tMzWT3bY3A_8uRNBqTDVv_Y-IF1-RlvaUIIGAQzbQp)/dm/3/x83vbd6/s/live-4.m3u8#cell=lcore
+#EXTINF:-1,[COLOR=white][B]RÁDIO BAND BR[/B][/COLOR][COLOR=white][/COLOR]
+https://26423.live.streamtheworld.com/RADIOBANDEIRANTESAAC/HLS/3678c0d6-febf-4852-8c25-b01a3182cf8d/0/playlist.m3u8
+
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS DESPORTO (EM TESTE)  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
