@@ -740,34 +740,25 @@ https://canale.live/mtv.m3u8/?id=moozdance
 https://canale.live/mtv.m3u8/?id=moozro
 #EXTINF:0 tvg-id="ext" group-title="Channels",RETRO HITS 80 HD
 https://eurodance90.catcast.tv/content/38204/index.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",RITSA TV
 https://live.prd.dlive.tv/hls/live/fila007.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музыкальные",Mafi2a Music
-https://live.prd.dlive.tv/hls/live/tv12-gudauta.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музыкальные",ЖАРА TV
-http://radm.mediacdn.ru/cdn/jara/playlist_sdhigh.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музыкальные",Trance Is Stars
+#EXTINF:0 tvg-id="ext" group-title="Музыкальные",TRANCE IS STARS
 http://tis.catcast.tv/content/391/index.m3u8
-#EXTINF:0 tvg-id="ClubbingTV.pt" group-title="Музыкальные",Clubbing TV
+#EXTINF:0 tvg-id="ClubbingTV.pt" group-title="Музыкальные",CLUBBING TV
 https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музыкальные",Eurodance 90 HD
+#EXTINF:0 tvg-id="ext" group-title="Музыкальные",EURODANCE 90 HD
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музыкальные",Techno Dance Music
+#EXTINF:0 tvg-id="ext" group-title="Музыкальные",TECHNO DANCE MUSIC
 https://hls.goodgame.ru/hls/180509.m3u8
-#EXTINF:0 tvg-id="europa-plus" group-title="Музыкальные",Europa Plus TV
-http://213.172.73.170:8081/nimble_live/1081__Evropa_Plus_Tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музыкальные",1HD Music TV
+#EXTINF:0 tvg-id="ext" group-title="Музыкальные",1HD MUSIC TV
 http://193.233.9.49/streams/media/1_HD/index.m3u8
-#EXTINF:0 tvg-id="rutv" group-title="Музыкальные",RU.TV
-http://46.174.83.66/RU_TV/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",V2BEAT
 http://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:0 tvg-id="bridge-hd" group-title="Музыкальные",Bridge TV Deluxe
+#EXTINF:0 tvg-id="bridge-hd" group-title="Музыкальные",BRIDGE TV DELUXE
 https://webtest.mylifeisgood.ml/channels/bridgedeluxetv.m3u8
-#EXTINF:0 tvg-id="bridge" group-title="Музыкальные",Bridge TV
+#EXTINF:0 tvg-id="bridge" group-title="Музыкальные",BRIDGE TV
 https://webtest.mylifeisgood.ml/channels/bridgetv24h.m3u8
-#EXTINF:0 tvg-id="topsong" group-title="Музыкальные",Bridge TV Classic
+#EXTINF:0 tvg-id="topsong" group-title="Музыкальные",BRIDGE TV CLASSIC
 https://webtest.mylifeisgood.ml/channels/bridgeclassictv.m3u8
 #EXTINF:0 tvg-id="dange" group-title="Музыкальные",BRIDGE TV HITS
 https://webtest.mylifeisgood.ml/channels/bridgehitstv.m3u8
@@ -775,9 +766,9 @@ https://webtest.mylifeisgood.ml/channels/bridgehitstv.m3u8
 http://2serv.mylifeisgood.ml:8080/channels/bridgefreshya.m3u8
 #EXTINF:0 tvg-id="rusong" group-title="Музыкальные",BRIDGE TV Русский Хит
 https://livetv.mylifeisgood.ml/channels/bridgerushittv.m3u8
-#EXTINF:0 tvg-id="shlyager" group-title="Музыкальные",Bridge TV Шлягер
+#EXTINF:0 tvg-id="shlyager" group-title="Музыкальные",BRIDGE TV Шлягер
 https://webtest.mylifeisgood.ml/channels/bridgetvshlyager.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музыкальные",Bridge TV Baby Time
+#EXTINF:0 tvg-id="ext" group-title="Музыкальные",BRIDGE TV 
 https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-baby-time/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",O!2 HD
 http://77.72.22.42:8080/9254/index.m3u8
@@ -785,39 +776,31 @@ http://77.72.22.42:8080/9254/index.m3u8
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",Новое Радио
 http://hls-video01.cdnvideo.ru/video01/hDvideo01-0O.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="mb-russia" group-title="Музыкальные",Music Box Russian
+#EXTINF:0 tvg-id="mb-russia" group-title="Музыкальные",MUSIC BOX RUSSIAN
 http://musictv.mediacdn.ru/cdn/musicboxhd/playlist_sdmid.m3u8
-#EXTINF:0 tvg-id="musicbox" group-title="Музыкальные",Music Box Gold
+#EXTINF:0 tvg-id="musicbox" group-title="Музыкальные",MUSIC BOX Gold
 http://musictv.mediacdn.ru/cdn/musicboxgold/playlist_sdmid.m3u8
-#EXTINF:0 tvg-id="muz-tv" group-title="Музыкальные",Муз ТВ
-http://213.172.73.170:8081/nimble_live/1132__Muz_Tv/playlist.m3u8
-#EXTINF:0 tvg-id="muzika1" group-title="Музыкальные",Музыка Первого
-http://213.172.73.170:8081/nimble_live/1130__Muzika_Pervogo/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музыкальные",Kronehit
+#EXTINF:0 tvg-id="ext" group-title="Музыкальные",KRONEHIT
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:0 tvg-id="MoozDance.ro" group-title="Музыкальные",MOOZ DANCE
-https://canale.live/mtv.m3u8/?id=moozdance
-#EXTINF:0 tvg-id="MoozDance.ro" group-title="Музыкальные",MOOZ RO
-https://canale.live/mtv.m3u8/?id=moozro
-#EXTINF:0 tvg-id="tnt-music" group-title="Музыкальные",ТНТ Music
+#EXTINF:0 tvg-id="tnt-music" group-title="Музыкальные",ТНТ MUSIC
 http://95.217.196.109:8081/russia/tntmusic/chunks.m3u8
-#EXTINF:0 tvg-id="aiva" group-title="Музыкальные",Aiva
+#EXTINF:0 tvg-id="aiva" group-title="Музыкальные",AIVA
 http://91.185.81.166:8080/playlist.m3u8
 #EXTINF:0 tvg-id="Viva.uk" group-title="Музыкальные",VIVA
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музыкальные",Vevo Pop Europe
+#EXTINF:0 tvg-id="ext" group-title="Музыкальные",VEVO POP EUROPE
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музыкальные",Vevo Latino
+#EXTINF:0 tvg-id="ext" group-title="Музыкальные",VEVO LATINO
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музыкальные",Xite HD
+#EXTINF:0 tvg-id="ext" group-title="Музыкальные",XITE HD
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музыкальные",Xite HD DE
+#EXTINF:0 tvg-id="ext" group-title="Музыкальные",XITE HD DE
 https://xite-samsung-de.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="inrating" group-title="Музыкальные",Inrating HD
+#EXTINF:0 tvg-id="inrating" group-title="Музыкальные",INRATING HD
 http://91.213.59.156/play/55/index.m3u8
-#EXTINF:0 tvg-id="eumusic" group-title="Музыкальные",EU Music
+#EXTINF:0 tvg-id="eumusic" group-title="Музыкальные",EU MUSIC
 http://91.213.59.156/play/88/index.m3u8
-#EXTINF:0 tvg-id="TraceUrban.ru" group-title="Музыкальные",Trace Urban
+#EXTINF:0 tvg-id="TraceUrban.ru" group-title="Музыкальные",TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",MUSIC PLUS
 http://79.172.214.45:10190/stream.m3u8
@@ -895,12 +878,7 @@ http://dancehits80.denvs.ru:8080/playlist.m3u8
 http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/894
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",POP & COUNTRY
 http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/896
-#EXTINF:0 tvg-id="Pophits.br" group-title="Музыкальные",POP HITS
-http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/897
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",MI Ritmo TV
 http://59514edd5dd8e.streamlock.net:1935/lax/lax/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музыкальные",M Music TV
-https://videostreaming.cloudserverlatam.com/8050/8050/playlist.m3u8
-
 
 
