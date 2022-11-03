@@ -70,6 +70,8 @@ http://iptvtree.net:8080/F17744/f01e18e2/1483
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2525/index.m3u8
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.19.35/shls/LIVE$SPORTTV1_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1483
 
 #EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.19.35/shls/LIVE$SPORTTV2_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
@@ -77,6 +79,8 @@ http://213.13.19.35/shls/LIVE$SPORTTV2_HD/index.m3u8?device=ANDROID_Live&start=L
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2526/index.m3u8
 #EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://iptvtree.net:8080/F17744/f01e18e2/1486
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1486
 
 #EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://iptvtree.net:8080/F17744/f01e18e2/1489
@@ -84,22 +88,35 @@ http://iptvtree.net:8080/F17744/f01e18e2/1489
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2527/index.m3u8
 #EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.19.35/shls/LIVE$SPORTTV3_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1489
 
 #EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2528/index.m3u8
 #EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://iptvtree.net:8080/F17744/f01e18e2/1492
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1492
+
+
 #EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://iptvtree.net:8080/F17744/f01e18e2/1495
 #EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2529/index.m3u8
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1495
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://iptvtree.net:8080/F17744/f01e18e2/281487
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.19.35/shls/LIVE$SPORTTV6_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281487
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://iptvtree.net:8080/F17744/f01e18e2/2051
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2051
 
 
 #EXTM3U
@@ -190,10 +207,8 @@ https://000000
 
 #EXTM3U
 
-
-#EXTINF:-1,[COLOR=white][B]NÃO DISPOÍVEL[/B][/COLOR][COLOR=white][/COLOR]
-http://00000000000000000000
-
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1497
 
 
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
@@ -235,7 +250,6 @@ http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4273.ts
 http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/923.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2532/index.m3u8
-
 
 #EXTINF:0 tvg-id="ElevenSports3.pt" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2533/index.m3u8
@@ -279,14 +293,30 @@ http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/7064/index.m3u8
 https://0000000
 
 #EXTM3U
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NOS STUDIOS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1454
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE ACTION HD[/B][/COLOR][COLOR=white][/COLOR]
 http://iptvtree.net:8080/F17744/f01e18e2/1452
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE ACTION HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1452
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EDITION HD[/B][/COLOR][COLOR=white][/COLOR]
 http://iptvtree.net:8080/F17744/f01e18e2/82254
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EDITION HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/82254
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EMOTION HD[/B][/COLOR][COLOR=white][/COLOR]
 http://iptvtree.net:8080/F17744/f01e18e2/1448
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EMOTION HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1448
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
 http://iptvtree.net:8080/F17744/f01e18e2/1446
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1446
 
 
 
