@@ -61,20 +61,30 @@ http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais
 http://iptvtree.net:8080/F17744/f01e18e2/1481
 #EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2530/index.m3u8
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.13.19.35/shls/LIVE$SPORTTV_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
  
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://iptvtree.net:8080/F17744/f01e18e2/1483
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2525/index.m3u8
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.13.19.35/shls/LIVE$SPORTTV1_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.13.19.35/shls/LIVE$SPORTTV2_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
 #EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2526/index.m3u8
 #EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://iptvtree.net:8080/F17744/f01e18e2/1486
+
 #EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://iptvtree.net:8080/F17744/f01e18e2/1489
 #EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2527/index.m3u8
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.13.19.35/shls/LIVE$SPORTTV3_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+
 #EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2528/index.m3u8
 #EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -85,9 +95,11 @@ http://iptvtree.net:8080/F17744/f01e18e2/1495
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2529/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://iptvtree.net:8080/F17744/f01e18e2/281487
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.13.19.35/shls/LIVE$SPORTTV6_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://iptvtree.net:8080/F17744/f01e18e2/2051
-
 
 
 #EXTM3U
@@ -128,20 +140,20 @@ http://200.41.79.165:8000/play/a05u/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]RMC SPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/logantv/ACXhn9BC5m/161951
-#EXTINF:-1,[COLOR=white][B]RMC SPORTS 1 FR[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 1 FR[/B][/COLOR][COLOR=white][/COLOR]
 http://51.178.65.238:80/RMC1/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]RMC SPORT 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/logantv/ACXhn9BC5m/63176
-#EXTINF:-1,[COLOR=white][B]RMC SPORTS 2 FR[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 2 FR[/B][/COLOR][COLOR=white][/COLOR]
 http://51.178.65.238:80/RMC2/index.m3u8
 
-#EXTINF:-1,[COLOR=white][B]RMC SPORTS 3 FR[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 3 FR[/B][/COLOR][COLOR=white][/COLOR]
 http://51.178.65.238:80/RMC3/index.m3u8
 #EXTINF:-1,[COLOR=white][B]RMC SPORT 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/logantv/ACXhn9BC5m/161950
 
-#EXTINF:-1,[COLOR=white][B]RMC SPORTS 4 FR[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 4 FR[/B][/COLOR][COLOR=white][/COLOR]
 http://51.178.65.238:80/RMC4/index.m3u8
 
 
@@ -178,11 +190,28 @@ http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2531/index.m3u8
 http://iptvtree.net:8080/F17744/f01e18e2/1499
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4272.ts
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.13.19.35/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4272.ts
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/925.ts
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2531/index.m3u8
 
 #EXTINF:0 tvg-id="elevensports2.pt" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2532/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://iptvtree.net:8080/F17744/f01e18e2/1503
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.13.19.35/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://my.forcetv.pro:8880/live/VyGkKdy5kg/VgLhiDT9gE/4273.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://user.scalecdn.co:8080/live/Oliverjones_212/e399551dc9/923.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2532/index.m3u8
+
 
 #EXTINF:0 tvg-id="ElevenSports3.pt" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2533/index.m3u8
