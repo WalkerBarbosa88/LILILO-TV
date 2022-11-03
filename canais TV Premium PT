@@ -128,24 +128,24 @@ https://000000
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR=white][B]ESPN EXTRA HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]ESPN EXTRA BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://tv.minhalista.me/live/FhFBsN9J9V/factoryiptv/41977.ts
 
-#EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]ESPN 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82825
-#EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]ESPN 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.81:1234
 
-#EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]ESPN 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.128:1234
-#EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]ESPN 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.152:1234
-#EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]ESPN 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.86:1234
 
-#EXTINF:-1,[COLOR=white][B]ESPN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]ESPN 3 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82828
-#EXTINF:-1,[COLOR=white][B]ESPN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]ESPN 3 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://189.91.128.146:4444/udp/227.10.20.153:1234
 
 #EXTINF:-1,[COLOR=white][B]ESPN 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -164,36 +164,36 @@ http://160.20.164.171:8001/play/a03x
 #EXTINF:-1,[COLOR=white][B]GOL TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://200.24.132.99:8000/play/a023
 
-#EXTINF:-1,[COLOR=white][B]RMC SPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 1 FR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/logantv/ACXhn9BC5m/161951
-#EXTINF:-1,[COLOR=white][B]RMC SPORT 1 FR[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 1 FR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://51.178.65.238:80/RMC1/index.m3u8
-#EXTINF:-1,[COLOR=white][B]RMC SPORT 1 FR[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 1 FR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://51.178.65.238:80/RMC1/index.m3u8
-#EXTINF:-1,[COLOR=white][B]RMC SPORT 1 FR[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 1 FR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/logantv/ACXhn9BC5m/161951
 
-#EXTINF:-1,[COLOR=white][B]RMC SPORT 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 2 FR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/logantv/ACXhn9BC5m/63176
-#EXTINF:-1,[COLOR=white][B]RMC SPORT 2 FR[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 2 FR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://51.178.65.238:80/RMC2/index.m3u8
-#EXTINF:-1,[COLOR=white][B]RMC SPORT 2 FR[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 2 FR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://51.178.65.238:80/RMC2/index.m3u8
-#EXTINF:-1,[COLOR=white][B]RMC SPORT 2 FR[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 2 FR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/logantv/ACXhn9BC5m/63176
 
-#EXTINF:-1,[COLOR=white][B]RMC SPORT 3 FR[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 3 FR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://51.178.65.238:80/RMC3/index.m3u8
-#EXTINF:-1,[COLOR=white][B]RMC SPORT 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 3 FR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/logantv/ACXhn9BC5m/161950
-#EXTINF:-1,[COLOR=white][B]RMC SPORT 3 FR[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 3 FR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://51.178.65.238:80/RMC3/index.m3u8
-#EXTINF:-1,[COLOR=white][B]RMC SPORT 3 FR[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 3 FR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/logantv/ACXhn9BC5m/161950
 
-#EXTINF:-1,[COLOR=white][B]RMC SPORT 4 FR[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 4 FR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://51.178.65.238:80/RMC4/index.m3u8
-#EXTINF:-1,[COLOR=white][B]RMC SPORT 4 FR[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 4 FR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://51.178.65.238:80/RMC4/index.m3u8
 
 
