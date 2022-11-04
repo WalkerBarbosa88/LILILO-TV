@@ -19,7 +19,7 @@ http://0.0.0.0:0000
      Listas Várias - https://global-satinfo.in/viewforum.php?f=22&sid=14261766f220116fe35abb7ddf0e87e2
      
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 03/11/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 04/11/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 
 ####################################################################################################################################
@@ -40,11 +40,6 @@ http://45.92.69.72:8000/play/a0g9
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVI[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gb
 
-
-#EXTINF:-1,[COLOR=white][B]BAND TV BR[/B][/COLOR][COLOR=white][/COLOR]
-https://stream-09.ix7.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm4_tMzWT3bY3A_8uRNBqTDVv_Y-IF1-RlvaUIIGAQzbQp)/dm/3/x83vbd6/s/live-4.m3u8#cell=lcore
-#EXTINF:-1,[COLOR=white][B]BAND FM SÃO PAULO BR[/B][/COLOR][COLOR=white][/COLOR]
-https://r15.ciclano.io:14359/live
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS DESPORTO (EM TESTE)  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -110,7 +105,6 @@ http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2528/index.m3u8
 http://iptvtree.net:8080/F17744/f01e18e2/1492
 #EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1492
-
 
 #EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://iptvtree.net:8080/F17744/f01e18e2/1495
