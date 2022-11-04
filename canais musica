@@ -87,6 +87,9 @@ http://rtmp.one.by:1300
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]RADIO M2O HD[/B][/COLOR][COLOR=white][/COLOR]
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b2816000.m3u8
 
+#EXTINF:-1,[COLOR=white][B]MTV FR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://190.2.155.162:8080/mtvhit/index.m3u8
+
 #EXTINF:-1,[COLOR=white][B]MTV LIVE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://193.233.9.49/streams/media/MTV_Live_HD/index.m3u8
 
@@ -106,6 +109,9 @@ http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 
 #EXTINF:-1,[COLOR=white][B]XITE TV[/B][/COLOR][COLOR=white][/COLOR]
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]EUROPA PLUS TV[/B][/COLOR][COLOR=white][/COL
+http://78.25.155.47:1309/channel/Evropa_plus.ts
 
 #EXTINF:0,[COLOR=white][B]VIVA TV[/B][/COLOR][COLOR=white][/COLOR]
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
@@ -352,6 +358,9 @@ https://rebroadcast.mytvtogo.net/mytvtogo/countrymusic4u/chunks.m3u8
 https://000000
 
 
+#EXTINF:-1,[COLOR=white][B]RETRO TV 1 SD[/B][/COLOR][COLOR=white][/COLOR]
+http://59f1cbe63db89.streamlock.net:1935/retroplustv/_definst_/retroplustv/playlist.m3u8
+
 #EXTINF:-1,[COLOR=white][B]RETRO TV 2 SD[/B][/COLOR][COLOR=white][/COLOR]
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w2107081768.m3u8
 
@@ -376,11 +385,16 @@ https://585b674743bbb.streamlock.net/9076/9076/chunklist.m3u8
 #EXTINF:-1,[COLOR=white][B]VCLASSIC TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1,[COLOR=white][B]VINTAGE RADIO TV[/B][/COLOR][COLOR=white][/COLOR]
+http://5f22d76e220e1.streamlock.net:1935/vintageradiotv/vintageradiotv/chunklist.m3u8
+
 #EXTINF:-1,[COLOR=white][B]REWIND TV & RÁDIO HD[/B][/COLOR][COLOR=white][/COLOR]
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,[COLOR=white][B]RECUERDOS RETRO HD[/B][/COLOR][COLOR=white][/COLOR]
 https://593b04c4c5670.streamlock.net/8002/8002/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]RECUERDOS RETRO HD[/B][/COLOR][COLOR=white][/COLOR]
+http://593b04c4c5670.streamlock.net:1935/8002/8002/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]CLASSIC HITS[/B][/COLOR][COLOR=white][/COLOR]
 http://168.205.87.198:8555/live/1431/123456/27.ts
@@ -390,6 +404,9 @@ http://168.205.87.198:8555/live/1431/123456/27.ts
 #EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA LATINA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
+
+#EXTINF:-1,[COLOR=white][B]XL MUSICA TV[/B][/COLOR][COLOR=white][/COLOR]
+https://cloud2.streaminglivehd.com/8098/8098/chunklist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]LATINOS RÁDIO TV[/B][/COLOR][COLOR=white][/COLOR]
 https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8?PlaylistM3UCL
