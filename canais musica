@@ -4,7 +4,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 31/10/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 04/11/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -89,8 +89,6 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/c
 
 #EXTINF:-1,[COLOR=white][B]MTV LIVE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://193.233.9.49/streams/media/MTV_Live_HD/index.m3u8
-#EXTINF:-1,[COLOR=white][B]MTV RU HD[/B][/COLOR][COLOR=white][/COLOR]
-http://radm.mediacdn.ru/cdn/mtv/playlist_sdhigh.m3u8
 
 #EXTINF:-1,[COLOR=white][B]MTV LIVE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://193.233.9.49/streams/media/MTV_Live_HD/index.m3u8
@@ -209,14 +207,11 @@ https://live.prd.dlive.tv/hls/live/cybervybezradio.m3u8
 https://60015180a7f57.streamlock.net:444/public/stream_source/chunklist_w191033718.m3u8
 #EXTINF:-1,[COLOR=white][B]TRANCE IS STAR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://tis.catcast.tv/content/391/index.m3u8
-#EXTINF:-1,[COLOR=white][B]RETRO DANCE 90 HD[/B][/COLOR][COLOR=white][/COLOR]
-https://live.prd.dlive.tv/hls/live/andyx7.m3u8
 #EXTINF:-1,[COLOR=white][B]NR1 DANCE HD[/B][/COLOR][COLOR=white][/COLOR]
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]RADIOLINA DANCE HD[/B][/COLOR][COLOR=white][/COLOR]
 https://5bb65e9de3fdf.streamlock.net/Radiolina/dancechannel/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]MAFI2A MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
-https://stream.funcontent.ru/hls/tv12/index.m3u8
+
 
 ######################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  MÚSICA AFRICANA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -324,9 +319,6 @@ https://cdn3.invivo.bg/359t/tracks-v2a1/mono.m3u8
 #EXTINF:-1,[COLOR=white][B]88 STEREO TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]ALWAYS MORE MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
-http://107.178.61.226:8080/alwaysmoremusic247.m3u8
-
 #EXTINF:-1,[COLOR=white][B]RÁDIO 4YOU TV[/B][/COLOR][COLOR=white][/COLOR]
 https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
 
@@ -360,9 +352,6 @@ https://rebroadcast.mytvtogo.net/mytvtogo/countrymusic4u/chunks.m3u8
 https://000000
 
 
-#EXTINF:0 type="stream" channelId="-1" group="Музыкальные",[COLOR=white][B]RETRO TV 1 SD[/B][/COLOR][COLOR=white][/COLOR]
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-
 #EXTINF:-1,[COLOR=white][B]RETRO TV 2 SD[/B][/COLOR][COLOR=white][/COLOR]
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w2107081768.m3u8
 
@@ -377,9 +366,6 @@ https://tls-cl.cdnz.cl/rewindtv/live/chunklist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]VINTAGE RADIO TV[/B][/COLOR][COLOR=white][/COLOR]
 http://5f22d76e220e1.streamlock.net:1935/vintageradiotv/vintageradiotv/chunklist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]VINTAGE TV[/B][/COLOR][COLOR=white][/COLOR]
-https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,[COLOR=white][B]RTL CLASSICS SD[/B][/COLOR][COLOR=white][/COLOR]
 https://5a57bda70564a.streamlock.net/litoralclassics/litoralclassics.sdp/chunklist_w1232675025.m3u8
@@ -432,8 +418,6 @@ http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]AMÉRICA LATINA[/B][/COLOR][COLOR=white][/COLOR]
 http://168.205.87.198:8555/live/1431/123456/16.ts
 
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]TOP LATINO TV[/B][/COLOR][COLOR=white][/COLOR]
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/tvweb.stream/playlist.m3u8?PlaylistM3UCL
 
 ######################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// OUTROS GÉNEROS /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -657,7 +641,7 @@ https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c
 
 
 ######################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 31/10/2022 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 04/11/2022 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
@@ -822,8 +806,6 @@ http://200.115.193.177/live/msctphd-360/chunklist_w1135351997.m3u8
 http://190.2.155.162:8080/m6music/mpegts
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",Afrobeats
 https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:0 tvg-id="RetroMusic.cz" group-title="Музыкальные",RETRO MUSIC TV
-http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w680437373_b750000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",MTV Yo!
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",MTV Spankin New
@@ -876,8 +858,6 @@ https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 http://dancehits80.denvs.ru:8080/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",HIT LIST
 http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/894
-#EXTINF:0 tvg-id="ext" group-title="Музыкальные",POP & COUNTRY
-http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/896
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",MI Ritmo TV
 http://59514edd5dd8e.streamlock.net:1935/lax/lax/chunklist.m3u8
 
