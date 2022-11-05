@@ -158,6 +158,9 @@ https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,[COLOR=white][B]M6 MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
 http://190.2.155.162:8080/m6music/mpegts
 
+#EXTINF:-1,[COLOR=white][B]CANELA TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://stream.ads.ottera.tv/cl/d8875590-5da2-41ef-b039-6db9ffae9ace/1280x720_3071200_0_f.m3u8
+
 
 ##########################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA ELECTRÓNICA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -215,6 +218,8 @@ http://tis.catcast.tv/content/391/index.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]RADIOLINA DANCE HD[/B][/COLOR][COLOR=white][/COLOR]
 https://5bb65e9de3fdf.streamlock.net/Radiolina/dancechannel/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]PLAY IBIZA HD[/B][/COLOR][COLOR=white][/COLOR]
+https://stream-us-east-1.getpublica.com/cl/a74b0d78-cac5-4397-9d23-55d3793211af/1920x1080_5420455_2_f.m3u8
 
 ######################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  MÚSICA AFRICANA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -234,18 +239,16 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]SLUHAY ROCK HD[/B][/COLOR][COLOR=white][/COLOR]
 https://sluhay.by/live/Ch114pub/index.m3u8
-
-#EXTINF:-1,[COLOR=white][B]ROCK TV[/B][/COLOR][COLOR=white][/COLOR]
-http://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8
-
 #EXTINF:-1,[COLOR=white][B]CLASSIC ROCK TV[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn17.fntvchannel.com/index_1080.m3u8
-
 #EXTINF:-1,[COLOR=white][B]RCK TV[/B][/COLOR][COLOR=white][/COLOR]
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1,[COLOR=white][B]ROCK HD[/B][/COLOR][COLOR=white][/COLOR]
 http://stream1.chd-servers.ml/chdtvrock/index.m3u8
+#EXTINF:-1,[COLOR=white][B]ROCK TV BR HD[/B][/COLOR][COLOR=white][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/tvbeltrao3/_definst_/tvbeltrao3/chunklist_w782273434.m3u8
+#EXTINF:-1,[COLOR=white][B]CATEDRAL DO ROCK HD[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv1.srvstm.com/catedraldorock/catedraldorock/chunklist_w720649222.m3u8
 
 ######################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  MÚSICAS ALTERNATIVAS & AO VIVO /////////[/B][/COLOR][COLOR=yellow][/COLOR]
