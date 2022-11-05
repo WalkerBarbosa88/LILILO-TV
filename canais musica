@@ -184,7 +184,6 @@ https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
 https://mbit1.worldcast.tv/dancetelevisioneight/stream_0.m3u8
 #EXTINF:-1,[COLOR=white][B]DANCE TV - MELODIC TECH[/B][/COLOR][COLOR=white][/COLOR]
 https://mbit1.worldcast.tv/dancetelevisionnine/stream_0.m3u8
-
 #EXTINF:-1,[COLOR=white][B]DANCE IMPACT TV[/B][/COLOR][COLOR=white][/COLOR]
 http://tvradioimpact.go.ro:8080/tmp_hls/tvimpact/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]DANCE STAR TV HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -195,7 +194,6 @@ https://qwest-mix-plex.amagi.tv/playlist720_p.m3u8
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]CLUBBING TV[/B][/COLOR][COLOR=white][/COLOR]
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
-
 # https://www.youtube.com/channel/UCalCDSmZAYD73tqVZ4l8yJg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gr55mAl.jpg" group-title="",[COLOR=white][B]ASOT TV[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=5lMmnfVylEE
@@ -218,6 +216,42 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2a
 #EXTINF:-1,[COLOR=white][B]RADIOLINA DANCE HD[/B][/COLOR][COLOR=white][/COLOR]
 https://5bb65e9de3fdf.streamlock.net/Radiolina/dancechannel/playlist.m3u8
 
+
+######################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  GRUPO CANAIS HQM  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+
+#EXTINF:-1,[COLOR=white][B]HQM - SPANISH[/B][/COLOR][COLOR=white][/COLOR]
+https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/index-f5-v1-a1.m3u8
+#EXTINF:-1,[COLOR=white][B]HQM - REMEMBER[/B][/COLOR][COLOR=white][/COLOR]
+https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/index-f5-v1-a1.m3u8
+#EXTINF:-1,[COLOR=white][B]HQM - POP[/B][/COLOR][COLOR=white][/COLOR]
+https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/index-f5-v1-a1.m3u8
+#EXTINF:-1,[COLOR=white][B]HQM - HITS[/B][/COLOR][COLOR=white][/COLOR]
+https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/index-f5-v1-a1.m3u8
+#EXTINF:-1,[COLOR=white][B]HQM - DANCE[/B][/COLOR][COLOR=white][/COLOR]
+https://livelist01.yowi.tv/lista/57cf2f51b07ff21988a7a6f0270a66d41086d4a4/index-f5-v1-a1.m3u8
+#EXTINF:-1,[COLOR=white][B]HQM - ROCK[/B][/COLOR][COLOR=white][/COLOR]
+https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/index-f5-v1-a1.m3u8
+#EXTINF:-1,[COLOR=white][B]HQM - BALADAS[/B][/COLOR][COLOR=white][/COLOR]
+https://livelist01.yowi.tv/lista/5d7d2c21e0ec7a8a99fd1fdbc52cbdc0782f77fc/index-f5-v1-a1.m3u8
+#EXTINF:-1,[COLOR=white][B]HQM - FOLK[/B][/COLOR][COLOR=white][/COLOR]
+https://livelist01.yowi.tv/lista/9f5310c179e8e840188d183be235f755b18cf703/index-f5-v1-a1.m3u8
+#EXTINF:-1,[COLOR=white][B]HQM - RELAX[/B][/COLOR][COLOR=white][/COLOR]
+https://livelist01.yowi.tv/lista/dc1b71c6fda2e687050facaa7242062cbf5a7f2a/index-f5-v1-a1.m3u8
+#EXTINF:-1,[COLOR=white][B]HQM - CLASSIC[/B][/COLOR][COLOR=white][/COLOR]
+https://livelist01.yowi.tv/lista/f04129475945936b248aa723de56519ea2ff10fc/index-f5-v1-a1.m3u8
+#EXTINF:-1,[COLOR=white][B]HQM - GYM[/B][/COLOR][COLOR=white][/COLOR]
+https://livelist01.yowi.tv/lista/abb87f329d0ed03072b1930e9636a53e8076c8d5/index-f5-v1-a1.m3u8
+#EXTINF:-1,[COLOR=white][B]HQM - JAZZ[/B][/COLOR][COLOR=white][/COLOR]
+https://livelist01.yowi.tv/lista/f204aa5b3f0691e69851b54b7746ef09ede26f6a/index-f5-v1-a1.m3u8
+#EXTINF:-1,[COLOR=white][B]HQM - LATIN[/B][/COLOR][COLOR=white][/COLOR]
+https://livelist01.yowi.tv/lista/9a4da7871ec57b4b63ed49597a13d09869172be0/index-f5-v1-a1.m3u8
+#EXTINF:-1,[COLOR=white][B]HQM - BLUES[/B][/COLOR][COLOR=white][/COLOR]
+https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/index-f5-v1-a1.m3u8
+#EXTINF:-1,[COLOR=white][B]HQM - CLILLOUT[/B][/COLOR][COLOR=white][/COLOR]
+https://livelist01.yowi.tv/lista/183a351ddb0e57af6d735256226e6033c32219ab/index-f5-v1-a1.m3u8
 
 ######################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  MÚSICA AFRICANA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -512,6 +546,8 @@ https://muzzik-live.morescreens.com/mts-a3/playlist.m3u8
 https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]SPIRIT TV USA EN[/B][/COLOR][COLOR=white][/COLOR]
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+
+
 
 #EXTINF:-1,[COLOR=white][B]MEZZO LIVE TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://190.2.155.162:8080/mezzolive/index.m3u8
