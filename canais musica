@@ -4,7 +4,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 04/11/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 11/11/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -41,9 +41,6 @@ https://sc.id-tv.kz/1hd.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]1HD ROMENIA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/chunklist_b5256000.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]4FUN MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]TRACE URBAN FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
@@ -158,10 +155,6 @@ https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,[COLOR=white][B]M6 MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
 http://190.2.155.162:8080/m6music/mpegts
 
-#EXTINF:-1,[COLOR=white][B]CANELA TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://stream.ads.ottera.tv/cl/d8875590-5da2-41ef-b039-6db9ffae9ace/1280x720_3071200_0_f.m3u8
-
-
 ##########################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA ELECTRÓNICA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
@@ -218,8 +211,7 @@ http://tis.catcast.tv/content/391/index.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]RADIOLINA DANCE HD[/B][/COLOR][COLOR=white][/COLOR]
 https://5bb65e9de3fdf.streamlock.net/Radiolina/dancechannel/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]PLAY IBIZA HD[/B][/COLOR][COLOR=white][/COLOR]
-https://stream-us-east-1.getpublica.com/cl/a74b0d78-cac5-4397-9d23-55d3793211af/1920x1080_5420455_2_f.m3u8
+
 
 ######################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  MÚSICA AFRICANA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -660,7 +652,7 @@ https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c
 
 
 ######################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 04/11/2022 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 11/11/2022 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
@@ -733,7 +725,7 @@ http://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
 https://xite-samsung-de.amagi.tv/playlist.m3u8
 
 ######################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////// LISTA ADICIONADA: 03/11/2022 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 11/11/2022 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
@@ -757,22 +749,7 @@ https://hls.goodgame.ru/hls/180509.m3u8
 http://193.233.9.49/streams/media/1_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",V2BEAT
 http://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:0 tvg-id="bridge-hd" group-title="Музыкальные",BRIDGE TV DELUXE
-https://webtest.mylifeisgood.ml/channels/bridgedeluxetv.m3u8
-#EXTINF:0 tvg-id="bridge" group-title="Музыкальные",BRIDGE TV
-https://webtest.mylifeisgood.ml/channels/bridgetv24h.m3u8
-#EXTINF:0 tvg-id="topsong" group-title="Музыкальные",BRIDGE TV CLASSIC
-https://webtest.mylifeisgood.ml/channels/bridgeclassictv.m3u8
-#EXTINF:0 tvg-id="dange" group-title="Музыкальные",BRIDGE TV HITS
-https://webtest.mylifeisgood.ml/channels/bridgehitstv.m3u8
-#EXTINF:0 tvg-id="bridge-fresh" group-title="Музыкальные",Bridge TV Фрэш
-http://2serv.mylifeisgood.ml:8080/channels/bridgefreshya.m3u8
-#EXTINF:0 tvg-id="rusong" group-title="Музыкальные",BRIDGE TV Русский Хит
-https://livetv.mylifeisgood.ml/channels/bridgerushittv.m3u8
-#EXTINF:0 tvg-id="shlyager" group-title="Музыкальные",BRIDGE TV Шлягер
-https://webtest.mylifeisgood.ml/channels/bridgetvshlyager.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музыкальные",BRIDGE TV 
-https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-baby-time/tracks-v1a1/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",O!2 HD
 http://77.72.22.42:8080/9254/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",Страна FM HD
@@ -787,8 +764,6 @@ http://musictv.mediacdn.ru/cdn/musicboxgold/playlist_sdmid.m3u8
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:0 tvg-id="tnt-music" group-title="Музыкальные",ТНТ MUSIC
 http://95.217.196.109:8081/russia/tntmusic/chunks.m3u8
-#EXTINF:0 tvg-id="aiva" group-title="Музыкальные",AIVA
-http://91.185.81.166:8080/playlist.m3u8
 #EXTINF:0 tvg-id="Viva.uk" group-title="Музыкальные",VIVA
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",VEVO POP EUROPE
@@ -799,10 +774,6 @@ https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",XITE HD DE
 https://xite-samsung-de.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="inrating" group-title="Музыкальные",INRATING HD
-http://91.213.59.156/play/55/index.m3u8
-#EXTINF:0 tvg-id="eumusic" group-title="Музыкальные",EU MUSIC
-http://91.213.59.156/play/88/index.m3u8
 #EXTINF:0 tvg-id="TraceUrban.ru" group-title="Музыкальные",TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",MUSIC PLUS
