@@ -4,12 +4,540 @@
 http://0.0.0.0:000000
 ##################################################################################################################################################
 
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 11/10/2022[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA ADICIONADA: 11/11/2022[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #################################################################################################################################################
  
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
-http://0000000000000000000
+#EXTM3U
+#EXTINF:0 tvg-id="13RUE.fr" group-title="Channels",FR: 13eme Rue
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/181
+#EXTINF:0 tvg-id="6ter.fr" group-title="Channels",FR: 6ter
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/183
+#EXTINF:0 tvg-id="AB1.fr" group-title="Channels",FR: AB 1
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/165
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: AB 3
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/878
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: AB Xplore
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/23418
+#EXTINF:0 tvg-id="Action.fr" group-title="Channels",FR: Action
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/182
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Africa 24
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/276064
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Alsace 20
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/53681
+#EXTINF:0 tvg-id="AlticeStudio.fr" group-title="Channels",FR: Altice Studio
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/13364
+#EXTINF:0 tvg-id="Animaux.fr" group-title="Channels",FR: ANIMAUX
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/193
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Anime All Day
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286450
+#EXTINF:0 tvg-id="ARTE.fr" group-title="Channels",FR: ARTE
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/163
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Automoto
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/148
+#EXTINF:0 tvg-id="BabyTV.fr" group-title="Channels",FR: Baby TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/51323
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="Channels",FR: beIN Sports 1
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/144
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="Channels",FR: beIN Sports 2
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/145
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="Channels",FR: beIN Sports 3
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/146
+#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="Channels",FR: beIN Sports Max 4
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/3599
+#EXTINF:0 tvg-id="BeInSportMax5.fr" group-title="Channels",FR: beIN Sports Max 5
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/6083
+#EXTINF:0 tvg-id="BeInSportMax6.fr" group-title="Channels",FR: beIN Sports Max 6
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/4368
+#EXTINF:0 tvg-id="BeInSportMax7.fr" group-title="Channels",FR: beIN Sports Max 7
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/4369
+#EXTINF:0 tvg-id="BeInSportMax8.fr" group-title="Channels",FR: beIN Sports Max 8
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/4370
+#EXTINF:0 tvg-id="BeInSportMax9.fr" group-title="Channels",FR: beIN Sports Max 9
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/4371
+#EXTINF:0 tvg-id="BeInSportMax10.fr" group-title="Channels",FR: beIN Sports Max 10
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/6088
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Berbere TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/33099
+#EXTINF:0 tvg-id="BET.fr" group-title="Channels",FR: BET
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/184
+#EXTINF:0 tvg-id="BFMBusiness.fr" group-title="Channels",FR: BFM Business
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1919
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: BFM Grand Littoral
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286499
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: BFM Lille TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/201231
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: BFM Lyon
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286500
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: BFM Paris
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/167
+#EXTINF:0 tvg-id="BFMTV.fr" group-title="Channels",FR: BFM TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/279628
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Bip TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/75540
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Bob leponge
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286452
+#EXTINF:0 tvg-id="Boing.fr" group-title="Channels",FR: Boing
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/213
+#EXTINF:0 tvg-id="Boomerang.fr" group-title="Channels",FR: Boomerang
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1931
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: BOX OFFICE 8
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/42226
+#EXTINF:0 tvg-id="CNews.fr" group-title="Channels",FR: C News
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/168
+#EXTINF:0 tvg-id="CStar.fr" group-title="Channels",FR: C Star
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1900
+#EXTINF:0 tvg-id="CStarHitsFrance.fr" group-title="Channels",FR: C Star Hits France
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281600
+#EXTINF:0 tvg-id="C8.fr" group-title="Channels",FR: C8
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/161
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Canal D
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/486
+#EXTINF:0 tvg-id="CanalJ.fr" group-title="Channels",FR: CANAL J
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/212
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Canal Savoir
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/9296
+#EXTINF:0 tvg-id="CANALplus.fr" group-title="Channels",FR: CANAL+
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/170
+#EXTINF:0 tvg-id="CANALplusCINEMA.fr" group-title="Channels",FR: CANAL+ Cinema
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/172
+#EXTINF:0 tvg-id="CANALplusDECALE.fr" group-title="Channels",FR: CANAL+ Decale
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/171
+#EXTINF:0 tvg-id="CANALplusFamily.fr" group-title="Channels",FR: CANAL+ Family
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1894
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CANAL+ FORMULE 1
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295260
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CANAL+ Kids
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281601
+#EXTINF:0 tvg-id="CanalplusSeries.fr" group-title="Channels",FR: CANAL+ Series
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/173
+#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="Channels",FR: CANAL+ Sport
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/143
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CANAL+ Sport 1
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/291175
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CANAL+ Sport 3
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/291177
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CANAL+ Sport 5
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/291178
+#EXTINF:0 tvg-id="CartoonNetwork.fr" group-title="Channels",FR: Cartoon Network
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/210
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Catfish
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286453
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Central TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286502
+#EXTINF:0 tvg-id="ChassePeche.fr" group-title="Channels",FR: Chasse & Peche
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/196
+#EXTINF:0 tvg-id="Cherie25.fr" group-title="Channels",FR: Cherie 25
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1911
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CINE+
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296203
+#EXTINF:0 tvg-id="CinecinemaClassic.fr" group-title="Channels",FR: CINE+ Classic
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/175
+#EXTINF:0 tvg-id="CinecinemaClub.fr" group-title="Channels",FR: CINE+ Club
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/179
+#EXTINF:0 tvg-id="CinecinemaEmotion.fr" group-title="Channels",FR: CINE+ Emotion
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/876
+#EXTINF:0 tvg-id="CinecinemaFamiz.fr" group-title="Channels",FR: CINE+ Famiz
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1896
+#EXTINF:0 tvg-id="CinecinemaFrisson.fr" group-title="Channels",FR: CINE+ Frisson
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1895
+#EXTINF:0 tvg-id="CinecinemaPremier.fr" group-title="Channels",FR: CINE+ Premier
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/176
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Clubbing TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/11018
+#EXTINF:0 tvg-id="Comedie.fr" group-title="Channels",FR: Comedie+
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/180
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Comedy Central
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/280292
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Cribs Maisons De Star
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286444
+#EXTINF:0 tvg-id="CrimeDistrict.fr" group-title="Channels",FR: Crime District
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/6223
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: D5 TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/53343
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Dating
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286462
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: DBM TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/165042
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Dieu TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/165046
+#EXTINF:0 tvg-id="DiscoveryScience.fr" group-title="Channels",FR: Discovery Science
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/186
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Discovery World
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/185
+#EXTINF:0 tvg-id="DisneyChannel.fr" group-title="Channels",FR: Disney Channel
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1198
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Disney Channel +1
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1927
+#EXTINF:0 tvg-id="DisneyJunior.fr" group-title="Channels",FR: Disney Junior
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1197
+#EXTINF:0 tvg-id="DisneyXD.fr" group-title="Channels",FR: Disney XD
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/208
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Disney+
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/207
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Donald Duck
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286748
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Dora TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286463
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Drama+
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286464
+#EXTINF:0 tvg-id="Eentertainment.fr" group-title="Channels",FR: E!
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2978
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: EMCI TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/165033
+#EXTINF:0 tvg-id="EquidiaLive.fr" group-title="Channels",FR: Equidia
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/276130
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Ere TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295261
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Euro Channel
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/52215
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: euronews
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/169
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: euronews Français
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296361
+#EXTINF:0 tvg-id="Eurosport1.fr" group-title="Channels",FR: EUROSPORT 1
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/151
+#EXTINF:0 tvg-id="Eurosport2.fr" group-title="Channels",FR: EUROSPORT 2
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1195
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Fashion TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/146555
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Fashion TV FASHION MAGAZINES
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/163399
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Fashion TV Paris FASHION NEWS
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/146554
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Fashion TV Singapore Photoshoots
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286508
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Fashion TV Tokyo FASHION FILMS
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296230
+#EXTINF:0 tvg-id="Foot24.fr" group-title="Channels",FR: Foot+
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1193
+#EXTINF:0 tvg-id="France2.fr" group-title="Channels",FR: FRANCE 2
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/154
+#EXTINF:0 tvg-id="France3.fr" group-title="Channels",FR: FRANCE 3
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/155
+#EXTINF:0 tvg-id="France4.fr" group-title="Channels",FR: FRANCE 4
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/156
+#EXTINF:0 tvg-id="France5.fr" group-title="Channels",FR: FRANCE 5
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/157
+#EXTINF:0 tvg-id="France24.fr" group-title="Channels",FR: FRANCE 24
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/870
+#EXTINF:0 tvg-id="Franceinfo.fr" group-title="Channels",FR: Franceinfo
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/159
+#EXTINF:0 tvg-id="GameOne.fr" group-title="Channels",FR: Game One
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1930
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Generations TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286514
+#EXTINF:0 tvg-id="Golf.fr" group-title="Channels",FR: Golf Channel
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/279613
+#EXTINF:0 tvg-id="Golfplus.fr" group-title="Channels",FR: GOLF+
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1934
+#EXTINF:0 tvg-id="Gulli.fr" group-title="Channels",FR: Gulli
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/216
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Helene & les garcons
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286468
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Histoire TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/201
+#EXTINF:0 tvg-id="i24News.fr" group-title="Channels",FR: i24 News
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/280291
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: iCarly+
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/294935
+#EXTINF:0 tvg-id="Infosport.fr" group-title="Channels",FR: InfoSport+
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1190
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Instant Saga
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286445
+#EXTINF:0 tvg-id="JOne.fr" group-title="Channels",FR: J One
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/202
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Junior
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286471
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Juste pour Rire
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286446
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Kids Series+
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286472
+#EXTINF:0 tvg-id="KTO.fr" group-title="Channels",FR: KTO
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/14085
+#EXTINF:0 tvg-id="EquipeTV.fr" group-title="Channels",FR: L Equipe
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/147
+#EXTINF:0 tvg-id="LaChaineMeteo.fr" group-title="Channels",FR: La Chaine Meteo
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/168914
+#EXTINF:0 tvg-id="LCI.fr" group-title="Channels",FR: LCI
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/4342
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: LCP Assemblee Nationale
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/6258
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Le miel & les abeilles
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286473
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Les Nouveaux Detectives
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286475
+#EXTINF:0 tvg-id="LorFMTV.fr" group-title="Channels",FR: LFM TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/23414
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Live in Concert
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286477
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: LM TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295063
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: LN24
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281434
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Louis La Brocante
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286478
+#EXTINF:0 tvg-id="LuckyJack.fr" group-title="Channels",FR: Lucky Jack TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/91819
+#EXTINF:0 tvg-id="M6.fr" group-title="Channels",FR: M6
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/158
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: M6 International
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286533
+#EXTINF:0 tvg-id="M6MusicHits.fr" group-title="Channels",FR: M6 Music
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/224
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Made
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286517
+#EXTINF:0 tvg-id="Mangas.fr" group-title="Channels",FR: Mangas
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/214
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: MATELE TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/75552
+#EXTINF:0 tvg-id="MCM.fr" group-title="Channels",FR: MCM
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/4355
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: MCM Pop
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8027
+#EXTINF:0 tvg-id="MCMtop.fr" group-title="Channels",FR: MCM TOP
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/223
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: MDL
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/275294
+#EXTINF:0 tvg-id="TeleMelody.fr" group-title="Channels",FR: Melody
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/27959
+#EXTINF:0 tvg-id="Mezzo.fr" group-title="Channels",FR: Mezzo
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/5355
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Mezzo Live
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8099
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Monaco Info
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286746
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Motorvision TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/268514
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: MS Comedy
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295264
+#EXTINF:0 tvg-id="MTV.fr" group-title="Channels",FR: MTV France
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/220
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: MTV Hits France
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/47249
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: MULTISPORT 1
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/290572
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: MULTISPORT 2
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/290573
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: MULTISPORT 3
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/290574
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: MULTISPORT 4
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/290575
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: MULTISPORT 5
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/290576
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: MULTISPORT 6
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/290577
+#EXTINF:0 tvg-id="Museum.fr" group-title="Channels",FR: Museum
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/267860
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: MY COMEDY
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295147
+#EXTINF:0 tvg-id="MyCuisine.fr" group-title="Channels",FR: MY Cuisine
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/16731
+#EXTINF:0 tvg-id="NationalGeographic.fr" group-title="Channels",FR: NAT GEO
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/187
+#EXTINF:0 tvg-id="NatGeoWildHD.fr" group-title="Channels",FR: NAT GEO Wild
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/278459
+#EXTINF:0 tvg-id="Nickelodeon.fr" group-title="Channels",FR: nickelodeon
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/204
+#EXTINF:0 tvg-id="NickelodeonPlus1.fr" group-title="Channels",FR: nickelodeon +1
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/63585
+#EXTINF:0 tvg-id="NickJr.fr" group-title="Channels",FR: nickelodeon Junior
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1186
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: nickelodeon Teen
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/206
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Notele
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281435
+#EXTINF:0 tvg-id="NovelasTV.fr" group-title="Channels",FR: Novelas TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/27960
+#EXTINF:0 tvg-id="NRJ12.fr" group-title="Channels",FR: NRJ 12
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/226
+#EXTINF:0 tvg-id="NRJHits.fr" group-title="Channels",FR: NRJ Hits
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/221
+#EXTINF:0 tvg-id="OrangeCinechoc.fr" group-title="Channels",FR: OCS choc
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1184
+#EXTINF:0 tvg-id="OrangeCineHappy.fr" group-title="Channels",FR: OCS City
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/178
+#EXTINF:0 tvg-id="OrangeCineGeants.fr" group-title="Channels",FR: OCS geants
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/177
+#EXTINF:0 tvg-id="OrangeCinemax.fr" group-title="Channels",FR: OCS Max
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/869
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Olympia TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281599
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: P2M TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286516
+#EXTINF:0 tvg-id="ParamountChannel.fr" group-title="Channels",FR: Paramount Channel
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1183
+#EXTINF:0 tvg-id="ParamountChannelDecale.fr" group-title="Channels",FR: Paramount Channel Decale
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295171
+#EXTINF:0 tvg-id="ParisPremiere.fr" group-title="Channels",FR: Paris Premiere
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/868
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: People are Awesome
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286484
+#EXTINF:0 tvg-id="PIWI.fr" group-title="Channels",FR: Piwi+
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/4377
+#EXTINF:0 tvg-id="PLANETE.fr" group-title="Channels",FR: PLANETE+
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/191
+#EXTINF:0 tvg-id="PLANETEnoLIMIT.fr" group-title="Channels",FR: PLANETE+ A&E
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1181
+#EXTINF:0 tvg-id="PLANETEJustice.fr" group-title="Channels",FR: PLANETE+ CI
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/192
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Plus Belle La Vie
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286485
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Plus Belle la Vie+
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286486
+#EXTINF:0 tvg-id="PolarPlus.fr" group-title="Channels",FR: POLAR+
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1202
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Public Senat
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/50056
+#EXTINF:0 tvg-id="RFMTV.fr" group-title="Channels",FR: RFM TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/6238
+#EXTINF:0 tvg-id="RMCdecouverte.fr" group-title="Channels",FR: RMC Decouverte
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/198
+#EXTINF:0 tvg-id="RMCSport1.fr" group-title="Channels",FR: RMC SPORT 1
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1937
+#EXTINF:0 tvg-id="RMCSport2.fr" group-title="Channels",FR: RMC SPORT 2
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1938
+#EXTINF:0 tvg-id="RMCSport3.fr" group-title="Channels",FR: RMC SPORT 3
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/279991
+#EXTINF:0 tvg-id="RMCSport4.fr" group-title="Channels",FR: RMC SPORT 4
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/279752
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: RMC SPORT 5
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1940
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: RMC SPORT 7
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/20883
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: RMC SPORT 10
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/192025
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: RMC SPORT 11
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/20888
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: RMC SPORT 12
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/20887
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: RMC SPORT 13
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/20890
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: RMC Story
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/162
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Romance
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286487
+#EXTINF:0 tvg-id="RougeTV.fr" group-title="Channels",FR: Rouge TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/9869
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: RT France
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296211
+#EXTINF:0 tvg-id="RTL9.fr" group-title="Channels",FR: RTL 9
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1178
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: RTL TVI
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/82959
+#EXTINF:0 tvg-id="ScienceVie.fr" group-title="Channels",FR: Science & Vie TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/199
+#EXTINF:0 tvg-id="Seasons.fr" group-title="Channels",FR: Seasons
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/195
+#EXTINF:0 tvg-id="SerieClub.fr" group-title="Channels",FR: Serie Club
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1903
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Sofy TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286518
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Sport
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/187484
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Stingray Classica
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281897
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Stingray CMusic
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281784
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Stingray Djazz
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/280290
+#EXTINF:0 tvg-id="Syfy.fr" group-title="Channels",FR: SYFY
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/867
+#EXTINF:0 tvg-id="TCM.fr" group-title="Channels",FR: TCM Cinema
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1902
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TEEN Series
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286489
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TeleGrenoble Isere
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/198639
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TeleMag
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/280240
+#EXTINF:0 tvg-id="TeleTOONplus1.fr" group-title="Channels",FR: Teletoon +1
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295274
+#EXTINF:0 tvg-id="TeleTOON.fr" group-title="Channels",FR: TeleToon+
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/218
+#EXTINF:0 tvg-id="Teva.fr" group-title="Channels",FR: Teva
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/866
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TF 1
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/153
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TF 1 Series Films
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1898
+#EXTINF:0 tvg-id="TFX.fr" group-title="Channels",FR: TFX
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/164
+#EXTINF:0 tvg-id="Tiji.fr" group-title="Channels",FR: Tiji
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/215
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Tipik
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/52149
+#EXTINF:0 tvg-id="TMC.fr" group-title="Channels",FR: TMC
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/865
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Toonami Movies
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/203
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Tortues Ninja TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286492
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Toute Histoire
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/200
+#EXTINF:0 tvg-id="TraceAFRICA.fr" group-title="Channels",FR: TRACE Africa
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/4311
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TRACE Brazuca
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/188984
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TRACE Caribbean
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/11843
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TRACE Gospel
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/11999
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TRACE Kitoko
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/3685
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TRACE Latina
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/32392
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TRACE Mziki
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/12000
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TRACE Naija
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/12001
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TRACE Sport Stars
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/12002
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TRACE Toca
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/7560
+#EXTINF:0 tvg-id="TraceUrban.fr" group-title="Channels",FR: TRACE URBAN
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/225
+#EXTINF:0 tvg-id="Trek.fr" group-title="Channels",FR: Trek
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/194
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TV 7 Colmar
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/44709
+#EXTINF:0 tvg-id="TVBreizh.fr" group-title="Channels",FR: TV Breizh
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/166
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TV Francophonie
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/6252
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TV5Monde Europe
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/146307
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TV5Monde France Belgique Suisse Monaco
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/879
+#EXTINF:0 tvg-id="TV5MondeEurope.fr" group-title="Channels",FR: TV5Monde Info
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286522
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TV78
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/275295
+#EXTINF:0 tvg-id="TV8MontBlanc.fr" group-title="Channels",FR: TV8 Mont Blanc
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/23464
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TVR (Bretagne)
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286524
+#EXTINF:0 tvg-id="UshuaiaTV.fr" group-title="Channels",FR: Ushuaïa TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296302
+#EXTINF:0 tvg-id="UshuaiaTV.fr" group-title="Channels",FR: Ushuaïa TV 1080
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/190
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: ViamaTele
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286529
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: ViaOccitanie
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/194295
+#EXTINF:0 tvg-id="VosgesTV.fr" group-title="Channels",FR: Vosges TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/23460
+#EXTINF:0 tvg-id="W9.fr" group-title="Channels",FR: W9
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/160
+#EXTINF:0 tvg-id="Warnertv.fr" group-title="Channels",FR: Warner TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/13360
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Weo TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/15360
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Wildside TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286528
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: World Poker Tour
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286493
+
