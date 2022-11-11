@@ -4,15 +4,476 @@
 http://0.0.0.0:000000
 ##################################################################################################################################################
 
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 11/10/2022[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA ADICIONADA: 11/11/2022[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #################################################################################################################################################
  
 #EXTM3U
 
 
+#EXTINF:0 tvg-id="Hashtag0.es" group-title="Channels",ES: #0
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2146
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: #VAMOS
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2148
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: +24
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285721
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: 4 TV Vall Uxa
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285753
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: 7 La Rioja
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285723
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: 7 Murcia
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2212
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: 7 Noticias
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/283875
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: 101 Tele Antequera
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285722
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: 101 TV Malaga
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/146345
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: 324 Cat
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/165149
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: 3ABN Latino
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285921
+#EXTINF:0 tvg-id="8Madrid.sp" group-title="Channels",ES: 8TV Madrid
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/75902
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: A Punt
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/146343
+#EXTINF:0 tvg-id="AandE.es" group-title="Channels",ES: A&E
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/7731
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: A3 Cine
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/283299
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Activa TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285727
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: AFV Espanol
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/284259
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Alacanti TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/66947
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Alcarria TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/12153
+#EXTINF:0 tvg-id="AMC.es" group-title="Channels",ES: AMC
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1174
+#EXTINF:0 tvg-id="Antena3.es" group-title="Channels",ES: Antena 3
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1173
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Aragon TV Internacional
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2758
+#EXTINF:0 tvg-id="A3seriesHD.es" group-title="Channels",ES: Atreseries
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/9102
+#EXTINF:0 tvg-id="AXNhd.es" group-title="Channels",ES: AXN
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1172
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="Channels",ES: AXN White
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1171
+#EXTINF:0 tvg-id="BabyTV.es" group-title="Channels",ES: Baby TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/5302
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Bailen TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285732
+#EXTINF:0 tvg-id="BarcaTV.es" group-title="Channels",ES: Barca TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1170
+#EXTINF:0 tvg-id="BEMAD.es" group-title="Channels",ES: Be Mad
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2213
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: beIN Sports Xtra en Espanol
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281493
+#EXTINF:0 tvg-id="Beteve.es" group-title="Channels",ES: beteve
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285834
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Blaze
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/5303
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Bloomberg TV EMEA Live Event
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285720
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Bloomberg TV Europe
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285843
+#EXTINF:0 tvg-id="Boing.es" group-title="Channels",ES: Boing
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1169
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Bom Cine
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/75926
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Bon Dia TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/165148
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Cadena Elite
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/200665
+#EXTINF:0 tvg-id="Calle13.es" group-title="Channels",ES: Calle 13
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1168
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Canal 10 Emporda
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285737
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Canal 2000 La Solana
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/294891
+#EXTINF:0 tvg-id="24Horas.sp" group-title="Channels",ES: Canal 24 Horas
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2216
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Canal 25 Barbastro
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/146340
+#EXTINF:0 tvg-id="Canal33.es" group-title="Channels",ES: Canal 33
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/64938
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Canal 56
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/270088
+#EXTINF:0 tvg-id="Cocina.es" group-title="Channels",ES: Canal Cocina
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1167
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Canal Diocesano
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285741
+#EXTINF:0 tvg-id="CanalExtremadura.es" group-title="Channels",ES: Canal Extremadura
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/11776
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Canal Hollywood
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1154
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Canal Malaga
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/12139
+#EXTINF:0 tvg-id="Odisea.es" group-title="Channels",ES: Canal Odisea
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2194
+#EXTINF:0 tvg-id="Panda.es" group-title="Channels",ES: Canal Panda
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1166
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Canal San Roque
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/64943
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Canal Sierra de Cadiz
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285744
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Canal Super 3
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285745
+#EXTINF:0 tvg-id="CanalSurAndalucia.es" group-title="Channels",ES: Canal Sur Andalucia
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2191
+#EXTINF:0 tvg-id="CazayPesca.es" group-title="Channels",ES: Caza y Pesca
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1165
+#EXTINF:0 tvg-id="ClanTVE.es" group-title="Channels",ES: Clan TVE
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2214
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: CNN en Espanol
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/31762
+#EXTINF:0 tvg-id="ComedyCentral.es" group-title="Channels",ES: Comedy Central
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1164
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Congreso de los Diputados 1
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285747
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Congreso de los Diputados 2
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285748
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Congreso de los Diputados 3
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285749
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Congreso de los Diputados 4
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285750
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Congreso de los Diputados 5
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285751
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Cosmopolitan TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2215
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Costa Noroeste TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285752
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: CostadelSol TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295246
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Crime+ Investigation
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/5292
+#EXTINF:0 tvg-id="Cuatro.es" group-title="Channels",ES: Cuatro
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1163
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Cultura 24 TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/197864
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: D Kiss
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/9356
+#EXTINF:0 tvg-id="Dark.es" group-title="Channels",ES: Dark
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/121514
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: DAZN 1
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/64711
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: DAZN 2
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/64712
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: DAZN 3
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/269912
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: DAZN 4
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/269911
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: DAZN F1
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1672
+#EXTINF:0 tvg-id="Decasa.es" group-title="Channels",ES: Decasa
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2771
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Diez TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/269929
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Discovery World
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1162
+#EXTINF:0 tvg-id="DisneyChannel.es" group-title="Channels",ES: Disney Channel
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1145
+#EXTINF:0 tvg-id="DisneyJr.es" group-title="Channels",ES: Disney Junior
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/5299
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Distrito TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/201938
+#EXTINF:0 tvg-id="Divinity.es" group-title="Channels",ES: Divinity
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2795
+#EXTINF:0 tvg-id="DMAX.es" group-title="Channels",ES: DMAX
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2762
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: DreamWorks TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281787
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: El 33
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/294892
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: EL Pinguino TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/53887
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: El Toro TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/201928
+#EXTINF:0 tvg-id="Energy.es" group-title="Channels",ES: Energy
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2217
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Enlace TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285914
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Esperanza TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/11119
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: ESPN
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/90708
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: ESPN 2
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281480
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: ESPN 3
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281403
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: ESPN Deportes
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281417
+#EXTINF:0 tvg-id="Esport3.es" group-title="Channels",ES: Esport 3
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/7445
+#EXTINF:0 tvg-id="ETB1.es" group-title="Channels",ES: ETB 1
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/165969
+#EXTINF:0 tvg-id="ETB2.es" group-title="Channels",ES: ETB 2
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/165970
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: ETB Basque
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/50135
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: euronews en Espanol
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/282292
+#EXTINF:0 tvg-id="Eurosport1.es" group-title="Channels",ES: EUROSPORT 1
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1160
+#EXTINF:0 tvg-id="Eurosport2.es" group-title="Channels",ES: EUROSPORT 2
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1159
+#EXTINF:0 tvg-id="FDF.es" group-title="Channels",ES: Factoria de Ficcion
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2207
+#EXTINF:0 tvg-id="Fox.es" group-title="Channels",ES: FOX
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1158
+#EXTINF:0 tvg-id="FoxLife.es" group-title="Channels",ES: Fox Life
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295164
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: FOX SPORTS 2
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/89723
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: FOX SPORTS 3
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/89722
+#EXTINF:0 tvg-id="FRANCE24.es" group-title="Channels",ES: France 24
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/9148
+#EXTINF:0 tvg-id="GaliciaTV.sp" group-title="Channels",ES: Galicia TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2192
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: GCM TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285760
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Girona TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/174484
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Goiena Eus
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285761
+#EXTINF:0 tvg-id="GOL.es" group-title="Channels",ES: Gol
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1156
+#EXTINF:0 tvg-id="Historia.es" group-title="Channels",ES: History
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1155
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Hit TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281789
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Hola TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/3061
+#EXTINF:0 tvg-id="IberaliaTV.es" group-title="Channels",ES: Iberalia TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2793
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Ibiza Global TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285763
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Imas TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/269931
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Inter Almeria
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/81640
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Investigation Discovery
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/27790
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: KTO
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285847
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: LA 7
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285768
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: La 8
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285770
+#EXTINF:0 tvg-id="LaOtra.es" group-title="Channels",ES: La Otra
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/145616
+#EXTINF:0 tvg-id="LaSexta.sp" group-title="Channels",ES: La Sexta
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1152
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: La URBAN TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285780
+#EXTINF:0 tvg-id="BarcaTV.es" group-title="Channels",ES: LaLiga TV Bar
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/197711
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Lancelot TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/12159
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Levante TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/146658
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Logos TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281790
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Maestrat TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285784
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Mar TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/166347
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Marbella TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/174751
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: MavTV Europe
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285845
+#EXTINF:0 tvg-id="Mega.es" group-title="Channels",ES: Mega
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2190
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Melilla TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/270089
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Mirame TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285786
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Molahits TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281793
+#EXTINF:0 tvg-id="M.Accion.es" group-title="Channels",ES: MOVISTAR Accion
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1148
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: MOVISTAR Cine Espanol
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/64788
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: MOVISTAR Clasicos
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281773
+#EXTINF:0 tvg-id="M.Comedia.es" group-title="Channels",ES: MOVISTAR Comedia
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1146
+#EXTINF:0 tvg-id="M.Deportes.es" group-title="Channels",ES: MOVISTAR Deportes
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/227121
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: MOVISTAR Deportes 5
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285690
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: MOVISTAR Deportes 6
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/198066
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: MOVISTAR Drama
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1144
+#EXTINF:0 tvg-id="M.Estrenos.es" group-title="Channels",ES: MOVISTAR Estrenos
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1143
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: MOVISTAR Estrenos 2
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295135
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: MOVISTAR Fest
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/168992
+#EXTINF:0 tvg-id="Golf.es" group-title="Channels",ES: MOVISTAR Golf
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1142
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: MOVISTAR La Resistencia
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286800
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: MOVISTAR LaLiga
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1141
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: MOVISTAR LaLiga 2
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/5311
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: MOVISTAR LaLiga 3
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281772
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: MOVISTAR LaLiga 4
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/269466
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: MOVISTAR LaLiga 5
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281792
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: MOVISTAR LaLiga 7
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/194527
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: MOVISTAR LaLiga 8
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/269463
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: MOVISTAR LIGA DE CAMPEONES
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2800
+#EXTINF:0 tvg-id="M.Series.es" group-title="Channels",ES: MOVISTAR Series
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1140
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: MOVISTAR Series 2
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1139
+#EXTINF:0 tvg-id="MTV2.sp" group-title="Channels",ES: MTV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/29307
+#EXTINF:0 tvg-id="MTVEsp.es" group-title="Channels",ES: MTV Espana
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/5308
+#EXTINF:0 tvg-id="Multideporte1.es" group-title="Channels",ES: Multideporte
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8110
+#EXTINF:0 tvg-id="NationalGeographic.es" group-title="Channels",ES: NAT GEO
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1138
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="Channels",ES: NAT GEO Wild
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1137
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Navarra TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/146410
+#EXTINF:0 tvg-id="Neox.es" group-title="Channels",ES: NEOX
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2208
+#EXTINF:0 tvg-id="NickJunior.es" group-title="Channels",ES: Nick Junior
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/5296
+#EXTINF:0 tvg-id="Nickelodeon.es" group-title="Channels",ES: nickelodeon
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2218
+#EXTINF:0 tvg-id="Nova.es" group-title="Channels",ES: Nova
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2189
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: NTV Europe
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285846
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Oizmendi Telebista
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285790
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Olympic Channel
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/11138
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Onda Algeciras TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/269932
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Onda Cadiz
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/66953
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Pequeradio
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285793
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Popular TV Cantabria
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285794
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Popular TV Melilla
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/270090
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Portal Foxmix
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295008
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Punt 3 Vall Uixo
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/269913
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Rakuten 1
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285802
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Rakuten 2
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285803
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Rakuten 3
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285804
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Rakuten 6
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285805
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Rakuten 7
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285806
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Rakuten Family
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285801
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Ready TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281799
+#EXTINF:0 tvg-id="RealMadridTV.es" group-title="Channels",ES: Real Madrid TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1136
+#EXTINF:0 tvg-id="RTEspanol.es" group-title="Channels",ES: RT en Español
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/166663
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: RTV Vida
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285797
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: RTVC
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/11809
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: RTVE Noticias
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296504
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Sevilla FC TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/169002
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Sky Sport MotoGP
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281492
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Sofy TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285809
+#EXTINF:0 tvg-id="SolMusica.sp" group-title="Channels",ES: Sol Musica
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/168991
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Solidaria TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285810
+#EXTINF:0 tvg-id="Somos.es" group-title="Channels",ES: Somos
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/16274
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Sophia TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285811
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Star TVE
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285188
+#EXTINF:0 tvg-id="Sundance.es" group-title="Channels",ES: Sundance TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2757
+#EXTINF:0 tvg-id="Scifi.es" group-title="Channels",ES: SYFY
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1135
+#EXTINF:0 tvg-id="TCM.es" group-title="Channels",ES: TCM
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1134
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Tele Safor
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/50133
+#EXTINF:0 tvg-id="Telecinco.es" group-title="Channels",ES: Telecinco
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1133
+#EXTINF:0 tvg-id="Teledeporte.es" group-title="Channels",ES: Teledeporte
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2774
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Teleonuba
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/145619
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: TeleRibera
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285823
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: TeleVigo
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285825
+#EXTINF:0 tvg-id="Ten.es" group-title="Channels",ES: Ten
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/5306
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Teve Cat
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285835
+#EXTINF:0 tvg-id="TNT.es" group-title="Channels",ES: TNT
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2187
+#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="Channels",ES: Toros TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1132
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Trece TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/60943
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: TV 4 La Vall
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/270092
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: TV Castilla La Mancha
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/169000
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: TV Vega Baja
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/269915
+#EXTINF:0 tvg-id="TV3cat.es" group-title="Channels",ES: TV3 Catalunya
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/9367
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: TV5 Limares
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285819
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: TVE Internacional Europa
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/5943
+#EXTINF:0 tvg-id="LA1.es" group-title="Channels",ES: TVE La 1 Madrid
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1151
+#EXTINF:0 tvg-id="LA2.es" group-title="Channels",ES: TVE La 2
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1150
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: TVG 2
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281802
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: TVG Cultural
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/71536
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: TVG Infantil
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281806
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: TVG Musigal
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281808
+#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Ubeat
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/147368
+#EXTINF:0 tvg-id="XTRM.es" group-title="Channels",ES: XTRM
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/11148
 
-
-#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
-http://0000000000000000000
 
