@@ -6,7 +6,7 @@ http://0.0.0.0:0000
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 17/10/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 11/11/2022[/B][/COLOR][COLOR=orange][/COLOR]
 ############################################################################################################################################################
 
 Fonte: https://fluxustvespanol.blogspot.com/p/fluxus-cctv.html#gsc.tab=0
@@ -116,17 +116,6 @@ MAIS WEBCAM AO VIVO
 96 Crаns-Montana, Switzerland https://bernerklinik.ch
                 
 #EXTM3U
-
-#############################################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  NOVAS ENTRADAS (EM TESTE)  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://000000
-
-
-#EXTINF:-1,[COLOR=white][B]SRA DA GRAÇA, VILA REAL[/B][/COLOR][COLOR=white][/COLOR]
-https://itl.rtsp.me/5YP6UEljrZDrmUgftze-Jg/1666112350/hls/yb4YT586.m3u8?ip=188.80.165.
-#EXTINF:-1,[COLOR=white][B]CIDADE DO NATAL LIVE[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=Cp4RRAEgpeU&ab_channel=CityofRovaniemi
-
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  WEBCAM´S MUNDIAIS - YOUTUBE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -262,8 +251,6 @@ http://58f0f58ecd733.streamlock.net:1935/schoonersbeachHDCam/schbeach/chunklist.
 #EXTINF:-1,[COLOR=white][B]USA - PANAMA CITY[/B][/COLOR][COLOR=white][/COLOR]
 https://5ed7b8fd7bf40.streamlock.net:444/holidayinnpcbbeach/holidayinnpcbbeachcam/chunklist_w1595051379.m3u8
 # https://www.youtube.com/watch?v=o09siXxJw9A
-#EXTINF:-1,[COLOR=white][B]UK - WEYMOUTH[/B][/COLOR][COLOR=white][/COLOR]
-https://camsecure.uk/HLS/bayv.m3u8
 #EXTINF:-1,[COLOR=white][B]UK - DAWLISH[/B][/COLOR][COLOR=white][/COLOR]
 https://camsecure.co/HLS/dawlish.m3u8
 #EXTINF:-1,[COLOR=white][B]UK - HARYLYN[/B][/COLOR][COLOR=white][/COLOR]
@@ -272,8 +259,6 @@ https://cams.cdn-surfline.com/cdn-int/uk-harlyn/chunklist.m3u8
 https://camsecure.co/HLS/westho.m3u8
 #EXTINF:-1,[COLOR=white][B]BR - BARRA DA TIJUCA[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn.jmvstream.com/w/IPC-6849/camera.stream/chunklist.m3u8
-#EXTINF:-1,[COLOR=white][B]BR - PRAIA DA TRAMANDAÍ[/B][/COLOR][COLOR=white][/COLOR]
-https://live.monuv.com.br/a1/34767.stream/str27/chunklist.m3u8
 #EXTINF:-1,[COLOR=white][B]POLÓNIA - MIEDZYZDROJE PIER[/B][/COLOR][COLOR=white][/COLOR]
 https://streaming.airmax.pl/apiconnect4_molo1/tracks-v1/mono.m3u8
 #EXTINF:-1,[COLOR=white][B]GRANDE CANÁRIAS - PRAIA DAS BURRAS[/B][/COLOR][COLOR=white][/COLOR]
@@ -354,10 +339,6 @@ http://80.73.96.50/webcam06/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]DE - WEBCAM 4[/B][/COLOR][COLOR=white][/COLOR]
 http://tdt.shmhost.net/geist/livestream.m3u8
 
-#EXTINF:-1 group-title="WEBCAMS",[COLOR=white][B]DE - AEROPORTO COLOGNE BONN[/B][/COLOR][COLOR=white][/COLOR]
-https://stream-5gw.1000eyes.de/cupertino/cgn4463E1.stream/chunklist_w1049166825.m3u8
-
-
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  ÁUSTRIA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
@@ -379,12 +360,8 @@ https://000000
 https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/6593/2017/10/01/1300.mp4/HasBahCa.m3u8
 #EXTINF:-1,[COLOR=white][B]BR - GOIANIA (VIADUTO AV.T-63)[/B][/COLOR][COLOR=white][/COLOR]
 https://hunq9fz8yk.zoeweb.tv/av85/av85.stream/chunklist_w1519308125.m3u8
-#EXTINF:-1,[COLOR=white][B]BR - PONTE AMIZADE CAM[/B][/COLOR][COLOR=white][/COLOR]
-https://cdn.jmvstream.com/w/IPC-7040/camera.stream/chunklist.m3u8
 #EXTINF:-1,[COLOR=white][B]BR - CALDAS NOVAS[/B][/COLOR][COLOR=white][/COLOR]
 https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/chunklist_w822867280.m3u8
-#EXTINF:-1,[COLOR=white][B]BR - UMUARAMA[/B][/COLOR][COLOR=white][/COLOR]
-https://cdn.jmvstream.com/w/IPC-7045/camera.stream/chunklist.m3u8
 #EXTINF:-1,[COLOR=white][B]BR - N.S. APARECIDA[/B][/COLOR][COLOR=white][/COLOR]
 https://hd-auth.skylinewebcams.com/live.m3u8?a=64mueg15ie7jr936cmbpbjjch4
 
@@ -473,8 +450,7 @@ http://maybach.railcam.co.uk/Buckfastleigh_68389/tracks-v1/mono.m3u8
 http://maybach.railcam.co.uk:80/Corfe_14435/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]UK - CREWE 2[/B][/COLOR][COLOR=white][/COLOR]
 https://paxman.railcam.co.uk/Crewe3_13496/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]UK - CROWCOMBE[/B][/COLOR][COLOR=white][/COLOR]
-https://maybach.railcam.co.uk/Crowcombe_72940/tracks-v1/mono.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]UK - DAWLISH[/B][/COLOR][COLOR=white][/COLOR]
 http://camsecure.co/HLS/dawlish.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]UK - FLITWICK[/B][/COLOR][COLOR=white][/COLOR]
@@ -487,18 +463,13 @@ http://maybach.railcam.co.uk/Groombridge_20182/tracks-v1/mono.m3u8
 https://cams.cdn-surfline.com/cdn-int/uk-harlyn/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]UK - MINEHEAD STATION[/B][/COLOR][COLOR=white][/COLOR]
 http://maybach.railcam.co.uk:80/Minehead_05286/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]UK - NEW ROMMEY - CAM 1[/B][/COLOR][COLOR=white][/COLOR]
-http://maybach.railcam.co.uk/NewRomney1_61358/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]UK - NEW ROMMEY - CAM 2[/B][/COLOR][COLOR=white][/COLOR]
-https://maybach.railcam.co.uk/NewRomney2_27157/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]UK - ORTON MERE[/B][/COLOR][COLOR=white][/COLOR]
 http://maybach.railcam.co.uk/NVR-Orton-Mere_39273/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]UK - PENDRE YARD[/B][/COLOR][COLOR=white][/COLOR]
 http://maybach.railcam.co.uk/PendreYard_58347/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]UK - PRINCES[/B][/COLOR][COLOR=white][/COLOR]
 https://paxman.railcam.co.uk/Princes-Risborough_95234/tracks-v1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]UK - RHDR[/B][/COLOR][COLOR=white][/COLOR]
-https://maybach.railcam.co.uk/RHDR_cycle/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]UK - RIBBLEHEAD[/B][/COLOR][COLOR=white][/COLOR]
 https://paxman.railcam.co.uk/Ribblehead_Viaduct/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]UK - SHREWSBURY[/B][/COLOR][COLOR=white][/COLOR]
@@ -558,8 +529,7 @@ http://31.47.96.14:80/hls/DbecvaK.m3u8
 https://000000
 
 
-#EXTINF:-1,[COLOR=white][B]USA - DEAD DOG SALOON MARSHWALK[/B][/COLOR][COLOR=white][/COLOR]
-http://58f0f58ecd733.streamlock.net:1935/DeadDogSaloonCam3/deaddog3/playlist.m3u8
+
 #EXTINF:-1,[COLOR=white][B]USA - MINNESOTA[/B][/COLOR][COLOR=white][/COLOR]
 https://55507e0501d25.streamlock.net/live/spiritmtn.stream/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]USA - SCHOONERS HILL BAR CAM[/B][/COLOR][COLOR=white][/COLOR]
