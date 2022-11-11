@@ -36,6 +36,17 @@
 
 <channels>
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]FILMES DIVERSOS[/COLOR][/B]</name>
+<thumbnail>https://ia601506.us.archive.org/19/items/diversos-filmes_202208/Diversos%20Filmes.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/LILILO-TV/main/filmes%20diversos</externallink>
+<fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
+<info></info>
+</channel>
+
+
+
+<channels>
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR gold]SÉRIES DE TV 1[/COLOR][/B]</name>
 <thumbnail>https://ia601500.us.archive.org/14/items/series-de-tv_20220816/S%C3%A9ries%20de%20TV.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/WalkerBarbosa88/LILILO-TV/main/s%C3%A9ries%20TV%201</externallink>
@@ -53,8 +64,6 @@
 <fanart>https://ia601409.us.archive.org/21/items/star-wars_202209/Star%20Wars.jpg</fanart>
 <info></info>
 </channel>
-
-
 
 
 
