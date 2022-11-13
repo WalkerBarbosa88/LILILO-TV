@@ -35,6 +35,9 @@ PORTUGAL ESTÁ NO GRUPO H - CANAIS BAND E BAND SPORTS TEM O EXCLUSIVO DO MUNDIAL
 http://45.92.69.72:8001/play/a045
 #EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP INTERNACIONAL[/B][/COLOR][COLOR=white][/COLOR]
 http://162.212.178.69:41042/bysid/608
+#EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP INTERNACIONAL[/B][/COLOR][COLOR=white][/COLOR]
+#EXTVLCOPT:http-user-agent=Opera
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0g9
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVI[/B][/COLOR][COLOR=white][/COLOR]
@@ -154,6 +157,9 @@ http://platin4k.eu:80/logantv/ACXhn9BC5m/63176
 http://platin4k.eu:80/logantv/ACXhn9BC5m/161950
 #EXTINF:-1,[COLOR=white][B]RMC SPORT 3 FR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/logantv/ACXhn9BC5m/161950
+
+#EXTINF:-1,[COLOR=white][B]ARENA SPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://89.216.39.24/cloud/stream/39021cad0b164971a70967d2744a5c46/30/index.m3u8
 
 ##################################  BENFICA TV   ###########################################################################
 
