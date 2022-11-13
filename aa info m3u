@@ -9,6 +9,15 @@ http://0.0.0.0:000000
 FONTE DE INFORMAÇÃO: 
 
 
+
+######################  CHAVE API PARA YOUTUBE  ######################
+
+ESPECIAL YOUTUBE - NÃO REQUERE CHAVE API PARA YOUTUBE
+
+#EXTINF:-1 tvg-logo="" group-title="", (YT) (v_id) (UPD)
+plugin://plugin.video.youtube/play/?video_id=IDHERE
+
+
 ######################  PORTUGUÊS  ######################
 
 OBTER LINKS DE FILMES E SÉRIES DE TV
