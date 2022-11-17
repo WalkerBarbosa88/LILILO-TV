@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 ######################################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 11/11/2022[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 17/11/2022[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #######################################################################################################################################################
  
@@ -12,7 +12,6 @@ FONTE DE INFORMAÇÃO: https://vk.com/clubslynet
                      https://www.global-satinfo.in/viewforum.php?f=22
                      https://m3u.cl/lista-iptv-espana.php
 #EXTM3U
-
 
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: 5 Star max
@@ -25,16 +24,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/291132
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/68156
 #EXTINF:0 tvg-id="A-E.us" group-title="Channels",US: A&E
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2746
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Anchorage Alaska KYUR TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295785
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Atlanta Georgia WSB TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/82068
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Augusta Georgia WJBF TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295337
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Bakersfield California KERO TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/166250
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Baltimore Maryland WMAR TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8552
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Baton Rouge Louisiana WBRZ TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286753
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Billings Montana KSVI TV
@@ -45,12 +34,8 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295787
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/48063
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Buffalo New York WKBW TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/13235
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Cedar Rapids Iowa KCRG TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295342
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Charleston South Carolina WCIV DT 2
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295793
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Charleston West Virginia WCHS TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295341
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Charlotte North Carolina WSOC TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295670
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Chicago Illinois WLS TV
@@ -59,54 +44,22 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/284536
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8546
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Columbus Ohio WSYX TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295783
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Dallas Texas WFAA TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/201043
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Dayton Ohio WKEF TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295326
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Denver Colorado KMGH TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/147571
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Detroit Michigan WXYZ TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/284035
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Durham North Carolina WTVD TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/157322
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC El Paso Texas KVIA TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295339
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Fairbanks Alaska KATN TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295786
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Fayetteville Arkansas KHOG TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295335
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Fort Smith Arkansas KHBS TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295334
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Fresno California KFSN TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8454
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Gainesville Florida WCJB TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295325
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Greensboro North Carolina WXLV TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295336
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Hampton Virginia WVEC TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295323
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Harrisburg Illinois WSIL TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295330
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Houston Texas KTRK TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8455
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Indianapolis Indiana WRTV TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8547
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Kansas City Missouri KMBC TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/148221
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Lafayette Louisiana KATC TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/166348
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Las Vegas Nevada KTNV TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/166213
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Lexington Kentucky WTVQ TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295769
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Lima Ohio WOHL CD
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295796
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Los Angeles California KABC TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8460
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Madison Wisconsin WKOW TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295328
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Manchester New Hampshire WMUR TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295343
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Miami Florida WPLG TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8440
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Milwaukee Wisconsin WISN TV
@@ -117,30 +70,18 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295779
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/284242
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Nashville Tennessee WKRN TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8442
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC New Haven Connecticut WTNH TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286695
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC New York WABC TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/35010
 #EXTINF:0 tvg-id="WABCNewYorkABCEast.us" group-title="Channels",US: ABC News
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2734
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Orange Park Florida WJXX
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295327
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Pensacola Florida WEAR TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295329
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Philadelphia Pennsylvania WPVI TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8459
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Phoenix Arizona KNXV TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295684
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Pittsburgh Pennsylvania WTAE TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8444
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Portland Oregon KATU TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/147574
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Presque Isle
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150777
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Sacramento California KXTV TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281172
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Saint Paul Minnesota KSTP TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8551
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Salt Lake City Utah KTVX TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/13180
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC San Antonio Texas KSAT TV
@@ -153,18 +94,10 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8471
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8445
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Spark
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/35520
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Springfield Missouri KSPR TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295331
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC St Louis Missouri KDNL TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8550
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Syracuse New York WSYR TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295344
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Toledo Ohio WTVG TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295795
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Tucson Arizona KGUN TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296636
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Tulsa Oklahoma KTUL TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295340
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: ABC Washington District of Columbia WJLA TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8457
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: ACC Network
@@ -183,8 +116,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/6337
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/6329
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: ANIMAL PLANET Europe
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/20320
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Apple Event — September 7
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296822
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Aspire TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150605
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: AT&T SportsNet
@@ -195,22 +126,16 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/484
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/166292
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: AWE
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/15118
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: AXN Spin Adria
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/174842
 #EXTINF:0 tvg-id="AXSTV.us" group-title="Channels",US: AXS TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/15117
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Baby TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281177
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: BabyFirst TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8591
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Bally Sports Arizona Plus
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150613
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Bally Sports Detroit
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/6463
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Bally Sports Florida
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296662
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Bally Sports Florida Plus
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296664
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Bally Sports Great Lakes
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296665
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Bally Sports Indiana
@@ -231,8 +156,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296675
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296678
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Bally Sports Oklahoma
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/6452
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Bally Sports San Diego
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/3361
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Bally Sports SoCal
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296681
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Bally Sports South
@@ -261,8 +184,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/151025
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/151024
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: beIN Sports 5
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/151026
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: beIN Sports 6
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/151030
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: beIN Sports 7
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/151028
 #EXTINF:0 tvg-id="beINSPORTSenespanol467.us" group-title="Channels",US: beIN Sports n
@@ -279,8 +200,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/30936
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/13006
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Bible Explorations TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/166162
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Big Brother
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296832
 #EXTINF:0 tvg-id="BTN.us" group-title="Channels",US: Big Ten Network
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2279
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Black News Channel
@@ -303,8 +222,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2285
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/163079
 #EXTINF:0 tvg-id="CartoonNetwork.us" group-title="Channels",US: Cartoon Network
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2286
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBN News
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/147400
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Anchorage Alaska KTVA TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295782
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Atlanta Georgia WGCL TV
@@ -315,42 +232,24 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295780
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281188
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Cedar Rapids Iowa KGAN TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295422
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Champaign Illinois WCIA TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295420
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Charlottesville Virginia WCAV TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/166277
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Chicago Illinois WBBM TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/14811
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Cincinnati Ohio WKRC TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295378
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Cleveland Ohio WOIO TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150700
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Colorado Springs Colorado KKTV TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150657
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Columbus Mississippi WCBI TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150685
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Columbus Ohio WBNS TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295379
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Dayton Ohio WHIO TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150678
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Detroit Michigan WWJ TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8416
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS El Paso Texas KDBC TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/35032
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Eugene Oregon KVAL TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150684
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Evansville Indiana WEVV TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295777
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Fargo KXJB LD
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150729
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Fort Myers Florida WINK TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150660
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Fort Worth Texas KTVT TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/82321
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Goldsboro North Carolina WNCN
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150688
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Greensboro North Carolina WFMY TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8417
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Harlingen Texas KGBT TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295773
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Hartford Connecticut WFSB TV
@@ -361,14 +260,8 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150652
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/267818
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Jacksonville Florida WJAX TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8413
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Kalamazoo Michigan WWMT TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150717
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Kansas City Missouri KCTV TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8412
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Knoxville Tennessee WVLT TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/51423
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Lexington Kentucky WKYT TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295672
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Los Angeles California KCBS TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/35026
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Macon Georgia WMAZ TV
@@ -379,10 +272,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/41017
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8420
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Minneapolis Minnesota WCCO TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8418
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Mobile Alabama WKRG TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150634
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Nacogdoches Texas KYTX TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150710
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Nashville Tennessee WTVF TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2287
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS New Orleans Louisiana WWL TV
@@ -399,8 +288,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295363
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295364
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS News Philly
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295359
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Omaha Nebraska KMTV TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150725
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Orlando Florida WKMG TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/35387
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Philadelphia Pennsylvania KYW TV
@@ -411,26 +298,16 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8425
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/41008
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Portland Maine WGME TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150703
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Providence Rhode Island WPRI TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150682
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Reality
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/169120
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Reno Nevada KTVN
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150694
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Rochester New York WROC TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150676
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Sacramento California KMAX TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286706
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS San Antonio Texas KENS TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/41009
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS San Diego California KFMB TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8437
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS San Francisco California KPIX TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/41019
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Savannah Georgia WTOC TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150667
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Schenectady New York WRGB TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150695
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Seattle Washington KIRO TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8430
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Sioux City Iowa KMEG TV
@@ -445,8 +322,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/41022
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/82319
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Syracuse New York WTVH TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150683
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Waco Texas KWTX TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/63454
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CBS Washington WUSA
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8436
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Cheddar News
@@ -459,8 +334,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/4734
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/265887
 #EXTINF:0 tvg-id="CMT.us" group-title="Channels",US: CMT
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2294
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CMT Music
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/284494
 #EXTINF:0 tvg-id="CNBC.us" group-title="Channels",US: CNBC
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2295
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CNBC 17 Victoria Texas KMOL TV
@@ -487,42 +360,18 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/267736
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8392
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Crime+ Investigation
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/14813
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Curiosity Channel
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/187047
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CW 50 Detroit Michigan WKBD TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286712
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CW Atlanta Georgia WUPA TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286709
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CW Baltimore Maryland WNUV TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296699
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CW Charlotte North Carolina WCCB TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295706
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CW Homewood Alabama WTTO TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286719
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CW Las Vegas Nevada KVCW TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286715
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CW Los Angeles California KTLA TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/171820
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CW Milwaukee Wisconsin WVTV TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286718
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CW Minneapolis Minnesota WUCW TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286714
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CW Nashville Tennessee WNAB TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286708
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CW New York New York WPIX TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/147436
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CW Oklahoma City KOCB TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286716
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CW Philadelphia Pennsylvania WPSG TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2298
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: CW Philly 57
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/166768
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CW Raleigh North Carolina WLFL TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286713
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CW Seattle Washington KSTW TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286717
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: CW St Petersburg Florida WTOG TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286711
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Daystar TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/9316
 #EXTINF:0 tvg-id="DestinationAmerica.us" group-title="Channels",US: Destination America
@@ -585,198 +434,94 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281940
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/197731
 #EXTINF:0 tvg-id="FoodNetwork.us" group-title="Channels",US: Food Network
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2315
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Forth Worh Texas KTXA TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150728
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox 33 Shreveport Louisiana KMSS TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150784
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Albany Georgia WFXL TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295367
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Albany New York WXXA TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150793
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Atlanta Georgia WAGA TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8433
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Augusta Georgia WFXG TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150755
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Austin Texas KTBC TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8517
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Bakersfield California KBFX CD
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/200832
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Baltimore Maryland WBFF
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/41027
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Baton Rouge Louisiana WGMB TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150772
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Belmont North Carolina WJZY TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150801
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Birmingham Alabama WBRC TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295374
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Bloomington Illinois WYZZ TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150767
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Boston Massachusetts WFXT TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/41026
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Buffalo New York WUTV TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/41030
 #EXTINF:0 tvg-id="FoxBusinessNetwork.us" group-title="Channels",US: Fox Business
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2316
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Caldwell Idaho KNIN TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150781
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Cape Coral Florida WFTX TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150762
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Cape Girardeau Missouri KBSI TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/200831
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Charleston South Carolina WTAT TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150809
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Chattanooga Tennessee WTVC
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296766
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Chicago Illinois WFLD TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8521
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Cleveland Ohio WJW TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150807
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox College Sports Atlantic
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/7767
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox College Sports Pacific
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/194126
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Colorado Springs Colorado KXRM TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150750
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Columbia South Carolina WACH TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295365
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Columbus Georgia WXTX
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/45557
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Columbus Ohio WTTE TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286723
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Corpus Christi Texas KSCC
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/200823
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Dallas Texas KDFW TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8523
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Danville Kentucky WDKY TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/200817
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Davenport Iowa KLJB TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150757
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Dayton Ohio WRGT TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295366
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Denver Colorado KDVR TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8525
 #EXTINF:0 tvg-id="FOXDeportes.us" group-title="Channels",US: Fox Deportes
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/14820
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Des Moines Iowa KDSM TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/200830
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Detroit Michigan WJBK TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8528
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox El Paso Texas KFOX TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/200829
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Eugene Oregon KLSR TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150798
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Flint Michigan WSMH TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295372
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Fort Wayne Indiana WFFT TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150770
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Grand Rapids Michigan WXMI TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150776
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Green Bay Wisconsin WLUK TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/200822
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Greenville North Carolina WYDO TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8495
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Greenville Tennessee WEMT TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/199801
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Harlingen Texas KFXV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150812
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Hartford Connecticut WTIC TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8529
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Honolulu Hawaii KHON TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150758
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Houston Texas KRIV TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/147559
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Huntsville Alabama WZDX TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150753
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Indianapolis Indiana WXIN TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/147560
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Jackson Mississippi WDBD TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150792
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Jacksonville Florida WFOX TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8531
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Johnstown Pennsylvania WWCP TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150805
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Kansas City Missouri WDAF TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/198415
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Knoxville Tennessee WTNZ TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/56974
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Lansing Michigan WSYM TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150778
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Las Vegas Nevada KVVU TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150788
 #EXTINF:0 tvg-id="FOXLife.us" group-title="Channels",US: Fox Life
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/76866
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Lincoln Nebraska KFXL TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/200828
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Little Rock Arkansas KLRT TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150744
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Longview Texas KFXK TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150814
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Los Angeles California KTTV TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8516
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Louisville Kentucky WDRB
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150774
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Macon Georgia WGXA TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/200821
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Madison Wisconsin WMSN TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/200835
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Medford Oregon KMVU TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295748
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Memphis Tennessee WHBQ TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8509
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Miami Florida WSVN TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/147562
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Milwaukee Wisconsin WITI TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/45566
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Minneapolis Minnesota KMSP TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8512
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Mobile Alabama WALA TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150751
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Montgomery Alabama WCOV TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295375
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Myrtle Beach South Carolina WFXB TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150808
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Nashville Tennessee WZTV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8533
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Network
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/29666
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox New Orleans Louisiana WVUE DT
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/198182
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox New York New York WNYW TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8504
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Newport Ohio WXIX TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150771
 #EXTINF:0 tvg-id="FOXNewsChannel.us" group-title="Channels",US: Fox News Channel
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1611
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: FOX News Now
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/294805
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Ocala Florida WOGX TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8505
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Oklahoma City Oklahoma KOKH TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295373
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Orlando Florida WOFL TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8506
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Ozark Alabama WDFX TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295764
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Philadelphia Pennsylvania WTXF TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/41036
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Phoenix Arizona KSAZ TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150745
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Pittsburgh Pennsylvania WPGH TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/41038
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Providence Rhode Island WNAC TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150806
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Reno Nevada KRXI TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/200824
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Rochester New York WUHF TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/200815
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Sacramento California KTXL TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/45565
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Salinas California KCBA TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150748
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Salt Lake City Utah KSTU TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/45564
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox San Antonio Texas KABB TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/45567
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox San Diego California KSWB TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/41041
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox San Francisco California KTVU TV
@@ -793,34 +538,20 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/157457
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2327
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox St Louis Missouri KTVI TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150827
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Syracuse New York WSYT TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150791
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Tampa Florida WTVT TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8494
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Toledo Ohio WUPW TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/198172
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Tucson Arizona KMSB TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150746
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Virginia Beach Virginia WVBT
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150824
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Visalia California KMPH TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/200827
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Waco Texas KWKT TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/63456
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Washington District of Columbia WTTG TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295760
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox West Palm Beach Florida WFLX TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150752
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Wichita Kansas KSAS TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295376
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Winston Salem North Carolina WGHP
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150786
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Yakima Washington KCYU LD
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150825
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Fox Youngstown Ohio WYFX LD
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295749
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: FoxNet
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/147591
 #EXTINF:0 tvg-id="FreeSpeechTV.us" group-title="Channels",US: Free Speech TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150730
 #EXTINF:0 tvg-id="Freeform.us" group-title="Channels",US: Freeform
@@ -873,8 +604,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/759
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/3387
 #EXTINF:0 tvg-id="HallmarkMovies-Mysteries.us" group-title="Channels",US: Hallmark Movies & Mysteries
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/3388
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Hardeeville South Carolina WTGS
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/200819
 #EXTINF:0 tvg-id="HBOEast.us" group-title="Channels",US: HBO
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2336
 #EXTINF:0 tvg-id="HBO2East.us" group-title="Channels",US: HBO 2
@@ -899,8 +628,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/761
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/6346
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: HSN
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/15455
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: HSN 2
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295424
 #EXTINF:0 tvg-id="IFC.us" group-title="Channels",US: IFC
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2339
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Impact TV Network
@@ -929,8 +656,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/12992
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150607
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Longhorn Network
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2340
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Los Angeles California KCAL TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295381
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: LSN
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296738
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Magnolia Network
@@ -969,14 +694,10 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/459
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/19911
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: MTV 90s
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/5352
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: MTV Base Africa
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/32840
 #EXTINF:0 tvg-id="MTVClassic.us" group-title="Channels",US: MTV Classic
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/290680
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: MTV Hits
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/4736
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: MTV Hits Latin America
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/4728
 #EXTINF:0 tvg-id="MTVLive.us" group-title="Channels",US: MTV Live
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/9047
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: MTV Live USA
@@ -999,8 +720,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/66097
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/66104
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Music Choice Kidz Only
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/66105
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Music Choice Latino
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/226061
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Music Choice Max
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/66084
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Music Choice Mexican
@@ -1017,10 +736,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/66090
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/66079
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Music Choice Rap
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/63184
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Music Choice Rock
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/282818
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Music Choice Teen Beats
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/66077
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Music Choice Throwback Jamz
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/66100
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Music Choice Todays Country
@@ -1033,30 +748,16 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/148267
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/66088
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: My Boston Massachusetts WSBK TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295418
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: My Buffalo New York WNYO TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295353
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: My Charleston South Carolina WCIV TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295333
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: My Detroit Michigan WMYD TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296639
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: My Fort Walton Beach Florida WFGX TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295348
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: My Greensboro North Carolina WMYV TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295351
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: My Houston Texas KTXH TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295347
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: My Kansas City Missouri KSMO TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295355
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: My Miami Florida WBFS TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295350
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: My Nashville Tennessee WUXP TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295349
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: My Paducah Kentucky WDKA TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295352
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: My Secaucus New Jersey WWOR TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286722
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: My Williamsport Pennsylvania WQMY TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295354
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Myrtle Beach South Carolina WMBF TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150975
 #EXTINF:0 tvg-id="NASATV.us" group-title="Channels",US: Nasa TV
@@ -1067,62 +768,28 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/749
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/6503
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBA TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/762
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC 2 News
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/163264
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC 4 Tucson KVOA TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150843
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC 5 Fort Worth Texas KXAS TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150989
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC 26 Green Bay Wisconsin WGBA TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/41052
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Albany Georgia WALB TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150863
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Albany New York WNYT TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150939
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Albuquerque New Mexico KOB TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150947
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Alexandria Louisiana KALB TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150904
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Amarillo Texas KAMR TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150982
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Anchorage Alaska KTUU TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150840
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Atlanta Georgia WXIA TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8496
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Augusta Georgia WAGT CD
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150868
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Austin Texas KXAN TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150986
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Baltimore Maryland WBAL TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8497
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Bangor Maine WLBZ
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295721
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Baton Rouge Louisiana WVLA TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150894
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Bend Oregon KTVZ
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150974
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Binghamton New York WBGH CA
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150937
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Birmingham Alabama WVTM TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150832
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Boise Idaho KTVB TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150877
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Bowling Green Kentucky WNKY
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150892
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Brownsville Texas KVEO TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150985
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Buffalo New York WGRZ TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8499
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Charleston South Carolina WCBD TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150970
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Charlotte North Carolina WCNC TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8500
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Charlottesville Virginia WVIR TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/200872
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Chattanooga Tennessee WRCB TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150997
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Cheyenne Wyoming KCHY LP
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295685
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Chicago Illinois WMAQ TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/41046
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Cincinnati Ohio WLWT TV
@@ -1131,128 +798,66 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8489
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/47089
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Columbia Missouri KOMU TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150917
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Columbus Georgia WLTZ
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150865
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Columbus Ohio WCMH TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150954
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Corpus Christi Texas KRIS TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/151005
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Davenport Iowa KWQC TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150878
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Dayton Ohio WDTN TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150955
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Daytona Beach Florida WESH TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/35432
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Decatur Illinois WAND
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150889
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Denver Colorado KUSA TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8486
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Detroit Michigan WDIV TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8476
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Eugene Oregon KMTR TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150966
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Fairbanks Alaska KTVF TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150838
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Fargo North Dakota KVLY TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150944
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Fort Myers Florida WBBH TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150873
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Fort Wayne Indiana WPTA DT 2
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150884
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Grand Rapids Michigan WOOD TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150916
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Great Falls Montana KTGF LD
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150926
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Greensboro North Carolina WXII TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150940
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Hartford Connecticut WVIT TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/82294
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Honolulu Hawaii KHNL TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150869
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Houston Texas KPRC TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/41067
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Indianapolis Indiana WTHR TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8479
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Jacksonville Florida WTLV TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8480
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Johnstown Pennsylvania WJAC TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150964
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Knoxville Tennessee WBIR TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295698
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Lake Charles Louisiana KPLC
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150895
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Laredo KGNS TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295693
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Laurel Mississippi WDAM TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150920
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Lexington Kentucky WLEX TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150893
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Little Rock Arkansas KARK TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150835
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Los Angeles California KNBC TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8482
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Louisville Kentucky WAVE TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150896
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Madison Wisconsin WMTV TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/200878
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Medford Oregon KOBI TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150961
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Memphis Tennessee WMC TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150978
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Meridian Mississippi WGBC DT 2
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/192924
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Mesa Arizona KPNX TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/82288
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Miami Florida WTVJ TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8483
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Milwaukee Wisconsin WTMJ TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8475
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Minneapolis Minnesota KARE TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8474
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Mobile Alabama WPMI TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150833
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Montgomery Alabama WSFA TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150836
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Nashville Tennessee WSMV TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8484
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC New Orleans Louisiana WDSU TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/41058
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC New York New York WNBC TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/82291
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC News
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/162677
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Peoria Illinois WEEK TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150876
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Philadelphia Pennsylvania WCAU TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/13185
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Pittsburgh Pennsylvania WPXI TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/82289
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Portland Maine WCSH TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/147566
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Portland Oregon KGW TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/151017
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Providence Rhode Island WJAR TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295701
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Rapid City South Dakota KNBN TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150976
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Rochester New York WHEC TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150951
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Rockford Illinois WREX TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150891
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Salt Lake City Utah KSL TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150914
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC San Angelo Texas KSAN TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/200867
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC San Jose California KNTV TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/45577
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC San Luis Obispo KSBY
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150870
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Savannah Georgia WSAV TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/166779
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Sioux Falls South Dakota KDLT TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150979
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC South Bend Indiana WNDU TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150888
 #EXTINF:0 tvg-id="NBCSportsBayArea.us" group-title="Channels",US: NBC Sports Bay Area
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/45785
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Sports Boston
@@ -1261,32 +866,22 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/35132
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/16116
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Sports Chicago
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8490
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Sports Northwest
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/3373
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Sports Philadelphia
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/35472
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Sports Washington
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/82282
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Springfield Massachusetts WWLP
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150900
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC St Louis Missouri KSDK TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/41053
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Steubenville Ohio WTOV TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150959
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Superior Nebraska KSNB TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150936
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Tampa Florida WFLA TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/227092
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Tulsa Oklahoma KJRH TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150969
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Washington District of Columbia WRC TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/13183
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC West Palm Beach Florida WPTV TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150861
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Wilkes Barre Pennsylvania WBRE TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150988
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Yakima Washington KNDO TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/200876
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Youngstown Ohio WFMJ TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150957
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: NBC Zanesville Ohio WHIZ TV
@@ -1331,8 +926,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2351
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296387
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Olympic Channel
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/6479
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: Omaha Nebraska Council Bluffs KPTM TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295368
 #EXTINF:0 tvg-id="OneAmericaNewsNetwork.us" group-title="Channels",US: One America News Network
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/196192
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Oprah Winfrey Network
@@ -1367,8 +960,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/14839
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/11720
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: PBS Kids
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/14837
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: People TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/57035
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: PixL
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/147583
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: Popstar TV
@@ -1489,8 +1080,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281935
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/163770
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: The Pet Collective
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/294673
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: The Preview Channel
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281946
 #EXTINF:0 tvg-id="TheWeatherChannel.us" group-title="Channels",US: The Weather Channel
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2361
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: ThrillerMax
@@ -1525,8 +1114,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2370
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/11452
 #EXTINF:0 tvg-id="ext" group-title="Channels",US: VSiN
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/150629
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: WCPO TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/166309
 #EXTINF:0 tvg-id="WEtv.us" group-title="Channels",US: We TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/6347
 #EXTINF:0 tvg-id="WeatherNation.us" group-title="Channels",US: WeatherNation
