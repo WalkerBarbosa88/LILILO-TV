@@ -4,14 +4,13 @@
 http://0.0.0.0:000000
 ##################################################################################################################################################
 
-#EXTINF:-1,[COLOR=yellow][B]LISTA ADICIONADA: 11/11/2022[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA ADICIONADA: 17/11/2022[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #################################################################################################################################################
  
 #EXTM3U
 
 
-#EXTM3U
 #EXTINF:0 tvg-id="13RUE.fr" group-title="Channels",FR: 13eme Rue
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/181
 #EXTINF:0 tvg-id="6ter.fr" group-title="Channels",FR: 6ter
@@ -20,14 +19,10 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/183
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/165
 #EXTINF:0 tvg-id="ext" group-title="Channels",FR: AB 3
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/878
-#EXTINF:0 tvg-id="ext" group-title="Channels",FR: AB Xplore
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/23418
 #EXTINF:0 tvg-id="Action.fr" group-title="Channels",FR: Action
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/182
 #EXTINF:0 tvg-id="ext" group-title="Channels",FR: Africa 24
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/276064
-#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Alsace 20
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/53681
 #EXTINF:0 tvg-id="AlticeStudio.fr" group-title="Channels",FR: Altice Studio
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/13364
 #EXTINF:0 tvg-id="Animaux.fr" group-title="Channels",FR: ANIMAUX
@@ -174,16 +169,12 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1198
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1927
 #EXTINF:0 tvg-id="DisneyJunior.fr" group-title="Channels",FR: Disney Junior
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1197
-#EXTINF:0 tvg-id="DisneyXD.fr" group-title="Channels",FR: Disney XD
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/208
 #EXTINF:0 tvg-id="ext" group-title="Channels",FR: Disney+
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/207
 #EXTINF:0 tvg-id="ext" group-title="Channels",FR: Donald Duck
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286748
 #EXTINF:0 tvg-id="ext" group-title="Channels",FR: Dora TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286463
-#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Drama+
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286464
 #EXTINF:0 tvg-id="Eentertainment.fr" group-title="Channels",FR: E!
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2978
 #EXTINF:0 tvg-id="ext" group-title="Channels",FR: EMCI TV
@@ -218,8 +209,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1193
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/154
 #EXTINF:0 tvg-id="France3.fr" group-title="Channels",FR: FRANCE 3
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/155
-#EXTINF:0 tvg-id="France4.fr" group-title="Channels",FR: FRANCE 4
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/156
 #EXTINF:0 tvg-id="France5.fr" group-title="Channels",FR: FRANCE 5
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/157
 #EXTINF:0 tvg-id="France24.fr" group-title="Channels",FR: FRANCE 24
@@ -250,8 +239,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1190
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286445
 #EXTINF:0 tvg-id="JOne.fr" group-title="Channels",FR: J One
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/202
-#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Junior
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286471
 #EXTINF:0 tvg-id="ext" group-title="Channels",FR: Juste pour Rire
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286446
 #EXTINF:0 tvg-id="ext" group-title="Channels",FR: Kids Series+
@@ -266,8 +253,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/168914
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/4342
 #EXTINF:0 tvg-id="ext" group-title="Channels",FR: LCP Assemblee Nationale
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/6258
-#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Le miel & les abeilles
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286473
 #EXTINF:0 tvg-id="ext" group-title="Channels",FR: Les Nouveaux Detectives
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286475
 #EXTINF:0 tvg-id="LorFMTV.fr" group-title="Channels",FR: LFM TV
@@ -292,8 +277,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/224
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286517
 #EXTINF:0 tvg-id="Mangas.fr" group-title="Channels",FR: Mangas
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/214
-#EXTINF:0 tvg-id="ext" group-title="Channels",FR: MATELE TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/75552
 #EXTINF:0 tvg-id="MCM.fr" group-title="Channels",FR: MCM
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/4355
 #EXTINF:0 tvg-id="ext" group-title="Channels",FR: MCM Pop
@@ -312,8 +295,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8099
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286746
 #EXTINF:0 tvg-id="ext" group-title="Channels",FR: Motorvision TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/268514
-#EXTINF:0 tvg-id="ext" group-title="Channels",FR: MS Comedy
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295264
 #EXTINF:0 tvg-id="MTV.fr" group-title="Channels",FR: MTV France
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/220
 #EXTINF:0 tvg-id="ext" group-title="Channels",FR: MTV Hits France
@@ -366,8 +347,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/177
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/869
 #EXTINF:0 tvg-id="ext" group-title="Channels",FR: Olympia TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281599
-#EXTINF:0 tvg-id="ext" group-title="Channels",FR: P2M TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286516
 #EXTINF:0 tvg-id="ParamountChannel.fr" group-title="Channels",FR: Paramount Channel
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1183
 #EXTINF:0 tvg-id="ParamountChannelDecale.fr" group-title="Channels",FR: Paramount Channel Decale
@@ -414,8 +393,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/192025
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/20888
 #EXTINF:0 tvg-id="ext" group-title="Channels",FR: RMC SPORT 12
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/20887
-#EXTINF:0 tvg-id="ext" group-title="Channels",FR: RMC SPORT 13
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/20890
 #EXTINF:0 tvg-id="ext" group-title="Channels",FR: RMC Story
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/162
 #EXTINF:0 tvg-id="ext" group-title="Channels",FR: Romance
@@ -452,8 +429,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1902
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286489
 #EXTINF:0 tvg-id="ext" group-title="Channels",FR: TeleGrenoble Isere
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/198639
-#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TeleMag
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/280240
 #EXTINF:0 tvg-id="TeleTOONplus1.fr" group-title="Channels",FR: Teletoon +1
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295274
 #EXTINF:0 tvg-id="TeleTOON.fr" group-title="Channels",FR: TeleToon+
@@ -540,4 +515,5 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/15360
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286528
 #EXTINF:0 tvg-id="ext" group-title="Channels",FR: World Poker Tour
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286493
+
 
