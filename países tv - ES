@@ -4,23 +4,17 @@
 http://0.0.0.0:000000
 ##################################################################################################################################################
 
-#EXTINF:-1,[COLOR=yellow][B]LISTA ADICIONADA: 11/11/2022[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA ADICIONADA: 17/11/2022[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #################################################################################################################################################
  
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="Hashtag0.es" group-title="Channels",ES: #0
+#EXTINF:0 tvg-id="Hashtag0.es" group-title="Channels",#0
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2146
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: #VAMOS
+#EXTINF:0 tvg-id="Vamos.es" group-title="Channels",#VAMOS
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2148
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: +24
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285721
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: 4 TV Vall Uxa
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285753
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: 7 La Rioja
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285723
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: 7 Murcia
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2212
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: 7 Noticias
@@ -29,20 +23,12 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/283875
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285722
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: 101 TV Malaga
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/146345
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: 324 Cat
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/165149
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: 3ABN Latino
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285921
-#EXTINF:0 tvg-id="8Madrid.sp" group-title="Channels",ES: 8TV Madrid
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/75902
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: A Punt
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/146343
 #EXTINF:0 tvg-id="AandE.es" group-title="Channels",ES: A&E
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/7731
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: A3 Cine
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/283299
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Activa TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285727
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: AFV Espanol
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/284259
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: Alacanti TV
@@ -91,8 +77,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/200665
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1168
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: Canal 10 Emporda
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285737
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Canal 2000 La Solana
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/294891
 #EXTINF:0 tvg-id="24Horas.sp" group-title="Channels",ES: Canal 24 Horas
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2216
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: Canal 25 Barbastro
@@ -119,8 +103,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1166
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/64943
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: Canal Sierra de Cadiz
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285744
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Canal Super 3
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285745
 #EXTINF:0 tvg-id="CanalSurAndalucia.es" group-title="Channels",ES: Canal Sur Andalucia
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2191
 #EXTINF:0 tvg-id="CazayPesca.es" group-title="Channels",ES: Caza y Pesca
@@ -135,12 +117,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1164
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285747
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: Congreso de los Diputados 2
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285748
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Congreso de los Diputados 3
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285749
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Congreso de los Diputados 4
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285750
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Congreso de los Diputados 5
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285751
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: Cosmopolitan TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2215
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: Costa Noroeste TV
@@ -151,8 +127,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295246
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/5292
 #EXTINF:0 tvg-id="Cuatro.es" group-title="Channels",ES: Cuatro
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1163
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Cultura 24 TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/197864
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: D Kiss
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/9356
 #EXTINF:0 tvg-id="Dark.es" group-title="Channels",ES: Dark
@@ -185,8 +159,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2795
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2762
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: DreamWorks TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281787
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: El 33
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/294892
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: EL Pinguino TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/53887
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: El Toro TV
@@ -207,12 +179,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281403
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281417
 #EXTINF:0 tvg-id="Esport3.es" group-title="Channels",ES: Esport 3
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/7445
-#EXTINF:0 tvg-id="ETB1.es" group-title="Channels",ES: ETB 1
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/165969
-#EXTINF:0 tvg-id="ETB2.es" group-title="Channels",ES: ETB 2
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/165970
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: ETB Basque
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/50135
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: euronews en Espanol
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/282292
 #EXTINF:0 tvg-id="Eurosport1.es" group-title="Channels",ES: EUROSPORT 1
@@ -237,8 +203,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2192
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285760
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: Girona TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/174484
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Goiena Eus
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285761
 #EXTINF:0 tvg-id="GOL.es" group-title="Channels",ES: Gol
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1156
 #EXTINF:0 tvg-id="Historia.es" group-title="Channels",ES: History
@@ -257,14 +221,10 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/269931
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/81640
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: Investigation Discovery
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/27790
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: KTO
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285847
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: LA 7
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285768
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: La 8
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285770
-#EXTINF:0 tvg-id="LaOtra.es" group-title="Channels",ES: La Otra
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/145616
 #EXTINF:0 tvg-id="LaSexta.sp" group-title="Channels",ES: La Sexta
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1152
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: La URBAN TV
@@ -305,8 +265,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1146
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/227121
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: MOVISTAR Deportes 5
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285690
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: MOVISTAR Deportes 6
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/198066
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: MOVISTAR Drama
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1144
 #EXTINF:0 tvg-id="M.Estrenos.es" group-title="Channels",ES: MOVISTAR Estrenos
@@ -325,14 +283,8 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1141
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/5311
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: MOVISTAR LaLiga 3
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281772
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: MOVISTAR LaLiga 4
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/269466
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: MOVISTAR LaLiga 5
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281792
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: MOVISTAR LaLiga 7
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/194527
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: MOVISTAR LaLiga 8
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/269463
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: MOVISTAR LIGA DE CAMPEONES
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2800
 #EXTINF:0 tvg-id="M.Series.es" group-title="Channels",ES: MOVISTAR Series
@@ -349,8 +301,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/8110
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1138
 #EXTINF:0 tvg-id="NatGeoWild.es" group-title="Channels",ES: NAT GEO Wild
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1137
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Navarra TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/146410
 #EXTINF:0 tvg-id="Neox.es" group-title="Channels",ES: NEOX
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2208
 #EXTINF:0 tvg-id="NickJunior.es" group-title="Channels",ES: Nick Junior
@@ -363,8 +313,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2189
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285846
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: Oizmendi Telebista
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285790
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Olympic Channel
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/11138
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: Onda Algeciras TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/269932
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: Onda Cadiz
@@ -399,14 +347,8 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1136
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/166663
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: RTV Vida
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285797
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: RTVC
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/11809
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: RTVE Noticias
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296504
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: Sevilla FC TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/169002
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Sky Sport MotoGP
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281492
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: Sofy TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285809
 #EXTINF:0 tvg-id="SolMusica.sp" group-title="Channels",ES: Sol Musica
@@ -431,8 +373,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/50133
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1133
 #EXTINF:0 tvg-id="Teledeporte.es" group-title="Channels",ES: Teledeporte
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2774
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: Teleonuba
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/145619
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: TeleRibera
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/285823
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: TeleVigo
@@ -447,8 +387,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2187
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1132
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: Trece TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/60943
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: TV 4 La Vall
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/270092
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: TV Castilla La Mancha
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/169000
 #EXTINF:0 tvg-id="ext" group-title="Channels",ES: TV Vega Baja
