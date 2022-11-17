@@ -7,7 +7,7 @@ FONTE DE INFORMAÇÃO:
               https://global-satinfo.in/viewtopic.php?f=22&t=315&start=410
 
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 11/11/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 17/11/2022[/B][/COLOR][COLOR=orange][/COLOR]
 #EXTM3U
 
 #######################################################################################################################
@@ -15,7 +15,6 @@ FONTE DE INFORMAÇÃO:
 https://000000
 
 #EXTM3U
-
 
 
 #EXTINF:0 tvg-id="ext" group-title="Sport",BEST CABLE SPORTS PERU HD
@@ -30,8 +29,6 @@ https://d3cq7cdp2cfi92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://edge.taghtia.com/sa/9.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",KSA SPORTS 2 FHD
 https://edge.taghtia.com/sa/10.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",MNB SPORT
-https://live.mnb.mn/live/mnb_sport.stream/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="TS4HD.al" group-title="Sport",TRING SPORT 4
 http://cineapp.org:8000/Fernando/Fernando/9678?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",ESPORTS MAX
@@ -52,8 +49,6 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u
 https://mavtv-mavtvglobal-1-nz.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",MAV TV MOTORSPORTS NETWORK
 https://mavtv-mavtvglobal-1-nl.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",MIDPEN MEDIA CENTER & SPORTS CHANNEL
-https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",SPORTOUTDOOR TV
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",TRACE SPORTS STARS
@@ -64,8 +59,6 @@ http://78.83.191.18:8000/play/a075?checkedby:iptvcat.com
 http://78.83.191.18:8000/play/a07f?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="NOVAsport.bg" group-title="Sport",NOVA SPORT
 http://78.83.191.18:8000/play/a04a?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",CANBANGLA TV FHD
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-id="TraceSport.svn" group-title="Channels",TRACE SPORTS HD
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
@@ -206,8 +199,6 @@ http://109.205.166.68/server124/idman_az/index.m3u8
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",KBP SPORTS
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",MNB SPORT
-https://live.mnb.mn/live/mnb_sport.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",MONTERICO TV
 https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",NITRO CIRCUS
