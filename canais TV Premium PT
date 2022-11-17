@@ -42,13 +42,36 @@ http://45.92.69.72:8000/play/a0gb
 
 
 ####################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS DESPORTO (EM TESTE)  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] /////////  OUTROS CANAIS DE DESPORTO  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://00000000000
 
 #EXTM3U
 
 #EXTINF:0 tvg-id="ABolaTV.pt" group-title="Channels",[COLOR=white][B]ABOLA TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2629
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CANAL 11 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2656
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",[COLOR=white][B]SPORTING TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2657
+#EXTINF:0 tvg-id="Eurosport1.pt" group-title="Channels",[COLOR=white][B]EUROSPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2659
+#EXTINF:0 tvg-id="Eurosport2.pt" group-title="Channels",[COLOR=white][B]EUROSPORT 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2662
+
+
+####################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS SPORT TV PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://00000000000
+
+#EXTM3U
+
+
+#EXTINF:-1,[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8001/play/a03y
+#EXTINF:-1,[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
+http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
+http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2530/index.m3u8
 #EXTINF:-1,[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
 http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2630
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",[COLOR=white][B]SPORT TV 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
@@ -77,51 +100,6 @@ http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2642
 http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2643
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2644
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2645
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2646
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2647
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2648
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2649
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2650
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2651
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2652
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2653
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2654
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2655
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CANAL 11 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2656
-#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",[COLOR=white][B]SPORTING TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2657
-#EXTINF:0 tvg-id="Eurosport1.pt" group-title="Channels",[COLOR=white][B]EUROSPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2659
-#EXTINF:0 tvg-id="Eurosport2.pt" group-title="Channels",[COLOR=white][B]EUROSPORT 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2662
-
-
-####################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS SPORT TV PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://00000000000
-
-#EXTM3U
-
-
-#EXTINF:-1,[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8001/play/a03y
-#EXTINF:-1,[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
-http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
-http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2530/index.m3u8
  
 #EXTM3U
 
@@ -200,6 +178,12 @@ https://000000
 
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://b7e64053.cbilant.com/iptv/LC8RBR34PMDLY8/19160/index.m3u8
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2645
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2646
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2647
 
 
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
@@ -216,21 +200,36 @@ https://000000
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2531/index.m3u8
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2531/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2648
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2649
+
 #EXTINF:0 tvg-id="elevensports2.pt" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2532/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2532/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2650
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2651
+
 #EXTINF:0 tvg-id="ElevenSports3.pt" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2533/index.m3u8
 #EXTINF:0 tvg-id="ElevenSports3.pt" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/7062/index.m3u8
-
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2652
 
 #EXTINF:0 tvg-id="ElevenSports4.pt" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/7063/index.m3u8
 #EXTINF:0 tvg-id="ElevenSports4.pt" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2534/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2653
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2654
 #EXTINF:0 tvg-id="ElevenSports5.pt" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2535/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -240,6 +239,8 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2536/index.m3u8
 #EXTINF:0 tvg-id="ElevenSports6.pt" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/7064/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2655
 
 
 #EXTM3U
