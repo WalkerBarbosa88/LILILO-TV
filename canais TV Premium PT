@@ -47,12 +47,80 @@ https://00000000000
 
 #EXTM3U
 
-
-#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
-http://0000000000..0000000000.111
-
-
-
+#EXTINF:0 tvg-id="ABolaTV.pt" group-title="Channels",PT: A BOLA TV
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2629
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",PT: SPORT TV+
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2630
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",PT: SPORT TV HD
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2631
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2632
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1 HD
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2633
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1 FULL HD
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2634
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2635
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2 HD
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2636
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2 FULL HD
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2637
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2638
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3 HD
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2639
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2640
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4 HD
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2641
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT: SPORT TV 5
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2642
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT: SPORT TV 5 HD
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2643
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV NBA
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2644
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",PT: BENFICA TV
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2645
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",PT: BENFICA TV HD
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2646
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",PT: BENFICA TV FHD
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2647
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 1 HD
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2648
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 1 FHD
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2649
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 2 HD
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2650
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 2 FHD
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2651
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 3 HD
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2652
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 4 HD (LIVE EVENT)
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2653
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 5 HD (LIVE EVENT)
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2654
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 6 HD (LIVE EVENT)
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2655
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CANAL 11 HD
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2656
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",PT: SPORTING TV
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2657
+#EXTINF:0 tvg-id="pfc.pt" group-title="Channels",PT: PFC
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2658
+#EXTINF:0 tvg-id="Eurosport1.pt" group-title="Channels",PT: EUROSPORT 1 HD
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2659
+#EXTINF:0 tvg-id="CMTV.pt" group-title="Channels",PT: CMTV
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2660
+#EXTINF:0 tvg-id="CMTV.pt" group-title="Channels",PT: CMTV HD
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2661
+#EXTINF:0 tvg-id="Eurosport2.pt" group-title="Channels",PT: EUROSPORT 2
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2662
+#EXTINF:0 tvg-id="Motorvision.pt" group-title="Channels",PT: MOTORVISION
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2663
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="Channels",PT: FUEL TV
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2664
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: KOMBATSPORT
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2665
 
 
 ####################################################################################################################################
@@ -126,6 +194,13 @@ http://platin4k.eu:80/logantv/ACXhn9BC5m/161950
 
 #EXTINF:-1,[COLOR=white][B]ARENA SPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://89.216.39.24/cloud/stream/39021cad0b164971a70967d2744a5c46/30/index.m3u8
+
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 PL HD[/B][/COLOR][COLOR=white][/COLOR]
+http://37.152.128.74:8085/play/a004
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 PL HD[/B][/COLOR][COLOR=white][/COLOR]
+http://37.152.128.74:8085/play/a005
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3 PL HD[/B][/COLOR][COLOR=white][/COLOR]
+http://37.152.128.74:8085/play/a00c
 
 ##################################  BENFICA TV   ###########################################################################
 
