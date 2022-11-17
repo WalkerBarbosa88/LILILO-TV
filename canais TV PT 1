@@ -204,6 +204,9 @@ http://45.92.69.72:8001/play/a041
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX COMEDY FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a032
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX COMEDY FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1465
+
 #EXTINF:0 tvg-id="AMC.pt" group-title="Channels",[COLOR=white][B]AMC HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0jf
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]AMC HD[/B][/COLOR][COLOR=white][/COLOR]
