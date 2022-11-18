@@ -40,6 +40,19 @@ http://45.92.69.72:8000/play/a0g9
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVI[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gb
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVE 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/32712
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVE 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/32711
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVE 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+https://ztnr.rtve.es/ztnr/la1_main_720.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVE 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/32713
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RAI 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://pnxip.ddns.net:80/WEB-IPERGEL/9t7JaSvuKQ/289
+
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B] /////////  OUTROS CANAIS DE DESPORTO  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
