@@ -35,21 +35,26 @@ PORTUGAL ESTÁ NO GRUPO H - CANAIS BAND E BAND SPORTS TEM O EXCLUSIVO DO MUNDIAL
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CAZÉTV - LIVE MUNDIAL YOUTUBE[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP 1 PT HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a045
-#EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP INTERNACIONAL[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP 1 PT HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8000/play/a0g7
+#EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP PT INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
 http://162.212.178.69:41042/bysid/608
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP PT INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC PT HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0g9
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVI[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC PT HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8000/play/a0g9
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVI PT HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.92.69.72:8000/play/a0gb
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVI PT HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gb
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVE 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/32712
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVE 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/32713
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RAI 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://pnxip.ddns.net:80/WEB-IPERGEL/9t7JaSvuKQ/289
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",[COLOR=white][B]SPORT TV 1 PT HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1483
 
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159607?checkedby:iptvcat.com
@@ -57,56 +62,28 @@ http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159607?checkedby:iptvcat.com
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159605?checkedby:iptvcat.com
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 3 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159606?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]ES LA 1[/B][/COLOR][COLOR=white][/COLOR]
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036572
-#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]PT RTP 1[/B][/COLOR][COLOR=white][/COLOR]
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036570
-#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]IT RAI 1[/B][/COLOR][COLOR=white][/COLOR]
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036568
-#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]TR TRT 1[/B][/COLOR][COLOR=white][/COLOR]
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036566
-#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]UK BBC 1[/B][/COLOR][COLOR=white][/COLOR]
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036597
-#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]UK BBC 1[/B][/COLOR][COLOR=white][/COLOR]
-http://ky-iptv.com:80/live/scubasteve/scubasteve/189890.m3u8
-#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]UK ITV 1[/B][/COLOR][COLOR=white][/COLOR]
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036596
-#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]UK ITV 1[/B][/COLOR][COLOR=white][/COLOR]
-http://ky-iptv.com:80/live/scubasteve/scubasteve/1151892.m3u8
-#EXTINF:-1  group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]US FOX[/B][/COLOR][COLOR=white][/COLOR]
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036594
-#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]CA CTV[/B][/COLOR][COLOR=white][/COLOR]
-https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
-#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]CA CTV[/B][/COLOR][COLOR=white][/COLOR]
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036592
-#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]FR TF1[/B][/COLOR][COLOR=white][/COLOR]
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036590
-#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]FR TF1[/B][/COLOR][COLOR=white][/COLOR]
-http://gratuittv.free.fr/Files/tfsf/live/playlist.m3u8
-#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]FR BEIN SPORTS 1[/B][/COLOR][COLOR=white][/COLOR]
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036589
-#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]NL NPO1[/B][/COLOR][COLOR=white][/COLOR]
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036587
-#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]BE LA UNE[/B][/COLOR][COLOR=white][/COLOR]
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036585
-#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]BE EEN HEVC[/B][/COLOR][COLOR=white][/COLOR]
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036584
-#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]DE ZDF[/B][/COLOR][COLOR=white][/COLOR]
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036582
-#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]DE ARD[/B][/COLOR][COLOR=white][/COLOR]
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036581
-#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]PL TVP 1[/B][/COLOR][COLOR=white][/COLOR]
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036579
-#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]AUS ORF 1[/B][/COLOR][COLOR=white][/COLOR]
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036577
-#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]AUS SERVUS[/B][/COLOR][COLOR=white][/COLOR]
-http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036576
-
- 
-
-
-
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVE 1 ES HD[/B][/COLOR][COLOR=white][/COLOR]
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/32712
+#EXTINF:0 tvg-id="LA1.es" group-title="Channels",[COLOR=white][B]TVE 1 ES HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1151
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVE 2 ES HD[/B][/COLOR][COLOR=white][/COLOR]
+http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/32713
+#EXTINF:0 tvg-id="LA2.es" group-title="Channels",[COLOR=white][B]TVE 2 ES HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1150
+#EXTINF:0 tvg-id="Rai1.it" group-title="Channels",[COLOR=white][B]RAI 1 IT HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/898
+#EXTINF:0 tvg-id="Rai2.it" group-title="Channels",[COLOR=white][B]RAI 2 IT HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/899
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RAI SPORT+ IT HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295036
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TR TRT 1 FR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/153
+#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="Channels",[COLOR=white][B]BBC 1 UK HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/697
+#EXTINF:0 tvg-id="BBC2.uk" group-title="Channels",[COLOR=white][B]BBC 1 UK HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/283047
+#EXTINF:0 tvg-id="ITV1London.uk" group-title="Channels",[COLOR=white][B]ITV 1 UK HD[/B][/COLOR][COLOR=white][/COLOR]
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/689
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B] /////////  OUTROS CANAIS DE DESPORTO  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
