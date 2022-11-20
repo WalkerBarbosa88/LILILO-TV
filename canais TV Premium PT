@@ -19,7 +19,7 @@ http://0.0.0.0:0000
      Listas Várias - https://global-satinfo.in/viewforum.php?f=22&sid=14261766f220116fe35abb7ddf0e87e2
      
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 17/11/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 20/11/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 
 ####################################################################################################################################
@@ -53,15 +53,33 @@ http://45.92.69.72:8000/play/a0gb
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVI PT HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8000/play/a0gb
 
+#EXTINF:-1,[COLOR=white][B]SPORT TV+ PT HD[/B][/COLOR][COLOR=white][/COLOR]
+http://185.236.229.13:4000/play/a02r
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",[COLOR=white][B]SPORT TV 1 PT HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1483
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",[COLOR=white][B]SPORT TV 1 PT HD[/B][/COLOR][COLOR=white][/COLOR]
+http://185.236.229.13:4000/play/a040
 
+#EXTINF:0 tvg-id="GloboBrasilia.br" group-title="QATAR 2022",[COLOR=white][B]GLOBO BRASÍLIA BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.175.61.242:4000/play/a0fb/index.m3u8
+#EXTINF:0 tvg-id="Globonordeste.br" group-title="QATAR 2022",[COLOR=white][B]GLOBO NORDESTE BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.175.61.242:4000/play/a0f7/index.m3u8
+#EXTINF:0 tvg-id="Globorj.br" group-title="QATAR 2022",[COLOR=white][B]GLOBO RJ BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.175.61.242:4000/play/a0f4/index.m3u8
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159607?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Sportv.br" group-title="QATAR 2022",[COLOR=white][B]SPORT 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.175.61.242:4000/play/a06y/index.m3u8
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159605?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="QATAR 2022",[COLOR=white][B]SPORT 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.175.61.242:4000/play/a04i/index.m3u8 
+#EXTINF:0 tvg-id="ext" group-title="QATAR 2022",[COLOR=white][B]SPORT 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.175.61.242:4000/play/a07h/index.m3u8
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 3 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159606?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="QATAR 2022",SporTV 3 [COLOR=white][B]SPORT 3 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.175.61.242:4000/play/a0dy/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVE 1 ES HD[/B][/COLOR][COLOR=white][/COLOR]
 http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/32712
 #EXTINF:0 tvg-id="LA1.es" group-title="Channels",[COLOR=white][B]TVE 1 ES HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -146,8 +164,6 @@ http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2637
 #EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1486
 
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2638
 #EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2639
 #EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -302,8 +318,6 @@ http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2534/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2653
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://sniperstv.vip:8080/Sehab31315_4-SA213_54/w6mdVafVgu6A/2654
 #EXTINF:0 tvg-id="ElevenSports5.pt" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2535/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
