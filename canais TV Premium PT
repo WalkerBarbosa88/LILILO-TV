@@ -31,10 +31,6 @@ https://00000000000
 PORTUGAL ESTÁ NO GRUPO H - CANAIS BAND E BAND SPORTS TEM O EXCLUSIVO DO MUNDIAL PARA O BRASIL
 
 
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CAZÉTV - LIVE MUNDIAL YOUTUBE[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP 1 PT FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.72:8001/play/a045
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP 1 PT FHD[/B][/COLOR][COLOR=white][/COLOR]
