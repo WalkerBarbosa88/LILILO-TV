@@ -30,7 +30,8 @@ https://00000000000
 
 PORTUGAL ESTÁ NO GRUPO H - CANAIS BAND E BAND SPORTS TEM O EXCLUSIVO DO MUNDIAL PARA O BRASIL
 
-
+#EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://162.212.178.69:41042/bysid/608
 
 #EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP PT INTER. SD[/B][/COLOR][COLOR=white][/COLOR]
 http://162.212.178.69:41042/bysid/608
