@@ -76,6 +76,8 @@ http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/324.m
 http://194.44.48.82:8002/play/a02l
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://161.230.47.149:4344/play/a01k
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://cdn.spmr.tv:8080/d6pvl0/video.m3u8?token=JO7OE4V7ZX
 
 #EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1486
@@ -85,6 +87,8 @@ http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/326.m
 http://194.44.48.82:8002/play/a02m
 #EXTINF:0 tvg-id="sporttv2.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://161.230.47.149:4344/play/a00r
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://cdn.spmr.tv:8080/5k21z3/video.m3u8?token=JO7OE4V7ZX
 
 #EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1489
