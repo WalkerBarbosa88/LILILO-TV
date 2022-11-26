@@ -3,7 +3,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 11/11/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 26/11/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
 #########################################################################################################################################################################
  
@@ -26,30 +26,8 @@ https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
 https://000000
 
 
-#EXTINF:0 tvg-id="BabyTV.pt" group-title="Channels",[COLOR=white][B]BABY TV[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8000/play/a0jk
-#EXTINF:0 tvg-id="canalpanda.pt" group-title="Channels",[COLOR=white][B]CANAL PANDA[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8000/play/a0ix
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CANAL PANDA[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8001/play/a02t
-#EXTINF:0 tvg-id="cartoon.pt" group-title="Channels",[COLOR=white][B]CARTOON NETWORK[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8000/play/a0h3
-#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Channels",[COLOR=white][B]PANDA BIGGS[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8000/play/a0gv
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PANDA BIGGS[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8001/play/a02u
-#EXTINF:0 tvg-id="disneychannel.pt" group-title="Channels",[COLOR=white][B]DISNEY CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8000/play/a0gu
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DISNEY CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8001/play/a02q
-#EXTINF:0 tvg-id="DisneyJunior.pt" group-title="Channels",[COLOR=white][B]DISNEY JUNIOR[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8000/play/a0iv
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DISNEY JUNIOR[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8001/play/a02r
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]LOLLY KIDS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8000/play/a001
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CARTOON NETWORK[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8001/play/a02s
+#EXTINF:0 tvg-id="BabyTV.pt" group-title="Channels",[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
+http://00.11.22.33.0000000000000
 
 
 #######################################################################################################################
