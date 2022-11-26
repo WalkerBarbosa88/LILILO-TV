@@ -4,7 +4,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 17/11/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 26/11/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -48,9 +48,6 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1,[COLOR=white][B]TRACE URBAN HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]TRACE TOCA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8001/play/a03a
-
 #EXTINF:-1,[COLOR=white][B]TRACE BRAZUCA HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/playlist.m3u8
 
@@ -83,17 +80,6 @@ http://rtmp.one.by:1300
 
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]RADIO M2O HD[/B][/COLOR][COLOR=white][/COLOR]
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b2816000.m3u8
-
-#EXTINF:-1,[COLOR=white][B]MTV FR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://190.2.155.162:8080/mtvhit/index.m3u8
-
-#EXTINF:-1,[COLOR=white][B]MTV LIVE HD[/B][/COLOR][COLOR=white][/COLOR]
-http://193.233.9.49/streams/media/MTV_Live_HD/index.m3u8
-
-#EXTINF:-1,[COLOR=white][B]MTV LIVE HD[/B][/COLOR][COLOR=white][/COLOR]
-http://193.233.9.49/streams/media/MTV_Live_HD/index.m3u8
-#EXTINF:-1,[COLOR=white][B]MTV OO´S HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.92.69.72:8000/play/a0hf
 
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]FIRST MUSIC CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
 http://hz1.teleport.cc/HLS/SD.m3u8
@@ -149,9 +135,6 @@ http://muzzone-stream.daitsuna.net/muzzondvr/muzzone_dvr/chunks_dvr.m3u8
 #EXTINF:-1,[COLOR=white][B]CADENA ELITE ES TV[/B][/COLOR][COLOR=white][/COLOR]
 http://cloudvideo.servers10.com:8080/8004/index.m3u8
 
-#EXTINF:-1,[COLOR=white][B]URBAN TV[/B][/COLOR][COLOR=white][/COLOR]
-https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1,[COLOR=white][B]M6 MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
 http://190.2.155.162:8080/m6music/mpegts
 
@@ -180,8 +163,6 @@ https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
 https://mbit1.worldcast.tv/dancetelevisioneight/stream_0.m3u8
 #EXTINF:-1,[COLOR=white][B]DANCE TV - MELODIC TECH[/B][/COLOR][COLOR=white][/COLOR]
 https://mbit1.worldcast.tv/dancetelevisionnine/stream_0.m3u8
-#EXTINF:-1,[COLOR=white][B]DANCE IMPACT TV[/B][/COLOR][COLOR=white][/COLOR]
-http://tvradioimpact.go.ro:8080/tmp_hls/tvimpact/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]DANCE STAR TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
 #EXTINF:-1,[COLOR=white][B]QUEST DANCE[/B][/COLOR][COLOR=white][/COLOR]
@@ -233,8 +214,6 @@ https://sluhay.by/live/Ch114pub/index.m3u8
 https://cdn17.fntvchannel.com/index_1080.m3u8
 #EXTINF:-1,[COLOR=white][B]RCK TV[/B][/COLOR][COLOR=white][/COLOR]
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,[COLOR=white][B]ROCK HD[/B][/COLOR][COLOR=white][/COLOR]
-http://stream1.chd-servers.ml/chdtvrock/index.m3u8
 #EXTINF:-1,[COLOR=white][B]ROCK TV BR HD[/B][/COLOR][COLOR=white][/COLOR]
 https://59f1cbe63db89.streamlock.net:1443/tvbeltrao3/_definst_/tvbeltrao3/chunklist_w782273434.m3u8
 #EXTINF:-1,[COLOR=white][B]CATEDRAL DO ROCK HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -321,9 +300,6 @@ https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]GOTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/chunklist_w256350942.m3u8
 
-#EXTINF:-1,[COLOR=white][B]BIZ MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
-http://st.biztv.uz/hls/m_hi/index.m3u8
-
 #EXTINF:-1,[COLOR=white][B]BRASA MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
 http://live.salto.nl/hls/sotv1_high.m3u8
 
@@ -344,9 +320,6 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chun
 
 #EXTINF:-1 tvg-name="Retro Plus 2 HD" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/i0rZsgG.png",[COLOR=white][B]RETRO TV 3 SD[/B][/COLOR][COLOR=white][/COLOR]
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
- 
-#EXTINF:-1,[COLOR=white][B]PORTALFOXMIX[/B][/COLOR][COLOR=white][/COLOR]
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
  
 #EXTINF:-1,[COLOR=white][B]REWING TV[/B][/COLOR][COLOR=white][/COLOR]
 https://tls-cl.cdnz.cl/rewindtv/live/chunklist.m3u8
@@ -392,9 +365,6 @@ https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]TELERITMO[/B][/COLOR][COLOR=white][/COLOR]
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?iptvgratis?chile.m3u8
  
-#EXTINF:-1,[COLOR=white][B]PORTALFOX MIX[/B][/COLOR][COLOR=white][/COLOR]
-http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]VEVO LATINO HD[/B][/COLOR][COLOR=white][/COLOR]
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 
@@ -488,10 +458,6 @@ https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]SPIRIT TV USA EN[/B][/COLOR][COLOR=white][/COLOR]
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
-
-
-#EXTINF:-1,[COLOR=white][B]MEZZO LIVE TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://190.2.155.162:8080/mezzolive/index.m3u8
 #EXTINF:-1,[COLOR=white][B]30A TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://30a-tv.com/music.m3u8
 #EXTINF:-1,[COLOR=white][B]BEATS RADIO TV[/B][/COLOR][COLOR=white][/COLOR]
@@ -522,8 +488,7 @@ https://srv.panelcast.net/urbantv/urbantv/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
 #EXTINF:-1,[COLOR=white][B]M6 MUSIC[/B][/COLOR][COLOR=white][/COLOR]
 http://190.2.155.162:8080/m6music/mpegts
-#EXTINF:-1,[COLOR=white][B]VISION TV[/B][/COLOR][COLOR=white][/COLOR]
-https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
+
 
 #EXTM3U
 
@@ -633,7 +598,7 @@ https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c
 
 
 ######################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 17/11/2022 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 26/11/2022 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
@@ -700,7 +665,7 @@ http://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
 https://xite-samsung-de.amagi.tv/playlist.m3u8
 
 ######################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 17/11/2022 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 26/11/2022 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
@@ -708,8 +673,6 @@ https://000000
 https://canale.live/mtv.m3u8/?id=moozdance
 #EXTINF:0 tvg-id="MoozDance.ro" group-title="Channels",MOOZ RO
 https://canale.live/mtv.m3u8/?id=moozro
-#EXTINF:0 tvg-id="ext" group-title="Channels",RETRO HITS 80 HD
-https://eurodance90.catcast.tv/content/38204/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",RITSA TV
 https://live.prd.dlive.tv/hls/live/fila007.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",TRANCE IS STARS
@@ -724,9 +687,6 @@ https://hls.goodgame.ru/hls/180509.m3u8
 http://193.233.9.49/streams/media/1_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",V2BEAT
 http://de1se01.v2beat.live/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Музыкальные",O!2 HD
-http://77.72.22.42:8080/9254/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",Страна FM HD
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",Новое Радио
@@ -751,8 +711,6 @@ https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_
 https://xite-samsung-de.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="TraceUrban.ru" group-title="Музыкальные",TRACE URBAN
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музыкальные",MUSIC PLUS
-http://79.172.214.45:10190/stream.m3u8
 #EXTINF:0 tvg-id="TVM3.ch" group-title="Музыкальные",TVM3
 https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
 #EXTINF:0 tvg-id="muzika1" group-title="Музыкальные",Первый музыкальный
@@ -781,8 +739,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 http://190.2.155.162:8080/mtvhit/mpegts
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",ECKO EXPRES  music
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8?
-#EXTINF:0 tvg-id="4fun.pl" group-title="Музыкальные",4 Fun TV
-https://stream.4fun.tv:8888/hls/4f.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",Sexy Kpop TV
 http://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",Radio U
@@ -791,10 +747,6 @@ https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",Stereo Citta TV
 https://585b674743bbb.streamlock.net/9080/9080/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музыкальные",CHD TV Rock
-http://stream1.chd-servers.ml/chdtvrock/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музыкальные",CHD TV RU Rock
-http://stream1.chd-servers.ml/chdtvrurock/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",NRG 91 Music HD
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:0 tvg-id="DeLuxeMusic.de" group-title="Музыкальные",Deluxe Music
