@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 #####################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 17/11/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 26/11/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
 ###########################################################################################################################################
  
@@ -72,15 +72,10 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5de94dacb394a300099fa22a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=713&terminate=false&userId=
 #EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]YAS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]SPORTS TONIGHT HD[/B][/COLOR][COLOR=white][/COLOR]
-http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
 #EXTINF:-1,[COLOR=white][B]SPORTS TV PLUS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
-
 #EXTINF:-1,[COLOR=white][B]BEST CABLE SPORTS TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
-
 #EXTINF:-1,[COLOR=white][B]CHAMPIONS TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://tv.zonanime.my.id/vidio/championstv2.m3u8
 
@@ -153,10 +148,6 @@ https://d1wxiaxdr51kqy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1,[COLOR=white][B]HOME MADE NATION HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d13c935311364708bf51b0eb4bbdb04f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_LivelyPlace/playlist.m3u8?ads.wurl_channel=285&ads.wurl_name=LivelyPlace&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=TDqNGsHpErYvv1J9s9FA&ads.plex_id=5f74cf82ffbe690040689f47&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
-#EXTINF:-1,[COLOR=white][B]DISCOVERY H&H BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.85:1234
-#EXTINF:-1,[COLOR=white][B]DISCOVERY H&H BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://tugapt.top:8080/LierT2022/psM7nbqpUq/272472
 #EXTINF:-1,[COLOR=white][B]HGTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://87.212.248.44:60130/play/a04s
 #EXTINF:-1,[COLOR=white][B]HGTV BR FHD[/B][/COLOR][COLOR=white][/COLOR]
@@ -469,8 +460,6 @@ https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
 https://dovenow-localnow.cinedigm.com/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]LONE STAR TV[/B][/COLOR][COLOR=white][/COLOR]
 https://lonestar-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]CINEMA+[/B][/COLOR][COLOR=white][/COLOR]
-https://hvtrafico.ddns.net/cinema720/cinema720.stream_720p/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]TOP CINE[/B][/COLOR][COLOR=white][/COLOR]
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1,[COLOR=white][B]GRAVITAS MOVIES[/B][/COLOR][COLOR=white][/COLOR]
@@ -500,8 +489,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0
 https://000000
 
 
-#EXTINF:-1,[COLOR=white][B]CNN BRASIL[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.160:1234
 #EXTINF:-1,[COLOR=white][B]JOVEM PAN NEWS BR.[/B][/COLOR][COLOR=white][/COLOR]
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:-1,[COLOR=white][B]BBC NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
