@@ -9,6 +9,5 @@ http://0.0.0.0:000000
  
 #EXTM3U
 
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",NÃO DISPONÍVEL
-http://00000000000000000000000000000000000
+#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
+http://0000000000000000
