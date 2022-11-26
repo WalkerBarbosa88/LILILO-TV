@@ -3,7 +3,7 @@
 http://0.0.0.0:0000
 ############################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 17/11/2022[/B][/COLOR][COLOR=orange][/COLOR] 
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 26/11/2022[/B][/COLOR][COLOR=orange][/COLOR] 
 
 Fonte de Informação: 
 
@@ -15,67 +15,19 @@ CANAIS ABERTOS / LIVRES BRASIL - https://raw.githubusercontent.com/rogerioronin/
  
 #EXTM3U
 
-####################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS EXTRAS BRASIL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-http://0000000000000000000000000000
-
-#EXTM3U
-
 
 #EXTINF:-1 group-title="GEEK",[COLOR=white][B]BONS TEMPOS TV[/B][/COLOR][COLOR=white][/COLOR]
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK",[COLOR=white][B]RETRO CARTOONS TV[/B][/COLOR][COLOR=white][/COLOR]
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8?ROGERIOTORRES
-
-
-####################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DESPORTIVOS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-http://0000000000000000000000000000
-
-#EXTM3U
-
-
-#EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.81:1234
 #EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82825
-
-#EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.152:1234 
-#EXTINF:-1,[COLOR=white][B]ESPN 2 SD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.86:1234 
-
-#EXTINF:-1,[COLOR=white][B]ESPN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.153:1234
 #EXTINF:-1,[COLOR=white][B]ESPN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82828
-
-#EXTINF:-1,[COLOR=white][B]ESPN 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.116:1234 
 #EXTINF:-1,[COLOR=white][B]ESPN 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82754
-
-#EXTINF:-1,[COLOR=white][B]SPORTV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://acsb.sh:80/4673629418/snakeplay/72332
-#EXTINF:-1,[COLOR=white][B]SPORTV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://acsb.sh:80/4673629418/snakeplay/72324
-#EXTINF:-1,[COLOR=white][B]SPORTV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://acsb.sh:80/4673629418/snakeplay/131113.ts
-
-
 #EXTINF:-1,[COLOR=white][B]ALL SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://5cf4a2c2512a2.streamlock.net:1935/dgrau/dgrau/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]BAND SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.119:1234
-#EXTINF:-1,[COLOR=white][B]BAND SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://clienteworld.com:80/claud123/claud123/82841
-
-#EXTINF:-1,[COLOR=white][B]FOX SPORTS 2[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.132:1234
-#EXTINF:-1,[COLOR=white][B]FOX SPORTS 2[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.132:1234
-
 #EXTINF:-1,[COLOR=white][B]TNT SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 #EXTINF:-1,[COLOR=white][B]TNT SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -86,53 +38,14 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1,[COLOR=white][B]TNT SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PREMIERE CLUBES HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.102:1234
-
-
-####################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DISCOVERY & CASAS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-http://0000000000000000000000000000
-
-
-#EXTINF:-1,[COLOR=white][B]DISCOVERY CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.80:1234 
-#EXTINF:-1,[COLOR=white][B]DISCOVERY CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.80:1234
-
-#EXTINF:-1,[COLOR=white][B]DISCOVERY TURBO HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.82:1234 
 #EXTINF:-1,[COLOR=white][B]DISCOVERY TURBO HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82925
 #EXTINF:-1,[COLOR=white][B]DISCOVERY TURBO HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82922
-
-#EXTINF:-1,[COLOR=white][B]DISCOVERY KIDS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.83:1234 
-#EXTINF:-1,[COLOR=white][B]DISCOVERY KIDS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.83:1234
-
-#EXTINF:-1,[COLOR=white][B]DISCOVERY SCIENCE HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.92:1234 
-
-#EXTINF:-1,[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.85:1234
 #EXTINF:-1,[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
 http://acsb.sh:80/4673629418/snakeplay/71870
-
-#EXTINF:-1,[COLOR=white][B]DISCOVERY ANIMAL PLANET HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.118:1234
 #EXTINF:-1,[COLOR=white][B]DISCOVERY WORLD HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82931
-
-
-
-
-####################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS MÚSICA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-http://0000000000000000000000000000
-
-
 #EXTINF:-1,[COLOR=white][B]TRACE URBAN HD[/B][/COLOR][COLOR=white][/COLOR]
 https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 group-title="CANAIS | MUSICA" tvg-logo="http://logocanais.ddns.net/Logo/Bis1.png",[COLOR=white][B]BIS FHD[/B][/COLOR][COLOR=white][/COLOR]
@@ -141,13 +54,6 @@ http://axr.life:80/096154/686531/5195
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1609920726.m3u8
 #EXTINF:-1,[COLOR=white][B]K-POP TV PLAY HD[/B][/COLOR][COLOR=white][/COLOR]
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
-
-
-####################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  URBAN TV BRASIL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-http://0000000000000000000000000000
-
-
 #EXTINF:-1,[COLOR=white][B]URBAN TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://200.194.238.229:8383/live/urbantv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]URBAN TV KIDS HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -158,291 +64,19 @@ http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]URBAN TV SÉRIES HD[/B][/COLOR][COLOR=white][/COLOR]
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
-
-####################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS GENERALISTAS E NOTÍCIAS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-http://0000000000000000000000000000
-
-
-#EXTINF:-1,[COLOR=white][B]CNN BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.160:1234
-#EXTINF:-1,[COLOR=white][B]GLOBO HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.109:1234
-
-#EXTINF:-1,[COLOR=white][B]TV RECORD HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.147:1234
-#EXTINF:-1,[COLOR=white][B]RECORD NEWS HD[/B][/COLOR][COLOR=white][/COLOR] 
-http://189.91.128.146:4444/udp/227.10.20.170:1234
-
-#EXTINF:-1,[COLOR=white][B]REDE TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.122:1234
 #EXTINF:-1,[COLOR=white][B]JOVEM PAN NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8?ROGERIOTORRES
-
-#EXTINF:-1,[COLOR=white][B]BAND NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.131:1234
-#EXTINF:-1,[COLOR=white][B]SBT HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.120:1234 
 #EXTINF:-1,[COLOR=white][B]SBT INTERIOR HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-1,[COLOR=white][B]REUTERS HD (ENG.)[/B][/COLOR][COLOR=white][/COLOR]
 https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1,[COLOR=white][B]BAND NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/6161/index.m3u8
-
-
-####################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS SÉRIES DE TV E CINEMA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-http://0000000000000000000000000000
-
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TELECINE PREMIUM HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.134:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TELECINE ACTION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.135:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TELECINE TOUCH HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.136:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TELECINE FUN HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.137:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TELECINE PIPOCA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.87:1234
 #EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="Canais | Filmes e Séries",[COLOR=white][B]TELECINE CULT HD[/B][/COLOR][COLOR=white][/COLOR]
 http://acsb.sh:80/4673629418/snakeplay/72352
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CINE BRASIL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.171:1234
-#EXTINF:-1,[COLOR=white][B]STAR CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.139:1234
-#EXTINF:-1,[COLOR=white][B]PARAMOUNT NETWORK HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.140:1234
-
-
-
-####################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  OUTROS CANAIS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-http://0000000000000000000000000000
-
-
-#EXTINF:-1,[COLOR=white][B]CLUBINHO HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.91:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TLC[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.84:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]STUDIO UNIVERSAL[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.88:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ID[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.93:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HBO 1[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.94:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HBO 2[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.95:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HBO PLUS[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.96:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HBO FAMILY[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.97:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HBO SIGNATURE[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.98:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CINEMAX[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.101:1234
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]UNIVALE TV[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.103:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PFC 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.104:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PFC 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.105:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PFC 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.106:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PFC 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.107:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]AGROMINAS TV[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.108:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]INTER TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.109:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]WOOHOO[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.112:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FASHION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.113:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PRIME SD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.114:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TRAVEL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.115:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ANIMAL PLANET HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.118:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PFC 6 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.123:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TCM[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.124:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CANAL RURAL[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.125:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]WARNER HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.126:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SONY HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.127:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]A&E HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.129:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HISTORY HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.130:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HBO HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.133:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FX HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.138:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.139:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]IDEAL TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.143:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PFC 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.144:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVLESTE HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.151:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HBO 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.154:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HBO PLUS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.156:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HBO FAMILY HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.157:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HBO SIGNATURE HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.158:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CINEMAX HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.159:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BLOOMBERG HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.161:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SHOPTIME HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.162:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.163:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]REDE TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.164:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FUTURA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.165:1234 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TBS[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.166:1234
-
-
-####################################################################################################################################
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 17/11/2022[/B][/COLOR][COLOR=orange][/COLOR]
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIL1ho006Jea_Lf0E91i8HE9TZjeKXIkmm2Ygqo2p6ZO3JAOwYALJ56UPiax7h1rGOFw&usqp=CAU",[COLOR=white][B]DELUXE LOUNGE[/B][/COLOR][COLOR=white][/COLOR]
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/abb4746a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=GB&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
 #EXTINF:-1,[COLOR=white][B]TRACE URBAN[/B][/COLOR][COLOR=white][/COLOR]
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8 
-#EXTINF:-1,[COLOR=white][B]TLC[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.84:1234
-#EXTINF:-1,[COLOR=white][B]DISCOVERY HOME & HEALTH[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.85:1234
-#EXTINF:-1,[COLOR=white][B]DISCOVERY SCIENCE[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.92:1234
-#EXTINF:-1,[COLOR=white][B]ID[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.93:1234
-#EXTINF:-1,[COLOR=white][B]TELECINE PIPOCA[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.87:1234
-#EXTINF:-1,[COLOR=white][B]TELECINE PREMIUM[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.134:1234
-#EXTINF:-1,[COLOR=white][B]TELECINE ACTION[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.135:1234
-#EXTINF:-1,[COLOR=white][B]TELECINE TOUCH[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.136:1234
-#EXTINF:-1,[COLOR=white][B]TELECINE FUN[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.137:1234
-#EXTINF:-1,[COLOR=white][B]STUDIO UNIVERSAL[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.88:1234
-#EXTINF:-1,[COLOR=white][B]MEGAPIX[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.89:1234
-#EXTINF:-1,[COLOR=white][B]DISNEY CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.90:1234
-#EXTINF:-1,[COLOR=white][B]DISNEY XD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.110:1234
-#EXTINF:-1,[COLOR=white][B]GLOOB[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.91:1234
-#EXTINF:-1,[COLOR=white][B]HBO[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.94:1234
-#EXTINF:-1,[COLOR=white][B]HBO 2[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.95:1234
-#EXTINF:-1,[COLOR=white][B]HBO+[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.96:1234
-#EXTINF:-1,[COLOR=white][B]HBO FAMILY[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.97:1234
-#EXTINF:-1,[COLOR=white][B]HBO[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.98:1234
-#EXTINF:-1,[COLOR=white][B]HBO POP[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.99:1234
-#EXTINF:-1,[COLOR=white][B]HBO EXTREME[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.100:1234
-#EXTINF:-1,[COLOR=white][B]CINEMAX[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.101:1234
-#EXTINF:-1,[COLOR=white][B]PREMIERE[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.102:1234
-#EXTINF:-1,[COLOR=white][B]PREMIERE[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.104:1234
-#EXTINF:-1,[COLOR=white][B]PREMIERE[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.105:1234
-#EXTINF:-1,[COLOR=white][B]PREMIERE[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.106:1234
-#EXTINF:-1,[COLOR=white][B]PREMIERE[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.107:1234
-#EXTINF:-1,[COLOR=white][B]PREMIERE[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.123:1234
-#EXTINF:-1,[COLOR=white][B]UNIVALE TV[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.103:1234
-#EXTINF:-1,[COLOR=white][B]CNT[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.111:1234
-#EXTINF:-1,[COLOR=white][B]WOOHOO[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.112:1234
-#EXTINF:-1,[COLOR=white][B]PRIME[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.114:1234
-#EXTINF:-1,[COLOR=white][B]TRAVEL[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.115:1234
-#EXTINF:-1,[COLOR=white][B]FISH TV[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.117:1234
-#EXTINF:-1,[COLOR=white][B]SBT[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.120:1234
-#EXTINF:-1,[COLOR=white][B]REDE TV[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.122:1234
-#EXTINF:-1,[COLOR=white][B]TCM[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.124:1234
-#EXTINF:-1,[COLOR=white][B]CANAL RURAL[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.125:1234
-#EXTINF:-1,[COLOR=white][B]WARNER[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.126:1234
-#EXTINF:-1,[COLOR=white][B]SONY[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.127:1234
-#EXTINF:-1,[COLOR=white][B]A&E[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.129:1234
-#EXTINF:-1,[COLOR=white][B]HISTORY[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.130:1234
-#EXTINF:-1,[COLOR=white][B]BAND NEWS[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.131:1234
-#EXTINF:-1,[COLOR=white][B]FX[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.138:1234
-#EXTINF:-1,[COLOR=white][B]TERRA VIVA[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.142:1234
-#EXTINF:-1,[COLOR=white][B]LOADING[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.143:1234
-#EXTINF:-1,[COLOR=white][B]TV CULTURA[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.145:1234
-#EXTINF:-1,[COLOR=white][B]NICK[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.149:1234
-#EXTINF:-1,[COLOR=white][B]GLOBO[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.150:1234
-#EXTINF:-1,[COLOR=white][B]RECORD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.151:1234
-#EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.152:1234
-
-#EXTINF:-1,[COLOR=white][B]HBO 2[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.155:1234
-#EXTINF:-1,[COLOR=white][B]HBO+[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.156:1234
-#EXTINF:-1,[COLOR=white][B]HBO FAMILY[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.157:1234
-#EXTINF:-1,[COLOR=white][B]HBO SIGNATURE[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.158:1234
-#EXTINF:-1,[COLOR=white][B]CINEMAX[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.159:1234
-#EXTINF:-1,[COLOR=white][B]SHOPTIME[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.162:1234
-#EXTINF:-1,[COLOR=white][B]TV5 MONDE[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.163:1234
-#EXTINF:-1,[COLOR=white][B]REDE TV[/B][/COLOR][COLOR=white][/COLOR]
-http://189.91.128.146:4444/udp/227.10.20.164:1234
 
 
