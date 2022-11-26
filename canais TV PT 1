@@ -45,6 +45,8 @@ https://000000
 #EXTM3U
 
 
+#EXTINF:0 tvg-id="Globosp.br" group-title="Channels",[COLOR=white][B]GLOBO HD[/B][/COLOR][COLOR=white][/COLOR]
+http://161.230.47.149:4343/play/a04a
 #EXTINF:-1,[COLOR=white][B]TVM SD[/B][/COLOR][COLOR=white][/COLOR]
 http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]TVM INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -55,19 +57,39 @@ https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
 
 ##########################################################################################################################################
 
-#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS TV PORTUGAL 1  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS TV PORTUGAL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #EXTM3U
 
 
 #EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://162.212.178.69:41042/bysid/608
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://161.230.47.149:4343/play/a041
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://161.230.47.149:4343/play/a042
 #EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
 http://162.212.178.69:41042/bysid/608
+#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Channels",[COLOR=white][B]RTP MEMÓRIA[/B][/COLOR][COLOR=white][/COLOR]
+http://161.230.47.149:4343/play/a04f
 #EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]SIC INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:0 tvg-id="sic.pt" group-title="Channels",[COLOR=white][B]SIC HD[/B][/COLOR][COLOR=white][/COLOR]
+http://161.230.47.149:4343/play/a043
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC NOTICIAS[/B][/COLOR][COLOR=white][/COLOR]
+http://161.230.47.149:4343/play/a045
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC CARAS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://161.230.47.149:4343/play/a04d
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC MULHER HD[/B][/COLOR][COLOR=white][/COLOR]
+http://161.230.47.149:4343/play/a04b
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC RADICAL[/B][/COLOR][COLOR=white][/COLOR]
+http://161.230.47.149:4343/play/a04e
+#EXTINF:0 tvg-id="TVI24.pt" group-title="Channels",[COLOR=white][B]CNN PORTUGAL[/B][/COLOR][COLOR=white][/COLOR]
+http://161.230.47.149:4343/play/a047
 #EXTINF:-1 tvg-id="" tvg-id="tvi.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/tvi.png",[COLOR=white][B]TVI SD[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth4.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVI HD[/B][/COLOR][COLOR=white][/COLOR]
+http://161.230.47.149:4343/play/a044
 #EXTINF:-1,[COLOR=white][B]TVI FICÇÃO HD[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]TVI REALITY TV[/B][/COLOR][COLOR=white][/COLOR]
@@ -84,95 +106,73 @@ https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]EURONEWS PT HD[/B][/COLOR][COLOR=white][/COLOR]
 https://euronews.alteox.app/hls/pt_stream.m3u8
-#EXTINF:0 tvg-id="FoxComedy.it" group-title="Channels",[COLOR=white][B]FOX COMEDY FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.47.149:4343/play/a04x
-
-#EXTM3U
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.47.149:4343/play/a041
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.47.149:4343/play/a042
-#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Channels",[COLOR=white][B]RTP MEMÓRIA[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.47.149:4343/play/a04f
-#EXTINF:0 tvg-id="sic.pt" group-title="Channels",[COLOR=white][B]SIC HD[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.47.149:4343/play/a043
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVI HD[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.47.149:4343/play/a044
-#EXTINF:0 tvg-id="TVI24.pt" group-title="Channels",[COLOR=white][B]CNN PORTUGAL[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.47.149:4343/play/a047
 #EXTINF:0 tvg-id="CMTV.pt" group-title="Channels",[COLOR=white][B]CMTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://161.230.47.149:4343/play/a048
-#EXTINF:0 tvg-id="RTP3.pt" group-title="Channels",[COLOR=white][B]FOX COMEDY FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.47.149:4343/play/a046
-#EXTINF:0 tvg-id="Panda.es" group-title="Channels",[COLOR=white][B]PANDA[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.47.149:4343/play/a04o
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC CARAS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.47.149:4343/play/a04d
-#EXTINF:0 tvg-id="DisneyJr.blt" group-title="Channels",[COLOR=white][B]DISNEY JUNIOR[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.47.149:4343/play/a04m
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORTING TV[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.47.149:4343/play/a04i
-#EXTINF:0 tvg-id="FuelTV.pt" group-title="Channels",[COLOR=white][B]FUEL TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.47.149:4343/play/a04k
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PORTO CANAL HD[/B][/COLOR][COLOR=white][/COLOR]
 http://161.230.47.149:4343/play/a04c
-#EXTINF:0 tvg-id="cartoon" group-title="Channels",[COLOR=white][B]CARTOON NETWORK[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.47.149:4343/play/a04n
+#EXTINF:0 tvg-id="RTP3.pt" group-title="Channels",[COLOR=white][B]FOX COMEDY FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://161.230.47.149:4343/play/a046
+#EXTINF:0 tvg-id="FoxComedy.it" group-title="Channels",[COLOR=white][B]FOX COMEDY FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://161.230.47.149:4343/play/a04x
 #EXTINF:0 tvg-id="AXNBlack.pt" group-title="Channels",[COLOR=white][B]AXN BLACK HD[/B][/COLOR][COLOR=white][/COLOR]
 http://161.230.47.149:4343/play/a04z
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]E! HD[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.47.149:4343/play/a054
-#EXTINF:0 tvg-id="History.uk" group-title="Channels",[COLOR=white][B]HISTÓRIA[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.47.149:4343/play/a052
-#EXTINF:0 tvg-id="Cinemundo.pt" group-title="Channels",[COLOR=white][B]CINEMUNDO HD[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.47.149:4343/play/a04r
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOOD NETWORK[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.47.149:4343/play/a057
 #EXTINF:0 tvg-id="AXNWhite.es" group-title="Channels",[COLOR=white][B]AXN WHITE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://161.230.47.149:4343/play/a04y
-#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Channels",[COLOR=white][B]PANDA BIGGS[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.47.149:4343/play/a04p
-#EXTINF:0 tvg-id="fashion" group-title="Channels",[COLOR=white][B]FTV[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.47.149:4343/play/a058
-#EXTINF:0 tvg-id="disney" group-title="Channels",[COLOR=white][B]DISNEY CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.47.149:4343/play/a04l
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC RADICAL[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.47.149:4343/play/a04e
-#EXTINF:0 tvg-id="travel" group-title="Channels",[COLOR=white][B]TRAVEL[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.47.149:4343/play/a056
 #EXTINF:0 tvg-id="fox-crime" group-title="Channels",[COLOR=white][B]FOX CRIME HD[/B][/COLOR][COLOR=white][/COLOR]
 http://161.230.47.149:4343/play/a04w
-#EXTINF:0 tvg-id="esp-hd" group-title="Channels",[COLOR=white][B]EUROSPORT HD[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.47.149:4343/play/a04j
-#EXTINF:0 tvg-id="fox-hd" group-title="Channels",[COLOR=white][B]FOX HD[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.47.149:4343/play/a04t
 #EXTINF:0 tvg-id="AXN.it" group-title="Channels",[COLOR=white][B]AXN HD[/B][/COLOR][COLOR=white][/COLOR]
 http://161.230.47.149:4343/play/a04u
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC NOTICIAS[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.47.149:4343/play/a045
-#EXTINF:0 tvg-id="Globosp.br" group-title="Channels",[COLOR=white][B]GLOBO HD[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.47.149:4343/play/a04a
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC MULHER HD[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.47.149:4343/play/a04b
-#EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",[COLOR=white][B]SYFY HD[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.47.149:4343/play/a050
-#EXTINF:0 tvg-id="24kitchen.nl" group-title="Channels",[COLOR=white][B]24 KITCHEN[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.47.149:4343/play/a04g
-#EXTINF:0 tvg-id="AMC.uk" group-title="Channels",[COLOR=white][B]AMC HD[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.47.149:4343/play/a051
-#EXTINF:0 tvg-id="tlc-russia" group-title="Channels",[COLOR=white][B]TLC[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.47.149:4343/play/a055
+#EXTINF:0 tvg-id="FOXmovies.svn" group-title="Channels",[COLOR=white][B]FOX MOVIES HD[/B][/COLOR][COLOR=white][/COLOR]
+http://161.230.47.149:4343/play/a04s
+#EXTINF:0 tvg-id="Cinemundo.pt" group-title="Channels",[COLOR=white][B]CINEMUNDO HD[/B][/COLOR][COLOR=white][/COLOR]
+http://161.230.47.149:4343/play/a04r
+#EXTINF:0 tvg-id="fox-hd" group-title="Channels",[COLOR=white][B]FOX HD[/B][/COLOR][COLOR=white][/COLOR]
+http://161.230.47.149:4343/play/a04t
 #EXTINF:0 tvg-id="fox-life-hd" group-title="Channels",[COLOR=white][B]FOX LIFE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://161.230.47.149:4343/play/a04v 
 #EXTINF:0 tvg-id="hollywood-hd" group-title="Channels",[COLOR=white][B]HOLLYWOOD HD[/B][/COLOR][COLOR=white][/COLOR]
 http://161.230.47.149:4343/play/a04q
-#EXTINF:0 tvg-id="wild-hd" group-title="Channels",[COLOR=white][B]NAT GEO WILD HD[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.47.149:4343/play/a053
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",[COLOR=white][B]SYFY HD[/B][/COLOR][COLOR=white][/COLOR]
+http://161.230.47.149:4343/play/a050
+#EXTINF:0 tvg-id="AMC.uk" group-title="Channels",[COLOR=white][B]AMC HD[/B][/COLOR][COLOR=white][/COLOR]
+http://161.230.47.149:4343/play/a051
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
 http://161.230.47.149:4343/play/a049
-#EXTINF:0 tvg-id="FOXmovies.svn" group-title="Channels",[COLOR=white][B]FOX MOVIES HD[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.47.149:4343/play/a04s
- 
+#EXTINF:0 tvg-id="esp-hd" group-title="Channels",[COLOR=white][B]EUROSPORT HD[/B][/COLOR][COLOR=white][/COLOR]
+http://161.230.47.149:4343/play/a04j
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORTING TV[/B][/COLOR][COLOR=white][/COLOR]
+http://161.230.47.149:4343/play/a04i
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="Channels",[COLOR=white][B]FUEL TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://161.230.47.149:4343/play/a04k
 
+
+#EXTINF:0 tvg-id="Panda.es" group-title="Channels",[COLOR=white][B]PANDA[/B][/COLOR][COLOR=white][/COLOR]
+http://161.230.47.149:4343/play/a04o
+#EXTINF:0 tvg-id="DisneyJr.blt" group-title="Channels",[COLOR=white][B]DISNEY JUNIOR[/B][/COLOR][COLOR=white][/COLOR]
+http://161.230.47.149:4343/play/a04m
+#EXTINF:0 tvg-id="cartoon" group-title="Channels",[COLOR=white][B]CARTOON NETWORK[/B][/COLOR][COLOR=white][/COLOR]
+http://161.230.47.149:4343/play/a04n
+#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Channels",[COLOR=white][B]PANDA BIGGS[/B][/COLOR][COLOR=white][/COLOR]
+http://161.230.47.149:4343/play/a04p
+#EXTINF:0 tvg-id="disney" group-title="Channels",[COLOR=white][B]DISNEY CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
+http://161.230.47.149:4343/play/a04l
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]E! HD[/B][/COLOR][COLOR=white][/COLOR]
+http://161.230.47.149:4343/play/a054
+#EXTINF:0 tvg-id="History.uk" group-title="Channels",[COLOR=white][B]HISTÓRIA[/B][/COLOR][COLOR=white][/COLOR]
+http://161.230.47.149:4343/play/a052
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOOD NETWORK[/B][/COLOR][COLOR=white][/COLOR]
+http://161.230.47.149:4343/play/a057
+#EXTINF:0 tvg-id="fashion" group-title="Channels",[COLOR=white][B]FTV[/B][/COLOR][COLOR=white][/COLOR]
+http://161.230.47.149:4343/play/a058
+#EXTINF:0 tvg-id="travel" group-title="Channels",[COLOR=white][B]TRAVEL[/B][/COLOR][COLOR=white][/COLOR]
+http://161.230.47.149:4343/play/a056
+#EXTINF:0 tvg-id="24kitchen.nl" group-title="Channels",[COLOR=white][B]24 KITCHEN[/B][/COLOR][COLOR=white][/COLOR]
+http://161.230.47.149:4343/play/a04g
+#EXTINF:0 tvg-id="tlc-russia" group-title="Channels",[COLOR=white][B]TLC[/B][/COLOR][COLOR=white][/COLOR]
+http://161.230.47.149:4343/play/a055
+#EXTINF:0 tvg-id="wild-hd" group-title="Channels",[COLOR=white][B]NAT GEO WILD HD[/B][/COLOR][COLOR=white][/COLOR]
+http://161.230.47.149:4343/play/a053
 
