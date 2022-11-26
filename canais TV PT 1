@@ -86,5 +86,100 @@ https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 https://euronews.alteox.app/hls/pt_stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX COMEDY FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1465
+#EXTINF:0 tvg-id="FoxComedy.it" group-title="Channels",FOX COMEDY HD
+http://161.230.47.149:4343/play/a04x
+
+##########################################################################################################################################
+
+#EXTINF:-1,[COLOR=yellow][B]/////////  LISTA DE CANAIS TV PORTUGAL 2  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+
+#EXTM3U
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTP 1 HD
+http://161.230.47.149:4343/play/a041
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTP 2 HD
+http://161.230.47.149:4343/play/a042
+#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Channels",RTP MEMÓRIA
+http://161.230.47.149:4343/play/a04f
+#EXTINF:0 tvg-id="sic.pt" group-title="Channels",SIC HD
+http://161.230.47.149:4343/play/a043
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVI HD
+http://161.230.47.149:4343/play/a044
+#EXTINF:0 tvg-id="TVI24.pt" group-title="Channels",CNN PORTUGAL
+http://161.230.47.149:4343/play/a047
+#EXTINF:0 tvg-id="CMTV.pt" group-title="Channels",CMTV HD
+http://161.230.47.149:4343/play/a048
+#EXTINF:0 tvg-id="RTP3.pt" group-title="Channels",RTP 3
+http://161.230.47.149:4343/play/a046
+#EXTINF:0 tvg-id="Panda.es" group-title="Channels",PANDA
+http://161.230.47.149:4343/play/a04o
+#EXTINF:0 tvg-id="ext" group-title="Channels",SIC CARAS HD
+http://161.230.47.149:4343/play/a04d
+#EXTINF:0 tvg-id="DisneyJr.blt" group-title="Channels",DISNEY JUNIOR
+http://161.230.47.149:4343/play/a04m
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTING TV
+http://161.230.47.149:4343/play/a04i
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="Channels",FUEL TV HD
+http://161.230.47.149:4343/play/a04k
+#EXTINF:0 tvg-id="ext" group-title="Channels",PORTO CANAL HD
+http://161.230.47.149:4343/play/a04c
+#EXTINF:0 tvg-id="cartoon" group-title="Channels",CARTOON NETWORK
+http://161.230.47.149:4343/play/a04n
+#EXTINF:0 tvg-id="AXNBlack.pt" group-title="Channels",AXN BLACK HD
+http://161.230.47.149:4343/play/a04z
+#EXTINF:0 tvg-id="ext" group-title="Channels",E! HD
+http://161.230.47.149:4343/play/a054
+#EXTINF:0 tvg-id="History.uk" group-title="Channels",HISTÓRIA
+http://161.230.47.149:4343/play/a052
+#EXTINF:0 tvg-id="Cinemundo.pt" group-title="Channels",CINEMUNDO HD
+http://161.230.47.149:4343/play/a04r
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOOD NETWORK
+http://161.230.47.149:4343/play/a057
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="Channels",AXN WHITE HD
+http://161.230.47.149:4343/play/a04y
+#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Channels",PANDA BIGGS
+http://161.230.47.149:4343/play/a04p
+#EXTINF:0 tvg-id="fashion" group-title="Channels",FTV
+http://161.230.47.149:4343/play/a058
+#EXTINF:0 tvg-id="disney" group-title="Channels",DISNEY CHANNEL
+http://161.230.47.149:4343/play/a04l
+#EXTINF:0 tvg-id="ext" group-title="Channels",SIC RADICAL
+http://161.230.47.149:4343/play/a04e
+#EXTINF:0 tvg-id="travel" group-title="Channels",TRAVEL
+http://161.230.47.149:4343/play/a056
+#EXTINF:0 tvg-id="fox-crime" group-title="Channels",FOX CRIME HD
+http://161.230.47.149:4343/play/a04w
+#EXTINF:0 tvg-id="esp-hd" group-title="Channels",EUROSPORT HD
+http://161.230.47.149:4343/play/a04j
+#EXTINF:0 tvg-id="fox-hd" group-title="Channels",FOX HD
+http://161.230.47.149:4343/play/a04t
+#EXTINF:0 tvg-id="AXN.it" group-title="Channels",AXN HD
+http://161.230.47.149:4343/play/a04u
+#EXTINF:0 tvg-id="ext" group-title="Channels",SIC NOTICIAS
+http://161.230.47.149:4343/play/a045
+#EXTINF:0 tvg-id="Globosp.br" group-title="Channels",GLOBO HD
+http://161.230.47.149:4343/play/a04a
+#EXTINF:0 tvg-id="ext" group-title="Channels",SIC MULHER HD
+http://161.230.47.149:4343/play/a04b
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",SYFY HD
+http://161.230.47.149:4343/play/a050
+#EXTINF:0 tvg-id="24kitchen.nl" group-title="Channels",24 KITCHEN
+http://161.230.47.149:4343/play/a04g
+#EXTINF:0 tvg-id="AMC.uk" group-title="Channels",AMC HD
+http://161.230.47.149:4343/play/a051
+#EXTINF:0 tvg-id="tlc-russia" group-title="Channels",TLC
+http://161.230.47.149:4343/play/a055
+#EXTINF:0 tvg-id="fox-life-hd" group-title="Channels",FOX LIFE HD
+http://161.230.47.149:4343/play/a04v
+#EXTINF:0 tvg-id="hollywood-hd" group-title="Channels",HOLLYWOOD HD
+http://161.230.47.149:4343/play/a04q
+#EXTINF:0 tvg-id="wild-hd" group-title="Channels",NAT GEO WILD HD
+http://161.230.47.149:4343/play/a053
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV+ HD
+http://161.230.47.149:4343/play/a049
+#EXTINF:0 tvg-id="FOXmovies.svn" group-title="Channels",FOX MOVIES HD
+http://161.230.47.149:4343/play/a04s
+
 
 
