@@ -7,14 +7,13 @@ FONTE DE INFORMAÇÃO:
               https://global-satinfo.in/viewtopic.php?f=22&t=315&start=410
 
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 17/11/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 26/11/2022[/B][/COLOR][COLOR=orange][/COLOR]
 #EXTM3U
 
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////////  LISTA DESPORTO PREMIUM - LISTA 1 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
-
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",ACC NETWORK
 http://45.139.162.107:8080/MYpSHtkK6Sintercambio2/HAjc5yZHxz/1216394
@@ -81,12 +80,6 @@ http://45.139.162.107:8080/MYpSHtkK6Sintercambio2/HAjc5yZHxz/28833
 http://45.139.162.107:8080/MYpSHtkK6Sintercambio2/HAjc5yZHxz/38502
 #EXTINF:0 tvg-id="ESPNU.us" group-title="España",US: ESPN U HD
 http://45.139.162.107:8080/MYpSHtkK6Sintercambio2/HAjc5yZHxz/28835
-#EXTINF:0 tvg-id="ext" group-title="España",ESPAÑA ||| ETB Sat
-http://45.139.162.107:8080/MYpSHtkK6Sintercambio2/HAjc5yZHxz/1171011
-#EXTINF:0 tvg-id="ext" group-title="España",ESPAÑA ||| ETB 1
-http://45.139.162.107:8080/MYpSHtkK6Sintercambio2/HAjc5yZHxz/1171012
-#EXTINF:0 tvg-id="ext" group-title="España",ESPAÑA ||| ETB 2
-http://45.139.162.107:8080/MYpSHtkK6Sintercambio2/HAjc5yZHxz/1171013
 
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES",****DEPORTES****
 http://45.139.162.107:8080/MYpSHtkK6Sintercambio2/HAjc5yZHxz/14512
@@ -182,8 +175,6 @@ http://45.139.162.107:8080/MYpSHtkK6Sintercambio2/HAjc5yZHxz/1127715
 http://45.139.162.107:8080/MYpSHtkK6Sintercambio2/HAjc5yZHxz/1130134
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES",Dep|| beIN Sports en Español |USA Opc 3
 http://45.139.162.107:8080/MYpSHtkK6Sintercambio2/HAjc5yZHxz/1130770
-#EXTINF:0 tvg-id="ext" group-title="DEPORTES",Dep|| beIN Sports en Español |USA Opc 4
-http://45.139.162.107:8080/MYpSHtkK6Sintercambio2/HAjc5yZHxz/1130846
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES",Dep|| FOX SPORT 3 Latino
 http://45.139.162.107:8080/MYpSHtkK6Sintercambio2/HAjc5yZHxz/27565
 #EXTINF:0 tvg-id="ext" group-title="DEPORTES",Dep|| Win Sports
@@ -196,11 +187,13 @@ http://45.139.162.107:8080/MYpSHtkK6Sintercambio2/HAjc5yZHxz/19549
 http://45.139.162.107:8080/MYpSHtkK6Sintercambio2/HAjc5yZHxz/18709
 
 
+
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////////  LISTA DESPORTO PREMIUM - LISTA 2 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTM3U
+
 
 
 #EXTINF:0 tvg-id="ext" group-title="Sport",BEST CABLE SPORTS PERU HD
@@ -239,25 +232,13 @@ https://mavtv-mavtvglobal-1-nl.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.c
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",TRACE SPORTS STARS
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",MAX SPORTS 3 HD
-http://78.83.191.18:8000/play/a075?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",MAX SPORTS 4 HD
-http://78.83.191.18:8000/play/a07f?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="NOVAsport.bg" group-title="Sport",NOVA SPORT
-http://78.83.191.18:8000/play/a04a?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-id="TraceSport.svn" group-title="Channels",TRACE SPORTS HD
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",BARÇA TV ES. HD
-http://93.152.174.144:4000/play/barcatv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN LALIGA ES HD
-http://93.152.174.144:4000/play/beinlaliga/index.m3u8
 #EXTINF:0 tvg-id="xsport-plus-ua" group-title="Channels",XSPORT+ HD
 http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/3999/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",WORLD POWER TOUR
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1346
-#EXTINF:0 tvg-id="viasat-sport" group-title="Channels",VIASAT SPORT HD
-http://c0.cdn.trinity-tv.net/stream/urktqfc5putc9ianb3yttwg7b9tkmejr2iw343b98ciz8su2xhi5kgyx7erjgmfwus84n9fm4x69z7dqwx74zt3b78mt8nqfhh9d2ifydb5jw7m4k37vszdxq56bxhax8xiu22qukru9zb7vee======.m3u8
 #EXTINF:0 tvg-id="viasat-sport" group-title="Channels",VIASAT SPORT HD
 http://cdnua03.hls.tv/133/hls/99c91cce995b5620c9929e6835e6caf1/330/stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",UBS SPORT HD
@@ -290,8 +271,6 @@ http://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS TV PLUS
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS TONIGHT
-http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",RACING TV
 https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream2/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",SPORT 1+1 HD
@@ -301,15 +280,9 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8?telegram
 #EXTINF:0 tvg-id="ext" group-title="Channels",SPORT | OMAN SPORTS
 http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-id="SkySpF1.uk" group-title="Channels",SKY SPORTS F1
-http://93.152.174.144:4000/play/ssportsf1/index.m3u8
-#EXTINF:0 tvg-id="SkySpF1.uk" group-title="Channels",SKY SPORTS F1
 http://app.powerfhd.me/live/sup.php
-#EXTINF:0 tvg-id="SkySports4.uk" group-title="Channels",SKY SPORTS 4
-http://93.152.174.144:4000/play/skysports4/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",SKY SPORTS 24 IT
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
-#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Channels",SKY SPORTS 1
-http://93.152.174.144:4000/play/ssports1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",SETANTA SPORTS+ HD
 http://hls1.sweet.tv/stream/8e9dv8bv2wg7qa25i2z56q7ihwe692xnurazwyra98kq4259fcr5j4scqmx6sfp773m3y8pafgntqjbfrmwseh7m8utg885uvk93v8jwaesu42k8htvj7vye884vt6gpnfm5fitywutd2===.m3u8
 #EXTINF:0 tvg-id="setanta-sport" group-title="Channels",SETANTA SPORTS HD
@@ -327,33 +300,8 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 http://168.205.87.198:8555/live/michele/123456/148.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="Bandsports.br" group-title="Sport\",BAND SPORTS
 http://168.205.87.198:8555/live/michele/123456/176.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="DiemaSport2.bg" group-title="Sport\",DIEMA SPORT 2 HD
-http://78.83.191.18:8000/play/a077?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport\",DIEMA SPORT 3 HD
-http://78.83.191.18:8000/play/a07e?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="DiemaSport1.bg" group-title="Sport\",DIEMA SPORT HD
-http://78.83.191.18:8000/play/a076?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="esp" group-title="Sport\",EUROSPORT
-http://78.83.191.18:8000/play/a05y?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="esp2" group-title="Sport\",EUROSPORT 2
-http://78.83.191.18:8000/play/a04b?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="MaxSport1.bg" group-title="Sport\",MAX SPORT 1 HD
-http://78.83.191.18:8000/play/a073?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="MaxSport2.bg" group-title="Sport\",MAX SPORT 2 HD
-http://78.83.191.18:8000/play/a074?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport\",BEIN SPORTS PREMIUM 1HD
 http://7b30f9aa.tvclub.xyz/iptv/SGME6W4L2A6MNZ/6131/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="beINSport1.fr" group-title="Sport\",BEIN SPORTS 1 FR
-http://93.152.174.144:4000/play/bein1fr/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="beINSport2.fr" group-title="Sport\",BEIN SPORTS 2 FR
-http://93.152.174.144:4000/play/bein2fr/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="beINSport3.fr" group-title="Sport\",BEIN SPORTS 3 FR
-http://93.152.174.144:4000/play/bein3fr/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-id="USANetwork.us" group-title="USA - CANADA SPORTS",USA NETWORK
-http://89.187.175.143:80/3025/mpegts
-#EXTINF:0 tvg-id="tnt" group-title="USA - CANADA SPORTS",TNT HD
-http://89.187.175.143:80/3030/mpegts
 
 #EXTINF:0 tvg-id="ext" group-title="Sports",1+1 SPORT
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
@@ -363,8 +311,6 @@ https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/
 https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",CCTV 5
 http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",CONTACTO DESPORTIVO
-https://live.obslivestream.com/cdeportivo/index.m3u8
 #EXTINF:0 tvg-id="DDSports.in" group-title="Sports",DD SPORTS
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",EDGE SPORTS
@@ -435,8 +381,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
 https://dai.google.com/linear/hls/event/8R__yZf7SR6yMb-oTXgbEQ/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",STADIUM
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",TURKMENISTAN SPORT
-https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",TV 2 SPORTEN
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",TVRI SPORT
@@ -453,4 +397,6 @@ https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
 https://unbeaten-roku.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",WORLD POWER TOUR
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3
+
+
 
