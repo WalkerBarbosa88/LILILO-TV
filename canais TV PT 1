@@ -113,8 +113,7 @@ http://161.230.47.149:4343/play/a04c
 http://161.230.47.149:4343/play/a046
 #EXTINF:0 tvg-id="FoxComedy.it" group-title="Channels",[COLOR=white][B]FOX COMEDY FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://161.230.47.149:4343/play/a04x
-#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",[COLOR=white][B]FOX COMEDY FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1465
+
 #EXTINF:0 tvg-id="AXNBlack.pt" group-title="Channels",[COLOR=white][B]AXN BLACK HD[/B][/COLOR][COLOR=white][/COLOR]
 http://161.230.47.149:4343/play/a04z
 #EXTINF:0 tvg-id="AXNWhite.es" group-title="Channels",[COLOR=white][B]AXN WHITE HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -189,10 +188,7 @@ http://161.230.47.149:4343/play/a053
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/483.m3u8
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",CARTOON NETWORK HD PT
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/479.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",TVCINE HOLLYWOOD HD LEG
-http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/420.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",TVCINE MUNDO HD LEG
-http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/430.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",DISNEY CHANNEL HD PT
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/478.m3u8
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",DISNEY JUNIOR HD PT
@@ -207,26 +203,8 @@ http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/332.m
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/487.m3u8
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",NICKELODEON HD PT
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/486.m3u8
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 HD PT
-http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/324.m3u8
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 HD PT
-http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/326.m3u8
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3 HD PT
-http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/327.m3u8
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4 HD PT
-http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1783.m3u8
 #EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="PORTUGAL",SPORTING TV HD PT
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/328.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",SPORTV 2 HD PT
-http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/307.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",TVCINE ACTION HD LEG
-http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/429.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",TVCINE EDITION HD LEG
-http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/427.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",TVCINE EMOTON HD LEG
-http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/428.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",TVCINE TOP HD LEG
-http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/426.m3u8
 #EXTINF:0 tvg-id="24Kitchen.pt" group-title="PORTUGAL",24 Kitchen HD
 http://185.236.229.13:4000/play/a01n
 #EXTINF:0 tvg-id="mgm-int" group-title="PORTUGAL",AMC
@@ -283,16 +261,7 @@ http://185.236.229.13:4000/play/a02c
 http://185.236.229.13:4000/play/a033
 #EXTINF:0 tvg-id="E.blt" group-title="PORTUGAL",E! Entertainment
 http://185.236.229.13:4000/play/a016
-#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="PORTUGAL",Eleven Sports 1
-http://185.236.229.13:4000/play/a01w
-#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="PORTUGAL",Eleven Sports 2
-http://185.236.229.13:4000/play/a00s
-#EXTINF:0 tvg-id="elevensports4.pt" group-title="PORTUGAL",Eleven Sports 4
-http://185.236.229.13:4000/play/a01x
-#EXTINF:0 tvg-id="elevensports5.pt" group-title="PORTUGAL",Eleven Sports 5
-http://185.236.229.13:4000/play/a01y
-#EXTINF:0 tvg-id="elevensports6.pt" group-title="PORTUGAL",Eleven Sports 6
-http://185.236.229.13:4000/play/a00v
+
 #EXTINF:0 tvg-id="euro" group-title="PORTUGAL",Euronews
 http://185.236.229.13:4000/play/a02z
 #EXTINF:0 tvg-id="esp" group-title="PORTUGAL",Eurosport 1
@@ -385,20 +354,7 @@ http://185.236.229.13:4000/play/a02r
 http://185.236.229.13:4000/play/a035
 #EXTINF:0 tvg-id="Skynews.gr" group-title="PORTUGAL",Sky News
 http://185.236.229.13:4000/play/a02y
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",Sport TV 1 HD
-http://185.236.229.13:4000/play/a040
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="PORTUGAL",Sport TV 2 HD
-http://185.236.229.13:4000/play/a00n
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="PORTUGAL",Sport TV 3 HD
-http://185.236.229.13:4000/play/a00o
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="PORTUGAL",Sport TV 4 HD
-http://185.236.229.13:4000/play/a00y
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="PORTUGAL",Sport TV 5 HD
-http://185.236.229.13:4000/play/a01i
-#EXTINF:0 tvg-id="SportTV6.pt" group-title="PORTUGAL",Sport TV 6 HD
-http://185.236.229.13:4000/play/a01j
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",Sport TV NBA
-http://185.236.229.13:4000/play/a01u
+
 #EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="PORTUGAL",Sporting TV
 http://185.236.229.13:4000/play/a034
 #EXTINF:0 tvg-id="tlc-russia" group-title="PORTUGAL",TLC
@@ -407,14 +363,7 @@ http://185.236.229.13:4000/play/a02o
 http://185.236.229.13:4000/play/a00k
 #EXTINF:0 tvg-id="tv5monde" group-title="PORTUGAL",TV5 Monde
 http://185.236.229.13:4000/play/a037
-#EXTINF:0 tvg-id="TVCineACTION.pt" group-title="PORTUGAL",TVCine ACTION HD
-http://185.236.229.13:4000/play/a025
-#EXTINF:0 tvg-id="TVCineEDITION.pt" group-title="PORTUGAL",TVCine EDITION HD
-http://185.236.229.13:4000/play/a021
-#EXTINF:0 tvg-id="TVCineEMOTION.pt" group-title="PORTUGAL",TVCine EMOTION HD
-http://185.236.229.13:4000/play/a01z
-#EXTINF:0 tvg-id="TVCineTOP.pt" group-title="PORTUGAL",TVCine TOP HD
-http://185.236.229.13:4000/play/a02e
+
 #EXTINF:0 tvg-id="24Horas.sp" group-title="PORTUGAL",TVE 24h
 http://185.236.229.13:4000/play/a02w
 #EXTINF:0 tvg-id="TVE24h.pt" group-title="PORTUGAL",TVE Internacional
