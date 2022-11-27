@@ -115,8 +115,11 @@ http://161.230.47.149:4343/play/a04c
 
  ===============  SÉRIES DE TV E CINEMA  ===============
  
-#EXTINF:0 tvg-id="FoxComedy.it" group-title="Channels",[COLOR=white][B]FOX COMEDY FHD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="FoxComedy.it" group-title="Channels",[COLOR=white][B]FOX COMEDY HD[/B][/COLOR][COLOR=white][/COLOR]
 http://161.230.47.149:4343/play/a04x
+#EXTINF:0 tvg-id="FoxComedy.it" group-title="Channels",[COLOR=white][B]FOX COMEDY HD[/B][/COLOR][COLOR=white][/COLOR]
+http://31.14.41.118:8080/TViBOXRU/DbTVQJpf1z/36697
+
 #EXTINF:0 tvg-id="AXNBlack.pt" group-title="Channels",[COLOR=white][B]AXN BLACK HD[/B][/COLOR][COLOR=white][/COLOR]
 http://161.230.47.149:4343/play/a04z
 #EXTINF:0 tvg-id="AXNWhite.es" group-title="Channels",[COLOR=white][B]AXN WHITE HD[/B][/COLOR][COLOR=white][/COLOR]
