@@ -51,10 +51,20 @@ http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/280
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",[COLOR=white][B]RAI 1 IT FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://195.189.62.137:8000/play/a03y
 
+#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 1 BR SD[/B][/COLOR][COLOR=white][/COLOR]
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5494
+#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5112
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 1 BR FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159607?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 2 BR SD[/B][/COLOR][COLOR=white][/COLOR]
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5495
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159605?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 3 BR SD[/B][/COLOR][COLOR=white][/COLOR]
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5496
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 3 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159606?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ITV1London.uk" group-title="Channels",[COLOR=white][B]FOX SPORTS USA HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -124,6 +134,8 @@ https://000000
 #EXTM3U
 
 
+#EXTINF:-1,[COLOR=white][B]ESPN 1 BR SD[/B][/COLOR][COLOR=white][/COLOR]
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5425
 #EXTINF:-1,[COLOR=white][B]ESPN 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82825
 #EXTINF:-1,[COLOR=white][B]ESPN 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -131,9 +143,18 @@ http://51.79.82.208:16417
 #EXTINF:-1,[COLOR=white][B]ESPN 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://51.79.82.208:16417
 
+#EXTINF:-1,[COLOR=white][B]ESPN 2 BR SD[/B][/COLOR][COLOR=white][/COLOR]
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5426
+#EXTINF:-1,[COLOR=white][B]ESPN 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5062
+
+#EXTINF:-1,[COLOR=white][B]ESPN 3 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/465906
 #EXTINF:-1,[COLOR=white][B]ESPN 3 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82828
 
+#EXTINF:-1,[COLOR=white][B]ESPN 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/465909
 #EXTINF:-1,[COLOR=white][B]ESPN 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82754
 
@@ -145,8 +166,6 @@ http://200.41.79.165:8000/play/a05u/index.m3u8
 http://170.83.242.155:5350/play/a00v
 #EXTINF:-1,[COLOR=white][B]GOL TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://200.24.132.99:8000/play/a023
-
-
 
 #EXTINF:-1,[COLOR=white][B]RMC SPORT 1 FR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/logantv/ACXhn9BC5m/161951
