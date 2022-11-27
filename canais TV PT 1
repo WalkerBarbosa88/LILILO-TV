@@ -67,6 +67,8 @@ http://162.212.178.69:41042/bysid/608
 http://161.230.47.149:4343/play/a041
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://161.230.47.149:4343/play/a042
+#EXTINF:0 tvg-id="RTP3.pt" group-title="Channels",[COLOR=white][B]RTP 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://161.230.47.149:4343/play/a046
 #EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
 http://162.212.178.69:41042/bysid/608
 #EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Channels",[COLOR=white][B]RTP MEMÓRIA[/B][/COLOR][COLOR=white][/COLOR]
@@ -109,11 +111,12 @@ https://euronews.alteox.app/hls/pt_stream.m3u8
 http://161.230.47.149:4343/play/a048
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PORTO CANAL HD[/B][/COLOR][COLOR=white][/COLOR]
 http://161.230.47.149:4343/play/a04c
-#EXTINF:0 tvg-id="RTP3.pt" group-title="Channels",[COLOR=white][B]FOX COMEDY FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.47.149:4343/play/a046
+
+
+ ===============  SÉRIES DE TV E CINEMA  ===============
+ 
 #EXTINF:0 tvg-id="FoxComedy.it" group-title="Channels",[COLOR=white][B]FOX COMEDY FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://161.230.47.149:4343/play/a04x
-
 #EXTINF:0 tvg-id="AXNBlack.pt" group-title="Channels",[COLOR=white][B]AXN BLACK HD[/B][/COLOR][COLOR=white][/COLOR]
 http://161.230.47.149:4343/play/a04z
 #EXTINF:0 tvg-id="AXNWhite.es" group-title="Channels",[COLOR=white][B]AXN WHITE HD[/B][/COLOR][COLOR=white][/COLOR]
