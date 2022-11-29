@@ -188,6 +188,10 @@ http://centova.radios.pt:8485/;
 http://centova.radios.pt:9404/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO SOBERANIA FM[/B][/COLOR][COLOR=white][/COLOR]
 https://nl.digitalrm.pt:8034/stream
+#EXTINF:-1,[COLOR=white][B]RÁDIO BOTAREU[/B][/COLOR][COLOR=white][/COLOR]
+https://nl.digitalrm.pt:8238/stream?1669721803464
+#EXTINF:-1,[COLOR=white][B]RÁDIO BOTAREU[/B][/COLOR][COLOR=white][/COLOR]
+https://nl.digitalrm.pt:8238/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO PROVÍNCIA FM[/B][/COLOR][COLOR=white][/COLOR]
 https://nl.digitalrm.pt:8138/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO AV FM[/B][/COLOR][COLOR=white][/COLOR]
