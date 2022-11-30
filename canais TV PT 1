@@ -63,14 +63,24 @@ https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
 http://162.212.178.69:41042/bysid/608
 #EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
 http://162.212.178.69:41042/bysid/608
+#EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+https://bit.ly/rtp3_pt?/index.m3u8
+
 #EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]SIC INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+
+#EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]SIC HD[/B][/COLOR][COLOR=white][/COLOR] 
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_5.m3u8
+#EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]SIC NOTÍCIAS HD[/B][/COLOR][COLOR=white][/COLOR] 
+http://45.92.69.72:8000/play/a0ga
+
 #EXTINF:-1 tvg-id="" tvg-id="tvi.pt" group-title="ᵖᵒʳᵗᵘᵍᵃˡ" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/tvi.png",[COLOR=white][B]TVI SD[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth4.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8
 #EXTINF:-1,[COLOR=white][B]TVI FICÇÃO HD[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]TVI REALITY TV[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Religious",[COLOR=white][B]KURIAKOS TV[/B][/COLOR][COLOR=white][/COLOR]
 http://w1.manasat.com:1935/ktv/ktv/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Religious",[COLOR=white][B]KURIAKOS TV[/B][/COLOR][COLOR=white][/COLOR] 
@@ -81,6 +91,7 @@ http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Movies",[COLOR=white][B]KURIAKOS CINE[/B][/COLOR][COLOR=white][/COLOR]
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+
 #EXTINF:-1,[COLOR=white][B]EURONEWS PT HD[/B][/COLOR][COLOR=white][/COLOR]
 https://euronews.alteox.app/hls/pt_stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",[COLOR=white][B]BABY TV HD[/B][/COLOR][COLOR=white][/COLOR]
