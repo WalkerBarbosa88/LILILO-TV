@@ -36,7 +36,7 @@ https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="NASATV.us" group-title="Science",[COLOR=white][B]NASA TV[/B][/COLOR][COLOR=white][/COLOR] 
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
-
+#EXTM3U
 
 ##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS EXPRESSÃO PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -54,7 +54,7 @@ http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]CANAL MACAU TV[/B][/COLOR][COLOR=white][/COLOR]
 https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
 
-
+#EXTM3U
 ##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS TV PORTUGAL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 
@@ -182,7 +182,7 @@ http://161.230.47.149:4343/play/a055
 #EXTINF:0 tvg-id="wild-hd" group-title="Channels",[COLOR=white][B]NAT GEO WILD HD[/B][/COLOR][COLOR=white][/COLOR]
 http://161.230.47.149:4343/play/a053
 
-
+#EXTM3U
 
 ##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS TV PORTUGAL 2 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -386,6 +386,9 @@ http://185.236.229.13:4000/play/a026
 http://185.236.229.13:4000/play/a01p
 #EXTINF:0 tvg-id="zapvivahd.pt" group-title="PORTUGAL",ZAP Viva HD
 http://185.236.229.13:4000/play/a02j
+
+
+#EXTM3U
 
 ##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS TV PORTUGAL (IPTV ORG)  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
