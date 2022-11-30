@@ -22,6 +22,87 @@ http://0.0.0.0:0000
 #EXTINF:-1,[COLOR=orange][B]LISTA MINI-REVISTA: 29/11/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 
+
+
+####################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS EM TESTE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://00000000000
+
+#EXTM3U
+
+
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",BENFICA TV
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1497
+
+
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",SPORT TV +
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1481
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1483
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",SPORT TV 1 HD PT
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/324.m3u8
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1486
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 HD PT
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/326.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",SPORTV 2 HD PT
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/307.m3u8
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",SPORT TV 3
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1489
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3 HD PT
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/327.m3u8
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4 HD PT
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1783.m3u8
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",SPORT TV 4
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1492
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",SPORT TV 5
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1495
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 6
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281487
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV NBA HD
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2051
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV NBA HD
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296750
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 1
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1499
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 2
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1503
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 3
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1506
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 4
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1509
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 5
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1512
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 6
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1515
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",NOS STUDIOS
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1454
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE ACTION
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1452
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",TVCINE ACTION HD 
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/429.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE EDITION
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/82254
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",TVCINE EDITION HD LEG
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/427.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE EMOTION
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1448
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",TVCINE EMOTION HD LEG
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/428.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE TOP
+http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1446
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",TVCINE TOP HD
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/426.m3u8
+
+
+
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B] /////////  ESPECIAL MUNDIAL 2022  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://00000000000
