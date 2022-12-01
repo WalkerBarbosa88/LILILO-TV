@@ -22,7 +22,7 @@ http://0.0.0.0:0000
      Listas Várias - https://global-satinfo.in/viewforum.php?f=22&sid=14261766f220116fe35abb7ddf0e87e2
      
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTA MINI-REVISTA: 29/11/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA MINI-REVISTA: 01/12/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 
 
@@ -40,8 +40,6 @@ PORTUGAL ESTÁ NO GRUPO H - CANAIS BAND E BAND SPORTS TEM O EXCLUSIVO DO MUNDIAL
 http://162.212.178.69:41042/bysid/608
 #EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP PT INTER. SD[/B][/COLOR][COLOR=white][/COLOR]
 http://162.212.178.69:41042/bysid/608
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",[COLOR=white][B]SPORT TV 1 PT HD[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1483
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 1 PT SD[/B][/COLOR][COLOR=white][/COLOR]
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/324.m3u8
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 1 PT FHD[/B][/COLOR][COLOR=white][/COLOR]
@@ -49,8 +47,6 @@ http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/280
 
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 1 BR SD[/B][/COLOR][COLOR=white][/COLOR]
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5494
-#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5112
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 1 BR FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159607?checkedby:iptvcat.com
 
@@ -270,46 +266,22 @@ http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/159577.ts
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2533/index.m3u8
 #EXTINF:0 tvg-id="ElevenSports3.pt" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/7062/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1506
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://194.44.48.82:8002/play/a035
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.47.149:4344/play/a00w
 
 #EXTINF:0 tvg-id="ElevenSports4.pt" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/7063/index.m3u8
 #EXTINF:0 tvg-id="ElevenSports4.pt" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2534/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1509
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://194.44.48.82:8002/play/a04s
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.47.149:4344/play/a00d
+
 
 #EXTINF:0 tvg-id="ElevenSports5.pt" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2535/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1512
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://194.44.48.82:8002/play/a04t
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://161.230.47.149:4344/play/a00e
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1515
 #EXTINF:0 tvg-id="ElevenSports6.pt" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2536/index.m3u8
 #EXTINF:0 tvg-id="ElevenSports6.pt" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/7064/index.m3u8
-#EXTINF:0 tvg-id="ElevenSports6.pt" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR] 
-http://194.44.48.82:8002/play/a037
-#EXTINF:0 tvg-id="ElevenSports6.pt" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR] 
-http://161.230.47.149:4344/play/a00x
-
 
 
 #EXTM3U
