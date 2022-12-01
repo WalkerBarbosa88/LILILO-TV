@@ -132,11 +132,8 @@ https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireali
 #EXTINF:-1,[COLOR=white][B]TVI REALITY TV[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1423
 
-#EXTINF:-1,[COLOR=white][B]CNN PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
-https://video-auth4.iol.pt/live_cnn/live_cnn/edge_servers/cnn-720p/chunks.m3u8?nimblesessionid=379948290&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMiAxMTo1OjM5IEFNJmhhc2hfdmFsdWU9ZnNhdUZwZ2oweXFQSjhxdmZ0U3B1UT09JnZhbGlkbWludXRlcz0xNDQwJmlkPThlNWExNjAzLWZjZDktNDczMi1iYmI4LTNiMmQwNDcwYWVkNg==
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CNN PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1414
-
 
 #EXTINF:0 tvg-id="CMTV.pt" group-title="Channels",[COLOR=white][B]CMTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1412
@@ -165,8 +162,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1465
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1473
 #EXTINF:0 tvg-id="axn.pt" group-title="Channels",[COLOR=white][B]AXN HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1469
-#EXTINF:0 tvg-id="AXNBlack.pt" group-title="Channels",[COLOR=white][B]AXN BLACK HD[/B][/COLOR][COLOR=white][/COLOR]
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/278653
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]AXN MOVIES HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1471
 #EXTINF:0 tvg-id="AXNWhite.pt" group-title="Channels",[COLOR=white][B]AXN WHITE HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -179,7 +174,7 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1463
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1459
 #EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",[COLOR=white][B]FOX MOVIES HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1457
-#EXTINF:0 tvg-id="hollywood.pt" group-title="Channels",[COLOR=white][B]CANAL HOLLYWOOD HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="hollywood.pt" group-title="Channels",[COLOR=white][B]HOLLYWOOD HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1455
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SYFY PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1475
@@ -190,9 +185,9 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1477
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CANAL 11 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1480
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",[COLOR=white][B]EUROSPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",[COLOR=white][B]EUROSPORT 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23248.m3u8
-#EXTINF:0 tvg-id="esp" group-title="PORTUGAL",[COLOR=white][B]EUROSPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="esp" group-title="PORTUGAL",[COLOR=white][B]EUROSPORT 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/331.m3u8
 #EXTINF:0 tvg-id="Eurosport1.pt" group-title="Channels",[COLOR=white][B]EUROSPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1517
@@ -315,10 +310,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1529
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/483.m3u8
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",[COLOR=white][B]CARTOON NETWORK HD[/B][/COLOR][COLOR=white][/COLOR]
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/479.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",[COLOR=white][B]TVCINE HOLLYWOOD HD[/B][/COLOR][COLOR=white][/COLOR]
-http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/420.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",[COLOR=white][B]TVCINE MUNDO HD[/B][/COLOR][COLOR=white][/COLOR]
-http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/430.m3u8
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",[COLOR=white][B]DISNEY CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/478.m3u8
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",[COLOR=white][B]DISNEY JUNIOR HD[/B][/COLOR][COLOR=white][/COLOR]
