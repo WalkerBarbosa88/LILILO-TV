@@ -34,12 +34,12 @@ https://00000000000
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP 1 PT HD[/B][/COLOR][COLOR=white][/COLOR]
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1404
-#EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]SIC HD[/B][/COLOR][COLOR=white][/COLOR] 
+#EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]SIC PT HD[/B][/COLOR][COLOR=white][/COLOR] 
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_5.m3u8
 
-#EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP PT INTER. SD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP INTER. PT SD[/B][/COLOR][COLOR=white][/COLOR]
 http://162.212.178.69:41042/bysid/608
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 1 PT SD[/B][/COLOR][COLOR=white][/COLOR]
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/324.m3u8
