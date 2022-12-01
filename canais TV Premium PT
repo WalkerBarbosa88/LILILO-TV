@@ -44,12 +44,22 @@ http://162.212.178.69:41042/bysid/608
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/324.m3u8
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 1 PT FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/280
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 1 PT FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://cdn.spmr.tv:8080/d6pvl0/video.m3u8?token=WYPW6GSH4H
 
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 1 BR SD[/B][/COLOR][COLOR=white][/COLOR]
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5494
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 1 BR FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159607?checkedby:iptvcat.com
+#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 1 BR FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://51.79.82.208:16461/
+#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 1 BR FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://w.nasvpn.xyz:8080/live/saya/saya/16570.ts
+#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 1 BR FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://shareext@ssvrv.xyz/live/96790pedr0090/0090pedr96790/179682.ts
 
+#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://51.79.82.208:16462
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 2 BR SD[/B][/COLOR][COLOR=white][/COLOR]
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5495
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -59,6 +69,18 @@ http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159605?checkedby:iptvcat.com
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5496
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 3 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159606?checkedby:iptvcat.com
+
+#EXTINF:-1,[COLOR=white][B]MATH RUSSIA HD[/B][/COLOR][COLOR=white][/COLOR]
+https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]MATH RUSSIA HD[/B][/COLOR][COLOR=white][/COLOR]
+https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]MATH RUSSIA HD[/B][/COLOR][COLOR=white][/COLOR]
+https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]MATH RUSSIA HD[/B][/COLOR][COLOR=white][/COLOR]
+https://bl.uma.media/live/394904/HLS/1_5/1/1/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]MATH RUSSIA HD[/B][/COLOR][COLOR=white][/COLOR]
+http://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8
+
 #EXTINF:0 tvg-id="ITV1London.uk" group-title="Channels",[COLOR=white][B]FOX SPORTS USA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2912.ts
 
@@ -157,6 +179,8 @@ https://000000
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5425
 #EXTINF:-1,[COLOR=white][B]ESPN 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82825
+#EXTINF:-1,[COLOR=white][B]ESPN 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://51.79.82.208:16417
 #EXTINF:-1,[COLOR=white][B]ESPN 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://51.79.82.208:16417
 #EXTINF:-1,[COLOR=white][B]ESPN 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
