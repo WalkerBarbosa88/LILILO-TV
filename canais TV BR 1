@@ -29,6 +29,12 @@ http://clienteworld.com:80/claud123/claud123/82825
 http://clienteworld.com:80/claud123/claud123/82828
 #EXTINF:-1,[COLOR=white][B]ESPN 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82754
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://i.ibb.co/z7jZDbm/band-sports.jpg",[COLOR=white][B]BAND SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://clienteworld.com:80/claud123/claud123/82838
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://i.ibb.co/z7jZDbm/band-sports.jpg",[COLOR=white][B]BAND SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://clienteworld.com:80/claud123/claud123/82839
+#EXTINF:-1 group-title="ESPORTES" tvg-logo="https://i.ibb.co/z7jZDbm/band-sports.jpg",[COLOR=white][B]BAND SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://clienteworld.com:80/claud123/claud123/82836
 #EXTINF:-1,[COLOR=white][B]ALL SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://5cf4a2c2512a2.streamlock.net:1935/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]TNT SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -44,20 +50,31 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 
 ##########################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DISCOVERY & CASA BR  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DISCOVERY & CASAS BR  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTM3U
 
-
-#EXTINF:-1,[COLOR=white][B]DISCOVERY TURBO HD[/B][/COLOR][COLOR=white][/COLOR]
-http://clienteworld.com:80/claud123/claud123/82925
-#EXTINF:-1,[COLOR=white][B]DISCOVERY TURBO HD[/B][/COLOR][COLOR=white][/COLOR]
-http://clienteworld.com:80/claud123/claud123/82922
-#EXTINF:-1,[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
-http://acsb.sh:80/4673629418/snakeplay/71870
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://i.ibb.co/Zhfptr4/disc.png",[COLOR=white][B]DISCOVERY CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
+http://clienteworld.com:80/claud123/claud123/82908
 #EXTINF:-1,[COLOR=white][B]DISCOVERY WORLD HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82931
+#EXTINF:-1,[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
+http://acsb.sh:80/4673629418/snakeplay/71870
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://i.ibb.co/Lx4X8xk/heh.png",[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
+http://clienteworld.com:80/claud123/claud123/82916
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://i.ibb.co/Lx4X8xk/heh.png",[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
+http://clienteworld.com:80/claud123/claud123/82914
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://i.ibb.co/x8DNr5z/dturbo.jpg",[COLOR=white][B]DISCOVERY TURBO HD[/B][/COLOR][COLOR=white][/COLOR]
+http://clienteworld.com:80/claud123/claud123/82923
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://i.ibb.co/x8DNr5z/dturbo.jpg",[COLOR=white][B]DISCOVERY TURBO SD[/B][/COLOR][COLOR=white][/COLOR]
+http://clienteworld.com:80/claud123/claud123/82921
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://i.ibb.co/PrgyQcq/hgtv.jpg",[COLOR=white][B]HGTV FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://clienteworld.com:80/claud123/claud123/88878
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://i.ibb.co/PrgyQcq/hgtv.jpg",[COLOR=white][B]HGTV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://clienteworld.com:80/claud123/claud123/82912
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://i.ibb.co/PrgyQcq/hgtv.jpg",[COLOR=white][B]HGTV SD[/B][/COLOR][COLOR=white][/COLOR]
+http://clienteworld.com:80/claud123/claud123/82910
 
 
 ##########################################################################################################################################
@@ -97,6 +114,21 @@ http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]URBAN TV SÉRIES HD[/B][/COLOR][COLOR=white][/COLOR]
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
+
+
+##########################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS NOTÍCIAS TV BR  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+#EXTM3U
+
+
+#EXTINF:-1 group-title="NOTÍCIAS" tvg-logo="https://i.ibb.co/WnrkL9r/cnn.jpg",[COLOR=white][B]CNN BR FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://clienteworld.com:80/claud123/claud123/98280
+#EXTINF:-1 group-title="NOTÍCIAS" tvg-logo="https://i.ibb.co/WnrkL9r/cnn.jpg",[COLOR=white][B]CNN BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://clienteworld.com:80/claud123/claud123/83090
+#EXTINF:-1 group-title="NOTÍCIAS" tvg-logo="https://i.ibb.co/WnrkL9r/cnn.jpg",[COLOR=white][B]CNN BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://clienteworld.com:80/claud123/claud123/98278
 
 
 ##########################################################################################################################################
