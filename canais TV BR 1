@@ -16,10 +16,13 @@ CANAIS ABERTOS / LIVRES BRASIL - https://raw.githubusercontent.com/rogerioronin/
 #EXTM3U
 
 
-#EXTINF:-1 group-title="GEEK",[COLOR=white][B]BONS TEMPOS TV[/B][/COLOR][COLOR=white][/COLOR]
-https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8?ROGERIOTORRES
-#EXTINF:-1 group-title="GEEK",[COLOR=white][B]RETRO CARTOONS TV[/B][/COLOR][COLOR=white][/COLOR]
-https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8?ROGERIOTORRES
+##########################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DESPORTIVOS BR  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+#EXTM3U
+
+
 #EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82825
 #EXTINF:-1,[COLOR=white][B]ESPN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -38,6 +41,15 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1,[COLOR=white][B]TNT SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
+
+##########################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DISCOVERY & CASA BR  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+#EXTM3U
+
+
 #EXTINF:-1,[COLOR=white][B]DISCOVERY TURBO HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82925
 #EXTINF:-1,[COLOR=white][B]DISCOVERY TURBO HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -46,14 +58,35 @@ http://clienteworld.com:80/claud123/claud123/82922
 http://acsb.sh:80/4673629418/snakeplay/71870
 #EXTINF:-1,[COLOR=white][B]DISCOVERY WORLD HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82931
+
+
+##########################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS MÚSICA BR  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+#EXTM3U
+
+
+#EXTINF:-1,[COLOR=white][B]TRACE URBAN FHD[/B][/COLOR][COLOR=white][/COLOR]
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8 
 #EXTINF:-1,[COLOR=white][B]TRACE URBAN HD[/B][/COLOR][COLOR=white][/COLOR]
 https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
+
 #EXTINF:-1 group-title="CANAIS | MUSICA" tvg-logo="http://logocanais.ddns.net/Logo/Bis1.png",[COLOR=white][B]BIS FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://axr.life:80/096154/686531/5195
 #EXTINF:-1,[COLOR=white][B]K-POP TV PLAY HD[/B][/COLOR][COLOR=white][/COLOR]
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1609920726.m3u8
 #EXTINF:-1,[COLOR=white][B]K-POP TV PLAY HD[/B][/COLOR][COLOR=white][/COLOR]
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
+
+
+
+##########################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS URBAN TV BR  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+#EXTM3U
+
 #EXTINF:-1,[COLOR=white][B]URBAN TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://200.194.238.229:8383/live/urbantv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]URBAN TV KIDS HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -64,6 +97,19 @@ http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]URBAN TV SÉRIES HD[/B][/COLOR][COLOR=white][/COLOR]
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
+
+
+##########################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DIVERSOS TV BR  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+#EXTM3U
+
+
+#EXTINF:-1 group-title="GEEK",[COLOR=white][B]BONS TEMPOS TV[/B][/COLOR][COLOR=white][/COLOR]
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="GEEK",[COLOR=white][B]RETRO CARTOONS TV[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1,[COLOR=white][B]JOVEM PAN NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8?ROGERIOTORRES
 #EXTINF:-1,[COLOR=white][B]SBT INTERIOR HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -76,6 +122,5 @@ http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/6161/index.m3u8
 http://acsb.sh:80/4673629418/snakeplay/72352
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIL1ho006Jea_Lf0E91i8HE9TZjeKXIkmm2Ygqo2p6ZO3JAOwYALJ56UPiax7h1rGOFw&usqp=CAU",[COLOR=white][B]DELUXE LOUNGE[/B][/COLOR][COLOR=white][/COLOR]
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/abb4746a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=GB&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
-#EXTINF:-1,[COLOR=white][B]TRACE URBAN[/B][/COLOR][COLOR=white][/COLOR]
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8 
+
 
