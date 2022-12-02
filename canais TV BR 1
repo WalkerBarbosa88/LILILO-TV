@@ -17,6 +17,71 @@ CANAIS ABERTOS / LIVRES BRASIL - https://raw.githubusercontent.com/rogerioronin/
 
 
 ##########################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS TV BRASIL F4MTESTER  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/espn.png" group-title="Canais | ESPN",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]ESPN FHD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/71912.m3u8
+#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/espn.png" group-title="Canais | ESPN",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/71913.m3u8
+#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/espn.png" group-title="Canais | ESPN",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]ESPN SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/71914.m3u8
+#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/espnextra.png" group-title="Canais | ESPN",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]ESPN EXTRA FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/71916.m3u8
+#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/espnextra.png" group-title="Canais | ESPN",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]ESPN EXTRA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/71917.m3u8
+#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/espnextra.png" group-title="Canais | ESPN",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]ESPN EXTRA SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/71918.m3u8
+
+#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/globo.png" group-title="Canais | Globo",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]GLOBO NACIONAL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/131217.m3u8
+#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/globo.png" group-title="Canais | Globo",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]GLOBO NACIONAL SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/131145.m3u8
+
+#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/globonews.png" group-title="Canais | Notícias",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]GLOBO NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/71999.m3u8
+#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/globo.png" group-title="Canais | Notícias",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]GLOBO NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/131112.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/discoverycivilization.png" group-title="Canais | Documentários",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/72144.m3u8
+#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/discoverycivilization.png" group-title="Canais | Documentários",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]HGTV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/72145.m3u8
+
+#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/discoveryh%26h.png" group-title="Canais | Variedades",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]DISCOVERY H&H HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/71869.m3u8
+#EXTINF:-1 tvg-logo="http://acsa.ws:80/images/54ebbe6b53dab84e158a5bb930339b49.png" group-title="Canais | Variedades",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]DISCOVERY TURBO SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/71886.m3u8
+
+#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/sportv.png" group-title="Canais | SporTV",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]SPORTV 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/72330.m3u8
+#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/sportv.png" group-title="Canais | SporTV",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]SPORTV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/72332.m3u8
+#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/sportv.png" group-title="Canais | SporTV",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]SPORTV 1 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/131132.m3u8
+
+#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/sportv2.png" group-title="Canais | SporTV",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]SPORTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/131176.m3u8
+#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/sportv2.png" group-title="Canais | SporTV",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]SPORTV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/72324.m3u8
+
+#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/bandsports.png" group-title="Canais | Esportes",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]BAND SPORTS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/71802.m3u8
+#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/bandsports.png" group-title="Canais | Esportes",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]BAND SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/71803.m3u8
+#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/bandsports.png" group-title="Canais | Esportes",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]BAND SPORTS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/71804.m3u8
+
+#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/cnn.png" group-title="Canais | Notícias",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]CNN BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/71839.m3u8
+
+
+##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DESPORTIVOS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
