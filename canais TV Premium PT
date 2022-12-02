@@ -22,7 +22,7 @@ http://0.0.0.0:0000
      Listas Várias - https://global-satinfo.in/viewforum.php?f=22&sid=14261766f220116fe35abb7ddf0e87e2
      
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 01/12/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 02/12/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 
 
@@ -139,8 +139,6 @@ http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/326.m
 http://cdn.spmr.tv:8080/5k21z3/video.m3u8?token=JO7OE4V7ZX
 #EXTINF:0 tvg-id="sporttv2.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/159583.ts
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.139.162.107:8080/live/MYpSHtkK6Sintercambio2/HAjc5yZHxz/15579.ts
 
 #EXTINF:0 tvg-id="sporttv3.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/327.m3u8
@@ -229,12 +227,6 @@ http://platin4k.eu:80/logantv/ACXhn9BC5m/161950
 #EXTINF:-1,[COLOR=white][B]ARENA SPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://89.216.39.24/cloud/stream/39021cad0b164971a70967d2744a5c46/30/index.m3u8
 
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 PL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://37.152.128.74:8085/play/a004
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 PL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://37.152.128.74:8085/play/a005
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3 PL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://37.152.128.74:8085/play/a00c
 
 ##################################  BENFICA TV   ###########################################################################
 
