@@ -4,7 +4,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 26/11/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 02/12/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -138,8 +138,6 @@ http://muzzone-stream.daitsuna.net/muzzondvr/muzzone_dvr/chunks_dvr.m3u8
 #EXTINF:-1,[COLOR=white][B]CADENA ELITE ES TV[/B][/COLOR][COLOR=white][/COLOR]
 http://cloudvideo.servers10.com:8080/8004/index.m3u8
 
-#EXTINF:-1,[COLOR=white][B]M6 MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
-http://190.2.155.162:8080/m6music/mpegts
 
 ##########################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA ELECTRÓNICA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -177,6 +175,8 @@ https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 # https://www.youtube.com/channel/UCalCDSmZAYD73tqVZ4l8yJg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gr55mAl.jpg" group-title="",[COLOR=white][B]ASOT TV[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=5lMmnfVylEE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gr55mAl.jpg" group-title="",[COLOR=white][B]TOMORROWLAND RÁDIO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=CIVFy3NKGMU
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8Ak6qR.png" group-title="",[COLOR=white][B]IBIZA GLOBAL TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8Ak6qR.png" group-title="",[COLOR=white][B]IBIZA GLOBAL TV HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -305,9 +305,6 @@ http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/chunklist_w256350
 
 #EXTINF:-1,[COLOR=white][B]BRASA MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
 http://live.salto.nl/hls/sotv1_high.m3u8
-
-#EXTINF:-1,[COLOR=white][B]COUNTRY MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
-https://rebroadcast.mytvtogo.net/mytvtogo/countrymusic4u/chunks.m3u8
 
 
 ######################################################################################
@@ -463,8 +460,6 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]30A TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://30a-tv.com/music.m3u8
-#EXTINF:-1,[COLOR=white][B]BEATS RADIO TV[/B][/COLOR][COLOR=white][/COLOR]
-https://59537faa0729a.streamlock.net/beatsradio/beatsradio/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]BREEZE TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://livestreamdirect-breezetv.mediaworks.nz/breezetv.m3u8
 #EXTINF:-1,[COLOR=white][B]CANAL 38[/B][/COLOR][COLOR=white][/COLOR]
@@ -489,8 +484,7 @@ https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
 https://srv.panelcast.net/urbantv/urbantv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]VOICE OVER TV[/B][/COLOR][COLOR=white][/COLOR]
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
-#EXTINF:-1,[COLOR=white][B]M6 MUSIC[/B][/COLOR][COLOR=white][/COLOR]
-http://190.2.155.162:8080/m6music/mpegts
+
 
 
 #EXTM3U
@@ -601,7 +595,7 @@ https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c
 
 
 ######################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 26/11/2022 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 02/12/2022 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
@@ -612,10 +606,6 @@ https://000000
 https://hls.goodgame.ru/hls/180805.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FACTORIA TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://eu1.servers10.com:8081/8010/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MTV XMAS HD FR[/B][/COLOR][COLOR=white][/COLOR]
-http://190.2.155.162:8080/mtvfrance/mpegts
-#EXTINF:0 tvg-id="MTVHits.fr" group-title="Channels",[COLOR=white][B]MTV HITS HD FR[/B][/COLOR][COLOR=white][/COLOR]
-http://190.2.155.162:8080/mtvhit/mpegts
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MTV BIGGEST POP HD[/B][/COLOR][COLOR=white][/COLOR]
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MTV BLOCK PARTY HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -636,8 +626,6 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PORTAL FOXMIX TV[/B][/COLOR][COLOR=white][/COLOR]
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
-#EXTINF:0 tvg-id="M6MusicHits.fr" group-title="Channels",[COLOR=white][B]M6 MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
-http://190.2.155.162:8080/m6music/mpegts
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MGR TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://vod.streams.ovh:3876/stream/play.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MN MUSIC[/B][/COLOR][COLOR=white][/COLOR]
@@ -668,7 +656,7 @@ http://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
 https://xite-samsung-de.amagi.tv/playlist.m3u8
 
 ######################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 01/12/2022 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 02/12/2022 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
@@ -686,8 +674,6 @@ https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",TECHNO DANCE MUSIC
 https://hls.goodgame.ru/hls/180509.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музыкальные",1HD MUSIC TV
-http://193.233.9.49/streams/media/1_HD/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",V2BEAT
 http://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:0 tvg-id="mb-russia" group-title="Музыкальные",MUSIC BOX RUSSIAN
@@ -724,8 +710,6 @@ http://hz1.teleport.cc/HLS/SD.m3u8
 http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",MUSIC TOP
 http://200.115.193.177/live/msctphd-360/chunklist_w1135351997.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музыкальные",M6 MUSIC 
-http://190.2.155.162:8080/m6music/mpegts
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",AFROBEATS
 https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",MTV Yo!
@@ -734,8 +718,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",MTV BLOCK PARTY
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Музыкальные",MTV HITS FR
-http://190.2.155.162:8080/mtvhit/mpegts
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",ECKO EXPRESS 
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8?
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",SEXY KPOP TV
@@ -758,8 +740,6 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8
 https://st.biztv.uz/hls/m_mid/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",VUEMME TV
 http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
-#EXTINF:0 tvg-id="DSTV.bg" group-title="Музыкальные",DSTV
-http://46.249.95.140:8081/hls/data.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",D5 MUSIC
 http://live.creacast.com/d5music/smil:d5music.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",NOW 80'S
@@ -772,8 +752,6 @@ https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 http://dancehits80.denvs.ru:8080/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",HIT LIST
 http://ttv.bz:80/ez8U3lRNMo/bCQ3iZnJqZ/894
-
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",BARAZA MUSIC HD
 https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",BEST OF DANCE TV
