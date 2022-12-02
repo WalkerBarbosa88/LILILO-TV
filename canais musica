@@ -211,6 +211,9 @@ https://edge.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8?checkedby:iptv
 https://000000
 
 
+
+#EXTINF:-1,[COLOR=white][B]ROCK HD[/B][/COLOR][COLOR=white][/COLOR]
+http://95.169.222.113:8800/udp/239.32.0.21:8888
 #EXTINF:-1,[COLOR=white][B]SLUHAY ROCK HD[/B][/COLOR][COLOR=white][/COLOR]
 https://sluhay.by/live/Ch114pub/index.m3u8
 #EXTINF:-1,[COLOR=white][B]CLASSIC ROCK TV[/B][/COLOR][COLOR=white][/COLOR]
