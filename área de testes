@@ -235,11 +235,11 @@ http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/430.m
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/478.m3u8
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",DISNEY JUNIOR HD PT
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/477.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",EURO SPORTS HD PT
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",EUROSPORT1 HD PT
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23248.m3u8
-#EXTINF:0 tvg-id="esp" group-title="PORTUGAL",EUROSPORT 1
+#EXTINF:0 tvg-id="esp" group-title="PORTUGAL",EUROSPORT 1 HD
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/331.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",EUROSPORT 2 4K PT
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",EUROSPORT 2 
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/332.m3u8
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",NICK JUNIOR HD PT
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/487.m3u8
@@ -249,14 +249,15 @@ http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/486.m
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/324.m3u8
 #EXTINF:0 tvg-id="sporttv2.pt" group-title="PORTUGAL",SPORT TV 2 HD PT
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/326.m3u8
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",SPORTV 2 HD PT
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/307.m3u8
 #EXTINF:0 tvg-id="sporttv3.pt" group-title="PORTUGAL",SPORT TV 3 HD PT
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/327.m3u8
 #EXTINF:0 tvg-id="sporttv4.pt" group-title="PORTUGAL",SPORT TV 4 HD PT
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1783.m3u8
 #EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="PORTUGAL",SPORTING TV HD PT
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/328.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",SPORTV 2 HD PT
-http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/307.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",TVCINE ACTION HD LEG
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/429.m3u8
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",TVCINE EDITION HD LEG
@@ -267,15 +268,17 @@ http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/428.m
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/426.m3u8
 
 
-#EXTINF:-1 group-title="Undefined",24 KITCHEN
-http://cineapp.org:8000/Fernando/Fernando/5065?checkedby:iptvcat.net
+####################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B] /////////  LISTA PT ADICIONADA: 05/12/2022  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://00000000000
+
 #EXTINF:-1 group-title="Undefined" tvg-logo="http://hostengine.live:25461/images/Portugal.png",24 KITCHEN
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58528?checkedby:iptvcat.net
 #EXTINF:-1 group-title="Undefined",24 KITCHEN HD
 http://cineapp.org:8000/Fernando/Fernando/8058?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Undefined",24KITCHEN
+#EXTINF:-1 group-title="Undefined",24 KITCHEN HD
 http://red.ipfox.org:8080/osama2022/osama2023/49303?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Undefined" tvg-logo="http://hostengine.live:25461/images/Portugal.png",A BOLA
+#EXTINF:-1 group-title="Undefined" tvg-logo="http://hostengine.live:25461/images/Portugal.png",A BOLA TV
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58529?checkedby:iptvcat.net
 #EXTINF:-1 group-title="Undefined",A BOLA TV
 http://red.ipfox.org:8080/osama2022/osama2023/49358?checkedby:iptvcat.net
@@ -299,21 +302,21 @@ http://red.ipfox.org:8080/osama2022/osama2023/49334?checkedby:iptvcat.net
 http://red.ipfox.org:8080/osama2022/osama2023/49327?checkedby:iptvcat.net
 #EXTINF:-1 group-title="Undefined",AFRO MUSIC
 http://red.ipfox.org:8080/osama2022/osama2023/49281?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Undefined",Aljazeera
+#EXTINF:-1 group-title="Undefined",ALJAZEERA
 http://red.ipfox.org:8080/osama2022/osama2023/49235?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Undefined",ALMA LUSA Lusa
+#EXTINF:-1 group-title="Undefined",ALMA LUSA 
 http://red.ipfox.org:8080/osama2022/osama2023/49278?checkedby:iptvcat.net
 #EXTINF:-1 group-title="Undefined",AÇORES TV
 http://red.ipfox.org:8080/osama2022/osama2023/49265?checkedby:iptvcat.net
 #EXTINF:-1 group-title="Undefined",BABY
 http://cineapp.org:8000/Fernando/Fernando/4897?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Undefined",BBC Entertainment
+#EXTINF:-1 group-title="Undefined",BBC ENTERTAINMENT
 http://red.ipfox.org:8080/osama2022/osama2023/49241?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Undefined",BBC World News
+#EXTINF:-1 group-title="Undefined",BBC WORLD NEWS
 http://red.ipfox.org:8080/osama2022/osama2023/49242?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Undefined",BENFICA TV
+#EXTINF:-1 group-title="Undefined",BTV HD
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/176361?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Undefined",BENFICA1
+#EXTINF:-1 group-title="Undefined",BTV HD
 http://cineapp.org:8000/Fernando/Fernando/2301?checkedby:iptvcat.net
 #EXTINF:-1 group-title="Undefined",BFM BUSINESS
 http://red.ipfox.org:8080/osama2022/osama2023/49223?checkedby:iptvcat.net
@@ -327,15 +330,15 @@ http://red.ipfox.org:8080/osama2022/osama2023/49362?checkedby:iptvcat.net
 http://red.ipfox.org:8080/osama2022/osama2023/49216?checkedby:iptvcat.net
 #EXTINF:-1 group-title="Undefined",BABY TV
 http://red.ipfox.org:8080/osama2022/osama2023/49291?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png",BENFICA TV
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png",BTV TV
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159587?checkedby:iptvcat.net
 #EXTINF:-1 group-title="Undefined",BIGGS
 http://red.ipfox.org:8080/osama2022/osama2023/49297?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Undefined",Bloomberg
+#EXTINF:-1 group-title="Undefined",BLOOMBERG HD
 http://red.ipfox.org:8080/osama2022/osama2023/49245?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Undefined",BomSom TV
+#EXTINF:-1 group-title="Undefined",BOMSOM TV
 http://red.ipfox.org:8080/osama2022/osama2023/49275?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Undefined",Boomerang
+#EXTINF:-1 group-title="Undefined",BOOMERANG HD
 http://red.ipfox.org:8080/osama2022/osama2023/49292?checkedby:iptvcat.net
 #EXTINF:-1 group-title="Undefined",CANAL 180
 http://red.ipfox.org:8080/osama2022/osama2023/49261?checkedby:iptvcat.net
@@ -343,19 +346,19 @@ http://red.ipfox.org:8080/osama2022/osama2023/49261?checkedby:iptvcat.net
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58538?checkedby:iptvcat.net
 #EXTINF:-1 group-title="Undefined" tvg-logo="http://hostengine.live:25461/images/Portugal.png",CANAL Q
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58539?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Undefined" tvg-logo="http://hostengine.live:25461/images/Portugal.png",CANCAO NOVA
+#EXTINF:-1 group-title="Undefined" tvg-logo="http://hostengine.live:25461/images/Portugal.png",CANÇÃO NOVA
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58540?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Undefined" tvg-logo="http://hostengine.live:25461/images/Portugal.png",CASAVISION
+#EXTINF:-1 group-title="Undefined" tvg-logo="http://hostengine.live:25461/images/Portugal.png",CAÇAVISION
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58543?checkedby:iptvcat.net
 #EXTINF:-1 group-title="Undefined",CCTV4
 http://red.ipfox.org:8080/osama2022/osama2023/49212?checkedby:iptvcat.net
 #EXTINF:-1 group-title="Undefined",CGTN
 http://red.ipfox.org:8080/osama2022/osama2023/49238?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Undefined",CINE MUNDO
+#EXTINF:-1 group-title="Undefined",CINEMUNDO HD
 http://cineapp.org:8000/Fernando/Fernando/3422?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Undefined" tvg-logo="http://hostengine.live:25461/images/Portugal.png",CINE MUNDO
+#EXTINF:-1 group-title="Undefined" tvg-logo="http://hostengine.live:25461/images/Portugal.png",CINEMUNDO
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58544?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Undefined",CM TV
+#EXTINF:-1 group-title="Undefined",CMTV
 http://cineapp.org:8000/Fernando/Fernando/3434?checkedby:iptvcat.net
 #EXTINF:-1 group-title="Undefined",CMTV
 http://red.ipfox.org:8080/osama2022/osama2023/49347?checkedby:iptvcat.net
@@ -367,59 +370,59 @@ http://cineapp.org:8000/Fernando/Fernando/28504?checkedby:iptvcat.net
 http://red.ipfox.org:8080/osama2022/osama2023/49244?checkedby:iptvcat.net
 #EXTINF:-1 group-title="Undefined",CNN
 http://red.ipfox.org:8080/osama2022/osama2023/49246?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Undefined",CNN Portugal
+#EXTINF:-1 group-title="Undefined",CNN PORTUGAL
 http://red.ipfox.org:8080/osama2022/osama2023/49348?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_11_HN_logo_2010.png",Canal 11 HD
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_11_HN_logo_2010.png",CANAL 11 HD
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159589?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Undefined",Canção Nova
+#EXTINF:-1 group-title="Undefined",CANÇÃO NOVA
 http://red.ipfox.org:8080/osama2022/osama2023/49259?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Undefined",Cartoon Network
+#EXTINF:-1 group-title="Undefined",CARTOON NETWORK
 http://red.ipfox.org:8080/osama2022/osama2023/49298?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Undefined",Caça e Pesca
+#EXTINF:-1 group-title="Undefined",CAÇA & PESCA HD
 http://red.ipfox.org:8080/osama2022/osama2023/49263?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Undefined",Caçavision
+#EXTINF:-1 group-title="Undefined",CAÇAVISION 
 http://red.ipfox.org:8080/osama2022/osama2023/49262?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Undefined",Channel 1 Russia
+#EXTINF:-1 group-title="Undefined",CHANNEL 1 RUSSIA
 http://red.ipfox.org:8080/osama2022/osama2023/49232?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Undefined",Cinemundo
+#EXTINF:-1 group-title="Undefined",CINEMUNDO
 http://red.ipfox.org:8080/osama2022/osama2023/49338?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Undefined",Clubbing TV
+#EXTINF:-1 group-title="Undefined",CLUBBING TV
 http://red.ipfox.org:8080/osama2022/osama2023/49282?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Undefined",Cubavision
+#EXTINF:-1 group-title="Undefined",CUBAVISION
 http://red.ipfox.org:8080/osama2022/osama2023/49227?checkedby:iptvcat.net
 #EXTINF:-1 group-title="Undefined",Deutsche Welle (A)
 http://red.ipfox.org:8080/osama2022/osama2023/49218?checkedby:iptvcat.net
 #EXTINF:-1 group-title="Undefined",Deutsche Welle (I)
 http://red.ipfox.org:8080/osama2022/osama2023/49236?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Undefined",Discovery Channel
+#EXTINF:-1 group-title="Undefined",DISCOVERY CHANNEL HD
 http://red.ipfox.org:8080/osama2022/osama2023/49323?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Undefined",Disney Channel
+#EXTINF:-1 group-title="Undefined",DISNEY CHANNEL 
 http://red.ipfox.org:8080/osama2022/osama2023/49299?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Undefined",Disney Junior
+#EXTINF:-1 group-title="Undefined",DISNEY JUNIOR
 http://red.ipfox.org:8080/osama2022/osama2023/49294?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Undefined",Dizi Channel
+#EXTINF:-1 group-title="Undefined",DIZI CHANNEL 
 http://red.ipfox.org:8080/osama2022/osama2023/49325?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Undefined",Dog TV
+#EXTINF:-1 group-title="Undefined",DOG TV
 http://red.ipfox.org:8080/osama2022/osama2023/49256?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Undefined",E! Entertainment
+#EXTINF:-1 group-title="Undefined",E! ENTERTAINMENT
 http://red.ipfox.org:8080/osama2022/osama2023/49305?checkedby:iptvcat.net
 
 
 #EXTINF:-1 group-title="Sport",ELEVEN SPORTS 1
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58550?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Sport",ELEVEN SPORT1
+#EXTINF:-1 group-title="Sport",ELEVEN SPORTS 1
 http://cineapp.org:8000/Fernando/Fernando/7451?checkedby:iptvcat.net
 #EXTINF:-1 group-title="Sport",ELEVEN SPORTS 2
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58551?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Sport",ELEVEN SPORT2
+#EXTINF:-1 group-title="Sport",ELEVEN SPORT 2
 http://cineapp.org:8000/Fernando/Fernando/7452?checkedby:iptvcat.net
 #EXTINF:-1 group-title="Sport",ELEVEN SPORTS 3
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58552?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Sport",ELEVEN SPORT3
+#EXTINF:-1 group-title="Sport",ELEVEN SPORTS 3
 http://cineapp.org:8000/Fernando/Fernando/7453?checkedby:iptvcat.net
 #EXTINF:-1 group-title="Sport",ELEVEN SPORTS 4
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58553?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Sport",ELEVEN SPORT4
+#EXTINF:-1 group-title="Sport",ELEVEN SPORTS 4
 http://cineapp.org:8000/Fernando/Fernando/7454?checkedby:iptvcat.net
 #EXTINF:-1 group-title="Sport",ELEVEN SPORTS 5
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58554?checkedby:iptvcat.net
