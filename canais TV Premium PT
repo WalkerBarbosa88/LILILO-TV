@@ -22,7 +22,7 @@ http://0.0.0.0:0000
      Listas Várias - https://global-satinfo.in/viewforum.php?f=22&sid=14261766f220116fe35abb7ddf0e87e2
      
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 02/12/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 05/12/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 
 
@@ -32,10 +32,6 @@ http://0.0.0.0:0000
 https://00000000000
 
 #EXTM3U
-
-
-#EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]CLASSIFICAÇÃO LIVE HD[/B][/COLOR][COLOR=white][/COLOR]
-https://s3.eu-central-2.wasabisys.com/copa/Tabela%20da%20copa.mp4
 
 
 #EXTINF:-1 tvg-id="rtp1.pt" group-title="General",[COLOR=white][B]RTP 1 PT HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -86,8 +82,55 @@ https://bl.uma.media/live/394904/HLS/1_5/1/1/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]MATH RUSSIA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8
 
-#EXTINF:0 tvg-id="ITV1London.uk" group-title="Channels",[COLOR=white][B]FOX SPORTS USA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2912.ts
+
+####################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS TV PREMIUM PT F4MTESTER  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://00000000000
+
+#EXTM3U
+
+#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169493.m3u8
+#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169494.m3u8
+
+
+
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169589.m3u8
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169590.m3u8
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169591.m3u8
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169592.m3u8
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169593.m3u8
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169594.m3u8
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169595.m3u8
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV  NBA HD[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169596.m3u8
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV  NBA HD[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169597.m3u8
+
+
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169520.m3u8
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169521.m3u8
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169522.m3u8
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169523.m3u8
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169524.m3u8
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169525.m3u8
+
+
+
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B] /////////  OUTROS CANAIS DESPORTO PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -98,18 +141,10 @@ https://00000000000
 
 #EXTINF:-1,[COLOR=white][B]EUROSPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://red.ipfox.org:8080/live/Karam2022/Karam2023/49360.ts
-#EXTINF:-1,[COLOR=white][B]EUROSPORT 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87429.ts
 #EXTINF:-1,[COLOR=white][B]EUROSPORT 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/159590.ts
-#EXTINF:-1,[COLOR=white][B]EUROSPORT 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87430.ts
-#EXTINF:-1,[COLOR=white][B]CANAL 11 HD HD[/B][/COLOR][COLOR=white][/COLOR]
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87394.ts
 #EXTINF:-1,[COLOR=white][B]CANAL 11 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://red.ipfox.org:8080/live/Karam2022/Karam2023/49344.ts
-#EXTINF:-1,[COLOR=white][B]A BOLA TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87393.ts
 #EXTINF:-1,[COLOR=white][B]SPORTING TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://red.ipfox.org:8080/live/Karam2022/Karam2023/49361.ts
 
@@ -133,8 +168,6 @@ http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/324.m
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://cdn.spmr.tv:8080/d6pvl0/video.m3u8?token=JO7OE4V7ZX
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87418.ts
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://superbits.tv:2095/live/jYNTPHGx/ayUbbFPX/68989.ts
 
 #EXTINF:0 tvg-id="sporttv2.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -148,8 +181,6 @@ http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/159583.ts
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/327.m3u8
 #EXTINF:0 tvg-id="sporttv3.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/159584.ts
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87400.ts
 
 #EXTINF:0 tvg-id="sporttv4.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1783.m3u8
@@ -158,13 +189,6 @@ http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/159585.ts
 #EXTINF:0 tvg-id="sporttv4.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://red.ipfox.org:8080/live/Karam2022/Karam2023/49371.ts
 
-#EXTINF:-1,[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87422.ts
-#EXTINF:-1,[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87402.ts
-
-#EXTINF:-1,[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87403.ts
 #EXTINF:-1,[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://superbits.tv:2095/live/jYNTPHGx/ayUbbFPX/249069.ts
 
@@ -228,9 +252,6 @@ http://platin4k.eu:80/logantv/ACXhn9BC5m/161950
 #EXTINF:-1,[COLOR=white][B]RMC SPORT 3 FR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/logantv/ACXhn9BC5m/161950
 
-#EXTINF:-1,[COLOR=white][B]ARENA SPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://89.216.39.24/cloud/stream/39021cad0b164971a70967d2744a5c46/30/index.m3u8
-
 
 ##################################  BENFICA TV   ###########################################################################
 
@@ -246,8 +267,6 @@ https://000000
 http://b7e64053.cbilant.com/iptv/LC8RBR34PMDLY8/19160/index.m3u8
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/159587.ts
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87396.ts
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://5ce.me:80/live/6234388/s4208g69/115019.ts
 
@@ -268,18 +287,11 @@ https://000000
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2531/index.m3u8
 #EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2531/index.m3u8
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87405.ts
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87423.ts
-
 
 #EXTINF:0 tvg-id="elevensports2.pt" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2532/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2532/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/87424.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/159577.ts
 
