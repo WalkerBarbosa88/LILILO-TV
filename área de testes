@@ -7,225 +7,219 @@ http://0.0.0.0:0000
 #EXTM3U
 
 ####################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] /////////  LISTA PT DE: 17/11/2022  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] /////////  LISTA PT REVISTA: 05/12/2022  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://00000000000
 
 
-#EXTINF:0 tvg-id="24Kitchen.pt" group-title="Channels",PT: 24 Kitchen
+#EXTINF:0 tvg-id="24Kitchen.pt" group-title="Channels",24 KITCHEN
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2025
-#EXTINF:0 tvg-id="ABolaTV.pt" group-title="Channels",PT: A Bola TV
+#EXTINF:0 tvg-id="ABolaTV.pt" group-title="Channels",A BOLA TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1420
-#EXTINF:0 tvg-id="blaze.pt" group-title="Channels",PT: A&E
+#EXTINF:0 tvg-id="blaze.pt" group-title="Channels",A&E
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/279741
-#EXTINF:0 tvg-id="AfroMusic.pt" group-title="Channels",PT: Afro Music Channel
+#EXTINF:0 tvg-id="AfroMusic.pt" group-title="Channels",AFRO MUSIC CHANNEL 
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1536
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Alma Lusa
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALMA LUSA
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/264642
-#EXTINF:0 tvg-id="AMC.pt" group-title="Channels",PT: AMC
+#EXTINF:0 tvg-id="AMC.pt" group-title="Channels",AMC
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1473
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: AR TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/9629
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Automotor Sport Channel
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/16430
-#EXTINF:0 tvg-id="axn.pt" group-title="Channels",PT: AXN
+
+#EXTINF:0 tvg-id="axn.pt" group-title="Channels",AXN
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1469
-#EXTINF:0 tvg-id="AXNBlack.pt" group-title="Channels",PT: AXN Black
+#EXTINF:0 tvg-id="AXNBlack.pt" group-title="Channels",AXN BLACK 
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/278653
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: AXN Movies
+#EXTINF:0 tvg-id="ext" group-title="Channels",AXN MOVIES
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1471
-#EXTINF:0 tvg-id="AXNWhite.pt" group-title="Channels",PT: AXN White
+#EXTINF:0 tvg-id="AXNWhite.pt" group-title="Channels",AXN WHITE
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1467
-#EXTINF:0 tvg-id="BabyTV.pt" group-title="Channels",PT: Baby TV
+#EXTINF:0 tvg-id="BabyTV.pt" group-title="Channels",BABY TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1441
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",PT: Benfica TV
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",BTV HD
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1497
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Big Brother
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVI REALITY
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296831
-#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Channels",PT: Biggs
+#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Channels",BIGGS
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1439
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Blaze
+#EXTINF:0 tvg-id="ext" group-title="Channels",BLAZE
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/3996
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Bloomberg
+#EXTINF:0 tvg-id="ext" group-title="Channels",BLOOMBERG
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/5933
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Boomerang
+#EXTINF:0 tvg-id="ext" group-title="Channels",BOOMERANG
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/24529
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Canal 11
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 11
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1480
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CANAL 180
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 180
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/146057
-#EXTINF:0 tvg-id="hollywood.pt" group-title="Channels",PT: Canal Hollywood
+#EXTINF:0 tvg-id="hollywood.pt" group-title="Channels",CANAL HOLLYWOOD HD
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1455
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Canal Macau
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL MACAU SD
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/197872
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Canal Nos
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL NOS
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/278550
-#EXTINF:0 tvg-id="canalpanda.pt" group-title="Channels",PT: Canal Panda
+#EXTINF:0 tvg-id="canalpanda.pt" group-title="Channels",CANAL PANDA 
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1438
-#EXTINF:0 tvg-id="CanalQ.pt" group-title="Channels",PT: Canal Q
+#EXTINF:0 tvg-id="CanalQ.pt" group-title="Channels",CANAL Q
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1430
-#EXTINF:0 tvg-id="CANCAONOVA.pt" group-title="Channels",PT: Canção Nova
+#EXTINF:0 tvg-id="CANCAONOVA.pt" group-title="Channels",CANÇÃO NOVA
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/290766
-#EXTINF:0 tvg-id="cartoon.pt" group-title="Channels",PT: Cartoon Network
+#EXTINF:0 tvg-id="cartoon.pt" group-title="Channels",CARTOON NETWORK 
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1440
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Casa e Cozinha
+#EXTINF:0 tvg-id="ext" group-title="Channels",CASA & COZINHA 
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/6097
-#EXTINF:0 tvg-id="CacaVision.pt" group-title="Channels",PT: Caçavision
+#EXTINF:0 tvg-id="CacaVision.pt" group-title="Channels",CAÇAVISION 
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/13956
-#EXTINF:0 tvg-id="CBSReality.pt" group-title="Channels",PT: CBS Reality
+#EXTINF:0 tvg-id="CBSReality.pt" group-title="Channels",CBS REALITY
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1528
-#EXTINF:0 tvg-id="Cinemundo.pt" group-title="Channels",PT: Cine Mundo
+#EXTINF:0 tvg-id="Cinemundo.pt" group-title="Channels",CINEMUNDO
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1477
-#EXTINF:0 tvg-id="CMTV.pt" group-title="Channels",PT: CM TV
+#EXTINF:0 tvg-id="CMTV.pt" group-title="Channels",CMTV HD
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1412
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CNN Portugal
+#EXTINF:0 tvg-id="ext" group-title="Channels",CNN PORTUGAL
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1414
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Crime+ Investigation
+#EXTINF:0 tvg-id="ext" group-title="Channels",CRIME+ INVESTIGATION
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/5928
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Discovery World
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY WORLD
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296226
-#EXTINF:0 tvg-id="disneychannel.pt" group-title="Channels",PT: Disney Channel
+#EXTINF:0 tvg-id="disneychannel.pt" group-title="Channels",DISNEY CHANNEL 
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1434
-#EXTINF:0 tvg-id="DisneyJunior.pt" group-title="Channels",PT: Disney Junior
+#EXTINF:0 tvg-id="DisneyJunior.pt" group-title="Channels",DISNEY JUNIOR 
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1435
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Disney+
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISNEY+
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/226084
-#EXTINF:0 tvg-id="eentertainment.pt" group-title="Channels",PT: E!
+#EXTINF:0 tvg-id="eentertainment.pt" group-title="Channels",E!
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1526
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 1
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 1
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1499
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 2
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 2
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1503
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 3
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 3
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1506
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 4
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 4
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1509
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 5
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 5
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1512
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 6
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 6
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1515
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: euronews
+#EXTINF:0 tvg-id="ext" group-title="Channels",EURONEWS
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/4007
-#EXTINF:0 tvg-id="Eurosport1.pt" group-title="Channels",PT: EUROSPORT 1
+#EXTINF:0 tvg-id="Eurosport1.pt" group-title="Channels",EUROSPORT 1
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1517
-#EXTINF:0 tvg-id="Eurosport2.pt" group-title="Channels",PT: EUROSPORT 2
+#EXTINF:0 tvg-id="Eurosport2.pt" group-title="Channels",EUROSPORT 2
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1518
-#EXTINF:0 tvg-id="FoodNetwork.pt" group-title="Channels",PT: Food Network
+#EXTINF:0 tvg-id="FoodNetwork.pt" group-title="Channels",FOOD NETWORK 
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2044
-#EXTINF:0 tvg-id="fox.pt" group-title="Channels",PT: FOX
+#EXTINF:0 tvg-id="fox.pt" group-title="Channels",FOX
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1461
-#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",PT: Fox Comedy
+#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",FOX COMEDY HD
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1465
-#EXTINF:0 tvg-id="foxcrime.pt" group-title="Channels",PT: Fox Crime
+#EXTINF:0 tvg-id="foxcrime.pt" group-title="Channels",FOX CRIME
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1463
-#EXTINF:0 tvg-id="foxlife.pt" group-title="Channels",PT: Fox Life
+#EXTINF:0 tvg-id="foxlife.pt" group-title="Channels",FOX LIFE
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1459
-#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",PT: FOX Movies
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",FOX MOVIES
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1457
-#EXTINF:0 tvg-id="FuelTV.pt" group-title="Channels",PT: Fuel TV
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="Channels",FUEL TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1521
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: HBO Portugal
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO PORTUGAL
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/201073
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: History
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL HISTÓRIA
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1525
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Investigation Discovery
+#EXTINF:0 tvg-id="ext" group-title="Channels",INVESTIGATION DISCOVERY 
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/5914
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Kuriakos Kids
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/10828
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Kuriakos TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/9697
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: MEO Videoclube
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/265255
-#EXTINF:0 tvg-id="Motorvision.pt" group-title="Channels",PT: Motorvision TV
+
+#EXTINF:0 tvg-id="Motorvision.pt" group-title="Channels",MOTORVISION TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/4012
-#EXTINF:0 tvg-id="mtvportugal.pt" group-title="Channels",PT: MTV Portugal
+#EXTINF:0 tvg-id="mtvportugal.pt" group-title="Channels",MTV PORTUGAL 
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1534
-#EXTINF:0 tvg-id="nationalgeographic.pt" group-title="Channels",PT: NAT GEO
+#EXTINF:0 tvg-id="nationalgeographic.pt" group-title="Channels",NAT GEO
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1530
-#EXTINF:0 tvg-id="NatGeoWild.pt" group-title="Channels",PT: NAT GEO Wild
+#EXTINF:0 tvg-id="NatGeoWild.pt" group-title="Channels",NAT GEO WILD 
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1531
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: NBA TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV NBA HD
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296750
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Nick Junior
+#EXTINF:0 tvg-id="ext" group-title="Channels",NICK JUNIOR 
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/9693
-#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Channels",PT: nickelodeon
+#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Channels",NICKELODEON
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1436
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Nos Studios
+#EXTINF:0 tvg-id="ext" group-title="Channels",NOS STUDIOS 
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1454
-#EXTINF:0 tvg-id="odisseia.pt" group-title="Channels",PT: Odisseia
+#EXTINF:0 tvg-id="odisseia.pt" group-title="Channels",ODISSEIA HD
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1532
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: PANDA Kids
+#EXTINF:0 tvg-id="ext" group-title="Channels",PANDA KIDS
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/290678
-#EXTINF:0 tvg-id="PortoCanal.pt" group-title="Channels",PT: Porto Canal
+#EXTINF:0 tvg-id="PortoCanal.pt" group-title="Channels",PORTO CANAL 
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1419
-#EXTINF:0 tvg-id="rtp1.pt" group-title="Channels",PT: RTP 1
+#EXTINF:0 tvg-id="rtp1.pt" group-title="Channels",RTP 1
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1404
-#EXTINF:0 tvg-id="rtp2.pt" group-title="Channels",PT: RTP 2
+#EXTINF:0 tvg-id="rtp2.pt" group-title="Channels",RTP 2
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1406
-#EXTINF:0 tvg-id="RTP3.pt" group-title="Channels",PT: RTP 3
+#EXTINF:0 tvg-id="RTP3.pt" group-title="Channels",RTP 3
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1418
-#EXTINF:0 tvg-id="RTPAcores.pt" group-title="Channels",PT: RTP Açores
+#EXTINF:0 tvg-id="RTPAcores.pt" group-title="Channels",RTP AÇORES
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2055
-#EXTINF:0 tvg-id="RTPMadeira.pt" group-title="Channels",PT: RTP Madeira
+#EXTINF:0 tvg-id="RTPMadeira.pt" group-title="Channels",RTP MADEIRA
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/278558
-#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Channels",PT: RTP Memória
+#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Channels",RTP MEMÓRIA
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1425
-#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Channels",PT: RTP África
+#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Channels",RTP ÁFRICA
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1424
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SAUDE+
+#EXTINF:0 tvg-id="ext" group-title="Channels",SAUDE+
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/81973
-#EXTINF:0 tvg-id="sic.pt" group-title="Channels",PT: SIC
+#EXTINF:0 tvg-id="sic.pt" group-title="Channels",SIC
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1408
-#EXTINF:0 tvg-id="SicCaras.pt" group-title="Channels",PT: SIC Caras
+#EXTINF:0 tvg-id="SicCaras.pt" group-title="Channels",SIC CARAS
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/5910
-#EXTINF:0 tvg-id="SicK.pt" group-title="Channels",PT: SIC K
+#EXTINF:0 tvg-id="SicK.pt" group-title="Channels",SIC K
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/4021
-#EXTINF:0 tvg-id="sicmulher.pt" group-title="Channels",PT: SIC Mulher
+#EXTINF:0 tvg-id="sicmulher.pt" group-title="Channels",SIC MULHER
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1427
-#EXTINF:0 tvg-id="sicnoticias.pt" group-title="Channels",PT: SIC Noticias
+#EXTINF:0 tvg-id="sicnoticias.pt" group-title="Channels",SIC NOTÍCIAS
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1416
-#EXTINF:0 tvg-id="sicradical.pt" group-title="Channels",PT: SIC Radical
+#EXTINF:0 tvg-id="sicradical.pt" group-title="Channels",SIC RADICAL
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1429
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",PT: SPORT TV +
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",SPORT TV+
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1481
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1483
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1486
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",SPORT TV 3
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1489
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",SPORT TV 4
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1492
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT: SPORT TV 5
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",SPORT TV 5
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1495
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 6
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 6
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281487
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV NBA
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV NBA
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2051
-#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",PT: Sporting TV
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",SPORTING TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1519
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SYFY Portugal
+#EXTINF:0 tvg-id="ext" group-title="Channels",SYFY PORTUGAL
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1475
-#EXTINF:0 tvg-id="TLC.pt" group-title="Channels",PT: TLC
+#EXTINF:0 tvg-id="TLC.pt" group-title="Channels",TLC
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1479
-#EXTINF:0 tvg-id="TravelChannel.pt" group-title="Channels",PT: Travel Channel
+#EXTINF:0 tvg-id="TravelChannel.pt" group-title="Channels",TRAVEL CHANNEL 
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1529
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCine Action
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE ACTION
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1452
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCine Edition
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE EDITION
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/82254
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCine Emotion
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE EMOTION 
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1448
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCine Top
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE TOP
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1446
-#EXTINF:0 tvg-id="TVI.pt" group-title="Channels",PT: TVI
+#EXTINF:0 tvg-id="TVI.pt" group-title="Channels",TVI
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1410
-#EXTINF:0 tvg-id="TVIFiccao.pt" group-title="Channels",PT: TVI Ficção
+#EXTINF:0 tvg-id="TVIFiccao.pt" group-title="Channels",TVI FICÇÃO HD
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1421
-#EXTINF:0 tvg-id="TVIReal.pt" group-title="Channels",PT: TVI Reality
+#EXTINF:0 tvg-id="TVIReal.pt" group-title="Channels",TVI REALITY
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1423
 
 ####################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] /////////  LISTA PT DE: 20/11/2022  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] /////////  LISTA PT REVISTA: 05/12/2022  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://00000000000
 
 
@@ -271,210 +265,5 @@ http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/427.m
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/428.m3u8
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",TVCINE TOP HD LEG
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/426.m3u8
-#EXTINF:0 tvg-id="24Kitchen.pt" group-title="PORTUGAL",24 Kitchen HD
-http://185.236.229.13:4000/play/a01n
-#EXTINF:0 tvg-id="mgm-int" group-title="PORTUGAL",AMC
-http://185.236.229.13:4000/play/a02g
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",AMC Break
-http://185.236.229.13:4000/play/a02q
-#EXTINF:0 tvg-id="AMC.uk" group-title="PORTUGAL",AMC HD
-http://185.236.229.13:4000/play/a02f
-#EXTINF:0 tvg-id="ARTV.pt" group-title="PORTUGAL",ARTV
-http://185.236.229.13:4000/play/a00g
-#EXTINF:0 tvg-id="AXN.it" group-title="PORTUGAL",AXN HD
-http://185.236.229.13:4000/play/a00q
-#EXTINF:0 tvg-id="AXNMovies.pt" group-title="PORTUGAL",AXN Movies HD
-http://185.236.229.13:4000/play/a01m
-#EXTINF:0 tvg-id="AXNWhite.es" group-title="PORTUGAL",AXN White HD
-http://185.236.229.13:4000/play/a01q
-#EXTINF:0 tvg-id="baby-tv" group-title="PORTUGAL",Baby TV
-http://185.236.229.13:4000/play/a00c
-#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="PORTUGAL",Biggs
-http://185.236.229.13:4000/play/a02v
-#EXTINF:0 tvg-id="bloomberg" group-title="PORTUGAL",Bloomberg
-http://185.236.229.13:4000/play/a01b
-#EXTINF:0 tvg-id="CMTV.pt" group-title="PORTUGAL",CMTV
-http://185.236.229.13:4000/play/a008
-#EXTINF:0 tvg-id="cnbc" group-title="PORTUGAL",CNBC
-http://185.236.229.13:4000/play/a01c
-#EXTINF:0 tvg-id="cnn" group-title="PORTUGAL",CNN
-http://185.236.229.13:4000/play/a02x
-#EXTINF:0 tvg-id="TVI24.pt" group-title="PORTUGAL",CNN Portugal
-http://185.236.229.13:4000/play/a007
-#EXTINF:0 tvg-id="Canal11.pt" group-title="PORTUGAL",Canal 11 HD
-http://185.236.229.13:4000/play/a02i
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",Canal Histðria
-http://185.236.229.13:4000/play/a00d
-#EXTINF:0 tvg-id="canalpanda.pt" group-title="PORTUGAL",Canal Panda
-http://185.236.229.13:4000/play/a01g
-#EXTINF:0 tvg-id="CanalQ.pt" group-title="PORTUGAL",Canal Q
-http://185.236.229.13:4000/play/a013
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",CanĿªo Nova
-http://185.236.229.13:4000/play/a019
-#EXTINF:0 tvg-id="cartoon" group-title="PORTUGAL",Cartoon Network
-http://185.236.229.13:4000/play/a012
-#EXTINF:0 tvg-id="CasaCozinha.pt" group-title="PORTUGAL",Casa e Cozinha HD
-http://185.236.229.13:4000/play/a020
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",CaĿa e Pesca
-http://185.236.229.13:4000/play/a029
-#EXTINF:0 tvg-id="discov_rus" group-title="PORTUGAL",Discovery Channel
-http://185.236.229.13:4000/play/a024
-#EXTINF:0 tvg-id="discov_rus-hd" group-title="PORTUGAL",Discovery HD
-http://185.236.229.13:4000/play/a02b
-#EXTINF:0 tvg-id="disney" group-title="PORTUGAL",Disney Channel
-http://185.236.229.13:4000/play/a02c
-#EXTINF:0 tvg-id="DisneyJr.blt" group-title="PORTUGAL",Disney Junior
-http://185.236.229.13:4000/play/a033
-#EXTINF:0 tvg-id="E.blt" group-title="PORTUGAL",E! Entertainment
-http://185.236.229.13:4000/play/a016
-#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="PORTUGAL",Eleven Sports 1
-http://185.236.229.13:4000/play/a01w
-#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="PORTUGAL",Eleven Sports 2
-http://185.236.229.13:4000/play/a00s
-#EXTINF:0 tvg-id="elevensports4.pt" group-title="PORTUGAL",Eleven Sports 4
-http://185.236.229.13:4000/play/a01x
-#EXTINF:0 tvg-id="elevensports5.pt" group-title="PORTUGAL",Eleven Sports 5
-http://185.236.229.13:4000/play/a01y
-#EXTINF:0 tvg-id="elevensports6.pt" group-title="PORTUGAL",Eleven Sports 6
-http://185.236.229.13:4000/play/a00v
-#EXTINF:0 tvg-id="euro" group-title="PORTUGAL",Euronews
-http://185.236.229.13:4000/play/a02z
-#EXTINF:0 tvg-id="esp" group-title="PORTUGAL",Eurosport 1
-http://185.236.229.13:4000/play/a01l
-#EXTINF:0 tvg-id="esp-hd" group-title="PORTUGAL",Eurosport 1 HD
-http://185.236.229.13:4000/play/a01r
-#EXTINF:0 tvg-id="esp2" group-title="PORTUGAL",Eurosport 2
-http://185.236.229.13:4000/play/a011
-#EXTINF:0 tvg-id="FoxComedy.it" group-title="PORTUGAL",FOX Comedy
-http://185.236.229.13:4000/play/a00u
-#EXTINF:0 tvg-id="fox-crime" group-title="PORTUGAL",FOX Crime HD
-http://185.236.229.13:4000/play/a01o
-#EXTINF:0 tvg-id="fox-hd" group-title="PORTUGAL",FOX HD
-http://185.236.229.13:4000/play/a00r
-#EXTINF:0 tvg-id="fox-life-hd" group-title="PORTUGAL",FOX Life HD
-http://185.236.229.13:4000/play/a01s
-#EXTINF:0 tvg-id="FoxMovies.pt" group-title="PORTUGAL",FOX Movies
-http://185.236.229.13:4000/play/a02p
-#EXTINF:0 tvg-id="fashion" group-title="PORTUGAL",FTV
-http://185.236.229.13:4000/play/a017
-#EXTINF:0 tvg-id="FuelTV.pt" group-title="PORTUGAL",Fuel TV
-http://185.236.229.13:4000/play/a028
-#EXTINF:0 tvg-id="Globosp.br" group-title="PORTUGAL",Globo
-http://185.236.229.13:4000/play/a009
-#EXTINF:0 tvg-id="GloboNow.pt" group-title="PORTUGAL",Globo Now
-http://185.236.229.13:4000/play/a02d
-#EXTINF:0 tvg-id="hollywood" group-title="PORTUGAL",Hollywood
-http://185.236.229.13:4000/play/a00z
-#EXTINF:0 tvg-id="Hot.pt" group-title="PORTUGAL",Hot
-http://185.236.229.13:4000/play/a032
-#EXTINF:0 tvg-id="id-extra" group-title="PORTUGAL",ID Investigation Discovery
-http://185.236.229.13:4000/play/a01t
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",Kuriakos TV HD
-http://185.236.229.13:4000/play/a036
-#EXTINF:0 tvg-id="MCMPop.pt" group-title="PORTUGAL",MCM Pop
-http://185.236.229.13:4000/play/a018
-#EXTINF:0 tvg-id="vh1-europe" group-title="PORTUGAL",MTV 00s
-http://185.236.229.13:4000/play/a02s
-#EXTINF:0 tvg-id="mtvportugal.pt" group-title="PORTUGAL",MTV Portugal
-http://185.236.229.13:4000/play/a00f
-#EXTINF:0 tvg-id="mezzo" group-title="PORTUGAL",Mezzo
-http://185.236.229.13:4000/play/a02t
-#EXTINF:0 tvg-id="MotorvisionChannel.gr" group-title="PORTUGAL",Motorvision
-http://185.236.229.13:4000/play/a02h
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",NOS Studios HD
-http://185.236.229.13:4000/play/a02k
-#EXTINF:0 tvg-id="natgeo_hd" group-title="PORTUGAL",National Geographic HD
-http://185.236.229.13:4000/play/a00p
-#EXTINF:0 tvg-id="natgeowild" group-title="PORTUGAL",National Geographic WILD
-http://185.236.229.13:4000/play/a01v
-#EXTINF:0 tvg-id="nick-jr" group-title="PORTUGAL",Nick Jr.
-http://185.236.229.13:4000/play/a02a
-#EXTINF:0 tvg-id="nickelodeon-rus" group-title="PORTUGAL",Nickelodeon
-http://185.236.229.13:4000/play/a027
-#EXTINF:0 tvg-id="odisseia.pt" group-title="PORTUGAL",Odisseia
-http://185.236.229.13:4000/play/a010
-#EXTINF:0 tvg-id="playboy" group-title="PORTUGAL",Playboy TV
-http://185.236.229.13:4000/play/a01e
-#EXTINF:0 tvg-id="PortoCanal.pt" group-title="PORTUGAL",Porto Canal
-http://185.236.229.13:4000/play/a00a
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",RTP .frica
-http://185.236.229.13:4000/play/a00h
-#EXTINF:0 tvg-id="rtp1.pt" group-title="PORTUGAL",RTP 1 HD
-http://185.236.229.13:4000/play/a002
-#EXTINF:0 tvg-id="rtp2.pt" group-title="PORTUGAL",RTP 2 HD
-http://185.236.229.13:4000/play/a003
-#EXTINF:0 tvg-id="RTP3.pt" group-title="PORTUGAL",RTP 3
-http://185.236.229.13:4000/play/a006
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",RTP AĿores
-http://185.236.229.13:4000/play/a00i
-#EXTINF:0 tvg-id="RTPMadeira.pt" group-title="PORTUGAL",RTP Madeira
-http://185.236.229.13:4000/play/a00j
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",RTP Memðria
-http://185.236.229.13:4000/play/a00e
-#EXTINF:0 tvg-id="SicCaras.pt" group-title="PORTUGAL",SIC Caras
-http://185.236.229.13:4000/play/a015
-#EXTINF:0 tvg-id="sic.pt" group-title="PORTUGAL",SIC HD
-http://185.236.229.13:4000/play/a004
-#EXTINF:0 tvg-id="SicK.pt" group-title="PORTUGAL",SIC K
-http://185.236.229.13:4000/play/a00b
-#EXTINF:0 tvg-id="sicmulher.pt" group-title="PORTUGAL",SIC Mulher
-http://185.236.229.13:4000/play/a02n
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",SIC NotŦcias
-http://185.236.229.13:4000/play/a01f
-#EXTINF:0 tvg-id="sicradical.pt" group-title="PORTUGAL",SIC Radical
-http://185.236.229.13:4000/play/a014
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",SPORT TV+
-http://185.236.229.13:4000/play/a02r
-#EXTINF:0 tvg-id="SCIFI.uk" group-title="PORTUGAL",SYFY
-http://185.236.229.13:4000/play/a035
-#EXTINF:0 tvg-id="Skynews.gr" group-title="PORTUGAL",Sky News
-http://185.236.229.13:4000/play/a02y
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",Sport TV 1 HD
-http://185.236.229.13:4000/play/a040
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="PORTUGAL",Sport TV 2 HD
-http://185.236.229.13:4000/play/a00n
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="PORTUGAL",Sport TV 3 HD
-http://185.236.229.13:4000/play/a00o
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="PORTUGAL",Sport TV 4 HD
-http://185.236.229.13:4000/play/a00y
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="PORTUGAL",Sport TV 5 HD
-http://185.236.229.13:4000/play/a01i
-#EXTINF:0 tvg-id="SportTV6.pt" group-title="PORTUGAL",Sport TV 6 HD
-http://185.236.229.13:4000/play/a01j
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",Sport TV NBA
-http://185.236.229.13:4000/play/a01u
-#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="PORTUGAL",Sporting TV
-http://185.236.229.13:4000/play/a034
-#EXTINF:0 tvg-id="tlc-russia" group-title="PORTUGAL",TLC
-http://185.236.229.13:4000/play/a02o
-#EXTINF:0 tvg-id="TVRecord.es" group-title="PORTUGAL",TV Record
-http://185.236.229.13:4000/play/a00k
-#EXTINF:0 tvg-id="tv5monde" group-title="PORTUGAL",TV5 Monde
-http://185.236.229.13:4000/play/a037
-#EXTINF:0 tvg-id="TVCineACTION.pt" group-title="PORTUGAL",TVCine ACTION HD
-http://185.236.229.13:4000/play/a025
-#EXTINF:0 tvg-id="TVCineEDITION.pt" group-title="PORTUGAL",TVCine EDITION HD
-http://185.236.229.13:4000/play/a021
-#EXTINF:0 tvg-id="TVCineEMOTION.pt" group-title="PORTUGAL",TVCine EMOTION HD
-http://185.236.229.13:4000/play/a01z
-#EXTINF:0 tvg-id="TVCineTOP.pt" group-title="PORTUGAL",TVCine TOP HD
-http://185.236.229.13:4000/play/a02e
-#EXTINF:0 tvg-id="24Horas.sp" group-title="PORTUGAL",TVE 24h
-http://185.236.229.13:4000/play/a02w
-#EXTINF:0 tvg-id="TVE24h.pt" group-title="PORTUGAL",TVE Internacional
-http://185.236.229.13:4000/play/a02u
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",TVI FicĿªo
-http://185.236.229.13:4000/play/a01h
-#EXTINF:0 tvg-id="TVI.pt" group-title="PORTUGAL",TVI HD
-http://185.236.229.13:4000/play/a005
-#EXTINF:0 tvg-id="TVIReal.pt" group-title="PORTUGAL",TVI Reality
-http://185.236.229.13:4000/play/a02m
-#EXTINF:0 tvg-id="TraceToca.fr" group-title="PORTUGAL",Trace Toca
-http://185.236.229.13:4000/play/a026
-#EXTINF:0 tvg-id="travel-hd" group-title="PORTUGAL",Travel Channel HD
-http://185.236.229.13:4000/play/a01p
-#EXTINF:0 tvg-id="zapvivahd.pt" group-title="PORTUGAL",ZAP Viva HD
-http://185.236.229.13:4000/play/a02j
-
 
 
