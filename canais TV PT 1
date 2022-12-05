@@ -327,40 +327,40 @@ http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/328.m
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: RTP 1
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: RTP 1 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169463.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: RTP 1 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169464.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: RTP 2
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: RTP 2 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169465.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: RTP 2 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169466.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: RTP 3
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: RTP 3 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169467.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: RTP 3 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169468.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: RTP ACORES
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: RTP AÇORES
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169469.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: RTP AFRICA
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: RTP ÁFRICA
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169470.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: RTP INTERNATIONAL
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169471.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: RTP MADEIRA
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169472.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: RTP MEMORIA
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: RTP MEMÓRIA
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169473.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: SANTUARIO FATIMA
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: SANTUÁRIO DE FÁTIMA
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169575.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: SIC
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: SIC HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169576.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT:  SIC 4K
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT:  SIC HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169475.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: SIC CARAS
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: SIC CARAS HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169577.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: SIC CARAS HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169578.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: SIC K
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: SIC HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169579.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: SIC K HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169580.m3u8
@@ -368,30 +368,30 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=2
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169581.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: SIC MULHER HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169582.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: SIC NOTICIAS
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: SIC NOTÍCIAS
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169583.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: SIC NOTICIAS HD
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: SIC NOTÍCIAS HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169584.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: SIC RADICAL
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169585.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: SIC RADICAL HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169586.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT:  TVI 4K
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: TVI HD 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169476.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: TVI
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: TVI HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169621.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: TVI FICCAO
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: TVI FICÇÃO
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169622.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: TVI FICÇAO HD
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: TVI FICÇÃO HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169623.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: TVI REALITY 24
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169624.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: TVI REALITY MOSAICO
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169625.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: CNN PT
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: CNN PORTUGAL
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169511.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: CNN PT HD
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: CNN PORTUGAL HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169512.m3u8
 
 
@@ -413,7 +413,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=2
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169480.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: A BOLA TV HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169481.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: AFRO TV
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: AFRO MUSIC CHANNEL 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169482.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: AMC
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169483.m3u8
@@ -435,9 +435,9 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=2
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169491.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: BABY TV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169492.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: BENFICA TV 1
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: BTV HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169493.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: BENFICA TV 1 HD
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: BTV HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169494.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: BLAZE
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169495.m3u8
@@ -445,17 +445,17 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=2
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169496.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: BOOMERANG
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169497.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: CACA E PESCA
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: CAÇA & PESCA
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169498.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: CACAVISION
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: CAÇAVISION
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169499.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: CANAL HISTORIA
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: CANAL HISTÓRIA
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169500.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: CANAL PANDA
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169501.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: CANAL Q
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169502.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: CANCAO NOVA
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: CANÇÃO NOVA
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169503.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: CARTOON NETWORK
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169504.m3u8
@@ -471,7 +471,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=2
 
 #EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: CRIME INVESTIGATION
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169513.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: DISCOVERY CHANNEL HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169514.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: DISCOVERY CHANNEL HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169515.m3u8
@@ -497,12 +497,13 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=2
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169525.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: EURONEWS
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169526.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: EUROSPORT
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: EUROSPORT 1 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169527.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: EUROSPORT 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169528.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: EUROSPORT HD
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: EUROSPORT 1 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169529.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169528.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: FASHION TV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169530.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: FIGHT NETWORK
@@ -535,7 +536,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=2
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169544.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: GLOBO HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169545.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: GLOBO NOW
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: GLOBO NEWS
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169546.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: HOLLYWOOD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169547.m3u8
@@ -576,11 +577,11 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=2
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169565.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: NICKELODEON
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169566.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: NOS STUDIOS
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: NOS STUDIOS HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169567.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: NOS STUDIOS HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169568.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: ODISSEIA
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: ODISSEIA HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169569.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: ODISSEIA HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169570.m3u8
@@ -588,14 +589,14 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=2
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169571.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: PFC
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169572.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: PORTO CANAL
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: PORTO CANAL HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169573.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: PORTO CANAL HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169574.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: SPORT TV +
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: SPORT TV+ HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169587.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: SPORT TV + HD
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: SPORT TV+ HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169588.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: SPORT TV 1 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169589.m3u8
@@ -609,13 +610,13 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=2
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169593.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: SPORT TV 6 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169594.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: SPORT TV 6 HD LOW
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: SPORT TV 6 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169595.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: SPORT TV NBA
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: SPORT TV NBA HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169596.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: SPORT TV NBA HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169597.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: SPORTING TV
+#EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: SPORTING TV HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169598.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais Inter | Portugal [PT]",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]PT: SPORTING TV HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/169599.m3u8
