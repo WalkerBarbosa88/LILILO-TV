@@ -81,12 +81,15 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5496
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 3 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159606?checkedby:iptvcat.com
 
-#EXTINF:-4,[COLOR=white][B]SBS 4K[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-4,[COLOR=white][B]SBS SD[/B][/COLOR][COLOR=white][/COLOR]
 http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
-#EXTINF:-4,[COLOR=white][B]SBS 4K[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-4,[COLOR=white][B]SBS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-4,[COLOR=white][B]SBS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://123.140.197.22/stream/1/play.m3u8
+
+#EXTINF:-4,[COLOR=white][B]BEIN SPORTS 1 MAX HD[/B][/COLOR][COLOR=white][/COLOR]
+http://141.11.127.188:8080/memfs/67acb14d-9210-461b-a20f-13d08eb4857f_output_0.m3u8
 
 
 #EXTINF:-1,[COLOR=white][B]MATH RUSSIA HD[/B][/COLOR][COLOR=white][/COLOR]
