@@ -3,7 +3,7 @@
 http://0.0.0.0:0000
 ############################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 02/12/2022[/B][/COLOR][COLOR=orange][/COLOR] 
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 07/12/2022[/B][/COLOR][COLOR=orange][/COLOR] 
 
 Fonte de Informação: 
 
@@ -14,71 +14,6 @@ CANAIS ABERTOS / LIVRES BRASIL - https://raw.githubusercontent.com/rogerioronin/
                                  https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2022/master/Canais%20KODI2.m3u8
  
 #EXTM3U
-
-
-##########################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS TV BRASIL F4MTESTER  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://000000
-
-#EXTM3U
-
-
-
-#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/espn.png" group-title="Canais | ESPN",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]ESPN FHD 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/71912.m3u8
-#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/espn.png" group-title="Canais | ESPN",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]ESPN HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/71913.m3u8
-#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/espn.png" group-title="Canais | ESPN",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]ESPN SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/71914.m3u8
-#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/espnextra.png" group-title="Canais | ESPN",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]ESPN EXTRA FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/71916.m3u8
-#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/espnextra.png" group-title="Canais | ESPN",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]ESPN EXTRA HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/71917.m3u8
-#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/espnextra.png" group-title="Canais | ESPN",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]ESPN EXTRA SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/71918.m3u8
-
-#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/globo.png" group-title="Canais | Globo",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]GLOBO NACIONAL FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/131217.m3u8
-#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/globo.png" group-title="Canais | Globo",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]GLOBO NACIONAL SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/131145.m3u8
-
-#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/globonews.png" group-title="Canais | Notícias",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]GLOBO NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/71999.m3u8
-#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/globo.png" group-title="Canais | Notícias",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]GLOBO NEWS SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/131112.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/discoverycivilization.png" group-title="Canais | Documentários",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]HGTV HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/72144.m3u8
-#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/discoverycivilization.png" group-title="Canais | Documentários",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]HGTV SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/72145.m3u8
-
-#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/discoveryh%26h.png" group-title="Canais | Variedades",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]DISCOVERY H&H HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/71869.m3u8
-#EXTINF:-1 tvg-logo="http://acsa.ws:80/images/54ebbe6b53dab84e158a5bb930339b49.png" group-title="Canais | Variedades",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]DISCOVERY TURBO SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/71886.m3u8
-
-#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/sportv.png" group-title="Canais | SporTV",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]SPORTV 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/72330.m3u8
-#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/sportv.png" group-title="Canais | SporTV",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]SPORTV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/72332.m3u8
-#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/sportv.png" group-title="Canais | SporTV",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]SPORTV 1 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/131132.m3u8
-
-#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/sportv2.png" group-title="Canais | SporTV",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]SPORTV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/131176.m3u8
-#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/sportv2.png" group-title="Canais | SporTV",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]SPORTV 2 SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/72324.m3u8
-
-#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/bandsports.png" group-title="Canais | Esportes",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]BAND SPORTS FHD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/71802.m3u8
-#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/bandsports.png" group-title="Canais | Esportes",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]BAND SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/71803.m3u8
-#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/bandsports.png" group-title="Canais | Esportes",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]BAND SPORTS SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/71804.m3u8
-
-#EXTINF:-1 tvg-logo="https://acstatic.co/logos/canais/cnn.png" group-title="Canais | Notícias",[COLOR orange][B]ZOKOS TV2 ||[/B][/COLOR]CNN BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=&maxbitrate=0&buffer=20191129153332&url=http://acsb.sh:80/770770/5rUvvg/71839.m3u8
 
 
 ##########################################################################################################################################
@@ -186,8 +121,6 @@ https://000000
 #EXTM3U
 
 
-#EXTINF:-1 group-title="NOTÍCIAS" tvg-logo="https://i.ibb.co/WnrkL9r/cnn.jpg",[COLOR=white][B]CNN BR FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://clienteworld.com:80/claud123/claud123/98280
 #EXTINF:-1 group-title="NOTÍCIAS" tvg-logo="https://i.ibb.co/WnrkL9r/cnn.jpg",[COLOR=white][B]CNN BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/83090
 #EXTINF:-1 group-title="NOTÍCIAS" tvg-logo="https://i.ibb.co/WnrkL9r/cnn.jpg",[COLOR=white][B]CNN BR HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -201,29 +134,27 @@ https://000000
 #EXTM3U
 
 
-#EXTINF:-1 group-title="GEEK",[COLOR=white][B]BONS TEMPOS TV[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="GEEK",[COLOR=white]BONS TEMPOS TV[/COLOR][COLOR=white][/COLOR]
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8?ROGERIOTORRES
-#EXTINF:-1 group-title="GEEK",[COLOR=white][B]RETRO CARTOONS TV[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="GEEK",[COLOR=white]RETRO CARTOONS TV[/COLOR][COLOR=white][/COLOR]
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8?ROGERIOTORRES
-#EXTINF:-1,[COLOR=white][B]JOVEM PAN NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="GEEK",[COLOR=white]JOVEM PAN NEWS HD[/COLOR][COLOR=white][/COLOR]
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8?ROGERIOTORRES
-#EXTINF:-1,[COLOR=white][B]SBT INTERIOR HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="GEEK",[COLOR=white]SBT INTERIOR HD[/COLOR][COLOR=white][/COLOR]
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
-#EXTINF:-1,[COLOR=white][B]REUTERS HD (ENG.)[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="GEEK",[COLOR=white]REUTERS HD (ENG.)[/COLOR][COLOR=white][/COLOR]
 https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
-#EXTINF:-1,[COLOR=white][B]BAND NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="GEEK",[COLOR=white]BAND NEWS HD[/COLOR][COLOR=white][/COLOR]
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/6161/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIL1ho006Jea_Lf0E91i8HE9TZjeKXIkmm2Ygqo2p6ZO3JAOwYALJ56UPiax7h1rGOFw&usqp=CAU",[COLOR=white][B]DELUXE LOUNGE[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="GEEK",[COLOR=white]DELUXE LOUNGE[/COLOR][COLOR=white][/COLOR]
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/abb4746a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=GB&vendor=samsung&ads:app_domain=%7BAPP_DOMAIN%7D&ads:app_name=%7BAPP_NAME%7D&coppa=1&ads:tcf=%7BTC_STRING%7D
-
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",TELEWEB TV
 https://video01.kshost.com.br/acessweb7837/acessweb7837/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-id="ext" group-title="Channels",AGRO BRASIL HD
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-id="ext" group-title="Channels",ARARUNA TV HD
 https://video01.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",BAND HD
+#EXTINF:0 tvg-id="Bandeirantes.br" group-title="Channels",BAND HD
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-id="ext" group-title="Channels",CLASSIQUE TV HD
 https://stmv1.srvif.com/classique/classique/playlist.m3u8?PlaylistM3UCL
@@ -231,17 +162,17 @@ https://stmv1.srvif.com/classique/classique/playlist.m3u8?PlaylistM3UCL
 https://streaming03.zas.media:1936/lasstv/lasstv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-id="ext" group-title="Channels",NTV PATOS DE MINAS
 https://59f1cbe63db89.streamlock.net:1443/ntvnet/_definst_/ntvnet/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",RECORD NEWS ES 
+#EXTINF:0 tvg-id="ext" group-title="Channels",RECORD NEWS ES
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-id="ext" group-title="Channels",TV A PLATEIA
 https://video01.kshost.com.br/kamal3366/kamal3366/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV ÁGUA BOAS 
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV ÁGUA BOAS
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist-480p.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-id="ext" group-title="Channels",TV CURUÇA HD
 https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-id="ext" group-title="Channels",TV DESTAK HD
 https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist-480p.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV DIFUSORA 
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV DIFUSORA
 https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-id="ext" group-title="Channels",TV DIFUSORA LESTE
 https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8?PlaylistM3UCL
@@ -249,33 +180,33 @@ https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8?PlaylistM3UC
 https://stream.amsolution.net.br:8443/live/60dceaa0637fb/index.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-id="ext" group-title="Channels",TV DIGITAL BIRIGUI HD
 https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist-480p.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV INFOR BAHIA 
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV INFOR BAHIA
 https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/playlist-480p.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV JORNAL NORDESTE 
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV JORNAL NORDESTE
 https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-id="ext" group-title="Channels",TV MAIS HD
 https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-id="ext" group-title="Channels",TV MAR | BR
 https://virtues.es:1936/tvmar/tvmar/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV MUNDIAL 
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV MUNDIAL
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV NATAL 
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV NATAL
 https://StmV1.srvstm.com/antonioflavio9545/antonioflavio9545/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-id="ext" group-title="Channels",TV PLAN HD
 http://rtmp.cdn.upx.net.br/723b/myStream.sdp/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV SIM CACHOEIRO 
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV SIM CACHOEIRO
 https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-id="ext" group-title="Channels",TV SIM COLATINA
 https://5cf4a2c2512a2.streamlock.net:443/8132/8132/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV SIM SÃO MATEUS 
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV SIM SÃO MATEUS
 https://5cf4a2c2512a2.streamlock.net:443/8236/8236/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV SUL 
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV SUL
 http://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV TI VEJO 
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV TI VEJO
 https://stmv1.srvif.com/ddacostenaro/ddacostenaro/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-id="ext" group-title="Channels",TV VICOSA
 http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVE 
+#EXTINF:0 tvg-id="TVE.se" group-title="Channels",TVE
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-id="ext" group-title="Channels",ALL SPORTS BR HD
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w856809681.m3u8?PlaylistM3UCL
@@ -283,11 +214,11 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w856809681.m3u8?Playl
 https://stream.ichibantv.ga:3764/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 29 HD
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",GOSPEL CARTOON 
+#EXTINF:0 tvg-id="ext" group-title="Channels",GOSPEL CARTOON
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-id="ext" group-title="Channels",ISTV
 https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",RETRO CARTOON 
+#EXTINF:0 tvg-id="ext" group-title="Channels",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-id="ext" group-title="Channels",TV ARACATI HD
 https://livefocamundo.com:8081/tvaracati/index.m3u8?PlaylistM3UCL
@@ -303,35 +234,28 @@ https://6362ca6f1fc28.streamlock.net:443/8078/8078/playlist.m3u8?PlaylistM3UCL
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-id="ext" group-title="Channels",GOSPEL MOVIES TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",NUEVO TIEMPO 
+#EXTINF:0 tvg-id="ext" group-title="Channels",NUEVO TIEMPO
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",REDE VIDA
+#EXTINF:0 tvg-id="Redevida.br" group-title="Channels",REDE VIDA
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV APARECIDA
+#EXTINF:0 tvg-id="Tvaparecida.br" group-title="Channels",TV APARECIDA
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV EVANGELIZAR 
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV EVANGELIZAR
 https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV REDE GOSPEL 
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV REDE GOSPEL
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV UNIVERSAL 
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV UNIVERSAL
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8?PlaylistM3UCL
-
-
-
 #EXTINF:0 tvg-id="ext" group-title="Shop",1001 Noites (720p) [Not 24/7]
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Outdoor",AgroBrasil TV (720p) [Not 24/7]
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Outdoor",#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Outdoor",Canal do Criador (1080p)
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Outdoor",Canal Rural (1080p)
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Outdoor",Terra Viva (720p) [Not 24/7]
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
-
 #EXTINF:0 tvg-id="avi" group-title="News",Al Jazeera English (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/aljazeeraenglish/live
 #EXTINF:0 tvg-id="ext" group-title="News",Aratu On (720p)
@@ -346,36 +270,18 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",CNA International (1080p)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:0 tvg-id="avi" group-title="News",CNN Brasil (1080p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live
-#EXTINF:0 tvg-id="CNNesp.mx" group-title="News",CNN en Español
-http://209.91.213.10:8088/play/a014
 #EXTINF:0 tvg-id="ext" group-title="News",DW English (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:0 tvg-id="avi" group-title="News",Euronews en Español (720p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/euronewses/live
 #EXTINF:0 tvg-id="ext" group-title="News",Euronews German
 https://euronews.alteox.app/hls/de_stream.m3u8
-#EXTINF:0 tvg-id="avi" group-title="News",Euronews Hungary (720p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/euronewsHungarian/live
 #EXTINF:0 tvg-id="ext" group-title="News",Euronews Italian
 https://euronews.alteox.app/hls/it_stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",Euronews Portuguese
 https://euronews.alteox.app/hls/pt_stream.m3u8
-#EXTINF:0 tvg-id="avi" group-title="News",Euronews по-русски (720p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCFzJjgVicCtFxJ5B0P_ei8A/live
-#EXTINF:0 tvg-id="avi" group-title="News",France 24 English (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24English/live
-#EXTINF:0 tvg-id="ext" group-title="News",FTV Taiwan (民視台灣台) (720p) [Not 24/7]
-http://seb.sason.top/ptv/ftv.php?id=tw
 #EXTINF:0 tvg-id="ext" group-title="News",Jovem Pan News (JP News) (1080p) [Not 24/7]
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",Pluto TV Euronews (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0 tvg-id="ext" group-title="News",Record News (720p) [Geo-blocked]
-https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",RT en Español (1080p) [Geo-blocked]
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",TRT World (720p) [Not 24/7]
@@ -386,7 +292,6 @@ https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunkl
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",WION (1080p)
 https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Sports",All Sports (720p)
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",FIGHT SPORTS (1080p)
@@ -409,18 +314,12 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",TNT Sports 5 Brasil (720p) [Not 24/7]
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",TVMatic Fight (720p)
-http://cdn.tvmatic.net/fight.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",World Poker Tour (1080p) [Not 24/7]
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Animation",Anime TV (360p) [Not 24/7]
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Legislative",Assembleia Legislativa do Estado de Mato Grosso (720p)
 https://streaming.al.mt.gov.br/test/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Legislative",Assembleia Legislativa do Piauí (432p)
-https://59e4b6c1beddc.streamlock.net/ronaldoalepi/ronaldoalepi/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Legislative",TV ALMG (720p)
 https://streaming.almg.gov.br/live/tvalmg.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Legislative",TV Assembléia Ceará (720p)
@@ -431,7 +330,6 @@ https://stream3.camara.gov.br/tv2/manifest.m3u8
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Legislative",TV Camara de Sao Paulo (720p) [Not 24/7]
 https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Kids",BabyTV (1080p)
 http://194.163.179.246/slovenci/djeciji/babytv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Kids",Cartoon Network (Portuguese)
@@ -440,31 +338,20 @@ https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f12151794c1800007a8ae63&deviceLat=-23.5475&deviceLon=-46.6361&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false&sid=730&terminate=false&userId=
 #EXTINF:0 tvg-id="ext" group-title="Kids",Pluto TV Nick Jr. Club (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
 #EXTINF:0 tvg-id="ext" group-title="Undefined",Bahrain International (720p) [Not 24/7]
 https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Undefined",#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-https://evpp.mm.uol.com.br/geob_band/app/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Undefined",#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-https://evpp.mm.uol.com.br/geob_band/bandnewstv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Undefined",Bloomberg TV US (1080p)
 https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Undefined",Boa Vontade TV (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCedt33latJW7StRfdF4-1FQ/live
 #EXTINF:0 tvg-id="ext" group-title="Undefined",Boas Novas (720p)
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Undefined",Canal 25 Jundiaí (404p) [Not 24/7]
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Undefined",Canal TV Rio (720p)
 https://video01.logicahost.com.br/canaltvrio/canaltvrio/playlist.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Undefined",Canção Nova TV (720p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCVrKQMmA2ew9LFzeIDaOFgw/live
 #EXTINF:0 tvg-id="ext" group-title="Undefined",CBTV Now (1080p)
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Undefined",Central TV (720p)
 https://cdn-centraltv-11366.ciclano.io:1443/centraltv-11366/centraltv-11366/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Cultura PR Catve (720p)
-http://wowza4.catve.com.br:1935/live/livestream/media.m3u8
 #EXTINF:0 tvg-id="ERTWorld.ca" group-title="Undefined",ERT World (720p)
 https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
 #EXTINF:0 tvg-id="ETBBasque.es" group-title="Undefined",ETB Basque (480p)
@@ -473,8 +360,6 @@ https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="GaliciaTV.sp" group-title="Undefined",Galicia TV América (720p)
 http://america-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Gazeta (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/tvgazeta
 #EXTINF:0 tvg-id="ext" group-title="Undefined",ISTV (1080p) [Not 24/7]
 https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Undefined",MNB world
@@ -487,8 +372,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:0 tvg-id="ext" group-title="Undefined",Portal Cultura (720p)
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Undefined",PTV World (480p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCj-e7yp2_-qE-TPritppZGQ/live
 #EXTINF:0 tvg-id="ext" group-title="Undefined",RBATV (720p)
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Undefined",Rede CNT (Curitiba) (180p) [Not 24/7]
@@ -497,12 +380,8 @@ https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-rio_360p614k/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Undefined",Rede Família (720p) [Not 24/7]
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
-#EXTINF:0 tvg-id="avi" group-title="Undefined",Rede Internacional de TV (RIT TV) (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCA0bOG0NUfJ855eDtHSxOkw/live
 #EXTINF:0 tvg-id="ext" group-title="Undefined",Rede RC (720p) [Not 24/7]
 http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Undefined",Sea Today (720p) [Geo-blocked]
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
 #EXTINF:0 tvg-id="ext" group-title="Undefined",SESC TV (1080p)
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Undefined",TV Brusque (720p)
@@ -515,16 +394,12 @@ https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
 https://tvdiversa.brasilstream.com.br/hls/tvdiversa/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Undefined",TV Guará (720p) [Not 24/7]
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
-#EXTINF:0 tvg-id="Tvjustica.br" group-title="Undefined",TV Justiça (720p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC0qlZ5jxxueKNzUERcrllNw/live
 #EXTINF:0 tvg-id="ext" group-title="Undefined",TV Marajoara (720p)
 https://video01.kshost.com.br:4443/tv31966/tv31966/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Undefined",TV Max
 https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Undefined",TV Mon (720p)
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Undefined",TV Pantanal MS (720p) [Not 24/7]
-https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Undefined",TV Poços (192p) [Not 24/7]
 http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Undefined",TV Santa Cruz (720p) [Not 24/7]
@@ -533,17 +408,8 @@ https://rtmp.info/tvsantacruz/envivo/playlist.m3u8
 http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Undefined",TVE RS (1080p)
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Undefined",TVMatic Crafts (720p)
-http://cdn.tvmatic.net/crafts.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Undefined",TVMatic Facebook (720p)
-http://cdn.tvmatic.net/facebook.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Undefined",TVMatic Funny (720p)
-http://cdn.tvmatic.net/funny.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Undefined",TVMatic TikTok (720p)
-http://cdn.tvmatic.net/tiktok.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Undefined",TVN Brasil (720p) [Not 24/7]
 http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="General",BTV World (720p) [Not 24/7]
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="General",Catve2 (720p)
@@ -554,64 +420,36 @@ https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="General",COM Brasil (720p) [Not 24/7]
 https://596639ebdd89b.streamlock.net/8032/8032/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",Cultura Pará (480p) [Not 24/7]
-http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
 #EXTINF:0 tvg-id="kbs-world" group-title="General",KBS World (720p)
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="General",MKK Web TV (720p) [Not 24/7]
 https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="General",Perú Channel
 https://stmv3.duvoxtv.com.br/novelapl/novelapl/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",Record TV Belem (720p) [Geo-blocked]
-https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",Record TV Brasilia (720p) [Geo-blocked]
-https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",Record TV Goias (720p) [Geo-blocked]
-https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",Record TV Itapoan (720p) [Geo-blocked]
-https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",Record TV Minas (720p) [Geo-blocked]
-https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",Record TV Rio (720p) [Geo-blocked]
-https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",Record TV RS (720p) [Geo-blocked]
-https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",Record TV SP (720p) [Geo-blocked]
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="General",Rede Brasil (RBTV) (720p)
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",Rede CNT (São Paulo) (360p) [Not 24/7]
-https://dd8umsy8yf96u.cloudfront.net/live/cnt-americana.m3u8
 #EXTINF:0 tvg-id="ext" group-title="General",Rede CNT Cuiaba (360p)
 https://d1s664t39qub1o.cloudfront.net/live/cnt-cuiaba_360p614k/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="General",Rede CNT Londrina (360p)
 https://d1s664t39qub1o.cloudfront.net/live/cnt-londrina_360p614k/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",Rede CNT Manaus (360p)
-https://d1s664t39qub1o.cloudfront.net/live/cnt-manaus_360p614k/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="General",Rede CNT Porto Alegre (360p)
 https://d1s664t39qub1o.cloudfront.net/live/cnt-caxias_360p614k/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="General",Rede CNT Rio Branco (360p)
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-riobranco_360p614k/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="General",Rede CNT Salvador (360p)
 https://dd8umsy8yf96u.cloudfront.net/live/cnt-salvador_360p614k/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",Rede TV! ES (720p)
-https://hls.brasilstream.com.br/live/redetves/redetves/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="General",Rede TV! Pampa (720p) [Not 24/7]
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="General",RedeTV! Tocantins (720p) [Not 24/7]
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="General",RedeTV! Tocantins (720p) [Not 24/7]
 https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",San Isidro TV (360p) [Not 24/7]
-https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="General",SBT Rede Massa (720p) [Not 24/7]
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="General",#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="General",#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",TV Aberta (1080p) [Not 24/7]
-https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="General",TV Alternativa
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="General",TV Birigui (320p)
@@ -624,29 +462,22 @@ http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="General",TV Metropole (720p) [Not 24/7]
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",TV Thathi (720p) [Not 24/7]
-https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="General",TV Verdes Campos (360p) [Not 24/7]
 https://596639ebdd89b.streamlock.net/8124/8124/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="General",TVM Internacional (480p) [Not 24/7]
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Animation;Kids",Cartoonito (Portuguese)
 https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Documentary",CGTN Documentary (576p)
 http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Documentary",RT Documentary Russian (1080p) [Not 24/7]
 http://uiptv.do.am/1ufc/300663722/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Classic",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Classic",Retrô Cartoon (480p) [Not 24/7]
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Series",Dark Matter TV Brazil (720p)
 https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Movies",Dust (1080p)
 https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Movies",Filmstream
@@ -667,12 +498,10 @@ https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Movies",TV Cinec (240p) [Not 24/7]
 http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Music",Euro Indie Music Chart TV (360p)
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",KpopTV Play (720p) [Not 24/7]
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Religious",Fonte TV (1080p) [Not 24/7]
 http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Religious",Gospel Movie TV (360p)
@@ -701,7 +530,6 @@ https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
 https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Religious",TV Pai Eterno
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Education",Futura (540p) [Not 24/7]
 https://tv.unisc.br/hls/test.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Education",Pluto TV Natureza (720p)
@@ -718,40 +546,24 @@ http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Education",UniTV Porto Alegre (480p)
 http://unitvaovivo.ufrgs.br:8080/live.ogg
-
 #EXTINF:0 tvg-id="ext" group-title="Cooking",Gusto TV (1080p)
 https://d3cajslujfq92p.cloudfront.net/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Cooking",Tastemade Brasil (1080p)
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Culture;Entertainment;Music",MBC America (480p)
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Culture",Metro Globe Network (1080p) [Not 24/7]
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
-
 #EXTINF:0 tvg-id="MotorVision.de" group-title="Auto",Motorvision TV (720p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc51b0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ede55dfe-45a7-4aa8-a283-7b8008be8d2e
-
 #EXTINF:0 tvg-id="NASATV.us" group-title="Science",NASA TV (720p)
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-
 #EXTINF:0 tvg-id="avi" group-title="Culture;News",NHK World Japan (YouTube) (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCSPEjw8F2nQDtmUKPFNF7_A/live
-
 #EXTINF:0 tvg-id="ext" group-title="Entertainment",Pluto TV Retrô (684p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
 #EXTINF:0 tvg-id="ext" group-title="Travel",TV Paraná Turismo (720p) [Not 24/7]
 http://200.189.113.201/hls/tve.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Comedy",TVMatic Comedy (720p)
-http://cdn.tvmatic.net/comedy.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Lifestyle",World Fashion Channel International (1080p)
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
-
-
-
-
 
