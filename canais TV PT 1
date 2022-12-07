@@ -50,6 +50,11 @@ https://000000
 #EXTM3U
 
 
+#EXTINF:-1,[COLOR=white][B]DEMAND ÁFRICA[/B][/COLOR][COLOR=white][/COLOR]
+https://demandafrica-oando.amagi.tv/amRdirect/p=da/hls/amagi_hls_data_theafrica-demand-africa-oando/CDN/1920x1080_5055600/index.m3u8
+#EXTINF:-1,[COLOR=white][B]RTI 1 SD[/B][/COLOR][COLOR=white][/COLOR]
+https://www.enovativecdn.com/rticdn/smil:rti1.smil/chunklist_w1661943663_b650000_sleng.m3u8?nimblesessionid=26762733
+
 #EXTINF:-1,[COLOR=white][B]TVM SD[/B][/COLOR][COLOR=white][/COLOR]
 http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]TVM INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
