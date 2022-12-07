@@ -60,7 +60,7 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8
 #EXTINF:-1,[COLOR=white][B]THE BOX UK[/B][/COLOR][COLOR=white][/COLOR]
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 
-#EXTINF:-1,[COLOR=white][B]M2O HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]RADIO M2O HD[/B][/COLOR][COLOR=white][/COLOR]
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b2816000.m3u8
 
 #EXTINF:-1,[COLOR=white][B]KRONEHITS FHD[/B][/COLOR][COLOR=white][/COLOR]
@@ -81,8 +81,7 @@ https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV Musicas",[COLOR=white][B]ONE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://rtmp.one.by:1300
 
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]RADIO M2O HD[/B][/COLOR][COLOR=white][/COLOR]
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b2816000.m3u8
+
 
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]FIRST MUSIC CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
 http://hz1.teleport.cc/HLS/SD.m3u8
