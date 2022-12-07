@@ -17,6 +17,52 @@ CANAIS ABERTOS / LIVRES BRASIL - https://raw.githubusercontent.com/rogerioronin/
 
 
 ##########################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS EXCLUSIVOS BR  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+#EXTM3U
+
+
+#EXTINF:-1,[COLOR=white][B]BONS TEMPOS TV SD[/B][/COLOR][COLOR=white][/COLOR]
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w249885560.m3u8
+#EXTINF:-1,[COLOR=white][B]RETRO CARTOONS TV SD[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1829280153.m3u8
+#EXTINF:-1,[COLOR=white][B]TV LOADING SD[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1292312804.m3u8
+#EXTINF:-1,[COLOR=white][B]JETSON TV SD[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w729534430.m3u8
+#EXTINF:-1,[COLOR=white][B]MANCHETE TV SD[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv1.srvsh.com.br/ivonildoferrera4617/ivonildoferrera4617/chunklist_w1730900906.m3u8
+#EXTINF:-1,[COLOR=white][B]TV CARIOCA HD[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv2.duvoxtv.com.br/tvcarioca/tvcarioca/chunklist_w2109833343.m3u8
+#EXTINF:-1,[COLOR=white][B]SBT INTERIOR HD[/B][/COLOR][COLOR=white][/COLOR]
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+#EXTINF:-1,[COLOR=white][B]VINTAGE TV SD[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv1.srvif.com/webvintage/webvintage/chunklist_w1086155908.m3u8
+#EXTINF:-1,[COLOR=white][B]GHOST TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv.video.expressolider.com.br/ghostv/ghostv/chunklist_w1382243850.m3u8
+#EXTINF:-1,[COLOR=white][B]RUNTIME TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://stream.ads.ottera.tv/cl/45596280-deb9-43a5-a97a-61ad37b6dc5e/1280x720_3071200_0_f.m3u8
+#EXTINF:-1,[COLOR=white][B]CLASSIQUE TV SD[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv1.srvif.com/tvserie4/tvserie4/chunklist_w1162283864.m3u8
+#EXTINF:-1,[COLOR=white][B]TV TEEN NET SD[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv1.painelvideo.top/tvteennet/tvteennet/chunklist_w1425969400.m3u8
+#EXTINF:-1,[COLOR=white][B]MASTER TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/chunklist_w239703397.m3u8
+
+#EXTINF:-1,[COLOR=white][B]RS NEWS SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/rsnewssports/_definst_/rsnewssports/chunklist_w476059599.m3u8
+#EXTINF:-1,[COLOR=white][B]RS NEWS SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/chunklist_w1473287725.m3u8
+#EXTINF:-1,[COLOR=white][B]RS NEWS SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/rsnews03/_definst_/rsnews03/chunklist_w868701248.m3u8
+
+#EXTINF:-1,[COLOR=white][B]SUPERTV BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://177.137.208.46:9080/hls/brsupertv.m3u8
+
+
+
+##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DESPORTIVOS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
