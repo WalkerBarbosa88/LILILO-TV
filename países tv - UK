@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 ##################################################################################################################################################
 
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 26/11/2022[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 07/12/2022[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #################################################################################################################################################
  
@@ -13,6 +13,7 @@ FONTE DE INFORMAÇÃO: https://vk.com/clubslynet
                      https://m3u.cl/lista-iptv-espana.php
 
 #EXTM3U
+
 
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",FREESPORTS HD
@@ -109,35 +110,33 @@ http://87.212.248.44:60130/play/a05v
 http://87.212.248.44:60130/play/a08d
 #EXTINF:0 tvg-id="ext" group-title="Channels",TJC HD
 http://87.212.248.44:60130/play/a08s
-#EXTINF:0 tvg-id="tlc-russia-hd" group-title="Channels",TLC HD
-http://87.212.248.44:60130/play/a089
 #EXTINF:0 tvg-id="TinyPop.uk" group-title="Channels",TINY POP
 http://87.212.248.44:60130/play/a05x
 #EXTINF:0 tvg-id="TinyPop.uk" group-title="Channels",TINY POP
 http://87.212.248.44:60130/play/a08c
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: 5 Action
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: 5 ACTION
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295070
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: 5 Select
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: 5 SELECT
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/4631
 #EXTINF:0 tvg-id="5star.uk" group-title="Channels",UK: 5 STAR
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/4633
 #EXTINF:0 tvg-id="FiveUSA.uk" group-title="Channels",UK: 5 USA
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1579
-#EXTINF:0 tvg-id="4Music.uk" group-title="Channels",UK: 4Music
+#EXTINF:0 tvg-id="4Music.uk" group-title="Channels",UK: 4MUSIC
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/4749
-#EXTINF:0 tvg-id="4Seven.uk" group-title="Channels",UK: 4Seven
+#EXTINF:0 tvg-id="4Seven.uk" group-title="Channels",UK: 4SEVEN
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/4625
-#EXTINF:0 tvg-id="Alibi.uk" group-title="Channels",UK: Alibi
+#EXTINF:0 tvg-id="Alibi.uk" group-title="Channels",UK: ALIBI
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1131
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Aljazeera English
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: ALJAZEERA ENG.
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/24077
 #EXTINF:0 tvg-id="AMC.uk" group-title="Channels",UK: AMC
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/4669
 #EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="Channels",UK: ANIMAL PLANET
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1130
-#EXTINF:0 tvg-id="ARISENews.uk" group-title="Channels",UK: Arise News
+#EXTINF:0 tvg-id="ARISENews.uk" group-title="Channels",UK: ARISE NEWS
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/146108
-#EXTINF:0 tvg-id="BabyTV.uk" group-title="Channels",UK: Baby TV
+#EXTINF:0 tvg-id="BabyTV.uk" group-title="Channels",UK: BABY TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1129
 #EXTINF:0 tvg-id="BBCOneHD.uk" group-title="Channels",UK: BBC 1
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/697
@@ -145,49 +144,49 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/697
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/291212
 #EXTINF:0 tvg-id="BBC4.uk" group-title="Channels",UK: BBC 4
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/291219
-#EXTINF:0 tvg-id="BBCAlba.uk" group-title="Channels",UK: BBC Alba
+#EXTINF:0 tvg-id="BBCAlba.uk" group-title="Channels",UK: BBC ALBA
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/278520
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BBC Earth
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BBC EARTH
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/174446
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BBC Entertainment
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BBC ENTERTAINMENT
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/11663
-#EXTINF:0 tvg-id="BBCFirst.uk" group-title="Channels",UK: BBC First
+#EXTINF:0 tvg-id="BBCFirst.uk" group-title="Channels",UK: BBC FIRST
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/11586
-#EXTINF:0 tvg-id="BBCNews.nws" group-title="Channels",UK: BBC News
+#EXTINF:0 tvg-id="BBCNews.nws" group-title="Channels",UK: BBC NEWS
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/696
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BBC Scotland
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BBC SCOTLAND
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/281885
-#EXTINF:0 tvg-id="BBCWorldNews.nws" group-title="Channels",UK: BBC World News
+#EXTINF:0 tvg-id="BBCWorldNews.nws" group-title="Channels",UK: BBC WORLD NEWS
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/2585
-#EXTINF:0 tvg-id="BestDirect.uk" group-title="Channels",UK: Best Direct
+#EXTINF:0 tvg-id="BestDirect.uk" group-title="Channels",UK: BEST DIRECT
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286774
 #EXTINF:0 tvg-id="BET.uk" group-title="Channels",UK: BET
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/9760
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Bible TV Global
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BIBLE TV GLOBAL
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/275962
-#EXTINF:0 tvg-id="BLAZE.uk" group-title="Channels",UK: Blaze
+#EXTINF:0 tvg-id="BLAZE.uk" group-title="Channels",UK: BLAZE
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/4642
-#EXTINF:0 tvg-id="Bloomberg.nws" group-title="Channels",UK: Bloomberg
+#EXTINF:0 tvg-id="Bloomberg.nws" group-title="Channels",UK: BLOOMBERG
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1610
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Bloomberg TV EMEA Live Event
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BLOOMBERG TV LIVE
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/294851
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK: Bloomberg TV Europe
+#EXTINF:0 tvg-id="ext" group-title="Channels",UK: BLOOMBERG TV EUROPA
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/294852
-#EXTINF:0 tvg-id="Boomerang.uk" group-title="Channels",UK: Boomerang
+#EXTINF:0 tvg-id="Boomerang.uk" group-title="Channels",UK: BOOMERANG
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1125
-#EXTINF:0 tvg-id="BoxNation.uk" group-title="Channels",UK: Box Nation
+#EXTINF:0 tvg-id="BoxNation.uk" group-title="Channels",UK: BOX NATION
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/4719
-#EXTINF:0 tvg-id="BTSport1.uk" group-title="Channels",UK: BT Sport 1
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="Channels",UK: BT SPORT 1
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/270
-#EXTINF:0 tvg-id="BTSport2.uk" group-title="Channels",UK: BT Sport 2
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="Channels",UK: BT SPORT 2
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/273
-#EXTINF:0 tvg-id="BTSport3.uk" group-title="Channels",UK: BT Sport 3
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="Channels",UK: BT SPORT 3
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/271
-#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="Channels",UK: BT Sport ESPN
+#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="Channels",UK: BT SPORT ESPN
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1124
-#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="Channels",UK: Cartoon Network
+#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="Channels",UK: CARTOON NETWORK
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/720
-#EXTINF:0 tvg-id="Cartoonito.uk" group-title="Channels",UK: Cartoonito
+#EXTINF:0 tvg-id="Cartoonito.uk" group-title="Channels",UK: CARTOONITO
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1546
 #EXTINF:0 tvg-id="CBBC.uk" group-title="Channels",UK: CBBC
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/695
@@ -321,8 +320,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/7550
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/4721
 #EXTINF:0 tvg-id="ext" group-title="Channels",UK: Lolly Kids
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/265254
-#EXTINF:0 tvg-id="LondonLive.uk" group-title="Channels",UK: London Live
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286912
 #EXTINF:0 tvg-id="ext" group-title="Channels",UK: Love Nature
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/78665
 #EXTINF:0 tvg-id="Magic.uk" group-title="Channels",UK: Magic TV
@@ -415,8 +412,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286909
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1081
 #EXTINF:0 tvg-id="Sky1.uk" group-title="Channels",UK: Sky One
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1080
-#EXTINF:0 tvg-id="SkyShowcase.uk" group-title="Channels",UK: Sky Showcase
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/17041
 #EXTINF:0 tvg-id="SkySpArena.uk" group-title="Channels",UK: Sky Sports Arena
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/267
 #EXTINF:0 tvg-id="SkySpCricket.uk" group-title="Channels",UK: Sky Sports Cricket
