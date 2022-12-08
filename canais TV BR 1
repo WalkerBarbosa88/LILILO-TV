@@ -29,28 +29,12 @@ https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w249885560.m3u8
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1829280153.m3u8
 #EXTINF:-1,[COLOR=white][B]TV LOADING SD[/B][/COLOR][COLOR=white][/COLOR]
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1292312804.m3u8
-#EXTINF:-1,[COLOR=white][B]JETSON TV SD[/B][/COLOR][COLOR=white][/COLOR]
-https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w729534430.m3u8
-#EXTINF:-1,[COLOR=white][B]MANCHETE TV SD[/B][/COLOR][COLOR=white][/COLOR]
-https://stmv1.srvsh.com.br/ivonildoferrera4617/ivonildoferrera4617/chunklist_w1730900906.m3u8
 #EXTINF:-1,[COLOR=white][B]TV CARIOCA HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stmv2.duvoxtv.com.br/tvcarioca/tvcarioca/chunklist_w2109833343.m3u8
-#EXTINF:-1,[COLOR=white][B]SBT INTERIOR HD[/B][/COLOR][COLOR=white][/COLOR]
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-1,[COLOR=white][B]VINTAGE TV SD[/B][/COLOR][COLOR=white][/COLOR]
 https://stmv1.srvif.com/webvintage/webvintage/chunklist_w1086155908.m3u8
 #EXTINF:-1,[COLOR=white][B]GHOST TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stmv.video.expressolider.com.br/ghostv/ghostv/chunklist_w1382243850.m3u8
-#EXTINF:-1,[COLOR=white][B]RUNTIME TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://stream.ads.ottera.tv/cl/45596280-deb9-43a5-a97a-61ad37b6dc5e/1280x720_3071200_0_f.m3u8
-#EXTINF:-1,[COLOR=white][B]CLASSIQUE TV SD[/B][/COLOR][COLOR=white][/COLOR]
-https://stmv1.srvif.com/tvserie4/tvserie4/chunklist_w1162283864.m3u8
-#EXTINF:-1,[COLOR=white][B]TV TEEN NET SD[/B][/COLOR][COLOR=white][/COLOR]
-https://stmv1.painelvideo.top/tvteennet/tvteennet/chunklist_w1425969400.m3u8
-#EXTINF:-1,[COLOR=white][B]MASTER TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/chunklist_w239703397.m3u8
-#EXTINF:-1,[COLOR=white][B]SUPERTV BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://177.137.208.46:9080/hls/brsupertv.m3u8
 #EXTINF:-1,[COLOR=white][B]TV MAX HD[/B][/COLOR][COLOR=white][/COLOR]
 https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
 #EXTINF:-1,[COLOR=white][B]CANAL SAUDE BR HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -66,6 +50,8 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]ESPN EXTRA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://api.magiaiptv.com/live/800379/268963/m1_ByxjeSWip68MPJsHRqZ2vku_720p
+#EXTINF:-1,[COLOR=white][B]ESPN PREMIUM HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m1_knOhhfNdF9kfR0_720p_2M
 
 #EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82825
@@ -94,6 +80,9 @@ http://api.magiaiptv.com/live/800379/268963/m2_AkF7moyJqBpWr5L3ctZXu8D6_720p
 http://api.magiaiptv.com/live/800379/268963/m2_AkF7moyJqBpWr5L3ctZXu8D6_4M
 
 
+#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV MOSAICO HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m1_BAIovLXAHJfIiuBS__720p
+
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 1 BR FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159607?checkedby:iptvcat.com
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 1 BR FHD[/B][/COLOR][COLOR=white][/COLOR]
@@ -109,6 +98,15 @@ http://api.magiaiptv.com/live/800379/268963/m1_welG1zUJ8o7XxE78c_1080p
 http://api.magiaiptv.com/live/800379/268963/m2_ylU0WsVR9po4ChFn7J3vkMxb_720p
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://api.magiaiptv.com/live/800379/268963/m2_ylU0WsVR9po4ChFn7J3vkMxb_720p_2M
+#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m2_ylU0WsVR9po4ChFn7J3vkMxb_720p_2M
+
+#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 3 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m2_9DOg0PQW1aF8hTGrmHf6oqkV_720p
+#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 3 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m2_9DOg0PQW1aF8hTGrmHf6oqkV_720p_2M
+#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 3 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m1_vzd4MQvFCKUahymwGL_1080p
 
 
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://i.ibb.co/z7jZDbm/band-sports.jpg",[COLOR=white][B]BAND SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -144,24 +142,48 @@ https://000000
 
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://i.ibb.co/Zhfptr4/disc.png",[COLOR=white][B]DISCOVERY CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82908
+#EXTINF:-1,[COLOR=white][B]DISCOVERY CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m3_E3D2EB66-67DF-49EC-8eea_720p
+#EXTINF:-1,[COLOR=white][B]DISCOVERY CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m3_E3D2EB66-67DF-49EC-8eea_720p_2M
+
 #EXTINF:-1,[COLOR=white][B]DISCOVERY WORLD HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82931
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://i.ibb.co/Lx4X8xk/heh.png",[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
-http://clienteworld.com:80/claud123/claud123/82916
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://i.ibb.co/Lx4X8xk/heh.png",[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
-http://clienteworld.com:80/claud123/claud123/82914
+#EXTINF:-1,[COLOR=white][B]DISCOVERY WORLD HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m2_be0dGtMO3SNcZq7TRHUvKXpn_720p
+
+
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://i.ibb.co/x8DNr5z/dturbo.jpg",[COLOR=white][B]DISCOVERY TURBO HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82923
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://i.ibb.co/x8DNr5z/dturbo.jpg",[COLOR=white][B]DISCOVERY TURBO SD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82921
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://i.ibb.co/PrgyQcq/hgtv.jpg",[COLOR=white][B]HGTV FHD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]DISCOVERY TURBO HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m1_NpfZjjxzoFwepkuEspTet_720p
+
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://i.ibb.co/Lx4X8xk/heh.png",[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
+http://clienteworld.com:80/claud123/claud123/82916
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://i.ibb.co/Lx4X8xk/heh.png",[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
+http://clienteworld.com:80/claud123/claud123/82914
+#EXTINF:-1,[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m1_6Ij7gxZOdZwDVlMjlbHc5_720p
+#EXTINF:-1,[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m1_6Ij7gxZOdZwDVlMjlbHc5_720p_2M
+
+#EXTINF:-1,[COLOR=white][B]HGTV FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/88878
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://i.ibb.co/PrgyQcq/hgtv.jpg",[COLOR=white][B]HGTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://clienteworld.com:80/claud123/claud123/82912
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://i.ibb.co/PrgyQcq/hgtv.jpg",[COLOR=white][B]HGTV SD[/B][/COLOR][COLOR=white][/COLOR]
-http://clienteworld.com:80/claud123/claud123/82910
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://i.ibb.co/PrgyQcq/hgtv.jpg",[COLOR=white][B]HGTV HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]HGTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://api.magiaiptv.com/live/800379/268963/m4_BHUM6pXTobkuiDgt5mZh1d3Q_720p
+#EXTINF:-1,[COLOR=white][B]HGTV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://clienteworld.com:80/claud123/claud123/82912
+#EXTINF:-1,[COLOR=white][B]HGTV SD[/B][/COLOR][COLOR=white][/COLOR]
+http://clienteworld.com:80/claud123/claud123/82910
+
+#EXTINF:-1,[COLOR=white][B]DISCOVERY KIDS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m2_afy44nd1fdEvCQ38kIuM_720p
+#EXTINF:-1,[COLOR=white][B]DISCOVERY SCIENCE HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m3_yIvLaPOcxH4qTtjiZfV3p2Y7_720p
+#EXTINF:-1,[COLOR=white][B]DISCOVERY THEATER  HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m2_RJ5rBub9ANcgf0C_720p
 
 
 ##########################################################################################################################################
@@ -245,7 +267,10 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 http://api.magiaiptv.com/live/800379/268963/p3_TkpBaA2SR5zzC0o
 #EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]GLOBO NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://api.magiaiptv.com/live/800379/268963/p2_JLtVbmIgNqEC
-
+#EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]BAND NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m3_wM1DcpyixXePdVU8F2ogE6KT_720p
+#EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]BAND NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m3_wM1DcpyixXePdVU8F2ogE6KT_720p_2M
 
 ##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DIVERSOS TV  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
