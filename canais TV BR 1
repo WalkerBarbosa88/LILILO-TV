@@ -130,6 +130,11 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1,[COLOR=white][B]TNT SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
+#EXTINF:-1,[COLOR=white][B]EUROSPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m2_EUassaafSPdfgORT_720p
+#EXTINF:-1,[COLOR=white][B]EUROSPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m2_EqacRasdPfasOsyds2_720p
+
 
 ##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DISCOVERY & CASAS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -173,10 +178,29 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
 
 #EXTINF:-1 group-title="CANAIS | MUSICA" tvg-logo="http://logocanais.ddns.net/Logo/Bis1.png",[COLOR=white][B]BIS FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://axr.life:80/096154/686531/5195
+#EXTINF:-1,[COLOR=white][B]BIS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m4_AHRTkrZ8VGUFaC1ctW0db5O6_720p
+
 #EXTINF:-1,[COLOR=white][B]K-POP TV PLAY HD[/B][/COLOR][COLOR=white][/COLOR]
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1609920726.m3u8
 #EXTINF:-1,[COLOR=white][B]K-POP TV PLAY HD[/B][/COLOR][COLOR=white][/COLOR]
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/ab9ddb08-2598-4788-b464-41e5dd75f55f" parent-code="" group-title="Lista de Canais",[COLOR=white][B]MTV 00´S HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m3_Rf9bLcTMstKNoWEt91_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d979d889-4dd0-4c29-9625-b0d7999a4beb" parent-code="" group-title="Lista de Canais",[COLOR=white][B]MTV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m1_G78hbKTqXvwtlVHfAMF0k5p9_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d979d889-4dd0-4c29-9625-b0d7999a4beb" parent-code="" group-title="Lista de Canais",[COLOR=white][B]MTV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m1_G78hbKTqXvwtlVHfAMF0k5p9_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://23.237.150.122:9966/gateway/files/4c776253-dc4c-4ec2-a604-54e9e7d16c67" parent-code="" group-title="Lista de Canais",[COLOR=white][B]MTV LIVE HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m3_dfEeZjblbyTWgEZydjYv_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/01c805fe-38e4-4d64-a6aa-021f69e65ae8" parent-code="" group-title="Lista de Canais",[COLOR=white][B]MULTISHOW HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m1_xBEDmuNinjXaf4ZHcGkRsr7h_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/656a874d-d2f5-4308-abd9-a6d28dab39ec" parent-code="" group-title="Lista de Canais",[COLOR=white][B]MULTISHOW HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m1_xBEDmuNinjXaf4ZHcGkRsr7h_720p_2M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://23.237.150.122:9966/gateway/files/30e5eaae-9dc9-4f32-92ed-e9937b47fd80" parent-code="" group-title="Lista de Canais",[COLOR=white][B]MUSIC BOX BRASIL HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m3_bdp8X6CKQZjtAfYc5voH_720p
+
 
 
 
@@ -209,6 +233,8 @@ https://000000
 http://clienteworld.com:80/claud123/claud123/83090
 #EXTINF:-1 group-title="NOTÍCIAS" tvg-logo="https://i.ibb.co/WnrkL9r/cnn.jpg",[COLOR=white][B]CNN BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/98278
+#EXTINF:-1 group-title="NOTÍCIAS" tvg-logo="https://i.ibb.co/WnrkL9r/cnn.jpg",[COLOR=white][B]CNN INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/pt_cnn_inter
 #EXTINF:0 tvg-id="ext" group-title="GEEK",[COLOR=white][B]REUTERS HD (ENG.)[/B][/COLOR][COLOR=white][/COLOR]
 https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 #EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]EURONEWS PT HD[/B][/COLOR][COLOR=white][/COLOR]
