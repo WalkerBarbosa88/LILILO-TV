@@ -64,16 +64,53 @@ https://000000
 #EXTM3U
 
 
+#EXTINF:-1,[COLOR=white][B]ESPN EXTRA HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m1_ByxjeSWip68MPJsHRqZ2vku_720p
+
 #EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82825
+#EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m3_ScQBL06LuJftF_720p
+#EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m3_ScQBL06LuJftF_720p_2M
+#EXTINF:-1,[COLOR=white][B]ESPN 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m3_ScQBL06LuJftF_1080p
+
+#EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m1_jK8qbRUeI8qNMLCC_720p
+#EXTINF:-1,[COLOR=white][B]ESPN 2 FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m1_jK8qbRUeI8qNMLCC_720p_2M
+
 #EXTINF:-1,[COLOR=white][B]ESPN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82828
+#EXTINF:-1,[COLOR=white][B]ESPN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/cyx-DC970EDF4CA78db36DE825B75D56
+
 #EXTINF:-1,[COLOR=white][B]ESPN 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82754
+#EXTINF:-1,[COLOR=white][B]ESPN 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m2_AkF7moyJqBpWr5L3ctZXu8D6_720p
+#EXTINF:-1,[COLOR=white][B]ESPN 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m2_AkF7moyJqBpWr5L3ctZXu8D6_4M
+
+
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 1 BR FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159607?checkedby:iptvcat.com
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 1 BR FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://shareext@ssvrv.xyz/live/96790pedr0090/0090pedr96790/179682.ts
+#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/p2_AD5dvVfj6egLHxBwARO
+#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/p3_jUB9PDqLPI4ma3xxj
+#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m1_welG1zUJ8o7XxE78c_1080p
+
+#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m2_ylU0WsVR9po4ChFn7J3vkMxb_720p
+#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m2_ylU0WsVR9po4ChFn7J3vkMxb_720p_2M
+
+
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://i.ibb.co/z7jZDbm/band-sports.jpg",[COLOR=white][B]BAND SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82838
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://i.ibb.co/z7jZDbm/band-sports.jpg",[COLOR=white][B]BAND SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -118,6 +155,8 @@ http://clienteworld.com:80/claud123/claud123/88878
 http://clienteworld.com:80/claud123/claud123/82912
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://i.ibb.co/PrgyQcq/hgtv.jpg",[COLOR=white][B]HGTV SD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82910
+#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://i.ibb.co/PrgyQcq/hgtv.jpg",[COLOR=white][B]HGTV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m4_BHUM6pXTobkuiDgt5mZh1d3Q_720p
 
 
 ##########################################################################################################################################
@@ -176,6 +215,10 @@ https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOT
 https://euronews.alteox.app/hls/pt_stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]JOVEM PAN NEWS FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]GLOBO NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/p3_TkpBaA2SR5zzC0o
+#EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]GLOBO NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/p2_JLtVbmIgNqEC
 
 
 ##########################################################################################################################################
