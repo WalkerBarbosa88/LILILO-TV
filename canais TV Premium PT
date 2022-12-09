@@ -22,7 +22,7 @@ http://0.0.0.0:0000
      Listas Várias - https://global-satinfo.in/viewforum.php?f=22&sid=14261766f220116fe35abb7ddf0e87e2
      
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 07/12/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 09/12/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 
 
@@ -50,21 +50,31 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1410
 
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 1 PT SD[/B][/COLOR][COLOR=white][/COLOR]
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/324.m3u8
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 1 PT FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://server.sibfungold.info:8080/bilo445/IO445FMnWubFMnWubilo7U/280
 
-#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 1 BR SD[/B][/COLOR][COLOR=white][/COLOR]
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5494
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 1 BR FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159607?checkedby:iptvcat.com
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 1 BR FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://shareext@ssvrv.xyz/live/96790pedr0090/0090pedr96790/179682.ts
+#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/p2_AD5dvVfj6egLHxBwARO
+#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/p3_jUB9PDqLPI4ma3xxj
+#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m1_welG1zUJ8o7XxE78c_1080p
 
-#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 2 BR SD[/B][/COLOR][COLOR=white][/COLOR]
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5495
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159605?checkedby:iptvcat.com
+#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m2_ylU0WsVR9po4ChFn7J3vkMxb_720p
+#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m2_ylU0WsVR9po4ChFn7J3vkMxb_720p_2M
+#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m2_ylU0WsVR9po4ChFn7J3vkMxb_720p_2M
 
+#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 3 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m2_9DOg0PQW1aF8hTGrmHf6oqkV_720p_2M
+#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 3 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m1_vzd4MQvFCKUahymwGL_1080p
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 3 BR SD[/B][/COLOR][COLOR=white][/COLOR]
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5496
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 3 BR HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -77,8 +87,6 @@ http://1.245.74.5:1935/live/tv/.m3u8
 #EXTINF:-4,[COLOR=white][B]SBS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://123.140.197.22/stream/1/play.m3u8
 
-#EXTINF:-4,[COLOR=white][B]BEIN SPORTS 1 MAX HD[/B][/COLOR][COLOR=white][/COLOR]
-http://141.11.127.188:8080/memfs/67acb14d-9210-461b-a20f-13d08eb4857f_output_0.m3u8
 #EXTINF:-4,[COLOR=white][B]BEIN SPORTS 1 MAX HD[/B][/COLOR][COLOR=white][/COLOR]
 https://streamermytvc.com/Bein-Sp-Max-1-LB+ph===---/cache/Bein-Sp-Max-1-LB/master.m3u8
 #EXTINF:-4,[COLOR=white][B]BEIN SPORTS 2 MAX HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -132,6 +140,7 @@ https://00000000000
 
 #EXTM3U
 
+
 #EXTINF:-1,[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
 http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais
 #EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -171,10 +180,6 @@ http://red.ipfox.org:8080/live/Karam2022/Karam2023/49371.ts
 http://superbits.tv:2095/live/jYNTPHGx/ayUbbFPX/249069.ts
 
 
-
-
-
-
 #EXTM3U
 
 ####################################################################################################################################
@@ -188,11 +193,7 @@ https://000000
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5425
 #EXTINF:-1,[COLOR=white][B]ESPN 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82825
-#EXTINF:-1,[COLOR=white][B]ESPN 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://51.79.82.208:16417
 
-#EXTINF:-1,[COLOR=white][B]ESPN 2 BR SD[/B][/COLOR][COLOR=white][/COLOR]
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5426
 #EXTINF:-1,[COLOR=white][B]ESPN 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5062
 
@@ -270,8 +271,6 @@ http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2531/index.m3u8
 http://cineapp.org:8000/Fernando/Fernando/7451?checkedby:iptvcat.net
 #EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png",[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159576?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Sport",[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58550?checkedby:iptvcat.net
 
 #EXTINF:0 tvg-id="elevensports2.pt" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2532/index.m3u8
@@ -281,8 +280,6 @@ http://maxfolker.rossteleccom.net/iptv/4N3VF4TY2PZ8R8/2532/index.m3u8
 http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/159577.ts
 #EXTINF:-1 group-title="Sport",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://cineapp.org:8000/Fernando/Fernando/7452?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Sport",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58551?checkedby:iptvcat.net
 #EXTINF:-1 group-title="Sport" tvg-logo="https://www.nicepng.com/png/detail/140-1402045_eleven-sports-eleven-sports-2-logo.png",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159577?checkedby:iptvcat.net
 
@@ -292,11 +289,8 @@ http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2533/index.m3u8
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/7062/index.m3u8
 #EXTINF:-1 group-title="Sport",[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://cineapp.org:8000/Fernando/Fernando/7453?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Sport",[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58552?checkedby:iptvcat.net
 #EXTINF:-1 group-title="Sport" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-3-hd.png",[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159578?checkedby:iptvcat.net
-
 
 #EXTINF:0 tvg-id="ElevenSports4.pt" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/7063/index.m3u8
@@ -304,18 +298,13 @@ http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/7063/index.m3u8
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2534/index.m3u8
 #EXTINF:-1 group-title="Sport",[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://cineapp.org:8000/Fernando/Fernando/7454?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Sport",[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58553?checkedby:iptvcat.net
 #EXTINF:-1 group-title="Undefined",[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://red.ipfox.org:8080/osama2022/osama2023/49365?checkedby:iptvcat.net
-
 
 #EXTINF:0 tvg-id="ElevenSports5.pt" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2535/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
-#EXTINF:-1 group-title="Sport",[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58554?checkedby:iptvcat.net
 
 #EXTINF:0 tvg-id="ElevenSports6.pt" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2536/index.m3u8
@@ -323,8 +312,6 @@ http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2536/index.m3u8
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/7064/index.m3u8
 #EXTINF:-1 group-title="Sport",[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://cineapp.org:8000/Fernando/Fernando/7456?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Sport",[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58555?checkedby:iptvcat.net
 #EXTINF:-1 group-title="Undefined",[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://red.ipfox.org:8080/osama2022/osama2023/49363?checkedby:iptvcat.net
 
