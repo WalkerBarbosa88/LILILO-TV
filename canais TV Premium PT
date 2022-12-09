@@ -14,9 +14,8 @@ http://0.0.0.0:0000
  LISTA PT - https://raw.githubusercontent.com/inspirationlinks/lista-tuga/master/i%CF%81%D1%82v%20i%D0%B8%E0%B8%A3%CF%81i%D1%8F%CE%B1%D1%82i%CF%83%D0%B8%20li%D0%B8k%E0%B8%A3
             https://raw.githubusercontent.com/la22lo/sports/main/futbol.m3u
  Muitos conteúdos - https://github.com/Sphinxroot?tab=repositories
-                    https://github.com/Sphinxroot/TV (NOVO REPO)
-                    https://github.com/Sphinxroot/i.mjh.nz (NOVO REPO)
- ta PT M3U Grátis - https://github.com/LITUATUI/M3UPT
+ 
+ Lista PT M3U Grátis - https://github.com/LITUATUI/M3UPT
   Várias Listas PT - https://github.com/moonlight17884/iptv
     Listas Diárias - https://treshi.github.io/daily-iptv.al/ 
      Listas Várias - https://global-satinfo.in/viewforum.php?f=22&sid=14261766f220116fe35abb7ddf0e87e2
@@ -50,6 +49,8 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1410
 
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 1 PT SD[/B][/COLOR][COLOR=white][/COLOR]
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/324.m3u8
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 1 PT HD[/B][/COLOR][COLOR=white][/COLOR]
+http://j.jserv.me:80/Coco22/VLjG7xT25n/8328.ts
 
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 1 BR FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159607?checkedby:iptvcat.com
@@ -79,6 +80,8 @@ http://api.magiaiptv.com/live/800379/268963/m1_vzd4MQvFCKUahymwGL_1080p
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5496
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 3 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159606?checkedby:iptvcat.com
+
+
 
 #EXTM3U
 
@@ -232,6 +235,9 @@ http://platin4k.eu:80/logantv/ACXhn9BC5m/63176
 http://platin4k.eu:80/logantv/ACXhn9BC5m/161950
 #EXTINF:-1,[COLOR=white][B]RMC SPORT 3 FR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/logantv/ACXhn9BC5m/161950
+
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 PL HD[/B][/COLOR][COLOR=white][/COLOR]
+http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/20068/index.m3u8
 
 
 ##################################  BENFICA TV   ###########################################################################
