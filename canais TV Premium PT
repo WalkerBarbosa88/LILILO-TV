@@ -198,9 +198,17 @@ https://000000
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5425
 #EXTINF:-1,[COLOR=white][B]ESPN 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82825
+#EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m3_ScQBL06LuJftF_720p_2M
+#EXTINF:-1,[COLOR=white][B]ESPN 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m3_ScQBL06LuJftF_1080p
 
 #EXTINF:-1,[COLOR=white][B]ESPN 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/5062
+#EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m1_jK8qbRUeI8qNMLCC_720p
+#EXTINF:-1,[COLOR=white][B]ESPN 2 FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m1_jK8qbRUeI8qNMLCC_720p_2M
 
 #EXTINF:-1,[COLOR=white][B]ESPN 3 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/465906
