@@ -36,9 +36,25 @@ https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
 https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="NASATV.us" group-title="Science",[COLOR=white][B]NASA TV[/B][/COLOR][COLOR=white][/COLOR] 
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1,[COLOR=white][B]LOCALVISÃO TV[/B][/COLOR][COLOR=white][/COLOR] 
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/Karam2022/Karam2023/49266
+#EXTINF:-1,[COLOR=white][B]AÇORES TV[/B][/COLOR][COLOR=white][/COLOR] 
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/Karam2022/Karam2023/49265
 
 
 #EXTM3U
+
+
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DE STREAMING PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTM3U
+
+
+#EXTINF:-1,[COLOR=white][B]DISNEY STAR WARS[/B][/COLOR][COLOR=white][/COLOR] 
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/69798
+#EXTINF:-1,[COLOR=white][B]DISNEY PIXAR[/B][/COLOR][COLOR=white][/COLOR] 
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/69209
+#EXTINF:-1,[COLOR=white][B]DISNEY MARVEL[/B][/COLOR][COLOR=white][/COLOR] 
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/69208
 
 ##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS EXPRESSÃO PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -46,6 +62,9 @@ https://000000
 
 #EXTM3U
 
+
+#EXTINF:-1,[COLOR=white][B]GLOBO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/Karam2022/Karam2023/49345
 
 #EXTINF:-1,[COLOR=white][B]DEMAND ÁFRICA[/B][/COLOR][COLOR=white][/COLOR]
 https://demandafrica-oando.amagi.tv/amRdirect/p=da/hls/amagi_hls_data_theafrica-demand-africa-oando/CDN/1920x1080_5055600/index.m3u8
@@ -55,6 +74,12 @@ http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]CANAL MACAU TV[/B][/COLOR][COLOR=white][/COLOR]
 https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]TPA INTER. SD[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/Karam2022/Karam2023/49248
+#EXTINF:-1,[COLOR=white][B]TCV INTER. SD[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/Karam2022/Karam2023/49247
+
 
 
 #EXTM3U
@@ -89,9 +114,10 @@ http://45.92.69.132:8001/play/a0gs
 http://45.92.69.132:8001/play/a0gt
 #EXTINF:0 tvg-id="sicnoticias.pt" group-title="Channels",[COLOR=white][B]SIC NOTÍCIAS[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.132:8001/play/a0ga
+#EXTINF:-1,[COLOR=white][B]SIC NOTÍCIAS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/Karam2022/Karam2023/49350
 #EXTINF:0 tvg-id="sicradical.pt" group-title="Channels",[COLOR=white][B]SIC RADICAL[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.132:8001/play/a0it
-
 #EXTINF:0 tvg-id="TVI.pt" group-title="Channels",[COLOR=white][B]TVI[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.132:8001/play/a0gb
 #EXTINF:0 tvg-id="TVIFiccao.pt" group-title="Channels",[COLOR=white][B]TVI FICÇÃO[/B][/COLOR][COLOR=white][/COLOR]
@@ -112,6 +138,17 @@ http://45.92.69.132:8001/play/a0ha
 http://45.92.69.132:8001/play/a0ho
 
 ******************************************************************************************
+
+
+#EXTINF:-1,FOX COMEDY [COLOR=white][B]FOX COMEDY HD[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/Karam2022/Karam2023/49329
+#EXTINF:-1,FOX COMEDY [COLOR=white][B]FOX COMEDY HD[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/4746
+#EXTINF:-1,FOX COMEDY [COLOR=white][B]FOX COMEDY HD[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/90
+#EXTINF:-1,FOX COMEDY [COLOR=white][B]FOX COMEDY HD[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/89499
+
 #EXTINF:0 tvg-id="AMC.pt" group-title="Channels",[COLOR=white][B]AMC HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.132:8001/play/a0jf
 #EXTINF:0 tvg-id="axn.pt" group-title="Channels",[COLOR=white][B]AXN HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -134,6 +171,9 @@ http://45.92.69.132:8001/play/a0gp
 http://45.92.69.132:8001/play/a0jg
 #EXTINF:0 tvg-id="Cinemundo.pt" group-title="Channels",[COLOR=white][B]CINEMUNDO HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.132:8001/play/a0je
+
+#EXTINF:-1,[COLOR=white][B]HGTV PT HD[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/Karam2022/Karam2023/49301
 
 #EXTINF:0 tvg-id="AfroMusic.pt" group-title="Channels",[COLOR=white][B]AFRO MUSIC[/B][/COLOR][COLOR=white][/COLOR]
 http://45.92.69.132:8001/play/a0hh
