@@ -38,7 +38,7 @@ https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1,[COLOR=white][B]LOCALVISÃO TV[/B][/COLOR][COLOR=white][/COLOR] 
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/Karam2022/Karam2023/49266
-#EXTINF:-1,[COLOR=white][B]AÇORES TV[/B][/COLOR][COLOR=white][/COLOR] 
+#EXTINF:-1,[COLOR=white][B]AZORES TV[/B][/COLOR][COLOR=white][/COLOR] 
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://red.ipfox.org:8080/Karam2022/Karam2023/49265
 
 
