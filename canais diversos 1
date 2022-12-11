@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 #####################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 26/11/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 11/12/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
 ###########################################################################################################################################
  
@@ -60,8 +60,6 @@ https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
 #EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]STADIUM HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stadium.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]BEST CABLE SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
-https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
 #EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]MORE THAN SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]HARD KNOCKS HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -152,8 +150,6 @@ https://d13c935311364708bf51b0eb4bbdb04f.mediatailor.us-east-1.amazonaws.com/v1/
 http://87.212.248.44:60130/play/a04s
 #EXTINF:-1,[COLOR=white][B]HGTV BR FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272467
-#EXTINF:-1,[COLOR=white][B]HGTV IT FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://195.189.62.137:8000/play/a03q
 
 
 ###########################################################################################################################################
@@ -179,17 +175,6 @@ http://185.236.229.31:9981/play/a01d
 #EXTINF:-1,[COLOR=white][B]BLOOMBERG TV 4K[/B][/COLOR][COLOR=white][/COLOR]
 https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Bloomberg/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=389&ads.wurl_name=Bloomberg&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
-#EXTINF:-1,[COLOR=white][B]MYZEN TV 4K[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.200:8001/play/a0ba
-
-#EXTINF:-1,[COLOR=white][B]RAI 4K[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.200:8001/play/a067
-
-#EXTINF:-1,[COLOR=white][B]TRAVELXP TV 4K[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.200:8001/play/a0b8
-
-#EXTINF:-1,[COLOR=white][B]NASA TV 4K[/B][/COLOR][COLOR=white][/COLOR]
-http://45.153.35.200:8001/play/a0b7
 
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  ACROBACIAS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -312,8 +297,7 @@ https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxu
 https://outsidetvplus-xumo.amagi.tv/hls/amagi_hls_data_outsidetv-outsidetvplusxumo/CDN/master.m3u8
 #EXTINF:-1,[COLOR=white][B]VANITY FAIR TV[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvanityfair/CDN/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]LOVE NATURE TV[/B][/COLOR][COLOR=white][/COLOR]
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
 
 
 ###########################################################################################################################################
