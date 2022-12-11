@@ -4,7 +4,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 02/12/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 11/12/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -36,8 +36,6 @@ https://000000
 
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]1HD MUSIC FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://live-1.otcnet.ru/onehdweb/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]1HD MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
-https://sc.id-tv.kz/1hd.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]1HD ROMENIA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/chunklist_b5256000.m3u8
@@ -174,7 +172,9 @@ https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 # https://www.youtube.com/channel/UCalCDSmZAYD73tqVZ4l8yJg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gr55mAl.jpg" group-title="",[COLOR=white][B]ASOT TV[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=5lMmnfVylEE
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gr55mAl.jpg" group-title="",[COLOR=white][B]TOMORROWLAND RÁDIO[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gr55mAl.jpg" group-title="",[COLOR=white][B]TOMORROWLAND - ONE WORLD RÁADIO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=araK9j8mN9Y
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gr55mAl.jpg" group-title="",[COLOR=white][B]TOMORROWLAND - DAYBREAK SESSIONS[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=CIVFy3NKGMU
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8Ak6qR.png" group-title="",[COLOR=white][B]IBIZA GLOBAL TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
@@ -597,7 +597,7 @@ https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c
 
 
 ######################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 02/12/2022 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 11/12/2022 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
@@ -658,7 +658,7 @@ http://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
 https://xite-samsung-de.amagi.tv/playlist.m3u8
 
 ######################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 02/12/2022 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 11/12/2022 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
@@ -666,8 +666,6 @@ https://000000
 https://canale.live/mtv.m3u8/?id=moozdance
 #EXTINF:0 tvg-id="MoozDance.ro" group-title="Channels",MOOZ RO
 https://canale.live/mtv.m3u8/?id=moozro
-#EXTINF:0 tvg-id="ext" group-title="Музыкальные",RITSA TV
-https://live.prd.dlive.tv/hls/live/fila007.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",TRANCE IS STARS
 http://tis.catcast.tv/content/391/index.m3u8
 #EXTINF:0 tvg-id="ClubbingTV.pt" group-title="Музыкальные",CLUBBING TV
@@ -738,8 +736,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",BOX HITS SD
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
-#EXTINF:0 tvg-id="ext" group-title="Музыкальные",BIZ MUSIC TV
-https://st.biztv.uz/hls/m_mid/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",VUEMME TV
 http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Музыкальные",D5 MUSIC
@@ -784,8 +780,6 @@ https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
 http://wma05.fluidstream.net/KissKissTV/KissKissTV.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",KRONEHITS TV HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",M6MUSIC HD
-http://190.2.155.162:8080/m6music/mpegts
 #EXTINF:0 tvg-id="Magic.uk" group-title="Channels",MAGIC TV
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",MTV BIGGEST POP HD
