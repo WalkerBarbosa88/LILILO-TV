@@ -76,6 +76,14 @@ https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
 https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
 #EXTINF:-1,[COLOR=white][B]CHAMPIONS TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://tv.zonanime.my.id/vidio/championstv2.m3u8
+#EXTINF:-1,[COLOR=white][B]EXTREME SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
+https://sc.id-tv.kz/ExtremeSportsHD_34_35.m3u8
+#EXTINF:-1,[COLOR=white][B]BET TV SPORTS[/B][/COLOR][COLOR=white][/COLOR]
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/chunklist_b3596000_slENG.m3u8
+#EXTINF:-1,[COLOR=white][B]LAX SPORTS NETWORK[/B][/COLOR][COLOR=white][/COLOR]
+https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE_v4.m3u8
+#EXTINF:-1,[COLOR=white][B]MORE THAN SPORTS DE[/B][/COLOR][COLOR=white][/COLOR]
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 
 
 *****************************************************  LISTA IPTV ORG DESPORTO  *********************************************************
@@ -354,6 +362,10 @@ https://jukin-weatherspy-2-eu.rakuten.wurl.tv/playlist.m3u8
 https://streaming.meteonews.net/hls/stream.m3u8
 #EXTINF:-1,[COLOR=white][B]METEONEWS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1,[COLOR=white][B]METEO NEWS DE[/B][/COLOR][COLOR=white][/COLOR]
+https://streaming.meteonews.net/hls/stream.m3u8
+#EXTINF:-1,[COLOR=white][B]TV7 METEO IT[/B][/COLOR][COLOR=white][/COLOR]
+http://217.61.26.46:8080/hls/meteo.m3u8
  
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  MODA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -372,6 +384,8 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_gmt_-5_qko_43090_default_1225_
 https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]FASHION TV TÓQUIO[/B][/COLOR][COLOR=white][/COLOR]
 https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_sam_197_hls.smil/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]FASHION & LIFESTYLE[/B][/COLOR][COLOR=white][/COLOR]
+http://193.33.240.8:8080/fashion_one_hd/index.m3u8
 
  
 ###########################################################################################################################################
@@ -406,7 +420,7 @@ https://000000
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0510962948d000961d3c6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5db0510962948d000961d3c6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=576&terminate=false&userId=
 #EXTINF:-1,[COLOR=white][B]CHOPPERTOWN TV[/B][/COLOR][COLOR=white][/COLOR]
 https://d275e95ir6yrv9.cloudfront.net/dist/localnow/11/hls/master/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]AUTO MOTO TV[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]AUTOMOTO TV[/B][/COLOR][COLOR=white][/COLOR]
 https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]PLUTO TV CARS[/B][/COLOR][COLOR=white][/COLOR]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b3a4249444e05d09cc46&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=663&terminate=false&userId=
@@ -442,7 +456,16 @@ https://rpn1.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
 https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]TRAVEL XP HD[/B][/COLOR][COLOR=white][/COLOR]
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
-
+#EXTINF:-1,[COLOR=white][B]TRAVEL & ADVENTURE HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.142.213.81:8001/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]TRAVEL+ ADVENTURE HD[/B][/COLOR][COLOR=white][/COLOR]
+http://live-1.otcnet.ru/ta/tracks-v1a1/index.m3u8
+#EXTINF:-1,[COLOR=white][B]TURISMO TRAVEL HD[/B][/COLOR][COLOR=white][/COLOR]
+https://vdo.panelstreaming.live:3936/stream/play.m3u8
+#EXTINF:-1,[COLOR=white][B]GEM TRAVEL HD[/B][/COLOR][COLOR=white][/COLOR]
+https://stream-live.gemonline.tv/live/gemtravel/index.m3u8
+#EXTINF:-1,[COLOR=white][B]PREMIUM TV TRAVEL HD[/B][/COLOR][COLOR=white][/COLOR]
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/9602a69407464602ae2811d58fb92728/chunklist_b4628000.m3u8
 
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CINEMA & SÉRIES DE TV  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -498,6 +521,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]EURONEWS PT[/B][/COLOR][COLOR=white][/COLOR]
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]EURONEWS ENG[/B][/COLOR][COLOR=white][/COLOR]
+https://rakuten-euronews-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TELESUR ING.[/B][/COLOR][COLOR=white][/COLOR]
 https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]AFRICA NEWS EN.[/B][/COLOR][COLOR=white][/COLOR]
@@ -534,6 +559,8 @@ https://rakuten-africanews-1-no.samsung.wurl.com/manifest/eeb88fab4703f2644e2ca1
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/srak-wx8r/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]CGTN USA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://api.new.livestream.com/accounts/7082210/events/9331199/live.m3u8
+#EXTINF:-1,[COLOR=white][B]BEK TV NEWS[/B][/COLOR][COLOR=white][/COLOR]
+https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/chunklist_b3596000_slENG.m3u8
 
 
 ###########################################################################################################################################
@@ -553,6 +580,8 @@ https://content.uplynk.com/channel/7ad2b600b40b4a89933ab6981757f8b3.m3u8
 https://a.jsrdn.com/broadcast/2a755012a8/+0000/c.m3u8
 #EXTINF:-1,[COLOR=white][B]YAHOO FINANCES[/B][/COLOR][COLOR=white][/COLOR]
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]BFM TV BUSINESS[/B][/COLOR][COLOR=white][/COLOR]
+https://trs1-cdn-edge-live00.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=038pdc0pdi5u4mmi5hk0/shls/LIVE$BFM_BUSINESS/index.m3u8?start=LIVE&end=END
 
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  GASTRONOMIA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
