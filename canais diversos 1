@@ -160,6 +160,11 @@ http://87.212.248.44:60130/play/a04s
 #EXTINF:-1,[COLOR=white][B]HGTV BR FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://tugapt.top:8080/LierT2022/psM7nbqpUq/272467
 
+#EXTINF:-1,[COLOR=white][B]HOMES UNDER HAMMER PLUTO TV[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c2e9d8002db3c3e0b1c72/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1,[COLOR=white][B]HOME PLUTO TV[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb96303f5bb020008e7e44f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5eb96303f5bb020008e7e44f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=8044788b-0583-11eb-a18c-0242ac110002&terminate=false&userId=
+
 
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  ESPECIAL CANAIS 4K  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -389,6 +394,10 @@ https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_sam_19
 http://193.33.240.8:8080/fashion_one_hd/index.m3u8
 #EXTINF:-1,[COLOR=white][B]FASHION & MIDNIGHT SECRETS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://fashs043.cloudycdn.services/scte/midnite/midnite_1080p_chunklist.m3u8
+#EXTINF:-1,[COLOR=white][B]CODE FASHION HD[/B][/COLOR][COLOR=white][/COLOR]
+https://cdn3.invivo.bg/Codefashion_5500/index.m3u8
+#EXTINF:-1,[COLOR=white][B]GLOBAL FASHION CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
+https://vcngfcssai.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
  
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIA E NÁUTICOS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -468,6 +477,10 @@ https://vdo.panelstreaming.live:3936/stream/play.m3u8
 https://stream-live.gemonline.tv/live/gemtravel/index.m3u8
 #EXTINF:-1,[COLOR=white][B]PREMIUM TV TRAVEL HD[/B][/COLOR][COLOR=white][/COLOR]
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/9602a69407464602ae2811d58fb92728/chunklist_b4628000.m3u8
+#EXTINF:-1,[COLOR=white][B]MEXICO TRAVEL CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
+https://q-s-l4n3sh4d0w-usw.onrender.com/iptv-query?streaming-ip=https://conceptoweb-studio.com/radio/video/mexicotravel/
+#EXTINF:-1,[COLOR=white][B]TELETUR HD[/B][/COLOR][COLOR=white][/COLOR]
+https://cdn4.hostlagarto.com:8081/static/teletur/playlist.m3u8
 
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CINEMA & SÉRIES DE TV  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -511,8 +524,8 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]JOVEM PAN NEWS BR.[/B][/COLOR][COLOR=white][/COLOR]
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
-#EXTINF:-1,[COLOR=white][B]BBC NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://prox.x86.co.uk/index.php/https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
+#EXTINF:-1,[COLOR=white][B]BBC WORLD NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1,[COLOR=white][B]7 NOTÍCIAS ES[/B][/COLOR][COLOR=white][/COLOR]
 https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]CNN USA HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -563,7 +576,16 @@ https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/srak-wx8r/playlist.m3
 http://api.new.livestream.com/accounts/7082210/events/9331199/live.m3u8
 #EXTINF:-1,[COLOR=white][B]BEK TV NEWS[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/chunklist_b3596000_slENG.m3u8
-
+#EXTINF:-1,[COLOR=white][B]HOLLYWIRE HD[/B][/COLOR][COLOR=white][/COLOR]
+https://bozztv.com/hwotta/playlist/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]CCTV+ 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]CNEWS TV[/B][/COLOR][COLOR=white][/COLOR]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/CNEWS
+#EXTINF:-1,[COLOR=white][B]DW NEWS HD ENG[/B][/COLOR][COLOR=white][/COLOR]
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1,[COLOR=white][B]FRANCE24 FR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://81.94.196.204/tsstreamer/France24_HD.ts
 
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  NEGÓCIOS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
