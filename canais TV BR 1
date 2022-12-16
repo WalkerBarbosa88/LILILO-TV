@@ -3,7 +3,7 @@
 http://0.0.0.0:0000
 ############################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 11/12/2022[/B][/COLOR][COLOR=orange][/COLOR] 
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 16/12/2022[/B][/COLOR][COLOR=orange][/COLOR] 
 
 Fonte de Informação: 
 
@@ -320,7 +320,6 @@ https://000000
 
 
 
-
 #EXTINF:0 tvg-id="ext" group-title="GEEK",[COLOR=white]BONS TEMPOS TV[/COLOR][COLOR=white][/COLOR]
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8?ROGERIOTORRES
 #EXTINF:0 tvg-id="ext" group-title="GEEK",[COLOR=white]RETRO CARTOONS TV[/COLOR][COLOR=white][/COLOR]
@@ -360,8 +359,6 @@ http://rtmp.cdn.upx.net.br/723b/myStream.sdp/playlist.m3u8?PlaylistM3UCL
 https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-id="ext" group-title="Channels",TV SUL
 http://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV TI VEJO
-https://stmv1.srvif.com/ddacostenaro/ddacostenaro/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-id="ext" group-title="Channels",TV VICOSA
 http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-id="TVE.se" group-title="Channels",TVE
@@ -384,8 +381,6 @@ https://livefocamundo.com:8081/tvaracati/index.m3u8?PlaylistM3UCL
 https://livefocamundo.com:8081/tvjsid/index.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-id="ext" group-title="Channels",TV JAPI
 https://srv2.zcast.com.br/tvjapi/tvjapi/playlist-480p.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-id="ext" group-title="Channels",YELLOW TV
-https://serv3.videovox.pw/gilferson4004/gilferson4004/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-id="ext" group-title="Channels",MUNDO DE LA MUSICA TV
 https://6362ca6f1fc28.streamlock.net:443/8078/8078/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-id="ext" group-title="Channels",SEXY KPOP TV
@@ -417,15 +412,13 @@ https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
 #EXTINF:0 tvg-id="Terraviva.br" group-title="Outdoor",TERRA VIVA
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 
-#EXTINF:0 tvg-id="avi" group-title="News",AL JAZEERA ENG.
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/aljazeeraenglish/live
 #EXTINF:0 tvg-id="CGTN.cn" group-title="News",CGTN SD
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:0 tvg-id="CGTNFrancais.cn" group-title="News",CGTN FRANÇAIS SD
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",CNA INTER. FHD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:0 tvg-id="dwelle-en" group-title="News",DW ENGLISH
+#EXTINF:0 tvg-id="dwelle" group-title="News",DW ENGLISH
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",EURONEWS GERMAN
 https://euronews.alteox.app/hls/de_stream.m3u8
@@ -473,8 +466,6 @@ https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Undefined",Central TV (720p)
 https://cdn-centraltv-11366.ciclano.io:1443/centraltv-11366/centraltv-11366/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Undefined",ISTV (1080p) [Not 24/7]
-https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Undefined",MNB world
 https://live.mnb.mn/live/mnb_world.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Undefined",Nova Era TV (1080p) [Not 24/7]
@@ -528,7 +519,7 @@ https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="General",COM BRASIL HD
 https://596639ebdd89b.streamlock.net/8032/8032/playlist.m3u8
-#EXTINF:0 tvg-id="KBSWorld.kr" group-title="General",KBS WORLD
+#EXTINF:0 tvg-id="kbs-world" group-title="General",KBS WORLD
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="General",MKK WEB TV HD
 https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
@@ -538,7 +529,5 @@ https://stmv3.duvoxtv.com.br/novelapl/novelapl/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="General",RedeTV! Tocantins
 https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",TV BRICS Portuguese (1080p)
-https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8
 
 
