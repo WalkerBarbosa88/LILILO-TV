@@ -31,28 +31,19 @@ https://00000000000
 
 #EXTM3U
 
+
 #EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
-http://acsa.ws:80/AndreJorge0123/Preto12345/169587.ts
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
-http://acsa.ws:80/AndreJorge0123/Preto12345/169588.ts
+http://api.magiaiptv.com/live/800379/268963/m3_UCWbpolpkgstvp_1080p
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://acsa.ws:80/AndreJorge0123/Preto12345/169589.ts
+http://api.magiaiptv.com/live/800379/268963/m3_DFwhzUuzfistv1_1080p
 #EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://acsa.ws:80/AndreJorge0123/Preto12345/169590.ts
+http://api.magiaiptv.com/live/800379/268963/m3_FZukotDQWYstv2_1080p
 #EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://acsa.ws:80/AndreJorge0123/Preto12345/169591.ts
+http://api.magiaiptv.com/live/800379/268963/m3_eAb6FoNigKstv3_720p_2M
 #EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://acsa.ws:80/AndreJorge0123/Preto12345/169592.ts
+http://api.magiaiptv.com/live/800379/268963/m3_eargH0Pv9qstv4_720p_2M
 #EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://acsa.ws:80/AndreJorge0123/Preto12345/169593.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://acsa.ws:80/AndreJorge0123/Preto12345/169594.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://acsa.ws:80/AndreJorge0123/Preto12345/169595.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://acsa.ws:80/AndreJorge0123/Preto12345/169596.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://acsa.ws:80/AndreJorge0123/Preto12345/169597.ts
+http://api.magiaiptv.com/live/800379/268963/m3_L4QIjJorwjstv5_1080p
 
 
 ####################################################################################################################################
@@ -88,7 +79,7 @@ http://api.magiaiptv.com/live/800379/268963/m1_welG1zUJ8o7XxE78c_1080p
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159605?checkedby:iptvcat.com
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m2_ylU0WsVR9po4ChFn7J3vkMxb_720p
+ttp://api.magiaiptv.com/live/800379/268963/m2_ylU0WsVR9po4ChFn7J3vkMxb_720p
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://api.magiaiptv.com/live/800379/268963/m2_ylU0WsVR9po4ChFn7J3vkMxb_720p_2M
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
