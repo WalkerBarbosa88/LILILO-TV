@@ -32,15 +32,23 @@ https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
 http://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Undefined",[COLOR=white][B]EURONEWS PT[/B][/COLOR][COLOR=white][/COLOR]
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS INTERNACIONAIS EXCLUSIVOS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+
+#EXTM3U
+
 #EXTINF:0 tvg-id="ext" group-title="Undefined",[COLOR=white][B]REUTERS TV[/B][/COLOR][COLOR=white][/COLOR]
 https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="NASATV.us" group-title="Science",[COLOR=white][B]NASA TV[/B][/COLOR][COLOR=white][/COLOR] 
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-
 #EXTINF:-1,[COLOR=white][B]DRONE TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]ENGLISH CLUB TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://iptv.prosto.tv:7000/ch206/video.m3u8
+#EXTINF:-1,[COLOR=white][B]AFRICANEWS HD HD[/B][/COLOR][COLOR=white][/COLOR]
+https://rakuten-africanews-1-pt.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]GALÍCIA TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://europa-crtvg.flumotion.com/playlist.m3u8
 
 
 
@@ -102,10 +110,6 @@ https://bit.ly/3gejKxf?720p/playlist.m3u8
 https://stream-07.ix7.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0ssRvDHtyLT8duXyGaLNNzaMf56Ib1C4nyvXHjH_SdQ7)/dm/3/x8egnb8/s/live-2.m3u8#cell=lcore
 #EXTINF:-1,[COLOR=white][B]EURONEWS - PLUTO TV[/B][/COLOR][COLOR=white][/COLOR]
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/2172b02e9431e5c79bc717e0cc555b4d.m3u8
-
-#EXTINF:-1,[COLOR=white][B]CANAL 11 INTER.[/B][/COLOR][COLOR=white][/COLOR]
-https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index_2.m3u8
-
 
 
 #EXTINF:-1,[COLOR=white][B]FOX COMEDY HD[/B][/COLOR][COLOR=white][/COLOR]
