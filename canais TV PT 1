@@ -37,6 +37,12 @@ https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="NASATV.us" group-title="Science",[COLOR=white][B]NASA TV[/B][/COLOR][COLOR=white][/COLOR] 
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 
+#EXTINF:-1,[COLOR=white][B]DRONE TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]ENGLISH CLUB TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://iptv.prosto.tv:7000/ch206/video.m3u8
+
+
 
 #EXTM3U
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DE STREAMING PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -63,8 +69,12 @@ https://demandafrica-oando.amagi.tv/amRdirect/p=da/hls/amagi_hls_data_theafrica-
 http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]TVM INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
 http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]CANAL MACAU TV[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]TVM INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
+http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_b714000_slpor.m3u8
+#EXTINF:-1,[COLOR=white][B]CANAL MACAU TV SD[/B][/COLOR][COLOR=white][/COLOR]
 https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]CANAL MACAU TV SD[/B][/COLOR][COLOR=white][/COLOR]
+http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/chunklist_w1683699584.m3u8
 
 
 #EXTM3U
@@ -73,6 +83,25 @@ https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS TV PORTUGAL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #EXTM3U
+
+
+#EXTINF:-1,[COLOR=white][B]RTP INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
+http://162.212.178.69:41042/bysid/608
+#EXTINF:-1,[COLOR=white][B]RTP INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTVLCOPT:http-user-agent=Opera
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
+#EXTINF:-1,[COLOR=white][B]SIC HD[/B][/COLOR][COLOR=white][/COLOR]
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_5.m3u8
+#EXTINF:-1,[COLOR=white][B]SIC NOTÍCIAS HD[/B][/COLOR][COLOR=white][/COLOR]
+https://sicnot.live.impresa.pt/sicnot540p.m3u8
+
+#EXTINF:-1,[COLOR=white][B]TVI FICÇÃO HD[/B][/COLOR][COLOR=white][/COLOR]
+https://bit.ly/3gejKxf?720p/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]PORTO CANAL[/B][/COLOR][COLOR=white][/COLOR]
+https://stream-07.ix7.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0ssRvDHtyLT8duXyGaLNNzaMf56Ib1C4nyvXHjH_SdQ7)/dm/3/x8egnb8/s/live-2.m3u8#cell=lcore
+#EXTINF:-1,[COLOR=white][B]EURONEWS - PLUTO TV[/B][/COLOR][COLOR=white][/COLOR]
+https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/2172b02e9431e5c79bc717e0cc555b4d.m3u8
 
 
 #EXTINF:-1,[COLOR=white][B]FOX COMEDY HD[/B][/COLOR][COLOR=white][/COLOR]
