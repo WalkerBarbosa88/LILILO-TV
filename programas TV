@@ -96,6 +96,9 @@ https://000000
 
 
 
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",EIXO DO MAL - 16/12/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/12/16/b9b95ed6-f6a4-469b-b454-c6a3a292aca8/eixo-1512-pgm_22hv00641014-540p.m3u8
+
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",EIXO DO MAL - 09/12/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/12/09/efb170ab-814a-4d90-978a-bf56827f7776/eixo-0812-pgm.m3u8
 
@@ -245,7 +248,7 @@ https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_202207180
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O OUTRO LADO - T7E26 11/07/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220711235955e026t0988.mp4/master.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
 
-#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O OUTRO LADO - T7E25 4/07/2022
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O OUTRO LADO - T7E25 04/07/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20220704000000e025t6101.mp4/master.m3u8|user-agent=RTP Play/1.0.36 (Linux;Android 11) ExoPlayerLib/2.11.8
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O OUTRO LADO - T7E24 27/06/2022
@@ -374,6 +377,9 @@ https://000000
 NOME DO PROGRAMA:  Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
 
 
+
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 17/12/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/12/16/ebffe6e0-b551-4621-b717-a5ff6f57e3c7/gs1512-pgm_22hv00643183-540p.m3u8
 
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 10/12/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/12/10/4bd68e0c-5c25-4e3d-9654-2b2aa3341d48/gs0912-v1.m3u8
