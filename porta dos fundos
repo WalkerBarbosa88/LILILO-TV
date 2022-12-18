@@ -6,7 +6,7 @@ http://0.0.0.0:00000
   
 #EXTM3U
 
-#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 05/10/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 18/12/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 #EXTINF:-1,[COLOR=yellow][B]//////////////////  PORTA DOS FUNDOS TV  //////////////////[/B][/COLOR][COLOR=white][/COLOR]
@@ -22,6 +22,19 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d
 
 #EXTINF:-1 group-title="VARIEDADES",[COLOR=white][B]PORTA DOS FUNDOS: TE PREGO LÁ FORA (FILME 2021)[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/movie/claud123/claud123/140255.mp4
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]VÁRIOS FILMES COMPILAÇÃO - NOV 2021[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=jMDMgx5oxQM
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]ESPECIAL ARCA DE NOÉ - DEZ 2017[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=jBW20BxRQTw
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]ESPECIAL DE NATAL - JESUS CRISTO - DEZ 2015[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=Dhjq7xSfS28&list=PLT0Smhj8chMWnLmy21b4aYJlGfopkF7s9&index=3
+
+#EXTINF:-1 tvg-logo="",[COLOR=white][B]ESPECIAL DE NATAL - O VELHO TESTAMENTO - DEZ 2014[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=tq6fw-KWSTE
+
 
 #EXTM3U
 
