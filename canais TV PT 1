@@ -11,7 +11,7 @@ http://0.0.0.0:0000
 https://tvgratuita10.blogspot.com/?fbclid=IwAR1hjt2fxRsjhUBFg6lhEEU1cbj3xHkyZ65tIOyWhApFByPIvawYYeSmHmo
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 16/12/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 19/12/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
@@ -101,8 +101,6 @@ https://sicnot.live.impresa.pt/sicnot540p.m3u8
 #EXTINF:-1,[COLOR=white][B]TVI FICÇÃO HD[/B][/COLOR][COLOR=white][/COLOR]
 https://bit.ly/3gejKxf?720p/playlist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]PORTO CANAL[/B][/COLOR][COLOR=white][/COLOR]
-https://stream-07.ix7.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0ssRvDHtyLT8duXyGaLNNzaMf56Ib1C4nyvXHjH_SdQ7)/dm/3/x8egnb8/s/live-2.m3u8#cell=lcore
 #EXTINF:-1,[COLOR=white][B]EURONEWS - PLUTO TV[/B][/COLOR][COLOR=white][/COLOR]
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/2172b02e9431e5c79bc717e0cc555b4d.m3u8
 
@@ -162,12 +160,11 @@ https://000000
 
 #EXTM3U
 
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: RTP 1 HD
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74365.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: RTP 1 FHD
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74366.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: RTP 2 HD
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74367.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: SIC HD
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74368.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: SIC FHD
@@ -192,15 +189,12 @@ http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74377.ts
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74378.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: SIC NOTÍCIAS HD
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74379.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CNN PORTUGAL
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74380.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: CMTV HD
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74381.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: CMTV FHD
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74382.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: A BOLA TV
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74383.ts
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: FOX
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74391.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: FOX
@@ -237,9 +231,6 @@ http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74408.ts
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74409.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORTING TV
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74410.ts
-
-
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: EUROSPORT 1
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74434.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: DISCOVERY CHANNEL
