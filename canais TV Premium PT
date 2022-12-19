@@ -21,32 +21,10 @@ http://0.0.0.0:0000
      Listas Várias - https://global-satinfo.in/viewforum.php?f=22&sid=14261766f220116fe35abb7ddf0e87e2
      
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 16/12/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 19/12/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
-
-
-####################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS DE TESTE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://00000000000
 
 #EXTM3U
-
-
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m3_UCWbpolpkgstvp_1080p
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m3_DFwhzUuzfistv1_1080p
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m3_FZukotDQWYstv2_1080p
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m3_eAb6FoNigKstv3_720p_2M
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m3_eargH0Pv9qstv4_720p_2M
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m3_L4QIjJorwjstv5_1080p
-
-#EXTM3U
-
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B] /////////  OUTROS CANAIS DESPORTO PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://00000000000
@@ -63,7 +41,6 @@ http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/332.m
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/332.m3u8
 #EXTINF:-1,[COLOR=white][B]EUROSPORT 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/159590.ts
-
 #EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="PORTUGAL",[COLOR=white][B]SPORTING TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/328.m3u8
 
@@ -89,7 +66,14 @@ http://extra-iptv-stream.com:80/live/99voce/rosa/218.ts
 http://ultimateiptv.me:8080/live/carthage-pro.fr/FC2CjXjUL3/2828.ts
 #EXTINF:-1,[COLOR=white][B]RAI SPORTS+ HD[/B][/COLOR][COLOR=white][/COLOR]
 http://tvip.world:80/ITALIJA/euasyKKe6C/3559.ts
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m3_UCWbpolpkgstvp_1080p
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74415.ts
 
+
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m3_DFwhzUuzfistv1_1080p
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/324.m3u8
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -98,22 +82,54 @@ http://superbits.tv:2095/live/jYNTPHGx/ayUbbFPX/68989.ts
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/324.m3u8
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 1 PT HD[/B][/COLOR][COLOR=white][/COLOR]
 http://j.jserv.me:80/Coco22/VLjG7xT25n/8328.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74417.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 4K[/B][/COLOR][COLOR=white][/COLOR]
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74418.ts
+
+
 #EXTINF:0 tvg-id="sporttv2.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/326.m3u8
 #EXTINF:0 tvg-id="sporttv2.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/159583.ts
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m3_FZukotDQWYstv2_1080p
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74419.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74420.ts
 
 
 #EXTINF:0 tvg-id="sporttv3.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/327.m3u8
 #EXTINF:0 tvg-id="sporttv3.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/159584.ts
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m3_eAb6FoNigKstv3_720p_2M
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3[/B][/COLOR][COLOR=white][/COLOR]
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74422.ts
+
 
 #EXTINF:0 tvg-id="sporttv4.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1783.m3u8
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m3_eargH0Pv9qstv4_720p_2M
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 4[/B][/COLOR][COLOR=white][/COLOR]
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74423.ts
+
+
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://api.magiaiptv.com/live/800379/268963/m3_L4QIjJorwjstv5_1080p
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 5[/B][/COLOR][COLOR=white][/COLOR]
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74424.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 5[/B][/COLOR][COLOR=white][/COLOR]
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74425.ts
 
 #EXTINF:-1,[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://superbits.tv:2095/live/jYNTPHGx/ayUbbFPX/249069.ts
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74414.ts
 
 
 #EXTM3U
@@ -155,8 +171,6 @@ http://api.magiaiptv.com/live/800379/268963/p3_jUB9PDqLPI4ma3xxj
 
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159605?checkedby:iptvcat.com
-#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
-ttp://api.magiaiptv.com/live/800379/268963/m2_ylU0WsVR9po4ChFn7J3vkMxb_720p
 
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 3 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://api.magiaiptv.com/live/800379/268963/m2_9DOg0PQW1aF8hTGrmHf6oqkV_720p_2M
@@ -230,6 +244,13 @@ http://cineapp.org:8000/Fernando/Fernando/2301?checkedby:iptvcat.net
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png",[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159587?checkedby:iptvcat.net
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74411.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BTV FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74412.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BTV 4K[/B][/COLOR][COLOR=white][/COLOR]
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74413.ts
+
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
  
 #EXTM3U
@@ -241,6 +262,13 @@ https://000000
 
 #EXTINF:-1 group-title="Sport",[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://cineapp.org:8000/Fernando/Fernando/7451?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74426.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74427.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 1 4K[/B][/COLOR][COLOR=white][/COLOR]
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74428.ts
+
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/159577.ts
@@ -248,6 +276,10 @@ http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/159577.ts
 http://cineapp.org:8000/Fernando/Fernando/7452?checkedby:iptvcat.net
 #EXTINF:-1 group-title="Sport" tvg-logo="https://www.nicepng.com/png/detail/140-1402045_eleven-sports-eleven-sports-2-logo.png",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159577?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74429.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74430.ts
 
 #EXTINF:0 tvg-id="ElevenSports3.pt" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2533/index.m3u8
@@ -257,6 +289,10 @@ http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/7062/index.m3u8
 http://cineapp.org:8000/Fernando/Fernando/7453?checkedby:iptvcat.net
 #EXTINF:-1 group-title="Sport" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-3-hd.png",[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159578?checkedby:iptvcat.net
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74432.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 3 FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74433.ts
 
 #EXTINF:-1 group-title="Sport",[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://cineapp.org:8000/Fernando/Fernando/7454?checkedby:iptvcat.net
@@ -281,8 +317,21 @@ https://0000000
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
-http://000000000000000
-
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NOS STUDIOS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74404.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74384.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EMOTON HD[/B][/COLOR][COLOR=white][/COLOR]
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74385.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EMOTON FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74386.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EDITION HD[/B][/COLOR][COLOR=white][/COLOR]
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74387.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EDITION FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74388.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE ACTION HD[/B][/COLOR][COLOR=white][/COLOR]
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74389.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE ACTION FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74390.ts
 
 
