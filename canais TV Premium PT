@@ -58,14 +58,6 @@ http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2530/index.m3u8
 #EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/159582.ts
-#EXTINF:-1,[COLOR=white][B]RAI SPORTS+ HD[/B][/COLOR][COLOR=white][/COLOR]
-http://superbits.tv:2095/live/jYNTPHGx/ayUbbFPX/51017.ts
-#EXTINF:-1,[COLOR=white][B]RAI SPORTS+ HD[/B][/COLOR][COLOR=white][/COLOR]
-http://extra-iptv-stream.com:80/live/99voce/rosa/218.ts
-#EXTINF:-1,[COLOR=white][B]RAI SPORTS+ HD[/B][/COLOR][COLOR=white][/COLOR]
-http://ultimateiptv.me:8080/live/carthage-pro.fr/FC2CjXjUL3/2828.ts
-#EXTINF:-1,[COLOR=white][B]RAI SPORTS+ HD[/B][/COLOR][COLOR=white][/COLOR]
-http://tvip.world:80/ITALIJA/euasyKKe6C/3559.ts
 #EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
 http://api.magiaiptv.com/live/800379/268963/m3_UCWbpolpkgstvp_1080p
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -178,6 +170,15 @@ http://api.magiaiptv.com/live/800379/268963/m2_9DOg0PQW1aF8hTGrmHf6oqkV_720p_2M
 http://api.magiaiptv.com/live/800379/268963/m1_vzd4MQvFCKUahymwGL_1080p
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 3 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159606?checkedby:iptvcat.com
+
+#EXTINF:-1,[COLOR=white][B]RAI SPORTS+ HD[/B][/COLOR][COLOR=white][/COLOR]
+http://superbits.tv:2095/live/jYNTPHGx/ayUbbFPX/51017.ts
+#EXTINF:-1,[COLOR=white][B]RAI SPORTS+ HD[/B][/COLOR][COLOR=white][/COLOR]
+http://extra-iptv-stream.com:80/live/99voce/rosa/218.ts
+#EXTINF:-1,[COLOR=white][B]RAI SPORTS+ HD[/B][/COLOR][COLOR=white][/COLOR]
+http://ultimateiptv.me:8080/live/carthage-pro.fr/FC2CjXjUL3/2828.ts
+#EXTINF:-1,[COLOR=white][B]RAI SPORTS+ HD[/B][/COLOR][COLOR=white][/COLOR]
+http://tvip.world:80/ITALIJA/euasyKKe6C/3559.ts
 
 #EXTINF:-1,[COLOR=white][B]BEIN SPORTS 1 MAX HD[/B][/COLOR][COLOR=white][/COLOR]
 https://streamermytvc.com/Bein-Sp-Max-1-LB+ph===---/cache/Bein-Sp-Max-1-LB/master.m3u8
