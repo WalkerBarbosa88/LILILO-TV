@@ -162,9 +162,6 @@ https://000000
 
 #EXTM3U
 
-
-
-#EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: RTP 1
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74365.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: RTP 1
@@ -315,7 +312,7 @@ http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74440.ts
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74441.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: GLOBO 
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74442.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: GLOBO NOW
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: GLOBO NEWS
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74443.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: TV RECORD
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74444.ts
