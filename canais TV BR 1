@@ -3,7 +3,7 @@
 http://0.0.0.0:0000
 ############################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 16/12/2022[/B][/COLOR][COLOR=orange][/COLOR] 
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 19/12/2022[/B][/COLOR][COLOR=orange][/COLOR] 
 
 Fonte de Informação: 
 
@@ -227,14 +227,11 @@ https://000000
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=white][B]URBAN TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://200.194.238.229:8383/live/urbantv/playlist.m3u8
+
 #EXTINF:-1,[COLOR=white][B]URBAN TV KIDS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]URBAN TV MOVIES HD[/B][/COLOR][COLOR=white][/COLOR]
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]URBAN TV DOC´S HD[/B][/COLOR][COLOR=white][/COLOR]
-http://200.194.238.229:8383/live/urbandocs/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]URBAN TV SÉRIES HD[/B][/COLOR][COLOR=white][/COLOR]
 http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
 
