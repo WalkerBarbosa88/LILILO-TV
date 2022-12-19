@@ -121,16 +121,7 @@ plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://ap
 #EXTINF:-1,[COLOR=white][B]FOX COMEDY HD[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/89499
 
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",[COLOR=white][B]EUROSPORT 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23248.m3u8
-#EXTINF:0 tvg-id="esp" group-title="PORTUGAL",[COLOR=white][B]EUROSPORT 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/331.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",[COLOR=white][B]EUROSPORT 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/332.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",[COLOR=white][B]EUROSPORT 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/332.m3u8
-#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="PORTUGAL",[COLOR=white][B]SPORTING TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/328.m3u8
+
 
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",[COLOR=white][B]BABY TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/483.m3u8
@@ -152,10 +143,6 @@ http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/479.m
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/478.m3u8
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",[COLOR=white][B]DISNEY JUNIOR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/477.m3u8
-#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",[COLOR=white][B]EUROSPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23248.m3u8
-#EXTINF:0 tvg-id="esp" group-title="PORTUGAL",[COLOR=white][B]EUROSPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/331.m3u8
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",[COLOR=white][B]NICK JUNIOR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/487.m3u8
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",[COLOR=white][B]NICKELODEON HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -178,173 +165,173 @@ https://000000
 
 
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: RTP 1 ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: RTP 1
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74365.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: RTP 1 ᶠʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: RTP 1
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74366.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: RTP 2 ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: RTP 2
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74367.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SIC ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SIC
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74368.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SIC ᶠʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SIC
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74369.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVI  ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVI
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74370.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVI ᶠʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVI
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74371.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SIC RADICALʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SIC RADICAL
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74372.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVI FICÇAO ᶠʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVI FICÇÃO
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74373.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: RTP 3 ᶠʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: RTP 3
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74374.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SIC MULHER ᶠʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SIC MULHER
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74375.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SIC CARAS ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SIC CARAS
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74376.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SIC MULHER ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SIC MULHER
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74377.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVI REALITY ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVI REALITY
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74378.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SIC NOTICIAS ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SIC NOTICIAS
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74379.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVI 24 ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CNN PORTUGAL
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74380.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CMTV ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CMTV
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74381.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CMTV ᶠʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CMTV
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74382.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: A BOLA ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: A BOLA TV
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74383.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE TOP ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE TOP
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74384.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE EMOTON ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE EMOTON
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74385.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE EMOTON ᶠʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE EMOTON
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74386.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE EDITION ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE EDITION
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74387.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE EDITION ᶠʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE EDITION
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74388.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE ACTION ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE ACTION
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74389.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE ACTION ᶠʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE ACTION
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74390.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: FOX ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: FOX
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74391.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: FOX ᶠʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: FOX
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74392.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: FOX LIFE ᶠʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: FOX LIFE
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74393.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: FOX CRIME ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: FOX CRIME
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74394.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: FOX MOVIES ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: FOX MOVIES
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74395.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: FOX COMEDY ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: FOX COMEDY
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74396.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: AXN ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: AXN
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74397.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: AXN ᶠʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: AXN
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74398.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: AXN WHITE ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: AXN WHITE
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74399.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: AXN WHITE ᶠʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: AXN WHITE
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74400.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: AXN MOVIES ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: AXN MOVIES
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74401.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CINEMUNDO ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CINEMUNDO
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74402.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CINEMUNDO ᶠʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CINEMUNDO
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74403.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: NOS STUDIOS ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: NOS STUDIOS
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74404.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: NOS STUDIOS ᶠʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: NOS STUDIOS
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74405.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: HOLLYWOOD ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: HOLLYWOOD
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74407.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: AMC ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: AMC
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74408.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CANAL 11 ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CANAL 11
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74409.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORTING TV 1 ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORTING TV
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74410.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: BENFICA TV ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: BTV
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74411.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: BENFICA TV ᶠʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: BTV
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74412.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: BENFICA TV 4K ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: BTV 4K
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74413.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV NBA ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV NBA
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74414.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV + ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV+
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74415.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 1 ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 1
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74416.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 1 ᶠʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 1
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74417.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 1 4K ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 1 4K
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74418.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 2 ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 2
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74419.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 2 ᶠʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 2
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74420.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 3 ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 3
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74422.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 4 ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 4
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74423.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Sport Tv 5 ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Sport Tv 5
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74424.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 5 ᶠʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 5
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74425.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 1 ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 1
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74426.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 1 ᶠʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 1
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74427.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 1 4K ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 1 4K
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74428.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 2 ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 2
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74429.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 2 ᶠʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 2
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74430.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 3  ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 3
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74432.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 3  ᶠʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 3
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74433.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: EUROSPORT 1 ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: EUROSPORT 1
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74434.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: DISCOVERY CHANNEL ᶠʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: DISCOVERY CHANNEL
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74435.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: NATIONAL GEOGRAPHIC WILD ᶠʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: NATIONAL GEOGRAPHIC WILD
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74436.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: NATIONAL GEOGRAPHIC ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: NATIONAL GEOGRAPHIC
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74437.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ODISSEIA ᶠʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ODISSEIA
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74438.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: HISTORIA ᶠʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: HISTORIA
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74439.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ID INVESTIGATION DISCOVERY ᶠʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ID INVESTIGATION DISCOVERY
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74440.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: GLOBO ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: GLOBO HD
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74441.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: GLOBO ᶠʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: GLOBO 
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74442.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: GLOBO NOW ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: GLOBO NOW
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74443.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TV RECORD ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TV RECORD
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74444.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CASA COZINHA ʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CASA & COZINHA
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74445.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CASA E COZINHA ᶠʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CASA & COZINHA
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74446.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: 24 KITCHEN ᶠʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: 24 KITCHEN
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74447.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SYFY ᶠʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SYFY
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74448.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: E! ENTERTAINMENT ᶠʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: E! ENTERTAINMENT
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74449.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: BLAZE ᶠʰᵈ ᴴ²⁶⁵
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: BLAZE
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74450.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ZAP VIVA ᶠʰᵈ
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ZAP VIVA
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74451.ts
 
 
