@@ -4,7 +4,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 11/12/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 19/12/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -170,11 +170,11 @@ https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]CLUBBING TV[/B][/COLOR][COLOR=white][/COLOR]
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 # https://www.youtube.com/channel/UCalCDSmZAYD73tqVZ4l8yJg
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gr55mAl.jpg" group-title="",[COLOR=white][B]ASOT TV[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]ASOT TV HD[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=5lMmnfVylEE
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gr55mAl.jpg" group-title="",[COLOR=white][B]TOMORROWLAND - ONE WORLD RADIO[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]TOMORROWLAND - ONE WORLD RADIO[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=araK9j8mN9Y
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gr55mAl.jpg" group-title="",[COLOR=white][B]TOMORROWLAND - DAYBREAK SESSIONS[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]TOMORROWLAND - DAYBREAK SESSIONS[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=CIVFy3NKGMU
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8Ak6qR.png" group-title="",[COLOR=white][B]IBIZA GLOBAL TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
@@ -323,9 +323,6 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chun
 #EXTINF:-1 tvg-name="Retro Plus 2 HD" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/i0rZsgG.png",[COLOR=white][B]RETRO TV 3 SD[/B][/COLOR][COLOR=white][/COLOR]
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
  
-#EXTINF:-1,[COLOR=white][B]REWING TV[/B][/COLOR][COLOR=white][/COLOR]
-https://tls-cl.cdnz.cl/rewindtv/live/chunklist.m3u8
-
 #EXTINF:-1,[COLOR=white][B]VINTAGE RADIO TV[/B][/COLOR][COLOR=white][/COLOR]
 http://5f22d76e220e1.streamlock.net:1935/vintageradiotv/vintageradiotv/chunklist.m3u8
 
@@ -340,9 +337,6 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,[COLOR=white][B]VINTAGE RADIO TV[/B][/COLOR][COLOR=white][/COLOR]
 http://5f22d76e220e1.streamlock.net:1935/vintageradiotv/vintageradiotv/chunklist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]REWIND TV & RÁDIO HD[/B][/COLOR][COLOR=white][/COLOR]
-https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,[COLOR=white][B]RECUERDOS RETRO HD[/B][/COLOR][COLOR=white][/COLOR]
 https://593b04c4c5670.streamlock.net/8002/8002/playlist.m3u8
@@ -482,8 +476,6 @@ https://kmtvnow-samsung-us.plex.wurl.tv/playlist.m3u8
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]OXIGENO TV[/B][/COLOR][COLOR=white][/COLOR]
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]TROPICAL URBAN TV[/B][/COLOR][COLOR=white][/COLOR]
-https://srv.panelcast.net/urbantv/urbantv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]VOICE OVER TV[/B][/COLOR][COLOR=white][/COLOR]
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
 
@@ -597,7 +589,7 @@ https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c
 
 
 ######################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 11/12/2022 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 19/12/2022 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
