@@ -88,15 +88,23 @@ http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/chunklist_w1683699584.m3u8
 #EXTM3U
 
 
+#EXTINF:-1,[COLOR=white][B]RTP 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://162.212.178.69:41042/bysid/608
 #EXTINF:-1,[COLOR=white][B]RTP INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
 http://162.212.178.69:41042/bysid/608
 #EXTINF:-1,[COLOR=white][B]RTP INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
-#EXTVLCOPT:http-user-agent=Opera
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
+http://210.210.155.37/qwr9ew/s/s38/index.m3u8
+
+
 #EXTINF:-1,[COLOR=white][B]SIC HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_5.m3u8
+#EXTINF:-1,[COLOR=white][B]SIC HD[/B][/COLOR][COLOR=white][/COLOR]
+https://sic.live.impresa.pt/sic.m3u8
+
 #EXTINF:-1,[COLOR=white][B]SIC NOTÍCIAS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://sicnot.live.impresa.pt/sicnot540p.m3u8
+#EXTINF:-1,[COLOR=white][B]SIC NOTÍCIAS HD[/B][/COLOR][COLOR=white][/COLOR]
+https://sicnot.live.impresa.pt/sicnot.m3u8
 
 #EXTINF:-1,[COLOR=white][B]TVI FICÇÃO HD[/B][/COLOR][COLOR=white][/COLOR]
 https://bit.ly/3gejKxf?720p/playlist.m3u8
