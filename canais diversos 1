@@ -523,6 +523,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0
 https://000000
 
 
+#EXTINF:-1,[COLOR=white][B]BBC WORLD NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1,[COLOR=white][B]CNA INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+
 #EXTINF:-1,[COLOR=white][B]JOVEM PAN NEWS BR.[/B][/COLOR][COLOR=white][/COLOR]
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 #EXTINF:-1,[COLOR=white][B]7 NOTÍCIAS ES[/B][/COLOR][COLOR=white][/COLOR]
