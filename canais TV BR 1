@@ -37,8 +37,22 @@ https://stmv1.srvif.com/webvintage/webvintage/chunklist_w1086155908.m3u8
 https://stmv.video.expressolider.com.br/ghostv/ghostv/chunklist_w1382243850.m3u8
 #EXTINF:-1,[COLOR=white][B]TV MAX HD[/B][/COLOR][COLOR=white][/COLOR]
 https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
-#EXTINF:-1,[COLOR=white][B]CANAL SAUDE BR HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]CANAL SAUDE HD[/B][/COLOR][COLOR=white][/COLOR]
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/chunklist.m3u8
+#EXTINF:-1,[COLOR=white][B]JETSONS TV SD[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w380353535.m3u8
+#EXTINF:-1,[COLOR=white][B]RUNTIME HD[/B][/COLOR][COLOR=white][/COLOR]
+https://stream.ads.ottera.tv/cl/PKxkoWjdTKng2XkUzbTC5/1280x720_3071200_0_f.m3u8
+#EXTINF:-1,[COLOR=white][B]RUNTIME ACÇÃO HD[/B][/COLOR][COLOR=white][/COLOR]
+https://stream.ads.ottera.tv/cl/68nRLPdS2TvJbvOg84iD_/1280x720_3071200_0_f.m3u8
+#EXTINF:-1,[COLOR=white][B]RUNTIME COMÉDIA HD[/B][/COLOR][COLOR=white][/COLOR]
+https://stream.ads.ottera.tv/cl/kwEJWouSM_yPdYAk-Hh8J/1280x720_3071200_0_f.m3u8
+#EXTINF:-1,[COLOR=white][B]TV TROPICAL HD[/B][/COLOR][COLOR=white][/COLOR]
+https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/chunklist_w143304164.m3u8
+#EXTINF:-1,[COLOR=white][B]CLASSIQUE TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv1.srvif.com/classique/classique/chunklist_w323924929.m3u8
+#EXTINF:-1,[COLOR=white][B]TOP MIX TV SD[/B][/COLOR][COLOR=white][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w1210248687.m3u8
 
 
 ##########################################################################################################################################
