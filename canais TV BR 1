@@ -3,7 +3,7 @@
 http://0.0.0.0:0000
 ############################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 19/12/2022[/B][/COLOR][COLOR=orange][/COLOR] 
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 22/12/2022[/B][/COLOR][COLOR=orange][/COLOR] 
 
 Fonte de Informação: 
 
@@ -307,4 +307,336 @@ http://api.magiaiptv.com/live/800379/268963/m2_tr4XCBTcjDSAeTqKva_1080p
 http://api.magiaiptv.com/live/800379/268963/m1_V8rYXO05ZFn3R3BeT_1080p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/31c5bf29-c14f-4d9b-be9e-897852da9ffc" parent-code="" group-title="Canais 4K",[COLOR=white][B]TELECINE TOUCH FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://api.magiaiptv.com/live/800379/268963/m2_X1oPbHVx1IJxY5Mhqr_1080p
+
+
+
+
+
+##########################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  LISTA CANAIS BR 2  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+#EXTM3U
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL BRASIL FHD H265
+http://conexaoonline.top:80/3071640880/1748113924/80
+#EXTINF:0 tvg-id="Canalbrasil.br" group-title="Channels",CANAL BRASIL HD
+http://conexaoonline.top:80/3071640880/1748113924/336
+#EXTINF:0 tvg-id="Canalbrasil.br" group-title="Channels",CANAL BRASIL SD
+http://conexaoonline.top:80/3071640880/1748113924/199
+#EXTINF:0 tvg-id="CanaldoBoi.br" group-title="Channels",CANAL DO BOI
+http://conexaoonline.top:80/3071640880/1748113924/18069
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL DO BOI FHD
+http://conexaoonline.top:80/3071640880/1748113924/25688
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL DO BOI FHD²
+http://conexaoonline.top:80/3071640880/1748113924/234905
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL DO BOI HD²
+http://conexaoonline.top:80/3071640880/1748113924/234906
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL DO BOI SD²
+http://conexaoonline.top:80/3071640880/1748113924/234907
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL FUTURA FHD²
+http://conexaoonline.top:80/3071640880/1748113924/234908
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL FUTURA SD²
+http://conexaoonline.top:80/3071640880/1748113924/234909
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal Lá Red Hd
+http://conexaoonline.top:80/3071640880/1748113924/20486
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL OFF FHD H265²
+http://conexaoonline.top:80/3071640880/1748113924/234910
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL OFF FHD²
+http://conexaoonline.top:80/3071640880/1748113924/234911
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL OFF HD²
+http://conexaoonline.top:80/3071640880/1748113924/234912
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL OFF SD²
+http://conexaoonline.top:80/3071640880/1748113924/234913
+#EXTINF:0 tvg-id="Canalrural.br" group-title="Channels",CANAL RURAL
+http://conexaoonline.top:80/3071640880/1748113924/2202
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL SONY FHD H265²
+http://conexaoonline.top:80/3071640880/1748113924/234914
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL SONY FHD²
+http://conexaoonline.top:80/3071640880/1748113924/234915
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL SONY HD LEG
+http://conexaoonline.top:80/3071640880/1748113924/285516
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL SONY HD²
+http://conexaoonline.top:80/3071640880/1748113924/234916
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL SONY SD LEG
+http://conexaoonline.top:80/3071640880/1748113924/285515
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL SONY SD²
+http://conexaoonline.top:80/3071640880/1748113924/234917
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL WOOHOO FHD H265²
+http://conexaoonline.top:80/3071640880/1748113924/234918
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL WOOHOO FHD²
+http://conexaoonline.top:80/3071640880/1748113924/234919
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL WOOHOO HD²
+http://conexaoonline.top:80/3071640880/1748113924/234920
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL WOOHOO SD²
+http://conexaoonline.top:80/3071640880/1748113924/234921
+#EXTINF:0 tvg-id="Cancaonova.br" group-title="Channels",CANCAO NOVA FHD
+http://conexaoonline.top:80/3071640880/1748113924/2040
+#EXTINF:0 tvg-id="CancaoNova.br" group-title="Channels",CANCAO NOVA SD
+http://conexaoonline.top:80/3071640880/1748113924/212
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANÇÃO NOVA FHD²
+http://conexaoonline.top:80/3071640880/1748113924/234922
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANÇÃO NOVA HD²
+http://conexaoonline.top:80/3071640880/1748113924/234923
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 2 FHD H265
+http://conexaoonline.top:80/3071640880/1748113924/71
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 2 FHD H265²
+http://conexaoonline.top:80/3071640880/1748113924/234440
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 2 FHD²
+http://conexaoonline.top:80/3071640880/1748113924/234441
+#EXTINF:0 tvg-id="Premiere2.br" group-title="Channels",PREMIERE 2 HD
+http://conexaoonline.top:80/3071640880/1748113924/291
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 2 HD²
+http://conexaoonline.top:80/3071640880/1748113924/234442
+#EXTINF:0 tvg-id="Premiere2.br" group-title="Channels",PREMIERE 2 SD
+http://conexaoonline.top:80/3071640880/1748113924/2097
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 2 SD²
+http://conexaoonline.top:80/3071640880/1748113924/234443
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 3 FHD H265
+http://conexaoonline.top:80/3071640880/1748113924/72
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 3 FHD H265²
+http://conexaoonline.top:80/3071640880/1748113924/234444
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 3 FHD²
+http://conexaoonline.top:80/3071640880/1748113924/234445
+#EXTINF:0 tvg-id="Premiere3.br" group-title="Channels",PREMIERE 3 HD
+http://conexaoonline.top:80/3071640880/1748113924/292
+#EXTINF:0 tvg-id="Premiere3.br" group-title="Channels",PREMIERE 3 SD
+http://conexaoonline.top:80/3071640880/1748113924/2098
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 3 SD²
+http://conexaoonline.top:80/3071640880/1748113924/234446
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 4 FHD H265
+http://conexaoonline.top:80/3071640880/1748113924/73
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 4 FHD H265²
+http://conexaoonline.top:80/3071640880/1748113924/234447
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 4 FHD²
+http://conexaoonline.top:80/3071640880/1748113924/234448
+#EXTINF:0 tvg-id="Premiere4.br" group-title="Channels",PREMIERE 4 HD
+http://conexaoonline.top:80/3071640880/1748113924/290
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 4 HD²
+http://conexaoonline.top:80/3071640880/1748113924/234449
+#EXTINF:0 tvg-id="Premiere4.br" group-title="Channels",PREMIERE 4 SD
+http://conexaoonline.top:80/3071640880/1748113924/251
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 4 SD²
+http://conexaoonline.top:80/3071640880/1748113924/234450
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 5 FHD H265
+http://conexaoonline.top:80/3071640880/1748113924/101
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 5 FHD H265²
+http://conexaoonline.top:80/3071640880/1748113924/234451
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 5 FHD²
+http://conexaoonline.top:80/3071640880/1748113924/234452
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 5 HD
+http://conexaoonline.top:80/3071640880/1748113924/293
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 5 HD²
+http://conexaoonline.top:80/3071640880/1748113924/234453
+#EXTINF:0 tvg-id="Premiere5.br" group-title="Channels",PREMIERE 5 SD
+http://conexaoonline.top:80/3071640880/1748113924/2099
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 5 SD²
+http://conexaoonline.top:80/3071640880/1748113924/234454
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 6 FHD H265
+http://conexaoonline.top:80/3071640880/1748113924/102
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 6 FHD H265²
+http://conexaoonline.top:80/3071640880/1748113924/234455
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 6 FHD²
+http://conexaoonline.top:80/3071640880/1748113924/234456
+#EXTINF:0 tvg-id="Premiere6.br" group-title="Channels",PREMIERE 6 HD
+http://conexaoonline.top:80/3071640880/1748113924/294
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 6 HD²
+http://conexaoonline.top:80/3071640880/1748113924/234457
+#EXTINF:0 tvg-id="Premiere6.br" group-title="Channels",PREMIERE 6 SD
+http://conexaoonline.top:80/3071640880/1748113924/2100
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 6 SD²
+http://conexaoonline.top:80/3071640880/1748113924/234458
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 7 FHD H265
+http://conexaoonline.top:80/3071640880/1748113924/115
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 7 FHD H265²
+http://conexaoonline.top:80/3071640880/1748113924/234459
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 7 FHD²
+http://conexaoonline.top:80/3071640880/1748113924/234460
+#EXTINF:0 tvg-id="Premiere7.br" group-title="Channels",PREMIERE 7 HD
+http://conexaoonline.top:80/3071640880/1748113924/2101
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 7 HD²
+http://conexaoonline.top:80/3071640880/1748113924/234461
+#EXTINF:0 tvg-id="Premiere7.br" group-title="Channels",PREMIERE 7 SD
+http://conexaoonline.top:80/3071640880/1748113924/252
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE 7 SD²
+http://conexaoonline.top:80/3071640880/1748113924/234462
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE CLUBES FHD H265
+http://conexaoonline.top:80/3071640880/1748113924/70
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE CLUBES FHD H265²
+http://conexaoonline.top:80/3071640880/1748113924/234463
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE CLUBES FHD²
+http://conexaoonline.top:80/3071640880/1748113924/234464
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="Channels",PREMIERE CLUBES HD
+http://conexaoonline.top:80/3071640880/1748113924/289
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE CLUBES HD²
+http://conexaoonline.top:80/3071640880/1748113924/234466
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="Channels",PREMIERE CLUBES SD
+http://conexaoonline.top:80/3071640880/1748113924/259
+#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE CLUBES SD²
+http://conexaoonline.top:80/3071640880/1748113924/234465
+#EXTINF:0 tvg-id="ext" group-title="Channels",PRIME BOX BRAZIL FHD²
+http://conexaoonline.top:80/3071640880/1748113924/235080
+#EXTINF:0 tvg-id="ext" group-title="Channels",PRIME BOX BRAZIL HD²
+http://conexaoonline.top:80/3071640880/1748113924/235081
+#EXTINF:0 tvg-id="ext" group-title="Channels",PRIME BOX BRAZIL SD²
+http://conexaoonline.top:80/3071640880/1748113924/235082
+#EXTINF:0 tvg-id="ext" group-title="Channels",PRIMEBOX BRASIL SD
+http://conexaoonline.top:80/3071640880/1748113924/218
+#EXTINF:0 tvg-id="ext" group-title="Channels",CARTONITO FHD²
+http://conexaoonline.top:80/3071640880/1748113924/235213
+#EXTINF:0 tvg-id="ext" group-title="Channels",CARTONITO HD²
+http://conexaoonline.top:80/3071640880/1748113924/235214
+#EXTINF:0 tvg-id="ext" group-title="Channels",CARTONITO SD²
+http://conexaoonline.top:80/3071640880/1748113924/235215
+#EXTINF:0 tvg-id="ext" group-title="Channels",CARTOON 4K H265
+http://conexaoonline.top:80/3071640880/1748113924/285558
+#EXTINF:0 tvg-id="ext" group-title="Channels",CARTOON NETWORK FHD H265
+http://conexaoonline.top:80/3071640880/1748113924/38
+#EXTINF:0 tvg-id="ext" group-title="Channels",CARTOON NETWORK FHD H265²
+http://conexaoonline.top:80/3071640880/1748113924/234925
+#EXTINF:0 tvg-id="ext" group-title="Channels",CARTOON NETWORK FHD²
+http://conexaoonline.top:80/3071640880/1748113924/234926
+#EXTINF:0 tvg-id="cartoon" group-title="Channels",CARTOON NETWORK HD
+http://conexaoonline.top:80/3071640880/1748113924/338
+#EXTINF:0 tvg-id="cartoon" group-title="Channels",CARTOON NETWORK SD
+http://conexaoonline.top:80/3071640880/1748113924/239
+#EXTINF:0 tvg-id="ext" group-title="Channels",CARTOON NETWORK SD²
+http://conexaoonline.top:80/3071640880/1748113924/234927
+#EXTINF:0 tvg-id="CDFBasico.cl" group-title="Channels",CDF Basico
+http://conexaoonline.top:80/3071640880/1748113924/25675
+#EXTINF:0 tvg-id="ext" group-title="Channels",CDO Basico
+http://conexaoonline.top:80/3071640880/1748113924/25678
+#EXTINF:0 tvg-id="ext" group-title="Channels",CDO Premium
+http://conexaoonline.top:80/3071640880/1748113924/25679
+#EXTINF:0 tvg-id="Chilevision.cl" group-title="Channels",Chilevision
+http://conexaoonline.top:80/3071640880/1748113924/25680
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE 01
+http://conexaoonline.top:80/3071640880/1748113924/110737
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE 02
+http://conexaoonline.top:80/3071640880/1748113924/110738
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE 03
+http://conexaoonline.top:80/3071640880/1748113924/110739
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE 04
+http://conexaoonline.top:80/3071640880/1748113924/110740
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE 06
+http://conexaoonline.top:80/3071640880/1748113924/110742
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE 08
+http://conexaoonline.top:80/3071640880/1748113924/110744
+#EXTINF:0 tvg-id="Cine12.mu" group-title="Channels",CINE 12
+http://conexaoonline.top:80/3071640880/1748113924/110748
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE 13
+http://conexaoonline.top:80/3071640880/1748113924/110749
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE 16
+http://conexaoonline.top:80/3071640880/1748113924/110752
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE DISNEY
+http://conexaoonline.top:80/3071640880/1748113924/59711
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE MARVEL
+http://conexaoonline.top:80/3071640880/1748113924/59557
+#EXTINF:0 tvg-id="discov_sci" group-title="Channels",CINE SKY 1
+http://conexaoonline.top:80/3071640880/1748113924/20574
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SKY 10
+http://conexaoonline.top:80/3071640880/1748113924/25716
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SKY 11
+http://conexaoonline.top:80/3071640880/1748113924/25717
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SKY 12
+http://conexaoonline.top:80/3071640880/1748113924/25718
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SKY 13
+http://conexaoonline.top:80/3071640880/1748113924/25719
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SKY 14
+http://conexaoonline.top:80/3071640880/1748113924/25720
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SKY 2
+http://conexaoonline.top:80/3071640880/1748113924/20575
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SKY 3
+http://conexaoonline.top:80/3071640880/1748113924/20629
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SKY 4
+http://conexaoonline.top:80/3071640880/1748113924/20630
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SKY 5
+http://conexaoonline.top:80/3071640880/1748113924/20719
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SKY 6
+http://conexaoonline.top:80/3071640880/1748113924/20729
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SKY 7
+http://conexaoonline.top:80/3071640880/1748113924/20730
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SKY 8
+http://conexaoonline.top:80/3071640880/1748113924/25714
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SKY 9
+http://conexaoonline.top:80/3071640880/1748113924/25715
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SUCESSOS
+http://conexaoonline.top:80/3071640880/1748113924/166180
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cine Trapalhões
+http://conexaoonline.top:80/3071640880/1748113924/59531
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINEMAX FHD H265
+http://conexaoonline.top:80/3071640880/1748113924/81
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINEMAX FHD H265²
+http://conexaoonline.top:80/3071640880/1748113924/234928
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINEMAX FHD²
+http://conexaoonline.top:80/3071640880/1748113924/234929
+#EXTINF:0 tvg-id="CineMAX.ro" group-title="Channels",CINEMAX HD
+http://conexaoonline.top:80/3071640880/1748113924/339
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINEMAX HD²
+http://conexaoonline.top:80/3071640880/1748113924/234930
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Channels",CINEMAX SD
+http://conexaoonline.top:80/3071640880/1748113924/217
+#EXTINF:0 tvg-id="ext" group-title="Channels",CLIMA TEMPO SD
+http://conexaoonline.top:80/3071640880/1748113924/18160
+#EXTINF:0 tvg-id="ext" group-title="Channels",CNN BRASIL 4K H265
+http://conexaoonline.top:80/3071640880/1748113924/285569
+#EXTINF:0 tvg-id="ext" group-title="Channels",CNN BRASIL FHD H265
+http://conexaoonline.top:80/3071640880/1748113924/19651
+#EXTINF:0 tvg-id="ext" group-title="Channels",CNN BRASIL FHD H265²
+http://conexaoonline.top:80/3071640880/1748113924/234931
+#EXTINF:0 tvg-id="ext" group-title="Channels",CNN BRASIL FHD²
+http://conexaoonline.top:80/3071640880/1748113924/234932
+#EXTINF:0 tvg-id="ext" group-title="Channels",CNN BRASIL HD
+http://conexaoonline.top:80/3071640880/1748113924/19716
+#EXTINF:0 tvg-id="ext" group-title="Channels",CNN BRASIL HD²
+http://conexaoonline.top:80/3071640880/1748113924/234933
+#EXTINF:0 tvg-id="CNNBrasil.br" group-title="Channels",CNN BRASIL SD
+http://conexaoonline.top:80/3071640880/1748113924/19715
+#EXTINF:0 tvg-id="ext" group-title="Channels",CNN BRASIL SD²
+http://conexaoonline.top:80/3071640880/1748113924/234934
+#EXTINF:0 tvg-id="CNNChile.cl" group-title="Channels",Cnn Chile
+http://conexaoonline.top:80/3071640880/1748113924/25681
+#EXTINF:0 tvg-id="ext" group-title="Channels",CNN INTERNACIONAL HD
+http://conexaoonline.top:80/3071640880/1748113924/192
+#EXTINF:0 tvg-id="Cnt.br" group-title="Channels",CNT
+http://conexaoonline.top:80/3071640880/1748113924/2044
+#EXTINF:0 tvg-id="ext" group-title="Channels",COMBATE FHD H265
+http://conexaoonline.top:80/3071640880/1748113924/39
+#EXTINF:0 tvg-id="ext" group-title="Channels",COMBATE FHD H265²
+http://conexaoonline.top:80/3071640880/1748113924/234935
+#EXTINF:0 tvg-id="ext" group-title="Channels",COMBATE FHD²
+http://conexaoonline.top:80/3071640880/1748113924/234936
+#EXTINF:0 tvg-id="Combate.br" group-title="Channels",COMBATE HD
+http://conexaoonline.top:80/3071640880/1748113924/340
+#EXTINF:0 tvg-id="ext" group-title="Channels",COMBATE HD²
+http://conexaoonline.top:80/3071640880/1748113924/234937
+#EXTINF:0 tvg-id="Combate.br" group-title="Channels",COMBATE SD
+http://conexaoonline.top:80/3071640880/1748113924/202
+#EXTINF:0 tvg-id="ext" group-title="Channels",COMBATE SD²
+http://conexaoonline.top:80/3071640880/1748113924/234938
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Channels",COMEDY CENTRAL
+http://conexaoonline.top:80/3071640880/1748113924/42541
+#EXTINF:0 tvg-id="ext" group-title="Channels",COMEDY CENTRAL 4K H265
+http://conexaoonline.top:80/3071640880/1748113924/285560
+#EXTINF:0 tvg-id="ext" group-title="Channels",COMEDY CENTRAL FHD H265
+http://conexaoonline.top:80/3071640880/1748113924/40
+#EXTINF:0 tvg-id="ext" group-title="Channels",COMEDY CENTRAL FHD H265²
+http://conexaoonline.top:80/3071640880/1748113924/234939
+#EXTINF:0 tvg-id="ext" group-title="Channels",COMEDY CENTRAL FHD²
+http://conexaoonline.top:80/3071640880/1748113924/234940
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Channels",COMEDY CENTRAL HD
+http://conexaoonline.top:80/3071640880/1748113924/341
+#EXTINF:0 tvg-id="ext" group-title="Channels",COMEDY CENTRAL HD²
+http://conexaoonline.top:80/3071640880/1748113924/234941
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Channels",COMEDY CENTRAL SD
+http://conexaoonline.top:80/3071640880/1748113924/198
+#EXTINF:0 tvg-id="ext" group-title="Channels",COMEDY CENTRAL SD²
+http://conexaoonline.top:80/3071640880/1748113924/234942
+
+
+
+
+
+
 
