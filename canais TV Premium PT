@@ -21,7 +21,7 @@ http://0.0.0.0:0000
      Listas Várias - https://global-satinfo.in/viewforum.php?f=22&sid=14261766f220116fe35abb7ddf0e87e2
      
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 19/12/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 22/12/2022[/B][/COLOR][COLOR=orange][/COLOR]
 
 
 #EXTM3U
@@ -31,6 +31,7 @@ https://00000000000
 
 #EXTM3U
 
+
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",[COLOR=white][B]EUROSPORT 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/23248.m3u8
 #EXTINF:0 tvg-id="esp" group-title="PORTUGAL",[COLOR=white][B]EUROSPORT 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
@@ -39,8 +40,6 @@ http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/331.m
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/332.m3u8
 #EXTINF:0 tvg-id="ext" group-title="PORTUGAL",[COLOR=white][B]EUROSPORT 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/332.m3u8
-#EXTINF:-1,[COLOR=white][B]EUROSPORT 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/159590.ts
 #EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="PORTUGAL",[COLOR=white][B]SPORTING TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/328.m3u8
 
@@ -180,10 +179,6 @@ http://ultimateiptv.me:8080/live/carthage-pro.fr/FC2CjXjUL3/2828.ts
 #EXTINF:-1,[COLOR=white][B]RAI SPORTS+ HD[/B][/COLOR][COLOR=white][/COLOR]
 http://tvip.world:80/ITALIJA/euasyKKe6C/3559.ts
 
-#EXTINF:-1,[COLOR=white][B]BEIN SPORTS 1 MAX HD[/B][/COLOR][COLOR=white][/COLOR]
-https://streamermytvc.com/Bein-Sp-Max-1-LB+ph===---/cache/Bein-Sp-Max-1-LB/master.m3u8
-#EXTINF:-1,[COLOR=white][B]BEIN SPORTS 2 MAX HD[/B][/COLOR][COLOR=white][/COLOR]
-https://streamermytvc.com/Bein-Sp-Max-2-LB+ph===---/cache/Bein-Sp-Max-2-LB/master.m3u8
 
 #EXTINF:-1,[COLOR=white][B]MATH RUSSIA HD[/B][/COLOR][COLOR=white][/COLOR]
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
@@ -202,8 +197,7 @@ http://160.20.164.171:8001/play/a03x
 http://200.41.79.165:8000/play/a05u/index.m3u8
 #EXTINF:-1,[COLOR=white][B]GOL TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://170.83.242.155:5350/play/a00v
-#EXTINF:-1,[COLOR=white][B]GOL TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://200.24.132.99:8000/play/a023
+
 
 #EXTINF:-1,[COLOR=white][B]RMC SPORT 1 FR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/logantv/ACXhn9BC5m/161951
@@ -219,9 +213,6 @@ http://platin4k.eu:80/logantv/ACXhn9BC5m/63176
 http://platin4k.eu:80/logantv/ACXhn9BC5m/161950
 #EXTINF:-1,[COLOR=white][B]RMC SPORT 3 FR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/logantv/ACXhn9BC5m/161950
-
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 PL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://61043419.edemist.com/iptv/K7NW3NCKB2PU2V/20068/index.m3u8
 
 
 ##################################  BENFICA TV   ###########################################################################
