@@ -130,8 +130,8 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=BGNkkV
 #EXTINF:-1,[COLOR=white][B]REMA FT. SELENA GOMES - CALM DOWN[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=WcIcVapfqXw
 
-#EXTINF:-1,[COLOR=white][B]ARIANA GRANDE - 34+35 (4K)[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=bFxYBj-qH1A
+#EXTINF:-1,[COLOR=white][B]ARIANA GRANDE - 34+35[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=B6_iQvaIjXw&ab_channel=ArianaGrandeVevo
 
 #EXTINF:-1,[COLOR=white][B]BAD BUNNY - MOSCOW MULE[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=p38WgakuYDo
@@ -185,7 +185,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=FFV6t4
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=wp43OdtAAkM&ab_channel=KateBushMusic
 
 #EXTINF:-1,[COLOR=white][B]BEYONCÉ - BREAK MY SOUL[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=FW4Xg3hl3rE&ab_channel=CelebrityEditz
+plugin://plugin.video.youtube/play/?video_id=1HgdzR_1OQ4&ab_channel=GoodVibes
 
 #EXTINF:-1,[COLOR=white][B]ED SHEERAN - 2 STEPS[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Z_MvkyuOJgk&ab_channel=EdSheeran
