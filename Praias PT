@@ -7,13 +7,18 @@ FONTE DE INFORMAÇÃO: https://www.webcamgalore.com/Beaches/themecam.html
                      https://www.webcamtaxi.com/en/portugal.html
 #EXTM3U
 
+
+#EXTINF:-1,[COLOR=yellow][B]/////////  LISTA ATUALIZADA: 28/12/2022  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+#EXTM3U
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIAS PT YOUTUBE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://0000000000000000000000
 
 #EXTM3U
 
 #EXTINF:-1,[COLOR=white][B]SETÚBAL - PRAIA DA FONTE DA TELHA (NORTE)[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=U4AwFAoEPLM
+plugin://plugin.video.youtube/play/?video_id=AMZlYa_QA2k
 
 #EXTINF:-1,[COLOR=white][B]SETÚBAL - PRAIA DA FONTE DA TELHA (SUL)[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=LO68qQ6-OK8
@@ -22,10 +27,10 @@ plugin://plugin.video.youtube/play/?video_id=LO68qQ6-OK8
 plugin://plugin.video.youtube/play/?video_id=wE3fVh24Tlk&ab_channel=Playocean
 
 #EXTINF:-1,[COLOR=white][B]MADEIRA - PENHA DE FRANÇA MAR[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=LKbVoPp1Nqo
+plugin://plugin.video.youtube/play/?video_id=P1l36JZ_71Y
 
 #EXTINF:-1,[COLOR=white][B]MADEIRA - PRAIA DA CALHETA[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=Ct1Xja8uaqc
+plugin://plugin.video.youtube/play/?video_id=oQ8p68DBW90
 
 #EXTINF:-1,[COLOR=white][B]MADEIRA - PORTO MONIZ - WEBCAM 1[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=qUB8_lgA_54
@@ -41,6 +46,15 @@ plugin://plugin.video.youtube/play/?video_id=4J1YwwaZx4I
 
 #EXTINF:-1,[COLOR=white][B]MADEIRA - PRAIA DA PONTA GORDA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=MgMWOQIgIBY
+
+#EXTINF:-1,[COLOR=white][B]MADEIRA - PRAIA DE SANTO ANTÓNIO DA CAPARICA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=tymxZzI9XUQ
+
+#EXTINF:-1,[COLOR=white][B]MADEIRA - PRAIA DA SEREIA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=-w0iQZcxPsA
+
+#EXTINF:-1,[COLOR=white][B]MADEIRA - LAGOA DE ALBUFEIRA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=c2Yix8qIz_0
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIAS DO NORTE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
