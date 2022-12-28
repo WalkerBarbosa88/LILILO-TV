@@ -7,7 +7,7 @@ FONTE DE INFORMAÇÃO:
               https://global-satinfo.in/viewtopic.php?f=22&t=315&start=410
 
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 19/12/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 28/12/2022[/B][/COLOR][COLOR=orange][/COLOR]
 #EXTM3U
 
 
@@ -134,8 +134,6 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_ww.m3u8
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports2_ww.m3u8
 #EXTINF:0 tvg-id="esp" group-title="Спорт\",Eurosport 1
 https://sc.id-tv.kz:443/Eurosport_1HD_34_35.m3u8
-#EXTINF:0 tvg-id="esp2" group-title="Спорт\",Eurosport 2
-https://sc.id-tv.kz:443/Eurosport_2HD_34_35.m3u8
 #EXTINF:0 tvg-id="esp2" group-title="Спорт\",Eurosport 2 HD
 https://livetv.mylifeisgood.ml/channels/eurosport2.m3u8
 #EXTINF:0 tvg-id="extreme-sports" group-title="Спорт\",Extreme Sports
@@ -170,28 +168,18 @@ https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",MySports 1 HD
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
-#EXTINF:0 tvg-id="NBCSportsBayArea.us" group-title="Спорт\",NBC Sports Bay Area
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159537
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",NBC Sports Washington+
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159541
-#EXTINF:0 tvg-id="NHLNetwork.us" group-title="Спорт\",NHL Network
-http://str20.gudauta.net:8112/7926/video.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",Players TV
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/1920x1080_5055600/chunklist.m3u8
 #EXTINF:0 tvg-id="kazsport" group-title="Спорт\",Qazsport
 http://92.46.127.146:8080/qazsport/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Спорт\",Qsport Arena HD
-http://str20.gudauta.net:8112/7729/video.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Спорт\",Qsport League
-http://str20.gudauta.net:8112/7730/video.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="setanta-sport-kz" group-title="Спорт\",Setanta Qazaqstan HD
 http://he11o.akadatel.com/iptv/NPFTZBM7EF776R/2399/index.m3u8
-#EXTINF:0 tvg-id="setanta-sport" group-title="Спорт\",Setanta Sports 1
-http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/Setanta_Sports_1/video.m3u8?token=VG9oYTMxMV98fFVFbEVRVkpCVXc9PQ==
 #EXTINF:0 tvg-id="setanta-sport" group-title="Спорт\",Setanta Sports 1 HD
 https://livetv.mylifeisgood.ml/channels/setantahd.m3u8
 #EXTINF:0 tvg-id="setanta-sport-plus" group-title="Спорт\",Setanta Sports 2
@@ -204,8 +192,6 @@ http://myott.top/stream/DEKA6YA5JRN/313.m3u8
 https://cloud15.05cdn.wf:1443/ch482/video.m3u8?token=7a076e9c855eb1ff33d5e9ec2769d0fc453ea6594
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",Setanta Sports+ HD
 http://myott.top/stream/DEKA6YA5JRN/390.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Спорт\",Setanta Sports+ ua
-http://str20.gudauta.net:8114/6268/video.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",Sharjah Sports TV
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
 #EXTINF:0 tvg-id="SkySportFootball.it" group-title="Спорт\",Sky Sport Football
@@ -336,12 +322,8 @@ https://stream-msk-13.ott.tricolor.tv:443/dtv/id812_MSKSG-PVR-1--Nash_sport23/01
 https://stream-msk-09.ott.tricolor.tv:443/dtv/id813_MSKSG-PVR-1--Nash_sport24/01/plst.m3u8
 #EXTINF:0 tvg-id="russkij-extreme" group-title="Спорт\",Русский экстрим HD
 http://myott.top/stream/DEKA6YA5JRN/285.m3u8
-#EXTINF:0 tvg-id="sportivny" group-title="Спорт\",Спортивный HD
-http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/sportivnbIiy_HD/video.m3u8?token=VG9oYTMxMV98fFVFbEVRVkpCVXc9PQ==
 #EXTINF:0 tvg-id="start" group-title="Спорт\",Старт HD
 https://livetv.mylifeisgood.ml/channels/startlive.m3u8
-#EXTINF:0 tvg-id="xokkejny" group-title="Спорт\",Хоккейный HD
-http://str20.gudauta.net:8112/6511/video.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",1+1 Sport
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8?token=AnonymousTV
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",A Spor TV Canlı
@@ -402,28 +384,8 @@ http://iptv.prosto.tv:7000/ch110/video.m3u8
 http://5cf4a2c2512a2.streamlock.net:1935/dgrau/dgrau/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",Futbol TVHorizon Sports
 https://dai.google.com/linear/hls/event/onG023gQQ22Tjm14B5yg1w/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Спорт\",Setanta Sports UA
-http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/Setanta_Sports_UA_HD/video.m3u8?token=VG9oYTMxMV98fFVFbEVRVkpCVXc9PQ==
-#EXTINF:0 tvg-id="ext" group-title="Спорт\",Setanta Sports+ UA
-http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/Setanta_Sportsplus_UA_HD/video.m3u8?token=VG9oYTMxMV98fFVFbEVRVkpCVXc9PQ==
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",Телеканал Футбол HD
 http://cdn.ottiptv.fun:8880/bal_c8l8u2d4f9l1a3r7e8/FOOTBALL_HD/video.m3u8?token=VG9oYTMxMV98fFVFbEVRVkpCVXc9PQ==
-#EXTINF:0 tvg-id="ext" group-title="Спорт\",QSport Arena HD
-http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/qsport_arena/video.m3u8?token=VG9oYTMxMV98fFVFbEVRVkpCVXc9PQ==
-#EXTINF:0 tvg-id="footbolny" group-title="Спорт\",Футбольный HD
-http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/futbolniy_hd/video.m3u8?token=VG9oYTMxMV98fFVFbEVRVkpCVXc9PQ==
-#EXTINF:0 tvg-id="ESPN.uk" group-title="Спорт\",ESPN US
-http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/ZXNwbl9oZF9zcG9ydA/video.m3u8?token=VG9oYTMxMV98fFVFbEVRVkpCVXc9PQ==
-#EXTINF:0 tvg-id="ESPN2.mx" group-title="Спорт\",ESPN 2
-http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/ZXNwbl8yX3Nwb3J0/video.m3u8?token=VG9oYTMxMV98fFVFbEVRVkpCVXc9PQ==
-#EXTINF:0 tvg-id="ext" group-title="Спорт\",Canal+ Sport 2 PL
-http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/Y2FuYWxfcGx1c19zcG9ydF8y/video.m3u8?token=VG9oYTMxMV98fFVFbEVRVkpCVXc9PQ==
-#EXTINF:0 tvg-id="ext" group-title="Спорт\",Canal+ Sport 3 PL
-http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/Y2FuYWxfcGx1c19zcG9ydF8z/video.m3u8?token=VG9oYTMxMV98fFVFbEVRVkpCVXc9PQ==
-#EXTINF:0 tvg-id="ext" group-title="Спорт\",Canal+ Sport 4 PL
-http://cdn.ottiptv.fun:8880/bal_c6l8u2d4f9l1a3r7e6/Y2FuYWxfcGx1c19zcG9ydF80/video.m3u8?token=VG9oYTMxMV98fFVFbEVRVkpCVXc9PQ==
-#EXTINF:0 tvg-id="CBSSportsNetwork.us" group-title="Спорт\",CBS Sports Network
-http://str20.gudauta.net:8112/7931/video.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",Q Sport HD
 https://livetv.mylifeisgood.ml/channels/kazsport.m3u8
 
@@ -553,5 +515,4 @@ https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
 https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",UNBEATEN
 https://unbeaten-roku.amagi.tv/playlist.m3u8
-
 
