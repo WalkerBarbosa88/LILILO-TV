@@ -3,7 +3,7 @@
 http://0.0.0.0:0000
 ############################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 22/12/2022[/B][/COLOR][COLOR=orange][/COLOR] 
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 28/12/2022[/B][/COLOR][COLOR=orange][/COLOR] 
 
 Fonte de Informação: 
 
@@ -41,12 +41,6 @@ https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w68165
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/chunklist.m3u8
 #EXTINF:-1,[COLOR=white][B]JETSONS TV SD[/B][/COLOR][COLOR=white][/COLOR]
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w380353535.m3u8
-#EXTINF:-1,[COLOR=white][B]RUNTIME HD[/B][/COLOR][COLOR=white][/COLOR]
-https://stream.ads.ottera.tv/cl/PKxkoWjdTKng2XkUzbTC5/1280x720_3071200_0_f.m3u8
-#EXTINF:-1,[COLOR=white][B]RUNTIME ACÇÃO HD[/B][/COLOR][COLOR=white][/COLOR]
-https://stream.ads.ottera.tv/cl/68nRLPdS2TvJbvOg84iD_/1280x720_3071200_0_f.m3u8
-#EXTINF:-1,[COLOR=white][B]RUNTIME COMÉDIA HD[/B][/COLOR][COLOR=white][/COLOR]
-https://stream.ads.ottera.tv/cl/kwEJWouSM_yPdYAk-Hh8J/1280x720_3071200_0_f.m3u8
 #EXTINF:-1,[COLOR=white][B]TV TROPICAL HD[/B][/COLOR][COLOR=white][/COLOR]
 https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/chunklist_w143304164.m3u8
 #EXTINF:-1,[COLOR=white][B]CLASSIQUE TV HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -62,64 +56,17 @@ https://000000
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR=white][B]ESPN EXTRA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m1_ByxjeSWip68MPJsHRqZ2vku_720p
-#EXTINF:-1,[COLOR=white][B]ESPN PREMIUM HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m1_knOhhfNdF9kfR0_720p_2M
-
 #EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82825
-#EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m3_ScQBL06LuJftF_720p
-#EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m3_ScQBL06LuJftF_720p_2M
-#EXTINF:-1,[COLOR=white][B]ESPN 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m3_ScQBL06LuJftF_1080p
-
-#EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m1_jK8qbRUeI8qNMLCC_720p
-#EXTINF:-1,[COLOR=white][B]ESPN 2 FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m1_jK8qbRUeI8qNMLCC_720p_2M
-
 #EXTINF:-1,[COLOR=white][B]ESPN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82828
-
 #EXTINF:-1,[COLOR=white][B]ESPN 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82754
-#EXTINF:-1,[COLOR=white][B]ESPN 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m2_AkF7moyJqBpWr5L3ctZXu8D6_720p
-#EXTINF:-1,[COLOR=white][B]ESPN 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m2_AkF7moyJqBpWr5L3ctZXu8D6_4M
-
-
-#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV MOSAICO HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m1_BAIovLXAHJfIiuBS__720p
 
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 1 BR FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159607?checkedby:iptvcat.com
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 1 BR FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://shareext@ssvrv.xyz/live/96790pedr0090/0090pedr96790/179682.ts
-#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/p2_AD5dvVfj6egLHxBwARO
-#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/p3_jUB9PDqLPI4ma3xxj
-#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m1_welG1zUJ8o7XxE78c_1080p
-
-#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m2_ylU0WsVR9po4ChFn7J3vkMxb_720p
-#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m2_ylU0WsVR9po4ChFn7J3vkMxb_720p_2M
-#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m2_ylU0WsVR9po4ChFn7J3vkMxb_720p_2M
-
-#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 3 BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m2_9DOg0PQW1aF8hTGrmHf6oqkV_720p
-#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 3 BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m2_9DOg0PQW1aF8hTGrmHf6oqkV_720p_2M
-#EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 3 BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m1_vzd4MQvFCKUahymwGL_1080p
-
 
 #EXTINF:-1 group-title="ESPORTES" tvg-logo="https://i.ibb.co/z7jZDbm/band-sports.jpg",[COLOR=white][B]BAND SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82838
@@ -140,8 +87,6 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 #EXTINF:-1,[COLOR=white][B]TNT SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
-#EXTINF:-1,[COLOR=white][B]EUROSPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m2_EqacRasdPfasOsyds2_720p
 
 
 ##########################################################################################################################################
@@ -153,49 +98,24 @@ https://000000
 
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://i.ibb.co/Zhfptr4/disc.png",[COLOR=white][B]DISCOVERY CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82908
-#EXTINF:-1,[COLOR=white][B]DISCOVERY CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m3_E3D2EB66-67DF-49EC-8eea_720p
-#EXTINF:-1,[COLOR=white][B]DISCOVERY CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m3_E3D2EB66-67DF-49EC-8eea_720p_2M
-
 #EXTINF:-1,[COLOR=white][B]DISCOVERY WORLD HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82931
-#EXTINF:-1,[COLOR=white][B]DISCOVERY WORLD HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m2_be0dGtMO3SNcZq7TRHUvKXpn_720p
-
-
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://i.ibb.co/x8DNr5z/dturbo.jpg",[COLOR=white][B]DISCOVERY TURBO HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82923
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://i.ibb.co/x8DNr5z/dturbo.jpg",[COLOR=white][B]DISCOVERY TURBO SD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82921
-#EXTINF:-1,[COLOR=white][B]DISCOVERY TURBO HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m1_NpfZjjxzoFwepkuEspTet_720p
 
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://i.ibb.co/Lx4X8xk/heh.png",[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82916
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://i.ibb.co/Lx4X8xk/heh.png",[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82914
-#EXTINF:-1,[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m1_6Ij7gxZOdZwDVlMjlbHc5_720p
-#EXTINF:-1,[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m1_6Ij7gxZOdZwDVlMjlbHc5_720p_2M
 
 #EXTINF:-1,[COLOR=white][B]HGTV FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/88878
 #EXTINF:-1,[COLOR=white][B]HGTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m4_BHUM6pXTobkuiDgt5mZh1d3Q_720p
-#EXTINF:-1,[COLOR=white][B]HGTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82912
 #EXTINF:-1,[COLOR=white][B]HGTV SD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82910
-
-#EXTINF:-1,[COLOR=white][B]DISCOVERY KIDS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m2_afy44nd1fdEvCQ38kIuM_720p
-#EXTINF:-1,[COLOR=white][B]DISCOVERY SCIENCE HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m3_yIvLaPOcxH4qTtjiZfV3p2Y7_720p
-#EXTINF:-1,[COLOR=white][B]DISCOVERY THEATER  HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m2_RJ5rBub9ANcgf0C_720p
-
 
 ##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS MÚSICA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -211,28 +131,11 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
 
 #EXTINF:-1 group-title="CANAIS | MUSICA" tvg-logo="http://logocanais.ddns.net/Logo/Bis1.png",[COLOR=white][B]BIS FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://axr.life:80/096154/686531/5195
-#EXTINF:-1,[COLOR=white][B]BIS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m4_AHRTkrZ8VGUFaC1ctW0db5O6_720p
 
 #EXTINF:-1,[COLOR=white][B]K-POP TV PLAY HD[/B][/COLOR][COLOR=white][/COLOR]
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1609920726.m3u8
 #EXTINF:-1,[COLOR=white][B]K-POP TV PLAY HD[/B][/COLOR][COLOR=white][/COLOR]
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/ab9ddb08-2598-4788-b464-41e5dd75f55f" parent-code="" group-title="Lista de Canais",[COLOR=white][B]MTV 00´S HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m3_Rf9bLcTMstKNoWEt91_720p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d979d889-4dd0-4c29-9625-b0d7999a4beb" parent-code="" group-title="Lista de Canais",[COLOR=white][B]MTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m1_G78hbKTqXvwtlVHfAMF0k5p9_720p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d979d889-4dd0-4c29-9625-b0d7999a4beb" parent-code="" group-title="Lista de Canais",[COLOR=white][B]MTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m1_G78hbKTqXvwtlVHfAMF0k5p9_720p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/01c805fe-38e4-4d64-a6aa-021f69e65ae8" parent-code="" group-title="Lista de Canais",[COLOR=white][B]MULTISHOW HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m1_xBEDmuNinjXaf4ZHcGkRsr7h_720p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/656a874d-d2f5-4308-abd9-a6d28dab39ec" parent-code="" group-title="Lista de Canais",[COLOR=white][B]MULTISHOW HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m1_xBEDmuNinjXaf4ZHcGkRsr7h_720p_2M
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://23.237.150.122:9966/gateway/files/30e5eaae-9dc9-4f32-92ed-e9937b47fd80" parent-code="" group-title="Lista de Canais",[COLOR=white][B]MUSIC BOX BRASIL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m3_bdp8X6CKQZjtAfYc5voH_720p
-
-
 
 
 ##########################################################################################################################################
@@ -263,22 +166,13 @@ https://000000
 http://clienteworld.com:80/claud123/claud123/83090
 #EXTINF:-1 group-title="NOTÍCIAS" tvg-logo="https://i.ibb.co/WnrkL9r/cnn.jpg",[COLOR=white][B]CNN BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/98278
-#EXTINF:-1 group-title="NOTÍCIAS" tvg-logo="https://i.ibb.co/WnrkL9r/cnn.jpg",[COLOR=white][B]CNN INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/pt_cnn_inter
 #EXTINF:0 tvg-id="ext" group-title="GEEK",[COLOR=white][B]REUTERS HD (ENG.)[/B][/COLOR][COLOR=white][/COLOR]
 https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 #EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]EURONEWS PT HD[/B][/COLOR][COLOR=white][/COLOR]
 https://euronews.alteox.app/hls/pt_stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]JOVEM PAN NEWS FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]GLOBO NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/p3_TkpBaA2SR5zzC0o
-#EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]GLOBO NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/p2_JLtVbmIgNqEC
-#EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]BAND NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m3_wM1DcpyixXePdVU8F2ogE6KT_720p
-#EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]BAND NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m3_wM1DcpyixXePdVU8F2ogE6KT_720p_2M
+
 
 
 
@@ -289,43 +183,8 @@ https://000000
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]STAR+ 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m3_B7hFXSnaqw2EJk3Ic6pPyi5Y_720p
-#EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]STAR+ 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m2_Fc8If8FyKAK47vjnG_1080p
-
-#EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]WARNER HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m4_dguYh1LjBTwlnKecmOPADtoN_720p_2M
-#EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]WARNER FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m4_dguYh1LjBTwlnKecmOPADtoN_1080p
-
-#EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]MEGAPIX HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m1_SQrEDhKgRTn3y9wV0Pd1L7O6_720p
-#EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]MEGAPIX HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m1_SQrEDhKgRTn3y9wV0Pd1L7O6_720p_2M
-
-#EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]STUDIOS UNIVERSAL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m2_4YAiHGmv6RCqIdET3VzPaKjU_720p
-
-#EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]TNT SÉRIES HD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m3_sRbp5StxJynqjZmGAElF28Br_720p
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/f65af1e3-5b08-4f27-bdfb-492f10be9db3" parent-code="" group-title="Canais 4K",[COLOR=white][B]TELECINE ACTION FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m1_NOsF4AGlqvbJNCi04i_1080p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/ab6628f1-f6ea-440a-92da-0ff54084a451" parent-code="" group-title="Canais 4K",[COLOR=white][B]TELECINE CULT FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m1_NG6Nw6gdfpX8KwYq_1080p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/dba955f7-814c-436f-9e7c-3b8f07086411" parent-code="" group-title="Canais 4K",[COLOR=white][B]TELECINE FUN FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m1_qrbzstbsBWoFSEuW_1080p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/698736f9-1fe7-40a7-b18f-0573cc5cb66e" parent-code="" group-title="Canais 4K",[COLOR=white][B]TELECINE PIPOCA FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m2_tr4XCBTcjDSAeTqKva_1080p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/1c2cb799-87bf-42a5-90a9-9a2b697391c2" parent-code="" group-title="Canais 4K",[COLOR=white][B]TELECINE PREMIUM FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m1_V8rYXO05ZFn3R3BeT_1080p
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://image.hdawiyr1g.xyz/gateway/files/31c5bf29-c14f-4d9b-be9e-897852da9ffc" parent-code="" group-title="Canais 4K",[COLOR=white][B]TELECINE TOUCH FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://api.magiaiptv.com/live/800379/268963/m2_X1oPbHVx1IJxY5Mhqr_1080p
-
-
-
+#EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
+http://0000000000000000000000
 
 
 ##########################################################################################################################################
@@ -335,234 +194,6 @@ https://000000
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL BRASIL FHD H265
-http://conexaoonline.top:80/3071640880/1748113924/80
-#EXTINF:0 tvg-id="Canalbrasil.br" group-title="Channels",CANAL BRASIL HD
-http://conexaoonline.top:80/3071640880/1748113924/336
-#EXTINF:0 tvg-id="Canalbrasil.br" group-title="Channels",CANAL BRASIL SD
-http://conexaoonline.top:80/3071640880/1748113924/199
-#EXTINF:0 tvg-id="CanaldoBoi.br" group-title="Channels",CANAL DO BOI
-http://conexaoonline.top:80/3071640880/1748113924/18069
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL DO BOI FHD
-http://conexaoonline.top:80/3071640880/1748113924/25688
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL DO BOI FHD²
-http://conexaoonline.top:80/3071640880/1748113924/234905
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL DO BOI HD²
-http://conexaoonline.top:80/3071640880/1748113924/234906
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL DO BOI SD²
-http://conexaoonline.top:80/3071640880/1748113924/234907
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL FUTURA FHD²
-http://conexaoonline.top:80/3071640880/1748113924/234908
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL FUTURA SD²
-http://conexaoonline.top:80/3071640880/1748113924/234909
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canal Lá Red Hd
-http://conexaoonline.top:80/3071640880/1748113924/20486
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL OFF FHD H265²
-http://conexaoonline.top:80/3071640880/1748113924/234910
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL OFF FHD²
-http://conexaoonline.top:80/3071640880/1748113924/234911
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL OFF HD²
-http://conexaoonline.top:80/3071640880/1748113924/234912
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL OFF SD²
-http://conexaoonline.top:80/3071640880/1748113924/234913
-#EXTINF:0 tvg-id="Canalrural.br" group-title="Channels",CANAL RURAL
-http://conexaoonline.top:80/3071640880/1748113924/2202
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL SONY FHD H265²
-http://conexaoonline.top:80/3071640880/1748113924/234914
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL SONY FHD²
-http://conexaoonline.top:80/3071640880/1748113924/234915
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL SONY HD LEG
-http://conexaoonline.top:80/3071640880/1748113924/285516
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL SONY HD²
-http://conexaoonline.top:80/3071640880/1748113924/234916
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL SONY SD LEG
-http://conexaoonline.top:80/3071640880/1748113924/285515
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL SONY SD²
-http://conexaoonline.top:80/3071640880/1748113924/234917
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL WOOHOO FHD H265²
-http://conexaoonline.top:80/3071640880/1748113924/234918
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL WOOHOO FHD²
-http://conexaoonline.top:80/3071640880/1748113924/234919
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL WOOHOO HD²
-http://conexaoonline.top:80/3071640880/1748113924/234920
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL WOOHOO SD²
-http://conexaoonline.top:80/3071640880/1748113924/234921
-#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE CLUBES FHD H265
-http://conexaoonline.top:80/3071640880/1748113924/70
-#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE CLUBES FHD H265²
-http://conexaoonline.top:80/3071640880/1748113924/234463
-#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE CLUBES FHD²
-http://conexaoonline.top:80/3071640880/1748113924/234464
-#EXTINF:0 tvg-id="Premiereclubes.br" group-title="Channels",PREMIERE CLUBES HD
-http://conexaoonline.top:80/3071640880/1748113924/289
-#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE CLUBES HD²
-http://conexaoonline.top:80/3071640880/1748113924/234466
-#EXTINF:0 tvg-id="Premiereclubes.br" group-title="Channels",PREMIERE CLUBES SD
-http://conexaoonline.top:80/3071640880/1748113924/259
-#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIERE CLUBES SD²
-http://conexaoonline.top:80/3071640880/1748113924/234465
-#EXTINF:0 tvg-id="ext" group-title="Channels",PRIME BOX BRAZIL FHD²
-http://conexaoonline.top:80/3071640880/1748113924/235080
-#EXTINF:0 tvg-id="ext" group-title="Channels",PRIME BOX BRAZIL HD²
-http://conexaoonline.top:80/3071640880/1748113924/235081
-#EXTINF:0 tvg-id="ext" group-title="Channels",PRIME BOX BRAZIL SD²
-http://conexaoonline.top:80/3071640880/1748113924/235082
-#EXTINF:0 tvg-id="ext" group-title="Channels",PRIMEBOX BRASIL SD
-http://conexaoonline.top:80/3071640880/1748113924/218
-#EXTINF:0 tvg-id="ext" group-title="Channels",CARTONITO FHD²
-http://conexaoonline.top:80/3071640880/1748113924/235213
-#EXTINF:0 tvg-id="ext" group-title="Channels",CARTONITO HD²
-http://conexaoonline.top:80/3071640880/1748113924/235214
-#EXTINF:0 tvg-id="ext" group-title="Channels",CARTONITO SD²
-http://conexaoonline.top:80/3071640880/1748113924/235215
-#EXTINF:0 tvg-id="ext" group-title="Channels",CARTOON 4K H265
-http://conexaoonline.top:80/3071640880/1748113924/285558
-#EXTINF:0 tvg-id="ext" group-title="Channels",CARTOON NETWORK FHD H265
-http://conexaoonline.top:80/3071640880/1748113924/38
-#EXTINF:0 tvg-id="ext" group-title="Channels",CARTOON NETWORK FHD H265²
-http://conexaoonline.top:80/3071640880/1748113924/234925
-#EXTINF:0 tvg-id="ext" group-title="Channels",CARTOON NETWORK FHD²
-http://conexaoonline.top:80/3071640880/1748113924/234926
-#EXTINF:0 tvg-id="cartoon" group-title="Channels",CARTOON NETWORK HD
-http://conexaoonline.top:80/3071640880/1748113924/338
-#EXTINF:0 tvg-id="cartoon" group-title="Channels",CARTOON NETWORK SD
-http://conexaoonline.top:80/3071640880/1748113924/239
-#EXTINF:0 tvg-id="ext" group-title="Channels",CARTOON NETWORK SD²
-http://conexaoonline.top:80/3071640880/1748113924/234927
-#EXTINF:0 tvg-id="CDFBasico.cl" group-title="Channels",CDF Basico
-http://conexaoonline.top:80/3071640880/1748113924/25675
-#EXTINF:0 tvg-id="ext" group-title="Channels",CDO Basico
-http://conexaoonline.top:80/3071640880/1748113924/25678
-#EXTINF:0 tvg-id="ext" group-title="Channels",CDO Premium
-http://conexaoonline.top:80/3071640880/1748113924/25679
-#EXTINF:0 tvg-id="Chilevision.cl" group-title="Channels",Chilevision
-http://conexaoonline.top:80/3071640880/1748113924/25680
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE 01
-http://conexaoonline.top:80/3071640880/1748113924/110737
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE 02
-http://conexaoonline.top:80/3071640880/1748113924/110738
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE 03
-http://conexaoonline.top:80/3071640880/1748113924/110739
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE 04
-http://conexaoonline.top:80/3071640880/1748113924/110740
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE 06
-http://conexaoonline.top:80/3071640880/1748113924/110742
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE 08
-http://conexaoonline.top:80/3071640880/1748113924/110744
-#EXTINF:0 tvg-id="Cine12.mu" group-title="Channels",CINE 12
-http://conexaoonline.top:80/3071640880/1748113924/110748
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE 13
-http://conexaoonline.top:80/3071640880/1748113924/110749
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE 16
-http://conexaoonline.top:80/3071640880/1748113924/110752
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE DISNEY
-http://conexaoonline.top:80/3071640880/1748113924/59711
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE MARVEL
-http://conexaoonline.top:80/3071640880/1748113924/59557
-#EXTINF:0 tvg-id="discov_sci" group-title="Channels",CINE SKY 1
-http://conexaoonline.top:80/3071640880/1748113924/20574
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SKY 10
-http://conexaoonline.top:80/3071640880/1748113924/25716
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SKY 11
-http://conexaoonline.top:80/3071640880/1748113924/25717
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SKY 12
-http://conexaoonline.top:80/3071640880/1748113924/25718
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SKY 13
-http://conexaoonline.top:80/3071640880/1748113924/25719
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SKY 14
-http://conexaoonline.top:80/3071640880/1748113924/25720
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SKY 2
-http://conexaoonline.top:80/3071640880/1748113924/20575
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SKY 3
-http://conexaoonline.top:80/3071640880/1748113924/20629
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SKY 4
-http://conexaoonline.top:80/3071640880/1748113924/20630
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SKY 5
-http://conexaoonline.top:80/3071640880/1748113924/20719
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SKY 6
-http://conexaoonline.top:80/3071640880/1748113924/20729
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SKY 7
-http://conexaoonline.top:80/3071640880/1748113924/20730
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SKY 8
-http://conexaoonline.top:80/3071640880/1748113924/25714
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SKY 9
-http://conexaoonline.top:80/3071640880/1748113924/25715
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINE SUCESSOS
-http://conexaoonline.top:80/3071640880/1748113924/166180
-#EXTINF:0 tvg-id="ext" group-title="Channels",Cine Trapalhões
-http://conexaoonline.top:80/3071640880/1748113924/59531
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINEMAX FHD H265
-http://conexaoonline.top:80/3071640880/1748113924/81
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINEMAX FHD H265²
-http://conexaoonline.top:80/3071640880/1748113924/234928
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINEMAX FHD²
-http://conexaoonline.top:80/3071640880/1748113924/234929
-#EXTINF:0 tvg-id="CineMAX.ro" group-title="Channels",CINEMAX HD
-http://conexaoonline.top:80/3071640880/1748113924/339
-#EXTINF:0 tvg-id="ext" group-title="Channels",CINEMAX HD²
-http://conexaoonline.top:80/3071640880/1748113924/234930
-#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Channels",CINEMAX SD
-http://conexaoonline.top:80/3071640880/1748113924/217
-#EXTINF:0 tvg-id="ext" group-title="Channels",CLIMA TEMPO SD
-http://conexaoonline.top:80/3071640880/1748113924/18160
-#EXTINF:0 tvg-id="ext" group-title="Channels",CNN BRASIL 4K H265
-http://conexaoonline.top:80/3071640880/1748113924/285569
-#EXTINF:0 tvg-id="ext" group-title="Channels",CNN BRASIL FHD H265
-http://conexaoonline.top:80/3071640880/1748113924/19651
-#EXTINF:0 tvg-id="ext" group-title="Channels",CNN BRASIL FHD H265²
-http://conexaoonline.top:80/3071640880/1748113924/234931
-#EXTINF:0 tvg-id="ext" group-title="Channels",CNN BRASIL FHD²
-http://conexaoonline.top:80/3071640880/1748113924/234932
-#EXTINF:0 tvg-id="ext" group-title="Channels",CNN BRASIL HD
-http://conexaoonline.top:80/3071640880/1748113924/19716
-#EXTINF:0 tvg-id="ext" group-title="Channels",CNN BRASIL HD²
-http://conexaoonline.top:80/3071640880/1748113924/234933
-#EXTINF:0 tvg-id="CNNBrasil.br" group-title="Channels",CNN BRASIL SD
-http://conexaoonline.top:80/3071640880/1748113924/19715
-#EXTINF:0 tvg-id="ext" group-title="Channels",CNN BRASIL SD²
-http://conexaoonline.top:80/3071640880/1748113924/234934
-#EXTINF:0 tvg-id="CNNChile.cl" group-title="Channels",Cnn Chile
-http://conexaoonline.top:80/3071640880/1748113924/25681
-#EXTINF:0 tvg-id="ext" group-title="Channels",CNN INTERNACIONAL HD
-http://conexaoonline.top:80/3071640880/1748113924/192
-#EXTINF:0 tvg-id="Cnt.br" group-title="Channels",CNT
-http://conexaoonline.top:80/3071640880/1748113924/2044
-#EXTINF:0 tvg-id="ext" group-title="Channels",COMBATE FHD H265
-http://conexaoonline.top:80/3071640880/1748113924/39
-#EXTINF:0 tvg-id="ext" group-title="Channels",COMBATE FHD H265²
-http://conexaoonline.top:80/3071640880/1748113924/234935
-#EXTINF:0 tvg-id="ext" group-title="Channels",COMBATE FHD²
-http://conexaoonline.top:80/3071640880/1748113924/234936
-#EXTINF:0 tvg-id="Combate.br" group-title="Channels",COMBATE HD
-http://conexaoonline.top:80/3071640880/1748113924/340
-#EXTINF:0 tvg-id="ext" group-title="Channels",COMBATE HD²
-http://conexaoonline.top:80/3071640880/1748113924/234937
-#EXTINF:0 tvg-id="Combate.br" group-title="Channels",COMBATE SD
-http://conexaoonline.top:80/3071640880/1748113924/202
-#EXTINF:0 tvg-id="ext" group-title="Channels",COMBATE SD²
-http://conexaoonline.top:80/3071640880/1748113924/234938
-#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Channels",COMEDY CENTRAL
-http://conexaoonline.top:80/3071640880/1748113924/42541
-#EXTINF:0 tvg-id="ext" group-title="Channels",COMEDY CENTRAL 4K H265
-http://conexaoonline.top:80/3071640880/1748113924/285560
-#EXTINF:0 tvg-id="ext" group-title="Channels",COMEDY CENTRAL FHD H265
-http://conexaoonline.top:80/3071640880/1748113924/40
-#EXTINF:0 tvg-id="ext" group-title="Channels",COMEDY CENTRAL FHD H265²
-http://conexaoonline.top:80/3071640880/1748113924/234939
-#EXTINF:0 tvg-id="ext" group-title="Channels",COMEDY CENTRAL FHD²
-http://conexaoonline.top:80/3071640880/1748113924/234940
-#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Channels",COMEDY CENTRAL HD
-http://conexaoonline.top:80/3071640880/1748113924/341
-#EXTINF:0 tvg-id="ext" group-title="Channels",COMEDY CENTRAL HD²
-http://conexaoonline.top:80/3071640880/1748113924/234941
-#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Channels",COMEDY CENTRAL SD
-http://conexaoonline.top:80/3071640880/1748113924/198
-#EXTINF:0 tvg-id="ext" group-title="Channels",COMEDY CENTRAL SD²
-http://conexaoonline.top:80/3071640880/1748113924/234942
-
-
-
-
-
-
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
+http://000000000000000000000000000000
 
