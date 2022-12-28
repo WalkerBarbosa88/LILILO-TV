@@ -10,10 +10,24 @@ http://0.0.0.0:0000
 #######################################################################################################################################
 
 
-#EXTINF:-1,[COLOR=yellow][B]LISTA ATUALIZADA: 24/10/22[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA ATUALIZADA: 28/12/22[/B][/COLOR][COLOR=yellow][/COLOR]
  
 #EXTM3U
 
+
+
+#EXTINF:-1,[COLOR=white][B]THE WEEKND - NOTHING IS LOST (YOU GIVE ME STRENGHT)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=bDHD1ueL4a4&ab_channel=TheWeekndVEVO
+
+#EXTINF:-1,[COLOR=white][B]THE WEEKND - NOTHING IS LOST (YOU GIVE ME STRENGHT) - TRADUÇÃO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=BvEtZBU39fI&ab_channel=MaxLegendas
+
+#EXTINF:-1,[COLOR=white][B]DAVID GUETTA & BEBE REXHA - I'M GOOD (BLUE)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=90RLzVUuXe4&list=RDCLAK5uy_lyqiUWOWhDxqIlJ5ah5TrDR-_Pv9UydGM&index=4&ab_channel=DavidGuetta
+
+
+
+**********************************************************************************
 
 #EXTINF:-1,[COLOR=white][B]TAYLOR SWIFT - ANTI-HERO[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=b1kbLwvqugk&list=RDCLAK5uy_lqNm3KZ4SvTuiGHhnvuep0z2CwMS0OyL4&start_radio=1&ab_channel=TaylorSwiftVEVO
