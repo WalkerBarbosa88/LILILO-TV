@@ -15,6 +15,8 @@ http://0.0.0.0:0000
 #EXTM3U
 
 
+#EXTINF:-1,[COLOR=white][B]HIT RÁDIO1 - TOP HITS 2022 LIVE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=uNd5kvrGHjk&ab_channel=RadioHitsMusic
 
 #EXTINF:-1,[COLOR=white][B]THE WEEKND - NOTHING IS LOST (YOU GIVE ME STRENGHT)[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=bDHD1ueL4a4&ab_channel=TheWeekndVEVO
@@ -37,8 +39,14 @@ plugin://plugin.video.youtube/play/?video_id=nBZlrbrBO1I&ab_channel=LewisCapaldi
 #EXTINF:-1,[COLOR=white][B]LIL NAS X - STAR WALKIN'G[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=HYsz1hP0BFo&ab_channel=LeagueofLegends
 
-#EXTINF:-1,[COLOR=white][B]AITCH & ED SHEERAN - My G[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]AITCH & ED SHEERAN - MY G[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=81ZwDYRE6uc&ab_channel=AitchVEVO
+
+#EXTINF:-1,[COLOR=white][B]STORMZY - HIDE & SEEK[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=BXd62mMu1UY&ab_channel=Stormzy
+
+#EXTINF:-1,[COLOR=white][B]BAD BUNNY FT. NICKI MINAJ - FIESTA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=WPzzNVk_7jQ&ab_channel=DISCTRO
 
 
 **********************************************************************************
