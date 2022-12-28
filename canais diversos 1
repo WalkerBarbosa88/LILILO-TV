@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 #####################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 19/12/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 28/12/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
 ###########################################################################################################################################
  
@@ -373,8 +373,7 @@ https://streaming.meteonews.net/hls/stream.m3u8
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 #EXTINF:-1,[COLOR=white][B]METEO NEWS DE[/B][/COLOR][COLOR=white][/COLOR]
 https://streaming.meteonews.net/hls/stream.m3u8
-#EXTINF:-1,[COLOR=white][B]TV7 METEO IT[/B][/COLOR][COLOR=white][/COLOR]
-http://217.61.26.46:8080/hls/meteo.m3u8
+
  
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  MODA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -560,8 +559,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8
 https://dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8
 #EXTINF:-1,[COLOR=white][B]CBS NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1,[COLOR=white][B]PRESS TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://live1.presstv.ir/live/presstv.m3u8
 #EXTINF:-1,[COLOR=white][B]BLOOMBERG TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://bloomberg-bloomberg-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]CNBC EUROPE HD[/B][/COLOR][COLOR=white][/COLOR]
