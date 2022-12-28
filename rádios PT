@@ -8,7 +8,7 @@ FONTE DE INFORMAÇÃO: http://fmstream.org/index.php?c=G&o=top  -  https://www.r
 
 Rádios de Portugal por distrito - https://pt.wikipedia.org/wiki/Lista_de_r%C3%A1dios_de_Portugal
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 26/11/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 28/12/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
@@ -335,8 +335,6 @@ http://centova.radios.pt:9450/;
 http://centova.radio.com.pt:9424/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO NOVA ESTRELA[/B][/COLOR][COLOR=white][/COLOR]
 https://sonic.h2.pt/8008/stream
-#EXTINF:-1,[COLOR=white][B]RÁDIO CASTELO BRANCO[/B][/COLOR][COLOR=white][/COLOR]
-https://centova.radio.com.pt/proxy/462?mp=/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO GERAÇÕES[/B][/COLOR][COLOR=white][/COLOR]
 https://stream-43.zeno.fm/6h6eavybqxhvv?zs=e0tnvm1BS-mzGRD6frJE2A
 
@@ -423,8 +421,6 @@ http://centova.radios.pt:8493/stream
 http://centova.radio.com.pt:9034/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO ELMO[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radio.com.pt:8463/;
-#EXTINF:-1,[COLOR=white][B]RÁDIO CLUBE DE SEIA[/B][/COLOR][COLOR=white][/COLOR]
-http://213.239.218.99:7158/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO CLUBE DE MEDA[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radios.pt:8493/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO VOZ DO SORRAIA[/B][/COLOR][COLOR=white][/COLOR]
@@ -662,8 +658,6 @@ https://ec2.yesstreaming.net:3275/stream
 http://centova.radios.pt:8471/stream/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO ESTRELAS DO NORTE[/B][/COLOR][COLOR=white][/COLOR]
 https://sp0.redeaudio.com/8122/stream
-#EXTINF:-1,[COLOR=white][B]RÁDIO ALTO DO AVE[/B][/COLOR][COLOR=white][/COLOR]
-https://centova.radio.com.pt/proxy/517?mp=/stream
 
 
 ######################################################################################################################################
