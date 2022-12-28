@@ -121,6 +121,11 @@ MAIS WEBCAM AO VIVO
 #EXTINF:-1,[COLOR=yellow][B]/////////  WEBCAM´S MUNDIAIS - YOUTUBE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
+
+
+#EXTINF:-1,[COLOR=white][B]CIDADE DO PAI NATAL[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=Cp4RRAEgpeU
+
 # https://www.youtube.com/watch?v=if91GyWP3zQ&ab_channel=FourSeasonsBuenosAires
 #EXTINF:-1,[COLOR=white][B]ARGENTINA - AV. 9 DE JULHO[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=if91GyWP3zQ&ab_channel=FourSeasonsBuenosAires
@@ -215,11 +220,21 @@ plugin://plugin.video.youtube/play/?video_id=CBfX5fhaJ00
 #EXTINF:-1,[COLOR=white][B]EARTH TV - TIMES SQUARE IN 4K[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=1-iS7LArMPA&ab_channel=EarthCam
 
+#EXTINF:-1,[COLOR=white][B]I LOVE YOU VENICE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=8KGXSjtS5pk
+#EXTINF:-1,[COLOR=white][B]I LOVE YOU VENICE - BEACHES[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=OMebkpnYJJo
+
+#EXTINF:-1,[COLOR=white][B]ARMCHAIR TRAVELER LIVE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=KR8l9t8YpqQ
 
 #EXTINF:-1,[COLOR=white][B]MADEIRA, PORTUGAL - ROLLING MULTI-CAMS[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=_AwBL-uRZd0&ab_channel=Webcamtaxi
 #EXTINF:-1,[COLOR=white][B]FERATEL - GERMANY ROLLING MULTI-CAM[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=Li3Dvqlo5uE&ab_channel=feratel%E2%80%93yourwindowtotheworld
+
+#EXTINF:-1,[COLOR=white][B]NORUEGA AO VIVO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=A86RXuRNjk4
 
 
 #######################################################################################################################
@@ -264,6 +279,13 @@ https://camserver1.in2thebeach.es/streams/san-agustin/index.m3u8
 https://000000
 
 
+
+#EXTINF:-1,[COLOR=white][B]DESERTO NAMÍBIA LIVE 1[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=ydYDqZQpim8
+
+#EXTINF:-1,[COLOR=white][B]DESERTO NAMÍBIA LIVE 2[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=fPd7Ys7FC0I
+
 #EXTINF:-1 group-title="WEBCAMS",[COLOR=white][B]ÁFRICA WEBCAM 1[/B][/COLOR][COLOR=white][/COLOR]
 https://outbound-production.explore.org/stream-production-110/.m3u8
 #EXTINF:-1 group-title="WEBCAMS",[COLOR=white][B]ÁFRICA WEBCAM 2[/B][/COLOR][COLOR=white][/COLOR]
@@ -278,6 +300,11 @@ http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
 https://zssd-panda.hls.camzonecdn.com/CamzoneStreams/zssd-panda/chunklist.m3u8
 #EXTINF:-1,[COLOR=white][B]EXPLORE.ORG - PANDA[/B][/COLOR][COLOR=white][/COLOR]
 https://outbound-production.explore.org/stream-production-33/.m3u8
+
+#EXTINF:-1,[COLOR=white][B]WOLONG GROVE PANDA CAM[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=OObOQ2GElhA
+
+
 #EXTINF:-1,[COLOR=white][B]USA - SAN DIEGO - PANDA[/B][/COLOR][COLOR=white][/COLOR]
 https://zssd-panda.hls.camzonecdn.com/CamzoneStreams/zssd-panda/chunklist.m3u8
 #EXTINF:-1,[COLOR=white][B]USA - SAN DIEGO - GIRAFA[/B][/COLOR][COLOR=white][/COLOR]
@@ -330,6 +357,10 @@ http://tdt.shmhost.net/geist/livestream.m3u8
 #EXTINF:-1,[COLOR=yellow][B]/////////  ÁUSTRIA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
+
+
+#EXTINF:-1,[COLOR=white][B]WETTER PANORAMA LIVE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=NIuO6hrFTrg
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DLOcBsT.png" group-title="AUSTRIA",[COLOR=white][B]AT - JERZENS (TIROL AIRPORT)[/B][/COLOR][COLOR=white][/COLOR]
 http://83.218.163.132:8081/mjpg/video.mjpg
@@ -409,6 +440,11 @@ http://5cee0d703d908.streamlock.net:1935/rtplive/edinburghzootiger1.stream/playl
 #EXTINF:-1,[COLOR=yellow][B]/////////  REINO UNIDO  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
+
+
+
+#EXTINF:-1,[COLOR=white][B]LONDON BUS RIDE LIVE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=V00D4K9OshI
 
 #EXTINF:-1,[COLOR=white][B]UK - TRÂNSITO[/B][/COLOR][COLOR=white][/COLOR]
 https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.02002.mp4
