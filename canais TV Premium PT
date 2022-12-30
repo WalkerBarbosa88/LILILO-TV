@@ -9,8 +9,6 @@ http://0.0.0.0:0000
  LISTA DE JOGOS DO CAMPEONATO PORTUGUÊS E QUE DÃO EM CANAIS ESTRANGEIROS  -  https://liveonsat.com/europe-portugal-primeira-liga.php 
  
  
- MELHOR FONTE:  --  https://github.com/trincowski/iptv/blob/main/Desportivos_Portugal.m3u8
- 
  LISTA PT - https://raw.githubusercontent.com/inspirationlinks/lista-tuga/master/i%CF%81%D1%82v%20i%D0%B8%E0%B8%A3%CF%81i%D1%8F%CE%B1%D1%82i%CF%83%D0%B8%20li%D0%B8k%E0%B8%A3
             https://raw.githubusercontent.com/la22lo/sports/main/futbol.m3u
  Muitos conteúdos - https://github.com/Sphinxroot?tab=repositories
@@ -21,7 +19,7 @@ http://0.0.0.0:0000
      Listas Várias - https://global-satinfo.in/viewforum.php?f=22&sid=14261766f220116fe35abb7ddf0e87e2
      
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 28/12/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 30/12/2022[/B][/COLOR][COLOR=orange][/COLOR]
 #EXTM3U
 
 ####################################################################################################################################
@@ -58,8 +56,8 @@ http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2530/index.m3u8
 http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/159582.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74415.ts
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
-http://conexaoonline.top:80/3071640880/1748113924/261070
+#EXTINF:-1,[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]🇹
+http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais
 
 
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -68,15 +66,12 @@ http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/324.m
 http://superbits.tv:2095/live/jYNTPHGx/ayUbbFPX/68989.ts
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 1 PT SD[/B][/COLOR][COLOR=white][/COLOR]
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/324.m3u8
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 1 PT HD[/B][/COLOR][COLOR=white][/COLOR]
-http://j.jserv.me:80/Coco22/VLjG7xT25n/8328.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74417.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 4K[/B][/COLOR][COLOR=white][/COLOR]
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74418.ts
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",[COLOR=white][B]SPORT TV 1 PT HD[/B][/COLOR][COLOR=white][/COLOR]
-http://conexaoonline.top:80/3071640880/1748113924/261071
-
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 4K[/B][/COLOR][COLOR=white][/COLOR]
+http://caballerotv.com:5890/1122334455/1122334455/1070
 
 #EXTINF:0 tvg-id="sporttv2.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/326.m3u8
@@ -86,41 +81,39 @@ http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/159583.ts
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74419.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74420.ts
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",[COLOR=white][B]SPORT TV 2 FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://conexaoonline.top:80/3071640880/1748113924/261069
+#EXTINF:-1,[COLOR=white][B]SPORT TV 2 FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://caballerotv.com:5890/1122334455/1122334455/1073
 
+#EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]🇹
+http://caballerotv.com:5890/1122334455/1122334455/1074
 #EXTINF:0 tvg-id="sporttv3.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/327.m3u8
 #EXTINF:0 tvg-id="sporttv3.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/159584.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3[/B][/COLOR][COLOR=white][/COLOR]
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74422.ts
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",[COLOR=white][B]SPORT TV 3[/B][/COLOR][COLOR=white][/COLOR]
-http://conexaoonline.top:80/3071640880/1748113924/261068
 
 #EXTINF:0 tvg-id="sporttv4.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1783.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 4[/B][/COLOR][COLOR=white][/COLOR]
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74423.ts
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",[COLOR=white][B]SPORT TV 4[/B][/COLOR][COLOR=white][/COLOR]
-http://conexaoonline.top:80/3071640880/1748113924/261067
+#EXTINF:-1,[COLOR=white][B]SPORT TV 4[/B][/COLOR][COLOR=white][/COLOR]
+http://caballerotv.com:5890/1122334455/1122334455/1077
 
+
+#EXTINF:-1,[COLOR=white][B]SPORT TV 5[/B][/COLOR][COLOR=white][/COLOR]
+http://caballerotv.com:5890/1122334455/1122334455/1078
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 5[/B][/COLOR][COLOR=white][/COLOR]
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74424.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 5[/B][/COLOR][COLOR=white][/COLOR]
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74425.ts
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",[COLOR=white][B]SPORT TV 5[/B][/COLOR][COLOR=white][/COLOR]
-http://conexaoonline.top:80/3071640880/1748113924/261066
 
 #EXTINF:-1,[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://superbits.tv:2095/live/jYNTPHGx/ayUbbFPX/249069.ts
-#EXTINF:-1,[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://conexaoonline.top:80/3071640880/1748113924/261065
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74414.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://conexaoonline.top:80/3071640880/1748113924/261123
+
 
 #EXTM3U
 
@@ -143,17 +136,22 @@ http://clienteworld.com:80/claud123/claud123/82754
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159607?checkedby:iptvcat.com
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 1 BR FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://shareext@ssvrv.xyz/live/96790pedr0090/0090pedr96790/179682.ts
+#EXTINF:-1,[COLOR=white][B]SPORTV 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://206.1.95.2:8004/play/a00f
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159605?checkedby:iptvcat.com
+#EXTINF:-1,[COLOR=white][B]SPORTV 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://206.1.95.2:8004/play/a025
 #EXTINF:-1 group-title="WORLD CUP 2022 QATAR",[COLOR=white][B]SPORTV 3 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159606?checkedby:iptvcat.com
+#EXTINF:-1,[COLOR=white][B]SPORTV 3 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://206.1.95.2:8004/play/a03w
+
 
 #EXTINF:-1,[COLOR=white][B]RAI SPORTS+ HD[/B][/COLOR][COLOR=white][/COLOR]
 http://superbits.tv:2095/live/jYNTPHGx/ayUbbFPX/51017.ts
 #EXTINF:-1,[COLOR=white][B]RAI SPORTS+ HD[/B][/COLOR][COLOR=white][/COLOR]
 http://extra-iptv-stream.com:80/live/99voce/rosa/218.ts
-#EXTINF:-1,[COLOR=white][B]RAI SPORTS+ HD[/B][/COLOR][COLOR=white][/COLOR]
-http://ultimateiptv.me:8080/live/carthage-pro.fr/FC2CjXjUL3/2828.ts
 #EXTINF:-1,[COLOR=white][B]RAI SPORTS+ HD[/B][/COLOR][COLOR=white][/COLOR]
 http://tvip.world:80/ITALIJA/euasyKKe6C/3559.ts
 
@@ -213,16 +211,10 @@ http://5ce.me:80/live/6234388/s4208g69/115019.ts
 http://cineapp.org:8000/Fernando/Fernando/2301?checkedby:iptvcat.net
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Benfica_TV.png",[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159587?checkedby:iptvcat.net
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74411.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BTV FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74412.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BTV 4K[/B][/COLOR][COLOR=white][/COLOR]
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74413.ts
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://conexaoonline.top:80/3071640880/1748113924/261023
 
 
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
@@ -242,12 +234,8 @@ http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74426.ts
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74427.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 1 4K[/B][/COLOR][COLOR=white][/COLOR]
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74428.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://conexaoonline.top:80/3071640880/1748113924/261002
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://conexaoonline.top:80/3071640880/1748113924/261001
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/159577.ts
 #EXTINF:-1 group-title="Sport",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -272,28 +260,23 @@ http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159578?checkedby:iptvcat.net
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74432.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 3 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74433.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://conexaoonline.top:80/3071640880/1748113924/261000
-
 
 #EXTINF:-1 group-title="Sport",[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://cineapp.org:8000/Fernando/Fernando/7454?checkedby:iptvcat.net
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://conexaoonline.top:80/3071640880/1748113924/260999
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://caballerotv.com:5890/1122334455/1122334455/1084
 
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://conexaoonline.top:80/3071640880/1748113924/260998
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
-
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://caballerotv.com:5890/1122334455/1122334455/1085
 
 #EXTINF:0 tvg-id="ElevenSports6.pt" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/7064/index.m3u8
 #EXTINF:-1 group-title="Sport",[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://cineapp.org:8000/Fernando/Fernando/7456?checkedby:iptvcat.net
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://conexaoonline.top:80/3071640880/1748113924/260997
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR] 
+http://caballerotv.com:5890/1122334455/1122334455/1086
 
 
 #EXTM3U
@@ -309,18 +292,12 @@ https://0000000
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NOS STUDIOS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74404.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NOS STUDIOS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://conexaoonline.top:80/3071640880/1748113924/261042
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74384.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
-http://conexaoonline.top:80/3071640880/1748113924/261106
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EMOTION HD[/B][/COLOR][COLOR=white][/COLOR]
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74385.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EMOTION FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74386.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EMOTION FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://conexaoonline.top:80/3071640880/1748113924/261107
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EDITION HD[/B][/COLOR][COLOR=white][/COLOR]
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74387.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EDITION FHD[/B][/COLOR][COLOR=white][/COLOR]
@@ -329,10 +306,4 @@ http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74388.ts
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74389.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE ACTION FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74390.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE ACTION FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://conexaoonline.top:80/3071640880/1748113924/261109
-
-
-
-
 
