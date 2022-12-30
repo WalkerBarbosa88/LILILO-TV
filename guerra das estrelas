@@ -3,13 +3,13 @@
 http://0.0.0.0:000000
 #####################################################################################################################################################
  
-#EXTINF:-1,[COLOR=yellow][B]LISTA REVISTA: 30/12/2022[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 30/12/2022[/B][/COLOR][COLOR=orange][/COLOR]
  
 ###########################################################################################################################################
  
 #EXTM3U
 
-#EXTINF:-1,[COLOR=orange][B]/////////  DOCUMENTÁRIOS & EXTRAS  /////////[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  DOCUMENTÁRIOS & EXTRAS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
@@ -18,7 +18,7 @@ http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/210907.mkv
 
 ###########################################################################################################################################
 
-#EXTINF:-1,[COLOR=orange][B]/////////  FILMES STAR WARS  /////////[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  FILMES STAR WARS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
@@ -48,7 +48,7 @@ http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/209320.mkv
 
 
 
-#EXTINF:-1,[COLOR=orange][B]/////////  FILMES STAR TREK  /////////[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  FILMES STAR TREK  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
