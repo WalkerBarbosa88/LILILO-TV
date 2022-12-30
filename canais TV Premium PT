@@ -22,6 +22,53 @@ http://0.0.0.0:0000
 #EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 30/12/2022[/B][/COLOR][COLOR=orange][/COLOR]
 #EXTM3U
 
+
+####################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS EM TESTE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://00000000000
+
+#EXTM3U
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224091
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/159998
+
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",[COLOR=white][B]SPORT TV+ FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224078
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224080
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224082
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224084
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224086 
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224088
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224090
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/130957
+#EXTINF:0 tvg-id="NBA.pt" group-title="Channels",[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224033
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224093
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224095
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224097
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224099
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224101
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224103
+
+
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B] /////////  OUTROS CANAIS DESPORTO PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://00000000000
