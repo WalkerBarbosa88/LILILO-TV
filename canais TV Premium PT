@@ -48,29 +48,27 @@ https://00000000000
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]SPORT TV+ FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
-http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2530/index.m3u8
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",[COLOR=white][B]SPORT TV+ FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/159582.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74415.ts
-#EXTINF:-1,[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]🇹
+#EXTINF:-1,[COLOR=white][B]SPORT TV+ FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais
 
 
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/324.m3u8
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://superbits.tv:2095/live/jYNTPHGx/ayUbbFPX/68989.ts
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 1 PT SD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/324.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74417.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 4K[/B][/COLOR][COLOR=white][/COLOR]
 http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74418.ts
-#EXTINF:-1,[COLOR=white][B]SPORT TV 1 4K[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://caballerotv.com:5890/1122334455/1122334455/1070
 
 #EXTINF:0 tvg-id="sporttv2.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -84,7 +82,7 @@ http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74420.ts
 #EXTINF:-1,[COLOR=white][B]SPORT TV 2 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://caballerotv.com:5890/1122334455/1122334455/1073
 
-#EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]🇹
+#EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://caballerotv.com:5890/1122334455/1122334455/1074
 #EXTINF:0 tvg-id="sporttv3.pt" group-title="PORTUGAL",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/327.m3u8
