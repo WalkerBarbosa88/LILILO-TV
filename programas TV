@@ -6,7 +6,7 @@ http://0.0.0.0:000000
 FONTE DE INFORMAÇÃO: LITUATUI/M3UPT GITHUB
 
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 18/12/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 02/01/2023[/B][/COLOR][COLOR=orange][/COLOR]
 #EXTM3U
 
 
@@ -52,6 +52,8 @@ plugin://plugin.video.youtube/play/?video_id=Gvw5piEmKhk
 https://000000
 
 
+#EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - DEZEMBRO 2022 (BREVEMENTE)
+plugin://plugin.video.youtube/play/?video_id=
 
 #EXTINF:-1 media="true" group-title="Relatório DB (YouTube)" tvg-logo="",RELATÓRIO DB - NOVEMBRO 2022
 plugin://plugin.video.youtube/play/?video_id=ttA-YjtgVyA
@@ -115,6 +117,12 @@ https://videos.impresa.pt/videos/hls/sic/2022/09/11/c9eb3a31-c0fe-4638-ba61-a234
 https://000000
 
 
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",EIXO DO MAL - 29/12/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/12/29/e311453b-1491-44bb-9184-59bd5a9dc090/eixo-do-mal-pgm-2912_22hv00656591-540p.m3u8
+
+#EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",EIXO DO MAL - 23/12/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/12/23/5688393e-3b8d-4a9a-a14c-26b0603b4c13/eixo-do-mal-540p.m3u8
 
 #EXTINF:-1 media="true" group-title="Eixo do Mal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg",EIXO DO MAL - 16/12/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/12/16/b9b95ed6-f6a4-469b-b454-c6a3a292aca8/eixo-1512-pgm_22hv00641014-540p.m3u8
@@ -213,6 +221,8 @@ https://content.jwplatform.com/manifests/jL3dl5uq.m3u8
 https://000000
 
 
+#EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E44 19/12/2022
+https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221219235931e044t8989.mp4/master.m3u8|user-agent="RTP-Play"
 
 #EXTINF:-1 media="true" group-title="O Outro Lado" tvg-logo="https://m3upt.com/logos/O-outro-lado.jpg",O Outro Lado - T7E43 12/12/2022
 https://streaming-vod.rtp.pt/hls/nas2.share/h264/512x384/p9780/p9780_1_20221212235955e043t5417.mp4/master.m3u8|user-agent="RTP-Play"
@@ -310,6 +320,12 @@ https://streaming-ondemand.rtp.pt/nas2.share/h264/512x384/p9780/p9780_1_20220411
 https://000000
 
 
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 28/12/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/12/28/5a86ccb1-e945-4a7a-a70a-93ada9e43c01/sem-moderacao.1.m3u8
+
+#EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",Sem Moderação - 21/12/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/12/21/17402050-c4cc-429f-98a5-da614fc823b4/sem-moderacao.m3u8
+
 #EXTINF:-1 media="true" group-title="Sem Moderação" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SM.jpg",SEM MODERAÇÃO - 30/11/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/11/30/5af5b5df-c1d0-45a3-838b-b3f230542337/sem-moderacao.m3u8
 
@@ -397,6 +413,11 @@ https://000000
 NOME DO PROGRAMA:  Programa Cujo Nome Estamos Legalmente Impedidos de Dizer
 
 
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 31/12/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/12/30/6b6cadf2-3bc1-4416-ba97-0e524177e195/programa-cujo-nome-pgm-dia-30-dez-540p.m3u8
+
+#EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 24/12/2022
+https://videos.impresa.pt/videos/hls/sicnot/2022/12/23/b42e0a21-b33a-4006-9fae-5f415b690210/programa-cujo-nome-2312-pgm_22hv00656114-540p.m3u8
 
 #EXTINF:-1 media="true" group-title="PCNELID" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",PCNELID - 17/12/2022
 https://videos.impresa.pt/videos/hls/sicnot/2022/12/16/ebffe6e0-b551-4621-b717-a5ff6f57e3c7/gs1512-pgm_22hv00643183-540p.m3u8
