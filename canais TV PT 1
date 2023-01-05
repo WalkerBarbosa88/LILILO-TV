@@ -90,24 +90,57 @@ http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/chunklist_w1683699584.m3u8
 
 #EXTINF:-1,[COLOR=white][B]RTP 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://162.212.178.69:41042/bysid/608
+#EXTINF:0 tvg-id="rtp1.pt" group-title="PT : PORTUGAL HD\",[COLOR=white][B]RTP 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/146738
+#EXTINF:0 tvg-id="rtp1.pt" group-title="PT : PORTUGAL HD\",[COLOR=white][B]RTP 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/146739
 #EXTINF:-1,[COLOR=white][B]RTP INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
 http://162.212.178.69:41042/bysid/608
 #EXTINF:-1,[COLOR=white][B]RTP INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
 http://210.210.155.37/qwr9ew/s/s38/index.m3u8
+#EXTINF:0 tvg-id="rtp2.pt" group-title="PT : PORTUGAL HD\",[COLOR=white][B]RTP 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/146742
+#EXTINF:0 tvg-id="ext" group-title="PT : PORTUGAL HD\",[COLOR=white][B]RTP 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/146743 
+#EXTINF:0 tvg-id="RTP3.pt" group-title="PT : PORTUGAL HD\",[COLOR=white][B]RTP 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/146744
+#EXTINF:0 tvg-id="ext" group-title="PT : PORTUGAL HD\",[COLOR=white][B]RTP 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/146745
 
+#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="PT : PORTUGAL HD\",[COLOR=white][B]RTP ÁFRICA HD[/B][/COLOR][COLOR=white][/COLOR]
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/146755
+#EXTINF:0 tvg-id="RTPMadeira.pt" group-title="PT : PORTUGAL HD\",[COLOR=white][B]RTP MADEIRA HD[/B][/COLOR][COLOR=white][/COLOR]
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/146756
+#EXTINF:0 tvg-id="RTPAcores.pt" group-title="PT : PORTUGAL HD\",[COLOR=white][B]RTP AÇORES HD[/B][/COLOR][COLOR=white][/COLOR]
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/146757
 
 #EXTINF:-1,[COLOR=white][B]SIC HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_5.m3u8
 #EXTINF:-1,[COLOR=white][B]SIC HD[/B][/COLOR][COLOR=white][/COLOR]
 https://sic.live.impresa.pt/sic.m3u8
-
+#EXTINF:-1,[COLOR=white][B]SIC HD[/B][/COLOR][COLOR=white][/COLOR]
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/146746
+#EXTINF:-1,[COLOR=white][B]TVI HD[/B][/COLOR][COLOR=white][/COLOR]
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/146948
 #EXTINF:-1,[COLOR=white][B]SIC NOTÍCIAS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://sicnot.live.impresa.pt/sicnot540p.m3u8
 #EXTINF:-1,[COLOR=white][B]SIC NOTÍCIAS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://sicnot.live.impresa.pt/sicnot.m3u8
-
 #EXTINF:-1,[COLOR=white][B]TVI FICÇÃO HD[/B][/COLOR][COLOR=white][/COLOR]
 https://bit.ly/3gejKxf?720p/playlist.m3u8
+#EXTINF:0 tvg-id="TVI24.pt" group-title="PT : PORTUGAL HD\",[COLOR=white][B]CNN PORTUGAL[/B][/COLOR][COLOR=white][/COLOR]
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/146749
+#EXTINF:0 tvg-id="ext" group-title="PT : PORTUGAL HD\",[COLOR=white][B]CNN PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/146750
+
+#EXTINF:0 tvg-id="CMTV.pt" group-title="PT : PORTUGAL HD\",[COLOR=white][B]CMTV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/146753
+#EXTINF:0 tvg-id="ext" group-title="PT : PORTUGAL HD\",[COLOR=white][B]CMTV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/146754
+
+#EXTINF:0 tvg-id="PortoCanal.pt" group-title="PT : PORTUGAL HD\",[COLOR=white][B]PORTO CANAL HD[/B][/COLOR][COLOR=white][/COLOR]
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/146758
+
 
 #EXTINF:-1,[COLOR=white][B]EURONEWS - PLUTO TV[/B][/COLOR][COLOR=white][/COLOR]
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/2172b02e9431e5c79bc717e0cc555b4d.m3u8
@@ -116,9 +149,6 @@ https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/2172b02e9431e5c79bc717e0
 http://cineapp.org:8000/Fernando/Fernando/28504?checkedby:iptvcat.net
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_11_HN_logo_2010.png",[COLOR=white][B]CANAL 11 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159589?checkedby:iptvcat.net
-#EXTINF:-1 group-title="Undefined",[COLOR=white][B]CINEMUNDO HD[/B][/COLOR][COLOR=white][/COLOR]
-http://cineapp.org:8000/Fernando/Fernando/3422?checkedby:iptvcat.net
-
 
 #EXTINF:-1,[COLOR=white][B]FOX COMEDY HD[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/4746
@@ -131,7 +161,6 @@ plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://ap
 http://cineapp.org:8000/Fernando/Fernando/8058?checkedby:iptvcat.net
 #EXTINF:-1 group-title="Undefined",[COLOR=white][B]BABY TV[/B][/COLOR][COLOR=white][/COLOR]
 http://cineapp.org:8000/Fernando/Fernando/4897?checkedby:iptvcat.net
-
 
 
 ##########################################################################################################################################
