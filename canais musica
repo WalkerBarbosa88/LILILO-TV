@@ -61,6 +61,14 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]RADIO M2O HD[/B][/COLOR][COLOR=white][/COLOR]
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b2816000.m3u8
 
+#EXTINF:-1,[COLOR=white][B]NRJ HITS FR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/96865
+#EXTINF:-1,[COLOR=white][B]NRJ HITS FR SD[/B][/COLOR][COLOR=white][/COLOR]
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/96866
+
+#EXTINF:-1,[COLOR=white][B]MTV HITS FR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/96871
+
 #EXTINF:-1,[COLOR=white][B]KRONEHITS FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
@@ -78,8 +86,6 @@ https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV Musicas",[COLOR=white][B]ONE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://rtmp.one.by:1300
-
-
 
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]FIRST MUSIC CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
 http://hz1.teleport.cc/HLS/SD.m3u8
@@ -305,6 +311,10 @@ http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/chunklist_w256350
 #EXTINF:-1,[COLOR=white][B]BRASA MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
 http://live.salto.nl/hls/sotv1_high.m3u8
 
+#EXTINF:-1,[COLOR=white][B]MEZZO FR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/96877
+#EXTINF:-1,[COLOR=white][B]MEZZO LIVE FR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/96879
 
 ######################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA ANTIGA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
