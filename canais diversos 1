@@ -165,6 +165,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60f03e32b
 
 #EXTINF:-1,[COLOR=white][B]SARAH´S HOMES HD[/B][/COLOR][COLOR=white][/COLOR]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62cbe676ec38ac0008c4a625/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1,[COLOR=white][B]HOMEFUL HD[/B][/COLOR][COLOR=white][/COLOR]
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Homeful.m3u8
 
 
 ###########################################################################################################################################
