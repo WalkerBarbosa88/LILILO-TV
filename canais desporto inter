@@ -7,12 +7,12 @@ FONTE DE INFORMAÇÃO:
               https://global-satinfo.in/viewtopic.php?f=22&t=315&start=410
 
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 05/01/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 13/01/2023[/B][/COLOR][COLOR=orange][/COLOR]
 #EXTM3U
 
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////////  LISTA DESPORTO - 2 OFFLINE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]///////////  LISTA DESPORTO  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTM3U
@@ -88,18 +88,6 @@ https://live-k2309-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 #EXTINF:0 tvg-id="esp" group-title="СПОРТ\",Eurosport 1
 https://livetv.mylifeisgood.ml/channels/eurosport1ru.m3u8
 
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Спорт\",Bein Sports 1 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/5104
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Спорт\",Bein Sports 2 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1684
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Спорт\",Bein Sports 3 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1803
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Спорт\",Bein Sports 4 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/1804
-#EXTINF:0 tvg-id="beINSPORTSMAX.tr" group-title="Спорт\",Bein Sports Max 1 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4196
-#EXTINF:0 tvg-id="ext" group-title="Спорт\",Bein Sports Max 2 HD
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/4197
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",Bein sports xtra n
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",BENFICA 4K TV UHD PT
@@ -124,10 +112,6 @@ http://myott.top/stream/DEKA6YA5JRN/328.m3u8
 https://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8
 #EXTINF:0 tvg-id="ElevenSports4.pt" group-title="Спорт\",ELEVEN SPORTS 4 PT
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
-#EXTINF:0 tvg-id="ElevenSports5.pt" group-title="Спорт\",Eleven Sports 5 PT
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159580
-#EXTINF:0 tvg-id="ElevenSports6.pt" group-title="Спорт\",Eleven Sports 6 PT
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159581
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",EPT Sports 1
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_ww.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",EPT Sports 2
@@ -168,12 +152,8 @@ https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",MySports 1 HD
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Спорт\",NBC Sports Washington+
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159541
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Спорт\",Players TV
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/1920x1080_5055600/chunklist.m3u8
 #EXTINF:0 tvg-id="kazsport" group-title="Спорт\",Qazsport
 http://92.46.127.146:8080/qazsport/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",Red Bull TV
@@ -188,14 +168,10 @@ http://k46lwgcj.akciatv.ru/iptv/P5SADA44UBQWVR/19431/index.m3u8
 https://livetv.mylifeisgood.ml/channels/setantaplus.m3u8
 #EXTINF:0 tvg-id="setanta-sport-ua" group-title="Спорт\",Setanta Sports HD UA
 http://myott.top/stream/DEKA6YA5JRN/313.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Спорт\",Setanta Sports ua
-https://cloud15.05cdn.wf:1443/ch482/video.m3u8?token=7a076e9c855eb1ff33d5e9ec2769d0fc453ea6594
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",Setanta Sports+ HD
 http://myott.top/stream/DEKA6YA5JRN/390.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",Sharjah Sports TV
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
-#EXTINF:0 tvg-id="SkySportFootball.it" group-title="Спорт\",Sky Sport Football
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/95002
 #EXTINF:0 tvg-id="sport1" group-title="Спорт\",Sport 1
 http://myott.top/stream/DEKA6YA5JRN/391.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",Sport 1 Baltic
@@ -250,8 +226,6 @@ https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/161
 http://194.143.148.28:8080/MatchHD/mpegts
 #EXTINF:0 tvg-id="sport1_rus" group-title="Спорт\",Матч! Арена
 http://194.143.148.28:8080/MatchArena/mpegts
-#EXTINF:0 tvg-id="boec" group-title="Спорт\",МАТЧ! БОЕЦ
-http://46.19.100.174:4450/play/a00q/index.m3u8
 #EXTINF:0 tvg-id="hd-sport" group-title="Спорт\",Матч! Игра HD
 https://s04.watcher.uz/19/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NTYxNjgsImxvZ2luIjoiaGUtMjUyNTk0NSIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjYzMDkyNTM1fQ.kiKhT-gWF-11PivblJQjeKDWIRLHplSGdejtdizEWzQ%3A35
 #EXTINF:0 tvg-id="ntv-sport" group-title="Спорт\",Матч! Планета
@@ -384,15 +358,11 @@ http://iptv.prosto.tv:7000/ch110/video.m3u8
 http://5cf4a2c2512a2.streamlock.net:1935/dgrau/dgrau/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",Futbol TVHorizon Sports
 https://dai.google.com/linear/hls/event/onG023gQQ22Tjm14B5yg1w/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Спорт\",Телеканал Футбол HD
-http://cdn.ottiptv.fun:8880/bal_c8l8u2d4f9l1a3r7e8/FOOTBALL_HD/video.m3u8?token=VG9oYTMxMV98fFVFbEVRVkpCVXc9PQ==
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",Q Sport HD
 https://livetv.mylifeisgood.ml/channels/kazsport.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Sport",ERT SPORTS 3 FHD
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports3_ww.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",FREESPORTS HD
-https://d3cq7cdp2cfi92.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/hls-harvester2-1293-prod/us-east-1/cc-2ff27mp9b8422/master.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",KSA SPORTS 1 FHD
 https://edge.taghtia.com/sa/9.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",KSA SPORTS 2 FHD
@@ -467,8 +437,6 @@ https://pac12-redbox.amagi.tv/hls/amagi_hls_data_pac-12AAA-pac12-redbox/CDN/play
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",PLUTO TV BELLATOR MMA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ebc8688f3697d00072f7cf8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=730&terminate=false&userId=
-#EXTINF:0 tvg-id="ext" group-title="Sports",PLUTO TV COMBATE WORLD
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:0 tvg-id="ext" group-title="Sports",PLUTO TV DEPORTES
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:0 tvg-id="ext" group-title="Sports",PLUTO TV EXTREME
@@ -479,8 +447,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9bda9fd87eb3a27
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9be1be738977e2c312134/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9be1be738977e2c312134&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=f6e88030-d7c8-47c8-8fed-7e24dd0a038a&terminate=false&userId=
 #EXTINF:0 tvg-id="ext" group-title="Sports",PLUTO TV MLB
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0 tvg-id="ext" group-title="Sports",PLUTO TV MLS
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceLat=45.4994&deviceLon=-73.5703&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=76.0.3809.132&serverSideAds=true&sid=d1634607-2892-447a-b316-17a106f905fb&userId=
 #EXTINF:0 tvg-id="ext" group-title="Sports",PLUTO TV NFL Channel
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ced7d5df64be98e07ed47b6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=708&terminate=false&userId=
 #EXTINF:0 tvg-id="ext" group-title="Sports",PLUTO TV PGA TOUR
@@ -515,4 +481,5 @@ https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
 https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",UNBEATEN
 https://unbeaten-roku.amagi.tv/playlist.m3u8
+
 
