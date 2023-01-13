@@ -4,7 +4,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 05/01/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 13/01/2023[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -60,14 +60,6 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?
 
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]RADIO M2O HD[/B][/COLOR][COLOR=white][/COLOR]
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b2816000.m3u8
-
-#EXTINF:-1,[COLOR=white][B]NRJ HITS FR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/96865
-#EXTINF:-1,[COLOR=white][B]NRJ HITS FR SD[/B][/COLOR][COLOR=white][/COLOR]
-http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/96866
-
-#EXTINF:-1,[COLOR=white][B]MTV HITS FR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/96871
 
 #EXTINF:-1,[COLOR=white][B]KRONEHITS FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
@@ -311,11 +303,6 @@ http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/chunklist_w256350
 #EXTINF:-1,[COLOR=white][B]BRASA MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
 http://live.salto.nl/hls/sotv1_high.m3u8
 
-#EXTINF:-1,[COLOR=white][B]MEZZO FR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/96877
-#EXTINF:-1,[COLOR=white][B]MEZZO LIVE FR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://fireott.biz:2052/moitaoufik@sksjldjsldsjldlj/LeVevxmApeFW/96879
-
 #EXTINF:-1,[COLOR=white][B]ACTIVA TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://streamtv.mediasector.es/hls/activatv/playlist.m3u8
 
@@ -382,9 +369,6 @@ https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
 
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]LATINOS RÁDIO TV[/B][/COLOR][COLOR=white][/COLOR]
 https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]FABULOSA FM[/B][/COLOR][COLOR=white][/COLOR]
-http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8?PlaylistM3UCL
 
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]AMÉRICA LATINA[/B][/COLOR][COLOR=white][/COLOR]
 http://168.205.87.198:8555/live/1431/123456/16.ts
@@ -477,8 +461,6 @@ https://rtmp.info/canal38/envivo/chunks.m3u8
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 #EXTINF:-1,[COLOR=white][B]CONECTA TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]FARRA PLAY HD[/B][/COLOR][COLOR=white][/COLOR]
-http://159.203.148.226/live/farra.m3u8
 #EXTINF:-1,[COLOR=white][B]GO-RTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]HITS 360 TV[/B][/COLOR][COLOR=white][/COLOR]
@@ -602,7 +584,7 @@ https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c
 
 
 ######################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 05/01/2023 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 13/01/2023 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
