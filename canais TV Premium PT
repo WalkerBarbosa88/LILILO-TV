@@ -30,6 +30,13 @@ https://00000000000
 #EXTM3U
 
 
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 1 FR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://77.207.0.25:4000/play/a038
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 2 FR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://77.207.0.25:4000/play/a033
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 3 FR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://77.207.0.25:4000/play/a03y
+
 #EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/120
 #EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -145,7 +152,6 @@ http://160.20.164.171:8001/play/a03x
 http://200.41.79.165:8000/play/a05u/index.m3u8
 #EXTINF:-1,[COLOR=white][B]GOL TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://170.83.242.155:5350/play/a00v
-
 
 #EXTINF:-1,[COLOR=white][B]RMC SPORT 1 FR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/logantv/ACXhn9BC5m/161951
