@@ -35,6 +35,13 @@ https://00000000000
 http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42041.ts
 #EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR] 
 http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42040.ts
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/68988
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/68989
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 SD[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/68990
+
 #EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42043.ts
 #EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -47,12 +54,89 @@ http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42045.ts
 http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42046.ts
 
 
-#EXTINF:-1,[COLOR=white][B]SPORT TV 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/68988
-#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/68989
-#EXTINF:-1,[COLOR=white][B]SPORT TV 1 SD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/68990
+
+
+
+
+#EXTINF:-1,SPORT TV+ SD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/96
+#EXTINF:-1,SPORT TV+  HD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/97
+#EXTINF:-1,SPORT TV+ FHD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/98
+#EXTINF:-1,SPORT TV+
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/89632
+#EXTINF:-1,SPORT TV 1 SD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/99
+#EXTINF:-1,SPORT TV 1 HD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/100
+#EXTINF:-1,SPORT TV 1 FHD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/101
+#EXTINF:-1,SPORT TV 1 4K
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/69201
+#EXTINF:-1,SPORT TV 1
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/106
+#EXTINF:-1,SPORT TV 1
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/102
+#EXTINF:-1,SPORT TV 1
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/103
+#EXTINF:-1,SPORT TV 1
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/105
+
+#EXTINF:-1,SPORT TV 2 SD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/107
+#EXTINF:-1,SPORT TV 2 HD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/108
+#EXTINF:-1,SPORT TV 2 FHD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/109
+#EXTINF:-1,SPORT TV 2
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/112
+#EXTINF:-1,SPORT TV 2
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/110
+#EXTINF:-1,SPORT TV 2
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/30264
+#EXTINF:-1,SPORT TV 3
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/5141
+#EXTINF:-1,SPORT TV 3 HD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/113
+#EXTINF:-1,SPORT TV 3 FHD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/114
+#EXTINF:-1,SPORT TV 3
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/89620
+#EXTINF:-1,SPORT TV 3
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/89621
+#EXTINF:-1,SPORT TV 4
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/5139
+#EXTINF:-1,SPORT TV 4 HD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/115
+#EXTINF:-1,SPORT TV 4 FHD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/116
+#EXTINF:-1,SPORT TV 4 
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/89622
+#EXTINF:-1,SPORT TV 4
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/89623
+#EXTINF:-1,SPORT TV 5
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/5140
+#EXTINF:-1,SPORT TV 5 HD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/117
+#EXTINF:-1,SPORT TV 5 FHD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/118
+#EXTINF:-1,SPORT TV 5
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/89625
+#EXTINF:-1,SPORT TV 5
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/89626
+#EXTINF:-1,SPORT TV 6 HD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/75009
+#EXTINF:-1,SPORT TV 6 FHD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/89627
+#EXTINF:-1,SPORT TV 6
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/89628
+#EXTINF:-1,SPORT TV NBA  SD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/89629
+#EXTINF:-1,SPORT TV NBA HD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/89630
+#EXTINF:-1,SPORT TV NBA FHD
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/119
 
 
 ####################################################################################################################################
