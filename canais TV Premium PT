@@ -19,7 +19,7 @@ http://0.0.0.0:0000
      Listas Várias - https://global-satinfo.in/viewforum.php?f=22&sid=14261766f220116fe35abb7ddf0e87e2
      
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 15/01/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 20/01/2023[/B][/COLOR][COLOR=orange][/COLOR]
 #EXTM3U
 
 
@@ -59,27 +59,18 @@ https://00000000000
 
 #EXTINF:-1,[COLOR=white][B]SPORT TV+ FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74415.ts
 #EXTINF:-1,[COLOR=white][B]SPORT TV+ FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais
 #EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",[COLOR=white][B]SPORT TV+ FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224078
+#EXTINF:-1,[COLOR=white][B]SPORT TV+ FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais
 
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224080
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74417.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 4K[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74418.ts
 #EXTINF:-1,[COLOR=white][B]SPORT TV 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://caballerotv.com:5890/1122334455/1122334455/1070
 
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74419.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74420.ts
 #EXTINF:-1,[COLOR=white][B]SPORT TV 2 FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://caballerotv.com:5890/1122334455/1122334455/1073
 #EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -89,11 +80,7 @@ http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224082
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224084
 #EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://caballerotv.com:5890/1122334455/1122334455/1074
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74422.ts
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 4[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74423.ts
 #EXTINF:-1,[COLOR=white][B]SPORT TV 4[/B][/COLOR][COLOR=white][/COLOR]
 http://caballerotv.com:5890/1122334455/1122334455/1077
 #EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -103,16 +90,10 @@ http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224086
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224088
 #EXTINF:-1,[COLOR=white][B]SPORT TV 5[/B][/COLOR][COLOR=white][/COLOR]
 http://caballerotv.com:5890/1122334455/1122334455/1078
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 5[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74424.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 5[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74425.ts
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224090
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74414.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/130957
 #EXTINF:0 tvg-id="NBA.pt" group-title="Channels",[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -146,8 +127,6 @@ https://bl.uma.media/live/394904/HLS/1_5/1/1/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]MATH RUSSIA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8
 
-#EXTINF:-1,[COLOR=white][B]GOL TV FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://160.20.164.171:8001/play/a03x
 #EXTINF:-1,[COLOR=white][B]GOL TV SD[/B][/COLOR][COLOR=white][/COLOR]
 http://200.41.79.165:8000/play/a05u/index.m3u8
 #EXTINF:-1,[COLOR=white][B]GOL TV HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -179,12 +158,6 @@ https://000000
 
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://b7e64053.cbilant.com/iptv/LC8RBR34PMDLY8/19160/index.m3u8
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://5ce.me:80/live/6234388/s4208g69/115019.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BTV FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74412.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BTV 4K[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74413.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224091
 #EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -202,30 +175,19 @@ https://000000
 
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74426.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74427.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 1 4K[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74428.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224093
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://89.248.168.250:8080/live/301666728171255032/501666728171255/25024.ts?token=Q0FaWEpZFFsXBAIGA1UGUAcDVAZeU1oCVAVWBwdYUFNZBwQBDlQFAAYVGEZGFUdTUl9qWwIVAlNXAwJQGENHQ10RbVBdEwxDBAMMVg1YFxoRRlxfAxUCUFQEA1wFUwEGD08QSVBVFFsXBAZQDUMZFFZKQVcUWVkNPVdVEl0CVxICDUdVVR0UDltoUAFYAFtSEQgXA0QbGggRQxJeWhReXBRBUFBNQ1cVUBUORgdWBwMRHhdRCUJWFRBKEl4WJGESFEFXQU1UWBJcWFpGD0NBRREeF1sVaEoEEUdCAVUMV0IaWRAJGx0UDFRPawdaD1tTUEZcXQhEGltAAhJIFgxdXlEXXUtmQV8FFw0WVwxTARRO
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://62.182.83.91:80/dani79/58zQqJU5d5utrJ5/14548
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224095
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74429.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74430.ts
-
 
 #EXTINF:0 tvg-id="ElevenSports3.pt" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2533/index.m3u8
 #EXTINF:0 tvg-id="ElevenSports3.pt" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/7062/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74432.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 3 FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74433.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224097
 
@@ -261,38 +223,19 @@ https://0000000
 
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NOS STUDIOS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74404.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NOS STUDIOS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/223994
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE+ HD[/B][/COLOR][COLOR=white][/COLOR]
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224065
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74384.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131037
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EMOTION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74385.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EMOTION FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74386.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EMOTION FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131039
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EDITION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74387.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EDITION FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74388.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EDITION FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131038
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE ACTION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74389.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE ACTION FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74390.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE ACTION FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131040
-
-
-
 
