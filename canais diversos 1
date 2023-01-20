@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 #####################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 05/01/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 20/01/2023[/B][/COLOR][COLOR=orange][/COLOR]
  
 ###########################################################################################################################################
  
@@ -295,11 +295,6 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1,[COLOR=white][B]NASA ISS VIEWS LIVE[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=86YLFOog4GM
 
-#EXTINF:-1,[COLOR=white][B]NASA ISS INTERIOR[/B][/COLOR][COLOR=white][/COLOR]
-http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]NASA ISS EXTERIOR[/B][/COLOR][COLOR=white][/COLOR]
-http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8
-
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  DIVERSOS CONTEÚDOS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
@@ -389,14 +384,10 @@ https://streaming.meteonews.net/hls/stream.m3u8
 https://000000
 
 
-#EXTINF:-1,[COLOR=white][B]FASHION TV[/B][/COLOR][COLOR=white][/COLOR]
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1,[COLOR=white][B]FASHION TEEN[/B][/COLOR][COLOR=white][/COLOR]
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,[COLOR=white][B]VOGUE TV[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]FASHION TV NY[/B][/COLOR][COLOR=white][/COLOR]
-https://fash2043.cloudycdn.services/slive/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]FASHION TV UK[/B][/COLOR][COLOR=white][/COLOR]
 https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]FASHION TV TÓQUIO[/B][/COLOR][COLOR=white][/COLOR]
@@ -482,10 +473,6 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 http://45.142.213.81:8001/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]TURISMO TRAVEL HD[/B][/COLOR][COLOR=white][/COLOR]
 https://vdo.panelstreaming.live:3936/stream/play.m3u8
-#EXTINF:-1,[COLOR=white][B]PREMIUM TV TRAVEL HD[/B][/COLOR][COLOR=white][/COLOR]
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/9602a69407464602ae2811d58fb92728/chunklist_b4628000.m3u8
-#EXTINF:-1,[COLOR=white][B]MEXICO TRAVEL CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
-https://q-s-l4n3sh4d0w-usw.onrender.com/iptv-query?streaming-ip=https://conceptoweb-studio.com/radio/video/mexicotravel/
 #EXTINF:-1,[COLOR=white][B]TELETUR HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn4.hostlagarto.com:8081/static/teletur/playlist.m3u8
 
