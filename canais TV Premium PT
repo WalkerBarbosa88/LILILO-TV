@@ -47,11 +47,11 @@ http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42045.ts
 http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42046.ts
 
 
-#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/68988
 #EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/68989
-#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 SD[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://nordicstream.xyz:2095/y4C7hyfS/bNsB5hx/68990
 
 
