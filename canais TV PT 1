@@ -11,7 +11,7 @@ http://0.0.0.0:0000
 https://tvgratuita10.blogspot.com/?fbclid=IwAR1hjt2fxRsjhUBFg6lhEEU1cbj3xHkyZ65tIOyWhApFByPIvawYYeSmHmo
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 13/01/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 20/01/2023[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
@@ -119,114 +119,6 @@ plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://ap
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/90
 #EXTINF:-1,[COLOR=white][B]FOX COMEDY HD[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/89499
-
-
-##########################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS TV PORTUGAL 2  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://000000
-
-#EXTM3U
-
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74365.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74366.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC HD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74368.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74369.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVI HD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74370.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVI FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74371.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC RADICAL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74372.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVI FICÇÃO HD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74373.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74374.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC MULHER HD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74375.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC CARAS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74376.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC MULHER HD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74377.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVI REALITY[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74378.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC NOTÍCIAS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74379.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CMTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74381.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CMTV FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74382.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]A BOLA TV[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74383.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74391.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74392.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX LIFE[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74393.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX CRIME[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74394.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX MOVIES[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74395.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FOX COMEDY[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74396.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]AXN[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74397.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]AXN WHITE[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74399.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]AXN WHITE[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74400.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]AXN MOVIES[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74401.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CINEMUNDO[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74402.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CINEMUNDO[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74403.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HOLLYWOOD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74407.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CANAL 11[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74409.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORTING TV[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74410.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]EUROSPORT 1[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74434.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DISCOVERY CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74435.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NATIONAL GEOGRAPHIC WILD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74436.ts 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NATIONAL GEOGRAPHIC[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74437.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ODISSEIA[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74438.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HISTORIA[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74439.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ID INVESTIGATION DISCOVERY[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74440.ts 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GLOBO HD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74441.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GLOBO[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74442.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TV RECORD[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74444.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CASA & COZINHA[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74445.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CASA & COZINHA[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74446.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]24 KITCHEN[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74447.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SYFY[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74448.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]E! ENTERTAINMENT[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74449.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BLAZE[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74450.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ZAP VIVA[/B][/COLOR][COLOR=white][/COLOR]
-http://udashboard.vip:8080/Akeriptv76/BknNtsYXxV/74451.ts
-
 
 
 ##########################################################################################################################################
@@ -343,8 +235,6 @@ http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131075
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/223982
 #EXTINF:0 tvg-id="ClubbingTV.pt" group-title="Channels",PT: CLUBBING TV
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/223999
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: I CONCERTS
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224019
 #EXTINF:0 tvg-id="MCMPop.pt" group-title="Channels",PT: MCM POP
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224027
 #EXTINF:0 tvg-id="mtvportugal.pt" group-title="Channels",PT: MTV
