@@ -3,7 +3,7 @@
 http://0.0.0.0:0000
 ############################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 13/01/2023[/B][/COLOR][COLOR=orange][/COLOR] 
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 20/01/2023[/B][/COLOR][COLOR=orange][/COLOR] 
 
 Fonte de Informação: 
 
@@ -60,13 +60,9 @@ https://000000
 http://clienteworld.com:80/claud123/claud123/82825
 #EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://206.1.95.2:8004/play/a01o
-#EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.239.225.2:8004/play/a01o
 
 #EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://206.1.95.2:8004/play/a027
-#EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.239.225.2:8004/play/a027
 
 #EXTINF:-1,[COLOR=white][B]ESPN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82828
@@ -116,27 +112,20 @@ https://000000
 
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://i.ibb.co/Zhfptr4/disc.png",[COLOR=white][B]DISCOVERY CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82908
-#EXTINF:-1,[COLOR=white][B]DISCOVERY CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.239.225.2:8004/play/a00r
 
 #EXTINF:-1,[COLOR=white][B]DISCOVERY WORLD HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82931
+
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://i.ibb.co/x8DNr5z/dturbo.jpg",[COLOR=white][B]DISCOVERY TURBO HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82923
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://i.ibb.co/x8DNr5z/dturbo.jpg",[COLOR=white][B]DISCOVERY TURBO SD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82921
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://i.ibb.co/x8DNr5z/dturbo.jpg",[COLOR=white][B]DISCOVERY TURBO HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.239.225.2:8004/play/a01w
 
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://i.ibb.co/Lx4X8xk/heh.png",[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82916
 #EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://i.ibb.co/Lx4X8xk/heh.png",[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82914
-#EXTINF:-1 group-title="DOCUMENTÁRIOS" tvg-logo="https://i.ibb.co/Lx4X8xk/heh.png",[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.239.225.2:8004/play/a01n
 
-#EXTINF:-1,[COLOR=white][B]HGTV FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://clienteworld.com:80/claud123/claud123/88878
 #EXTINF:-1,[COLOR=white][B]HGTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82912
 #EXTINF:-1,[COLOR=white][B]HGTV SD[/B][/COLOR][COLOR=white][/COLOR]
@@ -198,13 +187,9 @@ https://000000
 
 #EXTINF:0 tvg-id="Globonews.br" group-title="Channels",[COLOR=white][B]GLOBO NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://206.1.95.2:8004/play/a026
-#EXTINF:-1,[COLOR=white][B]GLOBO NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.239.225.2:8004/play/a026
 
 #EXTINF:-1,[COLOR=white][B]CNN INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
 http://200.4.96.59:1080/play/a03x/index.m3u8
-#EXTINF:-1,[COLOR=white][B]CNN INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.239.225.2:8004/play/a04w
 
 #EXTINF:-1 group-title="NOTÍCIAS" tvg-logo="https://i.ibb.co/WnrkL9r/cnn.jpg",[COLOR=white][B]CNN BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/83090
@@ -254,13 +239,6 @@ http://200.4.96.59:1080/play/a04m/index.m3u8
 http://206.1.95.2:8004/play/a00i
 #EXTINF:0 tvg-id="Tctouch.br" group-title="Channels",[COLOR=white][B]TELECINE TOUCH HD[/B][/COLOR][COLOR=white][/COLOR]
 http://206.1.95.2:8004/play/a00j
-#EXTINF:-1,[COLOR=white][B]STAR CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.239.225.2:8004/play/a016
-#EXTINF:-1,[COLOR=white][B]CINEMAX HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.239.225.2:8004/play/a04l
-
-#EXTINF:-1,[COLOR=white][B]COMEDY CENTRAL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.239.225.2:8004/play/a02x
 
 #EXTINF:-1,[COLOR=white][B]HBO 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://he11o.akadatel.com/iptv/X562NLUZRV3FTM/19046/index.m3u8
