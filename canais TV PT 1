@@ -112,6 +112,8 @@ https://sicnot.live.impresa.pt/sicnot.m3u8
 https://bit.ly/3gejKxf?720p/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]EURONEWS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/2172b02e9431e5c79bc717e0cc555b4d.m3u8
+#EXTINF:-1,[COLOR=white][B]EURONEWS PT HD[/B][/COLOR][COLOR=white][/COLOR]
+https://stream.ads.ottera.tv/cl/230120cf5e8l5bpgluf9evvbtg/1280x720_1500000_0_f.m3u8
 
 #EXTINF:-1,[COLOR=white][B]FOX COMEDY HD[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/4746
@@ -120,9 +122,18 @@ plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://ap
 #EXTINF:-1,[COLOR=white][B]FOX COMEDY HD[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/89499
 
-
 #EXTINF:-1,[COLOR=white][B]SANTUÁRIO DE FÁTIMA HD[/B][/COLOR][COLOR=white][/COLOR]
 https://streamer-b02.videos.sapo.pt/live/santuario/chunklist.m3u8
+#EXTINF:-1,[COLOR=white][B]PORTO CANAL HD[/B][/COLOR][COLOR=white][/COLOR]
+https://stream-11.dc3.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0p-qQMoSk2NqAzhwZ1AYKpR-G2Enl-TjrhQh58EAH2KF)/dm/3/x8egnb8/s/live-2.m3u8#cell=lcore
+#EXTINF:-1,[COLOR=white][B]CANAL VIDA HD[/B][/COLOR][COLOR=white][/COLOR]
+https://stream.castr.com/5d714f6a0bd97874e36f14e4/live_43f24df056e711ec8a98fbc0216fffd2/index.m3u8
+#EXTINF:-1,[COLOR=white][B]IGREJA DO ESPIRITO SANTO[/B][/COLOR][COLOR=white][/COLOR]
+https://joaocaiado.com:1443/ies_tv/ngrp:ies_tv_all/chunklist_w1006542995_b1413152.m3u8
+#EXTINF:-1,[COLOR=white][B]WAY TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://stream.castr.com/5d714f6a0bd97874e36f14e4/live_3a0f544056e711ec8d4bc33d28c33b2a/index.m3u8
+#EXTINF:-1,[COLOR=white][B]ADBTV  TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv_3/chunklist_w1557131904.m3u8
 
 
 ##########################################################################################################################################
