@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 #####################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 20/01/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 25/01/2023[/B][/COLOR][COLOR=orange][/COLOR]
  
 ###########################################################################################################################################
  
@@ -64,8 +64,6 @@ https://stadium.samsung.wurl.com/manifest/playlist.m3u8
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]HARD KNOCKS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
-#EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]ONE GOLF HD[/B][/COLOR][COLOR=white][/COLOR]
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]PGA TOUR HD[/B][/COLOR][COLOR=white][/COLOR]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5de94dacb394a300099fa22a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=713&terminate=false&userId=
 #EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]YAS HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -110,8 +108,6 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/ind
 https://edge.taghtia.com/sa/9.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]KSA SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://edge.taghtia.com/sa/10.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ONE GOLF HD[/B][/COLOR][COLOR=white][/COLOR]
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]SKY TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
 
@@ -390,8 +386,6 @@ http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]FASHION TV UK[/B][/COLOR][COLOR=white][/COLOR]
 https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]FASHION TV TÓQUIO[/B][/COLOR][COLOR=white][/COLOR]
-https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_sam_197_hls.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]FASHION & LIFESTYLE[/B][/COLOR][COLOR=white][/COLOR]
 http://193.33.240.8:8080/fashion_one_hd/index.m3u8
 #EXTINF:-1,[COLOR=white][B]FASHION & MIDNIGHT SECRETS HD[/B][/COLOR][COLOR=white][/COLOR]
