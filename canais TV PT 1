@@ -137,6 +137,9 @@ https://000000
 #EXTM3U
 
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",➤ [COLOR=white][B]GENERALISTAS[/B][/COLOR][COLOR=white][/COLOR]
+http://000000000000001111111111
+
 #EXTINF:0 tvg-id="rtp1.pt" group-title="Channels",RTP 1
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/130916
 #EXTINF:0 tvg-id="rtp2.pt" group-title="Channels",RTP 2
@@ -145,10 +148,24 @@ http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/130917
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/130918
 #EXTINF:0 tvg-id="ext" group-title="Channels",RTP INTER.
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224046
+#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Channels",RTP ÁFRICA
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224044
+#EXTINF:0 tvg-id="RTPMadeira.pt" group-title="Channels",RTP MADEIRA
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224047
+#EXTINF:0 tvg-id="RTPAcores.pt" group-title="Channels",RTP AÇORES
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131100
+#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Channels",RTP MEMÓRIA
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131101
 #EXTINF:0 tvg-id="TVI.pt" group-title="Channels",TVI HD
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/130920
+#EXTINF:-1 tvg-id="" tvg-name="|PT| TVI HD hevc" tvg-logo="" group-title="PORTUGAL",TVI HD 
+http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42033.ts
+#EXTINF:0 tvg-id="TVIFiccao.pt" group-title="Channels",TVI FICÇÃO
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/160073
 #EXTINF:0 tvg-id="sic.pt" group-title="Channels",SIC
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/130919
+#EXTINF:0 tvg-id="sic.pt" group-title="Channels",SIC FHD
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224049
 #EXTINF:0 tvg-id="sicnoticias.pt" group-title="Channels",SIC NOTÍCIAS
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/130922
 #EXTINF:0 tvg-id="sicradical.pt" group-title="Channels",SIC RADICAL
@@ -157,29 +174,93 @@ http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/130934
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/130935
 #EXTINF:0 tvg-id="SicCaras.pt" group-title="Channels",SIC CARAS
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/130936
-#EXTINF:0 tvg-id="sic.pt" group-title="Channels",SIC FHD
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224049
-#EXTINF:0 tvg-id="ext" group-title="Channels",SIC INTER.
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224051
+
+##########################################################################################################################################
+#EXTINF:0 tvg-id="ext" group-title="Channels",➤ [COLOR=white][B]INTERNACIONAIS[/B][/COLOR][COLOR=white][/COLOR]
+http://00000000000000000111111111111111111
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",TPA INTER.
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131114
+#EXTINF:0 tvg-id="ext" group-title="Channels",SIC INTER.
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224051
+#EXTINF:0 tvg-id="TVGlobo.pt" group-title="Channels",GLOBO
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224013
+#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO NEWS HD
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224036
+#EXTINF:0 tvg-id="GloboPremium.pt" group-title="Channels",GLOBO PREMIUM
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224015
+#EXTINF:0 tvg-id="ext" group-title="Channels",ZAP VIVA
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224077
+#EXTINF:0 tvg-id="tvrecord.pt" group-title="Channels",TV RECORD
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/159991
+#EXTINF:0 tvg-id="RecordNews.pt" group-title="Channels",RECORD NEWS
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224043
 
-#EXTINF:0 tvg-id="RTPMadeira.pt" group-title="Channels",RTP MADEIRA
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224047
-#EXTINF:0 tvg-id="RTPAcores.pt" group-title="Channels",RTP AÇORES
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131100
-#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Channels",RTP MEMÓRIA
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131101
-#EXTINF:0 tvg-id="ext" group-title="Channels",➤ [COLOR=white][B]ENTRETENIMENTO[/B][/COLOR][COLOR=white][/COLOR]
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/225755
+##########################################################################################################################################
+#EXTINF:0 tvg-id="ext" group-title="Channels",➤ [COLOR=white][B]FILMES & SÉRIES TV[/B][/COLOR][COLOR=white][/COLOR]
+http://00000000000000000111111111111111111
+
+
+#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",FOX COMEDY
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131047
+#EXTINF:-1 tvg-id="" tvg-name="|PT| FOX COMEDY HD hevc" tvg-logo="" group-title="PORTUGAL",FOX COMEDY HD 
+http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42069.ts
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",FOX MOVIES
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131041
+#EXTINF:0 tvg-id="AMC.pt" group-title="Channels",AMC
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131049
+#EXTINF:0 tvg-id="axn.pt" group-title="Channels",AXN
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131050
+#EXTINF:0 tvg-id="AXNWhite.pt" group-title="Channels",AXN WHITE
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131044
+#EXTINF:0 tvg-id="ext" group-title="Channels",AXN MOVIES
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131045
+#EXTINF:0 tvg-id="Cinemundo.pt" group-title="Channels",CINEMUNDO
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131042
+#EXTINF:0 tvg-id="hollywood.pt" group-title="Channels",HOLLYWOOD
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224018
 #EXTINF:0 tvg-id="fox.pt" group-title="Channels",FOX
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/160029
 #EXTINF:0 tvg-id="foxcrime.pt" group-title="Channels",FOX CRIME
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131046
 #EXTINF:0 tvg-id="SyFy.pt" group-title="Channels",SYFY
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131053
-#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",FOX COMEDY
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131047
+#EXTINF:0 tvg-id="foxlife.pt" group-title="Channels",FOX LIFE
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131052
+
+##########################################################################################################################################
+#EXTINF:0 tvg-id="ext" group-title="Channels",➤ [COLOR=white][B]DESPORTO[/B][/COLOR][COLOR=white][/COLOR]
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/225761
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 11 
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/223980
+#EXTINF:0 tvg-id="ext" group-title="Channels",A BOLA TV
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/159993
+#EXTINF:0 tvg-id="Eurosport1.pt" group-title="Channels",EUROSPORT 1
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/130966
+#EXTINF:0 tvg-id="Eurosport2.pt" group-title="Channels",EUROSPORT 2
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/130967
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL MOTO GP
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/223993
+#EXTINF:0 tvg-id="Motorvision.pt" group-title="Channels",MOTORVISION
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/130975
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTP ARENA
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224045
+#EXTINF:0 tvg-id="ext" group-title="Channels",COMBAT
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/130974
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="Channels",FUEL TV
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/130976
+#EXTINF:0 tvg-id="pfc.pt" group-title="Channels",PFC
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224041
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 11
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/160003
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",SPORTING TV HD
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224105
+
+##########################################################################################################################################
+#EXTINF:0 tvg-id="ext" group-title="Channels",➤ [COLOR=white][B]ENTRETENIMENTO[/B][/COLOR][COLOR=white][/COLOR]
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/225755
+
 #EXTINF:0 tvg-id="24Kitchen.pt" group-title="Channels",24 KITCHEN
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/130946
 #EXTINF:0 tvg-id="FoodNetwork.pt" group-title="Channels",FOOD NETWORK
@@ -192,8 +273,6 @@ http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224006
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224008
 #EXTINF:0 tvg-id="BBCentertainment.pt" group-title="Channels",BBC ENTERTAINMENT
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/223986
-#EXTINF:0 tvg-id="foxlife.pt" group-title="Channels",FOX LIFE
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131052
 #EXTINF:0 tvg-id="ext" group-title="Channels",A&E TV
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/223981
 #EXTINF:0 tvg-id="ext" group-title="Channels",DOG TV
@@ -202,6 +281,10 @@ http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224005
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224058
 #EXTINF:0 tvg-id="ext" group-title="Channels",DIZI CHANNEL
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224004
+#EXTINF:0 tvg-id="ext" group-title="Channels",MAS CHIC
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224032
+
+##########################################################################################################################################
 #EXTINF:0 tvg-id="ext" group-title="Channels",➤ [COLOR=white][B]NOTÍCIAS[/B][/COLOR][COLOR=white][/COLOR]
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/225773
 #EXTINF:0 tvg-id="PortoCanal.pt" group-title="Channels",PORTO CANAL
@@ -222,18 +305,12 @@ http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/223988
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/160038
 #EXTINF:0 tvg-id="ext" group-title="Channels",AR TV
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/223983
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 11 
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/223980
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO NEWS HD
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224036
-#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Channels",RTP ÁFRICA
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224044
 #EXTINF:0 tvg-id="FoxNews.pt" group-title="Channels",FOX NEWS
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224010
 #EXTINF:0 tvg-id="ext" group-title="Channels",CNBC
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224000
-#EXTINF:0 tvg-id="RecordNews.pt" group-title="Channels",RECORD NEWS
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224043
+
+##########################################################################################################################################
 #EXTINF:0 tvg-id="ext" group-title="Channels",➤ [COLOR=white][B]MÚSICA[/B][/COLOR][COLOR=white][/COLOR]
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/225772
 #EXTINF:0 tvg-id="AfroMusic.pt" group-title="Channels",AFRO MUSIC
@@ -256,8 +333,8 @@ http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224031
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224059
 #EXTINF:0 tvg-id="TraceTVUrban.pt" group-title="Channels",TRACE URBAN
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224060
-#EXTINF:0 tvg-id="ext" group-title="Channels",ZAP VIVA
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224077
+
+##########################################################################################################################################
 #EXTINF:0 tvg-id="ext" group-title="Channels",➤ [COLOR=white][B]INFANTO-JUVENIL[/B][/COLOR][COLOR=white][/COLOR]
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/225754
 #EXTINF:0 tvg-id="SicK.pt" group-title="Channels",SIC KIDS
@@ -290,30 +367,11 @@ http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224011
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224025
 #EXTINF:0 tvg-id="JimJam.pt" group-title="Channels",JIM JAM
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224020
-#EXTINF:0 tvg-id="ext" group-title="Channels",➤ [COLOR=white][B]FILMES & SÉRIES TV[/B][/COLOR][COLOR=white][/COLOR]
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/225765
+#EXTINF:0 tvg-id="ext" group-title="Channels",GINX
+http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224012
 
-#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",FOX MOVIES
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131041
-#EXTINF:0 tvg-id="AMC.pt" group-title="Channels",AMC
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131049
-#EXTINF:0 tvg-id="axn.pt" group-title="Channels",AXN
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131050
-#EXTINF:0 tvg-id="AXNWhite.pt" group-title="Channels",AXN WHITE
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131044
-#EXTINF:0 tvg-id="ext" group-title="Channels",AXN MOVIES
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131045
-#EXTINF:0 tvg-id="Cinemundo.pt" group-title="Channels",CINEMUNDO
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131042
-#EXTINF:0 tvg-id="hollywood.pt" group-title="Channels",HOLLYWOOD
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224018
-#EXTINF:0 tvg-id="TVIFiccao.pt" group-title="Channels",TVI FICÇÃO
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/160073
-#EXTINF:0 tvg-id="TVGlobo.pt" group-title="Channels",GLOBO
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224013
-#EXTINF:0 tvg-id="GloboPremium.pt" group-title="Channels",GLOBO PREMIUM
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224015
-#EXTINF:0 tvg-id="ext" group-title="Channels",➤ [COLOR=white][B]EDUCAÇÃO & DOCUMANTÁRIOS[/B][/COLOR][COLOR=white][/COLOR]
+##########################################################################################################################################
+#EXTINF:0 tvg-id="ext" group-title="Channels",➤ [COLOR=white][B]EDUCAÇÃO & DOCUMENTÁRIOS[/B][/COLOR][COLOR=white][/COLOR]
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/225757
 #EXTINF:0 tvg-id="ext" group-title="Channels",BLAZE
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/159999
@@ -351,10 +409,10 @@ http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224038
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224061
 #EXTINF:0 tvg-id="ext" group-title="Channels",TRAVEL XP
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224062
-#EXTINF:0 tvg-id="tvrecord.pt" group-title="Channels",TV RECORD
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/159991
 #EXTINF:0 tvg-id="CanalQ.pt" group-title="Channels",CANAL Q
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/160006
+
+##########################################################################################################################################
 #EXTINF:0 tvg-id="ext" group-title="Channels",➤ [COLOR=white][B]REALITY SHOWS[/B][/COLOR][COLOR=white][/COLOR]
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/225774
 #EXTINF:0 tvg-id="CBSReality.pt" group-title="Channels",CBS REALITY
@@ -371,34 +429,6 @@ http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224068
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224069
 #EXTINF:0 tvg-id="ext" group-title="Channels",TVI REALITY CAM 4
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224070
-#EXTINF:0 tvg-id="ext" group-title="Channels",➤ [COLOR=white][B]DESPORTO[/B][/COLOR][COLOR=white][/COLOR]
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/225761
-#EXTINF:0 tvg-id="ext" group-title="Channels",A BOLA TV
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/159993
-#EXTINF:0 tvg-id="Eurosport1.pt" group-title="Channels",EUROSPORT 1
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/130966
-#EXTINF:0 tvg-id="Eurosport2.pt" group-title="Channels",EUROSPORT 2
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/130967
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL MOTO GP
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/223993
-#EXTINF:0 tvg-id="Motorvision.pt" group-title="Channels",MOTORVISION
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/130975
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTP ARENA
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224045
-#EXTINF:0 tvg-id="ext" group-title="Channels",COMBAT
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/130974
-#EXTINF:0 tvg-id="FuelTV.pt" group-title="Channels",FUEL TV
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/130976
-#EXTINF:0 tvg-id="ext" group-title="Channels",GINX
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224012
-#EXTINF:0 tvg-id="pfc.pt" group-title="Channels",PFC
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224041
-#EXTINF:0 tvg-id="ext" group-title="Channels",MAS CHIC
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224032
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 11
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/160003
-#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",SPORTING TV HD
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224105
 
 
 ##########################################################################################################################################
@@ -426,8 +456,6 @@ http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42033.ts
 http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/41924.ts
 #EXTINF:-1 tvg-id="" tvg-name="|PT|SIC HD hevc" tvg-logo="" group-title="PORTUGAL",SIC HD 
 http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42031.ts
-
-
 #EXTINF:-1 tvg-id="" tvg-name="|PT| A BOLA HD hevc" tvg-logo="" group-title="PORTUGAL",A BOLA HD 
 http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42037.ts
 #EXTINF:-1 tvg-id="" tvg-name="|PT| AXN FHD hevc" tvg-logo="" group-title="PORTUGAL",AXN FHD 
@@ -452,7 +480,6 @@ http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42035.ts
 http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/41945.ts
 #EXTINF:-1 tvg-id="" tvg-name="|PT| DISNEY JUNIOR" tvg-logo="" group-title="PORTUGAL",DISNEY JUNIOR
 http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/41944.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="|PT| FOX COMEDY HD hevc" tvg-logo="" group-title="PORTUGAL",FOX COMEDY HD 
 http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42069.ts
 #EXTINF:-1 tvg-id="" tvg-name="|PT| FOX FHD hevc" tvg-logo="" group-title="PORTUGAL",FOX FHD 
@@ -615,7 +642,7 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 http://188.250.207.2:8888/play/a02d/index.m3u8
 #EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",SPORTING TV FHD
 http://188.250.207.2:8888/play/a00j/index.m3u8
-#EXTINF:0 tvg-id="SyFy.pt" group-title="Channels",SYFY FULL HD
+#EXTINF:0 tvg-id="SyFy.pt" group-title="Channels",SYFY FHD
 http://188.250.207.2:8888/play/a007/index.m3u8
 #EXTINF:0 tvg-id="SyFy.pt" group-title="Channels",SYFY HD
 http://188.250.207.2:8888/play/a02e/index.m3u8
@@ -625,8 +652,7 @@ http://188.250.207.2:8888/play/a01y/index.m3u8
 http://188.250.207.2:8888/play/a00q/index.m3u8
 #EXTINF:0 tvg-id="TravelXP.in" group-title="Channels",TRAVEL XP HD
 http://188.250.207.2:8888/play/a02f/index.m3u8
-
-#EXTINF:0 tvg-id="TVEi.nws" group-title="Channels",TVEi
+#EXTINF:0 tvg-id="TVEi.nws" group-title="Channels",TVE INTER.
 http://188.250.207.2:8888/play/a019/index.m3u8
 #EXTINF:0 tvg-id="TVIFiccao.pt" group-title="Channels",TVI FICÇÃO
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
