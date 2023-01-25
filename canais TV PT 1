@@ -502,7 +502,7 @@ http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/41975.ts
 http://188.250.207.2:8888/play/a01c/index.m3u8
 #EXTINF:0 tvg-id="AfroMusic.pt" group-title="Channels",AFRO MUSIC
 http://188.250.207.2:8888/play/a01i/index.m3u8
-#EXTINF:0 tvg-id="AlJazeera.nws" group-title="Channels",Aljazeera
+#EXTINF:0 tvg-id="AlJazeera.nws" group-title="Channels",ALJAZEERA
 http://188.250.207.2:8888/play/a01j/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",AMC BREAK
 http://188.250.207.2:8888/play/a01u/index.m3u8
@@ -516,11 +516,11 @@ http://188.250.207.2:8888/play/a01w/index.m3u8
 http://188.250.207.2:8888/play/a021/index.m3u8
 #EXTINF:0 tvg-id="AXNWhite.pt" group-title="Channels",AXN WHITE
 http://188.250.207.2:8888/play/a01v/index.m3u8
-#EXTINF:0 tvg-id="BBCentertainment.pt" group-title="Channels",BBC Entertainment
+#EXTINF:0 tvg-id="BBCentertainment.pt" group-title="Channels",BBC ENTERTAINMENT
 http://188.250.207.2:8888/play/a01a/index.m3u8
 #EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Channels",BIGGS
 http://188.250.207.2:8888/play/a00r/index.m3u8
-#EXTINF:0 tvg-id="Boomerang.pt" group-title="Channels",Boomerang
+#EXTINF:0 tvg-id="Boomerang.pt" group-title="Channels",BOOMERANG
 http://188.250.207.2:8888/play/a018/index.m3u8
 #EXTINF:0 tvg-id="Canal11.pt" group-title="Channels",CANAL 11 FHD
 http://188.250.207.2:8888/play/a00h/index.m3u8
@@ -532,7 +532,7 @@ http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/HasBahCa.m3u8
 http://188.250.207.2:8888/play/a017/index.m3u8
 #EXTINF:0 tvg-id="CanalQ.pt" group-title="Channels",CANAL Q
 http://188.250.207.2:8888/play/a005/index.m3u8
-#EXTINF:0 tvg-id="cartoon.pt" group-title="Channels",Cartoon Network
+#EXTINF:0 tvg-id="cartoon.pt" group-title="Channels",CARTOON NETWORK
 http://188.250.207.2:8888/play/a01s/index.m3u8
 
 #EXTINF:0 tvg-id="CMTV.pt" group-title="Channels",CMTV FHD
@@ -543,11 +543,11 @@ http://188.250.207.2:8888/play/a022/index.m3u8
 http://188.250.207.2:8888/play/a003/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",CNN PORTUGAL FHD
 http://188.250.207.2:8888/play/a023/index.m3u8
-#EXTINF:0 tvg-id="DeutscheWelle.pt" group-title="Channels",Deutsche Welle
+#EXTINF:0 tvg-id="DeutscheWelle.pt" group-title="Channels",DEUTSCHE WELLE
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:0 tvg-id="DISCOVERYHD.pt" group-title="Channels",DISCOVERY CHANNEL FHD
 http://188.250.207.2:8888/play/a01h/index.m3u8
-#EXTINF:0 tvg-id="DISCOVERYHD.pt" group-title="Channels",Discovery Channel HD
+#EXTINF:0 tvg-id="DISCOVERYHD.pt" group-title="Channels",DISCOVERY CHANNEL HD
 http://188.250.207.2:8888/play/a024/index.m3u8
 #EXTINF:0 tvg-id="disneychannel.pt" group-title="Channels",DISNEY CHANNEL
 http://188.250.207.2:8888/play/a00p/index.m3u8
@@ -572,7 +572,7 @@ http://188.250.207.2:8888/play/a01q/index.m3u8
 http://188.250.207.2:8888/play/a01p/index.m3u8
 #EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",FOX MOVIES HD
 http://188.250.207.2:8888/play/a027/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",FRANCE 24 (F)
+#EXTINF:0 tvg-id="ext" group-title="Channels",FRANCE 24
 http://188.250.207.2:8888/play/a008/index.m3u8
 #EXTINF:0 tvg-id="HistoryChannel.pt" group-title="Channels",HISTÓRIA
 http://188.250.207.2:8888/play/a01f/index.m3u8
@@ -586,13 +586,13 @@ http://188.250.207.2:8888/play/a028/index.m3u8
 #EXTINF:0 tvg-id="m6.pt" group-title="Channels",M6
 http://188.250.207.2:8888/play/a01n/index.m3u8
 
-#EXTINF:0 tvg-id="MTV00s.eu" group-title="Channels",MTV 00s
+#EXTINF:0 tvg-id="MTV00s.eu" group-title="Channels",MTV 00´S
 http://188.250.207.2:8888/play/a01g/index.m3u8
 #EXTINF:0 tvg-id="mtvportugal.pt" group-title="Channels",MTV PORTUGAL
 http://188.250.207.2:8888/play/a01x/index.m3u8
 #EXTINF:0 tvg-id="nationalgeographic.pt" group-title="Channels",NATIONAL GEOGRAPHIC
 http://188.250.207.2:8888/play/a01d/index.m3u8
-#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Channels",Nickelodeon
+#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Channels",NICKELODEON HD
 http://188.250.207.2:8888/play/a01t/index.m3u8
 #EXTINF:0 tvg-id="odisseia.pt" group-title="Channels",ODISSEIA
 http://188.250.207.2:8888/play/a01e/index.m3u8
@@ -636,7 +636,7 @@ http://188.250.207.2:8888/play/a02b/index.m3u8
 http://188.250.207.2:8888/play/a014/index.m3u8
 #EXTINF:0 tvg-id="sicradical.pt" group-title="Channels",SIC RADICAL HD
 http://188.250.207.2:8888/play/a02c/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SICᴴᴰ
+#EXTINF:0 tvg-id="ext" group-title="Channels",SIC HD
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_5.m3u8
 #EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",SPORTING TV HD
 http://188.250.207.2:8888/play/a02d/index.m3u8
@@ -664,7 +664,4 @@ http://188.250.207.2:8888/play/a015/index.m3u8
 http://188.250.207.2:8888/play/a02g/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",UM EUROPA
 http://188.250.207.2:8888/play/a00t/index.m3u8
-
-
-
 
