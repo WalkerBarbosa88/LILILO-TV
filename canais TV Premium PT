@@ -145,6 +145,19 @@ plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://ap
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/119
 
 
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/stanleyg/6916329/92137
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/stanleyg/6916329/92138
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/stanleyg/6916329/92139
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/stanleyg/6916329/92140
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/stanleyg/6916329/92141
+#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/stanleyg/6916329/92142
+
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS EM TESTE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
