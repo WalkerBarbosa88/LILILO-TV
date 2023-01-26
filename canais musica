@@ -360,6 +360,9 @@ https://paneltv.net:3908/live/txtkignslive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,[COLOR=white][B]OLDIES HITS TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,[COLOR=white][B]MEMORIAS TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://mediacp.us:8081/8002/index.m3u8?PlaylistM3UCL
  
 ######################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA LATINA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -407,6 +410,9 @@ https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,[COLOR=white][B]FIESTA MAX TV[/B][/COLOR][COLOR=white][/COLOR]
 http://vcpar.myplaytv.com/fiestamax/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,[COLOR=white][B]OXIGENO TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
 
 
 ######################################################################################
