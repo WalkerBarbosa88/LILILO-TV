@@ -224,6 +224,9 @@ https://59f1cbe63db89.streamlock.net:1443/tvbeltrao3/_definst_/tvbeltrao3/chunkl
 #EXTINF:-1,[COLOR=white][B]CATEDRAL DO ROCK HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/chunklist_w720649222.m3u8
 
+#EXTINF:-1,[COLOR=white][B]RCK HD[/B][/COLOR][COLOR=white][/COLOR]
+https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8?PlaylistM3UCL
+
 ######################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  MÚSICAS ALTERNATIVAS & AO VIVO /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
@@ -314,6 +317,9 @@ https://streamtv.mediasector.es/hls/activatv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]BEST CABLE MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
 https://ca2.inka.net.pe/bestcablemusic/index.m3u8
 
+#EXTINF:-1,[COLOR=white][B]URBANO TV[/B][/COLOR][COLOR=white][/COLOR]
+https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8?PlaylistM3UCL
+
 ######################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA ANTIGA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
@@ -351,6 +357,13 @@ http://593b04c4c5670.streamlock.net:1935/8002/8002/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]CLASSIC HITS[/B][/COLOR][COLOR=white][/COLOR]
 http://168.205.87.198:8555/live/1431/123456/27.ts
 
+#EXTINF:-1,[COLOR=white][B]RECUERDOS RETRO RADIO TV[/B][/COLOR][COLOR=white][/COLOR]
+https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,[COLOR=white][B]RADIOTECA TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://paneltv.net:3908/live/txtkignslive.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,[COLOR=white][B]OLDIES HITS TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3UCL
  
 ######################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA LATINA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -377,6 +390,27 @@ https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8?
 
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]AMÉRICA LATINA[/B][/COLOR][COLOR=white][/COLOR]
 http://168.205.87.198:8555/live/1431/123456/16.ts
+
+#EXTINF:-1,[COLOR=white][B]TELEMUSICA HD[/B][/COLOR][COLOR=white][/COLOR]
+https://canal.mediaserver.com.co:8088/live/telemusica.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,[COLOR=white][B]TOP LATINO TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,[COLOR=white][B]LATINZONE TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,[COLOR=white][B]VMLATINO HD[/B][/COLOR][COLOR=white][/COLOR]
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,[COLOR=white][B]MOLA HITS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://ventdelnord.tv:8080/mola/directe.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,[COLOR=white][B]VCLASSIC TV TROPICAL[/B][/COLOR][COLOR=white][/COLOR]
+https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,[COLOR=white][B]FIESTA MAX TV[/B][/COLOR][COLOR=white][/COLOR]
+http://vcpar.myplaytv.com/fiestamax/live/playlist.m3u8?PlaylistM3UCL
 
 
 ######################################################################################
