@@ -408,3 +408,120 @@ http://206.1.95.2:8004/play/a01t
 http://206.1.95.2:8004/play/a00t
 
 
+
+##########################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  LISTA CANAIS BR 3  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+#EXTM3U
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELEWEB TV
+https://video01.kshost.com.br/acessweb7837/acessweb7837/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Grande Natal HDTV 
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Agro Brasil TV
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",ArarunaTV
+https://video01.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Band
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Classique TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",LassTV
+https://tv02.zas.media:1936/lasstv/lasstv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",NTV Patos de Minas
+https://59f1cbe63db89.streamlock.net:1443/ntvnet/_definst_/ntvnet/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Record News Espirito Santo
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rede Mundo TV
+https://video01.logicahost.com.br/mundotvbrasil/mundotvbrasil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rede Premium TV
+https://5c483b9d1019c.streamlock.net:443/8066/8066/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV A Plateia
+https://video01.kshost.com.br/kamal3366/kamal3366/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Água Boa
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist-480p.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Curuça
+https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Destak
+https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist-480p.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Difusora
+https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Difusora Leste
+https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Digital Birigui 
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist-480p.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Infor Bahia
+https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/playlist-480p.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Jornal do Nordeste
+https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Mar
+https://virtues.es:1936/tvmar/tvmar/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Mundial
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Plan
+http://rtmp.cdn.upx.net.br/723b/myStream.sdp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Sim Cachoeiro
+https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Sim Colatina 
+https://5cf4a2c2512a2.streamlock.net:443/8132/8132/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Sim Sao Mateus
+https://5cf4a2c2512a2.streamlock.net:443/8236/8236/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Sul
+http://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Ti Vejo
+https://stmv1.srvif.com/ddacostenaro/ddacostenaro/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Vicosa
+http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVE 
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Yeeaah TV
+https://stmv1.painelvideo.top/yeeaah/yeeaah/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",All Sports 
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w856809681.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",AniTV
+https://stream.ichibantv.ga:3764/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal 29
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",ISTV
+https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Retro Cartoon 
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Aracati
+https://livefocamundo.com:8081/tvaracati/index.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV J.SID
+https://livefocamundo.com:8081/tvjsid/index.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mundo de la Musica TV 
+https://6362ca6f1fc28.streamlock.net:443/8078/8078/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sexy Kpop TV
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Top TV
+https://cast.cdnseguro.com:19360/8092/8092.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Gospel Movies Television
+https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nuevo Tiempo
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Evangelizar
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Rede Gospel 
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Universal
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8?PlaylistM3UCL
+
+
+
+
+
+
+
+
+
+
+
