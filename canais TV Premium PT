@@ -192,6 +192,18 @@ http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42052.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42051.ts
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/50901
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/50902
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/53509
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/53510
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/53511
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/53512
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS SPORT TV PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -270,11 +282,15 @@ http://platin4k.eu:80/logantv/ACXhn9BC5m/161951
 http://platin4k.eu:80/logantv/ACXhn9BC5m/161951
 #EXTINF:-1,[COLOR=white][B]RMC SPORT 1 FR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://77.207.0.25:4000/play/a038
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 1 FR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/3720
 
 #EXTINF:-1,[COLOR=white][B]RMC SPORT 2 FR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/logantv/ACXhn9BC5m/63176
 #EXTINF:-1,[COLOR=white][B]RMC SPORT 2 FR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://77.207.0.25:4000/play/a033
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 2 FR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/46711
 
 #EXTINF:-1,[COLOR=white][B]RMC SPORT 3 FR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://77.207.0.25:4000/play/a03y
@@ -282,6 +298,9 @@ http://77.207.0.25:4000/play/a03y
 http://platin4k.eu:80/logantv/ACXhn9BC5m/161950
 #EXTINF:-1,[COLOR=white][B]RMC SPORT 3 FR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://platin4k.eu:80/logantv/ACXhn9BC5m/161950
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 3 FR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/46712
+
 
 
 
