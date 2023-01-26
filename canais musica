@@ -351,14 +351,10 @@ http://5f22d76e220e1.streamlock.net:1935/vintageradiotv/vintageradiotv/chunklist
 
 #EXTINF:-1,[COLOR=white][B]RECUERDOS RETRO HD[/B][/COLOR][COLOR=white][/COLOR]
 https://593b04c4c5670.streamlock.net/8002/8002/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]RECUERDOS RETRO HD[/B][/COLOR][COLOR=white][/COLOR]
-http://593b04c4c5670.streamlock.net:1935/8002/8002/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]CLASSIC HITS[/B][/COLOR][COLOR=white][/COLOR]
 http://168.205.87.198:8555/live/1431/123456/27.ts
 
-#EXTINF:-1,[COLOR=white][B]RECUERDOS RETRO RADIO TV[/B][/COLOR][COLOR=white][/COLOR]
-https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,[COLOR=white][B]RADIOTECA TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://paneltv.net:3908/live/txtkignslive.m3u8?PlaylistM3UCL
 
