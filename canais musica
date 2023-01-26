@@ -4,7 +4,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 20/01/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 26/01/2023[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -37,8 +37,8 @@ https://000000
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]1HD MUSIC FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://live-1.otcnet.ru/onehdweb/index.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]1HD ROMENIA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/chunklist_b5256000.m3u8
+#EXTINF:-1,[COLOR=white][B]MOOZ HITS HD[/B][/COLOR][COLOR=white][/COLOR]
+https://canale.live/mtv.m3u8/?id=moozhits
 
 #EXTINF:-1,[COLOR=white][B]TRACE URBAN FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
@@ -51,6 +51,13 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/p
 
 #EXTINF:-1,[COLOR=white][B]TRACE LATINA HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]BRIDGE TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://109.200.130.123:7027/play/a01k
+#EXTINF:-1,[COLOR=white][B]BRIDGE HITS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://109.200.130.123:7027/play/a01g
+#EXTINF:-1,[COLOR=white][B]BRIDGE FRESH HD[/B][/COLOR][COLOR=white][/COLOR]
+http://109.200.130.123:7027/play/a01j
 
 #EXTINF:-1,[COLOR=white][B]4 MUSIC UK[/B][/COLOR][COLOR=white][/COLOR]
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
@@ -139,6 +146,8 @@ http://cloudvideo.servers10.com:8080/8004/index.m3u8
 https://000000
 
 
+#EXTINF:-1,[COLOR=white][B]MOOZ DANCE HD[/B][/COLOR][COLOR=white][/COLOR]
+https://canale.live/mtv.m3u8/?id=moozdance
 #EXTINF:-1,[COLOR=white][B]DANCE TV - BEST OF DANCE[/B][/COLOR][COLOR=white][/COLOR]
 https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1,[COLOR=white][B]DANCE TV - DEEP HOUSE[/B][/COLOR][COLOR=white][/COLOR]
@@ -208,8 +217,6 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]ROCK HD[/B][/COLOR][COLOR=white][/COLOR]
 http://95.169.222.113:8800/udp/239.32.0.21:8888
-#EXTINF:-1,[COLOR=white][B]SLUHAY ROCK HD[/B][/COLOR][COLOR=white][/COLOR]
-https://sluhay.by/live/Ch114pub/index.m3u8
 #EXTINF:-1,[COLOR=white][B]RCK TV[/B][/COLOR][COLOR=white][/COLOR]
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,[COLOR=white][B]ROCK TV BR HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -582,7 +589,7 @@ https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c
 
 
 ######################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 20/01/2023 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 26/01/2023 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
@@ -631,6 +638,8 @@ http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
 http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="mezzo-hd" group-title="Channels",[COLOR=white][B]MEZZO LIVE HD[/B][/COLOR][COLOR=white][/COLOR]
 https://sc.id-tv.kz/mezzo_life_hd_34_35.m3u8
+#EXTINF:0 tvg-id="mezzo-hd" group-title="Channels",[COLOR=white][B]MEZZO HD[/B][/COLOR][COLOR=white][/COLOR]
+https://sc.id-tv.kz/mezzo_34_35.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SONUS FM[/B][/COLOR][COLOR=white][/COLOR]
 http://www.sonus.fm:1935/public/stream_720p/chunklist_w514335426.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RADIO XNT[/B][/COLOR][COLOR=white][/COLOR]
