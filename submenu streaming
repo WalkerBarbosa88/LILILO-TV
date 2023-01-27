@@ -79,12 +79,41 @@
 </channel>
 
 
-
 <channels>
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR gold]TUBI TV HD[/COLOR][/B]</name>
 <thumbnail>https://ia804508.us.archive.org/6/items/link-externo/Link%20Externo.jpg</thumbnail>
 <externallink>https://www.apsattv.com/tubi.m3u</externallink>
+<fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
+<info></info>
+</channel>
+
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]TCL TV[/COLOR][/B]</name>
+<thumbnail>https://ia804508.us.archive.org/6/items/link-externo/Link%20Externo.jpg</thumbnail>
+<externallink>https://www.apsattv.com/tcl.m3u</externallink>
+<fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
+<info></info>
+</channel>
+
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]BUMBLEBEE TV[/COLOR][/B]</name>
+<thumbnail>https://ia804508.us.archive.org/6/items/link-externo/Link%20Externo.jpg</thumbnail>
+<externallink>https://www.apsattv.com/bumblebeetv.m3u</externallink>
+<fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
+<info></info>
+</channel>
+
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]LG CHANNELS[/COLOR][/B]</name>
+<thumbnail>https://ia804508.us.archive.org/6/items/link-externo/Link%20Externo.jpg</thumbnail>
+<externallink>https://www.apsattv.com/lg.m3u</externallink>
 <fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
 <info></info>
 </channel>
