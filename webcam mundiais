@@ -6,7 +6,7 @@ http://0.0.0.0:0000
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 28/12/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 01/02/2023[/B][/COLOR][COLOR=orange][/COLOR]
 ############################################################################################################################################################
 
 Fonte: https://fluxustvespanol.blogspot.com/p/fluxus-cctv.html#gsc.tab=0
@@ -225,9 +225,6 @@ plugin://plugin.video.youtube/play/?video_id=8KGXSjtS5pk
 #EXTINF:-1,[COLOR=white][B]I LOVE YOU VENICE - BEACHES[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=OMebkpnYJJo
 
-#EXTINF:-1,[COLOR=white][B]ARMCHAIR TRAVELER LIVE[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=KR8l9t8YpqQ
-
 #EXTINF:-1,[COLOR=white][B]MADEIRA, PORTUGAL - ROLLING MULTI-CAMS[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=_AwBL-uRZd0&ab_channel=Webcamtaxi
 #EXTINF:-1,[COLOR=white][B]FERATEL - GERMANY ROLLING MULTI-CAM[/B][/COLOR][COLOR=white][/COLOR]
@@ -245,9 +242,10 @@ https://000000
 #EXTINF:-1,[COLOR=white][B]USA - MYRTLE BEACH CAM 1[/B][/COLOR][COLOR=white][/COLOR]
 https://5ed7b8fd7bf40.streamlock.net:444/northbeachplantation/northbeach/chunklist_w1424884951.m3u8
 #EXTINF:-1,[COLOR=white][B]USA - MYRTLE BEACH CAM 2[/B][/COLOR][COLOR=white][/COLOR]
-https://5ed7b8fd7bf40.streamlock.net:444/breakerssailfishcam/breakersmyrcam1/chunklist_w1206030774.m3u8
+https://5ab0d1d85f91f.streamlock.net/fuel/boardwalk_1.stream/chunklist_w1077945637.m3u8
 #EXTINF:-1,[COLOR=white][B]USA - MYRTLE BEACH CAM 3[/B][/COLOR][COLOR=white][/COLOR]
 https://5ab0d1d85f91f.streamlock.net/Riptydz/cam-rt-volleyball.stream/playlist.m3u8
+
 
 # https://www.youtube.com/watch?v=BDPw6Y2QSZU
 #EXTINF:-1,[COLOR=white][B]USA - SCHOONERS SUNSET CAM[/B][/COLOR][COLOR=white][/COLOR]
@@ -259,8 +257,6 @@ http://58f0f58ecd733.streamlock.net:1935/schoonersbeachHDCam/schbeach/chunklist.
 # https://www.youtube.com/watch?v=o09siXxJw9A
 #EXTINF:-1,[COLOR=white][B]UK - DAWLISH[/B][/COLOR][COLOR=white][/COLOR]
 https://camsecure.co/HLS/dawlish.m3u8
-#EXTINF:-1,[COLOR=white][B]UK - HARYLYN[/B][/COLOR][COLOR=white][/COLOR]
-https://cams.cdn-surfline.com/cdn-int/uk-harlyn/chunklist.m3u8
 #EXTINF:-1,[COLOR=white][B]UK - WESTWARD[/B][/COLOR][COLOR=white][/COLOR]
 https://camsecure.co/HLS/westho.m3u8
 #EXTINF:-1,[COLOR=white][B]BR - BARRA DA TIJUCA[/B][/COLOR][COLOR=white][/COLOR]
@@ -300,10 +296,6 @@ http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
 https://zssd-panda.hls.camzonecdn.com/CamzoneStreams/zssd-panda/chunklist.m3u8
 #EXTINF:-1,[COLOR=white][B]EXPLORE.ORG - PANDA[/B][/COLOR][COLOR=white][/COLOR]
 https://outbound-production.explore.org/stream-production-33/.m3u8
-
-#EXTINF:-1,[COLOR=white][B]WOLONG GROVE PANDA CAM[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=OObOQ2GElhA
-
 
 #EXTINF:-1,[COLOR=white][B]USA - SAN DIEGO - PANDA[/B][/COLOR][COLOR=white][/COLOR]
 https://zssd-panda.hls.camzonecdn.com/CamzoneStreams/zssd-panda/chunklist.m3u8
@@ -384,8 +376,6 @@ https://hd-auth.skylinewebcams.com/live.m3u8?a=64mueg15ie7jr936cmbpbjjch4
 https://video02.logicahost.com.br/portaldacidade/guaratubarestaurantebrisadomar.stream/chunklist_w309677817.m3u8
 #EXTINF:-1,[COLOR=white][B]BR - PRAIA TRAMANDAÍ[/B][/COLOR][COLOR=white][/COLOR]
 https://vid1.streaming.websul.net.br/live/ods-tramandai.stream/chunklist_w1850879625.m3u8
-#EXTINF:-1,[COLOR=white][B]BR - AV. 23 DE MAIO[/B][/COLOR][COLOR=white][/COLOR]
-https://live.monuv.com.br/a1/14308.stream/str26/chunklist.m3u8
 
 
 ####################################################################################################################################
@@ -413,8 +403,6 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]PL - CRACÓVIA[/B][/COLOR][COLOR=white][/COLOR]
 http://hoktastream2.webcamera.pl/krakow_cam_4c3e37/krakow_cam_4c3e37.stream/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]PL - CIESZYB[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.stream360.pl/CieszynCam/CieszynRynekHD.stream/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]PL - GDANSK[/B][/COLOR][COLOR=white][/COLOR]
 http://hoktastream4.webcamera.pl/gdansk_cam_77aeaf/gdansk_cam_77aeaf.stream/chunks.m3u8
 #EXTINF:-1,[COLOR=white][B]PL - KOLOBRZEG[/B][/COLOR][COLOR=white][/COLOR]
@@ -462,8 +450,7 @@ http://maybach.railcam.co.uk:80/Minehead_05286/tracks-v1a1/mono.m3u8
 http://maybach.railcam.co.uk:80/Williton1_17337/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]UK - ABERGYNOLWYN[/B][/COLOR][COLOR=white][/COLOR]
 http://maybach.railcam.co.uk/Abergynolwyn_68473/tracks-v1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]UK - BEDFORD[/B][/COLOR][COLOR=white][/COLOR]
-https://paxman.railcam.co.uk/Bedford1_25194/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]UK - BISHOPS LYDEARD STATION[/B][/COLOR][COLOR=white][/COLOR]
 http://maybach.railcam.co.uk:80/BishopsLydeard_59234/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]UK - BLUE ANCHOR STATION[/B][/COLOR][COLOR=white][/COLOR]
@@ -483,8 +470,7 @@ https://maybach.railcam.co.uk/Flitwick_99123/tracks-v1a1/mono.m3u8
 http://maybach.railcam.co.uk/Glyndyfrdwy_389573/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]UK - GROOM BRIDGE[/B][/COLOR][COLOR=white][/COLOR]
 http://maybach.railcam.co.uk/Groombridge_20182/tracks-v1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]UK - HARLYN[/B][/COLOR][COLOR=white][/COLOR]
-https://cams.cdn-surfline.com/cdn-int/uk-harlyn/chunklist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]UK - MINEHEAD STATION[/B][/COLOR][COLOR=white][/COLOR]
 http://maybach.railcam.co.uk:80/Minehead_05286/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]UK - ORTON MERE[/B][/COLOR][COLOR=white][/COLOR]
@@ -495,8 +481,6 @@ http://maybach.railcam.co.uk/PendreYard_58347/tracks-v1/mono.m3u8
 https://paxman.railcam.co.uk/Princes-Risborough_95234/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]UK - RIBBLEHEAD[/B][/COLOR][COLOR=white][/COLOR]
 https://paxman.railcam.co.uk/Ribblehead_Viaduct/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]UK - SHREWSBURY[/B][/COLOR][COLOR=white][/COLOR]
-https://paxman.railcam.co.uk/Shrewsbury_10933/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]UK - SWANAGE STATION[/B][/COLOR][COLOR=white][/COLOR]
 http://maybach.railcam.co.uk:80/Swanage_43965/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]UK - TORMORDEN[/B][/COLOR][COLOR=white][/COLOR]
