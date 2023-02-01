@@ -8,7 +8,7 @@ FONTE DE INFORMAÇÃO: https://www.webcamgalore.com/Beaches/themecam.html
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 28/12/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 01/02/2023[/B][/COLOR][COLOR=orange][/COLOR]
 https://000000
 
 #EXTM3U
@@ -17,8 +17,9 @@ https://0000000000000000000000
 
 #EXTM3U
 
+
 #EXTINF:-1,[COLOR=white][B]SETÚBAL - PRAIA DA FONTE DA TELHA (NORTE)[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=AMZlYa_QA2k
+plugin://plugin.video.youtube/play/?video_id=jrLDktkPNa0
 
 #EXTINF:-1,[COLOR=white][B]SETÚBAL - PRAIA DA FONTE DA TELHA (SUL)[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=LO68qQ6-OK8
@@ -29,17 +30,8 @@ plugin://plugin.video.youtube/play/?video_id=wE3fVh24Tlk&ab_channel=Playocean
 #EXTINF:-1,[COLOR=white][B]MADEIRA - PENHA DE FRANÇA MAR[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=P1l36JZ_71Y
 
-#EXTINF:-1,[COLOR=white][B]MADEIRA - PRAIA DA CALHETA[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=oQ8p68DBW90
-
 #EXTINF:-1,[COLOR=white][B]MADEIRA - PORTO MONIZ - WEBCAM 1[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=qUB8_lgA_54
-
-#EXTINF:-1,[COLOR=white][B]MADEIRA - PORTO MONIZ - WEBCAM 2[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=1rxXrniukE0
-
-#EXTINF:-1,[COLOR=white][B]MADEIRA - PISCINAS DO LIDO[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=UZCU4yRiO8g
 
 #EXTINF:-1,[COLOR=white][B]MADEIRA - BARREIRINHA BEACH[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=4J1YwwaZx4I
@@ -50,11 +42,17 @@ plugin://plugin.video.youtube/play/?video_id=MgMWOQIgIBY
 #EXTINF:-1,[COLOR=white][B]PRAIA DE SANTO ANTÓNIO DA CAPARICA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=tymxZzI9XUQ
 
+#EXTINF:-1,[COLOR=white][B]PRAIA DE SANTO ANTÓNIO DA CAPARICA - PANORAMA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=ts9LyJbLwX8
+
 #EXTINF:-1,[COLOR=white][B]PRAIA DA SEREIA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=-w0iQZcxPsA
 
 #EXTINF:-1,[COLOR=white][B]LAGOA DE ALBUFEIRA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=c2Yix8qIz_0
+
+
+
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIAS DO NORTE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
