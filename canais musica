@@ -52,6 +52,12 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/p
 #EXTINF:-1,[COLOR=white][B]TRACE LATINA HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
 
+#EXTINF:-1,[COLOR=white][B]MTV CLUB HD[/B][/COLOR][COLOR=white][/COLOR]
+http://92.60.230.202:5053/udp/239.1.1.80:22080
+
+#EXTINF:-1,[COLOR=white][B]MTV LIVE HD[/B][/COLOR][COLOR=white][/COLOR]
+http://92.60.230.202:5053/udp/239.1.1.81:22081
+
 #EXTINF:-1,[COLOR=white][B]BRIDGE TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://109.200.130.123:7027/play/a01k
 #EXTINF:-1,[COLOR=white][B]BRIDGE HITS HD[/B][/COLOR][COLOR=white][/COLOR]
