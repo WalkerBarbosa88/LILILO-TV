@@ -7,15 +7,16 @@ FONTE DE INFORMAÇÃO:
               https://global-satinfo.in/viewtopic.php?f=22&t=315&start=410
 
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 20/01/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 01/02/2023[/B][/COLOR][COLOR=orange][/COLOR]
 #EXTM3U
 
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////////  LISTA DESPORTO  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]///////////  LISTA DESPORTO MUNDIAL 1  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTM3U
+
 
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",BEIN sports premier 2
@@ -52,8 +53,6 @@ http://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 http://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:0 tvg-id="SwissSportTV.ch" group-title="Channels",SWISS SPORT TV
 http://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPOTV
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",SPORTV TUR
 http://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 #EXTINF:0 tvg-id="SportsTV.tr" group-title="Channels",SPORTS TV
@@ -110,8 +109,6 @@ http://myott.top/stream/DEKA6YA5JRN/396.m3u8
 http://myott.top/stream/DEKA6YA5JRN/328.m3u8
 #EXTINF:0 tvg-id="EdgeSport.nl" group-title="Спорт\",Edge Sport
 https://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8
-#EXTINF:0 tvg-id="ElevenSports4.pt" group-title="Спорт\",ELEVEN SPORTS 4 PT
-http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",EPT Sports 1
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_ww.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",EPT Sports 2
@@ -126,8 +123,6 @@ https://sc.id-tv.kz:443/ExtremeSportsHD_34_35.m3u8
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",Football Hub
 http://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8?token=AnonymousTV
-#EXTINF:0 tvg-id="futbol" group-title="Спорт\",Futbol TV
-https://s03.watcher.uz/74/tracks-v1a1a2/mono.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NTYxNjgsImxvZ2luIjoiaGUtMjUyNTk0NSIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjYzMDkyNTM1fQ.kiKhT-gWF-11PivblJQjeKDWIRLHplSGdejtdizEWzQ%3A74
 #EXTINF:0 tvg-id="kxl" group-title="Спорт\",KHL
 https://sc.id-tv.kz:443/KHL_36_37.m3u8
 #EXTINF:0 tvg-id="kxl-hd" group-title="Спорт\",KHL Prime
@@ -198,12 +193,8 @@ https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 http://myott.top/stream/DEKA6YA5JRN/279.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",Unbeaten
 https://unbeaten-roku.amagi.tv/playlist404p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Спорт\",UzSport
-https://s04.watcher.uz/59/tracks-v1a1a2/mono.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NTYxNjgsImxvZ2luIjoiaGUtMjUyNTk0NSIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjYzMDkyNTM1fQ.kiKhT-gWF-11PivblJQjeKDWIRLHplSGdejtdizEWzQ%3A11
 #EXTINF:0 tvg-id="viasat-sport" group-title="Спорт\",Viasat Sport
 http://flu.ttk.mx:9090/Viasat_Sport/index.m3u8?token=orh6o
-#EXTINF:0 tvg-id="viasat-sport" group-title="Спорт\",Viasat Sport HD
-https://livetv.mylifeisgood.ml/channels/viasatsporthd.m3u8
 #EXTINF:0 tvg-id="viasat-sport" group-title="Спорт\",Viasat Sport Россия HD
 http://myott.top/stream/DEKA6YA5JRN/102.m3u8
 #EXTINF:0 tvg-id="xsport-plus-ua" group-title="Спорт\",X Sport Plus HD
@@ -226,20 +217,14 @@ https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/161
 http://194.143.148.28:8080/MatchHD/mpegts
 #EXTINF:0 tvg-id="sport1_rus" group-title="Спорт\",Матч! Арена
 http://194.143.148.28:8080/MatchArena/mpegts
-#EXTINF:0 tvg-id="hd-sport" group-title="Спорт\",Матч! Игра HD
-https://s04.watcher.uz/19/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NTYxNjgsImxvZ2luIjoiaGUtMjUyNTk0NSIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjYzMDkyNTM1fQ.kiKhT-gWF-11PivblJQjeKDWIRLHplSGdejtdizEWzQ%3A35
 #EXTINF:0 tvg-id="ntv-sport" group-title="Спорт\",Матч! Планета
 https://livetv.mylifeisgood.ml/channels/matchplaneta.m3u8
 #EXTINF:0 tvg-id="sport-plus" group-title="Спорт\",Матч! Страна
 https://livetv.mylifeisgood.ml/channels/matchstrana.m3u8
 #EXTINF:0 tvg-id="sport-plus" group-title="Спорт\",МАТЧ! СТРАНА HD
 https://bl.uma.media/live/291661/HLS/4614144_3/1/1/playlist.m3u8
-#EXTINF:0 tvg-id="ntv-football-1" group-title="Спорт\",Матч! Футбол 1
-https://s04.watcher.uz/21/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NTYxNjgsImxvZ2luIjoiaGUtMjUyNTk0NSIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjYzMDkyNTM1fQ.kiKhT-gWF-11PivblJQjeKDWIRLHplSGdejtdizEWzQ:37
 #EXTINF:0 tvg-id="ntv-football-1" group-title="Спорт\",Матч! ФУТБОЛ 1 HD
 http://31.148.48.15:80/Match_Futbol_1_HD/index.m3u8?token=test
-#EXTINF:0 tvg-id="ntv-football-2" group-title="Спорт\",Матч! Футбол 2
-https://s04.watcher.uz/22/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6NTYxNjgsImxvZ2luIjoiaGUtMjUyNTk0NSIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjYzMDkyNTM1fQ.kiKhT-gWF-11PivblJQjeKDWIRLHplSGdejtdizEWzQ:38
 #EXTINF:0 tvg-id="ntv-football-2" group-title="Спорт\",Матч! ФУТБОЛ 2 HD
 http://31.148.48.15:80/Match_Futbol_2_HD/index.m3u8?token=test
 #EXTINF:0 tvg-id="ntv-football-3" group-title="Спорт\",Матч! ФУТБОЛ 3 HD
@@ -455,8 +440,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a30009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5be1be871843b56328bc3ef1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=8a1b4593-8596-4ff8-8720-2c3271ea36ca&terminate=false&userId=
 #EXTINF:0 tvg-id="ext" group-title="Sports",PLUTO TV QWEST TV JAZZ & BEYOND
 https://siloh.pluto.tv/lilo/production/QwestJazz/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",PLUTO TV SPORTS
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7677fa2ec536ce1d587eeb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d7677fa2ec536ce1d587eeb&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=607&terminate=false&userId=
 #EXTINF:0 tvg-id="ext" group-title="Sports",PLUTO TV SURF
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d1ce51dbaca4afdb7abfe5f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d1ce51dbaca4afdb7abfe5f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=abec40e3-86b9-48b6-981d-dc5eeecc6cf9&terminate=false&userId=
 #EXTINF:0 tvg-id="ext" group-title="Sports",RED BULL 1 TV
@@ -481,5 +464,393 @@ https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
 https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",UNBEATEN
 https://unbeaten-roku.amagi.tv/playlist.m3u8
+
+
+
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]///////////  LISTA DESPORTO MUNDIAL 2  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+#EXTM3U
+
+
+
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",|BE| Voo Sport 1 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/462
+#EXTINF:0 tvg-id="ext" group-title="Channels",|BE| Voo Sport World 1 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/469
+#EXTINF:0 tvg-id="ext" group-title="Channels",|BE| Eleven Pro League 1 HD+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/481
+#EXTINF:0 tvg-id="ext" group-title="Channels",|BE| Eleven Pro League 2 HD+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/483
+#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Channels",|BE| Eleven Sports 1 HD+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/487
+#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Channels",|BE| Eleven Sports 2 HD+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/496
+#EXTINF:0 tvg-id="ext" group-title="Channels",|BE| Play Sports 1 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/509
+#EXTINF:0 tvg-id="ext" group-title="Channels",|BE| Play Sports 2 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/513
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| beIN Sports 2 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/806
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| beIN Sport Max 8 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/819
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| Bein Sports Max 9 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/822
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| Eurosport 2 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/832
+#EXTINF:0 tvg-id="ext" group-title="Channels",|CH| Teleclub Sport 1
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/764
+#EXTINF:0 tvg-id="ext" group-title="Channels",|CH| Teleclub Sport 2
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/765
+#EXTINF:0 tvg-id="ext" group-title="Channels",|CH| MySports 1 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/56356
+#EXTINF:0 tvg-id="ext" group-title="Channels",|CH| MySports 2 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/56357
+#EXTINF:0 tvg-id="ext" group-title="Channels",|CH| MySports 3 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/56358
+#EXTINF:0 tvg-id="ext" group-title="Channels",|CH| MySports 4 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/56359
+#EXTINF:0 tvg-id="ext" group-title="Channels",|CH| MySports 5 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/56360
+#EXTINF:0 tvg-id="ext" group-title="Channels",|ExYu| SportKlub 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13968
+#EXTINF:0 tvg-id="ext" group-title="Channels",|ExYu| Sportklub 1 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13970
+#EXTINF:0 tvg-id="ext" group-title="Channels",|ExYu| Sportklub 2 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13972
+#EXTINF:0 tvg-id="ext" group-title="Channels",|ExYu| SportKlub 3 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13974
+#EXTINF:0 tvg-id="ext" group-title="Channels",|ExYu| SportKlub 4 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13979
+#EXTINF:0 tvg-id="ext" group-title="Channels",|ExYu| SportKlub 5 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13980
+#EXTINF:0 tvg-id="ext" group-title="Channels",|ExYu| SportKlub 6 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13981
+#EXTINF:0 tvg-id="ext" group-title="Channels",|RS| Arena Sport 1 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13950
+#EXTINF:0 tvg-id="ext" group-title="Channels",|RS| Arena Sport 2 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13952
+#EXTINF:0 tvg-id="ext" group-title="Channels",|RS| Arena Sport 3 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13953
+#EXTINF:0 tvg-id="ext" group-title="Channels",|RS| Arena Sport 4 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13954
+#EXTINF:0 tvg-id="ext" group-title="Channels",|RS| Arena Sport 5
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13956
+#EXTINF:0 tvg-id="ext" group-title="Channels",|SL| Sport TV 2 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13859
+#EXTINF:0 tvg-id="ext" group-title="Channels",|SL| Sport TV 3 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13860
+#EXTINF:0 tvg-id="ext" group-title="Channels",|SL| Sportklub 1 HD+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13861
+#EXTINF:0 tvg-id="ext" group-title="Channels",|SL| Sportklub 2 HD+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13862
+#EXTINF:0 tvg-id="ext" group-title="Channels",|SL| Sportklub 3 HD+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13863
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AL| Eurosport 2 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/1091
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AL| K Sport 1 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/1092
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AL| K Sport 2 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/1093
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AL| K Sport 3 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/1151
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AL| K Sport 4 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/1094
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AL| Super Sport News
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/1013
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AL| Super Sport 2 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/1096
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AL| Super Sport 3 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/1097
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AL| Super Sport 4 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/1098
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AL| Super Sport 5 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/1099
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AL| Super Sport 6 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/1012
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AL| Tring Sport News
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/1100
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AL| Tring Sport 1 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/1101
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AL| Tring Sport 2 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/1102
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AL| Tring Sport 3 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/1103
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AL| Tring Sport 4 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/1104
+#EXTINF:0 tvg-id="ext" group-title="Channels",|KS| Super Sport Kosova 1
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/1128
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AL| Art Sport 1 HD+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/1143
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AL| Art Sport 2  HD+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/1144
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AL| Art Sport 3 HD+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/1145
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AL| RTSH Sport HD+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/1155
+#EXTINF:0 tvg-id="ext" group-title="Channels",|RS| Eurosport 1 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13957
+#EXTINF:0 tvg-id="ext" group-title="Channels",|RS| Eurosport 2 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13958
+#EXTINF:0 tvg-id="ext" group-title="Channels",|HR| Arena Sport 1 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13942
+#EXTINF:0 tvg-id="ext" group-title="Channels",|HR| Arena Sport 2 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13943
+#EXTINF:0 tvg-id="ext" group-title="Channels",|HR| Arena Sport 3 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13944
+#EXTINF:0 tvg-id="ext" group-title="Channels",|HR| Arena Sport 4 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13945
+#EXTINF:0 tvg-id="ext" group-title="Channels",|HR| Arena Sport 5 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13946
+#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| Sky Sport News 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13891
+#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| Sky Sports Action 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13892
+#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| Sky Sports Cricket 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13895
+#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| Sky Sports F1 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13896
+#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| Sky Sports Arena 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13897
+#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| Sky Sports Mix 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13898
+#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| Sky Sports Main Event 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13899
+#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| Sky Sports Premier League 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13900
+#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| BT Sport ESPN 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13901
+#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| BT Sport 1 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13902
+#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| BT Sport 2 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13903
+#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| BT Sport 3 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13904
+#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| Liverpool TV 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13913
+#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| Box Nation 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13914
+#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| Premier Sports 1 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13915
+#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| Eir Sports 1 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13916
+#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| Racing UK 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13917
+#EXTINF:0 tvg-id="MUTV.uk" group-title="Channels",|UK| MUTV
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13918
+#EXTINF:0 tvg-id="ext" group-title="Channels",|ES| Movistar LaLiga 3 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13966
+#EXTINF:0 tvg-id="ext" group-title="Channels",|ES| Movistar LaLiga 2 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13967
+#EXTINF:0 tvg-id="ext" group-title="Channels",|ES| Movistar LaLiga 1 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13969
+#EXTINF:0 tvg-id="ext" group-title="Channels",|ES| Movistar LaLigaTVBAR 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13971
+#EXTINF:0 tvg-id="ext" group-title="Channels",|ES| Movistar LaLiga 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13975
+#EXTINF:0 tvg-id="ext" group-title="Channels",|ES| LaLiga TV 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14081
+#EXTINF:0 tvg-id="ext" group-title="Channels",|ES| Eurosport 2 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14088
+#EXTINF:0 tvg-id="BarcaTV.es" group-title="Channels",|ES| Barca TV
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14093
+#EXTINF:0 tvg-id="GOL.es" group-title="Channels",|ES| Gol
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14094
+#EXTINF:0 tvg-id="ext" group-title="Channels",|ES| Eurosport 1 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14084
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| Sport TV 1 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14550
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| Sport TV 4 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14553
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| Eleven Sports 1 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14548
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| Eleven Sports 3 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14537
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| Eleven Sports 4 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14535
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| Eleven Sports 5 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14532
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| Eleven Sports 6 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14530
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| Eurosport 2 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14556
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| Benfica 1 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14557
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| Sporting TV 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14558
+#EXTINF:0 tvg-id="KombatSport.pt" group-title="Channels",|PT| Kombat Sport
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14525
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IT| Sky Sport UNO HD+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14656
+#EXTINF:0 tvg-id="SKYSport24.it" group-title="Channels",|IT| Sky Sport 24 HD+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14657
+#EXTINF:0 tvg-id="SkySportF1.it" group-title="Channels",|IT| Sky Sport F1 HD+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14658
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IT| Sky Sport Football
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14659
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IT| Sky Sport Serie A
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14660
+#EXTINF:0 tvg-id="SkySportMotoGP.it" group-title="Channels",|IT| Sky Sport MotoGP HD+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14663
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IT| DAZN 1 HD+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14664
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IT| DAZN 2 HD+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14665
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IT| Sky Calcio 1 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14666
+#EXTINF:0 tvg-id="Eurosport1.it" group-title="Channels",|IT| Eurosport 1 HD+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14669
+#EXTINF:0 tvg-id="JuventusChannel.it" group-title="Channels",|IT| Juventus TV
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14673
+#EXTINF:0 tvg-id="Sportitalia.it" group-title="Channels",|IT| Sport Italia
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14674
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PL| nSport+ 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15408
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PL| Canal+ Sport 2 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15414
+#EXTINF:0 tvg-id="SportKlub.pl" group-title="Channels",|PL| SPORTKLUB HD+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15424
+#EXTINF:0 tvg-id="PolsatSportNews.pl" group-title="Channels",|PL| Polsat Sport News HD+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15426
+#EXTINF:0 tvg-id="GolfChannel.pl" group-title="Channels",|PL| Golf Channel HD+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15429
+#EXTINF:0 tvg-id="FightBox.pl" group-title="Channels",|PL| Fightbox HD+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15432
+#EXTINF:0 tvg-id="ExtremeSports.pl" group-title="Channels",|PL| Extreme Sports HD+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15434
+#EXTINF:0 tvg-id="PolsatSportPremium1.pl" group-title="Channels",|PL| Polsat Sport Premium 1 HD+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15436
+#EXTINF:0 tvg-id="PolsatSportPremium2.pl" group-title="Channels",|PL| Polsat Sport Premium 2 HD+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15438
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PL| Polsat Sport Premium PPV 4 HD+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15439
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PL| Eurosport 1 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15443
+#EXTINF:0 tvg-id="Eurosport2.pl" group-title="Channels",|PL| EuroSport 2 HD+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15444
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PL| Polsat Sport Extra 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15450
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PL| Polsat Sport Fight 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15453
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PL| Polsat Sport 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15456
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PL| TVP Sport 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15461
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PL| Eleven Sports 1 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15462
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PL| Eleven Sports 2 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15463
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PL| Eleven Sports 3 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15464
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PL| Eleven Sports 4 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15465
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PL| Fight Klub 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15466
+#EXTINF:0 tvg-id="ext" group-title="Channels",|CZ| Nova Sport 2 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15139
+#EXTINF:0 tvg-id="ext" group-title="Channels",|CZ| Sport 2 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15141
+#EXTINF:0 tvg-id="ext" group-title="Channels",|HU| Digi Sport 1 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15184
+#EXTINF:0 tvg-id="ext" group-title="Channels",|HU| Sport 1 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15198
+#EXTINF:0 tvg-id="ext" group-title="Channels",|HU| Sport 2 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15199
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Nova Sport 1 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15269
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Nova Sport 2 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15270
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Nova Sport 3 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15272
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Cosmote Sport 1 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15275
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Cosmote Sport 2 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15276
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Cosmote Sport 3 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15277
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Cosmote Sport 4 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15278
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Cosmote Sport 5 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15279
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Cosmote Sport 6 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15280
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Cosmote Sport 7 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15282
+#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Cosmote Sport 8 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15283
+#EXTINF:0 tvg-id="ext" group-title="Channels",|RO| Telekom Sport 3 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15398
+#EXTINF:0 tvg-id="ext" group-title="Channels",|RO| Telekom Sport 4 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15399
+#EXTINF:0 tvg-id="ext" group-title="Channels",|RO| Digi Sport 1 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15401
+#EXTINF:0 tvg-id="ext" group-title="Channels",|RO| Digi Sport 2 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15402
+#EXTINF:0 tvg-id="ext" group-title="Channels",|RO| Digi Sport 3 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15404
+#EXTINF:0 tvg-id="ext" group-title="Channels",|RO| Digi Sport 4 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15406
+#EXTINF:0 tvg-id="ext" group-title="Channels",|RO| Eurosport 1 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15407
+#EXTINF:0 tvg-id="ext" group-title="Channels",|RO| Look Sport
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15412
+#EXTINF:0 tvg-id="ext" group-title="Channels",|RO| Extreme Sport
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15413
+#EXTINF:0 tvg-id="ext" group-title="Channels",|BG| Max Sport 1 HD+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15600
+#EXTINF:0 tvg-id="ext" group-title="Channels",|BG| Max Sport 3 HD+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15598
+#EXTINF:0 tvg-id="ext" group-title="Channels",|BG| Max Sport 4 HD+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15596
+#EXTINF:0 tvg-id="ext" group-title="Channels",|BG| Eurosport 1 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15635
+#EXTINF:0 tvg-id="ext" group-title="Channels",|BG| Eurosport 2 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15633
+#EXTINF:0 tvg-id="ext" group-title="Channels",|BG| Diema Sport HD+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15652
+#EXTINF:0 tvg-id="ext" group-title="Channels",|BG| Diema Sport 1 4k+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15711
+#EXTINF:0 tvg-id="ext" group-title="Channels",|BG| Diema Sport 2 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15712
+#EXTINF:0 tvg-id="ext" group-title="Channels",|BG| Sport+ 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15713
+#EXTINF:0 tvg-id="ext" group-title="Channels",|BG| Auto Motor Sport 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15680
+#EXTINF:0 tvg-id="ext" group-title="Channels",|BG| Nova Sport
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15714
+#EXTINF:0 tvg-id="ext" group-title="Channels",|BG| Trace Sport Stars HD+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15553
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AZ| Idman TV
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/16013
+#EXTINF:0 tvg-id="ext" group-title="Channels",|DK| TV3 Sport 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/16214
+#EXTINF:0 tvg-id="ext" group-title="Channels",|DK| TV3 Sport 2 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/16217
+#EXTINF:0 tvg-id="ext" group-title="Channels",|SW| Eurosport 1 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/16153
+#EXTINF:0 tvg-id="ext" group-title="Channels",|SW| Eurosport 2 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/16154
+#EXTINF:0 tvg-id="ext" group-title="Channels",|SW| Viasat Sport Golf
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/16176
+#EXTINF:0 tvg-id="ext" group-title="Channels",|SW| C More Live 3 HD+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/16180
+#EXTINF:0 tvg-id="ext" group-title="Channels",|SW| C More Live 4 HD+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/16181
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FI| C More Fotboll 4K+
+http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/16287
+
+
+
+
+
+
+
+
+
+
+
 
 
