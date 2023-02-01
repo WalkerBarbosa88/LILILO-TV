@@ -4,7 +4,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 26/01/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 01/02/2023[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -88,9 +88,6 @@ http://rtmp.one.by:1300
 
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]FIRST MUSIC CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
 http://hz1.teleport.cc/HLS/SD.m3u8
-
-#EXTINF:-1,[COLOR=white][B]DEEJAY HD[/B][/COLOR][COLOR=white][/COLOR]
-https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/chunklist_b2816000.m3u8
 
 #EXTINF:-1,[COLOR=white][B]NRG 91[/B][/COLOR][COLOR=white][/COLOR]
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
@@ -349,9 +346,6 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,[COLOR=white][B]VINTAGE RADIO TV[/B][/COLOR][COLOR=white][/COLOR]
 http://5f22d76e220e1.streamlock.net:1935/vintageradiotv/vintageradiotv/chunklist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]RECUERDOS RETRO HD[/B][/COLOR][COLOR=white][/COLOR]
-https://593b04c4c5670.streamlock.net/8002/8002/playlist.m3u8
-
 #EXTINF:-1,[COLOR=white][B]CLASSIC HITS[/B][/COLOR][COLOR=white][/COLOR]
 http://168.205.87.198:8555/live/1431/123456/27.ts
 
@@ -398,9 +392,6 @@ https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8?Pl
 
 #EXTINF:-1,[COLOR=white][B]LATINZONE TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,[COLOR=white][B]VMLATINO HD[/B][/COLOR][COLOR=white][/COLOR]
-https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,[COLOR=white][B]MOLA HITS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://ventdelnord.tv:8080/mola/directe.m3u8?PlaylistM3UCL
@@ -625,7 +616,7 @@ https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c
 
 
 ######################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 26/01/2023 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 01/02/2023 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
