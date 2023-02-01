@@ -8,7 +8,7 @@ FONTE DE INFORMAÇÃO: http://fmstream.org/index.php?c=G&o=top  -  https://www.r
 
 Rádios de Portugal por distrito - https://pt.wikipedia.org/wiki/Lista_de_r%C3%A1dios_de_Portugal
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 28/12/2022[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 01/02/2023[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
@@ -156,8 +156,6 @@ http://streaming.radioregional.pt:8052
 #EXTINF:-1 radio="true" group-title="Rádios" tvg-logo="http://i.imgur.com/x48qEMX.png",[COLOR=white][B]RÁDIO REGIONAL PORTUGUESA[/B][/COLOR][COLOR=white][/COLOR]
 http://streaming.radioregional.pt:8040
 
-#EXTINF:-1,[COLOR=white][B]RÁDIO ANOS 80 & 90[/B][/COLOR][COLOR=white][/COLOR]
-http://shout2.lunabroadcasting.net:8058/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO RADAR[/B][/COLOR][COLOR=white][/COLOR]
 https://proic1.evspt.com/radar_aac
 #EXTINF:-1,[COLOR=white][B]RÁDIO OLISIPIO[/B][/COLOR][COLOR=white][/COLOR]
@@ -304,8 +302,6 @@ http://centova.radios.pt:8491/stream;
 http://centova.radio.com.pt:9572/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO TERRA QUENTE FM[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radio.com.pt:9402/;
-#EXTINF:-1,[COLOR=white][B]RÁDIO LOUSA[/B][/COLOR][COLOR=white][/COLOR]
-http://109.71.41.6:8022/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO ONDA LIVRE[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radio.com.pt:9572/;
 #EXTINF:-1,[COLOR=white][B]RBA[/B][/COLOR][COLOR=white][/COLOR]
@@ -343,8 +339,6 @@ https://stream-43.zeno.fm/6h6eavybqxhvv?zs=e0tnvm1BS-mzGRD6frJE2A
 https://000000000000000000000
 
 
-#EXTINF:-1,[COLOR=white][B]MIRA ONLINE[/B][/COLOR][COLOR=white][/COLOR]
-https://ssl.xcast.com.br:11654/stream/1/
 #EXTINF:-1,[COLOR=white][B]RÁDIO LUNA FM[/B][/COLOR][COLOR=white][/COLOR]
 http://lunaportugal.lunabroadcasting.net/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO SAUDADE[/B][/COLOR][COLOR=white][/COLOR]
@@ -438,8 +432,6 @@ http://centova.radios.pt:8511/stream/;
 https://000000000000000000000 
 
 
-#EXTINF:-1,[COLOR=white][B]RÁDIO CARDAL FM[/B][/COLOR][COLOR=white][/COLOR]
-https://nl.digitalrm.pt:8204/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO CISTER FM[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radio.com.pt:8453/;
 #EXTINF:-1,[COLOR=white][B]94 FM[/B][/COLOR][COLOR=white][/COLOR]
@@ -454,8 +446,6 @@ http://185.164.137.42:8000/;
 http://centova.radio.com.pt:8061/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO CLUBE POMBAL[/B][/COLOR][COLOR=white][/COLOR]
 http://stream.zeno.fm/chgcg161vhhvv
-#EXTINF:-1,[COLOR=white][B]RÁDIO ABC PORTUGAL[/B][/COLOR][COLOR=white][/COLOR]
-https://centova.radio.com.pt/proxy/547?mp=/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO TROPICAL[/B][/COLOR][COLOR=white][/COLOR]
 https://solid24.streamupsolutions.com/proxy/dcofieen?mp=/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO HIT FM[/B][/COLOR][COLOR=white][/COLOR]
@@ -485,7 +475,7 @@ https://solid24.streamupsolutions.com/proxy/dcofieen?mp=%2Fstream
 #EXTINF:-1,[COLOR=white][B]NOITE FM[/B][/COLOR][COLOR=white][/COLOR]
 http://live.noite.pt:8080/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO OESTE FM[/B][/COLOR][COLOR=white][/COLOR]
-https://sp0.redeaudio.com:10933/live
+https://radios2.justweb.pt:8004/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO MARIA[/B][/COLOR][COLOR=white][/COLOR]
 https://dreamsiteradiocp5.com/proxy/rmportugal1?mp=/stream
 
@@ -561,8 +551,6 @@ http://centova.radios.pt:9524/;
 http://137.74.160.250:8000/;stream/1
 #EXTINF:-1,[COLOR=white][B]RÁDIO XL FM[/B][/COLOR][COLOR=white][/COLOR]
 https://radios.justweb.pt:7000/;
-#EXTINF:-1,[COLOR=white][B]JORNAL FM[/B][/COLOR][COLOR=white][/COLOR]
-http://213.136.92.8:8006/; 
 #EXTINF:-1,[COLOR=white][B]RÁDIO MATOSINHOS[/B][/COLOR][COLOR=white][/COLOR]
 http://185.32.188.17:8035/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO GONDOMAR MIX[/B][/COLOR][COLOR=white][/COLOR]
@@ -703,8 +691,6 @@ http://centova.radio.com.pt:9430/;
 http://centova.radios.pt:8465/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO DOURO NACIONAL[/B][/COLOR][COLOR=white][/COLOR]
 http://95.217.75.38:9796/;
-#EXTINF:-1,[COLOR=white][B]RÁDIO VOZ DO DOURO[/B][/COLOR][COLOR=white][/COLOR]
-http://46.105.172.166:9968/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO LAFÕES[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radio.com.pt:9564/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO MONTEMURO[/B][/COLOR][COLOR=white][/COLOR]
