@@ -52,7 +52,19 @@ plugin://plugin.video.youtube/play/?video_id=-w0iQZcxPsA
 plugin://plugin.video.youtube/play/?video_id=c2Yix8qIz_0
 
 
+#EXTM3U
+#EXTINF:-1,[COLOR=yellow][B]/////////  PRAIAS PT SURF TOTAL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://0000000000000000000000
 
+#EXTM3U
+
+
+#EXTINF:-1,[COLOR=white][B]PRAIA DA PÓVOA DE VARZIM[/B][/COLOR][COLOR=white][/COLOR]
+https://59775c8bd0cf7.streamlock.net/live/ferrari.stream/chunklist_w923319424_tkd293emF0b2tlbmVuZHRpbWU9MTY3NTI3MDkzOSZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2NzUyNzA2OTkmd293emF0b2tlbmhhc2g9dXlMRFZuYi1SQ1JUV3pVY2dwdHBnOTBZVnJ4dnJHbkVmTFRNV2MzeXpscz0=.m3u8
+#EXTINF:-1,[COLOR=white][B]PRAIA DO MOLEDO[/B][/COLOR][COLOR=white][/COLOR]
+https://59775c8bd0cf7.streamlock.net/live/moledo.stream/chunklist_w756010594_tkd293emF0b2tlbmVuZHRpbWU9MTY3NTI3MTA2MyZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2NzUyNzA4MjMmd293emF0b2tlbmhhc2g9aUJnLWVvWWUyYmFxc3lMbWJZWkh1dXhrVTY1LTd0RmNyTnR3M3ZsOE1VQT0=.m3u8
+#EXTINF:-1,[COLOR=white][B]PRAIA DA ÁRVORE[/B][/COLOR][COLOR=white][/COLOR]
+https://59775c8bd0cf7.streamlock.net/live/areal.stream/chunklist_w949223640_tkd293emF0b2tlbmVuZHRpbWU9MTY3NTI3MTExMCZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE2NzUyNzA4NzAmd293emF0b2tlbmhhc2g9Ml9QV3FYRkp3V2hZc3hYZ0djbFNqWGtQelZGbi1rQjJYZ1JiS3BrdFZLND0=.m3u8
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIAS DO NORTE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
