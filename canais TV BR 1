@@ -3,7 +3,7 @@
 http://0.0.0.0:0000
 ############################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 01/02/2023[/B][/COLOR][COLOR=orange][/COLOR] 
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 08/02/2023[/B][/COLOR][COLOR=orange][/COLOR] 
 
 Fonte de Informação: 
 
@@ -122,15 +122,6 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]TRACE URBAN HD[/B][/COLOR][COLOR=white][/COLOR]
 https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
 
-#EXTINF:-1,[COLOR=white][B]TRACE BRAZUKA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://200.4.96.59:1080/play/a04b/index.m3u8
-
-#EXTINF:-1,[COLOR=white][B]MTV LIVE HD[/B][/COLOR][COLOR=white][/COLOR]
-http://200.4.96.59:1080/play/a046/index.m3u8
-
-#EXTINF:-1 group-title="CANAIS | MUSICA" tvg-logo="http://logocanais.ddns.net/Logo/Bis1.png",[COLOR=white][B]BIS FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://axr.life:80/096154/686531/5195
-
 #EXTINF:-1,[COLOR=white][B]K-POP TV PLAY HD[/B][/COLOR][COLOR=white][/COLOR]
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1609920726.m3u8
 #EXTINF:-1,[COLOR=white][B]K-POP TV PLAY HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -164,12 +155,8 @@ https://000000
 
 #EXTINF:0 tvg-id="Globonews.br" group-title="Channels",[COLOR=white][B]GLOBO NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://206.1.95.2:8004/play/a026
-#EXTINF:-1,[COLOR=white][B]CNN INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
-http://200.4.96.59:1080/play/a03x/index.m3u8
 #EXTINF:0 tvg-id="CNNBrasil.br" group-title="Channels",[COLOR=white][B]CNN BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://206.1.95.2:8004/play/a01e
-#EXTINF:-1,[COLOR=white][B]RECORD NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://200.4.96.59:1080/play/a04x/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="GEEK",[COLOR=white][B]REUTERS HD (ENG.)[/B][/COLOR][COLOR=white][/COLOR]
 https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1,[COLOR=white][B]BAND NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -189,17 +176,6 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]MEGAPIX HD[/B][/COLOR][COLOR=white][/COLOR]
 http://200.4.96.59:1080/play/a04k/index.m3u8
-#EXTINF:0 tvg-id="Tcaction.br" group-title="Channels",[COLOR=white][B]TELECINE ACTION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://200.4.96.59:1080/play/a04l/index.m3u8
-#EXTINF:0 tvg-id="Tccult.br" group-title="Channels",[COLOR=white][B]TELECINE CULT HD[/B][/COLOR][COLOR=white][/COLOR]
-http://200.4.96.59:1080/play/a04n/index.m3u8
-#EXTINF:0 tvg-id="Tcfun.br" group-title="Channels",[COLOR=white][B]TELECINE FUN HD[/B][/COLOR][COLOR=white][/COLOR]
-http://200.4.96.59:1080/play/a04m/index.m3u8
-#EXTINF:0 tvg-id="Tcpremium.br" group-title="Channels",[COLOR=white][B]TELECINE PREMIUM HD[/B][/COLOR][COLOR=white][/COLOR]
-http://206.1.95.2:8004/play/a00i
-#EXTINF:0 tvg-id="Tctouch.br" group-title="Channels",[COLOR=white][B]TELECINE TOUCH HD[/B][/COLOR][COLOR=white][/COLOR]
-http://206.1.95.2:8004/play/a00j
-
 #EXTINF:-1,[COLOR=white][B]HBO 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://he11o.akadatel.com/iptv/X562NLUZRV3FTM/19046/index.m3u8
 #EXTINF:-1,[COLOR=white][B]HBO 2 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -243,10 +219,6 @@ http://206.1.95.2:8004/play/a01e
 http://206.1.95.2:8004/play/a02f
 #EXTINF:0 tvg-id="Cnt.br" group-title="Channels",CNT
 http://206.1.95.2:8004/play/a00s
-#EXTINF:0 tvg-id="ext" group-title="Channels",CONMEBOL TV 1
-http://206.1.95.2:8004/play/a00w
-#EXTINF:0 tvg-id="ext" group-title="Channels",CONMEBOL TV 2
-http://206.1.95.2:8004/play/a02m
 #EXTINF:0 tvg-id="ext" group-title="Channels",CONMEBOL TV 3
 http://206.1.95.2:8004/play/a035
 #EXTINF:0 tvg-id="Canalbrasil.br" group-title="Channels",CANAL BRASIL
