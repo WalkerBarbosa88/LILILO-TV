@@ -7,7 +7,7 @@ FONTE DE INFORMAÇÃO:
               https://global-satinfo.in/viewtopic.php?f=22&t=315&start=410
 
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 01/02/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 08/02/2023[/B][/COLOR][COLOR=orange][/COLOR]
 #EXTM3U
 
 
@@ -16,7 +16,6 @@ FONTE DE INFORMAÇÃO:
 https://000000
 
 #EXTM3U
-
 
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",BEIN sports premier 2
@@ -191,12 +190,8 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream
 https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",UDAR HD
 http://myott.top/stream/DEKA6YA5JRN/279.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Спорт\",Unbeaten
-https://unbeaten-roku.amagi.tv/playlist404p.m3u8
 #EXTINF:0 tvg-id="viasat-sport" group-title="Спорт\",Viasat Sport
 http://flu.ttk.mx:9090/Viasat_Sport/index.m3u8?token=orh6o
-#EXTINF:0 tvg-id="viasat-sport" group-title="Спорт\",Viasat Sport Россия HD
-http://myott.top/stream/DEKA6YA5JRN/102.m3u8
 #EXTINF:0 tvg-id="xsport-plus-ua" group-title="Спорт\",X Sport Plus HD
 http://myott.top/stream/DEKA6YA5JRN/332.m3u8
 #EXTINF:0 tvg-id="belarus5" group-title="Спорт\",Беларусь 5 HD
@@ -229,8 +224,6 @@ http://31.148.48.15:80/Match_Futbol_1_HD/index.m3u8?token=test
 http://31.148.48.15:80/Match_Futbol_2_HD/index.m3u8?token=test
 #EXTINF:0 tvg-id="ntv-football-3" group-title="Спорт\",Матч! ФУТБОЛ 3 HD
 http://31.148.48.15:80/Match_Futbol_3_HD/index.m3u8?token=test
-#EXTINF:0 tvg-id="mir-basketbola" group-title="Спорт\",Мир Баскетбола
-http://95.217.196.109:8081/russia/mir_basketbola/playlist.m3u8
 #EXTINF:0 tvg-id="motorsport" group-title="Спорт\",Моторспорт ТВ
 http://myott.top/stream/DEKA6YA5JRN/300.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",Наш спорт 1
@@ -354,8 +347,6 @@ https://edge.taghtia.com/sa/9.m3u8?checkedby:iptvcat.com
 https://edge.taghtia.com/sa/10.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",ESPORTS MAX
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",CBC SPORT
-http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",ALL SPORTS
 http://168.205.87.198:8555/live/1221/123456/148.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",ALL SPORTS
@@ -462,10 +453,6 @@ http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8
 https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",TVS TURBO
 https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",UNBEATEN
-https://unbeaten-roku.amagi.tv/playlist.m3u8
-
-
 
 
 #######################################################################################################################
@@ -475,8 +462,6 @@ https://000000
 #EXTM3U
 
 
-
-#EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Channels",|BE| Voo Sport 1 4K+
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/462
 #EXTINF:0 tvg-id="ext" group-title="Channels",|BE| Voo Sport World 1 4K+
@@ -487,8 +472,6 @@ http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/481
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/483
 #EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Channels",|BE| Eleven Sports 1 HD+
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/487
-#EXTINF:0 tvg-id="ElevenSports2.pl" group-title="Channels",|BE| Eleven Sports 2 HD+
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/496
 #EXTINF:0 tvg-id="ext" group-title="Channels",|BE| Play Sports 1 4K+
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/509
 #EXTINF:0 tvg-id="ext" group-title="Channels",|BE| Play Sports 2 4K+
@@ -547,8 +530,6 @@ http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13860
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13861
 #EXTINF:0 tvg-id="ext" group-title="Channels",|SL| Sportklub 2 HD+
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13862
-#EXTINF:0 tvg-id="ext" group-title="Channels",|SL| Sportklub 3 HD+
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13863
 #EXTINF:0 tvg-id="ext" group-title="Channels",|AL| Eurosport 2 4K+
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/1091
 #EXTINF:0 tvg-id="ext" group-title="Channels",|AL| K Sport 1 4K+
@@ -561,8 +542,6 @@ http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/1151
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/1094
 #EXTINF:0 tvg-id="ext" group-title="Channels",|AL| Super Sport News
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/1013
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AL| Super Sport 2 4K+
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/1096
 #EXTINF:0 tvg-id="ext" group-title="Channels",|AL| Super Sport 3 4K+
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/1097
 #EXTINF:0 tvg-id="ext" group-title="Channels",|AL| Super Sport 4 4K+
@@ -579,8 +558,6 @@ http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/1101
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/1102
 #EXTINF:0 tvg-id="ext" group-title="Channels",|AL| Tring Sport 3 4K+
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/1103
-#EXTINF:0 tvg-id="ext" group-title="Channels",|AL| Tring Sport 4 4K+
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/1104
 #EXTINF:0 tvg-id="ext" group-title="Channels",|KS| Super Sport Kosova 1
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/1128
 #EXTINF:0 tvg-id="ext" group-title="Channels",|AL| Art Sport 1 HD+
@@ -599,8 +576,6 @@ http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13958
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13942
 #EXTINF:0 tvg-id="ext" group-title="Channels",|HR| Arena Sport 2 4K+
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13943
-#EXTINF:0 tvg-id="ext" group-title="Channels",|HR| Arena Sport 3 4K+
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13944
 #EXTINF:0 tvg-id="ext" group-title="Channels",|HR| Arena Sport 4 4K+
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13945
 #EXTINF:0 tvg-id="ext" group-title="Channels",|HR| Arena Sport 5 4K+
@@ -611,8 +586,6 @@ http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13891
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13892
 #EXTINF:0 tvg-id="ext" group-title="Channels",|UK| Sky Sports Cricket 4K+
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13895
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| Sky Sports F1 4K+
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13896
 #EXTINF:0 tvg-id="ext" group-title="Channels",|UK| Sky Sports Arena 4K+
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13897
 #EXTINF:0 tvg-id="ext" group-title="Channels",|UK| Sky Sports Mix 4K+
@@ -621,22 +594,14 @@ http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13898
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13899
 #EXTINF:0 tvg-id="ext" group-title="Channels",|UK| Sky Sports Premier League 4K+
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13900
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| BT Sport ESPN 4K+
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13901
 #EXTINF:0 tvg-id="ext" group-title="Channels",|UK| BT Sport 1 4K+
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13902
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| BT Sport 2 4K+
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13903
 #EXTINF:0 tvg-id="ext" group-title="Channels",|UK| BT Sport 3 4K+
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13904
 #EXTINF:0 tvg-id="ext" group-title="Channels",|UK| Liverpool TV 4K+
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13913
 #EXTINF:0 tvg-id="ext" group-title="Channels",|UK| Box Nation 4K+
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13914
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| Premier Sports 1 4K+
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13915
-#EXTINF:0 tvg-id="ext" group-title="Channels",|UK| Eir Sports 1 4K+
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13916
 #EXTINF:0 tvg-id="ext" group-title="Channels",|UK| Racing UK 4K+
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13917
 #EXTINF:0 tvg-id="MUTV.uk" group-title="Channels",|UK| MUTV
@@ -661,8 +626,6 @@ http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14093
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14094
 #EXTINF:0 tvg-id="ext" group-title="Channels",|ES| Eurosport 1 4K+
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14084
-#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| Sport TV 1 4K+
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14550
 #EXTINF:0 tvg-id="ext" group-title="Channels",|PT| Sport TV 4 4K+
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14553
 #EXTINF:0 tvg-id="ext" group-title="Channels",|PT| Eleven Sports 1 4K+
@@ -691,14 +654,8 @@ http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14657
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14658
 #EXTINF:0 tvg-id="ext" group-title="Channels",|IT| Sky Sport Football
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14659
-#EXTINF:0 tvg-id="ext" group-title="Channels",|IT| Sky Sport Serie A
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14660
 #EXTINF:0 tvg-id="SkySportMotoGP.it" group-title="Channels",|IT| Sky Sport MotoGP HD+
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14663
-#EXTINF:0 tvg-id="ext" group-title="Channels",|IT| DAZN 1 HD+
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14664
-#EXTINF:0 tvg-id="ext" group-title="Channels",|IT| DAZN 2 HD+
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14665
 #EXTINF:0 tvg-id="ext" group-title="Channels",|IT| Sky Calcio 1 4K+
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14666
 #EXTINF:0 tvg-id="Eurosport1.it" group-title="Channels",|IT| Eurosport 1 HD+
@@ -755,16 +712,12 @@ http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15139
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15141
 #EXTINF:0 tvg-id="ext" group-title="Channels",|HU| Digi Sport 1 4K+
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15184
-#EXTINF:0 tvg-id="ext" group-title="Channels",|HU| Sport 1 4K+
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15198
 #EXTINF:0 tvg-id="ext" group-title="Channels",|HU| Sport 2 4K+
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15199
 #EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Nova Sport 1 4K+
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15269
 #EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Nova Sport 2 4K+
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15270
-#EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Nova Sport 3 4K+
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15272
 #EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Cosmote Sport 1 4K+
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15275
 #EXTINF:0 tvg-id="ext" group-title="Channels",|GR| Cosmote Sport 2 4K+
@@ -797,8 +750,6 @@ http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15406
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15407
 #EXTINF:0 tvg-id="ext" group-title="Channels",|RO| Look Sport
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15412
-#EXTINF:0 tvg-id="ext" group-title="Channels",|RO| Extreme Sport
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15413
 #EXTINF:0 tvg-id="ext" group-title="Channels",|BG| Max Sport 1 HD+
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15600
 #EXTINF:0 tvg-id="ext" group-title="Channels",|BG| Max Sport 3 HD+
@@ -829,8 +780,6 @@ http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/16013
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/16214
 #EXTINF:0 tvg-id="ext" group-title="Channels",|DK| TV3 Sport 2 4K+
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/16217
-#EXTINF:0 tvg-id="ext" group-title="Channels",|SW| Eurosport 1 4K+
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/16153
 #EXTINF:0 tvg-id="ext" group-title="Channels",|SW| Eurosport 2 4K+
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/16154
 #EXTINF:0 tvg-id="ext" group-title="Channels",|SW| Viasat Sport Golf
@@ -841,16 +790,3 @@ http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/16180
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/16181
 #EXTINF:0 tvg-id="ext" group-title="Channels",|FI| C More Fotboll 4K+
 http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/16287
-
-
-
-
-
-
-
-
-
-
-
-
-
