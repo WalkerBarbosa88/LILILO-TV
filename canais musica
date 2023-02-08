@@ -4,7 +4,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 01/02/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 08/02/2023[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -34,9 +34,6 @@ http://45.11.56.147:8808/stream?id=137
 https://000000
 
 
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]1HD MUSIC FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://live-1.otcnet.ru/onehdweb/index.m3u8
-
 #EXTINF:-1,[COLOR=white][B]MOOZ HITS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://canale.live/mtv.m3u8/?id=moozhits
 
@@ -52,12 +49,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/p
 #EXTINF:-1,[COLOR=white][B]TRACE LATINA HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]MTV CLUB HD[/B][/COLOR][COLOR=white][/COLOR]
-http://92.60.230.202:5053/udp/239.1.1.80:22080
-
-#EXTINF:-1,[COLOR=white][B]MTV LIVE HD[/B][/COLOR][COLOR=white][/COLOR]
-http://92.60.230.202:5053/udp/239.1.1.81:22081
-
 #EXTINF:-1,[COLOR=white][B]BRIDGE TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://109.200.130.123:7027/play/a01k
 #EXTINF:-1,[COLOR=white][B]BRIDGE HITS HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -71,8 +62,11 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8
 #EXTINF:-1,[COLOR=white][B]THE BOX UK[/B][/COLOR][COLOR=white][/COLOR]
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]RADIO M2O FHD[/B][/COLOR][COLOR=white][/COLOR]
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b3399126.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]RADIO M2O HD[/B][/COLOR][COLOR=white][/COLOR]
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b2816000.m3u8
+https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
 
 #EXTINF:-1,[COLOR=white][B]KRONEHITS FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
@@ -151,9 +145,6 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]MOOZ DANCE HD[/B][/COLOR][COLOR=white][/COLOR]
 https://canale.live/mtv.m3u8/?id=moozdance
-#EXTINF:-1,[COLOR=white][B]CLUBLAND TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://92.60.230.202:5053/udp/239.1.1.77:22077
-
 #EXTINF:-1,[COLOR=white][B]DANCE TV - BEST OF DANCE[/B][/COLOR][COLOR=white][/COLOR]
 https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1,[COLOR=white][B]DANCE TV - DEEP HOUSE[/B][/COLOR][COLOR=white][/COLOR]
@@ -203,7 +194,6 @@ http://tis.catcast.tv/content/391/index.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8
 
 
-
 ######################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  MÚSICA AFRICANA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
@@ -247,6 +237,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6080411af0350600075
 ######################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// BEST TOP HITS 2 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
+
 
 
 #EXTINF:-1,[COLOR=white][B]MOOZ RO HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -375,9 +366,6 @@ https://000000
 #EXTINF:-1,[COLOR=white][B]LATINOS RÁDIO TV[/B][/COLOR][COLOR=white][/COLOR]
 https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80111_Alegria_TV.png",[COLOR=white][B]ALEGRIA TV[/B][/COLOR][COLOR=white][/COLOR]
-https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8
-
 #EXTINF:-1,[COLOR=white][B]TELERITMO[/B][/COLOR][COLOR=white][/COLOR]
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?iptvgratis?chile.m3u8
  
@@ -393,9 +381,6 @@ https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8?
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]AMÉRICA LATINA[/B][/COLOR][COLOR=white][/COLOR]
 http://168.205.87.198:8555/live/1431/123456/16.ts
 
-#EXTINF:-1,[COLOR=white][B]TELEMUSICA HD[/B][/COLOR][COLOR=white][/COLOR]
-https://canal.mediaserver.com.co:8088/live/telemusica.m3u8?PlaylistM3UCL
-
 #EXTINF:-1,[COLOR=white][B]TOP LATINO TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8?PlaylistM3UCL
 
@@ -407,9 +392,6 @@ http://ventdelnord.tv:8080/mola/directe.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,[COLOR=white][B]VCLASSIC TV TROPICAL[/B][/COLOR][COLOR=white][/COLOR]
 https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,[COLOR=white][B]FIESTA MAX TV[/B][/COLOR][COLOR=white][/COLOR]
-http://vcpar.myplaytv.com/fiestamax/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,[COLOR=white][B]OXIGENO TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
@@ -506,8 +488,6 @@ http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]HITS 360 TV[/B][/COLOR][COLOR=white][/COLOR]
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]KM TV NOW[/B][/COLOR][COLOR=white][/COLOR]
-https://kmtvnow-samsung-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]K POP TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]OXIGENO TV[/B][/COLOR][COLOR=white][/COLOR]
@@ -625,7 +605,7 @@ https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c
 
 
 ######################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 01/02/2023 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 08/02/2023 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
