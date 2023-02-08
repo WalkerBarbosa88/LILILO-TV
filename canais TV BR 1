@@ -374,3 +374,54 @@ http://206.1.95.2:8004/play/a01t
 #EXTINF:0 tvg-id="Zoomoo.br" group-title="Channels",ZOOMOO
 http://206.1.95.2:8004/play/a00t
 
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="Channels",TeleCine Premium HD
+http://51.83.238.223:16288
+#EXTINF:0 tvg-id="ext" group-title="Channels",TeleCinea Action HD
+http://51.83.238.223:16703
+#EXTINF:0 tvg-id="ext" group-title="Channels",TeleCinea Pipoca HD
+http://51.83.238.223:16763
+#EXTINF:0 tvg-id="Megapix.br" group-title="Channels",MegaPix HD
+http://51.83.238.223:16823
+#EXTINF:0 tvg-id="ext" group-title="Channels",AXN HD (yra EN)
+http://51.83.238.223:16941
+#EXTINF:0 tvg-id="Universal.uk" group-title="Channels",Universal HD
+http://51.83.238.223:16883
+#EXTINF:0 tvg-id="DiscoveryWorldHD.pe" group-title="Channels",Discovery World HD
+http://51.83.238.223:16017
+#EXTINF:0 tvg-id="discov_rus-hd" group-title="Channels",Discovery HD
+http://51.83.238.223:16957
+#EXTINF:0 tvg-id="animal-hd" group-title="Channels",Animal planet HD
+http://51.83.238.223:16945
+#EXTINF:0 tvg-id="HBO.hu" group-title="Channels",HBO HD
+http://51.83.238.223:16045
+#EXTINF:0 tvg-id="HBO.hu" group-title="Channels",HBO HD
+http://51.83.238.223:16051
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Channels",ESPN HD
+http://51.83.238.223:16515
+#EXTINF:0 tvg-id="Combate.br" group-title="Channels",Combate HD
+http://51.83.238.223:16417
+#EXTINF:0 tvg-id="Sportv.br" group-title="Channels",SPORTV HD
+http://51.83.238.223:16437
+#EXTINF:0 tvg-id="Sportv2.br" group-title="Channels",SPORTV2 HD
+http://51.83.238.223:16457
+#EXTINF:0 tvg-id="premiere-hd" group-title="Channels",Premiere HD
+http://51.83.238.223:16725
+#EXTINF:0 tvg-id="ext" group-title="Channels",Encontro HD
+http://51.83.238.223:16600
+#EXTINF:0 tvg-id="ext" group-title="Channels",Encontro HD
+http://51.83.238.223:16606
+#EXTINF:0 tvg-id="Rederecord.br" group-title="Channels",Record HD
+http://51.83.238.223:16141
+#EXTINF:0 tvg-id="Rederecord.br" group-title="Channels",Record HD
+http://51.83.238.223:16171
+#EXTINF:0 tvg-id="Rederecord.br" group-title="Channels",Record HD
+http://51.83.238.223:16186
+#EXTINF:0 tvg-id="ext" group-title="Channels",Chef HD
+http://51.83.238.223:16800
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Channels",Disney Junior HD
+http://51.83.238.223:16274
+#EXTINF:0 tvg-id="ext" group-title="Channels",CG News HD
+http://51.83.238.223:16825
+
+
+
