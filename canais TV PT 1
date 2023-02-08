@@ -11,7 +11,7 @@ http://0.0.0.0:0000
 https://tvgratuita10.blogspot.com/?fbclid=IwAR1hjt2fxRsjhUBFg6lhEEU1cbj3xHkyZ65tIOyWhApFByPIvawYYeSmHmo
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTAS ATUALIZADAS: 02/02/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS ATUALIZADAS: 08/02/2023[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
@@ -58,8 +58,7 @@ plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://ap
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/69209
 #EXTINF:-1,[COLOR=white][B]DISNEY MARVEL[/B][/COLOR][COLOR=white][/COLOR] 
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/69208
-#EXTINF:-1,[COLOR=white][B]SIC OPTO HD[/B][/COLOR][COLOR=white][/COLOR] 
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/110666
+
 
 ##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS EXPRESSÃO PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -67,17 +66,6 @@ https://000000
 
 #EXTM3U
 
-
-
-#EXTINF:-1,[COLOR=white][B]TV RECORD HD[/B][/COLOR][COLOR=white][/COLOR]
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/110515
-#EXTINF:-1,[COLOR=white][B]RECORD NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/110695
-
-#EXTINF:-1,[COLOR=white][B]TV GLOBO HD[/B][/COLOR][COLOR=white][/COLOR]
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/110518
-#EXTINF:-1,[COLOR=white][B]GLOBO NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/110520
 
 #EXTINF:-1,[COLOR=white][B]DEMAND ÁFRICA[/B][/COLOR][COLOR=white][/COLOR]
 https://demandafrica-oando.amagi.tv/amRdirect/p=da/hls/amagi_hls_data_theafrica-demand-africa-oando/CDN/1920x1080_5055600/index.m3u8
@@ -91,10 +79,6 @@ http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_b714000_slpor.m3u8
 https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]CANAL MACAU TV SD[/B][/COLOR][COLOR=white][/COLOR]
 http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/chunklist_w1683699584.m3u8
-#EXTINF:-1,[COLOR=white][B]ZAP VIVA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/110675
-#EXTINF:-1,[COLOR=white][B]TPA INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/110696
 
 
 #EXTM3U
@@ -107,38 +91,17 @@ http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/110696
 
 #EXTINF:-1,[COLOR=white][B]RTP 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://162.212.178.69:41042/bysid/608
-#EXTINF:-1,[COLOR=white][B]RTP 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/110487
-#EXTINF:-1,[COLOR=white][B]RTP 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/110488
 #EXTINF:-1,[COLOR=white][B]RTP INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
 http://162.212.178.69:41042/bysid/608
 #EXTINF:-1,[COLOR=white][B]RTP INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
 http://210.210.155.37/qwr9ew/s/s38/index.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="*PT ✦ PORTUGAL",[COLOR=white][B]RTP 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/110489
-#EXTINF:0 tvg-id="ext" group-title="*PT ✦ PORTUGAL",[COLOR=white][B]RTP 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/110490
-
-#EXTINF:0 tvg-id="RTP3.pt" group-title="*PT ✦ PORTUGAL",[COLOR=white][B]RTP 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/110501
-#EXTINF:0 tvg-id="ext" group-title="*PT ✦ PORTUGAL",[COLOR=white][B]RTP 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/110502
 
 #EXTINF:-1,[COLOR=white][B]SIC HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_5.m3u8
 #EXTINF:-1,[COLOR=white][B]SIC HD[/B][/COLOR][COLOR=white][/COLOR]
 https://sic.live.impresa.pt/sic.m3u8
-#EXTINF:0 tvg-id="ext" group-title="*PT ✦ PORTUGAL",[COLOR=white][B]SIC HD[/B][/COLOR][COLOR=white][/COLOR]
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/110491
-#EXTINF:0 tvg-id="ext" group-title="*PT ✦ PORTUGAL",[COLOR=white][B]SIC HD[/B][/COLOR][COLOR=white][/COLOR]
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/110492
 
-#EXTINF:0 tvg-id="ext" group-title="*PT ✦ PORTUGAL",[COLOR=white][B]TVI HD[/B][/COLOR][COLOR=white][/COLOR]
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/110493
-#EXTINF:0 tvg-id="ext" group-title="*PT ✦ PORTUGAL",[COLOR=white][B]TVI HD[/B][/COLOR][COLOR=white][/COLOR]
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/110494
 #EXTINF:-1,[COLOR=white][B]TVI ÁFRICA SD[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]TVI FICÇÃO HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -148,16 +111,6 @@ https://bit.ly/3gejKxf?720p/playlist.m3u8
 https://sicnot.live.impresa.pt/sicnot540p.m3u8
 #EXTINF:-1,[COLOR=white][B]SIC NOTÍCIAS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://sicnot.live.impresa.pt/sicnot.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="*PT ✦ PORTUGAL",[COLOR=white][B]CMTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/110495
-#EXTINF:0 tvg-id="ext" group-title="*PT ✦ PORTUGAL",[COLOR=white][B]CMTV FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/110496
-#EXTINF:0 tvg-id="ext" group-title="*PT ✦ PORTUGAL",[COLOR=white][B]CNN PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/110497
-#EXTINF:0 tvg-id="ext" group-title="*PT ✦ PORTUGAL",[COLOR=white][B]CNN PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/110498
-
 
 #EXTINF:-1,[COLOR=white][B]EURONEWS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/2172b02e9431e5c79bc717e0cc555b4d.m3u8
@@ -180,10 +133,6 @@ https://streamer-b02.videos.sapo.pt/live/santuario/chunklist.m3u8
 #EXTINF:-1,[COLOR=white][B]IGREJA DO ESPIRITO SANTO[/B][/COLOR][COLOR=white][/COLOR]
 https://joaocaiado.com:1443/ies_tv/ngrp:ies_tv_all/chunklist_w1006542995_b1413152.m3u8
 
-#EXTINF:-1,[COLOR=white][B]EUROSPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/110575
-#EXTINF:-1,[COLOR=white][B]EUROSPORT 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/110577
 
 ##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS TV PORTUGAL 2  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -354,8 +303,6 @@ http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/130923
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/160012
 #EXTINF:0 tvg-id="ext" group-title="Channels",EURONEWS
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/130928
-#EXTINF:0 tvg-id="Localvisao.pt" group-title="Channels",LOCALVISÃO
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224024
 #EXTINF:0 tvg-id="TVGalicia.pt" group-title="Channels",TV GALÍCIA
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/160070
 #EXTINF:0 tvg-id="ext" group-title="Channels",BLOOMBERG
@@ -371,7 +318,9 @@ http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224000
 
 ##########################################################################################################################################
 #EXTINF:0 tvg-id="ext" group-title="Channels",➤ [COLOR=white][B]MÚSICA[/B][/COLOR][COLOR=white][/COLOR]
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/225772
+http://000111111111111111555555555555
+
+
 #EXTINF:0 tvg-id="AfroMusic.pt" group-title="Channels",AFRO MUSIC
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131068
 #EXTINF:0 tvg-id="mezzo.pt" group-title="Channels",MEZZO 
@@ -396,6 +345,8 @@ http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224060
 ##########################################################################################################################################
 #EXTINF:0 tvg-id="ext" group-title="Channels",➤ [COLOR=white][B]INFANTO-JUVENIL[/B][/COLOR][COLOR=white][/COLOR]
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/225754
+
+
 #EXTINF:0 tvg-id="SicK.pt" group-title="Channels",SIC KIDS
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224052
 #EXTINF:0 tvg-id="BabyTV.pt" group-title="Channels",BABY TV
@@ -432,6 +383,8 @@ http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224012
 ##########################################################################################################################################
 #EXTINF:0 tvg-id="ext" group-title="Channels",➤ [COLOR=white][B]EDUCAÇÃO & DOCUMENTÁRIOS[/B][/COLOR][COLOR=white][/COLOR]
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/225757
+
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",BLAZE
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/159999
 #EXTINF:0 tvg-id="CacaVision.pt" group-title="Channels",CAÇAVISION
@@ -472,6 +425,8 @@ http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/160006
 ##########################################################################################################################################
 #EXTINF:0 tvg-id="ext" group-title="Channels",➤ [COLOR=white][B]REALITY SHOWS[/B][/COLOR][COLOR=white][/COLOR]
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/225774
+
+
 #EXTINF:0 tvg-id="CBSReality.pt" group-title="Channels",CBS REALITY
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/223998
 #EXTINF:0 tvg-id="TVIReal.pt" group-title="Channels",TVI REALITY
@@ -638,10 +593,4 @@ http://x-media.tv:8880/megapages/SnwMqmjLmt/445
 http://x-media.tv:8880/megapages/SnwMqmjLmt/446
 #EXTINF:0 tvg-id="TVIFiccao.pt" group-title="Channels",PT: TVI FICÇÃO
 http://x-media.tv:8880/megapages/SnwMqmjLmt/437
-
-
-
-
-
-
 
