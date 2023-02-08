@@ -10,13 +10,11 @@ http://0.0.0.0:0000
 #######################################################################################################################################
 
 
-#EXTINF:-1,[COLOR=yellow][B]LISTA ATUALIZADA: 28/12/2022[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA ATUALIZADA: 29/12/2022[/B][/COLOR][COLOR=yellow][/COLOR]
  
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR=white][B]HIT RÁDIO1 - TOP HITS 2022 LIVE[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=uNd5kvrGHjk&ab_channel=RadioHitsMusic
 
 #EXTINF:-1,[COLOR=white][B]THE WEEKND - NOTHING IS LOST (AVATAR 2)[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=bDHD1ueL4a4&ab_channel=TheWeekndVEVO
@@ -85,8 +83,8 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=2mkhev
 #EXTINF:-1,[COLOR=white][B]A-HA - AS IF[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=2p4n7JgdCsc&list=RDCLAK5uy_lqNm3KZ4SvTuiGHhnvuep0z2CwMS0OyL4&index=9&ab_channel=ahaVEVO
 
-#EXTINF:-1,[COLOR=white][B]SYRO - AINDA NOS TEMOS[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=N2gI1Zz4EpI&ab_channel=SYRO
+#EXTINF:-1,[COLOR=white][B]SYRO - CONTRAMÃO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=K8uB3OU9_14
 
 #EXTINF:-1,[COLOR=white][B]AITCH FT. ED SHEERAN - MY G[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=81ZwDYRE6uc&ab_channel=AitchVEVO
