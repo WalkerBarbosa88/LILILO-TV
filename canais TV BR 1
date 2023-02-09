@@ -47,9 +47,29 @@ https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatro
 https://stmv1.srvif.com/classique/classique/chunklist_w323924929.m3u8
 #EXTINF:-1,[COLOR=white][B]TOP MIX TV SD[/B][/COLOR][COLOR=white][/COLOR]
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w1210248687.m3u8
-
 #EXTINF:-1,[COLOR=white][B]MAIS FAVELA TV[/B][/COLOR][COLOR=white][/COLOR]
 https://d8nlqpvobfd9y.cloudfront.net/index.m3u8
+#EXTINF:-1,[COLOR=white][B]ANITV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://stream.ichibantv.ga:3764/hybrid/play.m3u8
+#EXTINF:-1,[COLOR=white][B]GHOST TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv.video.expressolider.com.br/ghostv/ghostv/chunklist_w144656719.m3u8
+#EXTINF:-1,[COLOR=white][B]PETLOVERS TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://acesso.ecast.site:3660/stream/play.m3u8
+
+
+##########################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DIVERSOS E GENERALISTAS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+#EXTM3U
+
+
+#EXTINF:-1,[COLOR=white][B]SBT BRASÍLIA HD[/B][/COLOR][COLOR=white][/COLOR]
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+
+
+
+
 
 ##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DESPORTIVOS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -196,6 +216,8 @@ http://he11o.akadatel.com/iptv/X562NLUZRV3FTM/19045/index.m3u8
 http://he11o.akadatel.com/iptv/X562NLUZRV3FTM/19048/index.m3u8
 #EXTINF:-1,[COLOR=white][B]HBO MUNDI HD[/B][/COLOR][COLOR=white][/COLOR]
 http://he11o.akadatel.com/iptv/X562NLUZRV3FTM/19047/index.m3u8
+#EXTINF:-1,[COLOR=white][B]HITS TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv1.srvstm.com/gilberto6794/gilberto6794/chunklist_w1420992417.m3u8
 
 
 ##########################################################################################################################################
