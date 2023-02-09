@@ -39,6 +39,8 @@ https://canale.live/mtv.m3u8/?id=moozhits
 
 #EXTINF:-1,[COLOR=white][B]1HD RU[/B][/COLOR][COLOR=white][/COLOR]
 https://sc.id-tv.kz/1hd_34_35.m3u8
+#EXTINF:-1,[COLOR=white][B]1HD RU[/B][/COLOR][COLOR=white][/COLOR]
+https://livetv.mylifeisgood.ml/channels/1hdmusic.m3u8
 
 #EXTINF:-1,[COLOR=white][B]M MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
 https://videostreaming.cloudserverlatam.com/8050/8050/playlist.m3u8
@@ -66,6 +68,10 @@ http://109.200.130.123:7027/play/a01k
 http://109.200.130.123:7027/play/a01g
 #EXTINF:-1,[COLOR=white][B]BRIDGE FRESH HD[/B][/COLOR][COLOR=white][/COLOR]
 http://109.200.130.123:7027/play/a01j
+#EXTINF:-1,[COLOR=white][B]BRIDGE CLASSIC HD[/B][/COLOR][COLOR=white][/COLOR]
+https://livetv.mylifeisgood.ml/channels/bridgeclassictv
+#EXTINF:-1,[COLOR=white][B]BRIDGE DELUXE HD[/B][/COLOR][COLOR=white][/COLOR]
+http://myott.top/stream/DEKA6YA5JRN/92.m3u8
 
 #EXTINF:-1,[COLOR=white][B]4 MUSIC UK[/B][/COLOR][COLOR=white][/COLOR]
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
@@ -210,8 +216,11 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2a
 https://000000
 
 
-#EXTINF:-1,[COLOR=white][B]AFROBEAT - ÁFRICA[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]AFROBEAT HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,[COLOR=white][B]AFROBEAT HD[/B][/COLOR][COLOR=white][/COLOR]
+https://stream.ecable.tv/afrobeats/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]DBM TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://edge.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8?checkedby:iptvcat.net
