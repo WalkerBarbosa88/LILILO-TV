@@ -55,6 +55,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/p
 #EXTINF:-1,[COLOR=white][B]TRACE LATINA HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
 
+#EXTINF:-1,[COLOR=white][B]MTV HITS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://myott.top/stream/DEKA6YA5JRN/302.m3u8
+#EXTINF:-1,[COLOR=white][B]MTV LIVE HD[/B][/COLOR][COLOR=white][/COLOR]
+http://myott.top/stream/DEKA6YA5JRN/215.m3u8
+
 #EXTINF:-1,[COLOR=white][B]BRIDGE TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://109.200.130.123:7027/play/a01k
 #EXTINF:-1,[COLOR=white][B]BRIDGE HITS HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -363,6 +368,12 @@ https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3
 
 #EXTINF:-1,[COLOR=white][B]MEMORIAS TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://mediacp.us:8081/8002/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,[COLOR=white][B]MTV 80´S TV[/B][/COLOR][COLOR=white][/COLOR]
+http://myott.top/stream/DEKA6YA5JRN/87.m3u8
+
+#EXTINF:-1,[COLOR=white][B]MTV 90´S TV[/B][/COLOR][COLOR=white][/COLOR]
+http://myott.top/stream/DEKA6YA5JRN/88.m3u8
  
 ######################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA LATINA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
