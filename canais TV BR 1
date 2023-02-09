@@ -60,6 +60,8 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://206.1.95.2:8004/play/a01o
+#EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://51.83.238.223:16515
 
 #EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://206.1.95.2:8004/play/a027
@@ -79,6 +81,9 @@ http://206.1.95.2:8004/play/a00f
 http://206.1.95.2:8004/play/a025
 #EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",[COLOR=white][B]SPORTV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://206.1.95.2:8004/play/a025
+
+#EXTINF:0 tvg-id="Sportv.br" group-title="Channels",[COLOR=white][B]PREMIERE 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://51.83.238.223:16725
 
 #EXTINF:-1,[COLOR=white][B]ALL SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://5cf4a2c2512a2.streamlock.net:1935/dgrau/dgrau/playlist.m3u8
@@ -155,6 +160,9 @@ https://000000
 
 #EXTINF:0 tvg-id="Globonews.br" group-title="Channels",[COLOR=white][B]GLOBO NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://206.1.95.2:8004/play/a026
+#EXTINF:0 tvg-id="Globonews.br" group-title="Channels",[COLOR=white][B]GLOBO NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://51.83.238.223:16825
+
 #EXTINF:0 tvg-id="CNNBrasil.br" group-title="Channels",[COLOR=white][B]CNN BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://206.1.95.2:8004/play/a01e
 #EXTINF:0 tvg-id="ext" group-title="GEEK",[COLOR=white][B]REUTERS HD (ENG.)[/B][/COLOR][COLOR=white][/COLOR]
