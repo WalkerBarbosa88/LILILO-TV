@@ -544,63 +544,65 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 #EXTINF:0 tvg-id="TVIFiccao.pt" group-title="Channels",TVI FICÇÃO
 https://bit.ly/3gejKxf?720p/playlist.m3u8
-#EXTINF:0 tvg-id="blaze.pt" group-title="Channels",PT: A&E
+#EXTINF:0 tvg-id="blaze.pt" group-title="Channels",A&E
 http://x-media.tv:8880/megapages/SnwMqmjLmt/411
-#EXTINF:0 tvg-id="AXNWhite.pt" group-title="Channels",PT: AXN WHITE HD
+#EXTINF:0 tvg-id="AXNWhite.pt" group-title="Channels",AXN WHITE HD
 http://x-media.tv:8880/megapages/SnwMqmjLmt/457
-#EXTINF:0 tvg-id="cazaepesca.pt" group-title="Channels",PT: CAÇA & PESCA
+#EXTINF:0 tvg-id="cazaepesca.pt" group-title="Channels",CAÇA & PESCA
 http://x-media.tv:8880/megapages/SnwMqmjLmt/468
-#EXTINF:0 tvg-id="canalpanda.pt" group-title="Channels",PT: CANAL PANDA
+#EXTINF:0 tvg-id="canalpanda.pt" group-title="Channels",CANAL PANDA
 http://x-media.tv:8880/megapages/SnwMqmjLmt/407
-#EXTINF:0 tvg-id="CMTV.pt" group-title="Channels",PT: CMTV
+#EXTINF:0 tvg-id="CMTV.pt" group-title="Channels",CMTV
 http://x-media.tv:8880/megapages/SnwMqmjLmt/467
-#EXTINF:0 tvg-id="discoverychannel.pt" group-title="Channels",PT: DISCOVERY 
+#EXTINF:0 tvg-id="discoverychannel.pt" group-title="Channels",DISCOVERY 
 http://x-media.tv:8880/megapages/SnwMqmjLmt/466
-#EXTINF:0 tvg-id="disneychannel.pt" group-title="Channels",PT: DISNEY CHANNEL 
+#EXTINF:0 tvg-id="disneychannel.pt" group-title="Channels",DISNEY CHANNEL 
 http://x-media.tv:8880/megapages/SnwMqmjLmt/465
-#EXTINF:0 tvg-id="Eurosport1.pt" group-title="Channels",PT: EUROSPORT 1
+#EXTINF:0 tvg-id="Eurosport1.pt" group-title="Channels",EUROSPORT 1
 http://x-media.tv:8880/megapages/SnwMqmjLmt/448
-#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",PT: FOX MOVIES 
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",FOX MOVIES 
 http://x-media.tv:8880/megapages/SnwMqmjLmt/458
-#EXTINF:0 tvg-id="foxlife.pt" group-title="Channels",PT: FOX LIFE HD
+#EXTINF:0 tvg-id="foxlife.pt" group-title="Channels",FOX LIFE HD
 http://x-media.tv:8880/megapages/SnwMqmjLmt/442
 
-#EXTINF:0 tvg-id="nationalgeographic.pt" group-title="Channels",PT: NATIONAL GEOGRAPHIC HD
+#EXTINF:0 tvg-id="nationalgeographic.pt" group-title="Channels",NATIONAL GEOGRAPHIC HD
 http://x-media.tv:8880/megapages/SnwMqmjLmt/461
-#EXTINF:0 tvg-id="PortoCanal.pt" group-title="Channels",PT: PORTO CANAL
+#EXTINF:0 tvg-id="PortoCanal.pt" group-title="Channels",PORTO CANAL
 http://x-media.tv:8880/megapages/SnwMqmjLmt/455
-#EXTINF:0 tvg-id="rtp1.pt" group-title="Channels",PT: RTP
+#EXTINF:0 tvg-id="rtp1.pt" group-title="Channels",RTP
 http://x-media.tv:8880/megapages/SnwMqmjLmt/454
-#EXTINF:0 tvg-id="rtp2.pt" group-title="Channels",PT: RTP 2
+#EXTINF:0 tvg-id="rtp2.pt" group-title="Channels",RTP 2
 http://x-media.tv:8880/megapages/SnwMqmjLmt/452
-#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Channels",PT: RTP MEMÓRIA
+#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Channels",RTP MEMÓRIA
 http://x-media.tv:8880/megapages/SnwMqmjLmt/456
-#EXTINF:0 tvg-id="sic.pt" group-title="Channels",PT: SIC HD
+#EXTINF:0 tvg-id="sic.pt" group-title="Channels",SIC HD
 http://x-media.tv:8880/megapages/SnwMqmjLmt/451
-#EXTINF:0 tvg-id="SicK.pt" group-title="Channels",PT: SIC K
+#EXTINF:0 tvg-id="SicK.pt" group-title="Channels",SIC K
 http://x-media.tv:8880/megapages/SnwMqmjLmt/450
-#EXTINF:0 tvg-id="sicnoticias.pt" group-title="Channels",PT: SIC NOTÍCIAS
+#EXTINF:0 tvg-id="sicnoticias.pt" group-title="Channels",SIC NOTÍCIAS
 http://x-media.tv:8880/megapages/SnwMqmjLmt/449
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3 HD
-http://x-media.tv:8880/megapages/SnwMqmjLmt/432
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4
-http://x-media.tv:8880/megapages/SnwMqmjLmt/433
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV1 HD
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV1 HD
 http://x-media.tv:8880/megapages/SnwMqmjLmt/430
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV2
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV2
 http://x-media.tv:8880/megapages/SnwMqmjLmt/431
-#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",PT: SPORTING TV HD
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",SPORT TV 3 HD
+http://x-media.tv:8880/megapages/SnwMqmjLmt/432
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",SPORT TV 4
+http://x-media.tv:8880/megapages/SnwMqmjLmt/433
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",SPORTING TV HD
 http://x-media.tv:8880/megapages/SnwMqmjLmt/435
-#EXTINF:0 tvg-id="SyFy.pt" group-title="Channels",PT: SYFY HD
+#EXTINF:0 tvg-id="SyFy.pt" group-title="Channels",SYFY HD
 http://x-media.tv:8880/megapages/SnwMqmjLmt/405
-#EXTINF:0 tvg-id="TorosTV.pt" group-title="Channels",PT: TOROS TV
+#EXTINF:0 tvg-id="TorosTV.pt" group-title="Channels",TOROS TV
 http://x-media.tv:8880/megapages/SnwMqmjLmt/404
-#EXTINF:0 tvg-id="TVGlobo.pt" group-title="Channels",PT: TV GLOBO HD
+#EXTINF:0 tvg-id="TVGlobo.pt" group-title="Channels",TV GLOBO HD
 http://x-media.tv:8880/megapages/SnwMqmjLmt/463
-#EXTINF:0 tvg-id="TVCineEDITION.pt" group-title="Channels",PT: TVCINE 2
+#EXTINF:0 tvg-id="TVCineEDITION.pt" group-title="Channels",TVCINE 2
 http://x-media.tv:8880/megapages/SnwMqmjLmt/445
-#EXTINF:0 tvg-id="TVCineEMOTION.pt" group-title="Channels",PT: TVCINE 3
+#EXTINF:0 tvg-id="TVCineEMOTION.pt" group-title="Channels",TVCINE 3
 http://x-media.tv:8880/megapages/SnwMqmjLmt/446
-#EXTINF:0 tvg-id="TVIFiccao.pt" group-title="Channels",PT: TVI FICÇÃO
+#EXTINF:0 tvg-id="TVIFiccao.pt" group-title="Channels",TVI FICÇÃO
 http://x-media.tv:8880/megapages/SnwMqmjLmt/437
 
