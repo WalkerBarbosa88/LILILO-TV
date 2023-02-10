@@ -11,7 +11,7 @@ http://0.0.0.0:0000
 https://tvgratuita10.blogspot.com/?fbclid=IwAR1hjt2fxRsjhUBFg6lhEEU1cbj3xHkyZ65tIOyWhApFByPIvawYYeSmHmo
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTAS ATUALIZADAS: 08/02/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS ATUALIZADAS: 10/02/2023[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
@@ -123,10 +123,6 @@ plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://ap
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/90
 #EXTINF:-1,[COLOR=white][B]FOX COMEDY HD[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/89499
-#EXTINF:-1,[COLOR=white][B]FOX COMEDY HD[/B][/COLOR][COLOR=white][/COLOR]
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/110621
-#EXTINF:-1,[COLOR=white][B]FOX COMEDY HD[/B][/COLOR][COLOR=white][/COLOR]
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/110622
 
 #EXTINF:-1,[COLOR=white][B]SANTUÁRIO DE FÁTIMA HD[/B][/COLOR][COLOR=white][/COLOR]
 https://streamer-b02.videos.sapo.pt/live/santuario/chunklist.m3u8
@@ -184,8 +180,7 @@ http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/130936
 #EXTINF:0 tvg-id="ext" group-title="Channels",➤ [COLOR=white][B]INTERNACIONAIS[/B][/COLOR][COLOR=white][/COLOR]
 http://00000000000000000111111111111111111
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",TPA INTER.
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131114
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",SIC INTER.
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224051
 #EXTINF:0 tvg-id="TVGlobo.pt" group-title="Channels",GLOBO
