@@ -22,7 +22,7 @@ http://0.0.0.0:0000
      Listas Várias - https://global-satinfo.in/viewforum.php?f=22&sid=14261766f220116fe35abb7ddf0e87e2
      
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 10/02/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 17/02/2023[/B][/COLOR][COLOR=orange][/COLOR]
 #EXTM3U
 
 
@@ -163,37 +163,6 @@ plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://ma
 
 
 ####################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS EM TESTE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://00000000000
-
-
-#EXTM3U
-
-
-#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14557
-#EXTINF:-1,[COLOR=white][B]SPORTING TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14558
-#EXTINF:-1,[COLOR=white][B]EUROSPORT 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14556
-
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14548
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14537
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14535
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14532
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14530
-
-#EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/14553
-
-
-
-####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS SPORT TV PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://00000000000
 
@@ -304,29 +273,6 @@ http://platin4k.eu:80/logantv/ACXhn9BC5m/161950
 #EXTINF:-1,[COLOR=white][B]RMC SPORT 3 FR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://server.sibfungold.info:8080/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/46712
 
-#EXTINF:-1,[COLOR=white][B]ARENA SPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13950
-#EXTINF:-1,[COLOR=white][B]ARENA SPORT 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13952
-#EXTINF:-1,[COLOR=white][B]ARENA SPORT 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13953
-#EXTINF:-1,[COLOR=white][B]ARENA SPORT 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13954
-
-#EXTINF:-1,[COLOR=white][B]BT SPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13902
-#EXTINF:-1,[COLOR=white][B]BT SPORT 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/13904
-
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD PL[/B][/COLOR][COLOR=white][/COLOR]
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15462
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD PL[/B][/COLOR][COLOR=white][/COLOR]
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15463
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3 HD PL[/B][/COLOR][COLOR=white][/COLOR]
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15464
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 4 HD PL[/B][/COLOR][COLOR=white][/COLOR]
-http://l1iptv.xyz:80/stvcmsupro123/9gsGrbWDDLfdg498123/15465
-
 
 ##################################  BENFICA TV   ###########################################################################
 
@@ -345,8 +291,6 @@ http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224091
 #EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/159998
 
-#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://jadetv.de:80/eylul99/NdEKp6X7gNCg/159587
 #EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42048.ts
 #EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -426,8 +370,6 @@ http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224065
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131037
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
-http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9562
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
 http://satline.xyz:8080/live/7381662208002780/5261662208002780/25012.ts
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EMOTION FHD[/B][/COLOR][COLOR=white][/COLOR]
@@ -438,14 +380,10 @@ http://satline.xyz:8080/live/7381662208002780/5261662208002780/25014.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EDITION FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131038
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EDITION FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9563
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EDITION FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://satline.xyz:8080/live/7381662208002780/5261662208002780/25013.ts
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE ACTION FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131040
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE ACTION FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://live-tv.uk:8080/Genip_Iptv/BRO_Skype_5826274682946/9564
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE ACTION FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://satline.xyz:8080/live/7381662208002780/5261662208002780/25009.ts
 
