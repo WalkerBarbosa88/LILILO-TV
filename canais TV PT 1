@@ -100,6 +100,8 @@ http://210.210.155.37/qwr9ew/s/s38/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]RTP 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42030.ts
+#EXTINF:-1,[COLOR=white][B]RTP 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42030.ts
 
 #EXTINF:-1,[COLOR=white][B]RTP 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://5.249.111.12:8000/play/a006/index.m3u8
@@ -111,11 +113,16 @@ https://sic.live.impresa.pt/sic.m3u8
 
 #EXTINF:-1,[COLOR=white][B]TVI HD[/B][/COLOR][COLOR=white][/COLOR]
 http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42033.ts
+#EXTINF:-1,[COLOR=white][B]TVI HD[/B][/COLOR][COLOR=white][/COLOR]
+http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42034.ts
 
 #EXTINF:-1,[COLOR=white][B]TVI ÁFRICA SD[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]TVI FICÇÃO HD[/B][/COLOR][COLOR=white][/COLOR]
 https://bit.ly/3gejKxf?720p/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]TVI REALITY HD[/B][/COLOR][COLOR=white][/COLOR]
+http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/41924.ts
 
 #EXTINF:-1,[COLOR=white][B]SIC NOTÍCIAS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://sicnot.live.impresa.pt/sicnot540p.m3u8
@@ -130,12 +137,20 @@ http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42035.ts
 #EXTINF:-1,[COLOR=white][B]EURONEWS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/2172b02e9431e5c79bc717e0cc555b4d.m3u8
 
+#EXTINF:-1,[COLOR=white][B]AXN HD[/B][/COLOR][COLOR=white][/COLOR]
+http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42061.ts
+
+#EXTINF:-1,[COLOR=white][B]FOX FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42064.ts
+
 #EXTINF:-1,[COLOR=white][B]FOX COMEDY HD[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/4746
 #EXTINF:-1,[COLOR=white][B]FOX COMEDY FHD[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/90
 #EXTINF:-1,[COLOR=white][B]FOX COMEDY HD[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/89499
+#EXTINF:-1,[COLOR=white][B]FOX COMEDY HD[/B][/COLOR][COLOR=white][/COLOR]
+http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42069.ts
 
 #EXTINF:-1,[COLOR=white][B]SANTUÁRIO DE FÁTIMA HD[/B][/COLOR][COLOR=white][/COLOR]
 https://streamer-b02.videos.sapo.pt/live/santuario/chunklist.m3u8
