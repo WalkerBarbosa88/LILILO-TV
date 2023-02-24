@@ -4,7 +4,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 17/02/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 24/02/2023[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -39,8 +39,6 @@ https://canale.live/mtv.m3u8/?id=moozhits
 
 #EXTINF:-1,[COLOR=white][B]1HD RU FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://livetv.mylifeisgood.ml/channels/1hdmusic.m3u8
-#EXTINF:-1,[COLOR=white][B]1HD RU HD[/B][/COLOR][COLOR=white][/COLOR]
-https://sc.id-tv.kz/1hd_34_35.m3u8
 
 #EXTINF:-1,[COLOR=white][B]TRACE URBAN FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
@@ -76,9 +74,6 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8
 #EXTINF:-1,[COLOR=white][B]THE BOX UK[/B][/COLOR][COLOR=white][/COLOR]
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]RADIO M2O FHD[/B][/COLOR][COLOR=white][/COLOR]
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b3245121.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]RADIO M2O HD[/B][/COLOR][COLOR=white][/COLOR]
 https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
 
@@ -93,9 +88,6 @@ http://livetv.powerapp.com.tr/pplustv/pplustv.smil/chunklist_b2628000_sltur.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]POWER DANCE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://livetv.powerapp.com.tr/dance/dance.smil/chunklist_b2628000_sltur.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]POWER LOVE HD[/B][/COLOR][COLOR=white][/COLOR]
-https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV Musicas",[COLOR=white][B]ONE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://rtmp.one.by:1300
@@ -325,9 +317,6 @@ http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/chunklist_w256350
 #EXTINF:-1,[COLOR=white][B]BRASA MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
 http://live.salto.nl/hls/sotv1_high.m3u8
 
-#EXTINF:-1,[COLOR=white][B]ACTIVA TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://streamtv.mediasector.es/hls/activatv/playlist.m3u8
-
 #EXTINF:-1,[COLOR=white][B]BEST CABLE MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
 https://ca2.inka.net.pe/bestcablemusic/index.m3u8
 
@@ -493,13 +482,10 @@ https://muzzik-live.morescreens.com/mts-a3/playlist.m3u8
 https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]SPIRIT TV USA EN[/B][/COLOR][COLOR=white][/COLOR]
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-
 #EXTINF:-1,[COLOR=white][B]30A TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://30a-tv.com/music.m3u8
 #EXTINF:-1,[COLOR=white][B]BREEZE TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://livestreamdirect-breezetv.mediaworks.nz/breezetv.m3u8
-#EXTINF:-1,[COLOR=white][B]CANAL 38[/B][/COLOR][COLOR=white][/COLOR]
-https://rtmp.info/canal38/envivo/chunks.m3u8
 #EXTINF:-1,[COLOR=white][B]COMPANY TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 #EXTINF:-1,[COLOR=white][B]CONECTA TV HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -625,7 +611,7 @@ https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c
 
 
 ######################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 17/02/2023 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 24/02/2023 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
