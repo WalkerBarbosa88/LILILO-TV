@@ -8,7 +8,7 @@ FONTE DE INFORMAÇÃO: https://www.webcamgalore.com/Beaches/themecam.html
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 01/02/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 03/03/2023[/B][/COLOR][COLOR=orange][/COLOR]
 https://000000
 
 #EXTM3U
@@ -22,7 +22,7 @@ https://0000000000000000000000
 plugin://plugin.video.youtube/play/?video_id=jrLDktkPNa0
 
 #EXTINF:-1,[COLOR=white][B]SETÚBAL - PRAIA DA FONTE DA TELHA (SUL)[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=LO68qQ6-OK8
+plugin://plugin.video.youtube/play/?video_id=gtnFxk51NRo
 
 #EXTINF:-1,[COLOR=white][B]SETÚBAL - PORTINHO DA ARRÁBIDA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=wE3fVh24Tlk&ab_channel=Playocean
@@ -39,17 +39,20 @@ plugin://plugin.video.youtube/play/?video_id=4J1YwwaZx4I
 #EXTINF:-1,[COLOR=white][B]MADEIRA - PRAIA DA PONTA GORDA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=MgMWOQIgIBY
 
-#EXTINF:-1,[COLOR=white][B]PRAIA S. A. DA CAPARICA[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=tymxZzI9XUQ
-
 #EXTINF:-1,[COLOR=white][B]PRAIA DE S. A. DA CAPARICA - PANORAMA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=ts9LyJbLwX8
 
 #EXTINF:-1,[COLOR=white][B]PRAIA DA SEREIA[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=-w0iQZcxPsA
+plugin://plugin.video.youtube/play/?video_id=5LRFTOu8-F4
 
 #EXTINF:-1,[COLOR=white][B]LAGOA DE ALBUFEIRA[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=c2Yix8qIz_0
+plugin://plugin.video.youtube/play/?video_id=Xso1MCKRN5Q
+
+#EXTINF:-1,[COLOR=white][B]PRAIA DA ROCHA PORTIMÃO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=T56ClWpDZXU
+
+#EXTINF:-1,[COLOR=white][B]ALAGOA PORTO DA CRUZ (MADEIRA)[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=8zm0aKVnTAA
 
 
 ####################################################################################################################################
