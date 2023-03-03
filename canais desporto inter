@@ -7,7 +7,7 @@ FONTE DE INFORMAÇÃO:
               https://global-satinfo.in/viewtopic.php?f=22&t=315&start=410
 
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 24/02/2023 - 3 OFFLINE[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 03/03/2023[/B][/COLOR][COLOR=orange][/COLOR]
 #EXTM3U
 
 
@@ -88,8 +88,6 @@ https://livetv.mylifeisgood.ml/channels/eurosport1ru.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",Bein sports xtra n
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Спорт\",BENFICA 4K TV UHD PT
-http://21929815.rossteleccom.net/iptv/KBDMQMYTHBMXED/19160/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",Canal Motor
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",Canal+ Motor
@@ -152,8 +150,6 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 http://92.46.127.146:8080/qazsport/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="setanta-sport-kz" group-title="Спорт\",Setanta Qazaqstan HD
-http://he11o.akadatel.com/iptv/NPFTZBM7EF776R/2399/index.m3u8
 #EXTINF:0 tvg-id="setanta-sport" group-title="Спорт\",Setanta Sports 1 HD
 https://livetv.mylifeisgood.ml/channels/setantahd.m3u8
 #EXTINF:0 tvg-id="setanta-sport-plus" group-title="Спорт\",Setanta Sports 2
@@ -190,8 +186,6 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream
 https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",UDAR HD
 http://myott.top/stream/DEKA6YA5JRN/279.m3u8
-#EXTINF:0 tvg-id="viasat-sport" group-title="Спорт\",Viasat Sport
-http://flu.ttk.mx:9090/Viasat_Sport/index.m3u8?token=orh6o
 #EXTINF:0 tvg-id="xsport-plus-ua" group-title="Спорт\",X Sport Plus HD
 http://myott.top/stream/DEKA6YA5JRN/332.m3u8
 #EXTINF:0 tvg-id="belarus5" group-title="Спорт\",Беларусь 5 HD
