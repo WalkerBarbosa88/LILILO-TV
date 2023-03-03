@@ -29,8 +29,8 @@ https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w249885560.m3u8
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1829280153.m3u8
 #EXTINF:-1,[COLOR=white][B]TV LOADING SD[/B][/COLOR][COLOR=white][/COLOR]
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1292312804.m3u8
-#EXTINF:-1,[COLOR=white][B]TV CARIOCA HD (OFFLINE)[/B][/COLOR][COLOR=white][/COLOR]
-https://stmv2.duvoxtv.com.br/tvcarioca/tvcarioca/chunklist_w2109833343.m3u8
+#EXTINF:-1,[COLOR=white][B]TV CARIOCA HD[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv3.duvoxtv.com.br/tvcariocas/tvcariocas/chunklist_w655032515.m3u8
 #EXTINF:-1,[COLOR=white][B]VINTAGE TV SD[/B][/COLOR][COLOR=white][/COLOR]
 https://stmv1.srvif.com/webvintage/webvintage/chunklist_w1086155908.m3u8
 #EXTINF:-1,[COLOR=white][B]GHOST TV HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -56,20 +56,6 @@ https://stmv1.srvif.com/animetv/animetv/chunklist_w237344650.m3u8
 
 
 ##########################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DIVERSOS E GENERALISTAS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://000000
-
-#EXTM3U
-
-
-#EXTINF:-1,[COLOR=white][B]SBT BRASÍLIA HD[/B][/COLOR][COLOR=white][/COLOR]
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
-
-
-
-
-
-##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DESPORTIVOS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
@@ -80,21 +66,55 @@ https://000000
 http://51.83.238.223:16515
 #EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://200.194.238.229:8000/udp/225.1.1.12:1234
+#EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://moontools.me:8080/jorgearayaRRrSt/xK8j1sMCGf/1335580
+#EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://moontools.me:8080/jorgearayaRRrSt/xK8j1sMCGf/1335767
 
 #EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://200.194.238.229:8000/udp/225.1.1.13:1234
+#EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://moontools.me:8080/jorgearayaRRrSt/xK8j1sMCGf/1335769
+#EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://moontools.me:8080/jorgearayaRRrSt/xK8j1sMCGf/1335578
 
 #EXTINF:-1,[COLOR=white][B]ESPN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://200.194.238.229:8000/udp/225.1.1.15:1234
+#EXTINF:-1,[COLOR=white][B]ESPN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://moontools.me:8080/jorgearayaRRrSt/xK8j1sMCGf/1335890
+#EXTINF:-1,[COLOR=white][B]ESPN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://moontools.me:8080/jorgearayaRRrSt/xK8j1sMCGf/1335930
 
 #EXTINF:-1,[COLOR=white][B]ESPN 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://xcui.vitvabc.xyz:8880/live/287994016405/287994016405/31034.m3u8
 #EXTINF:-1,[COLOR=white][B]ESPN 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://200.194.238.229:8000/udp/225.1.1.116:1234
 
+#EXTINF:-1,[COLOR=white][B]SPORTV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://moontools.me:8080/jorgearayaRRrSt/xK8j1sMCGf/1335781
+#EXTINF:-1,[COLOR=white][B]SPORTV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://moontools.me:8080/jorgearayaRRrSt/xK8j1sMCGf/1335632
+#EXTINF:-1,[COLOR=white][B]SPORTV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://moontools.me:8080/jorgearayaRRrSt/xK8j1sMCGf/1335974
+
+#EXTINF:-1,[COLOR=white][B]SPORTV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://moontools.me:8080/jorgearayaRRrSt/xK8j1sMCGf/1335779
+#EXTINF:-1,[COLOR=white][B]SPORTV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://moontools.me:8080/jorgearayaRRrSt/xK8j1sMCGf/1335633
+#EXTINF:-1,[COLOR=white][B]SPORTV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://moontools.me:8080/jorgearayaRRrSt/xK8j1sMCGf/1335975
+
+#EXTINF:-1,[COLOR=white][B]SPORTV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://moontools.me:8080/jorgearayaRRrSt/xK8j1sMCGf/1335780
+#EXTINF:-1,[COLOR=white][B]SPORTV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://moontools.me:8080/jorgearayaRRrSt/xK8j1sMCGf/1335976
 
 #EXTINF:0 tvg-id="Sportv.br" group-title="Channels",[COLOR=white][B]PREMIERE 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://51.83.238.223:16725
+#EXTINF:0 tvg-id="Sportv.br" group-title="Channels",[COLOR=white][B]PREMIERE 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://moontools.me:8080/jorgearayaRRrSt/xK8j1sMCGf/1117043
+#EXTINF:0 tvg-id="Sportv.br" group-title="Channels",[COLOR=white][B]PREMIERE 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://moontools.me:8080/jorgearayaRRrSt/xK8j1sMCGf/1117044
 
 #EXTINF:-1,[COLOR=white][B]ALL SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://5cf4a2c2512a2.streamlock.net:1935/dgrau/dgrau/playlist.m3u8
@@ -119,9 +139,37 @@ https://000000
 
 #EXTINF:0 tvg-id="discov_rus" group-title="Channels",[COLOR=white][B]HGTV BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://200.194.238.229:8000/udp/225.1.1.32:1234
+#EXTINF:0 tvg-id="discov_rus" group-title="Channels",[COLOR=white][B]HGTV BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://moontools.me:8080/jorgearayaRRrSt/xK8j1sMCGf/1335822
+#EXTINF:0 tvg-id="discov_rus" group-title="Channels",[COLOR=white][B]HGTV BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://moontools.me:8080/jorgearayaRRrSt/xK8j1sMCGf/1335957
+
 #EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Channels",[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
 http://200.194.238.229:8000/udp/225.1.1.30:1234
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Channels",[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
+http://moontools.me:8080/jorgearayaRRrSt/xK8j1sMCGf/1335815
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Channels",[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
+http://moontools.me:8080/jorgearayaRRrSt/xK8j1sMCGf/1117102
 
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Channels",[COLOR=white][B]DISCOVERY CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
+http://moontools.me:8080/jorgearayaRRrSt/xK8j1sMCGf/1335814
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Channels",[COLOR=white][B]DISCOVERY CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
+http://moontools.me:8080/jorgearayaRRrSt/xK8j1sMCGf/1335570
+
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Channels",[COLOR=white][B]DISCOVERY KIDS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://moontools.me:8080/jorgearayaRRrSt/xK8j1sMCGf/1335831
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Channels",[COLOR=white][B]DISCOVERY SCIENCE HD[/B][/COLOR][COLOR=white][/COLOR]
+http://moontools.me:8080/jorgearayaRRrSt/xK8j1sMCGf/1117100
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Channels",[COLOR=white][B]DISCOVERY THEATER HD[/B][/COLOR][COLOR=white][/COLOR]
+http://moontools.me:8080/jorgearayaRRrSt/xK8j1sMCGf/1335817
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Channels",[COLOR=white][B]DISCOVERY TURBO HD[/B][/COLOR][COLOR=white][/COLOR]
+http://moontools.me:8080/jorgearayaRRrSt/xK8j1sMCGf/1117097
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Channels",[COLOR=white][B]DISCOVERY TURBO HD[/B][/COLOR][COLOR=white][/COLOR]
+http://moontools.me:8080/jorgearayaRRrSt/xK8j1sMCGf/1336130
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Channels",[COLOR=white][B]DISCOVERY WORLD HD[/B][/COLOR][COLOR=white][/COLOR]
+http://moontools.me:8080/jorgearayaRRrSt/xK8j1sMCGf/1335885
+#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Channels",[COLOR=white][B]DISCOVERY ID INVESTIGAÇÃO HD[/B][/COLOR][COLOR=white][/COLOR]
+http://moontools.me:8080/jorgearayaRRrSt/xK8j1sMCGf/1335824
 
 ##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS MÚSICA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -140,6 +188,8 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1609920726.m3u8
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,[COLOR=white][B]MULTISHOW HD[/B][/COLOR][COLOR=white][/COLOR]
 http://200.4.96.59:8041/play/a021/index.m3u8
+#EXTINF:-1,[COLOR=white][B]MULTISHOW HD[/B][/COLOR][COLOR=white][/COLOR]
+http://moontools.me:8080/jorgearayaRRrSt/xK8j1sMCGf/1335864
 #EXTINF:-1,[COLOR=white][B]KPOP TV PLAY BR SD[/B][/COLOR][COLOR=white][/COLOR]
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1177155354.m3u8
 #EXTINF:-1,[COLOR=white][B]FUNDO DO BAÚ HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -148,9 +198,10 @@ https://tv02.zas.media:1936/centraltv/centraltv/chunklist_w1697235279.m3u8
 http://200.194.238.229:8000/udp/224.3.3.5:1234
 #EXTINF:-1,[COLOR=white][B]MTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://200.4.96.59:8041/play/a01w/index.m3u8
-
-
-
+#EXTINF:-1,[COLOR=white][B]MUSIC BOX BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://moontools.me:8080/jorgearayaRRrSt/xK8j1sMCGf/1335608
+#EXTINF:-1,[COLOR=white][B]BIS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://moontools.me:8080/jorgearayaRRrSt/xK8j1sMCGf/1117115
 
 ##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS URBAN TV  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -158,12 +209,10 @@ https://000000
 
 #EXTM3U
 
-
 #EXTINF:-1,[COLOR=white][B]URBAN TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.urbantv.com.br/urbantv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,[COLOR=white][B]URBAN TV SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.urbantv.com.br/urbantvsports/tracks-v1a1/mono.m3u8
-
 
 ##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS NOTÍCIAS TV  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -171,24 +220,25 @@ https://000000
 
 #EXTM3U
 
-
+#EXTINF:0 tvg-id="Globonews.br" group-title="Channels",[COLOR=white][B]CNN BRASIL HD[/B][/COLOR][COLOR=white][/COLOR]
+http://moontools.me:8080/jorgearayaRRrSt/xK8j1sMCGf/1335855
 #EXTINF:0 tvg-id="Globonews.br" group-title="Channels",[COLOR=white][B]GLOBO NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://51.83.238.223:16825
+#EXTINF:0 tvg-id="Globonews.br" group-title="Channels",[COLOR=white][B]GLOBO NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://moontools.me:8080/jorgearayaRRrSt/xK8j1sMCGf/1335856
+#EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]RECORD NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://200.194.238.229:8000/udp/227.0.0.2:1234
+#EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]RECORD NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://moontools.me:8080/jorgearayaRRrSt/xK8j1sMCGf/1335857
+
 #EXTINF:0 tvg-id="ext" group-title="GEEK",[COLOR=white][B]REUTERS HD (ENG.)[/B][/COLOR][COLOR=white][/COLOR]
 https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 #EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]JOVEM PAN NEWS FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]RECORD NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://200.194.238.229:8000/udp/227.0.0.2:1234
-
-##########################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS SÉRIES DE TV E CINEMA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://000000
-
-#EXTM3U
-
-#EXTINF:-1,[COLOR=white][B]HITS TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://stmv1.srvstm.com/gilberto6794/gilberto6794/chunklist_w1420992417.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]BAND NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://moontools.me:8080/jorgearayaRRrSt/xK8j1sMCGf/1335854
+#EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]JP NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://moontools.me:8080/jorgearayaRRrSt/xK8j1sMCGf/1336126
 
 
 ##########################################################################################################################################
@@ -204,7 +254,7 @@ http://51.83.238.223:16703
 http://51.83.238.223:16763
 #EXTINF:0 tvg-id="Megapix.br" group-title="Channels",MEGAPIX HD
 http://51.83.238.223:16823
-#EXTINF:0 tvg-id="ext" group-title="Channels",AXN HD (yra EN)
+#EXTINF:0 tvg-id="ext" group-title="Channels",AXN HD 
 http://51.83.238.223:16941
 #EXTINF:0 tvg-id="Universal.uk" group-title="Channels",UNIVERSAL HD
 http://51.83.238.223:16883
@@ -288,8 +338,6 @@ http://200.194.238.229:8000/udp/225.1.1.15:1234
 http://200.194.238.229:8000/udp/225.1.1.19:1234
 #EXTINF:0 tvg-id="ext" group-title="Channels",Film Arts BRASIL HD
 http://200.194.238.229:8000/udp/225.1.1.20:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",N/A
-http://200.194.238.229:8000/udp/225.1.1.21:1234
 #EXTINF:0 tvg-id="ext" group-title="Channels",BOOM BRASIL HD
 http://200.194.238.229:8000/udp/225.1.1.22:1234
 #EXTINF:0 tvg-id="ext" group-title="Channels",TNT SERIES BRASIL HD
@@ -308,32 +356,16 @@ http://200.194.238.229:8000/udp/225.1.1.30:1234
 http://200.194.238.229:8000/udp/225.1.1.31:1234
 #EXTINF:0 tvg-id="ext" group-title="Channels",HGTV BRASIL HD
 http://200.194.238.229:8000/udp/225.1.1.32:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",Theater POR HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY THEATER HD
 http://200.194.238.229:8000/udp/225.1.1.33:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",Science POR HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY SCIENCE HD
 http://200.194.238.229:8000/udp/225.1.1.35:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",Baby TV (BB150)
+#EXTINF:0 tvg-id="ext" group-title="Channels",BABY TV
 http://200.194.238.229:8000/udp/225.1.1.101:1234
 #EXTINF:0 tvg-id="ESPN4.br" group-title="Channels",ESPN 4 HD
 http://200.194.238.229:8000/udp/225.1.1.116:1234
-#EXTINF:0 tvg-id="FoxSports2HD.mx" group-title="Channels",FOX Sports 2 HD
+#EXTINF:0 tvg-id="FoxSports2HD.mx" group-title="Channels",FOX SPORTS 2 HD
 http://200.194.238.229:8000/udp/225.1.1.115:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",N/A HD
-http://200.194.238.229:8000/udp/227.0.0.1:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",N/A HD
-http://200.194.238.229:8000/udp/227.0.0.2:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",N/A
-http://200.194.238.229:8000/udp/227.0.0.4:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",N/A
-http://200.194.238.229:8000/udp/227.0.0.5:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",N/A HD
-http://200.194.238.229:8000/udp/227.0.0.6:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",N/A HD
-http://200.194.238.229:8000/udp/227.0.0.7:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",N/A HD
-http://200.194.238.229:8000/udp/227.0.0.8:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",N/A HD
-http://200.194.238.229:8000/udp/227.0.0.11:1234
 #EXTINF:0 tvg-id="SESCTV.br" group-title="Channels",SESC TV
 http://200.194.238.229:8000/udp/227.0.0.35:1234
 #EXTINF:0 tvg-id="ext" group-title="Channels",ARTES HD
@@ -342,7 +374,7 @@ http://200.194.238.229:8000/udp/227.0.0.50:1234
 http://200.194.238.229:8000/udp/227.0.0.51:1234
 #EXTINF:0 tvg-id="Bandsports.br" group-title="Channels",BAND SPORTS HD
 http://200.194.238.229:8000/udp/227.0.0.52:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",Empreender HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",EMPREENDER HD
 http://200.194.238.229:8000/udp/227.0.0.53:1234
 #EXTINF:0 tvg-id="Terraviva.br" group-title="Channels",TERRA VIVA 
 http://200.194.238.229:8000/udp/227.0.0.65:1234
@@ -356,22 +388,7 @@ http://200.194.238.229:8000/udp/227.0.0.68:1234
 http://200.194.238.229:8000/udp/227.0.0.199:1234
 #EXTINF:0 tvg-id="ext" group-title="Channels",ZOOWOO HD
 http://200.194.238.229:8000/udp/227.0.0.200:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",N/A HD
-http://200.194.238.229:8000/udp/227.0.0.201:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",N/A HD
-http://200.194.238.229:8000/udp/227.0.0.202:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",N/A HD
-http://200.194.238.229:8000/udp/227.0.0.203:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",N/A HD
-http://200.194.238.229:8000/udp/227.0.0.204:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",N/A HD
-http://200.194.238.229:8000/udp/227.0.0.205:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",N/A HD
-http://200.194.238.229:8000/udp/227.0.0.206:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",N/A HD
-http://200.194.238.229:8000/udp/227.0.0.207:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",N/A HD
-http://200.194.238.229:8000/udp/227.0.0.208:1234
+
 #EXTINF:0 tvg-id="AXN.it" group-title="Channels",AXN HD
 http://200.4.96.59:8041/play/a02t/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",ARTE 1 HD
@@ -386,17 +403,17 @@ http://200.4.96.59:8041/play/a04d/index.m3u8
 http://200.4.96.59:8041/play/a02s/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",CANAL DO BOI HD
 http://200.4.96.59:8041/play/a0098/index.m3u8
-#EXTINF:0 tvg-id="cartoon" group-title="Channels",Cartoon Network HD
+#EXTINF:0 tvg-id="cartoon" group-title="Channels",CARTOON NETWORK HD
 http://200.4.96.59:8041/play/a02g/index.m3u8
-#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Channels",Comedy Central HD
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Channels",COMEDY CENTRAL HD
 http://200.4.96.59:8041/play/a01y/index.m3u8
-#EXTINF:0 tvg-id="discov_rus-hd" group-title="Channels",DISCOVERY Channel HD
+#EXTINF:0 tvg-id="discov_rus-hd" group-title="Channels",DISCOVERY CHANNEL HD
 http://200.4.96.59:8041/play/a02v/index.m3u8
-#EXTINF:0 tvg-id="DiscoveryKidsHD.pe" group-title="Channels",DISCOVERY Kids HD
+#EXTINF:0 tvg-id="DiscoveryKidsHD.pe" group-title="Channels",DISCOVERY KIDS HD
 http://200.4.96.59:8041/play/a02w/index.m3u8
-#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="Channels",DISCOVERY Theater HD
+#EXTINF:0 tvg-id="DiscoveryTheatreHD.ar" group-title="Channels",DISCOVERY THEATER HD
 http://200.4.96.59:8041/play/a03e/index.m3u8
-#EXTINF:0 tvg-id="DiscoveryWorldHD.pe" group-title="Channels",DISCOVERY World HD
+#EXTINF:0 tvg-id="DiscoveryWorldHD.pe" group-title="Channels",DISCOVERY WORLD HD
 http://200.4.96.59:8041/play/a03f/index.m3u8
 #EXTINF:0 tvg-id="E.uk" group-title="Channels",E! HD
 http://200.4.96.59:8041/play/a029/index.m3u8
@@ -406,67 +423,67 @@ http://200.4.96.59:8041/play/a02a/index.m3u8
 http://200.4.96.59:8041/play/a02b/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Empreender HD
 http://200.4.96.59:8041/play/a04i/index.m3u8
-#EXTINF:0 tvg-id="FoxSports2HD.mx" group-title="Channels",FOX Sports 2 HD
+#EXTINF:0 tvg-id="FoxSports2HD.mx" group-title="Channels",FOX SPORTS 2 HD
 http://200.4.96.59:8041/play/a032/index.m3u8
-#EXTINF:0 tvg-id="FoxSports.it" group-title="Channels",FOX Sports HD
+#EXTINF:0 tvg-id="FoxSports.it" group-title="Channels",FOX SPORTS HD
 http://200.4.96.59:8041/play/a031/index.m3u8
-#EXTINF:0 tvg-id="food-network-rus" group-title="Channels",Food Network HD
+#EXTINF:0 tvg-id="food-network-rus" group-title="Channels",FOOD NETWORK HD
 http://200.4.96.59:8041/play/a034/index.m3u8
 #EXTINF:0 tvg-id="Gnthd.br" group-title="Channels",GNT HD
 http://200.4.96.59:8041/play/a020/index.m3u8
-#EXTINF:0 tvg-id="Globonewshd.br" group-title="Channels",GloboNews HD
+#EXTINF:0 tvg-id="Globonewshd.br" group-title="Channels",GLOBO NEWS HD
 http://200.4.96.59:8041/play/a03h/index.m3u8
-#EXTINF:0 tvg-id="HBOFamilyHD.cl" group-title="Channels",HBO Family HD
+#EXTINF:0 tvg-id="HBOFamilyHD.cl" group-title="Channels",HBO FAMILY HD
 http://200.4.96.59:8041/play/a026/index.m3u8
 #EXTINF:0 tvg-id="HBO.hu" group-title="Channels",HBO HD
 http://200.4.96.59:8041/play/a023/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",HBO POP HD
 http://200.4.96.59:8041/play/a028/index.m3u8
-#EXTINF:0 tvg-id="HBOSignature.us" group-title="Channels",HBO Signature HD
+#EXTINF:0 tvg-id="HBOSignature.us" group-title="Channels",HBO SIGNATURE HD
 http://200.4.96.59:8041/play/a027/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",HBO+ HD
 http://200.4.96.59:8041/play/a025/index.m3u8
 #EXTINF:0 tvg-id="HBO2.pl" group-title="Channels",HBO2 HD
 http://200.4.96.59:8041/play/a024/index.m3u8
-#EXTINF:0 tvg-id="HistoryHD.ru" group-title="Channels",History HD
+#EXTINF:0 tvg-id="HistoryHD.ru" group-title="Channels",HISTORY HD
 http://200.4.96.59:8041/play/a02q/index.m3u8
 #EXTINF:0 tvg-id="InvestigationDiscovery.pl" group-title="Channels",ID HD
 http://200.4.96.59:8041/play/a03g/index.m3u8
-#EXTINF:0 tvg-id="Lifetime.uk" group-title="Channels",Lifetime HD
+#EXTINF:0 tvg-id="Lifetime.uk" group-title="Channels",LIFETIME HD
 http://200.4.96.59:8041/play/a036/index.m3u8
 #EXTINF:0 tvg-id="mtvlive-hd" group-title="Channels",MTV HD
 http://200.4.96.59:8041/play/a01w/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",MTV\'s 00
+#EXTINF:0 tvg-id="ext" group-title="Channels",MTV 00´S
 http://200.4.96.59:8041/play/a03z/index.m3u8
-#EXTINF:0 tvg-id="Multishow.br" group-title="Channels",Multishow HD
+#EXTINF:0 tvg-id="Multishow.br" group-title="Channels",MULTISHOW HD
 http://200.4.96.59:8041/play/a021/index.m3u8
-#EXTINF:0 tvg-id="NickJr.de" group-title="Channels",Nick Jr. HD
+#EXTINF:0 tvg-id="NickJr.de" group-title="Channels",NICK JUNIOR HD
 http://200.4.96.59:8041/play/a03s/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Pai Eterno HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",PAI ETERNO HD
 http://200.4.96.59:8041/play/a048/index.m3u8
-#EXTINF:0 tvg-id="Paramounthd.br" group-title="Channels",Paramount Network HD
+#EXTINF:0 tvg-id="Paramounthd.br" group-title="Channels",PARAMOUNT NETWORK HD
 http://200.4.96.59:8041/play/a01z/index.m3u8
-#EXTINF:0 tvg-id="Premiere3.br" group-title="Channels",Premiere 3 HD
+#EXTINF:0 tvg-id="Premiere3.br" group-title="Channels",PREMIERE 3 HD
 http://200.4.96.59:8041/play/a03r/index.m3u8
-#EXTINF:0 tvg-id="Premiere4.br" group-title="Channels",Premiere 4 HD
+#EXTINF:0 tvg-id="Premiere4.br" group-title="Channels",PREMIERE 4 HD
 http://200.4.96.59:8041/play/a022/index.m3u8
-#EXTINF:0 tvg-id="Rederecord.br" group-title="Channels",Record HD
+#EXTINF:0 tvg-id="Rederecord.br" group-title="Channels",RECORD HD
 http://200.4.96.59:8041/play/a03d/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Record News HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",RECORD NEWS HD
 http://200.4.96.59:8041/play/a04a/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",RedeTV! HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",REDETV HD
 http://200.4.96.59:8041/play/a03c/index.m3u8
 #EXTINF:0 tvg-id="Sbt.br" group-title="Channels",SBT HD
 http://200.4.96.59:8041/play/a03a/index.m3u8
 #EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",SYFY HD
 http://200.4.96.59:8041/play/a035/index.m3u8
-#EXTINF:0 tvg-id="SpaceHD.mx" group-title="Channels",Space HD
+#EXTINF:0 tvg-id="SpaceHD.mx" group-title="Channels",SPACE HD
 http://200.4.96.59:8041/play/a02k/index.m3u8
-#EXTINF:0 tvg-id="Sportv.br" group-title="Channels",SporTV HD
+#EXTINF:0 tvg-id="Sportv.br" group-title="Channels",SPORTTV HD
 http://200.4.96.59:8041/play/a045/index.m3u8
-#EXTINF:0 tvg-id="Sportv2.br" group-title="Channels",SporTV2 HD
+#EXTINF:0 tvg-id="Sportv2.br" group-title="Channels",SPORTTV HD
 http://200.4.96.59:8041/play/a044/index.m3u8
-#EXTINF:0 tvg-id="StudioUniversalHD.cl" group-title="Channels",Studio Universal HD
+#EXTINF:0 tvg-id="StudioUniversalHD.cl" group-title="Channels",STUDIO UNIVERSAL HD
 http://200.4.96.59:8041/play/a037/index.m3u8
 #EXTINF:0 tvg-id="TBSHD.us" group-title="Channels",TBS HD
 http://200.4.96.59:8041/play/a02h/index.m3u8
@@ -474,19 +491,19 @@ http://200.4.96.59:8041/play/a02h/index.m3u8
 http://200.4.96.59:8041/play/a02u/index.m3u8
 #EXTINF:0 tvg-id="tnt" group-title="Channels",TNT HD
 http://200.4.96.59:8041/play/a041/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TNT SAries HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",TNT SÉRIES HD
 http://200.4.96.59:8041/play/a02i/index.m3u8
-#EXTINF:0 tvg-id="Tvaparecida.br" group-title="Channels",TV Aparecida
+#EXTINF:0 tvg-id="Tvaparecida.br" group-title="Channels",TV APARECIDA
 http://200.4.96.59:8041/play/a02f/index.m3u8
-#EXTINF:0 tvg-id="Tcpipoca.br" group-title="Channels",Telecine Pipoca HD
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="Channels",TELECINE PIPOCA HD
 http://200.4.96.59:8041/play/a03k/index.m3u8
-#EXTINF:0 tvg-id="Tcpremium.br" group-title="Channels",Telecine Premium HD
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="Channels",TELECINE PREMIUM HD
 http://200.4.96.59:8041/play/a03i/index.m3u8
-#EXTINF:0 tvg-id="Tctouch.br" group-title="Channels",Telecine Touch HD
+#EXTINF:0 tvg-id="Tctouch.br" group-title="Channels",TELECINE TOUCH HD
 http://200.4.96.59:8041/play/a03j/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Trade Channel HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",TRADE CHANNEL Channel HD
 http://200.4.96.59:8041/play/a04e/index.m3u8
 #EXTINF:0 tvg-id="VH1UK.uk" group-title="Channels",VH1 HD
 http://200.4.96.59:8041/play/a01x/index.m3u8
-#EXTINF:0 tvg-id="WarnerChannelHD.ar" group-title="Channels",Warner Channel HD
+#EXTINF:0 tvg-id="WarnerChannelHD.ar" group-title="Channels",WARNER CHANNEL HD
 http://200.4.96.59:8041/play/a02r/index.m3u8
