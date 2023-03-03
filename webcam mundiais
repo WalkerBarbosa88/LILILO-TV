@@ -6,7 +6,7 @@ http://0.0.0.0:0000
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 01/02/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 03/03/2023[/B][/COLOR][COLOR=orange][/COLOR]
 ############################################################################################################################################################
 
 Fonte: https://fluxustvespanol.blogspot.com/p/fluxus-cctv.html#gsc.tab=0
@@ -158,16 +158,8 @@ plugin://plugin.video.youtube/play/?video_id=ADsY4BQWZOU
 https://000000
 
 
-#EXTINF:-1,[COLOR=white][B]ITÁLIA - SARDINIA 1[/B][/COLOR][COLOR=white][/COLOR]
-https://cdn-005.whatsupcams.com/hls/it_agultu01.m3u8
-#EXTINF:-1,[COLOR=white][B]ITÁLIA - SARDINIA 2[/B][/COLOR][COLOR=white][/COLOR]
-https://cdn-005.whatsupcams.com/hls/it_lamaddalena01.m3u8
-#EXTINF:-1,[COLOR=white][B]ITÁLIA - SARDINIA 3[/B][/COLOR][COLOR=white][/COLOR]
-https://cdn-002.whatsupcams.com/hls/it_cagliari01.m3u8
 #EXTINF:-1,[COLOR=white][B]CROÁCIA[/B][/COLOR][COLOR=white][/COLOR]
 https://wowza.3tcable.hr/Madona/Madona.stream/chunklist.m3u8
-#EXTINF:-1,[COLOR=white][B]ITÁLIA - PRAIA TALAMONE[/B][/COLOR][COLOR=white][/COLOR]
-https://cdn-005.whatsupcams.com/hls/it_talamone05.m3u8
 #EXTINF:-1,[COLOR=white][B]UK - PANDA[/B][/COLOR][COLOR=white][/COLOR]
 https://5cee0d703d908.streamlock.net/rtplive/EDZ-PH2-ShowDen2.stream/chunklist_w882829216.m3u8
 #EXTINF:-1,[COLOR=white][B]CANÁRIAS - PORTO LAS NIEVES AGAETE[/B][/COLOR][COLOR=white][/COLOR]
@@ -194,8 +186,6 @@ http://iptv.saima.kg/hls-cam/berengold.m3u8
 http://169.47.9.197:1935/live/dw.stream/playlist.m3u8
 #EXTINF:-1 group-title="WEBCAMS",[COLOR=white][B]ROMÉNIA - IGREJA[/B][/COLOR][COLOR=white][/COLOR]
 http://media.ercis.ro:9999/cmareis/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS",[COLOR=white][B]ILHAS CAIMÃO - MACABUCA OCEANSIDE[/B][/COLOR][COLOR=white][/COLOR]
-https://www.microseven.com/common/hlsplaylist.html?stream=5oxNNU01ho4&k=0.4576595868926294
 #EXTINF:-1 group-title="WEBCAMS",[COLOR=white][B]FRANÇA - TORRE EIFFEL[/B][/COLOR][COLOR=white][/COLOR]
 https://deliverys5.quanteec.com/contents/encodings/live/47fcda1a-38f6-4fb2-3938-3330-6d61-63-bb4b-5df88851d8b7d/media_0.m3u8
 #EXTINF:-1 group-title="WEBCAMS",[COLOR=white][B]FRANÇA - RIO SENA[/B][/COLOR][COLOR=white][/COLOR]
@@ -227,8 +217,6 @@ plugin://plugin.video.youtube/play/?video_id=OMebkpnYJJo
 
 #EXTINF:-1,[COLOR=white][B]MADEIRA, PORTUGAL - ROLLING MULTI-CAMS[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=_AwBL-uRZd0&ab_channel=Webcamtaxi
-#EXTINF:-1,[COLOR=white][B]FERATEL - GERMANY ROLLING MULTI-CAM[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=Li3Dvqlo5uE&ab_channel=feratel%E2%80%93yourwindowtotheworld
 
 #EXTINF:-1,[COLOR=white][B]NORUEGA AO VIVO[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=A86RXuRNjk4
@@ -433,21 +421,14 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]LONDON BUS RIDE LIVE[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=V00D4K9OshI
-
 #EXTINF:-1,[COLOR=white][B]UK - TRÂNSITO[/B][/COLOR][COLOR=white][/COLOR]
 https://s3-eu-west-1.amazonaws.com/jamcams.tfl.gov.uk/00001.02002.mp4
 #EXTINF:-1 group-title="WEBCAMS",[COLOR=white][B]UK - ILFRACOMBE - CAM 1[/B][/COLOR][COLOR=white][/COLOR]
 http://camsecure.co/HLS/ilfracombe2.m3u8
 #EXTINF:-1,[COLOR=white][B]UK - ILFRACOMBE - CAM 2[/B][/COLOR][COLOR=white][/COLOR]
 http://camsecure.co/HLS/ilfracombe1.m3u8
-#EXTINF:-1,[COLOR=white][B]UK - BISHOPS LYDEARD STATION[/B][/COLOR][COLOR=white][/COLOR]
-http://maybach.railcam.co.uk:80/BishopsLydeard_59234/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[COLOR=white][B]UK - BLUE ANCHOR STATION[/B][/COLOR][COLOR=white][/COLOR]
-http://maybach.railcam.co.uk:80/BlueAnchor_68938/tracks-v1a1/mono.m3u8
 #EXTINF:-1,[COLOR=white][B]UK - MINEHEAD STATION[/B][/COLOR][COLOR=white][/COLOR]
 http://maybach.railcam.co.uk:80/Minehead_05286/tracks-v1a1/mono.m3u8
-#EXTINF:-1,[COLOR=white][B]UK - WILLITON STATION[/B][/COLOR][COLOR=white][/COLOR]
-http://maybach.railcam.co.uk:80/Williton1_17337/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]UK - ABERGYNOLWYN[/B][/COLOR][COLOR=white][/COLOR]
 http://maybach.railcam.co.uk/Abergynolwyn_68473/tracks-v1/mono.m3u8
 
@@ -495,8 +476,7 @@ http://89.16.164.69/weather/tracks-v1a1/mono.m3u8
 http://camsecure.co/HLS/westho.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]UK - WILLITON STATION - CAM 1[/B][/COLOR][COLOR=white][/COLOR]
 http://maybach.railcam.co.uk:80/Williton1_17337/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]UK - WILLITON STATION - CAM 2[/B][/COLOR][COLOR=white][/COLOR]
-http://maybach.railcam.co.uk/Williton2_84721/tracks-v1a1/mono.m3u8
+
 
 
 ####################################################################################################################################
@@ -548,8 +528,6 @@ https://d3nzocdfkx2ybv.cloudfront.net/out/cmg-wsbtvt2-rtmp-v3/live_720p30.m3u8
 https://d3nzocdfkx2ybv.cloudfront.net/out/cmg-wsbtvt1-rtmp-v3/live_720p30.m3u8 
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]USA - PRAIA[/B][/COLOR][COLOR=white][/COLOR]
 https://59b69eab8875b.streamlock.net/live/Beach_Cam_01.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]USA - CARDIFF[/B][/COLOR][COLOR=white][/COLOR]
-https://edge01.london.nginx.hdontap.com/hosb5/cardiffreef-ptz_hdontap.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]USA - CEDAR POINT PARK - CAM 1[/B][/COLOR][COLOR=white][/COLOR]
 https://56cdb389b57ec.streamlock.net:1935/live/cedar1.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]USA - CEDAR POINT PARK - CAM 2[/B][/COLOR][COLOR=white][/COLOR]
@@ -572,6 +550,5 @@ http://d2a6g6zgxepbwi.cloudfront.net/wbrztraffic/mp4:trafficstream.sdp/chunklist
 http://5c864aa99ee04.streamlock.net:1935/surfcam/live.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]USA - WRIGHTSVILLE BEACH[/B][/COLOR][COLOR=white][/COLOR]
 http://169.47.9.197:1935/live/wb.stream/playlist.m3u8
-
 
 
