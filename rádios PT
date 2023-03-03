@@ -8,7 +8,7 @@ FONTE DE INFORMAÇÃO: http://fmstream.org/index.php?c=G&o=top  -  https://www.r
 
 Rádios de Portugal por distrito - https://pt.wikipedia.org/wiki/Lista_de_r%C3%A1dios_de_Portugal
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 01/02/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 03/03/2023[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
@@ -345,8 +345,6 @@ http://lunaportugal.lunabroadcasting.net/stream
 https://nl.digitalrm.pt:8068/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO REGIONAL DO CENTRO[/B][/COLOR][COLOR=white][/COLOR]
 https://nl.digitalrm.pt:8030/stream
-#EXTINF:-1,[COLOR=white][B]RÁDIO POPULAR DE SOURE[/B][/COLOR][COLOR=white][/COLOR]
-https://nl.digitalrm.pt:8072/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO DUEÇA[/B][/COLOR][COLOR=white][/COLOR]
 http://109.71.41.6:8008/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO BEIRA LITORAL[/B][/COLOR][COLOR=white][/COLOR]
@@ -407,8 +405,6 @@ https://000000000000000000000
 
 #EXTINF:-1,[COLOR=white][B]ANTENA LIVRE[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radio.com.pt:9456/;
-#EXTINF:-1,[COLOR=white][B]RÁDIO F[/B][/COLOR][COLOR=white][/COLOR]
-https://centova.radio.com.pt/proxy/579?mp=%2Fstream
 #EXTINF:-1,[COLOR=white][B]RÁDIO CLUBE DE MEDA[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radios.pt:8493/stream
 #EXTINF:-1,[COLOR=white][B]ALTITUDE FM[/B][/COLOR][COLOR=white][/COLOR]
@@ -444,8 +440,6 @@ http://centova.radio.com.pt:8515/;
 http://185.164.137.42:8000/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO VIDA NOVA[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radio.com.pt:8061/;
-#EXTINF:-1,[COLOR=white][B]RÁDIO CLUBE POMBAL[/B][/COLOR][COLOR=white][/COLOR]
-http://stream.zeno.fm/chgcg161vhhvv
 #EXTINF:-1,[COLOR=white][B]RÁDIO TROPICAL[/B][/COLOR][COLOR=white][/COLOR]
 https://solid24.streamupsolutions.com/proxy/dcofieen?mp=/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO HIT FM[/B][/COLOR][COLOR=white][/COLOR]
@@ -659,8 +653,6 @@ http://213.136.92.8:8004/;
 http://centova.radio.com.pt:8405/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO MONTALEGRE[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radio.com.pt:9566/;
-#EXTINF:-1,[COLOR=white][B]RÁDIO CLUBE SANTA MARTA[/B][/COLOR][COLOR=white][/COLOR]
-http://185.32.188.17:8005/live
 #EXTINF:-1,[COLOR=white][B]RÁDIO VOZ DO MARÃO[/B][/COLOR][COLOR=white][/COLOR]
 https://radios.justweb.pt/8016/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO CLUBE SANTA MARTA[/B][/COLOR][COLOR=white][/COLOR]
@@ -693,8 +685,6 @@ http://centova.radios.pt:8465/;
 http://95.217.75.38:9796/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO LAFÕES[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radio.com.pt:9564/;
-#EXTINF:-1,[COLOR=white][B]RÁDIO MONTEMURO[/B][/COLOR][COLOR=white][/COLOR]
-http://46.105.172.166:9304/;audio.mp3
 #EXTINF:-1,[COLOR=white][B]RÁDIO LIMITE[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radio.com.pt:9408/;
 #EXTINF:-1,[COLOR=white][B]JORNAL DO CENTRO[/B][/COLOR][COLOR=white][/COLOR]
