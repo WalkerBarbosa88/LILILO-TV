@@ -7,7 +7,7 @@ http://0.0.0.0:0000
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 24/02/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 03/03/2023[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -69,8 +69,6 @@ http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/41945.ts
 http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/41944.ts
 #EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 1 FHD hevc" tvg-logo="" group-title="PORTUGAL",|PT| ELEVEN SPORTS 1 FHD 
 http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42050.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 1 HD hevc" tvg-logo="" group-title="PORTUGAL",|PT| ELEVEN SPORTS 1 HD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42049.ts
 #EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 2 FHD hevc" tvg-logo="" group-title="PORTUGAL",|PT| ELEVEN SPORTS 2 FHD 
 http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42052.ts
 #EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 2 HD hevc" tvg-logo="" group-title="PORTUGAL",|PT| ELEVEN SPORTS 2 HD 
