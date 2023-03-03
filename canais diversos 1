@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 #####################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 17/02/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 03/03/2023[/B][/COLOR][COLOR=orange][/COLOR]
  
 ###########################################################################################################################################
  
@@ -151,11 +151,6 @@ https://d13c935311364708bf51b0eb4bbdb04f.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1,[COLOR=white][B]HGTV USA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://87.212.248.44:60130/play/a04s
-#EXTINF:-1,[COLOR=white][B]HGTV UK HD[/B][/COLOR][COLOR=white][/COLOR]
-http://146.19.16.205:8014/play/a06s/index.m3u8
-#EXTINF:-1,[COLOR=white][B]HGTV UK HD[/B][/COLOR][COLOR=white][/COLOR]
-http://146.19.16.205:8014/play/a06u/index.m3u8
-
 #EXTINF:-1,[COLOR=white][B]HOMES UNDER HAMMER PLUTO TV[/B][/COLOR][COLOR=white][/COLOR]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c2e9d8002db3c3e0b1c72/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1,[COLOR=white][B]HOME PLUTO TV[/B][/COLOR][COLOR=white][/COLOR]
@@ -479,8 +474,7 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 http://45.142.213.81:8001/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]TURISMO TRAVEL HD[/B][/COLOR][COLOR=white][/COLOR]
 https://vdo.panelstreaming.live:3936/stream/play.m3u8
-#EXTINF:-1,[COLOR=white][B]TELETUR HD[/B][/COLOR][COLOR=white][/COLOR]
-https://cdn4.hostlagarto.com:8081/static/teletur/playlist.m3u8
+
 
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CINEMA & SÉRIES DE TV  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -511,8 +505,6 @@ http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 #EXTINF:-1,[COLOR=white][B]TOPCINE TV[/B][/COLOR][COLOR=white][/COLOR]
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-#EXTINF:-1,[COLOR=white][B]AVA SERIES HD[/B][/COLOR][COLOR=white][/COLOR]
-http://51.210.199.4/hls/stream.m3u8
 #EXTINF:-1,[COLOR=white][B]BBC DRAMA HD[/B][/COLOR][COLOR=white][/COLOR]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
@@ -622,8 +614,6 @@ https://d3cajslujfq92p.cloudfront.net/playlist.m3u8
 https://ft-ifood-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]SO YUMMI HD[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/master.m3u8
-#EXTINF:-1,[COLOR=white][B]TASTE IT TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5af61f59d5eeee7af3d1db8f/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]CHEF CHAMPION TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://rpn1.bozztv.com/36bay2/gusa-chefchampion/mono.m3u8
 #EXTINF:-1,[COLOR=white][B]FOOD 52 HD[/B][/COLOR][COLOR=white][/COLOR]
