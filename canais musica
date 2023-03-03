@@ -230,9 +230,19 @@ https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8?
 https://59f1cbe63db89.streamlock.net:1443/tvbeltrao3/_definst_/tvbeltrao3/chunklist_w782273434.m3u8
 #EXTINF:-1,[COLOR=white][B]CATEDRAL DO ROCK HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/chunklist_w720649222.m3u8
-
 #EXTINF:-1,[COLOR=white][B]RCK HD[/B][/COLOR][COLOR=white][/COLOR]
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,[COLOR=white][B]ESKA ROCK HD[/B][/COLOR][COLOR=white][/COLOR]
+http://54.39.17.6/eskarocktv/index.m3u8
+#EXTINF:-1,[COLOR=white][B]ROCK TV BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://59f1cbe63db89.streamlock.net:1935/tvbeltrao3/_definst_/tvbeltrao3/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]ROCKLAND RADIO TV[/B][/COLOR][COLOR=white][/COLOR]
+https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]XITE TV ROCK TV[/B][/COLOR][COLOR=white][/COLOR]
+https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]ROCKARYAD TV[/B][/COLOR][COLOR=white][/COLOR]
+http://rocknaryad.streaming-elbrus.su:56373/rock_naryad/video.m3u8?token=rocknaryad
 
 ######################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  MÚSICAS ALTERNATIVAS & AO VIVO /////////[/B][/COLOR][COLOR=yellow][/COLOR]
