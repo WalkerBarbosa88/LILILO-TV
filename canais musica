@@ -151,6 +151,9 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]MOOZ DANCE HD[/B][/COLOR][COLOR=white][/COLOR]
 https://canale.live/mtv.m3u8/?id=moozdance
+#EXTINF:-1,[COLOR=white][B]TOTAL DANCE TV[/B][/COLOR][COLOR=white][/COLOR]
+http://iptv01.eurocable.co.hu/EC-TOTALDANCEHD/index.m3u8
+
 #EXTINF:-1,[COLOR=white][B]DANCE TV - BEST OF DANCE[/B][/COLOR][COLOR=white][/COLOR]
 https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1,[COLOR=white][B]DANCE TV - DEEP HOUSE[/B][/COLOR][COLOR=white][/COLOR]
@@ -198,6 +201,8 @@ https://60015180a7f57.streamlock.net:444/public/stream_source/chunklist_w1910337
 http://tis.catcast.tv/content/391/index.m3u8
 #EXTINF:-1,[COLOR=white][B]NR1 DANCE HD[/B][/COLOR][COLOR=white][/COLOR]
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]MAFI2A MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
+https://stream.funcontent.ru/hls/tv12/index.m3u8
 
 
 ######################################################################################################
@@ -360,6 +365,12 @@ http://myott.top/stream/DEKA6YA5JRN/87.m3u8
 
 #EXTINF:-1,[COLOR=white][B]MTV 90´S TV[/B][/COLOR][COLOR=white][/COLOR]
 http://myott.top/stream/DEKA6YA5JRN/88.m3u8
+
+#EXTINF:-1,[COLOR=white][B]XITE TV 80´S FLASHBACK[/B][/COLOR][COLOR=white][/COLOR]
+https://dw0oa71jud5ry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb320000647-prod/amg80rewind/playlist.m3u8
+ 
+ #EXTINF:-1,[COLOR=white][B]XITE TV 90´S THROWBACK[/B][/COLOR][COLOR=white][/COLOR]
+ https://d3fr64zqebnqn3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb3200007ak-prod/amg90rock/playlist.m3u8
  
 ######################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA LATINA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
