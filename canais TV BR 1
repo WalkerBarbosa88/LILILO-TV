@@ -3,7 +3,7 @@
 http://0.0.0.0:0000
 ############################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 17/02/2023[/B][/COLOR][COLOR=orange][/COLOR] 
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 03/03/2023[/B][/COLOR][COLOR=orange][/COLOR] 
 
 Fonte de Informação: 
 
@@ -29,7 +29,7 @@ https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w249885560.m3u8
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1829280153.m3u8
 #EXTINF:-1,[COLOR=white][B]TV LOADING SD[/B][/COLOR][COLOR=white][/COLOR]
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1292312804.m3u8
-#EXTINF:-1,[COLOR=white][B]TV CARIOCA HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]TV CARIOCA HD (OFFLINE)[/B][/COLOR][COLOR=white][/COLOR]
 https://stmv2.duvoxtv.com.br/tvcarioca/tvcarioca/chunklist_w2109833343.m3u8
 #EXTINF:-1,[COLOR=white][B]VINTAGE TV SD[/B][/COLOR][COLOR=white][/COLOR]
 https://stmv1.srvif.com/webvintage/webvintage/chunklist_w1086155908.m3u8
@@ -37,8 +37,6 @@ https://stmv1.srvif.com/webvintage/webvintage/chunklist_w1086155908.m3u8
 https://stmv.video.expressolider.com.br/ghostv/ghostv/chunklist_w1382243850.m3u8
 #EXTINF:-1,[COLOR=white][B]TV MAX HD[/B][/COLOR][COLOR=white][/COLOR]
 https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
-#EXTINF:-1,[COLOR=white][B]JETSONS TV SD[/B][/COLOR][COLOR=white][/COLOR]
-https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w380353535.m3u8
 #EXTINF:-1,[COLOR=white][B]TV TROPICAL HD[/B][/COLOR][COLOR=white][/COLOR]
 https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/chunklist_w143304164.m3u8
 #EXTINF:-1,[COLOR=white][B]CLASSIQUE TV HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -79,14 +77,10 @@ https://000000
 
 
 #EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://206.1.95.2:8004/play/a01o
-#EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://51.83.238.223:16515
 #EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://200.194.238.229:8000/udp/225.1.1.12:1234
 
-#EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://206.1.95.2:8004/play/a027
 #EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://200.194.238.229:8000/udp/225.1.1.13:1234
 
@@ -94,20 +88,10 @@ http://200.194.238.229:8000/udp/225.1.1.13:1234
 http://200.194.238.229:8000/udp/225.1.1.15:1234
 
 #EXTINF:-1,[COLOR=white][B]ESPN 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://206.1.95.2:8004/play/a015
-#EXTINF:-1,[COLOR=white][B]ESPN 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://xcui.vitvabc.xyz:8880/live/287994016405/287994016405/31034.m3u8
 #EXTINF:-1,[COLOR=white][B]ESPN 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://200.194.238.229:8000/udp/225.1.1.116:1234
 
-#EXTINF:0 tvg-id="Sportv.br" group-title="Channels",[COLOR=white][B]SPORTV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://206.1.95.2:8004/play/a00f
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",[COLOR=white][B]SPORTV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://206.1.95.2:8004/play/a00f
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",[COLOR=white][B]SPORTV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://206.1.95.2:8004/play/a025
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",[COLOR=white][B]SPORTV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://206.1.95.2:8004/play/a025
 
 #EXTINF:0 tvg-id="Sportv.br" group-title="Channels",[COLOR=white][B]PREMIERE 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://51.83.238.223:16725
@@ -133,19 +117,11 @@ https://000000
 
 #EXTM3U
 
-
-#EXTINF:0 tvg-id="discov_rus" group-title="Channels",[COLOR=white][B]DISCOVERY CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://206.1.95.2:8004/play/a00r
 #EXTINF:0 tvg-id="discov_rus" group-title="Channels",[COLOR=white][B]HGTV BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://200.194.238.229:8000/udp/225.1.1.32:1234
-
-#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Channels",[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
-http://206.1.95.2:8004/play/a01n
 #EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Channels",[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
 http://200.194.238.229:8000/udp/225.1.1.30:1234
 
-#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Channels",[COLOR=white][B]DISCOVERY TURBO HD[/B][/COLOR][COLOR=white][/COLOR]
-http://206.1.95.2:8004/play/a01w
 
 ##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS MÚSICA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -158,24 +134,16 @@ https://000000
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8 
 #EXTINF:-1,[COLOR=white][B]TRACE URBAN HD[/B][/COLOR][COLOR=white][/COLOR]
 https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
-
 #EXTINF:-1,[COLOR=white][B]K-POP TV PLAY HD[/B][/COLOR][COLOR=white][/COLOR]
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1609920726.m3u8
 #EXTINF:-1,[COLOR=white][B]K-POP TV PLAY HD[/B][/COLOR][COLOR=white][/COLOR]
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:0 tvg-id="Multishow.br" group-title="Channels",[COLOR=white][B]MULTISHOW HD[/B][/COLOR][COLOR=white][/COLOR]
-http://206.1.95.2:8004/play/a02q
 #EXTINF:-1,[COLOR=white][B]MULTISHOW HD[/B][/COLOR][COLOR=white][/COLOR]
 http://200.4.96.59:8041/play/a021/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MUSIC BOX BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://206.1.95.2:8004/play/a01a
-
 #EXTINF:-1,[COLOR=white][B]KPOP TV PLAY BR SD[/B][/COLOR][COLOR=white][/COLOR]
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1177155354.m3u8
 #EXTINF:-1,[COLOR=white][B]FUNDO DO BAÚ HD[/B][/COLOR][COLOR=white][/COLOR]
 https://tv02.zas.media:1936/centraltv/centraltv/chunklist_w1697235279.m3u8
-
 #EXTINF:-1,[COLOR=white][B]MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
 http://200.194.238.229:8000/udp/224.3.3.5:1234
 #EXTINF:-1,[COLOR=white][B]MTV HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -205,12 +173,7 @@ https://000000
 
 
 #EXTINF:0 tvg-id="Globonews.br" group-title="Channels",[COLOR=white][B]GLOBO NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://206.1.95.2:8004/play/a026
-#EXTINF:0 tvg-id="Globonews.br" group-title="Channels",[COLOR=white][B]GLOBO NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://51.83.238.223:16825
-
-#EXTINF:0 tvg-id="CNNBrasil.br" group-title="Channels",[COLOR=white][B]CNN BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://206.1.95.2:8004/play/a01e
 #EXTINF:0 tvg-id="ext" group-title="GEEK",[COLOR=white][B]REUTERS HD (ENG.)[/B][/COLOR][COLOR=white][/COLOR]
 https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 #EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]JOVEM PAN NEWS FHD[/B][/COLOR][COLOR=white][/COLOR]
@@ -234,187 +197,6 @@ https://000000
 
 #EXTM3U
 
-
-#EXTINF:0 tvg-id="AyE.mx" group-title="Channels",A&E
-http://206.1.95.2:8004/play/a03d
-#EXTINF:0 tvg-id="mgm-int" group-title="Channels",AMC
-http://206.1.95.2:8004/play/a00u
-#EXTINF:0 tvg-id="AXN.bg" group-title="Channels",AXN
-http://206.1.95.2:8004/play/a02d
-#EXTINF:0 tvg-id="animal_rus" group-title="Channels",ANIMAL PLANET
-http://206.1.95.2:8004/play/a02y
-#EXTINF:0 tvg-id="Arte1.br" group-title="Channels",ARTE 1
-http://206.1.95.2:8004/play/a02h
-#EXTINF:0 tvg-id="baby-tv" group-title="Channels",BABY TV
-http://206.1.95.2:8004/play/a00n
-#EXTINF:0 tvg-id="Bandnews.br" group-title="Channels",BAND NEWS
-http://206.1.95.2:8004/play/a020
-#EXTINF:0 tvg-id="Bandsports.br" group-title="Channels",BAND SPORTS
-http://206.1.95.2:8004/play/a01p
-#EXTINF:0 tvg-id="Boavontadetv.br" group-title="Channels",BOA VONTADE TV
-http://206.1.95.2:8004/play/a02a
-#EXTINF:0 tvg-id="Boavontadetv.br" group-title="Channels",BOA VONTADE TV
-http://206.1.95.2:8004/play/a02p
-#EXTINF:0 tvg-id="CNNBrasil.br" group-title="Channels",CNN BRASIL
-http://206.1.95.2:8004/play/a01e
-#EXTINF:0 tvg-id="CNNEspanhol.br" group-title="Channels",CNN ESPANHOL
-http://206.1.95.2:8004/play/a02f
-#EXTINF:0 tvg-id="Cnt.br" group-title="Channels",CNT
-http://206.1.95.2:8004/play/a00s
-#EXTINF:0 tvg-id="ext" group-title="Channels",CONMEBOL TV 3
-http://206.1.95.2:8004/play/a035
-#EXTINF:0 tvg-id="Canalbrasil.br" group-title="Channels",CANAL BRASIL
-http://206.1.95.2:8004/play/a00k
-#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL EDUCAÇÃO
-http://206.1.95.2:8004/play/a03q
-#EXTINF:0 tvg-id="Canalrural.br" group-title="Channels",CANAL RURAL
-http://206.1.95.2:8004/play/a03g
-#EXTINF:0 tvg-id="Sony.br" group-title="Channels",CANAL SONY
-http://206.1.95.2:8004/play/a01s
-#EXTINF:0 tvg-id="CanaldoBoi.br" group-title="Channels",CANAL DO BOI
-http://206.1.95.2:8004/play/a01d
-#EXTINF:0 tvg-id="cartoon" group-title="Channels",CARTOON NETWORK
-http://206.1.95.2:8004/play/a018
-#EXTINF:0 tvg-id="Cartoonito.uk" group-title="Channels",CARTOONITO
-http://206.1.95.2:8004/play/a03f
-#EXTINF:0 tvg-id="Combate.br" group-title="Channels",COMBATE
-http://206.1.95.2:8004/play/a037
-#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Channels",COMEDY CENTRAL
-http://206.1.95.2:8004/play/a02x
-#EXTINF:0 tvg-id="ext" group-title="Channels",CURTA!
-http://206.1.95.2:8004/play/a030
-#EXTINF:0 tvg-id="discov_rus" group-title="Channels",DISCOVERY CHANNEL
-http://206.1.95.2:8004/play/a00r
-#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Channels",DISCOVERY H&H
-http://206.1.95.2:8004/play/a01n
-#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Channels",DISCOVERY TURBO
-http://206.1.95.2:8004/play/a01w
-#EXTINF:0 tvg-id="disney" group-title="Channels",DISNEY
-http://206.1.95.2:8004/play/a03h
-#EXTINF:0 tvg-id="E.uk" group-title="Channels",E!
-http://206.1.95.2:8004/play/a02r
-#EXTINF:0 tvg-id="FX.uk" group-title="Channels",FX
-http://206.1.95.2:8004/play/a01r
-#EXTINF:0 tvg-id="Fishtv.br" group-title="Channels",FISH TV
-http://206.1.95.2:8004/play/a03b
-#EXTINF:0 tvg-id="food-network-rus" group-title="Channels",FOOD NETWORK
-http://206.1.95.2:8004/play/a00e
-#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Channels",FOX SPORTS 2
-http://206.1.95.2:8004/play/a024
-#EXTINF:0 tvg-id="Gnt.br" group-title="Channels",GNT
-http://206.1.95.2:8004/play/a03a
-#EXTINF:0 tvg-id="Globonews.br" group-title="Channels",GLOBO NEWS
-http://206.1.95.2:8004/play/a026
-#EXTINF:0 tvg-id="Gloob.br" group-title="Channels",GLOOB
-http://206.1.95.2:8004/play/a00o
-#EXTINF:0 tvg-id="HBOAdria.rs" group-title="Channels",HBO
-http://206.1.95.2:8004/play/a00l
-#EXTINF:0 tvg-id="Hbofamily.br" group-title="Channels",HBO FAMILY
-http://206.1.95.2:8004/play/a03c
-#EXTINF:0 tvg-id="Max.br" group-title="Channels",HBO MUNDI
-http://206.1.95.2:8004/play/a02u
-#EXTINF:0 tvg-id="HBOSignature.mx" group-title="Channels",HBO SIGNATURE
-http://206.1.95.2:8004/play/a02c
-#EXTINF:0 tvg-id="HBO2.cz" group-title="Channels",HBO2
-http://206.1.95.2:8004/play/a01q
-#EXTINF:0 tvg-id="history2-rus" group-title="Channels",HISTORY 2
-http://206.1.95.2:8004/play/a01u
-#EXTINF:0 tvg-id="ISat.ar" group-title="Channels",I-SAT
-http://206.1.95.2:8004/play/a03n
-#EXTINF:0 tvg-id="ext" group-title="Channels",ID - INVESTIGATION DISCOVERY
-http://206.1.95.2:8004/play/a01y
-#EXTINF:0 tvg-id="Idealtv.br" group-title="Channels",IDEAL TV
-http://206.1.95.2:8004/play/a019
-#EXTINF:0 tvg-id="Multishow.br" group-title="Channels",MULTISHOW
-http://206.1.95.2:8004/play/a02q
-#EXTINF:0 tvg-id="ext" group-title="Channels",MUSIC BOX BRASIL
-http://206.1.95.2:8004/play/a01a
-#EXTINF:0 tvg-id="NHK.mx" group-title="Channels",NHK
-http://206.1.95.2:8004/play/a03o
-#EXTINF:0 tvg-id="natgeo" group-title="Channels",NATIONAL GEOGRAPHIC
-http://206.1.95.2:8004/play/a01x
-#EXTINF:0 tvg-id="nick-jr" group-title="Channels",NICK JUNIOR
-http://206.1.95.2:8004/play/a03i
-#EXTINF:0 tvg-id="nickelodeon-rus" group-title="Channels",NICKELODEON
-http://206.1.95.2:8004/play/a01v
-#EXTINF:0 tvg-id="Off.br" group-title="Channels",OFF
-http://206.1.95.2:8004/play/a00h
-#EXTINF:0 tvg-id="Paramount.es" group-title="Channels",PARAMOUNT NETWORK
-http://206.1.95.2:8004/play/a00g
-#EXTINF:0 tvg-id="Polishop.br" group-title="Channels",POLISHOP TV
-http://206.1.95.2:8004/play/a03p
-#EXTINF:0 tvg-id="Polishop.br" group-title="Channels",POLISHOP TV
-http://206.1.95.2:8004/play/a03u
-#EXTINF:0 tvg-id="Premiere2.br" group-title="Channels",PREMIERE 2
-http://206.1.95.2:8004/play/a021
-#EXTINF:0 tvg-id="Premiere3.br" group-title="Channels",PREMIERE 3
-http://206.1.95.2:8004/play/a038
-#EXTINF:0 tvg-id="Premiere4.br" group-title="Channels",PREMIERE 4
-http://206.1.95.2:8004/play/a03s
-#EXTINF:0 tvg-id="Premiere5.br" group-title="Channels",PREMIERE 5
-http://206.1.95.2:8004/play/a02l
-#EXTINF:0 tvg-id="Premiere8.br" group-title="Channels",PREMIERE 8
-http://206.1.95.2:8004/play/a00x
-#EXTINF:0 tvg-id="Premiereclubes.br" group-title="Channels",PREMIERE CLUBES
-http://206.1.95.2:8004/play/a022
-#EXTINF:0 tvg-id="ext" group-title="Channels",PRIME BOX BRASIL
-http://206.1.95.2:8004/play/a02b
-#EXTINF:0 tvg-id="Rbi.br" group-title="Channels",RBI
-http://206.1.95.2:8004/play/a03m
-#EXTINF:0 tvg-id="RecordTV.uk" group-title="Channels",RECORD TV
-http://206.1.95.2:8004/play/a02i
-#EXTINF:0 tvg-id="Rit.br" group-title="Channels",RIT
-http://206.1.95.2:8004/play/a03l
-#EXTINF:0 tvg-id="RecordNews.pt" group-title="Channels",RECORD NEWS
-http://206.1.95.2:8004/play/a00q
-#EXTINF:0 tvg-id="Redebrasil.br" group-title="Channels",REDE BRASIL
-http://206.1.95.2:8004/play/a02g
-#EXTINF:0 tvg-id="Redevida.br" group-title="Channels",REDE VIDA
-http://206.1.95.2:8004/play/a02e
-#EXTINF:0 tvg-id="Sbt.br" group-title="Channels",SBT
-http://206.1.95.2:8004/play/a023
-#EXTINF:0 tvg-id="otr" group-title="Channels",STAR CHANNEL
-http://206.1.95.2:8004/play/a016
-#EXTINF:0 tvg-id="Space.br" group-title="Channels",SPACE
-http://206.1.95.2:8004/play/a02s
-#EXTINF:0 tvg-id="StudioUniversal.it" group-title="Channels",STUDIO UNIVERSAL
-http://206.1.95.2:8004/play/a02w
-#EXTINF:0 tvg-id="24dok" group-title="Channels",TBS
-http://206.1.95.2:8004/play/a03e
-#EXTINF:0 tvg-id="TCM.uk" group-title="Channels",TCM
-http://206.1.95.2:8004/play/a02v
-#EXTINF:0 tvg-id="tlc-russia" group-title="Channels",TLC
-http://206.1.95.2:8004/play/a01z
-#EXTINF:0 tvg-id="tnt" group-title="Channels",TNT
-http://206.1.95.2:8004/play/a028
-#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Channels",TNT SÉRIES
-http://206.1.95.2:8004/play/a02z
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV BRASIL 1
-http://206.1.95.2:8004/play/a034
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV BRASIL 2
-http://206.1.95.2:8004/play/a039
-#EXTINF:0 tvg-id="tv5monde" group-title="Channels",TV5 MONDE
-http://206.1.95.2:8004/play/a02k
-#EXTINF:0 tvg-id="TVE.se" group-title="Channels",TVE
-http://206.1.95.2:8004/play/a01b
-#EXTINF:0 tvg-id="Tcaction.br" group-title="Channels",TELECINE ACTION
-http://206.1.95.2:8004/play/a017
-#EXTINF:0 tvg-id="Tccult.br" group-title="Channels",TELECINE CULT
-http://206.1.95.2:8004/play/a029
-#EXTINF:0 tvg-id="Tcpipoca.br" group-title="Channels",TELECINE PIPOCA
-http://206.1.95.2:8004/play/a02t
-#EXTINF:0 tvg-id="Terraviva.br" group-title="Channels",TERRA VIVA
-http://206.1.95.2:8004/play/a03k
-#EXTINF:0 tvg-id="Tooncast.mx" group-title="Channels",TOONCAST
-http://206.1.95.2:8004/play/a00p
-#EXTINF:0 tvg-id="TruTV.uk" group-title="Channels",TRUTV
-http://206.1.95.2:8004/play/a00m
-#EXTINF:0 tvg-id="ext" group-title="Channels",UNIVERSAL TV
-http://206.1.95.2:8004/play/a02j
-#EXTINF:0 tvg-id="Woohoo.br" group-title="Channels",WOOHOO
-http://206.1.95.2:8004/play/a01t
-#EXTINF:0 tvg-id="Zoomoo.br" group-title="Channels",ZOOMOO
-http://206.1.95.2:8004/play/a00t
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",TELECINE ACTION HD
 http://51.83.238.223:16703
@@ -462,16 +244,6 @@ http://51.83.238.223:16800
 http://51.83.238.223:16274
 #EXTINF:0 tvg-id="ext" group-title="Channels",CG NEWS HD
 http://51.83.238.223:16825
-
-
-##########################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  LISTA CANAIS BR 3  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://000000
-
-#EXTM3U
-
-
-
 #EXTINF:0 tvg-id="prime-md" group-title="Channels",PRIME HD
 http://200.194.238.229:8000/udp/224.3.3.4:1234
 #EXTINF:0 tvg-id="ext" group-title="Channels",MUSIC HD
