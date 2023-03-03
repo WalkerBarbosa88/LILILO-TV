@@ -11,7 +11,7 @@ http://0.0.0.0:0000
 https://tvgratuita10.blogspot.com/?fbclid=IwAR1hjt2fxRsjhUBFg6lhEEU1cbj3xHkyZ65tIOyWhApFByPIvawYYeSmHmo
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTAS ATUALIZADAS: 24/02/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS ATUALIZADAS: 03/03/2023[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
@@ -24,8 +24,9 @@ https://tvgratuita10.blogspot.com/?fbclid=IwAR1hjt2fxRsjhUBFg6lhEEU1cbj3xHkyZ65t
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]MATOSINHOS TV[/B][/COLOR][COLOR=white][/COLOR]
 https://5d82644094cc0.streamlock.net/xradiotv/xradiotv/chunklist_w1017197052.m3u8
-#EXTINF:-1,[COLOR=white][B]FAMA TV (OFFLINE)[/B][/COLOR][COLOR=white][/COLOR]
-https://streamer-b02.videos.sapo.pt/live/famatv/chunklist_w1059365209.m3u8
+#EXTINF:-1,[COLOR=white][B]FAMA TV[/B][/COLOR][COLOR=white][/COLOR]
+https://streamer-a03.videos.sapo.pt/live/famatv/chunklist_w1729802407.m3u8
+
 #EXTINF:-1,[COLOR=white][B]RÁDIO SINES[/B][/COLOR][COLOR=white][/COLOR]
 https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
 #EXTINF:-1,[COLOR=white][B]TV BRICS PT HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -103,9 +104,6 @@ http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42030.ts
 #EXTINF:-1,[COLOR=white][B]RTP 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42030.ts
 
-#EXTINF:-1,[COLOR=white][B]RTP 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://5.249.111.12:8000/play/a006/index.m3u8
-
 #EXTINF:-1,[COLOR=white][B]SIC HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_5.m3u8
 #EXTINF:-1,[COLOR=white][B]SIC HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -173,8 +171,6 @@ http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/130916
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/130917
 #EXTINF:0 tvg-id="ext" group-title="Channels",RTP INTER.
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224046
-#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Channels",RTP ÁFRICA
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224044
 #EXTINF:0 tvg-id="RTPMadeira.pt" group-title="Channels",RTP MADEIRA
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224047
 #EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Channels",RTP MEMÓRIA
@@ -202,15 +198,11 @@ http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/130936
 http://00000000000000000111111111111111111
 
 
-
-#EXTINF:0 tvg-id="TVGlobo.pt" group-title="Channels",GLOBO
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224013
 #EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO NEWS HD
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224036
 #EXTINF:0 tvg-id="GloboPremium.pt" group-title="Channels",GLOBO PREMIUM
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224015
-#EXTINF:0 tvg-id="ext" group-title="Channels",ZAP VIVA
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224077
+
 
 
 ##########################################################################################################################################
@@ -276,14 +268,8 @@ http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/225755
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/130946
 #EXTINF:0 tvg-id="FoodNetwork.pt" group-title="Channels",FOOD NETWORK
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/160028
-#EXTINF:0 tvg-id="TLC.pt" group-title="Channels",TLC
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/160061
 #EXTINF:0 tvg-id="eentertainment.pt" group-title="Channels",E! ENTERTAINMENT
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224006
-#EXTINF:0 tvg-id="ext" group-title="Channels",FASHION TV
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224008
-#EXTINF:0 tvg-id="BBCentertainment.pt" group-title="Channels",BBC ENTERTAINMENT
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/223986
 #EXTINF:0 tvg-id="ext" group-title="Channels",A&E TV
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/223981
 #EXTINF:0 tvg-id="ext" group-title="Channels",DOG TV
@@ -298,14 +284,10 @@ http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224032
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/225773
 
 
-#EXTINF:0 tvg-id="PortoCanal.pt" group-title="Channels",PORTO CANAL
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224042
 #EXTINF:0 tvg-id="TVI24.pt" group-title="Channels",CNN PORTUGAL
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/130923
 #EXTINF:0 tvg-id="CMTV.pt" group-title="Channels",CMTV
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/160012
-#EXTINF:0 tvg-id="ext" group-title="Channels",EURONEWS
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/130928
 #EXTINF:0 tvg-id="TVGalicia.pt" group-title="Channels",TV GALÍCIA
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/160070
 #EXTINF:0 tvg-id="ext" group-title="Channels",BLOOMBERG
@@ -324,8 +306,6 @@ http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224000
 http://000111111111111111555555555555
 
 
-#EXTINF:0 tvg-id="ClubbingTV.pt" group-title="Channels",CLUBBING TV
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/223999
 #EXTINF:0 tvg-id="MCMPop.pt" group-title="Channels",MCM POP
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224027
 #EXTINF:0 tvg-id="mtvportugal.pt" group-title="Channels",MTV
@@ -342,12 +322,8 @@ http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/225754
 
 #EXTINF:0 tvg-id="SicK.pt" group-title="Channels",SIC KIDS
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224052
-#EXTINF:0 tvg-id="BabyTV.pt" group-title="Channels",BABY TV
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/159995
 #EXTINF:0 tvg-id="disneychannel.pt" group-title="Channels",DISNEY CHANNEL
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131054
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISNEY +
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224003
 #EXTINF:0 tvg-id="cartoon.pt" group-title="Channels",CARTOON NETWORK
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131063
 #EXTINF:0 tvg-id="ext" group-title="Channels",BOOMERANG HD
@@ -356,8 +332,6 @@ http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/223989
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131060
 #EXTINF:0 tvg-id="NickJr.pt" group-title="Channels",NICK JUNIOR
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/160045
-#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Channels",PANDA BIGGS
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/160005
 #EXTINF:0 tvg-id="ext" group-title="Channels",KURIAKOS KIDS TV
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224021
 #EXTINF:0 tvg-id="ext" group-title="Channels",GAMETOON
@@ -376,8 +350,6 @@ http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/159999
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/160002
 #EXTINF:0 tvg-id="cazaepesca.pt" group-title="Channels",CAÇA & PESCA
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/160001
-#EXTINF:0 tvg-id="discoverychannel.pt" group-title="Channels",DISCOVERY CHANNEL 
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131080
 #EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY INVESTIGATION
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131077
 #EXTINF:0 tvg-id="ext" group-title="Channels",CRIME INVESTIGATION
@@ -386,8 +358,6 @@ http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131094
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131078
 #EXTINF:0 tvg-id="NatGeoWild.pt" group-title="Channels",NAT GEO WILD
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131079
-#EXTINF:0 tvg-id="CANCAONOVA.pt" group-title="Channels",CANÇÃO NOVA
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131090
 #EXTINF:0 tvg-id="HistoryChannel.pt" group-title="Channels",HISTÓRIA
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224017
 #EXTINF:0 tvg-id="ext" group-title="Channels",CAÇA & PESCA
@@ -398,8 +368,6 @@ http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/131089
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/223997
 #EXTINF:0 tvg-id="ext" group-title="Channels",OUTDOOR
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224038
-#EXTINF:0 tvg-id="TravelChannel.pt" group-title="Channels",TRAVEL CHANNEL
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224061
 #EXTINF:0 tvg-id="CanalQ.pt" group-title="Channels",CANAL Q
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/160006
 
@@ -408,10 +376,6 @@ http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/160006
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/225774
 
 
-#EXTINF:0 tvg-id="CBSReality.pt" group-title="Channels",CBS REALITY
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/223998
-#EXTINF:0 tvg-id="TVIReal.pt" group-title="Channels",TVI REALITY
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224066
 #EXTINF:0 tvg-id="TVIReal.pt" group-title="Channels",TVI REALITY MOSAICO
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224071
 #EXTINF:0 tvg-id="ext" group-title="Channels",TVI REALITY CAM 1
@@ -420,8 +384,7 @@ http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224067
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224068
 #EXTINF:0 tvg-id="ext" group-title="Channels",TVI REALITY CAM 3
 http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224069
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVI REALITY CAM 4
-http://dominoiptv.com:2082/cipo2673/6nKa4hs9fFS2U8/224070
+
 
 
 ##########################################################################################################################################
