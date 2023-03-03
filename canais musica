@@ -4,7 +4,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 24/02/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 03/03/2023[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -57,12 +57,6 @@ http://myott.top/stream/DEKA6YA5JRN/302.m3u8
 #EXTINF:-1,[COLOR=white][B]MTV LIVE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://myott.top/stream/DEKA6YA5JRN/215.m3u8
 
-#EXTINF:-1,[COLOR=white][B]BRIDGE TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://109.200.130.123:7027/play/a01k
-#EXTINF:-1,[COLOR=white][B]BRIDGE HITS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://109.200.130.123:7027/play/a01g
-#EXTINF:-1,[COLOR=white][B]BRIDGE FRESH HD[/B][/COLOR][COLOR=white][/COLOR]
-http://109.200.130.123:7027/play/a01j
 #EXTINF:-1,[COLOR=white][B]BRIDGE CLASSIC HD[/B][/COLOR][COLOR=white][/COLOR]
 https://livetv.mylifeisgood.ml/channels/bridgeclassictv
 #EXTINF:-1,[COLOR=white][B]BRIDGE DELUXE HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -219,9 +213,6 @@ https://edge.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8?checkedby:iptv
 https://000000
 
 
-
-#EXTINF:-1,[COLOR=white][B]ROCK HD[/B][/COLOR][COLOR=white][/COLOR]
-http://95.169.222.113:8800/udp/239.32.0.21:8888
 #EXTINF:-1,[COLOR=white][B]RCK TV[/B][/COLOR][COLOR=white][/COLOR]
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,[COLOR=white][B]ROCK TV BR HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -292,9 +283,6 @@ https://otv.wotom.net/rmusic/stream.m3u8
 
 #EXTINF:-1,[COLOR=white][B]MAIDAN HD[/B][/COLOR][COLOR=white][/COLOR]
 http://live-maidantv.cdnvideo.ru/maidantv/maidantv_720/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]359 HIP-HOP HD[/B][/COLOR][COLOR=white][/COLOR]
-https://cdn3.invivo.bg/359t/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1,[COLOR=white][B]88 STEREO TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
@@ -380,9 +368,6 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?iptvgratis?
  
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]VEVO LATINO HD[/B][/COLOR][COLOR=white][/COLOR]
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]TV EXITOS HD[/B][/COLOR][COLOR=white][/COLOR]
-https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
 
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]LATINOS RÁDIO TV[/B][/COLOR][COLOR=white][/COLOR]
 https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8?PlaylistM3UCL
@@ -611,7 +596,7 @@ https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c
 
 
 ######################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 24/02/2023 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 03/03/2023 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
