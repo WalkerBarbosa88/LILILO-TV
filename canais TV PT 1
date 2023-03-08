@@ -479,3 +479,271 @@ https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificca
 #EXTINF:0 tvg-id="TVIFiccao.pt" group-title="Channels",TVI FICÇÃO
 https://bit.ly/3gejKxf?720p/playlist.m3u8
 
+
+##########################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS TV PORTUGAL 4  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+#EXTM3U
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | RTP 1
+http://metaip.tv:80/abushahd/yQZsCenKHl/1288
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | RTP 2
+http://metaip.tv:80/abushahd/yQZsCenKHl/1289
+#EXTINF:0 tvg-id="RTP3.pt" group-title="Channels",PT | RTP 3
+http://metaip.tv:80/abushahd/yQZsCenKHl/1290
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | RTP AÇORES
+http://metaip.tv:80/abushahd/yQZsCenKHl/1291
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | RTP MDEIRA
+http://metaip.tv:80/abushahd/yQZsCenKHl/1292
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | RTP MEMÓRIA
+http://metaip.tv:80/abushahd/yQZsCenKHl/1293
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | RTP ÁFRICA
+http://metaip.tv:80/abushahd/yQZsCenKHl/1287
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | RTP3
+http://metaip.tv:80/abushahd/yQZsCenKHl/1296
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | SIC
+http://metaip.tv:80/abushahd/yQZsCenKHl/1297
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | SIC CARAS
+http://metaip.tv:80/abushahd/yQZsCenKHl/1298
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | SIC
+http://metaip.tv:80/abushahd/yQZsCenKHl/1299
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | SIC K
+http://metaip.tv:80/abushahd/yQZsCenKHl/1300
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | SIC MULHER
+http://metaip.tv:80/abushahd/yQZsCenKHl/1301
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | SIC NOTÍCIAS
+http://metaip.tv:80/abushahd/yQZsCenKHl/1302
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | SIC RADICAL
+http://metaip.tv:80/abushahd/yQZsCenKHl/1303
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | TVI
+http://metaip.tv:80/abushahd/yQZsCenKHl/1327
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | TVI 
+http://metaip.tv:80/abushahd/yQZsCenKHl/1329
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | TVI FICÇÃO HD
+http://metaip.tv:80/abushahd/yQZsCenKHl/1328
+#EXTINF:0 tvg-id="TVIReal.pt" group-title="Channels",PT | TVI REALITY
+http://metaip.tv:80/abushahd/yQZsCenKHl/1330
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | CNN PORTUGAL HD
+http://metaip.tv:80/abushahd/yQZsCenKHl/1218
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | CNN PORTUGAL HD
+http://metaip.tv:80/abushahd/yQZsCenKHl/1219
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | CMTV
+http://metaip.tv:80/abushahd/yQZsCenKHl/1215
+
+#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",PT | FOX COMEDY
+http://metaip.tv:80/abushahd/yQZsCenKHl/1256
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | AXN HD
+http://metaip.tv:80/abushahd/yQZsCenKHl/1202
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | AXN MOVIES HD
+http://metaip.tv:80/abushahd/yQZsCenKHl/1203
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | AXN WHITE
+http://metaip.tv:80/abushahd/yQZsCenKHl/1204
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | AMC HD
+http://metaip.tv:80/abushahd/yQZsCenKHl/1200
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | CINEMUNDO
+http://metaip.tv:80/abushahd/yQZsCenKHl/1232
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | FOX CRIME 
+http://metaip.tv:80/abushahd/yQZsCenKHl/1251
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | FOX 
+http://metaip.tv:80/abushahd/yQZsCenKHl/1252
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | FOX LIFE HD
+http://metaip.tv:80/abushahd/yQZsCenKHl/1253
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | FOX MOVIES
+http://metaip.tv:80/abushahd/yQZsCenKHl/1254
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | HOLLYWOOD
+http://metaip.tv:80/abushahd/yQZsCenKHl/1262
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | HOLLYWOOD
+http://metaip.tv:80/abushahd/yQZsCenKHl/1263
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | 24 KITCHEN HD
+http://metaip.tv:80/abushahd/yQZsCenKHl/1197
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | A BOLA TV
+http://metaip.tv:80/abushahd/yQZsCenKHl/1198
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | ARTV
+http://metaip.tv:80/abushahd/yQZsCenKHl/1201
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | AFRO MUSIC
+http://metaip.tv:80/abushahd/yQZsCenKHl/1205
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | BBC ENTERTAINMENT
+http://metaip.tv:80/abushahd/yQZsCenKHl/1206
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | BBC WORLD NEWS
+http://metaip.tv:80/abushahd/yQZsCenKHl/1207
+#EXTINF:0 tvg-id="BabyTV.pt" group-title="Channels",PT | BABY TV
+http://metaip.tv:80/abushahd/yQZsCenKHl/1210
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | BIGGS
+http://metaip.tv:80/abushahd/yQZsCenKHl/1211
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | BLAZE HD
+http://metaip.tv:80/abushahd/yQZsCenKHl/1212
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | BLOOMBERG HD
+http://metaip.tv:80/abushahd/yQZsCenKHl/1213
+#EXTINF:0 tvg-id="CBSReality.pt" group-title="Channels",PT | CBS REALITY
+http://metaip.tv:80/abushahd/yQZsCenKHl/1214
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | CNBC
+http://metaip.tv:80/abushahd/yQZsCenKHl/1216
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | CNBC EUROPE
+http://metaip.tv:80/abushahd/yQZsCenKHl/1217
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | CANAL 11 HD
+http://metaip.tv:80/abushahd/yQZsCenKHl/1220
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | CANAL HISTÓRIA
+http://metaip.tv:80/abushahd/yQZsCenKHl/1221
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | CANAL PANDA
+http://metaip.tv:80/abushahd/yQZsCenKHl/1223
+#EXTINF:0 tvg-id="CanalQ.pt" group-title="Channels",PT | CANAL Q
+http://metaip.tv:80/abushahd/yQZsCenKHl/1224
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | CANÇÃO NOVA HD
+http://metaip.tv:80/abushahd/yQZsCenKHl/1226
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | CARTOON NETWORK
+http://metaip.tv:80/abushahd/yQZsCenKHl/1227
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | CASA & COZINHA HD
+http://metaip.tv:80/abushahd/yQZsCenKHl/1228
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | CAÇA & PESCA
+http://metaip.tv:80/abushahd/yQZsCenKHl/1229
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | CAÇAVISION
+http://metaip.tv:80/abushahd/yQZsCenKHl/1230
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | CHANNEL 1 RUSSIA
+http://metaip.tv:80/abushahd/yQZsCenKHl/1231
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | CRIME+ INVESTIGATION
+http://metaip.tv:80/abushahd/yQZsCenKHl/1233
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | DISCOVERY CHANNEL
+http://metaip.tv:80/abushahd/yQZsCenKHl/1235
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | DISCOVERY CHANNEL HD
+http://metaip.tv:80/abushahd/yQZsCenKHl/1236
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | DISCOVERY HD
+http://metaip.tv:80/abushahd/yQZsCenKHl/1237
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | DISNEY CHANNEL
+http://metaip.tv:80/abushahd/yQZsCenKHl/1238
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | DISNEY JUNIOR
+http://metaip.tv:80/abushahd/yQZsCenKHl/1239
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | E! ENTERTAINMENT
+http://metaip.tv:80/abushahd/yQZsCenKHl/1240
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | EURONEWS
+http://metaip.tv:80/abushahd/yQZsCenKHl/1247
+#EXTINF:0 tvg-id="Eurosport1.pt" group-title="Channels",PT | EUROSPORT 1
+http://metaip.tv:80/abushahd/yQZsCenKHl/1248
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | EUROSPORT 1
+http://metaip.tv:80/abushahd/yQZsCenKHl/1249
+#EXTINF:0 tvg-id="Eurosport2.pt" group-title="Channels",PT | EUROSPORT 2
+http://metaip.tv:80/abushahd/yQZsCenKHl/1250
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | FTV
+http://metaip.tv:80/abushahd/yQZsCenKHl/1255
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | FUEL TV
+http://metaip.tv:80/abushahd/yQZsCenKHl/1257
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | GLOBO
+http://metaip.tv:80/abushahd/yQZsCenKHl/1258
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | GLOBO NEWS
+http://metaip.tv:80/abushahd/yQZsCenKHl/1259
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | ID Investigation Discovery
+http://metaip.tv:80/abushahd/yQZsCenKHl/1264
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | Jim Jam
+http://metaip.tv:80/abushahd/yQZsCenKHl/1265
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | Kuriakos TV
+http://metaip.tv:80/abushahd/yQZsCenKHl/1267
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | Lolly Kids
+http://metaip.tv:80/abushahd/yQZsCenKHl/1268
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | MCM POP
+http://metaip.tv:80/abushahd/yQZsCenKHl/1269
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | MEO
+http://metaip.tv:80/abushahd/yQZsCenKHl/1270
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | MTV 00s
+http://metaip.tv:80/abushahd/yQZsCenKHl/1271
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | MTV Portugal
+http://metaip.tv:80/abushahd/yQZsCenKHl/1272
+#EXTINF:0 tvg-id="Motorvision.pt" group-title="Channels",PT | Motorvision
+http://metaip.tv:80/abushahd/yQZsCenKHl/1274
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | NBA TV
+http://metaip.tv:80/abushahd/yQZsCenKHl/1275
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | NHK World Japan
+http://metaip.tv:80/abushahd/yQZsCenKHl/1276
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | National Geographic
+http://metaip.tv:80/abushahd/yQZsCenKHl/1279
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | National Geographic WILD
+http://metaip.tv:80/abushahd/yQZsCenKHl/1280
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | NICK JUNIOR
+http://metaip.tv:80/abushahd/yQZsCenKHl/1281
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | Nickelodeon
+http://metaip.tv:80/abushahd/yQZsCenKHl/1282
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | Odisseia
+http://metaip.tv:80/abushahd/yQZsCenKHl/1283
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | PFC
+http://metaip.tv:80/abushahd/yQZsCenKHl/1284
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | Panda Kids
+http://metaip.tv:80/abushahd/yQZsCenKHl/1285
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | PORTO CANAL
+http://metaip.tv:80/abushahd/yQZsCenKHl/1286
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | SKY NEWS
+http://metaip.tv:80/abushahd/yQZsCenKHl/1310
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | Sporting TV
+http://metaip.tv:80/abushahd/yQZsCenKHl/1314
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | SYFY
+http://metaip.tv:80/abushahd/yQZsCenKHl/1315
+#EXTINF:0 tvg-id="TLC.pt" group-title="Channels",PT | TLC
+http://metaip.tv:80/abushahd/yQZsCenKHl/1316
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | TV RECORD
+http://metaip.tv:80/abushahd/yQZsCenKHl/1323
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | TVE 24H
+http://metaip.tv:80/abushahd/yQZsCenKHl/1324
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | TVEi
+http://metaip.tv:80/abushahd/yQZsCenKHl/1326
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | TOROS TV
+http://metaip.tv:80/abushahd/yQZsCenKHl/1331
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | TRACE TOCA
+http://metaip.tv:80/abushahd/yQZsCenKHl/1332
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | TRAVEL CHANNEL 
+http://metaip.tv:80/abushahd/yQZsCenKHl/1334
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | ZAP VIVA 
+http://metaip.tv:80/abushahd/yQZsCenKHl/1335
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | BTV HD
+http://metaip.tv:80/abushahd/yQZsCenKHl/1208
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | BTV HD
+http://metaip.tv:80/abushahd/yQZsCenKHl/1209
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | SPORT TV+
+http://metaip.tv:80/abushahd/yQZsCenKHl/1309
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | SPORT TV 1 HD
+http://metaip.tv:80/abushahd/yQZsCenKHl/1305
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | SPORT TV 2 HD
+http://metaip.tv:80/abushahd/yQZsCenKHl/1306
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | SPORT TV 3 HD
+http://metaip.tv:80/abushahd/yQZsCenKHl/1307
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | SPORT TV 4 HD
+http://metaip.tv:80/abushahd/yQZsCenKHl/1308
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | SPORT TV 5 HD
+http://metaip.tv:80/abushahd/yQZsCenKHl/1311
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | SPORT TV 6 HD
+http://metaip.tv:80/abushahd/yQZsCenKHl/1312
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | ELEVEN 1 
+http://metaip.tv:80/abushahd/yQZsCenKHl/1241
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | ELEVEN 2 
+http://metaip.tv:80/abushahd/yQZsCenKHl/1242
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | ELEVEN 3
+http://metaip.tv:80/abushahd/yQZsCenKHl/1243
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | ELEVEN 4
+http://metaip.tv:80/abushahd/yQZsCenKHl/1244
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | ELEVEN 5
+http://metaip.tv:80/abushahd/yQZsCenKHl/1245
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | ELEVEN 6
+http://metaip.tv:80/abushahd/yQZsCenKHl/1246
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | NOS STUDIOS
+http://metaip.tv:80/abushahd/yQZsCenKHl/1277
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | NOS STUDIOS
+http://metaip.tv:80/abushahd/yQZsCenKHl/1278
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | TVCINE ACTION HD
+http://metaip.tv:80/abushahd/yQZsCenKHl/1318
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | TVCINE EDITION HD
+http://metaip.tv:80/abushahd/yQZsCenKHl/1319
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | TVCINE EMOTION HD
+http://metaip.tv:80/abushahd/yQZsCenKHl/1320
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT | TVCINE TOP HD
+http://metaip.tv:80/abushahd/yQZsCenKHl/1321
+
+
+
+
+
