@@ -7,124 +7,13 @@ http://0.0.0.0:0000
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 03/03/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 09/03/2023[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B] /////////  LISTA PT 1  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://00000000000
-
-#EXTM3U
-
-
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1 FHD hevc" tvg-logo="" group-title="PORTUGAL",|PT| RTP 1 FHD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42029.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 1 HD hevc" tvg-logo="" group-title="PORTUGAL",|PT| RTP 1 HD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42028.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| RTP 2 HD hevc" tvg-logo="" group-title="PORTUGAL",|PT| RTP 2 HD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42030.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SIC FHD hevc" tvg-logo="" group-title="PORTUGAL",|PT| SIC FHD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42032.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TVI REALLITY MASAICO" tvg-logo="" group-title="PORTUGAL",|PT| TVI REALLITY MASAICO
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/41894.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TVI FHD hevc" tvg-logo="" group-title="PORTUGAL",|PT| TVI FHD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42034.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TVI HD hevc" tvg-logo="" group-title="PORTUGAL",|PT| TVI HD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42033.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TVI REALITY" tvg-logo="" group-title="PORTUGAL",|PT| TVI REALITY
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/41924.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT|SIC HD hevc" tvg-logo="" group-title="PORTUGAL",|PT|SIC HD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42031.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| A BOLA HD hevc" tvg-logo="" group-title="PORTUGAL",|PT| A BOLA HD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42037.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| AXN FHD hevc" tvg-logo="" group-title="PORTUGAL",|PT| AXN FHD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42062.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| AXN HD hevc" tvg-logo="" group-title="PORTUGAL",|PT| AXN HD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42061.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| AXN MOVIES HD hevc" tvg-logo="" group-title="PORTUGAL",|PT| AXN MOVIES HD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42066.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| AXN WHITE HD hevc" tvg-logo="" group-title="PORTUGAL",|PT| AXN WHITE HD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42065.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| BABY TV" tvg-logo="" group-title="PORTUGAL",|PT| BABY TV
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/41968.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| BTV FHD hevc" tvg-logo="" group-title="PORTUGAL",|PT| BTV FHD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42048.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| BTV HD hevc" tvg-logo="" group-title="PORTUGAL",|PT| BTV HD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42047.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| CARTOON NETWORK" tvg-logo="" group-title="PORTUGAL",|PT| CARTOON NETWORK
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/41946.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| CINEMUNDO HD hevc" tvg-logo="" group-title="PORTUGAL",|PT| CINEMUNDO HD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42072.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| CMTV FHD hevc" tvg-logo="" group-title="PORTUGAL",|PT| CMTV FHD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42036.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| CMTV HD hevc" tvg-logo="" group-title="PORTUGAL",|PT| CMTV HD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42035.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| DISNEY CHANNEL" tvg-logo="" group-title="PORTUGAL",|PT| DISNEY CHANNEL
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/41945.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| DISNEY JUNIOR" tvg-logo="" group-title="PORTUGAL",|PT| DISNEY JUNIOR
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/41944.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 1 FHD hevc" tvg-logo="" group-title="PORTUGAL",|PT| ELEVEN SPORTS 1 FHD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42050.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 2 FHD hevc" tvg-logo="" group-title="PORTUGAL",|PT| ELEVEN SPORTS 2 FHD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42052.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 2 HD hevc" tvg-logo="" group-title="PORTUGAL",|PT| ELEVEN SPORTS 2 HD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42051.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| FOX COMEDY HD hevc" tvg-logo="" group-title="PORTUGAL",|PT| FOX COMEDY HD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42069.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| FOX FHD hevc" tvg-logo="" group-title="PORTUGAL",|PT| FOX FHD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42064.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| FOX HD hevc" tvg-logo="" group-title="PORTUGAL",|PT| FOX HD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42063.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| FOX MOVIES HD hevc" tvg-logo="" group-title="PORTUGAL",|PT| FOX MOVIES HD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42067.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| GLOBO HD hevc" tvg-logo="" group-title="PORTUGAL",|PT| GLOBO HD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42038.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| HOLLYWOOD HD hevc" tvg-logo="" group-title="PORTUGAL",|PT| HOLLYWOOD HD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42071.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| NICK JR" tvg-logo="" group-title="PORTUGAL",|PT| NICK JR
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/41990.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| NICKELODEON" tvg-logo="" group-title="PORTUGAL",|PT| NICKELODEON
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/41975.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| NOS STUDIOS HD hevc" tvg-logo="" group-title="PORTUGAL",|PT| NOS STUDIOS HD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42070.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV + HD hevc" tvg-logo="" group-title="PORTUGAL",|PT| SPORT TV + HD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42039.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 1 FHD hevc" tvg-logo="" group-title="PORTUGAL",|PT| SPORT TV 1 FHD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42041.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 1 HD hevc" tvg-logo="" group-title="PORTUGAL",|PT| SPORT TV 1 HD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42040.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 2 FHD hevc" tvg-logo="" group-title="PORTUGAL",|PT| SPORT TV 2 FHD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42043.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 2 HD hevc" tvg-logo="" group-title="PORTUGAL",|PT| SPORT TV 2 HD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42042.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| SPORT TV 3 HD hevc" tvg-logo="" group-title="PORTUGAL",|PT| SPORT TV 3 HD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42044.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Sport TV 4 HD hevc" tvg-logo="" group-title="PORTUGAL",|PT| Sport TV 4 HD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42045.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| Sport Tv 5 HD hevc" tvg-logo="" group-title="PORTUGAL",|PT| Sport Tv 5 HD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42046.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TVCINE ACTION FHD hevc" tvg-logo="" group-title="PORTUGAL",|PT| TVCINE ACTION FHD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42060.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TVCINE ACTION HD hevc" tvg-logo="" group-title="PORTUGAL",|PT| TVCINE ACTION HD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42059.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TVCINE EDITION FHD hevc" tvg-logo="" group-title="PORTUGAL",|PT| TVCINE EDITION FHD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42056.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TVCINE EDITION HD hevc" tvg-logo="" group-title="PORTUGAL",|PT| TVCINE EDITION HD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42055.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TVCINE EMOTON FHD hevc" tvg-logo="" group-title="PORTUGAL",|PT| TVCINE EMOTON FHD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42058.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TVCINE EMOTON HD hevc" tvg-logo="" group-title="PORTUGAL",|PT| TVCINE EMOTON HD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42057.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TVCINE TOP FHD hevc" tvg-logo="" group-title="PORTUGAL",|PT| TVCINE TOP FHD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42054.ts
-#EXTINF:-1 tvg-id="" tvg-name="|PT| TVCINE TOP HD hevc" tvg-logo="" group-title="PORTUGAL",|PT| TVCINE TOP HD 
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42053.ts
-
-
-####################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] /////////  LISTA PT 2  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://00000000000
 
 #EXTM3U
