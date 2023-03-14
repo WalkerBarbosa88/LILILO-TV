@@ -11,7 +11,7 @@ http://0.0.0.0:0000
 https://tvgratuita10.blogspot.com/?fbclid=IwAR1hjt2fxRsjhUBFg6lhEEU1cbj3xHkyZ65tIOyWhApFByPIvawYYeSmHmo
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 09/03/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 14/03/2023[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
@@ -68,8 +68,6 @@ https://000000
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR=white][B]GLOBO HD[/B][/COLOR][COLOR=white][/COLOR]
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42038.ts
 #EXTINF:-1,[COLOR=white][B]DEMAND ÁFRICA[/B][/COLOR][COLOR=white][/COLOR]
 https://demandafrica-oando.amagi.tv/amRdirect/p=da/hls/amagi_hls_data_theafrica-demand-africa-oando/CDN/1920x1080_5055600/index.m3u8
 #EXTINF:-1,[COLOR=white][B]TVM SD[/B][/COLOR][COLOR=white][/COLOR]
@@ -117,15 +115,27 @@ https://sicnot.live.impresa.pt/sicnot.m3u8
 #EXTINF:-1,[COLOR=white][B]EURONEWS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/2172b02e9431e5c79bc717e0cc555b4d.m3u8
 
-#EXTINF:-1,[COLOR=white][B]FOX COMEDY HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/4746
-#EXTINF:-1,[COLOR=white][B]FOX COMEDY FHD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/90
-#EXTINF:-1,[COLOR=white][B]FOX COMEDY HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/89499
-
 #EXTINF:-1,[COLOR=white][B]SANTUÁRIO DE FÁTIMA HD[/B][/COLOR][COLOR=white][/COLOR]
 https://streamer-b02.videos.sapo.pt/live/santuario/chunklist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]BTV FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://185.191.126.235:8080/hls/0f4b578a8c7b3fe5f58b77fe659ad559/68985_3018.ts
+#EXTINF:-1,[COLOR=white][B]BTV FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://185.191.126.235:8080/hls/9e4950dd62f1fc75a5f53e35c23d5239/68987_98.ts
+#EXTINF:-1,[COLOR=white][B]CANAL 11[/B][/COLOR][COLOR=white][/COLOR]
+http://185.191.126.235:8080/hls/52faf0d490ae0a775d123753787961cf/69014_2767.ts
+#EXTINF:-1,[COLOR=white][B]CMTV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://185.191.126.235:8080/hls/21cba1f18b46c8584e239df7d0b839cf/68965_1332.ts
+#EXTINF:-1,[COLOR=white][B]FOX COMEDY HD[/B][/COLOR][COLOR=white][/COLOR]
+http://185.191.126.235:8080/hls/d14c1d0a853088b3345f6e36c2dada24/69069_1337.ts
+#EXTINF:-1,[COLOR=white][B]FOX COMEDY HD[/B][/COLOR][COLOR=white][/COLOR]
+http://185.191.126.235:8080/hls/2f34021be75aa8660f743b4398626bfd/69070_3049.ts
+#EXTINF:-1,[COLOR=white][B]FOX COMEDY HD[/B][/COLOR][COLOR=white][/COLOR]
+http://dspecg.tth.cl:6500/ponto/foxcomedy/l_6518137_1380600_230.ts?nimblesessionid=263562454&wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDIzIDY6MTk6NDQgUE0maGFzaF92YWx1ZT0wTWIyS09CbSsreXluMnlORmlzZUh3PT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://185.191.126.235:8080/hls/505b495551cb7ed5300fda690426022d/68988_3062.ts
+#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://185.191.126.235:8080/hls/1937ddc500e2caa1a1c0cc6495b210ca/68989_104.ts
 
 
 ##########################################################################################################################################
@@ -136,6 +146,7 @@ https://streamer-b02.videos.sapo.pt/live/santuario/chunklist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]GENERALISTAS[/B][/COLOR][COLOR=white][/COLOR]
 https://0000000000000011111111111111111
+
 
 #EXTINF:0 tvg-id="rtp1.pt" group-title="PORTUGALIA HD",PT: RTP 1
 http://iptv-rks.com:25461/SkenderMaliqi/SkenderMaliqi12/2528
@@ -188,6 +199,7 @@ http://iptv-rks.com:25461/SkenderMaliqi/SkenderMaliqi12/2484
 #EXTINF:-1,[COLOR=white][B]SÉRIES DE TV & CINEMA[/B][/COLOR][COLOR=white][/COLOR]
 https://0000000000000011111111111111111
 
+
 #EXTINF:0 tvg-id="fox.pt" group-title="PORTUGALIA HD",PT: FOX
 http://iptv-rks.com:25461/SkenderMaliqi/SkenderMaliqi12/2499
 #EXTINF:0 tvg-id="FOXComedy.pt" group-title="PORTUGALIA HD",PT: FOX COMEDY
@@ -202,8 +214,6 @@ http://iptv-rks.com:25461/SkenderMaliqi/SkenderMaliqi12/2503
 http://iptv-rks.com:25461/SkenderMaliqi/SkenderMaliqi12/2460
 #EXTINF:0 tvg-id="axn.pt" group-title="PORTUGALIA HD",PT: AXN
 http://iptv-rks.com:25461/SkenderMaliqi/SkenderMaliqi12/2462
-#EXTINF:0 tvg-id="AXNBlack.pt" group-title="PORTUGALIA HD",PT: AXN BLACK
-http://iptv-rks.com:25461/SkenderMaliqi/SkenderMaliqi12/2463
 #EXTINF:0 tvg-id="ext" group-title="PORTUGALIA HD",PT: AXN MOVIES
 http://iptv-rks.com:25461/SkenderMaliqi/SkenderMaliqi12/2464
 #EXTINF:0 tvg-id="AXNWhite.pt" group-title="PORTUGALIA HD",PT: AXN WHITE
@@ -234,6 +244,7 @@ http://iptv-rks.com:25461/SkenderMaliqi/SkenderMaliqi12/2557
 #EXTINF:-1,[COLOR=white][B]DESPORTO PT[/B][/COLOR][COLOR=white][/COLOR]
 https://0000000000000011111111111111111
 
+
 #EXTINF:0 tvg-id="ABolaTV.pt" group-title="PORTUGALIA HD",PT: A BOLA TV
 http://iptv-rks.com:25461/SkenderMaliqi/SkenderMaliqi12/2458
 #EXTINF:0 tvg-id="ext" group-title="PORTUGALIA HD",PT: CANAL 11
@@ -244,7 +255,7 @@ http://iptv-rks.com:25461/SkenderMaliqi/SkenderMaliqi12/2504
 http://iptv-rks.com:25461/SkenderMaliqi/SkenderMaliqi12/2511
 #EXTINF:0 tvg-id="Motorvision.pt" group-title="PORTUGALIA HD",PT: MOTORVISION
 http://iptv-rks.com:25461/SkenderMaliqi/SkenderMaliqi12/2515
-#EXTINF:0 tvg-id="pfc.pt" group-title="PORTUGALIA HD",PT: PFC
+#EXTINF:0 tvg-id="pfc.pt" group-title="PORTUGALIA HD",PT: SPORTV 1 BR 
 http://iptv-rks.com:25461/SkenderMaliqi/SkenderMaliqi12/2525
 
 
