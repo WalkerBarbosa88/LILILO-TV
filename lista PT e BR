@@ -10,40 +10,39 @@ http://0.0.0.0:0000
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="ext" group-title="Shop",1001 Noites (720p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="Shop",1001 NOITES HD
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="General",Adesso TV (720p)
+#EXTINF:0 tvg-id="ext" group-title="General",ADESSO TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",Allegro WebTV (720p)
+#EXTINF:0 tvg-id="ext" group-title="General",ALLEGRO WEB TV HD
 https://livefocamundo.com:8081/allegrowebtv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",Alpha Channel (720p)
+#EXTINF:0 tvg-id="ext" group-title="General",ALPHA CHANNEL HD
 https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",Araruna TV (360p)
+#EXTINF:0 tvg-id="ext" group-title="General",ARARUNA TV HD
 https://video01.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",Band (1080p) [Geo-blocked]
-https://evpp.mm.uol.com.br/geob_band/app/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",Bem TV (720p)
+
+#EXTINF:0 tvg-id="ext" group-title="General",BEM TV HD
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",Canal Macau Ch. 92 (720p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="General",CANAL MACAU HD
 https://live3.tdm.com.mo/ch2/ch2.live/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",Canal Ricos (480p)
+#EXTINF:0 tvg-id="ext" group-title="General",CANAL RICOS HD
 https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",Canal Sete (1080p)
+#EXTINF:0 tvg-id="ext" group-title="General",CANAL SETE FHD
 http://189.51.193.70:1935/canalsete/xpl-c7/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",Catve2 (720p)
+#EXTINF:0 tvg-id="ext" group-title="General",CATVE 2 HD
 https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",Catve FM (720p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="General",CATVE FM HD
 https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",Catve Master TV (720p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="General",CATVE MASTER TV HD
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",CBTV Internacional (1080p)
+#EXTINF:0 tvg-id="ext" group-title="General",CBTV INTERNACIONAL FHD
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",COM Brasil (720p) [Not 24/7]
+#EXTINF:0 tvg-id="ext" group-title="General",COM BRASIL HD
 https://596639ebdd89b.streamlock.net/8032/8032/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",ConecTV Brasil (720p)
+#EXTINF:0 tvg-id="ext" group-title="General",CONNECT TV BR HD
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="General",Conexão TV (720p)
+#EXTINF:0 tvg-id="ext" group-title="General",CONEXÃO TV HD
 https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="General",Cultura Pará (480p) [Not 24/7]
 http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
