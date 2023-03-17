@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 #####################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 03/03/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 17/03/2023[/B][/COLOR][COLOR=orange][/COLOR]
  
 ###########################################################################################################################################
  
@@ -70,8 +70,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a30009
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]SPORTS TV PLUS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
-#EXTINF:-1,[COLOR=white][B]CHAMPIONS TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://tv.zonanime.my.id/vidio/championstv2.m3u8
 #EXTINF:-1,[COLOR=white][B]EXTREME SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://sc.id-tv.kz/ExtremeSportsHD_34_35.m3u8
 #EXTINF:-1,[COLOR=white][B]BET TV SPORTS[/B][/COLOR][COLOR=white][/COLOR]
@@ -256,8 +254,6 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]IGN HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/ignaaaaaa-ign1-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1,[COLOR=white][B]FUN ZONE HD[/B][/COLOR][COLOR=white][/COLOR]
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625030145130f25474622/HasBahCa.m3u8
 #EXTINF:-1,[COLOR=white][B]ESPORT MAX HD[/B][/COLOR][COLOR=white][/COLOR]
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
@@ -610,8 +606,6 @@ https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]GUSTO TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d3cajslujfq92p.cloudfront.net/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]IFOOD TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://ft-ifood-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]SO YUMMI HD[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/master.m3u8
 #EXTINF:-1,[COLOR=white][B]CHEF CHAMPION TV HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -672,5 +666,4 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]AURORA LIVE[/B][/COLOR][COLOR=white][/COLOR]
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
-
 
