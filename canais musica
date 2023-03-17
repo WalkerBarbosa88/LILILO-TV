@@ -4,7 +4,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 03/03/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 17/03/2023[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -34,9 +34,6 @@ http://45.11.56.147:8808/stream?id=137
 https://000000
 
 
-#EXTINF:-1,[COLOR=white][B]MOOZ HITS HD[/B][/COLOR][COLOR=white][/COLOR]
-https://canale.live/mtv.m3u8/?id=moozhits
-
 #EXTINF:-1,[COLOR=white][B]1HD RU FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://livetv.mylifeisgood.ml/channels/1hdmusic.m3u8
 
@@ -56,14 +53,19 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-xiaomi/pl
 http://myott.top/stream/DEKA6YA5JRN/302.m3u8
 #EXTINF:-1,[COLOR=white][B]MTV HITS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://178.170.47.109/MTVHITS/index.m3u8
-
+#EXTINF:-1,[COLOR=white][B]MTV HITS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://70cddd5a.ottolok.net/iptv/HVFPE2EKMZSVK6/153/index.m3u8
 #EXTINF:-1,[COLOR=white][B]MTV LIVE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://myott.top/stream/DEKA6YA5JRN/215.m3u8
+#EXTINF:-1,[COLOR=white][B]MTV CLUB HD[/B][/COLOR][COLOR=white][/COLOR]
+http://70cddd5a.ottolok.net/iptv/HVFPE2EKMZSVK6/558/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]BRIDGE CLASSIC HD[/B][/COLOR][COLOR=white][/COLOR]
 https://livetv.mylifeisgood.ml/channels/bridgeclassictv
 #EXTINF:-1,[COLOR=white][B]BRIDGE DELUXE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://myott.top/stream/DEKA6YA5JRN/92.m3u8
+#EXTINF:-1,[COLOR=white][B]BRIDGE HITS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://70cddd5a.ottolok.net/iptv/HVFPE2EKMZSVK6/711/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]4 MUSIC UK[/B][/COLOR][COLOR=white][/COLOR]
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
@@ -80,10 +82,6 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]POWERHD[/B][/COLOR][COLOR=white][/COLOR]
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]POWER STAGE HD[/B][/COLOR][COLOR=white][/COLOR]
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2650000_sltur.m3u8?nimblesessionid=651433292
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]POWER PLUS+ HD[/B][/COLOR][COLOR=white][/COLOR]
-https://listen.powerapp.com.tr/pplustv/pplustv.smil/chunklist_b2628000_sltur.m3u8?nimblesessionid=651435234
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]POWER+ HD[/B][/COLOR][COLOR=white][/COLOR]
 http://livetv.powerapp.com.tr/pplustv/pplustv.smil/chunklist_b2628000_sltur.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]POWER DANCE HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -149,8 +147,6 @@ http://cloudvideo.servers10.com:8080/8004/index.m3u8
 https://000000
 
 
-#EXTINF:-1,[COLOR=white][B]MOOZ DANCE HD[/B][/COLOR][COLOR=white][/COLOR]
-https://canale.live/mtv.m3u8/?id=moozdance
 #EXTINF:-1,[COLOR=white][B]TOTAL DANCE TV[/B][/COLOR][COLOR=white][/COLOR]
 http://iptv01.eurocable.co.hu/EC-TOTALDANCEHD/index.m3u8
 
@@ -201,8 +197,6 @@ https://60015180a7f57.streamlock.net:444/public/stream_source/chunklist_w1910337
 http://tis.catcast.tv/content/391/index.m3u8
 #EXTINF:-1,[COLOR=white][B]NR1 DANCE HD[/B][/COLOR][COLOR=white][/COLOR]
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]MAFI2A MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
-https://stream.funcontent.ru/hls/tv12/index.m3u8
 
 
 ######################################################################################################
@@ -259,10 +253,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6080411af0350600075
 #EXTINF:-1,[COLOR=yellow][B]///////// BEST TOP HITS 2 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
-
-
-#EXTINF:-1,[COLOR=white][B]MOOZ RO HD[/B][/COLOR][COLOR=white][/COLOR]
-https://canale.live/mtv.m3u8/?id=moozro
 
 #EXTINF:-1,[COLOR=white][B]CARINA TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stream7.zivoli.it/carinatv/carinatv/chunks.m3u8
@@ -349,9 +339,6 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 #EXTINF:-1,[COLOR=white][B]VINTAGE RADIO TV[/B][/COLOR][COLOR=white][/COLOR]
 http://5f22d76e220e1.streamlock.net:1935/vintageradiotv/vintageradiotv/chunklist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]RTL CLASSICS SD[/B][/COLOR][COLOR=white][/COLOR]
-https://5a57bda70564a.streamlock.net/litoralclassics/litoralclassics.sdp/chunklist_w1232675025.m3u8
-
 #EXTINF:-1,[COLOR=white][B]RADIO 80 FOREVER YOUNG TV[/B][/COLOR][COLOR=white][/COLOR]
 https://585b674743bbb.streamlock.net/9076/9076/chunklist.m3u8
 
@@ -422,9 +409,6 @@ https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,[COLOR=yellow][B]///////// OUTROS GÉNEROS /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
-
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/6Yr0Axp.png",[COLOR=white][B]CHOISE TV[/B][/COLOR][COLOR=white][/COLOR]
-https://vod.streams.ovh:3528/stream/play.m3u8
 
 #EXTINF:-1,[COLOR=white][B]SEXY KPOP TV[/B][/COLOR][COLOR=white][/COLOR]
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w330920962.m3u8
@@ -623,7 +607,7 @@ https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c
 
 
 ######################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 03/03/2023 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 17/03/2023 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
@@ -652,8 +636,6 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]AFROBEATS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PORTAL FOXMIX TV[/B][/COLOR][COLOR=white][/COLOR]
-http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MGR TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://vod.streams.ovh:3876/stream/play.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MN MUSIC[/B][/COLOR][COLOR=white][/COLOR]
