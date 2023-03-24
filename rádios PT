@@ -8,7 +8,7 @@ FONTE DE INFORMAÇÃO: http://fmstream.org/index.php?c=G&o=top  -  https://www.r
 
 Rádios de Portugal por distrito - https://pt.wikipedia.org/wiki/Lista_de_r%C3%A1dios_de_Portugal
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 03/03/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 24/03/2023[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
@@ -257,8 +257,7 @@ https://nl.digitalrm.pt:8014/stream
 http://centova.radio.com.pt:8441/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO SINGA FM[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radio.com.pt:8487/;
-#EXTINF:-1,[COLOR=white][B]RÁDIO H[/B][/COLOR][COLOR=white][/COLOR]
-https://sp0.redeaudio.com:10969/;
+
 
 ######################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  DISTRITO: BRAGA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -683,8 +682,6 @@ http://centova.radio.com.pt:9430/;
 http://centova.radios.pt:8465/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO DOURO NACIONAL[/B][/COLOR][COLOR=white][/COLOR]
 http://95.217.75.38:9796/;
-#EXTINF:-1,[COLOR=white][B]RÁDIO LAFÕES[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:9564/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO LIMITE[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radio.com.pt:9408/;
 #EXTINF:-1,[COLOR=white][B]JORNAL DO CENTRO[/B][/COLOR][COLOR=white][/COLOR]
@@ -695,8 +692,7 @@ https://nl.digitalrm.pt:8116/stream
 http://109.71.41.6:8110/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO UNIVERSIDADE NELAS[/B][/COLOR][COLOR=white][/COLOR]
 https://sp0.redeaudio.com/8054/stream?1603106992356
-#EXTINF:-1,[COLOR=white][B]RÁDIO LAFÕES[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radios.pt:9564/;
+
 
 
 ######################################################################################################################################
