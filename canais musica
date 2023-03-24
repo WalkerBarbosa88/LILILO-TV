@@ -4,7 +4,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 17/03/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 24/03/2023[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -68,7 +68,7 @@ https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uh
 #EXTINF:-1,[COLOR=white][B]KRONEHITS FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]POWERHD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]POWERHD (OFFLINE)[/B][/COLOR][COLOR=white][/COLOR]
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]POWER+ HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -84,9 +84,6 @@ http://hz1.teleport.cc/HLS/SD.m3u8
 
 #EXTINF:-1,[COLOR=white][B]NRG 91[/B][/COLOR][COLOR=white][/COLOR]
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
-
-#EXTINF:-1,[COLOR=white][B]XITE TV[/B][/COLOR][COLOR=white][/COLOR]
-https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]EUROPA PLUS TV[/B][/COLOR][COLOR=white][/COLOR]
 http://78.25.155.47:1309/channel/Evropa_plus.ts
@@ -267,7 +264,7 @@ http://58f12ffd2447a.streamlock.net:1935/KKMulti/livestream/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]HIT FM TV[/B][/COLOR][COLOR=white][/COLOR]
 http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]POWERTURK HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]POWERTURK HD (OFFLINE)[/B][/COLOR][COLOR=white][/COLOR]
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]RU TV HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -305,9 +302,6 @@ http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/chunklist_w256350
 #EXTINF:-1,[COLOR=white][B]BRASA MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
 http://live.salto.nl/hls/sotv1_high.m3u8
 
-#EXTINF:-1,[COLOR=white][B]BEST CABLE MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
-https://ca2.inka.net.pe/bestcablemusic/index.m3u8
-
 #EXTINF:-1,[COLOR=white][B]URBANO TV[/B][/COLOR][COLOR=white][/COLOR]
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8?PlaylistM3UCL
 
@@ -336,9 +330,6 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,[COLOR=white][B]CLASSIC HITS[/B][/COLOR][COLOR=white][/COLOR]
 http://168.205.87.198:8555/live/1431/123456/27.ts
-
-#EXTINF:-1,[COLOR=white][B]RADIOTECA TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://paneltv.net:3908/live/txtkignslive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,[COLOR=white][B]OLDIES HITS TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3UCL
@@ -596,7 +587,7 @@ https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c
 
 
 ######################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 17/03/2023 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 24/03/2023 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
@@ -649,8 +640,6 @@ http://www.sonus.fm:1935/public/stream_720p/chunklist_w514335426.m3u8
 http://lova.me/hls/hit.m3u8
 #EXTINF:0 tvg-id="TVM3.ch" group-title="Channels",[COLOR=white][B]TVM3[/B][/COLOR][COLOR=white][/COLOR]
 https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]XITE NL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]XITE HD DE[/B][/COLOR][COLOR=white][/COLOR]
 https://xite-samsung-de.amagi.tv/playlist.m3u8
 
