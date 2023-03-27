@@ -390,9 +390,9 @@ http://swdtv.me:8080/live/intertvla3232/Jd1hxw4zeZ/7600.ts
 #EXTINF:0 tvg-id="ext" group-title="Nacionais",PT: ID INVESTIGATION DISCOVERY
 http://swdtv.me:8080/live/intertvla3232/Jd1hxw4zeZ/7607.ts
 
-#EXTINF:0 tvg-id="ext" group-title="Nacionais",PT: Kuriakos TV SD
+#EXTINF:0 tvg-id="ext" group-title="Nacionais",PT: KURIAKOS TV SD
 http://swdtv.me:8080/live/intertvla3232/Jd1hxw4zeZ/7490.ts
-#EXTINF:0 tvg-id="ext" group-title="Nacionais",PT: Localvisao TV HD
+#EXTINF:0 tvg-id="ext" group-title="Nacionais",PT: LOCALVISÃO TV HD
 http://swdtv.me:8080/live/intertvla3232/Jd1hxw4zeZ/7489.ts
 #EXTINF:0 tvg-id="m6.pt" group-title="Nacionais",PT: M6
 http://swdtv.me:8080/live/intertvla3232/Jd1hxw4zeZ/7577.ts
@@ -405,9 +405,9 @@ http://swdtv.me:8080/live/intertvla3232/Jd1hxw4zeZ/228290.ts
 http://swdtv.me:8080/live/intertvla3232/Jd1hxw4zeZ/7693.ts
 #EXTINF:0 tvg-id="ext" group-title="Nacionais",PT: NATGEO FHD
 http://swdtv.me:8080/live/intertvla3232/Jd1hxw4zeZ/7602.ts
-#EXTINF:0 tvg-id="ext" group-title="Nacionais",PT: NATGEO Wild
+#EXTINF:0 tvg-id="ext" group-title="Nacionais",PT: NATGEO WILD
 http://swdtv.me:8080/live/intertvla3232/Jd1hxw4zeZ/7694.ts
-#EXTINF:0 tvg-id="ext" group-title="Nacionais",PT: NATGEO Wild FHD
+#EXTINF:0 tvg-id="ext" group-title="Nacionais",PT: NATGEO WILD FHD
 http://swdtv.me:8080/live/intertvla3232/Jd1hxw4zeZ/7604.ts
 #EXTINF:0 tvg-id="ext" group-title="Nacionais",PT: NETFLIX 24H
 http://swdtv.me:8080/live/intertvla3232/Jd1hxw4zeZ/228365.ts
@@ -415,7 +415,7 @@ http://swdtv.me:8080/live/intertvla3232/Jd1hxw4zeZ/228365.ts
 http://swdtv.me:8080/live/intertvla3232/Jd1hxw4zeZ/228320.ts
 #EXTINF:0 tvg-id="NickJr.pt" group-title="Nacionais",PT: NICK JUNIOR
 http://swdtv.me:8080/live/intertvla3232/Jd1hxw4zeZ/7657.ts
-#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Nacionais",PT: Nickelodeon
+#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Nacionais",PT: NICKELODEON
 http://swdtv.me:8080/live/intertvla3232/Jd1hxw4zeZ/7654.ts
 #EXTINF:0 tvg-id="odisseia.pt" group-title="Nacionais",PT: ODISSEIA
 http://swdtv.me:8080/live/intertvla3232/Jd1hxw4zeZ/7597.ts
@@ -685,77 +685,75 @@ http://87.103.45.194:9981/stream/channelid/2140479734?ticket=F379BC1B62CF892C875
 http://87.103.45.194:9981/stream/channelid/813626856?ticket=DC706446B790663B538DCBCA1CB83A4B4F254BDE&profile=pass
 #EXTINF:0 tvg-id="ext" group-title="Channels",AMC BREAK
 http://87.103.45.194:9981/stream/channelid/1093756928?ticket=111C540C25CF34E8D87680F84DC48E8F48DBA304&profile=pass
-#EXTINF:0 tvg-id="nationalgeographic.pt" group-title="Channels",National Geographic HD
+#EXTINF:0 tvg-id="nationalgeographic.pt" group-title="Channels",NATIONAL GEOGRAPHIC HD
 http://87.103.45.194:9981/stream/channelid/156583907?ticket=57A0675A707002179CB33334C6D413AA4BA885AB&profile=pass
-#EXTINF:0 tvg-id="NatGeoWild.pt" group-title="Channels",National Geographic WILD
+#EXTINF:0 tvg-id="NatGeoWild.pt" group-title="Channels",NATIONAL GEOGRAPHIC WILD
 http://87.103.45.194:9981/stream/channelid/729628937?ticket=DB218C1BE78ED103318F58A3A88BCA62796934A0&profile=pass
-#EXTINF:0 tvg-id="TravelChannel.pt" group-title="Channels",Travel Channel
+#EXTINF:0 tvg-id="TravelChannel.pt" group-title="Channels",TRAVEL CHANNEL
 http://87.103.45.194:9981/stream/channelid/1829737252?ticket=505617B7D6AE6F490CB7B9436FB76F5174591BAE&profile=pass
-#EXTINF:0 tvg-id="CasaCozinha.pt" group-title="Channels",Casa e Cozinha
+#EXTINF:0 tvg-id="CasaCozinha.pt" group-title="Channels",CASA & COZINHA
 http://87.103.45.194:9981/stream/channelid/20150844?ticket=74860AD7C7228EF8D487501E6B54946903074C9F&profile=pass
-#EXTINF:0 tvg-id="24Kitchen.pt" group-title="Channels",24 Kitchen HD
+#EXTINF:0 tvg-id="24Kitchen.pt" group-title="Channels",24 KITCHEN HD
 http://87.103.45.194:9981/stream/channelid/1073267439?ticket=264A12C168C079F3D0E523ED5F95566A5E0CFDBC&profile=pass
-#EXTINF:0 tvg-id="Eurosport1.pt" group-title="Channels",Eurosport 1
+#EXTINF:0 tvg-id="Eurosport1.pt" group-title="Channels",EUROSPORT 1
 http://87.103.45.194:9981/stream/channelid/1006723291?ticket=D572B917CDCF7BD72B65E0F5F1EC10BA7D7DBBF5&profile=pass
-#EXTINF:0 tvg-id="Eurosport2.pt" group-title="Channels",Eurosport 2
-http://87.103.45.194:9981/stream/channelid/1531619696?ticket=87C5F745A7E32B9369309CB9F7396EC5DCF7B5EE&profile=pass
-#EXTINF:0 tvg-id="Eurosport1.pt" group-title="Channels",Eurosport 1 HD
+#EXTINF:0 tvg-id="Eurosport1.pt" group-title="Channels",EUROSPORT 1 HD
 http://87.103.45.194:9981/stream/channelid/1355370231?ticket=7B865FBBA5B0CAC864E0CE1F185F7416C0092088&profile=pass
-#EXTINF:0 tvg-id="TorosTV.pt" group-title="Channels",Toros TV
+#EXTINF:0 tvg-id="Eurosport2.pt" group-title="Channels",EUROSPORT 2
+http://87.103.45.194:9981/stream/channelid/1531619696?ticket=87C5F745A7E32B9369309CB9F7396EC5DCF7B5EE&profile=pass
+
+#EXTINF:0 tvg-id="TorosTV.pt" group-title="Channels",TOROS TV
 http://87.103.45.194:9981/stream/channelid/503814656?ticket=E28138CF9B90F6E55C54397CCBCB565FC8A85ECB&profile=pass
-#EXTINF:0 tvg-id="cazaepesca.pt" group-title="Channels",Caça e Pesca
+#EXTINF:0 tvg-id="cazaepesca.pt" group-title="Channels",CAÇA & PESCA
 http://87.103.45.194:9981/stream/channelid/344478969?ticket=7B692D84A1B71E77F89F9CDACC6FC756E3FE84B5&profile=pass
-#EXTINF:0 tvg-id="TraceToca.pt" group-title="Channels",Trace Toca
+#EXTINF:0 tvg-id="TraceToca.pt" group-title="Channels",TRACE TOCA 
 http://87.103.45.194:9981/stream/channelid/1276168598?ticket=5749CDFA843C847958FE87538AD6A55AD6CB754C&profile=pass
-#EXTINF:0 tvg-id="mtvportugal.pt" group-title="Channels",MTV Portugal
+#EXTINF:0 tvg-id="mtvportugal.pt" group-title="Channels",MTV PORTUGAL
 http://87.103.45.194:9981/stream/channelid/1260474342?ticket=EE55AA5332BAE8FE27686D6EB4140A17CA28963E&profile=pass
-#EXTINF:0 tvg-id="MTV00s.eu" group-title="Channels",MTV 00s
+#EXTINF:0 tvg-id="MTV00s.eu" group-title="Channels",MTV 00´S
 http://87.103.45.194:9981/stream/channelid/849007744?ticket=214003AB8ADA64D9275891FAE089E58FECF0BF79&profile=pass
 #EXTINF:0 tvg-id="MCMPop.pt" group-title="Channels",MCM POP
 http://87.103.45.194:9981/stream/channelid/80167554?ticket=40C04C7E905BDB73D9351D6FFD27B3969729361E&profile=pass
-#EXTINF:0 tvg-id="mezzo.pt" group-title="Channels",Mezzo
+#EXTINF:0 tvg-id="mezzo.pt" group-title="Channels",MEZZO
 http://87.103.45.194:9981/stream/channelid/1061509658?ticket=40B257FC51E0120010612C79B51F7AC14F30CD74&profile=pass
-#EXTINF:0 tvg-id="tvrecord.pt" group-title="Channels",TV Record
+#EXTINF:0 tvg-id="tvrecord.pt" group-title="Channels",TV RECORD
 http://87.103.45.194:9981/stream/channelid/1387930703?ticket=252DB5F23A9DF37059E860CA55D100CCC17565CA&profile=pass
-#EXTINF:0 tvg-id="ext" group-title="Channels",TSA-Record TV HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",TSA-RECORD TV HD
 http://87.103.45.194:9981/stream/channelid/144696099?ticket=4AE34E78C5A25165DD17D2349B25D8FD7F907570&profile=pass
-#EXTINF:0 tvg-id="ext" group-title="Channels",TSA-Record News
+#EXTINF:0 tvg-id="ext" group-title="Channels",TSA-RECORD NEWS
 http://87.103.45.194:9981/stream/channelid/782387889?ticket=AC19DC515437007FA3CF9A0D2828F03331B9CC9C&profile=pass
-#EXTINF:0 tvg-id="ext" group-title="Channels",Kuriakos TV HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",KURIAKOS TV HD
 http://87.103.45.194:9981/stream/channelid/804888124?ticket=2B14B6C794D7EDBC1EC2B3E2F5EC523F33C851FD&profile=pass
-#EXTINF:0 tvg-id="CANCAONOVA.pt" group-title="Channels",Canção Nova
+#EXTINF:0 tvg-id="CANCAONOVA.pt" group-title="Channels",CANÇÃO NOVA
 http://87.103.45.194:9981/stream/channelid/622915288?ticket=268069E30060BA43752D8AB2FE9024CC1A77ACB7&profile=pass
-#EXTINF:0 tvg-id="zapvivahd.pt" group-title="Channels",ZAP Viva HD
+#EXTINF:0 tvg-id="zapvivahd.pt" group-title="Channels",ZAP VIVA HD
 http://87.103.45.194:9981/stream/channelid/1194971929?ticket=509F583FE3979AD35D2151C52DF027AEB597AD41&profile=pass
-#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Channels",RTP África
+#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Channels",RTP ÁFRICA
 http://87.103.45.194:9981/stream/channelid/1713657302?ticket=D677BD423E2A900B62F8D2D1DA8E4523D2B7EA35&profile=pass
-#EXTINF:0 tvg-id="Euronews.pt" group-title="Channels",Euronews
+#EXTINF:0 tvg-id="Euronews.pt" group-title="Channels",EURONEWS
 http://87.103.45.194:9981/stream/channelid/1391450481?ticket=69A28E79DAE83B62A7AA90361678FAE81FE56EB0&profile=pass
 #EXTINF:0 tvg-id="CNNPortugal.pt" group-title="Channels",CNN
 http://87.103.45.194:9981/stream/channelid/1168591080?ticket=E212F385AB1BD226131A683FB2911FF38BA80F7E&profile=pass
-#EXTINF:0 tvg-id="SkyNews.uk" group-title="Channels",Sky News
+#EXTINF:0 tvg-id="SkyNews.uk" group-title="Channels",SKY NEWS
 http://87.103.45.194:9981/stream/channelid/810550914?ticket=AD0CDB80BE6E743F259AF48EB99C05BCEB48FF11&profile=pass
-#EXTINF:0 tvg-id="Telesur.es" group-title="Channels",Telesur HD
+#EXTINF:0 tvg-id="Telesur.es" group-title="Channels",TELESUR HD
 http://87.103.45.194:9981/stream/channelid/339389598?ticket=637B2EC78407332E74F172426FF763D6FC820754&profile=pass
 #EXTINF:0 tvg-id="Cubavision.es" group-title="Channels",CUBAVISION INTERNACIONAL
 http://87.103.45.194:9981/stream/channelid/1729663899?ticket=35A7B412594CC51E9BF89AF8A9060D6364DB11F9&profile=pass
-#EXTINF:0 tvg-id="France24.fr" group-title="Channels",France 24 (I)
+#EXTINF:0 tvg-id="France24.fr" group-title="Channels",FRANCE 24 (I)
 http://87.103.45.194:9981/stream/channelid/1534338643?ticket=E8416AB5DCCC39AE8B0C1BD3E5E5477C0B6F354D&profile=pass
 #EXTINF:0 tvg-id="CNBC.nws" group-title="Channels",CNBC
 http://87.103.45.194:9981/stream/channelid/740878043?ticket=CBEB3DCABEF3F36EFF32F101CEDBEF6DA855F802&profile=pass
-#EXTINF:0 tvg-id="Bloomberg.nws" group-title="Channels",Bloomberg
+#EXTINF:0 tvg-id="Bloomberg.nws" group-title="Channels",BLOOMBERG
 http://87.103.45.194:9981/stream/channelid/1172310927?ticket=5111F886536C28DA09FC1B5B9EC4545614C766FC&profile=pass
 #EXTINF:0 tvg-id="TVE24h.pt" group-title="Channels",TVE 24h
 http://87.103.45.194:9981/stream/channelid/944952137?ticket=83F7835909E7F46A1A7D8220F4F9863B230CEB3D&profile=pass
-#EXTINF:0 tvg-id="ARTV.pt" group-title="Channels",ARTV
-http://87.103.45.194:9981/stream/channelid/1628386327?ticket=C5067CE8E345E1D8F23484733F48697B0FF50F0D&profile=pass
-#EXTINF:0 tvg-id="ext" group-title="Channels",Parlamento
-http://87.103.45.194:9981/stream/channelid/137680813?ticket=F730D490F3282053C0A21151EF2B50612CA2A644&profile=pass
-#EXTINF:0 tvg-id="TVE24h.pt" group-title="Channels",TVE Internacional
+
+#EXTINF:0 tvg-id="TVE24h.pt" group-title="Channels",TVE INTER.
 http://87.103.45.194:9981/stream/channelid/1197576690?ticket=A9801A794ABEF37C0DA72E32CB9C2D1F1DFC66B3&profile=pass
-#EXTINF:0 tvg-id="TVGalicia.pt" group-title="Channels",TV Galicia
+#EXTINF:0 tvg-id="TVGalicia.pt" group-title="Channels",TV GALÍCIA
 http://87.103.45.194:9981/stream/channelid/1801222805?ticket=627F7C40FD18221DE597C76D761735C8A4249771&profile=pass
-#EXTINF:0 tvg-id="tv5monde" group-title="Channels",TV5 Monde
+#EXTINF:0 tvg-id="tv5monde" group-title="Channels",TV5 MONDE
 http://87.103.45.194:9981/stream/channelid/1622278335?ticket=CBB780C3CB034EC239DC976CA36868AD3EAA5DCB&profile=pass
 
 #EXTINF:0 tvg-id="rtp1.pt" group-title="Channels",RTP1
@@ -766,37 +764,37 @@ http://87.103.45.194:9981/stream/channelid/390123908?ticket=D5B5EC0032A9133CA4D8
 http://87.103.45.194:9981/stream/channelid/380090230?ticket=FA31BFAA0ADF083F8D64924474F01826886FD03C&profile=pass
 #EXTINF:0 tvg-id="TVI.pt" group-title="Channels",TVI
 http://87.103.45.194:9981/stream/channelid/2015092175?ticket=F7CB36EFE5E80D73B6F898FC88A224A2B47E679B&profile=pass
-#EXTINF:0 tvg-id="sicnoticias.pt" group-title="Channels",SIC Notícias
+#EXTINF:0 tvg-id="sicnoticias.pt" group-title="Channels",SIC NOTÍCIAS
 http://87.103.45.194:9981/stream/channelid/2139397528?ticket=2358DC3FCDB581DAEFD96CB7EE514CC62BA61BE5&profile=pass
-#EXTINF:0 tvg-id="SicCaras.pt" group-title="Channels",SIC Caras
+#EXTINF:0 tvg-id="SicCaras.pt" group-title="Channels",SIC CARAS
 http://87.103.45.194:9981/stream/channelid/386970155?ticket=D741C8ED819FB09CEB3703D79269CB9A90AC1653&profile=pass
 #EXTINF:0 tvg-id="ext" group-title="Channels",RTP3
 http://87.103.45.194:9981/stream/channelid/2041409136?ticket=F3389EFCDF8FF2DDBBBD69E615E16AF1A96C10A6&profile=pass
-#EXTINF:0 tvg-id="TVI24.pt" group-title="Channels",CNN Portugal
+#EXTINF:0 tvg-id="TVI24.pt" group-title="Channels",CNN PORTUGAL
 http://87.103.45.194:9981/stream/channelid/435876843?ticket=44F31EFD57E5B2AA9F74D7975E9563939739B133&profile=pass
 #EXTINF:0 tvg-id="CMTV.pt" group-title="Channels",CMTV
 http://87.103.45.194:9981/stream/channelid/1123328989?ticket=05153C8A471ED3225B535B267F0771FB0A784F75&profile=pass
-#EXTINF:0 tvg-id="sicmulher.pt" group-title="Channels",SIC Mulher
+#EXTINF:0 tvg-id="sicmulher.pt" group-title="Channels",SIC MULHER
 http://87.103.45.194:9981/stream/channelid/1960396324?ticket=05FD2890FDA3C3FB360716C570DDEDD2334F8A1E&profile=pass
-#EXTINF:0 tvg-id="ext" group-title="Channels",11
+#EXTINF:0 tvg-id="ext" group-title="Channels",CANAL 11
 http://87.103.45.194:9981/stream/channelid/852604514?ticket=99ACB6A75C5B3DA773FA96620FCFB098434B0BF3&profile=pass
-#EXTINF:0 tvg-id="TVIFiccao.pt" group-title="Channels",TVI Ficção
+#EXTINF:0 tvg-id="TVIFiccao.pt" group-title="Channels",TVI FICÇÃO
 http://87.103.45.194:9981/stream/channelid/1948438747?ticket=E290067D1427808B416ED015A061128C40F25A6A&profile=pass
-#EXTINF:0 tvg-id="TVIReal.pt" group-title="Channels",TVI Reality
+#EXTINF:0 tvg-id="TVIReal.pt" group-title="Channels",TVI REALITY
 http://87.103.45.194:9981/stream/channelid/1013448907?ticket=450423C644D6C4CFED6A85AB675D8FE24C5751F2&profile=pass
-#EXTINF:0 tvg-id="ABolaTV.pt" group-title="Channels",A Bola TV
+#EXTINF:0 tvg-id="ABolaTV.pt" group-title="Channels",A BOLA TV
 http://87.103.45.194:9981/stream/channelid/938965677?ticket=9B8F5A06E5BE57013FDE88EE183D3EA1E04C64FA&profile=pass
-#EXTINF:0 tvg-id="PortoCanal.pt" group-title="Channels",Porto Canal
+#EXTINF:0 tvg-id="PortoCanal.pt" group-title="Channels",PORTO CANAL 
 http://87.103.45.194:9981/stream/channelid/615028824?ticket=54A3E812F023D32630ECEA3FE01DF04A1062F2A0&profile=pass
-#EXTINF:0 tvg-id="sicradical.pt" group-title="Channels",SIC Radical
+#EXTINF:0 tvg-id="sicradical.pt" group-title="Channels",SIC RADICAL
 http://87.103.45.194:9981/stream/channelid/171898961?ticket=1D61219C1B9CB99E109D8B566071E305554413D3&profile=pass
-#EXTINF:0 tvg-id="CanalQ.pt" group-title="Channels",Canal Q
+#EXTINF:0 tvg-id="CanalQ.pt" group-title="Channels",CANAL Q
 http://87.103.45.194:9981/stream/channelid/1299092235?ticket=88B7A88851BF5B37335ED7F1D137F1F7A83E226F&profile=pass
-#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Channels",RTP Memória
+#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Channels",RTP MEMÓRIA
 http://87.103.45.194:9981/stream/channelid/63945584?ticket=A1F108E5B2A7E39A2FB6F8071F3A8621B7C80D57&profile=pass
-#EXTINF:0 tvg-id="RTPAcores.pt" group-title="Channels",RTP Açores
+#EXTINF:0 tvg-id="RTPAcores.pt" group-title="Channels",RTP AÇORES
 http://87.103.45.194:9981/stream/channelid/528795499?ticket=53E99DF96A4FC4E10211AE78E01BB0EB690F5E44&profile=pass
-#EXTINF:0 tvg-id="RTPMadeira.pt" group-title="Channels",RTP Madeira
+#EXTINF:0 tvg-id="RTPMadeira.pt" group-title="Channels",RTP MADEIRA
 http://87.103.45.194:9981/stream/channelid/129239398?ticket=E8EA5C97A6137878B4A9186F700146044D447C6A&profile=pass
 #EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",SPORT TV +
 http://87.103.45.194:9981/stream/channelid/563536023?ticket=79EE861EAE9ADEFE94AB0669A1E186C6E5D6E1D3&profile=pass
@@ -814,163 +812,146 @@ http://87.103.45.194:9981/stream/channelid/233122621?ticket=4BA8C57BBFF9CD41423C
 http://87.103.45.194:9981/stream/channelid/421374150?ticket=A06924B09279EA56986122F7284FCC5C9D354736&profile=pass
 #EXTINF:0 tvg-id="NBA.blt" group-title="Channels",NBA TV HD
 http://87.103.45.194:9981/stream/channelid/2017872507?ticket=588C196355E902288FE46F1478D259FBA18A36E2&profile=pass
-#EXTINF:0 tvg-id="ext" group-title="Channels",Eleven 1 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 1 HD
 http://87.103.45.194:9981/stream/channelid/253859144?ticket=ACB899EED494CE2D52D7BF2221E50C45F7795118&profile=pass
-#EXTINF:0 tvg-id="ext" group-title="Channels",Eleven 2 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 2 HD
 http://87.103.45.194:9981/stream/channelid/182136093?ticket=E4290EC4BDE75FDE3B092AE3E2A66AE02904143E&profile=pass
-#EXTINF:0 tvg-id="ext" group-title="Channels",Eleven 3
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 3
 http://87.103.45.194:9981/stream/channelid/543537774?ticket=C18C60A6569E988C13772FC2D2388FCF11C573D8&profile=pass
-#EXTINF:0 tvg-id="ext" group-title="Channels",Eleven 4
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 4
 http://87.103.45.194:9981/stream/channelid/438832077?ticket=8DCE41D534A775FAEB80B18704D2273471272913&profile=pass
-#EXTINF:0 tvg-id="ext" group-title="Channels",Eleven 5
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 5
 http://87.103.45.194:9981/stream/channelid/338943730?ticket=310D8611FC6992C2560C7D8B6B301E4126F483B4&profile=pass
-#EXTINF:0 tvg-id="ext" group-title="Channels",Eleven 6
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 6
 http://87.103.45.194:9981/stream/channelid/307497659?ticket=D06AD107DC75691706056A8C84429ABDD3BE1904&profile=pass
 #EXTINF:0 tvg-id="baltijos-lt" group-title="Channels",BTV HD
 http://87.103.45.194:9981/stream/channelid/23667880?ticket=0E5E3BBB204E593EE65B1DAA3B98E5629B9A89B8&profile=pass
-#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",Sporting TV
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",SPORTING TV
 http://87.103.45.194:9981/stream/channelid/1714832337?ticket=A99C807E53605B8A2547BABE9F5952ADA68B6E8B&profile=pass
-#EXTINF:0 tvg-id="Eurosport1.pt" group-title="Channels",Eurosport 1 HD
+#EXTINF:0 tvg-id="Eurosport1.pt" group-title="Channels",EUROSPORT 1 HD
 http://87.103.45.194:9981/stream/channelid/1573078553?ticket=6A313A0C3CF1E25CB4CF436FC4A5EA52601F966E&profile=pass
-#EXTINF:0 tvg-id="Eurosport1.pt" group-title="Channels",Eurosport 1
+#EXTINF:0 tvg-id="Eurosport1.pt" group-title="Channels",EUROSPORT 1
 http://87.103.45.194:9981/stream/channelid/772396630?ticket=BE65FEA00FC786A35972B31DA9DE02E42311FB3E&profile=pass
-#EXTINF:0 tvg-id="Eurosport2.pt" group-title="Channels",Eurosport 2
+#EXTINF:0 tvg-id="Eurosport2.pt" group-title="Channels",EUROSPORT 2
 http://87.103.45.194:9981/stream/channelid/1689411281?ticket=C893A77391CCCAB31E70043F7C954EBFE7BA0255&profile=pass
-#EXTINF:0 tvg-id="disneychannel.pt" group-title="Channels",Disney Channel
+#EXTINF:0 tvg-id="disneychannel.pt" group-title="Channels",DISNEY CHANNEL
 http://87.103.45.194:9981/stream/channelid/1361035129?ticket=9829F73977898E7E476741AC036F7029E6AE8046&profile=pass
 #EXTINF:0 tvg-id="SicK.pt" group-title="Channels",SIC K
 http://87.103.45.194:9981/stream/channelid/557830337?ticket=71957A1D5CEAAFAC3D17794D911EDB59C3C84BF8&profile=pass
-#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Channels",Biggs
+#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Channels",BIGGS
 http://87.103.45.194:9981/stream/channelid/1804298052?ticket=010D22B3D4429A1CE8633339EBBF921C72340C6E&profile=pass
-#EXTINF:0 tvg-id="canalpanda.pt" group-title="Channels",Canal Panda
+#EXTINF:0 tvg-id="canalpanda.pt" group-title="Channels",CANAL PANDA
 http://87.103.45.194:9981/stream/channelid/1935970353?ticket=2B919F429B82EA92369A32E49E7E84CE8AC01D59&profile=pass
-#EXTINF:0 tvg-id="DisneyJunior.pt" group-title="Channels",Disney Júnior
+#EXTINF:0 tvg-id="DisneyJunior.pt" group-title="Channels",DISNEY JUNIOR
 http://87.103.45.194:9981/stream/channelid/1044199454?ticket=4B876FFA79891A60BC215A4D04265D796C81E51A&profile=pass
-#EXTINF:0 tvg-id="BabyTV.pt" group-title="Channels",Baby TV
+#EXTINF:0 tvg-id="BabyTV.pt" group-title="Channels",BABY TV
 http://87.103.45.194:9981/stream/channelid/1581692884?ticket=7386097DE80977D8DA6C16996951BB949B1E3E3D&profile=pass
-#EXTINF:0 tvg-id="LollyKids.pt" group-title="Channels",Lolly Kids
+#EXTINF:0 tvg-id="LollyKids.pt" group-title="Channels",LOLLY KIDS
 http://87.103.45.194:9981/stream/channelid/1531910606?ticket=D4D5ED93926C6FB57A4B8283502248CDB0DDA0CC&profile=pass
-#EXTINF:0 tvg-id="Cartoonito.uk" group-title="Channels",Cartoonito
+#EXTINF:0 tvg-id="Cartoonito.uk" group-title="Channels",CARTOONITO
 http://87.103.45.194:9981/stream/channelid/1098748034?ticket=D413D826BD83CFA2EE867D7CA7A2EF08AE6B8CE7&profile=pass
-#EXTINF:0 tvg-id="cartoon.pt" group-title="Channels",Cartoon Network
+#EXTINF:0 tvg-id="cartoon.pt" group-title="Channels",CARTOON NETWORK
 http://87.103.45.194:9981/stream/channelid/485349128?ticket=94BD9D7F3B4B4C251E0D5FB652D1353B57D30120&profile=pass
-#EXTINF:0 tvg-id="TVCineTOP.pt" group-title="Channels",TVCine TOP HD
+#EXTINF:0 tvg-id="TVCineTOP.pt" group-title="Channels",TVCINE TOP HD
 http://87.103.45.194:9981/stream/channelid/629473758?ticket=FFAC307FECAD782FF04D686FB99F5D80BE8EFD82&profile=pass
-#EXTINF:0 tvg-id="TVCineEDITION.pt" group-title="Channels",TVCine EDITION HD
+#EXTINF:0 tvg-id="TVCineEDITION.pt" group-title="Channels",TVCINE EDITION HD
 http://87.103.45.194:9981/stream/channelid/625441127?ticket=95B562FACBF67699C9B8D8373F2F8D3ED2CD3973&profile=pass
-#EXTINF:0 tvg-id="TVCineEMOTION.pt" group-title="Channels",TVCine EMOTION HD
+#EXTINF:0 tvg-id="TVCineEMOTION.pt" group-title="Channels",TVCINE EMOTION HD
 http://87.103.45.194:9981/stream/channelid/1960859975?ticket=A43DE62D3ECA230268832DBF94EEB24EEB0CD558&profile=pass
-#EXTINF:0 tvg-id="TVCineACTION.pt" group-title="Channels",TVCine ACTION HD
+#EXTINF:0 tvg-id="TVCineACTION.pt" group-title="Channels",TVCINE ACTION HD
 http://87.103.45.194:9981/stream/channelid/674590858?ticket=9036838D24A83069A918E2035BDD39421F257C96&profile=pass
-#EXTINF:0 tvg-id="Cinemundo.pt" group-title="Channels",Cinemundo
+#EXTINF:0 tvg-id="Cinemundo.pt" group-title="Channels",CINEMUNDO
 http://87.103.45.194:9981/stream/channelid/1268739904?ticket=BC98F28E3FF1F07267E7B046EAAC6AE63B52D68C&profile=pass
-#EXTINF:0 tvg-id="hollywood.pt" group-title="Channels",Hollywood HD
+#EXTINF:0 tvg-id="hollywood.pt" group-title="Channels",HOLLYWOOD HD
 http://87.103.45.194:9981/stream/channelid/196844055?ticket=CCDDE07C87F90B2280D9300A490A45E1472F79F9&profile=pass
-#EXTINF:0 tvg-id="ext" group-title="Channels",NOS Studios HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",NOS STUDIOS HD
 http://87.103.45.194:9981/stream/channelid/1630784864?ticket=DB6E71A1087C5CF2033B954F7F84630AB6BC1CD1&profile=pass
-#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",FOX Movies
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",FOX MOVIES
 http://87.103.45.194:9981/stream/channelid/1460221556?ticket=BA69411A8EC254AC8C4B257910B8A4B8CE88AE2D&profile=pass
 #EXTINF:0 tvg-id="AMC.pt" group-title="Channels",AMC HD
 http://87.103.45.194:9981/stream/channelid/2082586686?ticket=67A1412BA621458DF51B5CB3E82E3BA2F1C26E08&profile=pass
 #EXTINF:0 tvg-id="fox.pt" group-title="Channels",FOX HD
 http://87.103.45.194:9981/stream/channelid/276431911?ticket=5DF7B71BD02BCDE378F6980A5A330D2252FC39EC&profile=pass
-#EXTINF:0 tvg-id="foxlife.pt" group-title="Channels",FOX Life HD
+#EXTINF:0 tvg-id="foxlife.pt" group-title="Channels",FOX LIFE HD
 http://87.103.45.194:9981/stream/channelid/653972008?ticket=70D7A79EF2BB197E870CD645771196D1F9498437&profile=pass
-#EXTINF:0 tvg-id="foxcrime.pt" group-title="Channels",FOX Crime HD
+#EXTINF:0 tvg-id="foxcrime.pt" group-title="Channels",FOX CRIME HD
 http://87.103.45.194:9981/stream/channelid/1264069409?ticket=23F4C7A1053FB223FEFC92139FFA16E9A82AC20B&profile=pass
-#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",Fox Comedy
+#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",FOX COMEDY
 http://87.103.45.194:9981/stream/channelid/1484125155?ticket=9BB8CA5FBE8B07423CD0EC0986346DB98AAE0F2D&profile=pass
 #EXTINF:0 tvg-id="axn.pt" group-title="Channels",AXN HD
 http://87.103.45.194:9981/stream/channelid/918318373?ticket=30D6E35FA8C7DECDF37AD3D225E16F3E094ED525&profile=pass
 #EXTINF:0 tvg-id="AXNMovies.pt" group-title="Channels",AXN Movies HD
 http://87.103.45.194:9981/stream/channelid/396602609?ticket=987320B619D1E1269B586DCBE7790A7C01ACB90D&profile=pass
-#EXTINF:0 tvg-id="AXNWhite.pt" group-title="Channels",AXN White HD
+#EXTINF:0 tvg-id="AXNWhite.pt" group-title="Channels",AXN WHITE HD
 http://87.103.45.194:9981/stream/channelid/619306590?ticket=8FF7CDDCE143EA026A196F3B0E3A091949C9932B&profile=pass
-#EXTINF:0 tvg-id="SyFy.pt" group-title="Channels",SyFy
+#EXTINF:0 tvg-id="SyFy.pt" group-title="Channels",SYFY
 http://87.103.45.194:9981/stream/channelid/380045612?ticket=2B6B02F0991186C6FDCF4A6EDEA1A949EF0B66B1&profile=pass
-#EXTINF:0 tvg-id="BBCentertainment.pt" group-title="Channels",BBC Entertainment
+#EXTINF:0 tvg-id="BBCentertainment.pt" group-title="Channels",BBC ENTERTAINMENT
 http://87.103.45.194:9981/stream/channelid/781873429?ticket=FE31B3B751EB113EAAA82FA6B6C901624D068DE9&profile=pass
-#EXTINF:0 tvg-id="eentertainment.pt" group-title="Channels",E! Entertainment
+#EXTINF:0 tvg-id="eentertainment.pt" group-title="Channels",E! ENTERTAINMENT
 http://87.103.45.194:9981/stream/channelid/363328905?ticket=FB35FF4386AD2793762B6DF8AB198FF7BF492A92&profile=pass
-#EXTINF:0 tvg-id="ext" group-title="Channels",AMC Break
+#EXTINF:0 tvg-id="ext" group-title="Channels",AMC BREAK
 http://87.103.45.194:9981/stream/channelid/716792151?ticket=AFB6EA821F234B157E7B3FBC4D220F9E4EC73712&profile=pass
 #EXTINF:0 tvg-id="TLC.pt" group-title="Channels",TLC
 http://87.103.45.194:9981/stream/channelid/1089594316?ticket=004D244EA04580F5B20402FB3FCE6FA4C5642A88&profile=pass
 #EXTINF:0 tvg-id="FTV.pt" group-title="Channels",FTV
 http://87.103.45.194:9981/stream/channelid/357926079?ticket=F87854BBD85F60CDFD6149AA41153137D7F9A81F&profile=pass
-#EXTINF:0 tvg-id="TravelChannel.pt" group-title="Channels",Travel Channel
+#EXTINF:0 tvg-id="TravelChannel.pt" group-title="Channels",TRAVEL CHANNEL
 http://87.103.45.194:9981/stream/channelid/508917145?ticket=5184949B4C6E64A7A8A8A507BAB40F7108FDEBB3&profile=pass
-#EXTINF:0 tvg-id="DISCOVERYHD.pt" group-title="Channels",Discovery Channel HD
+#EXTINF:0 tvg-id="DISCOVERYHD.pt" group-title="Channels",DISCOVERY CHANNEL HD
 http://87.103.45.194:9981/stream/channelid/440585376?ticket=A88FC092D50292CD7497C038BB8F57191E8DECC3&profile=pass
-#EXTINF:0 tvg-id="odisseia.pt" group-title="Channels",Odisseia
+#EXTINF:0 tvg-id="odisseia.pt" group-title="Channels",ODISSEIA
 http://87.103.45.194:9981/stream/channelid/122764112?ticket=30AA7D68D9E0C2D8DCD2CAB3B6C6795440AAFCB8&profile=pass
-#EXTINF:0 tvg-id="HistoryChannel.pt" group-title="Channels",História
+#EXTINF:0 tvg-id="HistoryChannel.pt" group-title="Channels",HISTÓRIA
 http://87.103.45.194:9981/stream/channelid/1118800677?ticket=52EB337A02EFDB6F870F7E338F0E5E9C0B89560E&profile=pass
-#EXTINF:0 tvg-id="nationalgeographic.pt" group-title="Channels",National Geographic HD
+#EXTINF:0 tvg-id="nationalgeographic.pt" group-title="Channels",NATIONAL GEOGRAPHIC HD
 http://87.103.45.194:9981/stream/channelid/649744537?ticket=0FCC08396DD25E3D7F22ACC1E90CF3FBF48173FF&profile=pass
-#EXTINF:0 tvg-id="NatGeoWild.pt" group-title="Channels",National Geographic Wild
+#EXTINF:0 tvg-id="NatGeoWild.pt" group-title="Channels",NATIONAL GEOGRAPHIC WILD
 http://87.103.45.194:9981/stream/channelid/502237098?ticket=6C87E28C985AD8B25B04E7E6E9BEAFB66AD1B445&profile=pass
-#EXTINF:0 tvg-id="AfroMusic.pt" group-title="Channels",Afro Music
+#EXTINF:0 tvg-id="AfroMusic.pt" group-title="Channels",AFRO MUSIC
 http://87.103.45.194:9981/stream/channelid/837214818?ticket=0590FE41A1E4ED1B4AC453697481D1A874B88C88&profile=pass
-#EXTINF:0 tvg-id="mtvportugal.pt" group-title="Channels",MTV Portugal
+#EXTINF:0 tvg-id="mtvportugal.pt" group-title="Channels",MTV PORTUGAL
 http://87.103.45.194:9981/stream/channelid/1901131742?ticket=8EAD44E1E7C83BA00E43CA2B8D56E7E27B801B12&profile=pass
-#EXTINF:0 tvg-id="MTV00s.eu" group-title="Channels",MTV 00s
+#EXTINF:0 tvg-id="MTV00s.eu" group-title="Channels",MTV 00´S
 http://87.103.45.194:9981/stream/channelid/300408218?ticket=E507C756477B7860E3E86F4C93D9D7C0F4427102&profile=pass
-#EXTINF:0 tvg-id="TraceTVUrban.pt" group-title="Channels",Trace Urban
+#EXTINF:0 tvg-id="TraceTVUrban.pt" group-title="Channels",TRACE URBAN
 http://87.103.45.194:9981/stream/channelid/912734998?ticket=900F7CCEC3332CC47265DA1B9EC1C34B1C4681FD&profile=pass
 #EXTINF:0 tvg-id="MCMPop.pt" group-title="Channels",MCM POP
 http://87.103.45.194:9981/stream/channelid/1835348526?ticket=C7DC4DFBC6CE0B456019CB9F4683415449F2DD81&profile=pass
-#EXTINF:0 tvg-id="mezzo.pt" group-title="Channels",Mezzo
+#EXTINF:0 tvg-id="mezzo.pt" group-title="Channels",MEZZO 
 http://87.103.45.194:9981/stream/channelid/2022321510?ticket=06F81903E9602B67A2CDFE50E9BFF13FFA3D0A9D&profile=pass
-#EXTINF:0 tvg-id="24Kitchen.pt" group-title="Channels",24 Kitchen HD
+#EXTINF:0 tvg-id="24Kitchen.pt" group-title="Channels",24 KITCHEN HD
 http://87.103.45.194:9981/stream/channelid/1601195436?ticket=A31AD16E3CD03A7243C72D5C592FF74F438E5828&profile=pass
-#EXTINF:0 tvg-id="TVGlobo.pt" group-title="Channels",Globo
+#EXTINF:0 tvg-id="TVGlobo.pt" group-title="Channels",GLOBO HD
 http://87.103.45.194:9981/stream/channelid/1977070188?ticket=E73F3CA412CFD5B2B91AE2FEF051FA40C32DBF1A&profile=pass
-#EXTINF:0 tvg-id="Channel1Russia.pt" group-title="Channels",Channel 1 Russia
-http://87.103.45.194:9981/stream/channelid/829433759?ticket=E1B4A37C721717B2CBDF7635680CF9F0CACF7093&profile=pass
-#EXTINF:0 tvg-id="PandaKIDS.pt" group-title="Channels",Panda Kids
+#EXTINF:0 tvg-id="PandaKIDS.pt" group-title="Channels",PANDA KIDS
 http://87.103.45.194:9981/stream/channelid/1204574010?ticket=57B2D2982B5463A40C7FB32A8E1A4331BB0CF4CB&profile=pass
-#EXTINF:0 tvg-id="CacaVision.pt" group-title="Channels",Caçavision
-http://87.103.45.194:9981/stream/channelid/2079436972?ticket=AE1DC3344900146CC64C2619A6C1CBA202E5755D&profile=pass
-#EXTINF:0 tvg-id="TorosTV.pt" group-title="Channels",Toros TV
-http://87.103.45.194:9981/stream/channelid/102643696?ticket=7268E58A7FA5443A4E7B8A885E94F19972B88B01&profile=pass
-#EXTINF:0 tvg-id="tvrecord.pt" group-title="Channels",TV Record
-http://87.103.45.194:9981/stream/channelid/1444848391?ticket=754F8A01F91B499AE26F03A65C0F9B083C2FD9DE&profile=pass
-#EXTINF:0 tvg-id="ext" group-title="Channels",TSA-Record TV HD
-http://87.103.45.194:9981/stream/channelid/1255217689?ticket=AF6B27CB51F8B74F16D9BF749549F2674F2D2A68&profile=pass
-#EXTINF:0 tvg-id="ext" group-title="Channels",TSA-Record News
-http://87.103.45.194:9981/stream/channelid/2118294690?ticket=DBD502DD7EC988C00BEF1AD47C7C5EDD878E2FE2&profile=pass
-#EXTINF:0 tvg-id="CANCAONOVA.pt" group-title="Channels",Canção Nova
+#EXTINF:0 tvg-id="CANCAONOVA.pt" group-title="Channels",CANÇÃO NOVA
 http://87.103.45.194:9981/stream/channelid/1224290510?ticket=224C611FD766137594E8F5D7B5E3859BDA417945&profile=pass
-#EXTINF:0 tvg-id="ext" group-title="Channels",Kuriakos TV HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",KURIAKOS TV HD
 http://87.103.45.194:9981/stream/channelid/1870965677?ticket=A02B5A8047DA7BF11B543B491FC48E73FD0A8701&profile=pass
-#EXTINF:0 tvg-id="Euronews.pt" group-title="Channels",Euronews
+#EXTINF:0 tvg-id="Euronews.pt" group-title="Channels",EURONEWS
 http://87.103.45.194:9981/stream/channelid/2124080396?ticket=2BC217A65D1BDB5194E93C0C82CFB88866D521CE&profile=pass
 #EXTINF:0 tvg-id="CNNPortugal.pt" group-title="Channels",CNN
 http://87.103.45.194:9981/stream/channelid/832108192?ticket=33F764FBC9DB9C6B316A5CCC6DBE775FE1B39B17&profile=pass
-#EXTINF:0 tvg-id="SkyNews.uk" group-title="Channels",SKY News
+#EXTINF:0 tvg-id="SkyNews.uk" group-title="Channels",SKY NEWS
 http://87.103.45.194:9981/stream/channelid/879385562?ticket=382759A05EB163F59626B200E645A2BFF9C81705&profile=pass
-#EXTINF:0 tvg-id="Nhk.br" group-title="Channels",NHK World Japan
-http://87.103.45.194:9981/stream/channelid/969510594?ticket=326E53AE009C1058FDF1C83C7AF544EEA70C7515&profile=pass
-#EXTINF:0 tvg-id="ext" group-title="Channels",Deutsche Welle (A)
-http://87.103.45.194:9981/stream/channelid/1498296353?ticket=A8683AF3E91F6AD24571CEBDFFF24C523C8ACFC4&profile=pass
-#EXTINF:0 tvg-id="CNBC.nws" group-title="Channels",CNBC Europe
+#EXTINF:0 tvg-id="CNBC.nws" group-title="Channels",CNBC EUROPE
 http://87.103.45.194:9981/stream/channelid/352206319?ticket=8107E54C00BA22B06FFBF3A794D163ADD0890028&profile=pass
-#EXTINF:0 tvg-id="Bloomberg.nws" group-title="Channels",Bloomberg
+#EXTINF:0 tvg-id="Bloomberg.nws" group-title="Channels",BLOOMBERG
 http://87.103.45.194:9981/stream/channelid/872825226?ticket=476B50F21AD01580E6DE20225B58A7DFD940D820&profile=pass
-#EXTINF:0 tvg-id="TVGalicia.pt" group-title="Channels",TV Galicia
+#EXTINF:0 tvg-id="TVGalicia.pt" group-title="Channels",TV GALÍCIA
 http://87.103.45.194:9981/stream/channelid/920260370?ticket=BBD57B642588B5EF56F7FE54178320238D30FF0E&profile=pass
-#EXTINF:0 tvg-id="TVEi.nws" group-title="Channels",TVEi
+#EXTINF:0 tvg-id="TVEi.nws" group-title="Channels",TVE INTER. 
 http://87.103.45.194:9981/stream/channelid/1490100591?ticket=0FFE406AA03CC63B58E0FB5A7DCBD1BBDBA7B45D&profile=pass
 #EXTINF:0 tvg-id="TVE24h.pt" group-title="Channels",TVE 24H
 http://87.103.45.194:9981/stream/channelid/695016634?ticket=2E8C27E70C2021CEB96847F715CA9A2EB65EF0A2&profile=pass
-#EXTINF:0 tvg-id="Cubavision.es" group-title="Channels",CUBAVISION INTERNACIONAL
+#EXTINF:0 tvg-id="Cubavision.es" group-title="Channels",CUBAVISION INTER. 
 http://87.103.45.194:9981/stream/channelid/1986716426?ticket=F64DBD9C44A5D12BF05E38CEAC9A73A62B3D6275&profile=pass
-#EXTINF:0 tvg-id="Telesur.es" group-title="Channels",Telesur HD
+#EXTINF:0 tvg-id="Telesur.es" group-title="Channels",TELESUR HD
 http://87.103.45.194:9981/stream/channelid/1217903960?ticket=A4B3AB8A99EEEC96DECDD4EAAEB17EA37D1E0EE5&profile=pass
-#EXTINF:0 tvg-id="ARTV.pt" group-title="Channels",ARTV
-http://87.103.45.194:9981/stream/channelid/106421457?ticket=0989A7FA99823C5D78A2ADB31087CB0774ED3077&profile=pass
-#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Channels",RTP África
+
+#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Channels",RTP ÁFRICA
 http://87.103.45.194:9981/stream/channelid/28857456?ticket=465FCEB2009132A60668917D8869F7AC5947DCD4&profile=pass
-#EXTINF:0 tvg-id="tv5monde" group-title="Channels",TV5 Monde
+#EXTINF:0 tvg-id="tv5monde" group-title="Channels",TV5 MONDE
 http://87.103.45.194:9981/stream/channelid/754657219?ticket=B602EBCEBA2DC07C7B996A404F1BF7A40AECF335&profile=pass
