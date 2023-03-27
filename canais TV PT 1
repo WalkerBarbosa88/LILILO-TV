@@ -276,7 +276,7 @@ http://swdtv.me:8080/live/intertvla3232/Jd1hxw4zeZ/7551.ts
 http://swdtv.me:8080/live/intertvla3232/Jd1hxw4zeZ/7550.ts
 #EXTINF:0 tvg-id="ext" group-title="Nacionais",SP: PT: EUROSPORT 1 FHD
 http://swdtv.me:8080/live/intertvla3232/Jd1hxw4zeZ/7534.ts
-#EXTINF:0 tvg-id="ext" group-title="Nacionais",SP: PT: Eurosport 1 SD
+#EXTINF:0 tvg-id="ext" group-title="Nacionais",SP: PT: EUROSPORT 1 SD
 http://swdtv.me:8080/live/intertvla3232/Jd1hxw4zeZ/7683.ts
 #EXTINF:0 tvg-id="ext" group-title="Nacionais",SP: PT: EUROSPORT 2 SD
 http://swdtv.me:8080/live/intertvla3232/Jd1hxw4zeZ/7535.ts
@@ -442,7 +442,7 @@ http://swdtv.me:8080/live/intertvla3232/Jd1hxw4zeZ/7720.ts
 
 
 ####################################################################################
-#EXTINF:-1,[COLOR=white][B]DESPORTO & CINEMA PT PREMIUM PT[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]DESPORTO & CINEMA PREMIUM[/B][/COLOR][COLOR=white][/COLOR]
 http://swdtv.me:8080/live/intertvla3232/Jd1hxw4zeZ/64715.ts
 
 #EXTINF:0 tvg-id="ext" group-title="Nacionais",PT: BTV HD
@@ -470,8 +470,7 @@ http://swdtv.me:8080/live/intertvla3232/Jd1hxw4zeZ/7506.ts
 http://swdtv.me:8080/live/intertvla3232/Jd1hxw4zeZ/7508.ts
 #EXTINF:0 tvg-id="ext" group-title="Nacionais",SP: PT: SPORT TV 5 FHD
 http://swdtv.me:8080/live/intertvla3232/Jd1hxw4zeZ/7512.ts
-#EXTINF:0 tvg-id="ext" group-title="Nacionais",SP: PT: SPORT TV+ SD
-http://swdtv.me:8080/live/intertvla3232/Jd1hxw4zeZ/7710.ts
+
 #EXTINF:0 tvg-id="ext" group-title="Nacionais",SP: PT: SPORT TV 1 SD
 http://swdtv.me:8080/live/intertvla3232/Jd1hxw4zeZ/7711.ts
 #EXTINF:0 tvg-id="ext" group-title="Portugal Sports",SP: PT: SPORT TV 1 HD
