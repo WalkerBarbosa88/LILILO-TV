@@ -806,11 +806,11 @@ http://87.103.45.194:9981/stream/channelid/993974146?ticket=E4481FC53C6BF5C6FC06
 http://87.103.45.194:9981/stream/channelid/789039539?ticket=968A4408F355302D6F9EF10CEF2FB564AE9E4634&profile=pass
 #EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",SPORT TV 4 HD
 http://87.103.45.194:9981/stream/channelid/821659451?ticket=A80AFB69ED9F50B2A5DDD3FF6C1A8801ED485240&profile=pass
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",Sport TV 5 HD
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",SPORT TV 5 HD
 http://87.103.45.194:9981/stream/channelid/233122621?ticket=4BA8C57BBFF9CD41423CF57F93692EE9EBAFD5BF&profile=pass
-#EXTINF:0 tvg-id="SportTV6.pt" group-title="Channels",Sport TV 6 HD
+#EXTINF:0 tvg-id="SportTV6.pt" group-title="Channels",SPORT TV 6 HD
 http://87.103.45.194:9981/stream/channelid/421374150?ticket=A06924B09279EA56986122F7284FCC5C9D354736&profile=pass
-#EXTINF:0 tvg-id="NBA.blt" group-title="Channels",NBA TV HD
+#EXTINF:0 tvg-id="NBA.blt" group-title="Channels",SPORT TV NBA HD
 http://87.103.45.194:9981/stream/channelid/2017872507?ticket=588C196355E902288FE46F1478D259FBA18A36E2&profile=pass
 #EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 1 HD
 http://87.103.45.194:9981/stream/channelid/253859144?ticket=ACB899EED494CE2D52D7BF2221E50C45F7795118&profile=pass
