@@ -23,11 +23,11 @@ https://000000
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=white][B]GLOBO HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]GLOBO FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://sukitam.bccdn.xyz:80/303363855932pw/845995860041/80563
-#EXTINF:-1,[COLOR=white][B]SBT HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]SBT FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://sukitam.bccdn.xyz:80/303363855932pw/845995860041/80567
-#EXTINF:-1,[COLOR=white][B]SPACE HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]SPACE FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://sukitam.bccdn.xyz:80/303363855932pw/845995860041/80568
 
 
@@ -35,15 +35,26 @@ http://sukitam.bccdn.xyz:80/303363855932pw/845995860041/80568
 http://sukitam.bccdn.xyz:80/303363855932pw/845995860041/28
 #EXTINF:-1,[COLOR=white][B]STAR CHANNEL 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://sukitam.bccdn.xyz:80/303363855932pw/845995860041/836
-#EXTINF:-1,[COLOR=white][B]STAR CHANNEL 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://sukitam.bccdn.xyz:80/303363855932pw/845995860041/202
+
 #EXTINF:-1,[COLOR=white][B]STAR CHANNEL 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://sukitam.bccdn.xyz:80/303363855932pw/845995860041/207
 #EXTINF:-1,[COLOR=white][B]STAR CHANNEL 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://sukitam.bccdn.xyz:80/303363855932pw/845995860041/208
 
 
+#EXTINF:-1,[COLOR=white][B]PARAMOUNT TV BR[/B][/COLOR][COLOR=white][/COLOR]
+http://sukitam.bccdn.xyz:80/303363855932pw/845995860041/272
+#EXTINF:-1,[COLOR=white][B]PARAMOUNT TV BR[/B][/COLOR][COLOR=white][/COLOR]
+http://sukitam.bccdn.xyz:80/303363855932pw/845995860041/60
 
+#EXTINF:-1,[COLOR=white][B]HBO 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://sukitam.bccdn.xyz:80/303363855932pw/845995860041/792
+#EXTINF:-1,[COLOR=white][B]HBO 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://sukitam.bccdn.xyz:80/303363855932pw/845995860041/251
+#EXTINF:-1,[COLOR=white][B]HBO 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://sukitam.bccdn.xyz:80/303363855932pw/845995860041/793
+#EXTINF:-1,[COLOR=white][B]HBO 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://sukitam.bccdn.xyz:80/303363855932pw/845995860041/254
 
 ##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS EXCLUSIVOS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -155,14 +166,6 @@ http://sukitam.bccdn.xyz:80/303363855932pw/845995860041/283
 http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/981
 #EXTINF:-1,[COLOR=white][B]SPORTV 3 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://15.235.10.31:14769
-
-
-
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="https://i.imgur.com/zL0R8zO.png" group-title="CANAIS | ESPORTES",SPORTV HD
-http://sukitam.bccdn.xyz:80/303363855932pw/845995860041/73
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD" tvg-logo="https://i.imgur.com/zL0R8zO.png" group-title="CANAIS | ESPORTES",SPORTV SD
-http://sukitam.bccdn.xyz:80/303363855932pw/845995860041/544
-
 
 #EXTINF:-1,[COLOR=white][B]ALL SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://5cf4a2c2512a2.streamlock.net:1935/dgrau/dgrau/playlist.m3u8
