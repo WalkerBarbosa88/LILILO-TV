@@ -23,6 +23,16 @@ https://000000
 #EXTM3U
 
 
+#EXTINF:-1,[COLOR=white][B]NOVA PLAY TV[/B][/COLOR][COLOR=white][/COLOR]
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w207829878.m3u8
+#EXTINF:-1,[COLOR=white][B]WEB TV XTREME[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w413642352.m3u8
+#EXTINF:-1,[COLOR=white][B]CINEPIX TV[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv1.painelvideo.top/channel1/channel1/chunklist_w369617487.m3u8
+#EXTINF:-1,[COLOR=white][B]ANITV[/B][/COLOR][COLOR=white][/COLOR]
+https://stream.ichibantv.ga:3764/hybrid/play.m3u8
+#EXTINF:-1,[COLOR=white][B]RUNTIME TV FILMES[/B][/COLOR][COLOR=white][/COLOR]
+https://stream.ads.ottera.tv/cl/230327cggmmq5bpglj4j9nl4f0/1280x720_3071200_0_f.m3u8?i=475_2153
 #EXTINF:-1,[COLOR=white][B]RETRO CARTOONS TV SD[/B][/COLOR][COLOR=white][/COLOR]
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1829280153.m3u8
 #EXTINF:-1,[COLOR=white][B]TV LOADING SD[/B][/COLOR][COLOR=white][/COLOR]
