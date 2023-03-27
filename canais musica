@@ -71,6 +71,9 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]POWERHD[/B][/COLOR][COLOR=white][/COLOR]
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]POWERHD[/B][/COLOR][COLOR=white][/COLOR]
+http://r9z2g8ik.rostelekom.xyz/iptv/VX6X4Z39LH25GU/2298/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]POWER+ HD[/B][/COLOR][COLOR=white][/COLOR]
 http://livetv.powerapp.com.tr/pplustv/pplustv.smil/chunklist_b2628000_sltur.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]POWER DANCE HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -304,6 +307,9 @@ http://live.salto.nl/hls/sotv1_high.m3u8
 
 #EXTINF:-1,[COLOR=white][B]URBANO TV[/B][/COLOR][COLOR=white][/COLOR]
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,[COLOR=white][B]POWER TURK HD[/B][/COLOR][COLOR=white][/COLOR]
+http://r9z2g8ik.rostelekom.xyz/iptv/VX6X4Z39LH25GU/2297/index.m3u8
 
 ######################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA ANTIGA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
