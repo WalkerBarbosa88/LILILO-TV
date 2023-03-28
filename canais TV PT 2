@@ -4,16 +4,206 @@
 http://0.0.0.0:0000
 ####################################################################################################################################################
  
- FONTE DE INFORMAÇÃO: 
-
-* https://raw.githubusercontent.com/inspirationlinks/lista-tuga/master/i%CF%81%D1%82v%20i%D0%B8%E0%B8%A3%CF%81i%D1%8F%CE%B1%D1%82i%CF%83%D0%B8%20li%D0%B8k%E0%B8%A3
-* LISTAS GRATUITAS IPTV ORG - https://github.com/iptv-org/iptv
-https://tvgratuita10.blogspot.com/?fbclid=IwAR1hjt2fxRsjhUBFg6lhEEU1cbj3xHkyZ65tIOyWhApFByPIvawYYeSmHmo
-
-
-#EXTINF:-1,[COLOR=orange][B]LISTA ADICIONADA: 27/03/2023[/B][/COLOR][COLOR=orange][/COLOR]
- 
+#EXTM3U
+#EXTINF:-1,[COLOR=orange][B]LISTA ADICIONADA: 28/03/2023[/B][/COLOR][COLOR=orange][/COLOR]
 #EXTM3U
 
-#EXTINF:-1,[COLOR=white][B]BREVEMENTE[/B][/COLOR][COLOR=white][/COLOR]
-https://0000000000001111111111222222222222
+
+#EXTINF:0 tvg-id="24Kitchen.pt" group-title="PORTUGAL",PT: 24 Kitchen HD
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10126.ts
+#EXTINF:0 tvg-id="ABolaTV.pt" group-title="PORTUGAL",PT: A Bola TV
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10127.ts
+#EXTINF:0 tvg-id="AMC.pt" group-title="PORTUGAL",PT: AMC HD
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10128.ts
+#EXTINF:0 tvg-id="ARTV.pt" group-title="PORTUGAL",PT: ARTV
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10129.ts
+#EXTINF:0 tvg-id="axn.pt" group-title="PORTUGAL",PT: AXN HD
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10130.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: AXN Movies HD
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10131.ts
+#EXTINF:0 tvg-id="AXNWhite.pt" group-title="PORTUGAL",PT: AXN White HD
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10132.ts
+#EXTINF:0 tvg-id="AfroMusic.pt" group-title="PORTUGAL",PT: Afro Music
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10133.ts
+#EXTINF:0 tvg-id="BBCentertainment.pt" group-title="PORTUGAL",PT: BBC Entertainment
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10134.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: BTV HD
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10135.ts
+#EXTINF:0 tvg-id="BabyTV.pt" group-title="PORTUGAL",PT: Baby TV
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10136.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: Bloomberg
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10137.ts
+#EXTINF:0 tvg-id="CBSReality.pt" group-title="PORTUGAL",PT: CBS Reality
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10138.ts
+#EXTINF:0 tvg-id="CMTV.pt" group-title="PORTUGAL",PT: CMTV
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10139.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: Canal 11 HD
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10140.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: Canal Histðria
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10141.ts
+#EXTINF:0 tvg-id="canalpanda.pt" group-title="PORTUGAL",PT: Canal Panda
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10142.ts
+#EXTINF:0 tvg-id="CanalQ.pt" group-title="PORTUGAL",PT: Canal Q
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10143.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: CanĿªo Nova
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10144.ts
+#EXTINF:0 tvg-id="cartoon.pt" group-title="PORTUGAL",PT: Cartoon Network
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10145.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: Casa e Cozinha HD
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10146.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: CaĿa e Pesca
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10147.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: CaĿavision
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10148.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: Channel 1 Russia
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10149.ts
+#EXTINF:0 tvg-id="Cinemundo.pt" group-title="PORTUGAL",PT: Cinemundo
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10150.ts
+#EXTINF:0 tvg-id="discoverychannel.pt" group-title="PORTUGAL",PT: Discovery Channel
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10151.ts
+#EXTINF:0 tvg-id="discoverychannel.pt" group-title="PORTUGAL",PT: Discovery HD
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10152.ts
+#EXTINF:0 tvg-id="disneychannel.pt" group-title="PORTUGAL",PT: Disney Channel
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10153.ts
+#EXTINF:0 tvg-id="eentertainment.pt" group-title="PORTUGAL",PT: E! Entertainment
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10154.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: Eleven 1 HD
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10155.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: Eleven 2 HD
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10156.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: Eleven 3
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10157.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: Eleven 6
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10158.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: Eleven Sports 4
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10159.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: Eleven Sports 5
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10160.ts
+#EXTINF:0 tvg-id="Eurosport1.pt" group-title="PORTUGAL",PT: Eurosport 1
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10161.ts
+#EXTINF:0 tvg-id="Eurosport1.pt" group-title="PORTUGAL",PT: Eurosport 1 HD
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10162.ts
+#EXTINF:0 tvg-id="Eurosport2.pt" group-title="PORTUGAL",PT: Eurosport 2
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10163.ts
+#EXTINF:0 tvg-id="foxcrime.pt" group-title="PORTUGAL",PT: FOX Crime HD
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10164.ts
+#EXTINF:0 tvg-id="fox.pt" group-title="PORTUGAL",PT: FOX HD
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10165.ts
+#EXTINF:0 tvg-id="foxlife.pt" group-title="PORTUGAL",PT: FOX Life HD
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10166.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: FTV
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10167.ts
+#EXTINF:0 tvg-id="FOXComedy.pt" group-title="PORTUGAL",PT: Fox Comedy
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10168.ts
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="PORTUGAL",PT: Fuel TV
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10169.ts
+#EXTINF:0 tvg-id="TVGlobo.pt" group-title="PORTUGAL",PT: Globo
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10170.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: Crime+Investigation
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10171.ts
+#EXTINF:0 tvg-id="TVI.pt" group-title="PORTUGAL",PT: TVI
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10172.ts
+#EXTINF:0 tvg-id="rtp1.pt" group-title="PORTUGAL",PT: RTP1
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10173.ts
+#EXTINF:0 tvg-id="rtp2.pt" group-title="PORTUGAL",PT: RTP2
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10174.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: Globo News
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10175.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: Histðria
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10176.ts
+#EXTINF:0 tvg-id="hollywood.pt" group-title="PORTUGAL",PT: Hollywood
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10177.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: ID Investigation Discovery
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10178.ts
+#EXTINF:0 tvg-id="JimJam.pt" group-title="PORTUGAL",PT: Jim Jam
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10179.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: Lolly Kids
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10180.ts
+#EXTINF:0 tvg-id="MCMPop.pt" group-title="PORTUGAL",PT: MCM Pop
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10181.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: MEO
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10182.ts
+#EXTINF:0 tvg-id="mtvportugal.pt" group-title="PORTUGAL",PT: MTV Portugal
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10183.ts
+#EXTINF:0 tvg-id="Motorvision.pt" group-title="PORTUGAL",PT: Motorvision
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10184.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: NOS Studios HD
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10185.ts
+#EXTINF:0 tvg-id="nationalgeographic.pt" group-title="PORTUGAL",PT: National Geographic HD
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10186.ts
+#EXTINF:0 tvg-id="NatGeoWild.pt" group-title="PORTUGAL",PT: National Geographic WILD
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10187.ts
+#EXTINF:0 tvg-id="NickJr.pt" group-title="PORTUGAL",PT: Nick Jr.
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10188.ts
+#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="PORTUGAL",PT: Nickelodeon
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10189.ts
+#EXTINF:0 tvg-id="odisseia.pt" group-title="PORTUGAL",PT: Odisseia
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10190.ts
+#EXTINF:0 tvg-id="pfc.pt" group-title="PORTUGAL",PT: PFC
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10191.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: Panda Kids
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10192.ts
+#EXTINF:0 tvg-id="PortoCanal.pt" group-title="PORTUGAL",PT: Porto Canal
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10193.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: RTP .frica
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10194.ts
+#EXTINF:0 tvg-id="rtp1.pt" group-title="PORTUGAL",PT: RTP 1 HD
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10195.ts
+#EXTINF:0 tvg-id="rtp2.pt" group-title="PORTUGAL",PT: RTP 2 HD
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10196.ts
+#EXTINF:0 tvg-id="RTP3.pt" group-title="PORTUGAL",PT: RTP 3
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10197.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: RTP AĿores
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10198.ts
+#EXTINF:0 tvg-id="RTPMadeira.pt" group-title="PORTUGAL",PT: RTP Madeira
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10199.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: RTP Memðria
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10200.ts
+#EXTINF:0 tvg-id="SicCaras.pt" group-title="PORTUGAL",PT: SIC Caras
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10201.ts
+#EXTINF:0 tvg-id="sic.pt" group-title="PORTUGAL",PT: SIC HD
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10202.ts
+#EXTINF:0 tvg-id="SicK.pt" group-title="PORTUGAL",PT: SIC K
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10203.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: SIC NotŦcias
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10204.ts
+#EXTINF:0 tvg-id="sicradical.pt" group-title="PORTUGAL",PT: SIC Radical
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10205.ts
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL",PT: SPORT TV 1 HD
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10206.ts
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="PORTUGAL",PT: SPORT TV 2 HD
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10207.ts
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="PORTUGAL",PT: SPORT TV 3 HD
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10208.ts
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="PORTUGAL",PT: Sport TV 3
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10209.ts
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="PORTUGAL",PT: Sport TV 4
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10210.ts
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="PORTUGAL",PT: Sport TV 5 HD
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10211.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: Sport TV 6 HD
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10212.ts
+#EXTINF:0 tvg-id="tvrecord.pt" group-title="PORTUGAL",PT: TV Record
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10213.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: TVCine ACTION HD
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10214.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: TVCine EDITION HD
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10215.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: TVCine EMOTION HD
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10216.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: TVCine TOP HD
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10217.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: TVI FicĿªo
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10218.ts
+#EXTINF:0 tvg-id="TVI.pt" group-title="PORTUGAL",PT: TVI HD
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10219.ts
+#EXTINF:0 tvg-id="TVI24.pt" group-title="PORTUGAL",PT: TVI24
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10220.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: Trace Toca
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10221.ts
+#EXTINF:0 tvg-id="TravelChannel.pt" group-title="PORTUGAL",PT: Travel Channel HD
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10222.ts
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL",PT: ZAP Viva HD
+http://darkteam.vip:25461/live/Fytfd55gjbdssh/Ihdwqyhvp5678321/10223.ts
+
+
