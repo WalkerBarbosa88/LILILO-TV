@@ -31,31 +31,31 @@ http://0.0.0.0:0000
 https://00000000000
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SPORT TV 1 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SPORT TV 1 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://204.12.247.162:8080/premium49/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SPORT TV 2 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SPORT TV 3 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24SPORTTV3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SPORT TV 6 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24SPORTTV6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]ELEVEN SPORTS 1 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]ELEVEN SPORTS 1 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138421
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]ELEVEN SPORTS 2 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]ELEVEN SPORTS 2 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138423
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]ELEVEN SPORTS 3 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]ELEVEN SPORTS 4 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]ELEVEN SPORTS 5 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]ELEVEN SPORTS 6 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
 
@@ -197,49 +197,49 @@ https://00000000000
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SPORT TV+ HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/69000
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SPORT TV+ HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
 http://abc123.digital:8080/squik_10@yahoo.com/gYZR6mt8Tz/495277
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SPORT TV 1 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/68988
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SPORT TV 1 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/68989
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SPORT TV 1 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/68990
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SPORT TV 1 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://abc123.digital:8080/squik_10@yahoo.com/gYZR6mt8Tz/495278
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SPORT TV 2 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/68991
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SPORT TV 2 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/68992
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SPORT TV 2 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/68993
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SPORT TV 2 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://abc123.digital:8080/squik_10@yahoo.com/gYZR6mt8Tz/495279
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SPORT TV 3 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/68994
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SPORT TV 3 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/68995
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SPORT TV 3 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://abc123.digital:8080/squik_10@yahoo.com/gYZR6mt8Tz/495280
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SPORT TV 4 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/68996
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SPORT TV 4 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/68997
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SPORT TV 4 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://abc123.digital:8080/squik_10@yahoo.com/gYZR6mt8Tz/495281
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SPORT TV 5 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/68998
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SPORT TV 5 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/68999
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SPORT TV 5 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://abc123.digital:8080/squik_10@yahoo.com/gYZR6mt8Tz/495282
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SPORT TV 6 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/249069
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SPORT TV 6 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://abc123.digital:8080/squik_10@yahoo.com/gYZR6mt8Tz/495275
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SPORT TV NBA HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://abc123.digital:8080/squik_10@yahoo.com/gYZR6mt8Tz/495276
 
 
