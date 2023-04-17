@@ -123,59 +123,57 @@ https://streamer-b02.videos.sapo.pt/live/santuario/chunklist.m3u8
 
 #EXTM3U
 
-#EXTINF:0 tvg-id="1p1" group-title="Channels",1+1
-http://176.79.71.171:8001/play/a008/index.m3u8
 #EXTINF:0 tvg-id="AMC.pt" group-title="Channels",AMC
 http://176.79.71.171:8001/play/a01e/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",AMC Break
+#EXTINF:0 tvg-id="ext" group-title="Channels",AMC BREAK
 http://176.79.71.171:8001/play/a014/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",AMC Crime
+#EXTINF:0 tvg-id="ext" group-title="Channels",AMC CRIME
 http://176.79.71.171:8001/play/a009/index.m3u8
 #EXTINF:0 tvg-id="ARTE.pt" group-title="Channels",ARTE
 http://176.79.71.171:8001/play/a00q/index.m3u8
 #EXTINF:0 tvg-id="axn.pt" group-title="Channels",AXN
 http://176.79.71.171:8001/play/a01i/index.m3u8
-#EXTINF:0 tvg-id="AXNWhite.pt" group-title="Channels",AXN White
+#EXTINF:0 tvg-id="AXNWhite.pt" group-title="Channels",AXN WHITE
 http://176.79.71.171:8001/play/a01j/index.m3u8
 #EXTINF:0 tvg-id="BVN.be" group-title="Channels",BVN
 http://176.79.71.171:8001/play/a00s/index.m3u8
-#EXTINF:0 tvg-id="Bloomberg.nws" group-title="Channels",Bloomberg
+#EXTINF:0 tvg-id="Bloomberg.nws" group-title="Channels",BLOOMBERG
 http://176.79.71.171:8001/play/a00a/index.m3u8
-#EXTINF:0 tvg-id="CNNPortugal.pt" group-title="Channels",CNN
+#EXTINF:0 tvg-id="CNNPortugal.pt" group-title="Channels",CNN PORTUGAL
 http://176.79.71.171:8001/play/a01s/index.m3u8
-#EXTINF:0 tvg-id="canalpanda.pt" group-title="Channels",Canal Panda
+#EXTINF:0 tvg-id="canalpanda.pt" group-title="Channels",CANAL PANDA
 http://176.79.71.171:8001/play/a015/index.m3u8
-#EXTINF:0 tvg-id="eentertainment.pt" group-title="Channels",E! Entertainment
+#EXTINF:0 tvg-id="eentertainment.pt" group-title="Channels",E! ENTERTAINMENT
 http://176.79.71.171:8001/play/a00d/index.m3u8
-#EXTINF:0 tvg-id="Euronews.pt" group-title="Channels",Euronews
+#EXTINF:0 tvg-id="Euronews.pt" group-title="Channels",EURONEWS
 http://176.79.71.171:8001/play/a01o/index.m3u8
 #EXTINF:0 tvg-id="fox.pt" group-title="Channels",FOX
 http://176.79.71.171:8001/play/a01h/index.m3u8
-#EXTINF:0 tvg-id="foxcrime.pt" group-title="Channels",FOX Crime
+#EXTINF:0 tvg-id="foxcrime.pt" group-title="Channels",FOX CRIME
 http://176.79.71.171:8001/play/a01d/index.m3u8
-#EXTINF:0 tvg-id="foxlife.pt" group-title="Channels",FOX Life
+#EXTINF:0 tvg-id="foxlife.pt" group-title="Channels",FOX LIFE
 http://176.79.71.171:8001/play/a019/index.m3u8
-#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",FOX Movies
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",FOX MOVIES
 http://176.79.71.171:8001/play/a01n/index.m3u8
 #EXTINF:0 tvg-id="FTV.pt" group-title="Channels",FTV
 http://176.79.71.171:8001/play/a013/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",France 24 (F)
+#EXTINF:0 tvg-id="ext" group-title="Channels",FRANCE 24
 http://176.79.71.171:8001/play/a00k/index.m3u8
-#EXTINF:0 tvg-id="France24.fr" group-title="Channels",France 24 (I)
+#EXTINF:0 tvg-id="France24.fr" group-title="Channels",FRANCE 24 (I)
 http://176.79.71.171:8001/play/a01r/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",Kuriakos TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",KURIAKOS TV
 http://176.79.71.171:8001/play/a00b/index.m3u8
-#EXTINF:0 tvg-id="mezzo.pt" group-title="Channels",Mezzo
+#EXTINF:0 tvg-id="mezzo.pt" group-title="Channels",MEZZO
 http://176.79.71.171:8001/play/a00l/index.m3u8
-#EXTINF:0 tvg-id="NOSStudios.pt" group-title="Channels",NOS Studios
+#EXTINF:0 tvg-id="NOSStudios.pt" group-title="Channels",NOS STUDIOS
 http://176.79.71.171:8001/play/a00e/index.m3u8
-#EXTINF:0 tvg-id="nationalgeographic.pt" group-title="Channels",National Geographic
+#EXTINF:0 tvg-id="nationalgeographic.pt" group-title="Channels",NATIONAL GEOGRAPHIC
 http://176.79.71.171:8001/play/a01g/index.m3u8
-#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Channels",Nickelodeon
+#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Channels",NICKELODEON
 http://176.79.71.171:8001/play/a01f/index.m3u8
 #EXTINF:0 tvg-id="pfc.pt" group-title="Channels",PFC
 http://176.79.71.171:8001/play/a00t/index.m3u8
-#EXTINF:0 tvg-id="PandaKIDS.pt" group-title="Channels",Panda KIDS
+#EXTINF:0 tvg-id="PandaKIDS.pt" group-title="Channels",PANDA KIDS
 http://176.79.71.171:8001/play/a00v/index.m3u8
 #EXTINF:0 tvg-id="rtp1.pt" group-title="Channels",RTP 1
 http://176.79.71.171:8001/play/a021/index.m3u8
@@ -183,59 +181,59 @@ http://176.79.71.171:8001/play/a021/index.m3u8
 http://176.79.71.171:8001/play/a022/index.m3u8
 #EXTINF:0 tvg-id="RTP3.pt" group-title="Channels",RTP 3
 http://176.79.71.171:8001/play/a01y/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTP Memðria
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTP MEMÓRIA
 http://176.79.71.171:8001/play/a01z/index.m3u8
 #EXTINF:0 tvg-id="sic.pt" group-title="Channels",SIC
 http://176.79.71.171:8001/play/a023/index.m3u8
-#EXTINF:0 tvg-id="sicmulher.pt" group-title="Channels",SIC Mulher
+#EXTINF:0 tvg-id="sicmulher.pt" group-title="Channels",SIC MULHER
 http://176.79.71.171:8001/play/a01p/index.m3u8
-#EXTINF:0 tvg-id="sicnoticias.pt" group-title="Channels",SIC Noticias
+#EXTINF:0 tvg-id="sicnoticias.pt" group-title="Channels",SIC NOTÍCIAS
 http://176.79.71.171:8001/play/a020/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",STV Noticias
+#EXTINF:0 tvg-id="ext" group-title="Channels",STV NOTÍCIAS
 http://176.79.71.171:8001/play/a00u/index.m3u8
-#EXTINF:0 tvg-id="SkyNews.uk" group-title="Channels",Sky News
+#EXTINF:0 tvg-id="SkyNews.uk" group-title="Channels",SKY NEWS
 http://176.79.71.171:8001/play/a01t/index.m3u8
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",Sport TV 1
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1
 http://176.79.71.171:8001/play/a016/index.m3u8
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",Sport TV 2
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2
 http://176.79.71.171:8001/play/a00z/index.m3u8
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",Sport TV 3
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",SPORT TV 3
 http://176.79.71.171:8001/play/a010/index.m3u8
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",Sport TV 4
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",SPORT TV 4
 http://176.79.71.171:8001/play/a011/index.m3u8
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",Sport TV 5
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",SPORT TV 5
 http://176.79.71.171:8001/play/a012/index.m3u8
 #EXTINF:0 tvg-id="TLC.pt" group-title="Channels",TLC
 http://176.79.71.171:8001/play/a01q/index.m3u8
-#EXTINF:0 tvg-id="TPAInt.pt" group-title="Channels",TPA Internacional
+#EXTINF:0 tvg-id="TPAInt.pt" group-title="Channels",TPA INTER.
 http://176.79.71.171:8001/play/a00m/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCine ACTION
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE ACTION
 http://176.79.71.171:8001/play/a01c/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCine EDITION
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE EDITION
 http://176.79.71.171:8001/play/a018/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCine EMOTION
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE EMOTION
 http://176.79.71.171:8001/play/a01a/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCine TOP
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE TOP
 http://176.79.71.171:8001/play/a01b/index.m3u8
-#EXTINF:0 tvg-id="TVE24h.pt" group-title="Channels",TVE 24h
+#EXTINF:0 tvg-id="TVE24h.pt" group-title="Channels",TVE 24H
 http://176.79.71.171:8001/play/a01m/index.m3u8
-#EXTINF:0 tvg-id="TVE24h.pt" group-title="Channels",TVE Internacional
+#EXTINF:0 tvg-id="TVE24h.pt" group-title="Channels",TVE INTER.
 http://176.79.71.171:8001/play/a01u/index.m3u8
 #EXTINF:0 tvg-id="TVI.pt" group-title="Channels",TVI
 http://176.79.71.171:8001/play/a024/index.m3u8
-#EXTINF:0 tvg-id="TVIReal.pt" group-title="Channels",TVI Reality
+#EXTINF:0 tvg-id="TVIReal.pt" group-title="Channels",TVI REALITY
 http://176.79.71.171:8001/play/a01l/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVI Reality Camara 2
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVI REALITY CAM 2
 http://176.79.71.171:8001/play/a004/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVI Reality Camara 3
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVI REALITY CAM 3
 http://176.79.71.171:8001/play/a005/index.m3u8
-#EXTINF:0 tvg-id="TVIReal.pt" group-title="Channels",TVI Reality Mosaico
+#EXTINF:0 tvg-id="TVIReal.pt" group-title="Channels",TVI REALITY MOSAICO
 http://176.79.71.171:8001/play/a006/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVI Reality Camara 1
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVI REALITY CAM 1
 http://176.79.71.171:8001/play/a003/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVI Reality Camara 4
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVI REALITY CAM 4
 http://176.79.71.171:8001/play/a007/index.m3u8
-#EXTINF:0 tvg-id="TravelChannel.pt" group-title="Channels",Travel Channel
+#EXTINF:0 tvg-id="TravelChannel.pt" group-title="Channels",TRAVEL CHANNEL
 http://176.79.71.171:8001/play/a00c/index.m3u8
 
 
