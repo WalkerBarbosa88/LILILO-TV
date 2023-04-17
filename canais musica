@@ -4,7 +4,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 24/03/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 17/04/2023[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -87,9 +87,6 @@ http://hz1.teleport.cc/HLS/SD.m3u8
 
 #EXTINF:-1,[COLOR=white][B]NRG 91[/B][/COLOR][COLOR=white][/COLOR]
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
-
-#EXTINF:-1,[COLOR=white][B]EUROPA PLUS TV[/B][/COLOR][COLOR=white][/COLOR]
-http://78.25.155.47:1309/channel/Evropa_plus.ts
 
 #EXTINF:0,[COLOR=white][B]VIVA TV[/B][/COLOR][COLOR=white][/COLOR]
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
@@ -207,8 +204,7 @@ https://edge.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8?checkedby:iptv
 https://000000
 
 
-#EXTINF:-1,[COLOR=white][B]RCK TV[/B][/COLOR][COLOR=white][/COLOR]
-https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1,[COLOR=white][B]ROCK TV BR HD[/B][/COLOR][COLOR=white][/COLOR]
 https://59f1cbe63db89.streamlock.net:1443/tvbeltrao3/_definst_/tvbeltrao3/chunklist_w782273434.m3u8
 #EXTINF:-1,[COLOR=white][B]CATEDRAL DO ROCK HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -378,9 +374,6 @@ http://168.205.87.198:8555/live/1431/123456/16.ts
 #EXTINF:-1,[COLOR=white][B]TOP LATINO TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,[COLOR=white][B]LATINZONE TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
-
 #EXTINF:-1,[COLOR=white][B]MOLA HITS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://ventdelnord.tv:8080/mola/directe.m3u8?PlaylistM3UCL
 
@@ -435,8 +428,6 @@ https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]V2BEAT TV EN[/B][/COLOR][COLOR=white][/COLOR]
 https://abr.de1se01.v2beat.live/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]RÁDIO U TV[/B][/COLOR][COLOR=white][/COLOR]
-https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]FIRST MUSIC CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
 http://hz1.teleport.cc/HLS/HD.m3u8
 
@@ -593,7 +584,7 @@ https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c
 
 
 ######################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 24/03/2023 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 17/04/2023 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
@@ -602,8 +593,6 @@ https://000000
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]VIVA RUSSIA[/B][/COLOR][COLOR=white][/COLOR]
 https://hls.goodgame.ru/hls/180805.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FACTORIA TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://eu1.servers10.com:8081/8010/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MTV BIGGEST POP HD[/B][/COLOR][COLOR=white][/COLOR]
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MTV BLOCK PARTY HD[/B][/COLOR][COLOR=white][/COLOR]
