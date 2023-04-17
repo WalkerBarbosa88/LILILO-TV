@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 #####################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 17/03/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 17/04/2023[/B][/COLOR][COLOR=orange][/COLOR]
  
 ###########################################################################################################################################
  
@@ -24,10 +24,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]BEIN SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
-#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]BEIN SPORTS XTRA HD[/B][/COLOR][COLOR=white][/COLOR]
-https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]BEIN SPORTS XTRA ES HD[/B][/COLOR][COLOR=white][/COLOR]
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FUEL TV FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://fueltv-fueltv-2-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USA",[COLOR=white][B]NITRO CIRCUS[/B][/COLOR][COLOR=white][/COLOR]
@@ -90,14 +86,10 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ABU DHABI SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]DUBAI RACING 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]DUBAI RACING 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]DUBAI RACING 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]DUBAI SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]DUBAI SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]DUBAI SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -256,12 +248,8 @@ https://000000
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/ignaaaaaa-ign1-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1,[COLOR=white][B]ESPORT MAX HD[/B][/COLOR][COLOR=white][/COLOR]
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
-
 #EXTINF:-1,[COLOR=white][B]GAMESPLAY CALL OF DUTY[/B][/COLOR][COLOR=white][/COLOR]
 https://bit.ly/3nvh9n1?/playlist720Rlp.m3u8
-#EXTINF:-1,[COLOR=white][B]GAMESPLAY CALL OF DUTY[/B][/COLOR][COLOR=white][/COLOR]
-https://bit.ly/3nvh9n1?/playlist720Rlp.m3u8
-
 #EXTINF:-1,[COLOR=white][B]ESR 24/7 ESPORTS NETWORK[/B][/COLOR][COLOR=white][/COLOR]
 https://eyeonesports.com/720/ESR-002SCTE35.m3u8
 #EXTINF:-1,[COLOR=white][B]GAME REVOLUTION HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -395,8 +383,7 @@ http://193.33.240.8:8080/fashion_one_hd/index.m3u8
 http://fashs043.cloudycdn.services/scte/midnite/midnite_1080p_chunklist.m3u8
 #EXTINF:-1,[COLOR=white][B]CODE FASHION HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn3.invivo.bg/Codefashion_5500/index.m3u8
-#EXTINF:-1,[COLOR=white][B]GLOBAL FASHION CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
-https://vcngfcssai.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+
  
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIA E NÁUTICOS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -444,8 +431,6 @@ https://d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_motorvisiontv_001.m3u
 https://dizbp2a9dfz47.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-22elw950yr3vp-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1,[COLOR=white][B]MOTOR RACING HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d2hnz12weo628w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AFV2-prod/samsung.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1,[COLOR=white][B]EL GARAGE TV[/B][/COLOR][COLOR=white][/COLOR]
-http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
 #EXTINF:-1,[COLOR=white][B]MOTORSUR MEDIA[/B][/COLOR][COLOR=white][/COLOR]
 https://59ce1298bfb98.streamlock.net/motorsur/motorsur/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]PLUTO TV CUSTOM GARAGE[/B][/COLOR][COLOR=white][/COLOR]
@@ -468,8 +453,6 @@ https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 #EXTINF:-1,[COLOR=white][B]TRAVEL & ADVENTURE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.142.213.81:8001/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]TURISMO TRAVEL HD[/B][/COLOR][COLOR=white][/COLOR]
-https://vdo.panelstreaming.live:3936/stream/play.m3u8
 
 
 ###########################################################################################################################################
@@ -612,8 +595,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/master.m3u8
 https://rpn1.bozztv.com/36bay2/gusa-chefchampion/mono.m3u8
 #EXTINF:-1,[COLOR=white][B]FOOD 52 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1212A-redboxfood52A/CDN/master.m3u8
-#EXTINF:-1,[COLOR=white][B]IFOOD TV[/B][/COLOR][COLOR=white][/COLOR]
-https://ft-ifood-roku.amagi.tv/playlist.m3u8
+
  
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  RELAXAMENTO & OUTROS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
