@@ -24,9 +24,10 @@ https://tvgratuita10.blogspot.com/?fbclid=IwAR1hjt2fxRsjhUBFg6lhEEU1cbj3xHkyZ65t
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]MATOSINHOS TV[/B][/COLOR][COLOR=white][/COLOR]
 https://5d82644094cc0.streamlock.net/xradiotv/xradiotv/chunklist_w1017197052.m3u8
+#EXTINF:-1,[COLOR=white][B]XRADIO TV[/B][/COLOR][COLOR=white][/COLOR]
+https://5d82644094cc0.streamlock.net/xradiotv/xradiotv/chunklist_w765992564.m3u8
 #EXTINF:-1,[COLOR=white][B]FAMA TV[/B][/COLOR][COLOR=white][/COLOR]
 https://streamer-a03.videos.sapo.pt/live/famatv/chunklist_w1729802407.m3u8
-
 #EXTINF:-1,[COLOR=white][B]RÁDIO SINES[/B][/COLOR][COLOR=white][/COLOR]
 https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
 #EXTINF:-1,[COLOR=white][B]TV BRICS PT HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -67,6 +68,9 @@ https://000000
 
 #EXTM3U
 
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO TV SAL ONE[/B][/COLOR][COLOR=white][/COLOR]
+https://w1.mediastreaming.it/radiosalone/livestream/chunklist_w1808948468.m3u8
 
 #EXTINF:-1,[COLOR=white][B]DEMAND ÁFRICA[/B][/COLOR][COLOR=white][/COLOR]
 https://demandafrica-oando.amagi.tv/amRdirect/p=da/hls/amagi_hls_data_theafrica-demand-africa-oando/CDN/1920x1080_5055600/index.m3u8
