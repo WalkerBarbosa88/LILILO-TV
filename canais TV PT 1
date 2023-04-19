@@ -124,6 +124,41 @@ https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/2172b02e9431e5c79bc717e0
 #EXTINF:-1,[COLOR=white][B]SANTUÁRIO DE FÁTIMA HD[/B][/COLOR][COLOR=white][/COLOR]
 https://streamer-b02.videos.sapo.pt/live/santuario/chunklist.m3u8
 
+
+
+#EXTINF:-1,[COLOR=white][B]ADVNCE SIC FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.202.230.82:8000/play/a006
+#EXTINF:-1,[COLOR=white][B]CMTV FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.202.230.82:8000/play/a005
+#EXTINF:-1,[COLOR=white][B]CNN PORTUGAL FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.202.230.82:8000/play/a00b
+#EXTINF:-1,[COLOR=white][B]E ENTERTAINMENT FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.202.230.82:8000/play/a00c
+#EXTINF:-1,[COLOR=white][B]LOCALVISAO FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.202.230.82:8000/play/a008
+#EXTINF:-1,[COLOR=white][B]PORTO CANAL FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.202.230.82:8000/play/a007
+#EXTINF:-1,[COLOR=white][B]RTP 1 FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.202.230.82:8000/play/a003
+#EXTINF:-1,[COLOR=white][B]RTP 2 FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.202.230.82:8000/play/a004
+#EXTINF:-1,[COLOR=white][B]RTP 3 FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.202.230.82:8000/play/a009
+#EXTINF:-1,[COLOR=white][B]SIC CARAS FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.202.230.82:8000/play/a00f
+#EXTINF:-1,[COLOR=white][B]SIC FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.202.230.82:8000/play/a002
+#EXTINF:-1,[COLOR=white][B]SIC MULHER FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.202.230.82:8000/play/a00e
+#EXTINF:-1,[COLOR=white][B]SIC NOTICIAS FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.202.230.82:8000/play/a00a
+#EXTINF:-1,[COLOR=white][B]SIC RADICAL FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.202.230.82:8000/play/a00g
+#EXTINF:-1,[COLOR=white][B]TVI FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.202.230.82:8000/play/a001
+#EXTINF:-1,[COLOR=white][B]TVI FICCAO FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.202.230.82:8000/play/a00d
+
 ##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS TV 2 PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 
