@@ -59,12 +59,14 @@ https://000000
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR=white][B]ESPN 1 HD (OFFLINE)[/B][/COLOR][COLOR=white][/COLOR]
-http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1046
-#EXTINF:-1,[COLOR=white][B]ESPN 2 HD (OFFLINE)[/B][/COLOR][COLOR=white][/COLOR]
-http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1048
-#EXTINF:-1,[COLOR=white][B]ESPN 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]ESPN EXTRA HD[/B][/COLOR][COLOR=white][/COLOR]
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/8789
+#EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/8793
+#EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://xcui.vitvabc.xyz:8880/live/287994016405/287994016405/31034.m3u8
+#EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/8801
 
 #EXTINF:-1,[COLOR=white][B]SPORTV 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/980
@@ -97,6 +99,12 @@ https://000000
 
 #EXTINF:0 tvg-id="discov_rus" group-title="Channels",[COLOR=white][B]HGTV BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://15.235.10.31:14412
+#EXTINF:-1,[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/8904
+#EXTINF:-1,[COLOR=white][B]DISCOVERY TURBO HD[/B][/COLOR][COLOR=white][/COLOR]
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/8891
+
+
 
 
 ##########################################################################################################################################
@@ -153,11 +161,11 @@ https://000000
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELECINE ACTION HD
+#EXTINF:0 tvg-id="Tcaction.br" group-title="Channels",TELECINE ACTION HD
 http://51.83.238.223:16703
 #EXTINF:0 tvg-id="Megapix.br" group-title="Channels",MEGAPIX HD
 http://51.83.238.223:16823
-#EXTINF:0 tvg-id="ext" group-title="Channels",AXN HD 
+#EXTINF:0 tvg-id="AXN.it" group-title="Channels",AXN HD
 http://51.83.238.223:16941
 #EXTINF:0 tvg-id="Universal.uk" group-title="Channels",UNIVERSAL HD
 http://51.83.238.223:16883
@@ -173,9 +181,9 @@ http://51.83.238.223:16045
 http://51.83.238.223:16051
 #EXTINF:0 tvg-id="Combate.br" group-title="Channels",COMBATE HD
 http://51.83.238.223:16417
-#EXTINF:0 tvg-id="Sportv.br" group-title="Channels",SPORTV 1 HD
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORTV 1 HD
 http://51.83.238.223:16437
-#EXTINF:0 tvg-id="Sportv2.br" group-title="Channels",SPORTV 2 HD
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORTV 2 HD
 http://51.83.238.223:16457
 #EXTINF:0 tvg-id="ext" group-title="Channels",ENCONTRO HD
 http://51.83.238.223:16600
@@ -189,10 +197,6 @@ http://51.83.238.223:16186
 http://51.83.238.223:16274
 #EXTINF:0 tvg-id="ext" group-title="Channels",CG NEWS HD
 http://51.83.238.223:16825
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: SBT RJ HD
-http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/907
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: SBT SP HD
-http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/935
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBO TV RIO SUL HD
 http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/958
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: ZOOMOO HD
@@ -229,15 +233,8 @@ http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/977
 http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/978
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: STUDIO UNIVERSAL HD
 http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/979
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: SPACE HD
 http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/983
-#EXTINF:0 tvg-id="Redetv.br" group-title="Channels",BR: REDE TV
-http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/988
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: RECORD SP HD
-http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/989
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: RECORD RJ HD
-http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/990
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: RECORD NEWS HD
 http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/992
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: PREMIERE CLUBES HD
@@ -252,20 +249,8 @@ http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1002
 http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1004
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: PARAMOUNT CHANNEL HD
 http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1006
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: OFF HD
-http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1007
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: NICKELODEON HD
-http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1008
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: NICK JR HD
 http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1009
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: NATIONAL GEOGRAPHIC HD
-http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1010
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: NATGEO WILD HD
-http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1011
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: MULTISHOW HD
-http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1013
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: MTV HD
-http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1015
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: MEGAPIX HD
 http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1016
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: LIFETIME HD
@@ -296,36 +281,18 @@ http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1031
 http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1032
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBO NEWS HD
 http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1034
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: FX HD
-http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1037
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: FOX SPORTS HD
-http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1038
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: FOX SPORTS 2 HD
 http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1039
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: FOX HD
 http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1043
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: FOOD NETWORK HD
-http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1044
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: FISH TV HD
 http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1045
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: ESPN BRASIL HD
 http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1047
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: E! HD
-http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1049
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISNEY CHANNEL HD
 http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1052
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISCOVERY WORLD HD
-http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1053
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISCOVERY TLC HD
 http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1055
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISCOVERY SCIENCE HD
-http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1057
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISCOVERY KIDS HD
-http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1058
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISCOVERY CHANNEL
 http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1061
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: CULTURA HD
@@ -340,32 +307,19 @@ http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1067
 http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1068
 #EXTINF:0 tvg-id="Boomerang.br" group-title="Channels",BR: BOOMERANG
 http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1069
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: BIS HD
-http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1070
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: BAND SPORTS HD
 http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1071
-#EXTINF:0 tvg-id="ext" group-title="Channels",BAND NEWS HD
-http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1073
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: BABY TV HD
-http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1074
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: AXN HD
 http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1075
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ARTE 1 HD
-http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1076
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ANIMAL PLANET HD
-http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1077
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: AMC HD
 http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1078
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: A&E HD
-http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/1079
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBO RJ FHD
 http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/64822
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: PARAMOUNT CHANNEL
 http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/64843
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: PREMIERE 6 FHD
 http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/64848
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Brasilia
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBO BRASÍLIA 
 http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/65617
-#EXTINF:0 tvg-id="ext" group-title="Channels",NFL REDZONE (US)
-http://51.79.20.82:80/Kenwyn/TJGm5d9YlP/671
+
 
