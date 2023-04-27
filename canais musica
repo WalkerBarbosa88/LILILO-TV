@@ -4,7 +4,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 17/04/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 27/04/2023[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -65,9 +65,6 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]RADIO M2O HD[/B][/COLOR][COLOR=white][/COLOR]
 https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]RADIO M2O FHD[/B][/COLOR][COLOR=white][/COLOR]
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b3206118.m3u8
-
 #EXTINF:-1,[COLOR=white][B]KRONEHITS FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
@@ -123,9 +120,6 @@ https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_live1_b4131600_sles.m3u8
 
 #EXTINF:-1,[COLOR=white][B]MUZZONE TV[/B][/COLOR][COLOR=white][/COLOR]
 http://muzzone-stream.daitsuna.net/muzzondvr/muzzone_dvr/chunks_dvr.m3u8
-
-#EXTINF:-1,[COLOR=white][B]CADENA ELITE ES TV[/B][/COLOR][COLOR=white][/COLOR]
-http://cloudvideo.servers10.com:8080/8004/index.m3u8
 
 
 ##########################################################################################################################
@@ -374,9 +368,6 @@ https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8?
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]AMÉRICA LATINA[/B][/COLOR][COLOR=white][/COLOR]
 http://168.205.87.198:8555/live/1431/123456/16.ts
 
-#EXTINF:-1,[COLOR=white][B]TOP LATINO TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1,[COLOR=white][B]MOLA HITS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://ventdelnord.tv:8080/mola/directe.m3u8?PlaylistM3UCL
 
@@ -587,7 +578,7 @@ https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c
 
 
 ######################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 17/04/2023 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 27/04/2023 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
@@ -630,8 +621,6 @@ http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
 http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="mezzo-hd" group-title="Channels",[COLOR=white][B]MEZZO LIVE HD[/B][/COLOR][COLOR=white][/COLOR]
 https://sc.id-tv.kz/mezzo_life_hd_34_35.m3u8
-#EXTINF:0 tvg-id="mezzo-hd" group-title="Channels",[COLOR=white][B]MEZZO HD[/B][/COLOR][COLOR=white][/COLOR]
-https://sc.id-tv.kz/mezzo_34_35.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SONUS FM[/B][/COLOR][COLOR=white][/COLOR]
 http://www.sonus.fm:1935/public/stream_720p/chunklist_w514335426.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RADIO XNT[/B][/COLOR][COLOR=white][/COLOR]
