@@ -22,7 +22,7 @@ http://0.0.0.0:0000
      Listas Várias - https://global-satinfo.in/viewforum.php?f=22&sid=14261766f220116fe35abb7ddf0e87e2
      
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 17/04/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 27/04/2023[/B][/COLOR][COLOR=orange][/COLOR]
 #EXTM3U
 
 
@@ -36,8 +36,6 @@ http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2530/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://204.12.247.162:8080/premium49/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2525/index.m3u8
 
@@ -264,9 +262,6 @@ http://abc123.digital:8080/squik_10@yahoo.com/gYZR6mt8Tz/495282
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/249069
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://abc123.digital:8080/squik_10@yahoo.com/gYZR6mt8Tz/495275
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://abc123.digital:8080/squik_10@yahoo.com/gYZR6mt8Tz/495276
-
 
 
 #EXTM3U
@@ -280,6 +275,26 @@ https://000000
 #EXTINF:-1,[COLOR=white][B]ESPN 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82754
 
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 1 FR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://localiptv62000.from-ok.com:9000/live:domeneprojekat/gzliiQzDPI/103
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 2 FR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://localiptv62000.from-ok.com:9000/live:domeneprojekat/gzliiQzDPI/104
+
+
+#EXTINF:-1,[COLOR=white][B]GOL TV FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://181.78.11.238:6837/play/a02r
+#EXTINF:-1,[COLOR=white][B]GOL TV SD[/B][/COLOR][COLOR=white][/COLOR]
+http://200.41.79.165:8000/play/a05u/index.m3u8
+#EXTINF:-1,[COLOR=white][B]GOL TV SD[/B][/COLOR][COLOR=white][/COLOR]
+http://odenfull.co:2086/Hyytkkh/Mex87465/135384
+
+#EXTINF:-1,[COLOR=white][B]ARENA SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://80.252.37.194:5000/udp/233.233.233.3:12000
+#EXTINF:-1,[COLOR=white][B]ARENA SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://80.252.37.194:5000/udp/233.233.233.4:12000
+#EXTINF:-1,[COLOR=white][B]ARENA SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://80.252.37.194:5000/udp/233.233.233.5:12000
+
 #EXTINF:-1,[COLOR=white][B]MATH RUSSIA HD[/B][/COLOR][COLOR=white][/COLOR]
 https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]MATH RUSSIA HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -290,11 +305,6 @@ https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
 https://bl.uma.media/live/394904/HLS/1_5/1/1/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]MATH RUSSIA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8
-
-#EXTINF:-1,[COLOR=white][B]GOL TV SD[/B][/COLOR][COLOR=white][/COLOR]
-http://200.41.79.165:8000/play/a05u/index.m3u8
-#EXTINF:-1,[COLOR=white][B]GOL TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://170.83.242.155:5350/play/a00v
 
 
 ##################################  BENFICA TV   ###########################################################################
