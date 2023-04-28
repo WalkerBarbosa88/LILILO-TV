@@ -268,17 +268,40 @@ https://000000
 #EXTM3U
 
 
+#EXTINF:-1,[COLOR=white][B]ESPN EXTRA HD[/B][/COLOR][COLOR=white][/COLOR]
+http://meuplay.shop:80/oem97d0v/0unmt83y/26
+#EXTINF:-1,[COLOR=white][B]ESPN EXTRA HD[/B][/COLOR][COLOR=white][/COLOR]
+http://meuplay.shop:80/oem97d0v/0unmt83y/235
+
+#EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://xcui.vitvabc.xyz:8880/live/287994016405/287994016405/31034.m3u8
+#EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://meuplay.shop:80/oem97d0v/0unmt83y/769
+#EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://meuplay.shop:80/oem97d0v/0unmt83y/24
+
+#EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/8801
+#EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://meuplay.shop:80/oem97d0v/0unmt83y/771
+#EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://meuplay.shop:80/oem97d0v/0unmt83y/25
+
+#EXTINF:-1,[COLOR=white][B]ESPN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://meuplay.shop:80/oem97d0v/0unmt83y/23
+#EXTINF:-1,[COLOR=white][B]ESPN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://meuplay.shop:80/oem97d0v/0unmt83y/237
+
 #EXTINF:-1,[COLOR=white][B]ESPN 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://clienteworld.com:80/claud123/claud123/82754
+#EXTINF:-1,[COLOR=white][B]ESPN 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://meuplay.shop:80/oem97d0v/0unmt83y/244
 
 #EXTINF:-1,[COLOR=white][B]RMC SPORT 1 FR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://localiptv62000.from-ok.com:9000/live:domeneprojekat/gzliiQzDPI/103
 #EXTINF:-1,[COLOR=white][B]RMC SPORT 2 FR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://localiptv62000.from-ok.com:9000/live:domeneprojekat/gzliiQzDPI/104
 
-
-#EXTINF:-1,[COLOR=white][B]GOL TV FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://181.78.11.238:6837/play/a02r
 #EXTINF:-1,[COLOR=white][B]GOL TV SD[/B][/COLOR][COLOR=white][/COLOR]
 http://200.41.79.165:8000/play/a05u/index.m3u8
 #EXTINF:-1,[COLOR=white][B]GOL TV HD[/B][/COLOR][COLOR=white][/COLOR]
