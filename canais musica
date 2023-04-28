@@ -401,17 +401,10 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
 #EXTINF:0,[COLOR=white][B]OCKO GOLD[/B][/COLOR][COLOR=white][/COLOR]
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]BARAZA MUSIC (GREEK HITS 1) HD[/B][/COLOR][COLOR=white][/COLOR]
-http://eco.streams.ovh:1935/BarazaTV/BarazaTV/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]BARAZA MUSIC (GREEK HITS 2) HD[/B][/COLOR][COLOR=white][/COLOR]
-http://eco.streams.ovh:1935/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]BARAZA TV CLASSICS[/B][/COLOR][COLOR=white][/COLOR]
-https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/chunklist_w296305449.m3u8
 #EXTINF:-1,[COLOR=white][B]BARAZA TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]BARAZA TV GREEK MUSIC HITS HD[/B][/COLOR][COLOR=white][/COLOR]
-https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+http://eco.streams.ovh:1935/BarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]BARAZA TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://eco.streams.ovh:1935/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
    
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]V2BEAT TV EN[/B][/COLOR][COLOR=white][/COLOR]
 https://abr.de1se01.v2beat.live/playlist.m3u8
