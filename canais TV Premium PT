@@ -338,6 +338,8 @@ https://000000
 
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://b7e64053.cbilant.com/iptv/LC8RBR34PMDLY8/19160/index.m3u8
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1497
 
 
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
@@ -375,8 +377,23 @@ https://0000000
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
-http://0000000000001111111111111111222222222222
-
-
-
+#EXTINF:-1,[COLOR=white][B]NOS STUDIO HD[/B][/COLOR][COLOR=white][/COLOR]
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1454
+#EXTINF:-1,[COLOR=white][B]NOS STUDIO HD[/B][/COLOR][COLOR=white][/COLOR]
+http://176.79.71.171:8001/play/a00e/index.m3u8
+#EXTINF:-1,[COLOR=white][B]TVCINE ACTION HD[/B][/COLOR][COLOR=white][/COLOR]
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1452
+#EXTINF:-1,[COLOR=white][B]TVCINE ACTION HD[/B][/COLOR][COLOR=white][/COLOR]
+http://176.79.71.171:8001/play/a01c/index.m3u8
+#EXTINF:-1,[COLOR=white][B]TVCINE EDITION HD[/B][/COLOR][COLOR=white][/COLOR]
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/82254
+#EXTINF:-1,[COLOR=white][B]TVCINE EDITION HD[/B][/COLOR][COLOR=white][/COLOR]
+http://176.79.71.171:8001/play/a018/index.m3u8
+#EXTINF:-1,[COLOR=white][B]TVCINE EMOTION HD[/B][/COLOR][COLOR=white][/COLOR]
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1448
+#EXTINF:-1,[COLOR=white][B]TVCINE EMOTION HD[/B][/COLOR][COLOR=white][/COLOR]
+http://176.79.71.171:8001/play/a01a/index.m3u8
+#EXTINF:-1,[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
+http://www.premiumiptvmk.com:8080/Millenium/jnp6M5PkDnJQRz99/1446
+#EXTINF:-1,[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
+http://176.79.71.171:8001/play/a01b/index.m3u8
