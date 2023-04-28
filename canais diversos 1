@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 #####################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 17/04/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 28/04/2023[/B][/COLOR][COLOR=orange][/COLOR]
  
 ###########################################################################################################################################
  
@@ -24,8 +24,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sport",[COLOR=white][B]BEIN SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FUEL TV FHD[/B][/COLOR][COLOR=white][/COLOR]
-https://fueltv-fueltv-2-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USA",[COLOR=white][B]NITRO CIRCUS[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Edge Sport" tvg-logo="https://i.imgur.com/6h10JDk.png" group-title="UK",[COLOR=white][B]EDGE SPORTS UK[/B][/COLOR][COLOR=white][/COLOR]
@@ -42,8 +40,6 @@ https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
 https://outsidetv-grvty-localnow.amagi.tv/localnow.m3u8
 #EXTINF: -1,[COLOR=white][B]ALL SPORTS BR[/B][/COLOR][COLOR=white][/COLOR]
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FUEL TV[/B][/COLOR][COLOR=white][/COLOR]
-https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]OUTSIDE TV[/B][/COLOR][COLOR=white][/COLOR]
 https://outsidetv-roku-us.amagi.tv/playlistR1080p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PAC 12 TV[/B][/COLOR][COLOR=white][/COLOR]
@@ -129,9 +125,6 @@ https://d2j3i48a0fc7gv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://aenetworks-ae-1.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1257yH7.png" group-title="USA",[COLOR=white][B]HOME MADE NATION[/B][/COLOR][COLOR=white][/COLOR]
-https://aenetworks-ae-1.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1257yH7.png" group-title="USA",[COLOR=white][B]HOME MADE NATION[/B][/COLOR][COLOR=white][/COLOR]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc1cb279c91420009db261d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5dc1cb279c91420009db261d&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=615&terminate=false&userId=
 
 #EXTINF:-1,[COLOR=white][B]BBC HOME HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -139,8 +132,6 @@ https://d1wxiaxdr51kqy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1,[COLOR=white][B]HOME MADE NATION HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d13c935311364708bf51b0eb4bbdb04f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_LivelyPlace/playlist.m3u8?ads.wurl_channel=285&ads.wurl_name=LivelyPlace&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=TDqNGsHpErYvv1J9s9FA&ads.plex_id=5f74cf82ffbe690040689f47&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
-#EXTINF:-1,[COLOR=white][B]HGTV USA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://87.212.248.44:60130/play/a04s
 #EXTINF:-1,[COLOR=white][B]HOMES UNDER HAMMER PLUTO TV[/B][/COLOR][COLOR=white][/COLOR]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c2e9d8002db3c3e0b1c72/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1,[COLOR=white][B]HOME PLUTO TV[/B][/COLOR][COLOR=white][/COLOR]
@@ -226,8 +217,6 @@ https://d3216p0n08c2mb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d3vdwtqqboxhm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/BayWatch2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1,[COLOR=white][B]OS PESADELOS DE RAMSAY[/B][/COLOR][COLOR=white][/COLOR]
 https://d12hafsmzbqmzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/KitchenNightmare2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1,[COLOR=white][B]DR. WHO?[/B][/COLOR][COLOR=white][/COLOR]
-https://d1lejqr2weuk14.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8ebttpj228lrg-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1,[COLOR=white][B]INK MASTER HD[/B][/COLOR][COLOR=white][/COLOR]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60807fd5db701400078219c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,[COLOR=white][B]MESTRES DO ILUSIONISMO[/B][/COLOR][COLOR=white][/COLOR]
@@ -248,8 +237,6 @@ https://000000
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/ignaaaaaa-ign1-samsungtv-us/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1,[COLOR=white][B]ESPORT MAX HD[/B][/COLOR][COLOR=white][/COLOR]
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]GAMESPLAY CALL OF DUTY[/B][/COLOR][COLOR=white][/COLOR]
-https://bit.ly/3nvh9n1?/playlist720Rlp.m3u8
 #EXTINF:-1,[COLOR=white][B]ESR 24/7 ESPORTS NETWORK[/B][/COLOR][COLOR=white][/COLOR]
 https://eyeonesports.com/720/ESR-002SCTE35.m3u8
 #EXTINF:-1,[COLOR=white][B]GAME REVOLUTION HD[/B][/COLOR][COLOR=white][/COLOR]
