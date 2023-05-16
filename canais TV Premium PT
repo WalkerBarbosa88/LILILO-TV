@@ -246,6 +246,8 @@ http://localiptv62000.from-ok.com:9000/live:domeneprojekat/gzliiQzDPI/104
 http://s1.pubnow.info:8080/iptvma/0NiLFVYHoR/94
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV SD[/B][/COLOR][COLOR=white][/COLOR]
 http://200.41.79.165:8000/play/a05u/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://infernoo.ltd:443/3uJ5QdurT/Ep5X9aj8e7/14884
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ARENA SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://80.252.37.194:5000/udp/233.233.233.3:12000
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ARENA SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
