@@ -95,25 +95,25 @@ http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/chunklist_w1683699584.m3u8
 
 #EXTM3U
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]RTP 1 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://162.212.178.69:41042/bysid/608
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]RTP INTER. HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
 http://210.210.155.37/qwr9ew/s/s38/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SIC HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_5.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SIC HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC HD[/B][/COLOR][COLOR=white][/COLOR]
 https://sic.live.impresa.pt/sic.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SIC NOTÍCIAS HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC NOTÍCIAS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://sicnot.live.impresa.pt/sicnot540p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SIC NOTÍCIAS HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC NOTÍCIAS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://sicnot.live.impresa.pt/sicnot.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]TVI FICÇÃO HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVI FICÇÃO HD[/B][/COLOR][COLOR=white][/COLOR]
 https://bit.ly/3gejKxf?720p/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]TVI ÁFRICA SD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVI ÁFRICA SD[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]EURONEWS HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]EURONEWS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/2172b02e9431e5c79bc717e0cc555b4d.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SANTUÁRIO DE FÁTIMA HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SANTUÁRIO DE FÁTIMA HD[/B][/COLOR][COLOR=white][/COLOR]
 https://streamer-b02.videos.sapo.pt/live/santuario/chunklist.m3u8
 
 
