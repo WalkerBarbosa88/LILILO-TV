@@ -206,6 +206,10 @@ http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2529/index.m3u8
 http://clientsportals.com:2095/hAyoxQ3u/mHsKjCKN/249069
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24SPORTTV6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.158.254.2:80/play/live.php?mac=00:1A:79:0F:C8:84&stream=107431&extension=ts&play_token=tknqu9zN2V
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.158.254.2:80/play/live.php?mac=00:1A:79:0F:C8:84&stream=118444&extension=ts&play_token=L6LaucFn10
 
 #EXTM3U
 ####################################################################################################################################
@@ -270,6 +274,12 @@ https://000000
 
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://b7e64053.cbilant.com/iptv/LC8RBR34PMDLY8/19160/index.m3u8
+#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.158.254.2:80/play/live.php?mac=00:1A:79:0F:C8:84&stream=983567&extension=ts&play_token=Nrfnum26Xi
+#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.158.254.2:80/play/live.php?mac=00:1A:79:0F:C8:84&stream=107511&extension=ts&play_token=L7v2SnR0v9
+#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.158.254.2:80/play/live.php?mac=00:1A:79:0F:C8:84&stream=118461&extension=ts&play_token=xcl6xpsLK2
 
 
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
@@ -331,6 +341,26 @@ https://0000000
 
 #EXTM3U
 
+#EXTINF:-1,[COLOR=white][B]NOS STUDIOS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.158.254.2:80/play/live.php?mac=00:1A:79:0F:C8:84&stream=107459&extension=ts&play_token=4cLPU7d1aR
+#EXTINF:-1,[COLOR=white][B]NOS STUDIOS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.158.254.2:80/play/live.php?mac=00:1A:79:0F:C8:84&stream=118451&extension=ts&play_token=7yY7XrY8Gx
+#EXTINF:-1,[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.158.254.2:80/play/live.php?mac=00:1A:79:0F:C8:84&stream=107423&extension=ts&play_token=SsQ8ohEadJ
+#EXTINF:-1,[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.158.254.2:80/play/live.php?mac=00:1A:79:0F:C8:84&stream=118442&extension=ts&play_token=N0O3Hoxwmm
+#EXTINF:-1,[COLOR=white][B]TVCINE EDITION HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.158.254.2:80/play/live.php?mac=00:1A:79:0F:C8:84&stream=107422&extension=ts&play_token=rKDZClUpdo
+#EXTINF:-1,[COLOR=white][B]TVCINE EDITION HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.158.254.2:80/play/live.php?mac=00:1A:79:0F:C8:84&stream=118441&extension=ts&play_token=mUo8HBAGBs
+#EXTINF:-1,[COLOR=white][B]TVCINE EMOTION HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.158.254.2:80/play/live.php?mac=00:1A:79:0F:C8:84&stream=107421&extension=ts&play_token=xKCv8a6VXH
+#EXTINF:-1,[COLOR=white][B]TVCINE EMOTION HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.158.254.2:80/play/live.php?mac=00:1A:79:0F:C8:84&stream=118440&extension=ts&play_token=8ON0FGj3nK
+#EXTINF:-1,[COLOR=white][B]TVCINE ACTION HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.158.254.2:80/play/live.php?mac=00:1A:79:0F:C8:84&stream=107420&extension=ts&play_token=0BKYpIWvlg
+#EXTINF:-1,[COLOR=white][B]TVCINE ACTION HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.158.254.2:80/play/live.php?mac=00:1A:79:0F:C8:84&stream=118439&extension=ts&play_token=hOjRa46A9Q
 
-#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
-http://0000000000000000000
+
+
