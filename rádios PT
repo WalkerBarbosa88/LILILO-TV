@@ -96,32 +96,15 @@ https://sp0.redeaudio.com/8028/stream/
 
 #EXTINF:0 tvg-logo="" group-title="https://upload.wikimedia.org/wikipedia/pt/c/ce/Logotipo_da_R%C3%A1dio_Cidade_%28Rio_de_Janeiro%29.png",[COLOR=white][B]CIDADE FM[/B][/COLOR][COLOR=white][/COLOR]
 http://mcrscast.mcr.iol.pt/cidadefm
-#EXTINF:-1 tvg-logo="https://cidade.iol.pt/images/webradios/logo_WB_HIPHOP.PNG" group-title="Media Capital Radios Portugal",[COLOR=white][B]CIDADE HIP HOP[/B][/COLOR][COLOR=white][/COLOR]
-http://mcrscast.mcr.iol.pt:80/cidHiphop
-#EXTINF:-1 tvg-logo="https://cidade.iol.pt/images/webradios/logo_WB_CIDADE.PNG" group-title="Media Capital Radios Portugal",[COLOR=white][B]CIDADE LATINA[/B][/COLOR][COLOR=white][/COLOR]
-http://mcrscast.mcr.iol.pt:80/cidLatina
 
 #EXTINF:-1,[COLOR=white][B]RÁDIO COMERCIAL[/B][/COLOR][COLOR=white][/COLOR]
 http://mcrscast.mcr.iol.pt/comercial.mp3
 
 #EXTINF:-1,[COLOR=white][B]M80 NACIONAL[/B][/COLOR][COLOR=white][/COLOR]
 http://mcrscast.mcr.iol.pt/m80
-#EXTINF:-1 tvg-logo="https://m80.iol.pt/images/logos_inner_black/m8080s.png" group-title="Media Capital Radios Portugal",[COLOR=white][B]M80 80´S[/B][/COLOR][COLOR=white][/COLOR]
-http://mcrscast.mcr.iol.pt:80/M8080
-#EXTINF:-1 tvg-logo="https://m80.iol.pt/images/logos_inner_black/m8090s.png" group-title="Media Capital Radios Portugal",[COLOR=white][B]M80 90´S[/B][/COLOR][COLOR=white][/COLOR]
-http://mcrscast.mcr.iol.pt:80/M8090
 
 #EXTINF:-1,[COLOR=white][B]RFM NACIONAL[/B][/COLOR][COLOR=white][/COLOR]
 http://21313.live.streamtheworld.com/RFMAAC.aac
-
-#EXTINF:-1,[COLOR=white][B]RFM - OCEANO PACÍFICO[/B][/COLOR][COLOR=white][/COLOR]
-https://23603.live.streamtheworld.com/OCEANPACIFICAAC_SC?dist=triton-widget&pname=tdwidgets
-
-#EXTINF:-1,[COLOR=white][B]RFM 80´S[/B][/COLOR][COLOR=white][/COLOR]
-https://20863.live.streamtheworld.com/GR80SRFM.mp3
-
-#EXTINF:-1,[COLOR=white][B]RFM DANCEFLOOR[/B][/COLOR][COLOR=white][/COLOR]
-https://25493.live.streamtheworld.com/DANCEONTHEFLOOR.mp3
   
 #EXTINF:-1,[COLOR=white][B]RÁDIO MEGA HITS[/B][/COLOR][COLOR=white][/COLOR]
 http://21313.live.streamtheworld.com/MEGA_HITSAAC.aac
