@@ -16,7 +16,7 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold]RÁDIOS PORTUGAL 1[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]RÁDIOS PT 1[/COLOR][/B]</name>
 <thumbnail>https://ia801803.us.archive.org/6/items/radios-portugal/R%C3%A1dios%20Portugal.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/WalkerBarbosa88/LILILO-TV/main/r%C3%A1dios%20PT</externallink>
 <fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
@@ -26,7 +26,7 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold]RÁDIOS PORTUGAL 2[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]RÁDIOS PT 2[/COLOR][/B]</name>
 <thumbnail>https://ia801803.us.archive.org/6/items/radios-portugal/R%C3%A1dios%20Portugal.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/main/live_online_radio/portugal.m3u</externallink>
 <fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
@@ -39,21 +39,10 @@
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR gold]RÁDIOS BRASIL[/COLOR][/B]</name>
 <thumbnail>https://ia903402.us.archive.org/23/items/bandeira-brasil/Bandeira%20Brasil.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/main/live_online_radio/brazil.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/main/online_radio.eu/Brazil-1.m3u</externallink>
 <fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
 <info>portugalkodi.com</info>
 </channel>
-
-
-
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold]RÁDIOS TDT CHANNELS[/COLOR][/B]</name>
-<thumbnail>https://ia801805.us.archive.org/10/items/tdt-channels_202104/TDT%20Channels.jpg</thumbnail>
-<externallink>https://www.tdtchannels.com/lists/radio.m3u8</externallink>
-<fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
-<info>portugalkodi.com</info>
-</channel>
-
 
 
 <channels>
