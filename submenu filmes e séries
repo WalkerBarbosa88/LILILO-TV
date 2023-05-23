@@ -36,16 +36,6 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold]FILMES PT 2[/COLOR][/B]</name>
-<thumbnail>https://ia601501.us.archive.org/14/items/filmes-pt-e-leg/Filmes%20PT%20e%20Leg.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/WalkerBarbosa88/LILILO-TV/main/filmes%20PT%202</externallink>
-<fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
-<info></info>
-</channel>
-
-
-<channels>
-<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR gold]FILMES DIVERSOS[/COLOR][/B]</name>
 <thumbnail>https://ia601506.us.archive.org/19/items/diversos-filmes_202208/Diversos%20Filmes.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/WalkerBarbosa88/LILILO-TV/main/filmes%20diversos</externallink>
@@ -65,7 +55,6 @@
 </channel>
 
 
-
 <channels>
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR gold]STAR WARS[/COLOR][/B]</name>
@@ -74,8 +63,6 @@
 <fanart>https://ia601409.us.archive.org/21/items/star-wars_202209/Star%20Wars.jpg</fanart>
 <info></info>
 </channel>
-
-
 
 
 </channels>
