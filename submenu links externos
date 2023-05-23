@@ -60,9 +60,20 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold]ADDON EXTERNO[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]ADDON EXTERNO 1[/COLOR][/B]</name>
 <thumbnail>https://ia601406.us.archive.org/3/items/lista-externa-m-3-u_202210/Lista%20Externa%20M3U.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/eudesbezerracandido/CATEGORIA/master/README.md</externallink>
+<fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
+<info>portugalkodi.com</info>
+</channel>
+
+
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]ADDON EXTERNO 2[/COLOR][/B]</name>
+<thumbnail>https://ia601406.us.archive.org/3/items/lista-externa-m-3-u_202210/Lista%20Externa%20M3U.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/carivaldo/ADDON-1/master/BXL</externallink>
 <fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
 <info>portugalkodi.com</info>
 </channel>
