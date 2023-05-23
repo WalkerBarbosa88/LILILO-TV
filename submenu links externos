@@ -16,7 +16,18 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR gold]MUSICA M3L[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]LISTA M3U.CL[/COLOR][/B]</name>
+<thumbnail>https://ia804508.us.archive.org/6/items/link-externo/Link%20Externo.jpg</thumbnail>
+<externallink>https://m3u.cl/lista/total.m3u</externallink>
+<fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
+<info>portugalkodi.com</info>
+</channel>
+
+
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR gold]MUSICA M3U.CL[/COLOR][/B]</name>
 <thumbnail>https://ia902203.us.archive.org/29/items/musica_202203/MUSICA.jpg</thumbnail>
 <externallink>https://m3u.cl/lista/musica.m3u</externallink>
 <fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
