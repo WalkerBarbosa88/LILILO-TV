@@ -49,12 +49,18 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-xiaomi/p
 #EXTINF:-1,[COLOR=white][B]TRACE LATINA HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
 
+
+
+#EXTINF:-1,[COLOR=white][B]BRIDGE TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://livetv.mylifeisgood.ml/channels/bridgetv24h.m3u8
 #EXTINF:-1,[COLOR=white][B]BRIDGE CLASSIC HD[/B][/COLOR][COLOR=white][/COLOR]
-https://livetv.mylifeisgood.ml/channels/bridgeclassictv
+https://livetv.mylifeisgood.ml/channels/bridgeclassictv.m3u8
 #EXTINF:-1,[COLOR=white][B]BRIDGE DELUXE HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myott.top/stream/DEKA6YA5JRN/92.m3u8
-#EXTINF:-1,[COLOR=white][B]BRIDGE HITS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://70cddd5a.ottolok.net/iptv/HVFPE2EKMZSVK6/711/index.m3u8
+https://livetv.mylifeisgood.ml/channels/bridgedeluxetv.m3u8
+
+
+
+
 
 #EXTINF:-1,[COLOR=white][B]4 MUSIC UK[/B][/COLOR][COLOR=white][/COLOR]
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
@@ -164,12 +170,12 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]AFROBEAT HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1,[COLOR=white][B]AFROBEAT HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.ecable.tv/afrobeats/index.m3u8
-
 #EXTINF:-1,[COLOR=white][B]DBM TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://edge.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8?checkedby:iptvcat.net
+#EXTINF:-1,[COLOR=white][B]BBBLACK TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://stream.vedge.infomaniak.com/livecast/ik:bblackafrica/chunklist.m3u8
 
 
 ######################################################################################################
