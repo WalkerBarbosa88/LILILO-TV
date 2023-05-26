@@ -11,7 +11,7 @@ http://0.0.0.0:0000
 https://tvgratuita10.blogspot.com/?fbclid=IwAR1hjt2fxRsjhUBFg6lhEEU1cbj3xHkyZ65tIOyWhApFByPIvawYYeSmHmo
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 16/05/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 26/05/2023[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
@@ -70,16 +70,10 @@ https://000000
 
 #EXTM3U
 
-
-#EXTINF:-1,[COLOR=white][B]RÁDIO TV SAL ONE[/B][/COLOR][COLOR=white][/COLOR]
-https://w1.mediastreaming.it/radiosalone/livestream/chunklist_w1808948468.m3u8
-
 #EXTINF:-1,[COLOR=white][B]DEMAND ÁFRICA[/B][/COLOR][COLOR=white][/COLOR]
 https://demandafrica-oando.amagi.tv/amRdirect/p=da/hls/amagi_hls_data_theafrica-demand-africa-oando/CDN/1920x1080_5055600/index.m3u8
 #EXTINF:-1,[COLOR=white][B]TVM SD[/B][/COLOR][COLOR=white][/COLOR]
 http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]TVM INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
-http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]TVM INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
 http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_b714000_slpor.m3u8
 #EXTINF:-1,[COLOR=white][B]CANAL MACAU TV SD[/B][/COLOR][COLOR=white][/COLOR]
@@ -94,6 +88,7 @@ http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/chunklist_w1683699584.m3u8
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS TV PORTUGAL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #EXTM3U
+
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://162.212.178.69:41042/bysid/608
@@ -120,6 +115,7 @@ https://streamer-b02.videos.sapo.pt/live/santuario/chunklist.m3u8
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS TV PORTUGAL 2  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #EXTM3U
+
 
 #EXTINF:0 tvg-id="1p1" group-title="Channels",CANAL 11
 http://176.79.71.171:3001/play/a008/index.m3u8
