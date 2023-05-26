@@ -57,10 +57,8 @@ https://livetv.mylifeisgood.ml/channels/bridgetv24h.m3u8
 https://livetv.mylifeisgood.ml/channels/bridgeclassictv.m3u8
 #EXTINF:-1,[COLOR=white][B]BRIDGE DELUXE HD[/B][/COLOR][COLOR=white][/COLOR]
 https://livetv.mylifeisgood.ml/channels/bridgedeluxetv.m3u8
-
-
-
-
+#EXTINF:-1,[COLOR=white][B]DELUXE MUSIC TV[/B][/COLOR][COLOR=white][/COLOR]
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
 #EXTINF:-1,[COLOR=white][B]4 MUSIC UK[/B][/COLOR][COLOR=white][/COLOR]
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
@@ -122,6 +120,8 @@ http://muzzone-stream.daitsuna.net/muzzondvr/muzzone_dvr/chunks_dvr.m3u8
 https://000000
 
 
+#EXTINF:-1,[COLOR=white][B]DELUXE MUSIC DANCE KONDOR[/B][/COLOR][COLOR=white][/COLOR]
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1,[COLOR=white][B]DANCE TV - BEST OF DANCE[/B][/COLOR][COLOR=white][/COLOR]
 https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1,[COLOR=white][B]DANCE TV - DEEP HOUSE[/B][/COLOR][COLOR=white][/COLOR]
@@ -198,6 +198,9 @@ https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
 https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]ROCKARYAD TV[/B][/COLOR][COLOR=white][/COLOR]
 http://rocknaryad.streaming-elbrus.su:56373/rock_naryad/video.m3u8?token=rocknaryad
+
+#EXTINF:-1,[COLOR=white][B]DELUXE MUSIC ROCK[/B][/COLOR][COLOR=white][/COLOR]
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
 
 ######################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  MÚSICAS ALTERNATIVAS & AO VIVO /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -321,6 +324,9 @@ https://dw0oa71jud5ry.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
  #EXTINF:-1,[COLOR=white][B]XITE TV 90´S THROWBACK[/B][/COLOR][COLOR=white][/COLOR]
  https://d3fr64zqebnqn3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb3200007ak-prod/amg90rock/playlist.m3u8
  
+#EXTINF:-1,[COLOR=white][B]DELUXE MUSIC FLASHBACK[/B][/COLOR][COLOR=white][/COLOR]
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
+ 
 ######################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA LATINA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
@@ -340,6 +346,9 @@ https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,[COLOR=white][B]OXIGENO TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,[COLOR=white][B]ZONA TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://srv.panelcast.net/zonatv2023/zonatv2023/chunklist.m3u8
 
 
 ######################################################################################
