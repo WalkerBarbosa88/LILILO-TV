@@ -43,8 +43,6 @@
 </channel>
 
 
-
-
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR yellow]CANAIS TV BR[/COLOR][/B]</name>
 <thumbnail>https://ia903402.us.archive.org/23/items/bandeira-brasil/Bandeira%20Brasil.jpg</thumbnail>
@@ -53,6 +51,14 @@
 <info></info>
 </channel>
 
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR yellow]CANAIS TV BR 2[/COLOR][/B]</name>
+<thumbnail>https://ia903402.us.archive.org/23/items/bandeira-brasil/Bandeira%20Brasil.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/listamake/iptvbr/main/home.m3u</externallink>
+<fanart>https://ia902502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
+<info></info>
+</channel>
 
 
 <channels>
