@@ -86,7 +86,7 @@ https://000000
 https://1111122222222255555555
 
 ##########################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS NOTÍCIAS TV  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DIVERSOS BRASIL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTM3U
@@ -98,13 +98,6 @@ http://51.83.238.223:16825
 https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 #EXTINF:0 tvg-id="ext" group-title="News",[COLOR=white][B]JOVEM PAN NEWS FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
-
-
-##########################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  LISTA CANAIS BR 2  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://000000
-
-#EXTM3U
 
 #EXTINF:0 tvg-id="Tcaction.br" group-title="Channels",TELECINE ACTION HD
 http://51.83.238.223:16703
@@ -138,6 +131,4 @@ http://51.83.238.223:16186
 http://51.83.238.223:16274
 #EXTINF:0 tvg-id="ext" group-title="Channels",CG NEWS HD
 http://51.83.238.223:16825
-
-
 
