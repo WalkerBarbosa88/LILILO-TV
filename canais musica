@@ -4,7 +4,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 16/05/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 26/05/2023[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -71,11 +71,6 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]POWERHD[/B][/COLOR][COLOR=white][/COLOR]
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]POWER+ HD[/B][/COLOR][COLOR=white][/COLOR]
-http://livetv.powerapp.com.tr/pplustv/pplustv.smil/chunklist_b2628000_sltur.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]POWER DANCE HD[/B][/COLOR][COLOR=white][/COLOR]
-http://livetv.powerapp.com.tr/dance/dance.smil/chunklist_b2628000_sltur.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="TV Musicas",[COLOR=white][B]ONE HD[/B][/COLOR][COLOR=white][/COLOR]
 http://rtmp.one.by:1300
 
@@ -112,9 +107,6 @@ http://server.bellaradio.it:1935/live/bellaradiotv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]ZEROUNO TV[/B][/COLOR][COLOR=white][/COLOR]
 http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]ZAPPING TV[/B][/COLOR][COLOR=white][/COLOR]
-https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_live1_b4131600_sles.m3u8
-
 #EXTINF:-1,[COLOR=white][B]MUZZONE TV[/B][/COLOR][COLOR=white][/COLOR]
 http://muzzone-stream.daitsuna.net/muzzondvr/muzzone_dvr/chunks_dvr.m3u8
 
@@ -123,9 +115,6 @@ http://muzzone-stream.daitsuna.net/muzzondvr/muzzone_dvr/chunks_dvr.m3u8
 #EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA ELECTRÓNICA - 3 OFFLINE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
-
-#EXTINF:-1,[COLOR=white][B]TOTAL DANCE TV[/B][/COLOR][COLOR=white][/COLOR]
-http://iptv01.eurocable.co.hu/EC-TOTALDANCEHD/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]DANCE TV - BEST OF DANCE[/B][/COLOR][COLOR=white][/COLOR]
 https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
@@ -158,8 +147,6 @@ https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8Ak6qR.png" group-title="",[COLOR=white][B]IBIZA GLOBAL TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://ibgrtv.streaming-pro.com/hls/ibgrlive_2.m3u8
-#EXTINF:-1,[COLOR=white][B]MUSIC TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-https://live.prd.dlive.tv/hls/live/funstudio.m3u8
 #EXTINF:-1,[COLOR=white][B]MUSIC TV 9 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://live.prd.dlive.tv/hls/live/cybervybezradio.m3u8
 #EXTINF:-1,[COLOR=white][B]SONUS FM TV HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -195,9 +182,6 @@ https://000000
 https://59f1cbe63db89.streamlock.net:1443/tvbeltrao3/_definst_/tvbeltrao3/chunklist_w782273434.m3u8
 #EXTINF:-1,[COLOR=white][B]CATEDRAL DO ROCK HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/chunklist_w720649222.m3u8
-#EXTINF:-1,[COLOR=white][B]RCK HD[/B][/COLOR][COLOR=white][/COLOR]
-https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1,[COLOR=white][B]ESKA ROCK HD[/B][/COLOR][COLOR=white][/COLOR]
 http://54.39.17.6/eskarocktv/index.m3u8
 #EXTINF:-1,[COLOR=white][B]ROCK TV BR HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -239,9 +223,6 @@ http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]EURO TV[/B][/COLOR][COLOR=white][/COLOR]
 https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]SEXY KPOP TV[/B][/COLOR][COLOR=white][/COLOR]
-http://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]KISS KISS TV[/B][/COLOR][COLOR=white][/COLOR]
 http://58f12ffd2447a.streamlock.net:1935/KKMulti/livestream/playlist.m3u8
@@ -319,9 +300,6 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,[COLOR=white][B]CLASSIC HITS[/B][/COLOR][COLOR=white][/COLOR]
 http://168.205.87.198:8555/live/1431/123456/27.ts
 
-#EXTINF:-1,[COLOR=white][B]OLDIES HITS TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://video01.logicahost.com.br/oldieshits/oldieshits/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1,[COLOR=white][B]MEMORIAS TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://mediacp.us:8081/8002/index.m3u8?PlaylistM3UCL
 
@@ -350,9 +328,6 @@ https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8?
 
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]AMÉRICA LATINA[/B][/COLOR][COLOR=white][/COLOR]
 http://168.205.87.198:8555/live/1431/123456/16.ts
-
-#EXTINF:-1,[COLOR=white][B]MOLA HITS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://ventdelnord.tv:8080/mola/directe.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,[COLOR=white][B]VCLASSIC TV TROPICAL[/B][/COLOR][COLOR=white][/COLOR]
 https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8?PlaylistM3UCL
@@ -529,10 +504,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df
 
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]VEVO 80´S[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]VEVO HIP HOP[/B][/COLOR][COLOR=white][/COLOR]
-https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]VEVO LATIDO[/B][/COLOR][COLOR=white][/COLOR]
-https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]VEVO POP[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]VEVO[/B][/COLOR][COLOR=white][/COLOR]
@@ -545,12 +516,11 @@ https://bit.ly/vevo90s?wmsAuthSign=InspirationLinks
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]VEVO LATINO[/B][/COLOR][COLOR=white][/COLOR]
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]VEVO POP EUROPE[/B][/COLOR][COLOR=white][/COLOR]
-https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
+
 
 
 ######################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 16/05/2023 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 26/05/2023 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
@@ -595,8 +565,6 @@ http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
 https://sc.id-tv.kz/mezzo_life_hd_34_35.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SONUS FM[/B][/COLOR][COLOR=white][/COLOR]
 http://www.sonus.fm:1935/public/stream_720p/chunklist_w514335426.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RADIO XNT[/B][/COLOR][COLOR=white][/COLOR]
-http://lova.me/hls/hit.m3u8
 #EXTINF:0 tvg-id="TVM3.ch" group-title="Channels",[COLOR=white][B]TVM3[/B][/COLOR][COLOR=white][/COLOR]
 https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]XITE HD DE[/B][/COLOR][COLOR=white][/COLOR]
