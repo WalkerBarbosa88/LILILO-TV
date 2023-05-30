@@ -5,8 +5,313 @@ http://0.0.0.0:0000
 ####################################################################################################################################################
  
 #EXTM3U
-#EXTINF:-1,[COLOR=yellow][B]LISTA EM BREVE[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA ADICIONADA: 30/05/2023[/B][/COLOR][COLOR=yellow][/COLOR]
 
 
-#EXTINF:-1,[COLOR=white][B]BREVEMENTE[/B][/COLOR][COLOR=white][/COLOR]
-https://11111111112222222222222222444444444448555555
+
+#EXTINF:0 tvg-id="rtp1.pt" group-title="General",RTP1 SD
+http://162.212.178.69:41042/bysid/608?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="rtp1.pt" group-title="Undefined",RTP 1 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rtp.1.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="rtp2.pt" group-title="Undefined",RTP 2 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rtp.2.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="RTP3.pt" group-title="Undefined",RTP 3 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rtp.3.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="RTPAcores.pt" group-title="Undefined",RTP Acores
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rtp.acores.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",RTP INTER.
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rtp.inter.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",SIC FHD
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SicCaras.pt" group-title="Undefined",SIC CARAS
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sic.caras.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SicK.pt" group-title="Undefined",SIC K
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sic.k.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="sic.pt" group-title="Undefined",SIC PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sic.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="sic.pt" group-title="Undefined",PT - SIC
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62068?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="sicmulher.pt" group-title="Undefined",PT - SIC MULHER
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62065?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="sicnoticias.pt" group-title="Undefined",PT - SIC NOTICIAS
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62066?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SicCaras.pt" group-title="Undefined",PT - SIC CARAS
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62062?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TVIFiccao.pt" group-title="Undefined",PT - TVI FICCAO
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62106?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TVI.pt" group-title="Undefined",PT - TVI HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62107?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TVIReal.pt" group-title="Undefined",PT - TVI REALITY
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62108?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TVI24.pt" group-title="Undefined",PT - CNN PORTUGAL
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62105?checkedby:iptvcat.com
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="Sport",SPORT TV + PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Sport",SPORT TV 1 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv1.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Sport",SPORT TV 2 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv2.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Sport",PT - SPORT TV 2
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62079?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Sport",SPORT TV 3 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv3.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Sport",SPORT TV 4 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv4.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Sport",PT - SPORT TV 4 HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62074?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Sport",SPORT TV 5 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv5.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Sport",PT - SPORT TV 5
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62082?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SportTV6.pt" group-title="Sport",SPORT TV 6
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/sport.tv6.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",PT - SPORT TV NBA HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62076?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SyFy.pt" group-title="Undefined",PT - SyFy
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62084?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",PT - TCV Cabo Verde
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62086?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TLC.pt" group-title="Undefined",PT - TLC
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62087?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",PT - TPA ANGOLA
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62089?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",PT - TV GLOBO
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62096?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",PT - TRAVEL HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62091?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",PT - VH1
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62109?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",PT - ZAP VIVA HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62110?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",PT -- BABY TV
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61980?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="PortoCanal.pt" group-title="Undefined",PORTO CANAL
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/porto.canal.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="Undefined",SYFY
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/syfy.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="tlc-russia" group-title="Undefined",TLC
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tlc.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",TV CANÇÃO NOVA PT
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TVCineTOP.pt" group-title="Undefined",TVCINE 1 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tvcine.1.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",TVCINE 2 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tvcine.2.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TVI24.pt" group-title="Undefined",TVI 24 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tvi.24.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",TVI FICÇÃO
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TVI.pt" group-title="Undefined",TVI PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tvi.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="News",PT - SKY News
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62070?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Kids",PT - SIC KIDS
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62064?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Religious;Undefined",Sobrenatural TV
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",4K VIP  SPORT TV 1
+http://fireott.biz:2052/3913434942/3ykwcx7c/146726?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",4K VIP SPORT TV PLUS
+http://fireott.biz:2052/3913434942/3ykwcx7c/146724?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ElevenSports1.pt" group-title="Sport",Eleven Sports 1 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.1.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ElevenSports2.pt" group-title="Sport",Eleven Sports 2 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.2.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ElevenSports3.pt" group-title="Sport",Eleven Sports 3 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.3.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ElevenSports4.pt" group-title="Sport",Eleven Sports 4 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.4.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ElevenSports5.pt" group-title="Sport",Eleven Sports 5 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.5.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ElevenSports6.pt" group-title="Sport",Eleven Sports 6 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/eleven.sports.6.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",HD VIP   ELEVEN SPORTS 4
+http://fireott.biz:2052/3913434942/3ykwcx7c/146734?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",HD VIP ELEVEN SPORTS 5
+http://fireott.biz:2052/3913434942/3ykwcx7c/146735?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Eurosport1.pt" group-title="Sport",PT - EUROSPORT 1 HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62004?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",PT - EUROSPORT 2
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62005?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Sport",PT - NBA HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62042?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Legislative",AR TV Canal Parlamento [Not 24/7]
+https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",AXN PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/axn.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Benfica TV PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/benfica.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ABolaTV.pt" group-title="Undefined",Bola TV
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bola.tv.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CMTV.pt" group-title="Undefined",CMTV PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cmtv.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Canal11.pt" group-title="Undefined",Canal 11
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/canal.11.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="hollywood.pt" group-title="Undefined",Canal Hollywood
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/canal.hollywood.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="canalpanda.pt" group-title="Undefined",Canal Panda
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/canal.panda.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FoxComedy.it" group-title="Undefined",FOX Comedy
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.comedy.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",FOX Crime PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.crime.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",FOX Life PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.life.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Undefined",FOX Movies
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.movies.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",FOX PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",Ficcao
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/ficcao.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",National Geographic PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/national.geographic.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="nick-jr" group-title="Undefined",Nick JR
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nick.jr.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="Undefined",Nickelodeon
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/nickelodeon.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",PT - 24 Kitchen HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61967?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",PT - A Bola TV
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61968?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",PT - A&E TV
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61969?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="AMC.pt" group-title="Undefined",PT - AMC
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61971?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",PT - ARTV HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61973?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="AXNBlack.pt" group-title="Undefined",PT - AXN BLACK HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61974?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="axn.pt" group-title="Undefined",PT - AXN HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61977?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",PT - AXN Movies HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61975?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="AXNWhite.pt" group-title="Undefined",PT - AXN WHITE HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61979?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",PT - BTV HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61984?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",PT - Benfica TV HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61981?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",PT - Biggs
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61982?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",PT - Blaze
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61983?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CacaVision.pt" group-title="Undefined",PT - CAÇÃVISION
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61990?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",PT - CM TV
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61993?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",PT - CMTV HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61994?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",PT - Canal 11 FHD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61985?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",PT - Canal 180
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61986?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="canalpanda.pt" group-title="Undefined",PT - Canal Panda
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61988?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CanalQ.pt" group-title="Undefined",PT - Canal Q
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61989?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",PT - Canal de Historia
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61987?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",PT - Caçae Pesca
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61991?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",PT - Cinemundo
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61992?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",PT - Crime & Investigation
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61995?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",PT - DOG HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62001?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",PT - Discovery Channel
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61996?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",PT - Discovery Showcase HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61998?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="disneychannel.pt" group-title="Undefined",PT - Disney Channel
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61999?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="DisneyJunior.pt" group-title="Undefined",PT - Disney Junior
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62000?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="eentertainment.pt" group-title="Undefined",PT - E! Entertainment
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62002?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",PT - EURO CHANNEL
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62006?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FightNetwork.pt" group-title="Undefined",PT - FIGHT NETWORK HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62008?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="foxcrime.pt" group-title="Undefined",PT - FOX CRIME HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62014?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Undefined",PT - FOX Comedy
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62012?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="fox.pt" group-title="Undefined",PT - FOX HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62017?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="foxlife.pt" group-title="Undefined",PT - FOX LIFE HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62019?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Undefined",PT - FOX Movies
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62020?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Undefined",PT - FOX Movies HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62021?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",PT - Fashion TV
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62007?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",PT - Fight BOX HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62009?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FoodNetwork.pt" group-title="Undefined",PT - Food Network
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62011?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",PT - France 24
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62023?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="Undefined",PT - Fuel TV
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62024?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="GloboPremium.pt" group-title="Undefined",PT - GLOBO PREMIUM
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62026?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",PT - Hollywood HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62027?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="JimJam.pt" group-title="Undefined",PT - JIM JAM
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62028?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",PT - LOCALVISAO TV HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62031?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",PT - MCM TOP
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62033?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="mtvportugal.pt" group-title="Undefined",PT - MTV
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62036?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Motorvision.pt" group-title="Undefined",PT - Motorvision
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62035?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",PT - NATIONAL GEOGRAPHIC HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62041?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Undefined",PT - NOS STUDIOS HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62044?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="NatGeoWild.pt" group-title="Undefined",PT - Nat Geo Wild
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62040?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Undefined",PT - Nickelodeon
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62043?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="odisseia.pt" group-title="Undefined",PT - ODISSEIA
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62046?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Undefined",PT - PANDA BIGGS
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62048?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="pfc.pt" group-title="Undefined",PT - PFC
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62049?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="PortoCanal.pt" group-title="Undefined",PT - Porto Canal
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62050?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="rtp1.pt" group-title="Undefined",PT - RTP 1
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62052?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="rtp2.pt" group-title="Undefined",PT - RTP 2
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62053?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="RTP3.pt" group-title="Undefined",PT - RTP 3
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62055?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Undefined",PT - RTP Africa
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62056?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="RTPAcores.pt" group-title="Undefined",PT - RTP Açores
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62057?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="RTPMadeira.pt" group-title="Undefined",PT - RTP MADEIRA
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62058?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Undefined",PT - RTP MEMORIA
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62059?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TVI24.pt" group-title="News",CNN Portugal
+https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="News",PT - EuroNews
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62003?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="FoxNews.pt" group-title="News",PT - FOX News
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62022?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="AfroMusic.pt" group-title="Music",PT - Afro Music
+http://2hubs.ddns.net:25461/BabNour/telegrramm/61970?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Kids",PT - Kuriakos Kids
+http://2hubs.ddns.net:25461/BabNour/telegrramm/62029?checkedby:iptvcat.com
+
+
+
