@@ -140,6 +140,12 @@ https://cams.cdn-surfline.com/cdn-int/pt-praiagrande/chunklist.m3u8
 #EXTINF:-1,[COLOR=white][B]LISBOA - PANORAMA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=arPfeZrhk8w
 
+#EXTINF:-1,[COLOR=white][B]LISBOA - CACILHAS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=XSxwWMzaBgo
+
+#EXTINF:-1,[COLOR=white][B]LISBOA - TEJO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=y77y9tacA2c
+
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  WEBCAM´S MUNDIAIS - YOUTUBE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
