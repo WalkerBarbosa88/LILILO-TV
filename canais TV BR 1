@@ -16,7 +16,7 @@ CANAIS ABERTOS / LIVRES BRASIL - https://github.com/pk5002/12345/blob/main/Pk2%2
                                                  
 #EXTM3U
 ##########################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS EXCLUSIVOS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS EXCLUSIVOS E/OU WEB TV  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTM3U
@@ -34,12 +34,34 @@ https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w950318815.m3u8
 https://stmv1.srvif.com/webvintage/webvintage/chunklist_w1086155908.m3u8
 #EXTINF:-1,[COLOR=white][B]TV MAX HD[/B][/COLOR][COLOR=white][/COLOR]
 https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
+#EXTINF:-1,[COLOR=white][B]TV MAX[/B][/COLOR][COLOR=white][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8
 #EXTINF:-1,[COLOR=white][B]CLASSIQUE TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stmv1.srvif.com/classique/classique/chunklist_w323924929.m3u8
 #EXTINF:-1,[COLOR=white][B]ANITV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.ichibantv.ga:3764/hybrid/play.m3u8
 #EXTINF:-1,[COLOR=white][B]ANIME TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stmv1.srvif.com/animetv/animetv/chunklist_w237344650.m3u8
+#EXTINF:-1,[COLOR=white][B]REDE BRASIL[/B][/COLOR][COLOR=white][/COLOR]
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w1123009293.m3u8
+#EXTINF:-1,[COLOR=white][B]TV NOVA PLAY[/B][/COLOR][COLOR=white][/COLOR]
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w340626343.m3u8
+#EXTINF:-1,[COLOR=white][B]TV EXTREME[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w1429787436.m3u8
+#EXTINF:-1,[COLOR=white][B]ANIME TV[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv1.srvif.com/animetv/animetv/chunklist_w1018983833.m3u8
+#EXTINF:-1,[COLOR=white][B]TVCINE[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w703739457.m3u8
+#EXTINF:-1,[COLOR=white][B]BONS TEMPOS TV[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv1.srvif.com/canal29/canal29/chunklist_w1142321875.m3u8
+#EXTINF:-1,[COLOR=white][B]TV CLÁSSICOS[/B][/COLOR][COLOR=white][/COLOR]
+https://live01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w1822278367.m3u8
+#EXTINF:-1,[COLOR=white][B]HITS TV[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv1.srvstm.com/gilberto6794/gilberto6794/chunklist_w456360610.m3u8
+#EXTINF:-1,[COLOR=white][B]ANIMESTATION[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w1929320206.m3u8
+#EXTINF:-1,[COLOR=white][B]MEGA TV[/B][/COLOR][COLOR=white][/COLOR]
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_3c6bb4af-e4a4-4b08-8a3a-ed84410dc81e.m3u8
 
 
 ##########################################################################################################################################
