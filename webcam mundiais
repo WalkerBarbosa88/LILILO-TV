@@ -6,7 +6,7 @@ http://0.0.0.0:0000
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 03/03/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 03/03/2023. ATUALIZADA: 02/06/2023[/B][/COLOR][COLOR=orange][/COLOR]
 ############################################################################################################################################################
 
 Fonte: https://fluxustvespanol.blogspot.com/p/fluxus-cctv.html#gsc.tab=0
@@ -133,6 +133,12 @@ https://s98.ipcamlive.com/streams/62j7l0zlaikxevvyn/stream.m3u8
 
 #EXTINF:-1,[COLOR=white][B]AÇORES - CLUBE NAVAL[/B][/COLOR][COLOR=white][/COLOR]
 https://cnsm.olho.mariense.pt/cam/camera.m3u8
+
+#EXTINF:-1,[COLOR=white][B]SINTRA - PRAIA GRANDE[/B][/COLOR][COLOR=white][/COLOR]
+https://cams.cdn-surfline.com/cdn-int/pt-praiagrande/chunklist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]LISBOA - PANORAMA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=arPfeZrhk8w
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  WEBCAM´S MUNDIAIS - YOUTUBE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
