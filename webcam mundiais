@@ -114,8 +114,25 @@ MAIS WEBCAM AO VIVO
 94 Santorini, Grece https://www.santorini.net
 95 Kårvåg, Norway https://atlanterhavsveien.org
 96 Crаns-Montana, Switzerland https://bernerklinik.ch
-                
+ 
 #EXTM3U
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  PORTUGAL - EXCLUSIVO  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+#EXTM3U
+
+
+#EXTINF:-1,[COLOR=white][B]ALGARVE - ALFAGAR APARTHOTEL[/B][/COLOR][COLOR=white][/COLOR]
+https://s101.ipcamlive.com/streams/65cjn0x3g8d9kcmrf/stream.m3u8
+
+#EXTINF:-1,[COLOR=white][B]ALGARVE - ALBUFEIRA[/B][/COLOR][COLOR=white][/COLOR]
+https://s76.ipcamlive.com/streams/4cnmwathsql8pv9hi/stream.m3u8
+
+#EXTINF:-1,[COLOR=white][B]AÇORES - LAJES DO PICO[/B][/COLOR][COLOR=white][/COLOR]
+https://s98.ipcamlive.com/streams/62j7l0zlaikxevvyn/stream.m3u8
+
+#EXTINF:-1,[COLOR=white][B]AÇORES - CLUBE NAVAL[/B][/COLOR][COLOR=white][/COLOR]
+https://cnsm.olho.mariense.pt/cam/camera.m3u8
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  WEBCAM´S MUNDIAIS - YOUTUBE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
