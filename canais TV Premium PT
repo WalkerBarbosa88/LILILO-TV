@@ -60,15 +60,22 @@ http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1509
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1512
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 6
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1515
-
-
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE+
+http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224065
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE TOP
+http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/131037
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE EDITION
+http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/131038
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE EMOTION
+http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/131039
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE ACTION
+http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/131040
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS SPORT TV PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://00000000000
 
 #EXTM3U
-
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
@@ -97,8 +104,6 @@ http://45.158.254.2:80/play/live.php?mac=00:1A:79:0F:C8:84&stream=118444&extensi
 https://000000
 
 #EXTM3U
-
-
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ARENA SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://80.252.37.194:5000/udp/233.233.233.3:12000
