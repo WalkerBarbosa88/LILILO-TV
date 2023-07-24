@@ -30,8 +30,36 @@ http://0.0.0.0:0000
 #EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS EM TESTES M3U  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://00000000000
 
-#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
-http://000000000111111111111111112222222222222
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",PT: BTV
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1497
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",PT: SPORT TV +
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1481
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1483
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1486
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1489
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1492
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT: SPORT TV 5
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1495
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 6
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/281487
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV NBA
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/2051
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 1
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1499
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 2
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1503
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 3
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1506
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 4
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1509
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 5
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1512
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 6
+http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1515
 
 
 
