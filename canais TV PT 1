@@ -11,7 +11,7 @@ http://0.0.0.0:0000
 https://tvgratuita10.blogspot.com/?fbclid=IwAR1hjt2fxRsjhUBFg6lhEEU1cbj3xHkyZ65tIOyWhApFByPIvawYYeSmHmo
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 26/05/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 24/07/2023[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
@@ -26,8 +26,6 @@ https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 https://5d82644094cc0.streamlock.net/xradiotv/xradiotv/chunklist_w1017197052.m3u8
 #EXTINF:-1,[COLOR=white][B]XRADIO TV[/B][/COLOR][COLOR=white][/COLOR]
 https://5d82644094cc0.streamlock.net/xradiotv/xradiotv/chunklist_w765992564.m3u8
-#EXTINF:-1,[COLOR=white][B]CAMÕES TV[/B][/COLOR][COLOR=white][/COLOR]
-https://customer-3s66icmlj6pe1jxm.cloudflarestream.com/5591a95d07ca3d04141053f912543447/manifest/stream_t1_r1080001.m3u8
 #EXTINF:-1,[COLOR=white][B]FAMA TV[/B][/COLOR][COLOR=white][/COLOR]
 https://streamer-a03.videos.sapo.pt/live/famatv/chunklist_w1729802407.m3u8
 #EXTINF:-1,[COLOR=white][B]RÁDIO SINES[/B][/COLOR][COLOR=white][/COLOR]
@@ -49,28 +47,13 @@ https://rakuten-africanews-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]GALÍCIA TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://europa-crtvg.flumotion.com/playlist.m3u8
 
-
-
-#EXTM3U
-#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DE STREAMING PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-#EXTM3U
-
-
-#EXTINF:-1,[COLOR=white][B]DISNEY STAR WARS[/B][/COLOR][COLOR=white][/COLOR] 
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/69798
-#EXTINF:-1,[COLOR=white][B]DISNEY PIXAR[/B][/COLOR][COLOR=white][/COLOR] 
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/69209
-#EXTINF:-1,[COLOR=white][B]DISNEY MARVEL[/B][/COLOR][COLOR=white][/COLOR] 
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/69208
-
-
 ##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS EXPRESSÃO PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=white][B]DEMAND ÁFRICA[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]DEMAND ÁFRICA FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://demandafrica-oando.amagi.tv/amRdirect/p=da/hls/amagi_hls_data_theafrica-demand-africa-oando/CDN/1920x1080_5055600/index.m3u8
 #EXTINF:-1,[COLOR=white][B]TVM SD[/B][/COLOR][COLOR=white][/COLOR]
 http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
@@ -117,5 +100,5 @@ https://streamer-b02.videos.sapo.pt/live/santuario/chunklist.m3u8
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="1p1" group-title="Channels",BREVEMENTE
+#EXTINF:0 tvg-id="1p1" group-title="Channels",[COLOR=white][B]BREVEMENTE[/B][/COLOR][COLOR=white][/COLOR]
 http://000.111.222.55
