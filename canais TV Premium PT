@@ -130,8 +130,7 @@ https://000000
 
 #EXTM3U
 
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://b7e64053.cbilant.com/iptv/LC8RBR34PMDLY8/19160/index.m3u8
+
 #EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.158.254.2:80/play/live.php?mac=00:1A:79:0F:C8:84&stream=983567&extension=ts&play_token=Nrfnum26Xi
 #EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
