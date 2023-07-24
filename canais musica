@@ -35,6 +35,10 @@ https://000000
 
 #EXTM3U
 
+
+#EXTINF:-1,[COLOR=white][B]1HD MUSIC[/B][/COLOR][COLOR=white][/COLOR]
+http://91.247.68.229:8000/play/1HD/index.m3u8
+
 #EXTINF:-1,[COLOR=white][B]TRACE URBAN FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 
@@ -53,14 +57,20 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 #EXTINF:-1,[COLOR=white][B]4 MUSIC UK[/B][/COLOR][COLOR=white][/COLOR]
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 
+#EXTINF:-1,[COLOR=white][B]4FUN TV[/B][/COLOR][COLOR=white][/COLOR]
+https://stream.4fun.tv:8888/hls/4f.m3u8
+
 #EXTINF:-1,[COLOR=white][B]THE BOX UK[/B][/COLOR][COLOR=white][/COLOR]
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]RADIO M2O HD[/B][/COLOR][COLOR=white][/COLOR]
 https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
 
+#EXTINF:-1,[COLOR=white][B]KRONEHITS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1228000.m3u8
 #EXTINF:-1,[COLOR=white][B]KRONEHITS FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
 
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]POWERHD[/B][/COLOR][COLOR=white][/COLOR]
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
@@ -98,6 +108,8 @@ http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]MUZZONE TV[/B][/COLOR][COLOR=white][/COLOR]
 http://muzzone-stream.daitsuna.net/muzzondvr/muzzone_dvr/chunks_dvr.m3u8
 
+#EXTINF:-1,[COLOR=white][B]EUROPA PLUS TV[/B][/COLOR][COLOR=white][/COLOR]
+http://91.197.104.34:80/Europaplus/mono.m3u8
 
 ##########################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA ELECTRÓNICA - 3 OFFLINE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
