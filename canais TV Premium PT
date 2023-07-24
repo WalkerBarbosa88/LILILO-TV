@@ -22,7 +22,7 @@ http://0.0.0.0:0000
      Listas Várias - https://global-satinfo.in/viewforum.php?f=22&sid=14261766f220116fe35abb7ddf0e87e2
      
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 26/05/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 24/07/2023[/B][/COLOR][COLOR=orange][/COLOR]
 #EXTM3U
 
 
@@ -33,129 +33,6 @@ https://00000000000
 #EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
 http://000000000111111111111111112222222222222
 
-####################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] /////////  DESPORTO F4M  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://00000000000
-
-
-
-#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/120
-#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/121
-#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/122
-#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/69205
-#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/11147
-
-
-#EXTINF:-1,[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/96
-#EXTINF:-1,[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/97
-#EXTINF:-1,[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/98
-#EXTINF:-1,[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/89632
-
-#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/99
-#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/100
-#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/101
-#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/69201
-#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/106
-#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/102
-#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/103
-#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/105
-
-#EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/107
-#EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/108
-#EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/109
-#EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/112
-#EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/110
-#EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/30264
-
-#EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42044.ts
-#EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/5141
-#EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/113
-#EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/114
-#EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/89620
-#EXTINF:-1,[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/89621
-
-#EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42045.ts
-#EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/5139
-#EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/115
-#EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/116
-#EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/89622
-#EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/89623
-
-#EXTINF:-1,[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://212.8.243.99:2095/live/dtv_742401/FLdlHf3b/42046.ts
-#EXTINF:-1,[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/5140
-#EXTINF:-1,[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/117
-#EXTINF:-1,[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/118
-#EXTINF:-1,[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/89625
-#EXTINF:-1,[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/89626
-
-#EXTINF:-1,[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/75009
-[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/89627
-[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/89628
-
-#EXTINF:-1,[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/89629
-#EXTINF:-1,[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/89630
-#EXTINF:-1,[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://app.iup-tv.com:80/Eduardo/palhaca/119
-
-
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/stanleyg/6916329/92137
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/stanleyg/6916329/92138
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/stanleyg/6916329/92139
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/stanleyg/6916329/92140
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/stanleyg/6916329/92141
-#EXTINF:-1,[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.f4mTester/?name=&streamtype=TSDOWNLOADER&amp;url=http://mains.services:2086/stanleyg/6916329/92142
 
 
 ####################################################################################################################################
@@ -194,14 +71,7 @@ https://000000
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://clienteworld.com:80/claud123/claud123/82754
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RMC SPORT 1 FR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://localiptv62000.from-ok.com:9000/live:domeneprojekat/gzliiQzDPI/103
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV SD[/B][/COLOR][COLOR=white][/COLOR]
-http://200.41.79.165:8000/play/a05u/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://infernoo.ltd:443/3uJ5QdurT/Ep5X9aj8e7/14884
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ARENA SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://80.252.37.194:5000/udp/233.233.233.3:12000
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ARENA SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -216,8 +86,7 @@ https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8
 https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MATH RUSSIA HD[/B][/COLOR][COLOR=white][/COLOR]
 https://bl.uma.media/live/394904/HLS/1_5/1/1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MATH RUSSIA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://livetv.mylifeisgood.ml/channels/matchhd_nocensored.m3u8
+
 
 ##################################  BENFICA TV   ###########################################################################
 
