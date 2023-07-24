@@ -5,21 +5,21 @@ http://0.0.0.0:0000
 ####################################################################################################################################################
  
 #EXTM3U
-#EXTINF:-1,[COLOR=yellow][B]LISTA ADICIONADA: 05/06/2023[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA VERIFICADA: 24/07/2023[/B][/COLOR][COLOR=yellow][/COLOR]
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="24Kitchen.pt" group-title="Channels",PT: 24 Kitchen
+#EXTINF:0 tvg-id="24Kitchen.pt" group-title="Channels",PT: 24 KITCHEN
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/2025
-#EXTINF:0 tvg-id="ABolaTV.pt" group-title="Channels",PT: A Bola TV
+#EXTINF:0 tvg-id="ABolaTV.pt" group-title="Channels",PT: A BOLA TV
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1420
 #EXTINF:0 tvg-id="blaze.pt" group-title="Channels",PT: A&E
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/279741
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: Advance SIC
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/290666
-#EXTINF:0 tvg-id="AfroMusic.pt" group-title="Channels",PT: Afro Music Channel
+#EXTINF:0 tvg-id="AfroMusic.pt" group-title="Channels",PT: AFRO MUSIC CHANNEL
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1536
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Alma Lusa
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ALMA LUSA
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/264642
 #EXTINF:0 tvg-id="AMC.pt" group-title="Channels",PT: AMC
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1473
@@ -27,25 +27,24 @@ http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1473
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/9629
 #EXTINF:0 tvg-id="axn.pt" group-title="Channels",PT: AXN
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1469
-#EXTINF:0 tvg-id="AXNBlack.pt" group-title="Channels",PT: AXN Black
+#EXTINF:0 tvg-id="AXNBlack.pt" group-title="Channels",PT: AXN BLACK
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/278653
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: AXN Movies
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: AXN MOVIES
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1471
-#EXTINF:0 tvg-id="AXNWhite.pt" group-title="Channels",PT: AXN White
+#EXTINF:0 tvg-id="AXNWhite.pt" group-title="Channels",PT: AXN WHITE
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1467
-#EXTINF:0 tvg-id="BabyTV.pt" group-title="Channels",PT: Baby TV
+#EXTINF:0 tvg-id="BabyTV.pt" group-title="Channels",PT: BABY TV
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1441
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",PT: Benfica TV
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",PT: BENFICA TV
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1497
-#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Channels",PT: Biggs
+#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Channels",PT: PANDA BIGGS
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1439
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Bloomberg
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: BLOOMBERG
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/5933
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Boomerang
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: BOOMERANG
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/24529
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Campo Pequeno
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/28029
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Canal 11
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CANAK 11
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1480
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: CANAL 180
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/146057
