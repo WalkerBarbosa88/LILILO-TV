@@ -2,9 +2,10 @@
 #EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]////////////  ESPECIAL GUERRA DAS ESTRELAS  ///////////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
 http://0.0.0.0:000000
 #####################################################################################################################################################
- 
-#EXTINF:-1,[COLOR=orange][B]LISTA BREVEMENTE DISPONÍVEL[/B][/COLOR][COLOR=orange][/COLOR]
 
+#EXTM3U
+#EXTINF:-1,[COLOR=orange][B]LISTA BREVEMENTE DISPONÍVEL[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTM3U
  
 #EXTINF:-1,[COLOR=white][B]EM BREVE[/B][/COLOR][COLOR=white][/COLOR]
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/210907.mkv
