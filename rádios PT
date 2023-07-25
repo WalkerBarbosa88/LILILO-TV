@@ -209,8 +209,6 @@ http://95.217.75.38:9832/;
 https://sp0.redeaudio.com/9920/stream
 #EXTINF:-1,[COLOR=white][B]REGIONAL DE AROUCA[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radios.pt:8485/;
-#EXTINF:-1,[COLOR=white][B]ES RÁDIO[/B][/COLOR][COLOR=white][/COLOR]
-http://www.esradio.pt:8000/stream4
 #EXTINF:-1,[COLOR=white][B]SINTONIA FEIRENSE[/B][/COLOR][COLOR=white][/COLOR]
 http://95.217.75.38:9832/;
 
@@ -451,8 +449,7 @@ https://centova.radios.com.pt/proxy/410?mp=%2Fstream
 https://streamingp.shoutcast.com/JamendoLounge?lang=pt-PT%2cpt%3bq%3d0.9%2cen-US%3bq%3d0.8%2cen%3bq%3d0.7
 #EXTINF:-1,[COLOR=white][B]RÁDIO CARDAL[/B][/COLOR][COLOR=white][/COLOR]
 https://nl.digitalrm.pt:8204/stream
-#EXTINF:-1,[COLOR=white][B]RÁDIO MOTARD FM[/B][/COLOR][COLOR=white][/COLOR]
-https://sp0.redeaudio.com:10938/;
+
 
 ######################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  DISTRITO: LISBOA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
