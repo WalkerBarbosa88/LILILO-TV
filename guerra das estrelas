@@ -4,9 +4,8 @@ http://0.0.0.0:000000
 #####################################################################################################################################################
 
 #EXTM3U
-#EXTINF:-1,[COLOR=yellow][B]LISTA BREVEMENTE DISPONÍVEL[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA EM BREVE[/B][/COLOR][COLOR=yellow][/COLOR]
 #EXTM3U
  
-#EXTINF:-1,[COLOR=white][B]EM BREVE[/B][/COLOR][COLOR=white][/COLOR]
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/210907.mkv
-
+#EXTINF:-1,
+http://000000000111111222222222222
