@@ -59,6 +59,10 @@ https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]KIT TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://ythls.onrender.com/channel/UCA0bOG0NUfJ855eDtHSxOkw.m3u8
+#EXTINF:-1,[COLOR=white][B]SIC NOVELAS TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
+#EXTINF:-1,[COLOR=white][B]WEATHER SPY EUROPE HD[/B][/COLOR][COLOR=white][/COLOR]
+https://jukin-weatherspy-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 ##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS EXPRESSÃO PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
