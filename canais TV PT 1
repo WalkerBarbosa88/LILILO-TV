@@ -117,243 +117,199 @@ https://streamer-b02.videos.sapo.pt/live/santuario/chunklist.m3u8
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="rtp1.pt" group-title="Channels",PT: RTP 1
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1404
-#EXTINF:0 tvg-id="rtp2.pt" group-title="Channels",PT: RTP 2
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1406
-#EXTINF:0 tvg-id="RTP3.pt" group-title="Channels",PT: RTP 3
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1418
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: RTP ARENA
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/290673
-#EXTINF:0 tvg-id="RTPAcores.pt" group-title="Channels",PT: RTP AÇORES
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/2055
-#EXTINF:0 tvg-id="RTPMadeira.pt" group-title="Channels",PT: RTP MADEIRA
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/278558
-#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Channels",PT: RTP MEMÓRIA
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1425
-#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Channels",PT: RTP ÁFRICA
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1424
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : RTP 1
+http://mains.services/live/Grahxen/3docpGDalU/6ab5978e-7eb2-4db2-a80c-9af1b1bc3a1b.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : RTP 2
+http://mains.services/live/Grahxen/3docpGDalU/52889bf9-c625-4b4f-afd5-ae06f5e368da.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : RTP 3
+http://mains.services/live/Grahxen/3docpGDalU/edb138ad-13b1-45c0-8f06-2c25cab7cca2.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : RTP AÇORES
+http://mains.services/live/Grahxen/3docpGDalU/95e17a36-9ae7-4d29-862a-fa0cef95c4ef.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : RTP ÁFRICA
+http://mains.services/live/Grahxen/3docpGDalU/994d5ee0-510b-4cf4-bd5a-545204f984e8.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : RTP INTER.
+http://mains.services/live/Grahxen/3docpGDalU/193ec6bb-fa13-4b7f-9abb-fcfa23d3f72e.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : RTP MEMÓRIA
+http://mains.services/live/Grahxen/3docpGDalU/d92b031f-b1a1-47e8-838c-39a7e3eaa750.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : SIC
+http://mains.services/live/Grahxen/3docpGDalU/e650bf92-2b06-433e-aec9-5859e9902306.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : SIC MULHER
+http://mains.services/live/Grahxen/3docpGDalU/ce085ca5-063f-44ef-856a-3ffbae323de1.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : SIC NOTÍCIAS
+http://mains.services/live/Grahxen/3docpGDalU/26ba9093-9b8d-49aa-b6c0-fe316fb597fb.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : SIC RADICAL
+http://mains.services/live/Grahxen/3docpGDalU/dc34578e-098b-4228-a2f0-47dea54b3567.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : CMTV
+http://mains.services/live/Grahxen/3docpGDalU/b9474cbc-b201-4fce-b9f0-e85c959af273.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TVI
+http://mains.services/live/Grahxen/3docpGDalU/092ebafc-abf2-4df5-a07f-eba016224bf7.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TVI
+http://mains.services/live/Grahxen/3docpGDalU/7c61117c-0b12-434e-a03b-a085d234c9d8.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : CNN PORTUGAL
+http://mains.services/live/Grahxen/3docpGDalU/5d3664a1-0589-4d06-bf27-301f4945ab94.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TVI REALITY
+http://mains.services/live/Grahxen/3docpGDalU/c33789fa-853e-4da2-9d91-6764175d8f22.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : CANAL 11
+http://mains.services/live/Grahxen/3docpGDalU/5dfde4d6-f256-4971-8ce1-18ad10f56860.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : A BOLA
+http://mains.services/live/Grahxen/3docpGDalU/85df18e0-22ac-458f-bbfd-f7cba8fbde37.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : PORTO CANAL
+http://mains.services/live/Grahxen/3docpGDalU/da623f5e-e972-4e2b-8c48-beec9b0174b8.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : AXN
+http://mains.services/live/Grahxen/3docpGDalU/74193155-7de7-4be7-a27b-5914b86a3296.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : AXN BLACK
+http://mains.services/live/Grahxen/3docpGDalU/dc2f012f-b33b-4b4d-b514-9bde7c7d52b6.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : AXN WHITE
+http://mains.services/live/Grahxen/3docpGDalU/864a748b-035e-44a6-bdde-cbdadef426bf.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : FOX
+http://mains.services/live/Grahxen/3docpGDalU/52474668-fd90-44dd-9b29-4b03957c634f.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : FOX COMEDY
+http://mains.services/live/Grahxen/3docpGDalU/8a2abebc-f0aa-426d-80c6-06d96e39e322.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : FOX CRIME
+http://mains.services/live/Grahxen/3docpGDalU/50ad8946-38d2-4658-bfdf-ceb1608bac53.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : FOX LIFE
+http://mains.services/live/Grahxen/3docpGDalU/6c81ad6d-3a9a-44b8-9f9e-55c0fac02d96.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : FOX MOVIES
+http://mains.services/live/Grahxen/3docpGDalU/69322904-aa1b-46d3-bda5-8773694f7a13.m3u
 
-#EXTINF:0 tvg-id="sic.pt" group-title="Channels",PT: SIC
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1408
-#EXTINF:0 tvg-id="sicnoticias.pt" group-title="Channels",PT: SIC NOTÍCIAS
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1416
-#EXTINF:0 tvg-id="sicmulher.pt" group-title="Channels",PT: SIC MULHER
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1427
-#EXTINF:0 tvg-id="sicradical.pt" group-title="Channels",PT: SIC RADICAL
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1429
-#EXTINF:0 tvg-id="SicCaras.pt" group-title="Channels",PT: SIC CARAS
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/5910
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SIC INTER.
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/297535
-#EXTINF:0 tvg-id="SicK.pt" group-title="Channels",PT: SIC K
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/4021
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ADVANCED SIC
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/290666
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : 24 KITCHEN
+http://mains.services/live/Grahxen/3docpGDalU/bd29f42e-c1dd-45e2-81f4-daee0777dae8.m3u
 
-#EXTINF:0 tvg-id="TVI.pt" group-title="Channels",PT: TVI
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1410
-#EXTINF:0 tvg-id="TVIFiccao.pt" group-title="Channels",PT: TVI FICÇÃO
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1421
-#EXTINF:0 tvg-id="TVIReal.pt" group-title="Channels",PT: TVI REALITY
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1423
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : A&E
+http://mains.services/live/Grahxen/3docpGDalU/ca603e2d-fbe9-4472-946c-103e241e08b0.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : AFRO MUSIC
+http://mains.services/live/Grahxen/3docpGDalU/e4466204-f15f-49ba-bd49-a6ad0c3c4219.m3u
 
-#EXTINF:0 tvg-id="CMTV.pt" group-title="Channels",PT: CMTV
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1412
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CNN PORTUGAL
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1414
-#EXTINF:0 tvg-id="PortoCanal.pt" group-title="Channels",PT: PORTO CANAL
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1419
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : BIGGS
+http://mains.services/live/Grahxen/3docpGDalU/671eb5f3-65c9-4966-8067-7e147b6b5997.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : BLOOMBERG
+http://mains.services/live/Grahxen/3docpGDalU/5d3be453-4a0c-45d9-bd57-b4acde664d29.m3u
 
-#EXTINF:0 tvg-id="axn.pt" group-title="Channels",PT: AXN
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1469
-#EXTINF:0 tvg-id="AXNBlack.pt" group-title="Channels",PT: AXN BLACK
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/278653
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: AXN MOVIES
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1471
-#EXTINF:0 tvg-id="AXNWhite.pt" group-title="Channels",PT: AXN WHITE
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1467
-#EXTINF:0 tvg-id="hollywood.pt" group-title="Channels",PT: CANAL HOLLYWOOD
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1455
-#EXTINF:0 tvg-id="hollywood.pt" group-title="Channels",PT: HOLLYWOOD
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298020
-#EXTINF:0 tvg-id="fox.pt" group-title="Channels",PT: FOX
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1461
-#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",PT: FOX COMEDY
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1465
-#EXTINF:0 tvg-id="foxcrime.pt" group-title="Channels",PT: FOX CRIME
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1463
-#EXTINF:0 tvg-id="foxlife.pt" group-title="Channels",PT: FOX LIFE
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1459
-#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",PT: FOX MOVIES
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1457
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SYFY PORTUGAL
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1475
-#EXTINF:0 tvg-id="AMC.pt" group-title="Channels",PT: AMC
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1473
-#EXTINF:0 tvg-id="Cinemundo.pt" group-title="Channels",PT: CINEMUNDO
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1477
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : CANAL NOS
+http://mains.services/live/Grahxen/3docpGDalU/a92bf99a-42b1-4a9d-9276-79fcfebb78e0.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : CANAL PANDA
+http://mains.services/live/Grahxen/3docpGDalU/3adc7cc3-b908-4ce4-a40e-a93917898b64.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : CANAL Q
+http://mains.services/live/Grahxen/3docpGDalU/ebc62f00-c684-4f46-9ee6-01d2229c4bdc.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : CANÇÃO NOVA
+http://mains.services/live/Grahxen/3docpGDalU/8c323614-ea01-41e3-a947-37d3a0b9809c.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : CARTOON NETWORK
+http://mains.services/live/Grahxen/3docpGDalU/030f9f7f-b928-48f5-84f6-bdb9419af76a.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : CASA E PESCA
+http://mains.services/live/Grahxen/3docpGDalU/0563b7ee-e55a-4ace-9945-7aaf031048c9.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : CASAVISION
+http://mains.services/live/Grahxen/3docpGDalU/692e9d03-309c-47e1-8d84-a476b3da878f.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : CINE MUNDO
+http://mains.services/live/Grahxen/3docpGDalU/a7d3c287-e224-4a22-a3b3-9721403ea416.m3u
 
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : DISCOVERY CHANNEL
+http://mains.services/live/Grahxen/3docpGDalU/969719c2-5634-4742-983d-1b9cd03c2df7.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : DISCOVERY SHOWCASE
+http://mains.services/live/Grahxen/3docpGDalU/aaf465e5-54f6-44e7-8017-444109063d4f.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : DISNEY CHANNEL
+http://mains.services/live/Grahxen/3docpGDalU/32d2d883-bb6c-4f09-acd7-058075018822.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : DISNEY JUNIOR
+http://mains.services/live/Grahxen/3docpGDalU/6b569bbf-9fcc-4b98-ae2f-4d384d61bb04.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : E! ENTERTAINMENT
+http://mains.services/live/Grahxen/3docpGDalU/92043cf5-2a07-4807-8dc1-cac0a8e5aa24.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : ELEVEN SPORTS 1
+http://mains.services/live/Grahxen/3docpGDalU/5e3db048-a50c-424c-be18-a2478f782213.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : ELEVEN SPORTS 2
+http://mains.services/live/Grahxen/3docpGDalU/9b44b98e-5c0e-4393-8017-a8ebeb3ad459.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : ELEVEN SPORTS 3
+http://mains.services/live/Grahxen/3docpGDalU/9c92c3b6-2642-415d-b3a5-0a9642c93039.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : ELEVEN SPORTS 4
+http://mains.services/live/Grahxen/3docpGDalU/f67a882c-d564-4cff-b9db-19b8edef542d.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : ELEVEN SPORTS 5
+http://mains.services/live/Grahxen/3docpGDalU/1de4180d-0a8d-4c51-a056-84ab56884139.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : ELEVEN SPORTS 6
+http://mains.services/live/Grahxen/3docpGDalU/975ac24b-df20-40f4-be3d-c283df3220c2.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : EURONEWS
+http://mains.services/live/Grahxen/3docpGDalU/a0800e35-3cfc-4161-9b7d-cbf729dcf7ac.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : EUROSPORT 1
+http://mains.services/live/Grahxen/3docpGDalU/83a09676-cd5f-4e16-96ae-4b7a1def78af.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : EUROSPORT 2
+http://mains.services/live/Grahxen/3docpGDalU/f39b001c-8c99-4fda-ab19-016191a7e75e.m3u
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CANAL 11
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1480
-#EXTINF:0 tvg-id="ABolaTV.pt" group-title="Channels",PT: A BOLA TV
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1420
-#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",PT: SPORTING TV
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1519
-#EXTINF:0 tvg-id="Eurosport1.pt" group-title="Channels",PT: EUROSPORT 1
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1517
-#EXTINF:0 tvg-id="Eurosport2.pt" group-title="Channels",PT: EUROSPORT 2
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1518
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",PT: BTV
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1497
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",PT: SPORT TV +
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1481
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1483
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1486
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1489
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1492
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT: SPORT TV 5
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1495
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 6
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/281487
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV NBA
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/2051
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 1
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1499
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 2
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1503
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 3
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1506
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 4
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1509
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 5
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1512
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 6
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1515
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: NOS STUDIO
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1454
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE ACTION
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1452
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE EDITION
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/82254
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE EMOTION
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1448
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE TOP
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1446
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : HISTORIA
+http://mains.services/live/Grahxen/3docpGDalU/923a70cb-7a43-463c-aa10-38d9d583d94b.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : HOLLYWOOD
+http://mains.services/live/Grahxen/3docpGDalU/67d0680a-054a-4fd7-88e8-e10c125e1529.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : JIM JAM
+http://mains.services/live/Grahxen/3docpGDalU/24566b42-8e8c-4d51-ad50-3888b2287708.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : KOMBAT SPORT
+http://mains.services/live/Grahxen/3docpGDalU/b50376ef-fa31-4e6c-9c2d-e3712fecbf36.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : MCM POP
+http://mains.services/live/Grahxen/3docpGDalU/cf508caa-2b71-4f7a-8433-8d484dfb879d.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : MEZZO
+http://mains.services/live/Grahxen/3docpGDalU/6b03a5ae-4f7c-4908-a49e-af6cb52fc146.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : MOTORSPORT.TV
+http://mains.services/live/Grahxen/3docpGDalU/fd5b029d-ace3-4445-8644-0b6c8f0e7c8e.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : MOTORVISION
+http://mains.services/live/Grahxen/3docpGDalU/80633f87-249c-4bf1-a5cc-533817c17f93.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : MTV PORTUGAL
+http://mains.services/live/Grahxen/3docpGDalU/6c5aa2de-41c9-4cf1-a239-066b5ee29b4d.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : NAT GEO
+http://mains.services/live/Grahxen/3docpGDalU/8339998c-010b-4779-bd94-573c627aee6e.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : NAT GEO WILD
+http://mains.services/live/Grahxen/3docpGDalU/951d3d75-047c-426a-be6c-6b113becf3a5.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : NBA TV
+http://mains.services/live/Grahxen/3docpGDalU/e4c44f38-cdf7-4141-849e-0266c2142f89.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : NICKELODEON
+http://mains.services/live/Grahxen/3docpGDalU/9f3c479c-b4ba-48d0-8484-5f679f5d5c55.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : ODISSEIA
+http://mains.services/live/Grahxen/3docpGDalU/6e61e940-41fb-4d63-8e94-1030c21e0ddc.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : PFC
+http://mains.services/live/Grahxen/3docpGDalU/b854b999-407d-4c00-84dc-ffe465e3ba8d.m3u
 
-#EXTINF:0 tvg-id="24Kitchen.pt" group-title="Channels",PT: 24 KITCHEN
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/2025
-#EXTINF:0 tvg-id="blaze.pt" group-title="Channels",PT: A&E
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/279741
-#EXTINF:0 tvg-id="AfroMusic.pt" group-title="Channels",PT: AFRO MUSIC CHANNEL
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1536
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ALMA LUSA
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/264642
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: AR TV
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/9629
-#EXTINF:0 tvg-id="BabyTV.pt" group-title="Channels",PT: BABY TV
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1441
-#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Channels",PT: PANDA BIGGS
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1439
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: BLOOMBERG
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/5933
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: BOOMERANG
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/24529
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CANAL 180
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/146057
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CANAL MACAU
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/197872
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CANAL NOS
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/278550
-#EXTINF:0 tvg-id="canalpanda.pt" group-title="Channels",PT: CANAL PANDA
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1438
-#EXTINF:0 tvg-id="CanalQ.pt" group-title="Channels",PT: CANAL Q
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1430
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CANAL VIDA
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298639
-#EXTINF:0 tvg-id="CANCAONOVA.pt" group-title="Channels",PT: CANÇÃO NOVA
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/290766
-#EXTINF:0 tvg-id="cartoon.pt" group-title="Channels",PT: CARTOON NETWORK
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1440
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CASA & COZINHA
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/6097
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CAÇA & PESCA
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/297997
-#EXTINF:0 tvg-id="CacaVision.pt" group-title="Channels",PT: CAÇAVISION TV
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/13956
-#EXTINF:0 tvg-id="CBSReality.pt" group-title="Channels",PT: CBS REALITY
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1528
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Crime District
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298636
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: DISCOVERY WORLD
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/296226
-#EXTINF:0 tvg-id="disneychannel.pt" group-title="Channels",PT: DISNEY CHANNEL
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1434
-#EXTINF:0 tvg-id="DisneyJunior.pt" group-title="Channels",PT: DISNEY JUNIOR
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1435
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: DISNEY+
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/226084
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: DISNEY+ PIXAR
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298019
-#EXTINF:0 tvg-id="eentertainment.pt" group-title="Channels",PT: E!
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1526
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: EURONEWS
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/4007
-#EXTINF:0 tvg-id="FoodNetwork.pt" group-title="Channels",PT: FOOD NETWORK
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/2044
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: FOX SPORTS
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/40345
-#EXTINF:0 tvg-id="FuelTV.pt" group-title="Channels",PT: FUEL TV
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1521
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: HBO PORTUGAL
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/201073
-#EXTINF:0 tvg-id="HistoryChannel.pt" group-title="Channels",PT: HISTÓRIA
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1525
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Investigation Discovery
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/5914
-#EXTINF:0 tvg-id="JimJam.pt" group-title="Channels",PT: JimJam
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1442
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Kuriakos Kids
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/10828
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Kuriakos TV
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/9697
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: MEO Videoclube
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/265255
-#EXTINF:0 tvg-id="Motorvision.pt" group-title="Channels",PT: Motorvision TV
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/4012
-#EXTINF:0 tvg-id="mtvportugal.pt" group-title="Channels",PT: MTV Portugal
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1534
-#EXTINF:0 tvg-id="nationalgeographic.pt" group-title="Channels",PT: NAT GEO
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1530
-#EXTINF:0 tvg-id="NatGeoWild.pt" group-title="Channels",PT: NAT GEO Wild
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1531
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: NBA TV
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/296750
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Nick Junior
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/9693
-#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Channels",PT: nickelodeon
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1436
-#EXTINF:0 tvg-id="odisseia.pt" group-title="Channels",PT: ODISSEIA
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1532
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: PANDA KIDS
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/290678
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SAUDE+
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/81973
-#EXTINF:0 tvg-id="TLC.pt" group-title="Channels",PT: TLC
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1479
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TOROS
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298021
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TPA NOTÍCIAS
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298022
-#EXTINF:0 tvg-id="TravelChannel.pt" group-title="Channels",PT: TRAVEL CHANNEL
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/1529
-#EXTINF:0 tvg-id="tvrecord.pt" group-title="Channels",PT: TV RECORD
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298700
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : REAL MADRID TV
+http://mains.services/live/Grahxen/3docpGDalU/9fd54251-c732-4514-b2a7-89b08ad06f33.m3u
 
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : SPORT TV +
+http://mains.services/live/Grahxen/3docpGDalU/9e494c03-8095-4317-a71f-d39a01068593.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : SPORT TV 1
+http://mains.services/live/Grahxen/3docpGDalU/2f15d0df-06be-4085-a241-2d40645bcc3f.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : SPORT TV 2
+http://mains.services/live/Grahxen/3docpGDalU/00fc095a-509d-41f6-bfa6-a410a341e4c1.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : SPORT TV 3
+http://mains.services/live/Grahxen/3docpGDalU/ca497a4e-41d6-4c0d-a364-e2ac3935e4e5.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : SPORT TV 4
+http://mains.services/live/Grahxen/3docpGDalU/dfe113b7-c847-4da4-a2e9-c60a9b0218b5.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : SPORT TV 5
+http://mains.services/live/Grahxen/3docpGDalU/0dc75225-eaa3-43ae-9c89-d302feb5d24c.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : SYFY
+http://mains.services/live/Grahxen/3docpGDalU/bdaa9467-7db8-443d-ae89-63ec5ae8ad8b.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TLC
+http://mains.services/live/Grahxen/3docpGDalU/529c952b-c57f-4802-88de-4e4cccedc659.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : MUNDOTORO TV
+http://mains.services/live/Grahxen/3docpGDalU/a48e7aaa-5510-4cec-8f6e-3317a43d17a1.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TRACE TOCA
+http://mains.services/live/Grahxen/3docpGDalU/6f41e987-665d-48a5-ad37-06897e00135b.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TRAVEL CHANNEL
+http://mains.services/live/Grahxen/3docpGDalU/e86f125a-50f8-45ae-b8a7-f2727f329b3a.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TV FATIMA
+http://mains.services/live/Grahxen/3docpGDalU/8669911f-12f4-4085-a974-5a365c9ff318.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TV GLOBO
+http://mains.services/live/Grahxen/3docpGDalU/bcb4a10e-b758-4124-a953-e15d6731e56e.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TV GLOBO PREMIUM
+http://mains.services/live/Grahxen/3docpGDalU/81da88e8-4958-438e-abdb-03d20efe8cfc.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TV RECORD
+http://mains.services/live/Grahxen/3docpGDalU/064b814b-63b6-4dd8-ac89-01ef68a0e45d.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TV SERIES
+http://mains.services/live/Grahxen/3docpGDalU/8631d3b7-c238-40d8-a88e-9eb4aeb0fbf4.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TVCINE 1
+http://mains.services/live/Grahxen/3docpGDalU/573fea96-4ee4-4071-a2b0-c37967d43267.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TVCINE 2
+http://mains.services/live/Grahxen/3docpGDalU/23555a1f-33f0-49fe-afbd-09144202c567.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TVCINE 3
+http://mains.services/live/Grahxen/3docpGDalU/33397756-99e3-43fe-96a2-fa99c81e2915.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TVCINE 4
+http://mains.services/live/Grahxen/3docpGDalU/562d1605-38a7-4de3-94df-cdab5b070022.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TVE 24H
+http://mains.services/live/Grahxen/3docpGDalU/df53d941-4553-4359-897c-d98244e9751a.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TVE INTERNACIONAL
+http://mains.services/live/Grahxen/3docpGDalU/7047deaa-68e4-4873-b06d-647b3396f382.m3u
 
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : VH1
+http://mains.services/live/Grahxen/3docpGDalU/6d843b09-803f-48f8-b432-3218e6c8e584.m3u
 
