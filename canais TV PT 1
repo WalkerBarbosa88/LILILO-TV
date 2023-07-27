@@ -155,6 +155,12 @@ http://mains.services/live/Grahxen/3docpGDalU/5dfde4d6-f256-4971-8ce1-18ad10f568
 http://mains.services/live/Grahxen/3docpGDalU/85df18e0-22ac-458f-bbfd-f7cba8fbde37.m3u
 #EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : PORTO CANAL
 http://mains.services/live/Grahxen/3docpGDalU/da623f5e-e972-4e2b-8c48-beec9b0174b8.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TV GLOBO
+http://mains.services/live/Grahxen/3docpGDalU/bcb4a10e-b758-4124-a953-e15d6731e56e.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TV GLOBO PREMIUM
+http://mains.services/live/Grahxen/3docpGDalU/81da88e8-4958-438e-abdb-03d20efe8cfc.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TV RECORD
+http://mains.services/live/Grahxen/3docpGDalU/064b814b-63b6-4dd8-ac89-01ef68a0e45d.m3u
 #EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : AXN
 http://mains.services/live/Grahxen/3docpGDalU/74193155-7de7-4be7-a27b-5914b86a3296.m3u
 #EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : AXN BLACK
@@ -171,20 +177,24 @@ http://mains.services/live/Grahxen/3docpGDalU/50ad8946-38d2-4658-bfdf-ceb1608bac
 http://mains.services/live/Grahxen/3docpGDalU/6c81ad6d-3a9a-44b8-9f9e-55c0fac02d96.m3u
 #EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : FOX MOVIES
 http://mains.services/live/Grahxen/3docpGDalU/69322904-aa1b-46d3-bda5-8773694f7a13.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : CINEMUNDO
+http://mains.services/live/Grahxen/3docpGDalU/a7d3c287-e224-4a22-a3b3-9721403ea416.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : HOLLYWOOD
+http://mains.services/live/Grahxen/3docpGDalU/67d0680a-054a-4fd7-88e8-e10c125e1529.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : SYFY
+http://mains.services/live/Grahxen/3docpGDalU/bdaa9467-7db8-443d-ae89-63ec5ae8ad8b.m3u
+
 
 #EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : 24 KITCHEN
 http://mains.services/live/Grahxen/3docpGDalU/bd29f42e-c1dd-45e2-81f4-daee0777dae8.m3u
-
 #EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : A&E
 http://mains.services/live/Grahxen/3docpGDalU/ca603e2d-fbe9-4472-946c-103e241e08b0.m3u
 #EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : AFRO MUSIC
 http://mains.services/live/Grahxen/3docpGDalU/e4466204-f15f-49ba-bd49-a6ad0c3c4219.m3u
-
 #EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : BIGGS
 http://mains.services/live/Grahxen/3docpGDalU/671eb5f3-65c9-4966-8067-7e147b6b5997.m3u
 #EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : BLOOMBERG
 http://mains.services/live/Grahxen/3docpGDalU/5d3be453-4a0c-45d9-bd57-b4acde664d29.m3u
-
 #EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : CANAL NOS
 http://mains.services/live/Grahxen/3docpGDalU/a92bf99a-42b1-4a9d-9276-79fcfebb78e0.m3u
 #EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : CANAL PANDA
@@ -199,9 +209,6 @@ http://mains.services/live/Grahxen/3docpGDalU/030f9f7f-b928-48f5-84f6-bdb9419af7
 http://mains.services/live/Grahxen/3docpGDalU/0563b7ee-e55a-4ace-9945-7aaf031048c9.m3u
 #EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : CASAVISION
 http://mains.services/live/Grahxen/3docpGDalU/692e9d03-309c-47e1-8d84-a476b3da878f.m3u
-#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : CINE MUNDO
-http://mains.services/live/Grahxen/3docpGDalU/a7d3c287-e224-4a22-a3b3-9721403ea416.m3u
-
 #EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : DISCOVERY CHANNEL
 http://mains.services/live/Grahxen/3docpGDalU/969719c2-5634-4742-983d-1b9cd03c2df7.m3u
 #EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : DISCOVERY SHOWCASE
@@ -212,29 +219,14 @@ http://mains.services/live/Grahxen/3docpGDalU/32d2d883-bb6c-4f09-acd7-0580750188
 http://mains.services/live/Grahxen/3docpGDalU/6b569bbf-9fcc-4b98-ae2f-4d384d61bb04.m3u
 #EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : E! ENTERTAINMENT
 http://mains.services/live/Grahxen/3docpGDalU/92043cf5-2a07-4807-8dc1-cac0a8e5aa24.m3u
-#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : ELEVEN SPORTS 1
-http://mains.services/live/Grahxen/3docpGDalU/5e3db048-a50c-424c-be18-a2478f782213.m3u
-#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : ELEVEN SPORTS 2
-http://mains.services/live/Grahxen/3docpGDalU/9b44b98e-5c0e-4393-8017-a8ebeb3ad459.m3u
-#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : ELEVEN SPORTS 3
-http://mains.services/live/Grahxen/3docpGDalU/9c92c3b6-2642-415d-b3a5-0a9642c93039.m3u
-#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : ELEVEN SPORTS 4
-http://mains.services/live/Grahxen/3docpGDalU/f67a882c-d564-4cff-b9db-19b8edef542d.m3u
-#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : ELEVEN SPORTS 5
-http://mains.services/live/Grahxen/3docpGDalU/1de4180d-0a8d-4c51-a056-84ab56884139.m3u
-#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : ELEVEN SPORTS 6
-http://mains.services/live/Grahxen/3docpGDalU/975ac24b-df20-40f4-be3d-c283df3220c2.m3u
 #EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : EURONEWS
 http://mains.services/live/Grahxen/3docpGDalU/a0800e35-3cfc-4161-9b7d-cbf729dcf7ac.m3u
 #EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : EUROSPORT 1
 http://mains.services/live/Grahxen/3docpGDalU/83a09676-cd5f-4e16-96ae-4b7a1def78af.m3u
 #EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : EUROSPORT 2
 http://mains.services/live/Grahxen/3docpGDalU/f39b001c-8c99-4fda-ab19-016191a7e75e.m3u
-
 #EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : HISTORIA
 http://mains.services/live/Grahxen/3docpGDalU/923a70cb-7a43-463c-aa10-38d9d583d94b.m3u
-#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : HOLLYWOOD
-http://mains.services/live/Grahxen/3docpGDalU/67d0680a-054a-4fd7-88e8-e10c125e1529.m3u
 #EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : JIM JAM
 http://mains.services/live/Grahxen/3docpGDalU/24566b42-8e8c-4d51-ad50-3888b2287708.m3u
 #EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : KOMBAT SPORT
@@ -261,9 +253,25 @@ http://mains.services/live/Grahxen/3docpGDalU/9f3c479c-b4ba-48d0-8484-5f679f5d5c
 http://mains.services/live/Grahxen/3docpGDalU/6e61e940-41fb-4d63-8e94-1030c21e0ddc.m3u
 #EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : PFC
 http://mains.services/live/Grahxen/3docpGDalU/b854b999-407d-4c00-84dc-ffe465e3ba8d.m3u
-
 #EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : REAL MADRID TV
 http://mains.services/live/Grahxen/3docpGDalU/9fd54251-c732-4514-b2a7-89b08ad06f33.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TLC
+http://mains.services/live/Grahxen/3docpGDalU/529c952b-c57f-4802-88de-4e4cccedc659.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : MUNDOTORO TV
+http://mains.services/live/Grahxen/3docpGDalU/a48e7aaa-5510-4cec-8f6e-3317a43d17a1.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TRACE TOCA
+http://mains.services/live/Grahxen/3docpGDalU/6f41e987-665d-48a5-ad37-06897e00135b.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TRAVEL CHANNEL
+http://mains.services/live/Grahxen/3docpGDalU/e86f125a-50f8-45ae-b8a7-f2727f329b3a.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TV FATIMA
+http://mains.services/live/Grahxen/3docpGDalU/8669911f-12f4-4085-a974-5a365c9ff318.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TVE 24H
+http://mains.services/live/Grahxen/3docpGDalU/df53d941-4553-4359-897c-d98244e9751a.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TVE INTERNACIONAL
+http://mains.services/live/Grahxen/3docpGDalU/7047deaa-68e4-4873-b06d-647b3396f382.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : VH1
+http://mains.services/live/Grahxen/3docpGDalU/6d843b09-803f-48f8-b432-3218e6c8e584.m3u
+
 
 #EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : SPORT TV +
 http://mains.services/live/Grahxen/3docpGDalU/9e494c03-8095-4317-a71f-d39a01068593.m3u
@@ -277,24 +285,18 @@ http://mains.services/live/Grahxen/3docpGDalU/ca497a4e-41d6-4c0d-a364-e2ac3935e4
 http://mains.services/live/Grahxen/3docpGDalU/dfe113b7-c847-4da4-a2e9-c60a9b0218b5.m3u
 #EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : SPORT TV 5
 http://mains.services/live/Grahxen/3docpGDalU/0dc75225-eaa3-43ae-9c89-d302feb5d24c.m3u
-#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : SYFY
-http://mains.services/live/Grahxen/3docpGDalU/bdaa9467-7db8-443d-ae89-63ec5ae8ad8b.m3u
-#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TLC
-http://mains.services/live/Grahxen/3docpGDalU/529c952b-c57f-4802-88de-4e4cccedc659.m3u
-#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : MUNDOTORO TV
-http://mains.services/live/Grahxen/3docpGDalU/a48e7aaa-5510-4cec-8f6e-3317a43d17a1.m3u
-#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TRACE TOCA
-http://mains.services/live/Grahxen/3docpGDalU/6f41e987-665d-48a5-ad37-06897e00135b.m3u
-#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TRAVEL CHANNEL
-http://mains.services/live/Grahxen/3docpGDalU/e86f125a-50f8-45ae-b8a7-f2727f329b3a.m3u
-#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TV FATIMA
-http://mains.services/live/Grahxen/3docpGDalU/8669911f-12f4-4085-a974-5a365c9ff318.m3u
-#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TV GLOBO
-http://mains.services/live/Grahxen/3docpGDalU/bcb4a10e-b758-4124-a953-e15d6731e56e.m3u
-#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TV GLOBO PREMIUM
-http://mains.services/live/Grahxen/3docpGDalU/81da88e8-4958-438e-abdb-03d20efe8cfc.m3u
-#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TV RECORD
-http://mains.services/live/Grahxen/3docpGDalU/064b814b-63b6-4dd8-ac89-01ef68a0e45d.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : ELEVEN SPORTS 1
+http://mains.services/live/Grahxen/3docpGDalU/5e3db048-a50c-424c-be18-a2478f782213.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : ELEVEN SPORTS 2
+http://mains.services/live/Grahxen/3docpGDalU/9b44b98e-5c0e-4393-8017-a8ebeb3ad459.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : ELEVEN SPORTS 3
+http://mains.services/live/Grahxen/3docpGDalU/9c92c3b6-2642-415d-b3a5-0a9642c93039.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : ELEVEN SPORTS 4
+http://mains.services/live/Grahxen/3docpGDalU/f67a882c-d564-4cff-b9db-19b8edef542d.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : ELEVEN SPORTS 5
+http://mains.services/live/Grahxen/3docpGDalU/1de4180d-0a8d-4c51-a056-84ab56884139.m3u
+#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : ELEVEN SPORTS 6
+http://mains.services/live/Grahxen/3docpGDalU/975ac24b-df20-40f4-be3d-c283df3220c2.m3u
 #EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TV SERIES
 http://mains.services/live/Grahxen/3docpGDalU/8631d3b7-c238-40d8-a88e-9eb4aeb0fbf4.m3u
 #EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TVCINE 1
@@ -305,11 +307,4 @@ http://mains.services/live/Grahxen/3docpGDalU/23555a1f-33f0-49fe-afbd-09144202c5
 http://mains.services/live/Grahxen/3docpGDalU/33397756-99e3-43fe-96a2-fa99c81e2915.m3u
 #EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TVCINE 4
 http://mains.services/live/Grahxen/3docpGDalU/562d1605-38a7-4de3-94df-cdab5b070022.m3u
-#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TVE 24H
-http://mains.services/live/Grahxen/3docpGDalU/df53d941-4553-4359-897c-d98244e9751a.m3u
-#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : TVE INTERNACIONAL
-http://mains.services/live/Grahxen/3docpGDalU/7047deaa-68e4-4873-b06d-647b3396f382.m3u
-
-#EXTINF:0 tvg-id="ext" group-title="PORTUGUESE TV",PT : VH1
-http://mains.services/live/Grahxen/3docpGDalU/6d843b09-803f-48f8-b432-3218e6c8e584.m3u
 
