@@ -64,32 +64,32 @@ https://000000
 
 #EXTM3U
 
-#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",Agro Brasil TV
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",AGRO BRASIL TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8?ROGERIOTORRES
-#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",Amazon Sat HD
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",AMAZON SAT HD
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?ROGERIOTORRES
-#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",Band - RBA TV HD (PA)
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",BAND - RBA TV HD (PA)
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?ROGERIOTORRES
-#EXTINF:0 tvg-id="Canalrural.br" group-title="CANAIS ABERTOS",Canal Rural
+#EXTINF:0 tvg-id="Canalrural.br" group-title="CANAIS ABERTOS",CANAL RURAL 
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist.m3u8?ROGERIOTORRES
-#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",Canal Saude
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",CANAL SAÚDE
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8?ROGERIOTORRES
-#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",Cultura HD (PA)
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",CULTURA HD
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8?ROGERIOTORRES
-#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",Cultura - CATVE HD (PR)
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",CULTURA - CATVE HD (PR)
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",Cultura Educação - Master TV HD
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",MASTER TV HD
 http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8?ROGERIOTORRES
-#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",FonteTV HD
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",FONTE TV HD
 http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8?ROGERIOTORRES
-#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",Futura - TV o Povo HD
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",FUTURA TV
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8?ROGERIOTORRES
-#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",Gazeta Digital HD
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",GAZETA DIGITAL HD
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8?ROGERIOTORRES
-#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",Master TV - UNIVESP TV
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",MASTER TV
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8?ROGERIOTORRES
-#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",Record TV HD
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",RECORD TV HD
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTOS",Rede Brasil HD
@@ -130,30 +130,38 @@ http://5cf4a2c2512a2.streamlock.net:1935/dgrau/dgrau/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]ESPN EXTRA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/8789
+#EXTINF:-1,[COLOR=white][B]ESPN EXTRA HD[/B][/COLOR][COLOR=white][/COLOR]
+http://acsb.sh:80/bF3y9W/68GSme/71917.ts
 #EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/8793
 #EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://51.83.238.223:16515/
+#EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://acsb.sh:80/bF3y9W/68GSme/71913.ts
 #EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/8801
+#EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://acsb.sh:80/bF3y9W/68GSme/71922.ts
+#EXTINF:-1,[COLOR=white][B]ESPN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://acsb.sh:80/bF3y9W/68GSme/71909.ts
 #EXTINF:-1,[COLOR=white][B]ESPN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/290657
 #EXTINF:-1,[COLOR=white][B]ESPN 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://51.83.238.223:16575/
+#EXTINF:-1,[COLOR=white][B]ESPN 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://acsb.sh:80/bF3y9W/68GSme/71960.ts
 
 #EXTINF:-1,[COLOR=white][B]SPORTV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/4015
 #EXTINF:-1,[COLOR=white][B]SPORTV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/4015
-#EXTINF:-1,[COLOR=white][B]SPORTV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/8783
-
 #EXTINF:-1,[COLOR=white][B]SPORTV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://51.83.238.223:16437/
 #EXTINF:-1,[COLOR=white][B]SPORTV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://51.83.238.223:16457/
 #EXTINF:-1,[COLOR=white][B]SPORTV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-
+#EXTINF:-1,[COLOR=white][B]SPORTV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/8783
 
 
 ##########################################################################################################################################
@@ -162,8 +170,23 @@ https://000000
 
 #EXTM3U
 
-#EXTINF:0 tvg-id="discov_rus" group-title="Channels",[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
-http://15.235.10.31:14412
+
+#EXTINF:-1 tvg-logo="http://a5.vc/uCQ",DISCOVERY TURBO HD
+http://acsb.sh:80/bF3y9W/68GSme/71885.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/XcV",DISCOVERY H&H HD
+http://acsb.sh:80/bF3y9W/68GSme/71869.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Oj9",DISCOVERY CHANNEL HD
+http://acsb.sh:80/bF3y9W/68GSme/71865.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/wgC",DISCOVERY WORLD HD
+http://acsb.sh:80/bF3y9W/68GSme/71889.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/KvX",DISCOVERY KIDS HD
+http://acsb.sh:80/bF3y9W/68GSme/71873.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/0gi",DISCOVERY SCIENCE HD
+http://acsb.sh:80/bF3y9W/68GSme/71877.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Nib",DISCOVERY THEATER HD
+http://acsb.sh:80/bF3y9W/68GSme/71881.ts
+
+
 
 
 
@@ -179,6 +202,15 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]TRACE URBAN HD[/B][/COLOR][COLOR=white][/COLOR]
 https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
 
+#EXTINF:-1 tvg-logo="http://a5.vc/deE",MTV HD
+http://acsb.sh:80/bF3y9W/68GSme/72173.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/deE",MTV LIVE HD
+http://acsb.sh:80/bF3y9W/68GSme/72176.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Uet",MULTI SHOW HD
+http://acsb.sh:80/bF3y9W/68GSme/72182.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/FbG",MUSIC BOX BR HD
+http://acsb.sh:80/bF3y9W/68GSme/72186.ts
+
 
 ##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS URBAN TV  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -192,6 +224,35 @@ https://video01.logicahost.com.br/portaldailha/portaldailha/chunklist_w188363429
 https://stream.urbantv.com.br/urbantv/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 #EXTINF:-1,[COLOR=white][B]URBAN SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.urbantv.com.br/urbantvsports/video.m3u8?ROGERIOTORRES
+
+
+##########################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS TELECINE BRASIL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="http://a5.vc/BsL",TELECINE ACTION HD
+http://acsb.sh:80/bF3y9W/68GSme/72348.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELECINE ACTION
+http://51.83.238.223:16703/
+#EXTINF:-1 tvg-logo="http://a5.vc/DZP",TELECINE CULT HD
+http://acsb.sh:80/bF3y9W/68GSme/72352.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/TLE",TELECINE FUN HD
+http://acsb.sh:80/bF3y9W/68GSme/72356.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/mOL",TELECINE PIPOCA HD
+http://acsb.sh:80/bF3y9W/68GSme/72360.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELECINE PIPOCA UHD
+http://51.83.238.223:16763/
+#EXTINF:-1 tvg-logo="http://a5.vc/N8x",TELECINE PREMIUM HD
+http://acsb.sh:80/bF3y9W/68GSme/72364.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/rBW",TELECINE TOUCH HD
+http://acsb.sh:80/bF3y9W/68GSme/72368.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELECINE PREMIUM
+http://51.83.238.223:16445/
+
+
 
 ##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DIVERSOS BRASIL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -270,13 +331,6 @@ http://51.83.238.223:16823/
 #EXTINF:0 tvg-id="tv1000-premium-hd" group-title="Channels",PREMIERE
 http://51.83.238.223:16725/
 
-http://51.83.238.223:16457/
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELECINE PREMIUM
-http://51.83.238.223:16445/
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELECINE ACTION
-http://51.83.238.223:16703/
-#EXTINF:0 tvg-id="ext" group-title="Channels",TELECINE PIPOCA UHD
-http://51.83.238.223:16763/
 #EXTINF:0 tvg-id="Universal.uk" group-title="Channels",UNIVERSAL
 http://51.83.238.223:16883/
 
