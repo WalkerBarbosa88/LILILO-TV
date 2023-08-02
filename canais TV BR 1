@@ -71,10 +71,14 @@ http://5cf4a2c2512a2.streamlock.net:1935/dgrau/dgrau/playlist.m3u8
 http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/8789
 #EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/8793
+#EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://51.83.238.223:16515/
 #EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/8801
 #EXTINF:-1,[COLOR=white][B]ESPN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/290657
+#EXTINF:-1,[COLOR=white][B]ESPN 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://51.83.238.223:16575/
 
 #EXTINF:-1,[COLOR=white][B]SPORTV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/4015
@@ -82,6 +86,12 @@ http://kuchini.site:8080/myhdosama/cjydA4ncmMqx55pf/4015
 http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/4015
 #EXTINF:-1,[COLOR=white][B]SPORTV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://premiumiptvmk.com:8080/silversatcom/J662bwtY7Tev877u/8783
+
+#EXTINF:-1,[COLOR=white][B]SPORTV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://51.83.238.223:16437/
+#EXTINF:-1,[COLOR=white][B]SPORTV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://51.83.238.223:16457/
+#EXTINF:-1,[COLOR=white][B]SPORTV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 
 
 
@@ -115,8 +125,8 @@ https://000000
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
-https://1111122222222255555555
+#EXTINF:-1,[COLOR=white][B]URBAN TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://video01.logicahost.com.br/portaldailha/portaldailha/chunklist_w1883634298.m3u8
 
 ##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DIVERSOS BRASIL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -164,4 +174,45 @@ http://51.83.238.223:16186
 http://51.83.238.223:16274
 #EXTINF:0 tvg-id="ext" group-title="Channels",CG NEWS HD
 http://51.83.238.223:16825
+
+#EXTINF:0 tvg-id="animal_rus" group-title="Channels",ANIMAL PLANET
+http://51.83.238.223:16945/
+#EXTINF:0 tvg-id="ext" group-title="Channels",AO VIVO
+http://51.83.238.223:16141/
+#EXTINF:0 tvg-id="ext" group-title="Channels",AO VIVO SP
+http://51.83.238.223:16600/
+#EXTINF:0 tvg-id="ext" group-title="Channels",AO VIVO RJ
+http://51.83.238.223:16604/
+#EXTINF:0 tvg-id="ext" group-title="Channels",AO VIVO RJ
+http://51.83.238.223:16606/
+#EXTINF:0 tvg-id="AXN.bg" group-title="Channels",AXN
+http://51.83.238.223:16941/
+#EXTINF:0 tvg-id="Combate.br" group-title="Channels",COMBATE
+http://51.83.238.223:16417/
+#EXTINF:0 tvg-id="discov_rus" group-title="Channels",DISCOVERY
+http://51.83.238.223:16957/
+#EXTINF:0 tvg-id="disney" group-title="Channels",DISNEY CHANNEL
+http://51.83.238.223:16274/
+
+#EXTINF:0 tvg-id="Globonews.br" group-title="Channels",GLOBO NEWS
+http://51.83.238.223:16825/
+#EXTINF:0 tvg-id="ext" group-title="Channels",1 HBO
+http://51.83.238.223:16045/
+#EXTINF:0 tvg-id="ext" group-title="Channels",1 HBO
+http://51.83.238.223:16051/
+#EXTINF:0 tvg-id="Megapix.br" group-title="Channels",MEGAPIX
+http://51.83.238.223:16823/
+#EXTINF:0 tvg-id="tv1000-premium-hd" group-title="Channels",PREMIERE
+http://51.83.238.223:16725/
+
+http://51.83.238.223:16457/
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELECINE PREMIUM
+http://51.83.238.223:16445/
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELECINE ACTION
+http://51.83.238.223:16703/
+#EXTINF:0 tvg-id="ext" group-title="Channels",TELECINE PIPOCA UHD
+http://51.83.238.223:16763/
+#EXTINF:0 tvg-id="Universal.uk" group-title="Channels",UNIVERSAL
+http://51.83.238.223:16883/
+
 
