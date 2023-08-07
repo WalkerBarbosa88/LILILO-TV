@@ -102,20 +102,21 @@ https://000000
 
 #EXTM3U
 
-#EXTINF:-1 group-title="2HUBS 1404",RMC SPORT 1 HD
+
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 1 HD FR[/B][/COLOR][COLOR=white][/COLOR]
 http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/58762
-#EXTINF:-1 group-title="2HUBS 1404",RMC SPORT 2 HD
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 2 HD FR[/B][/COLOR][COLOR=white][/COLOR]
 http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/58763
-#EXTINF:-1 group-title="2HUBS 1404",RMC SPORT 3 HD
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 3 HD FR[/B][/COLOR][COLOR=white][/COLOR]
 http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/58764
-#EXTINF:-1 group-title="2HUBS 1404",RMC SPORT 4 HD
+#EXTINF:-1,[COLOR=white][B]RMC SPORT 4 HD FR[/B][/COLOR][COLOR=white][/COLOR]
 http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/58765
 
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/6eafe5012b43973f31c5ee0b648e0594.png" group-title="SUPERMEDIA  2706",SPORTV 1 HD
+#EXTINF:-1,[COLOR=white][B]SPORT 1 HD BR[/B][/COLOR][COLOR=white][/COLOR]
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/4015
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/2f163193ab2de12c120e02e264bc16a7.png" group-title="SUPERMEDIA  2706",SPORTV 2 HD
+#EXTINF:-1,[COLOR=white][B]SPORT 2 HD BR[/B][/COLOR][COLOR=white][/COLOR]
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8783
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/50dc54d140bb68ee92fc1aa01bec5bb5.png" group-title="SUPERMEDIA  2706",SPORTV 3 HD
+#EXTINF:-1,[COLOR=white][B]SPORT 3 HD BR[/B][/COLOR][COLOR=white][/COLOR]
 http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/8784
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ARENA SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -137,10 +138,8 @@ https://bl.uma.media/live/394904/HLS/1_5/1/1/playlist.m3u8
 ##################################  BENFICA TV   ###########################################################################
 
 #EXTM3U
- 
 #EXTINF:-1,[COLOR=yellow][B] /////////  BENFICA TV  /////////[/B][/COLOR][COLOR=yellow][/COLOR]                
 https://000000
-
 #EXTM3U
 
 #EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -151,7 +150,6 @@ http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224091
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
  
 #EXTM3U
- 
 #EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS ELEVEN SPORTS PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
