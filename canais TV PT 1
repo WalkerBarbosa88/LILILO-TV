@@ -11,7 +11,7 @@ http://0.0.0.0:0000
 https://tvgratuita10.blogspot.com/?fbclid=IwAR1hjt2fxRsjhUBFg6lhEEU1cbj3xHkyZ65tIOyWhApFByPIvawYYeSmHmo
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 11/08/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 21/08/2023[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
@@ -77,8 +77,6 @@ http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]TVM INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
 http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_b714000_slpor.m3u8
 #EXTINF:-1,[COLOR=white][B]CANAL MACAU TV SD[/B][/COLOR][COLOR=white][/COLOR]
-https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]CANAL MACAU TV SD[/B][/COLOR][COLOR=white][/COLOR]
 http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/chunklist_w1683699584.m3u8
 
 
@@ -116,268 +114,208 @@ https://streamer-b02.videos.sapo.pt/live/santuario/chunklist.m3u8
 
 #EXTM3U
 
-#EXTINF:0 tvg-id="rtp1.pt" group-title="Channels",PT: RTP 1
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/130916
-#EXTINF:0 tvg-id="rtp2.pt" group-title="Channels",PT: RTP 2
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/130917
-#EXTINF:0 tvg-id="RTP3.pt" group-title="Channels",PT: RTP 3
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/130918
-#EXTINF:0 tvg-id="TVI.pt" group-title="Channels",PT: TVI HD
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/130920
-#EXTINF:0 tvg-id="TVIFiccao.pt" group-title="Channels",PT: TVI FICÇÃO
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/160073
-#EXTINF:0 tvg-id="sic.pt" group-title="Channels",PT: SIC
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/130919
-#EXTINF:0 tvg-id="sicnoticias.pt" group-title="Channels",PT: SIC NOTÍCIAS
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/130922
-#EXTINF:0 tvg-id="sicradical.pt" group-title="Channels",PT: SIC RADICAL
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/130934
-#EXTINF:0 tvg-id="sicmulher.pt" group-title="Channels",PT: SIC MULHER
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/130935
-#EXTINF:0 tvg-id="SicCaras.pt" group-title="Channels",PT: SIC CARAS
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/130936
-#EXTINF:0 tvg-id="sic.pt" group-title="Channels",PT: SIC HD
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224049
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SIC INTER
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224051
-#EXTINF:0 tvg-id="TVIReal.pt" group-title="Channels",PT: TVI REALITY
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224066
-#EXTINF:0 tvg-id="TVIReal.pt" group-title="Channels",PT: TVI REALITY MOSAICO
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224071
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVI REALITY CAM 1
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224067
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVI REALITY CAM 2
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224068
-#EXTINF:0 tvg-id="CMTV.pt" group-title="Channels",PT: CMTV
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/238126
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TPA INTER
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/131114
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: NOS STUDIOS
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/223994
-#EXTINF:0 tvg-id="RTPMadeira.pt" group-title="Channels",PT: RTP MADEIRA
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224047
-#EXTINF:0 tvg-id="RTPAcores.pt" group-title="Channels",PT: RTP AÇORES
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/131100
-#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Channels",PT: RTP MEMÓRIA
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/131101
-#EXTINF:0 tvg-id="ext" group-title="Channels",➤ ENTRETENIMENTO
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/225755
-#EXTINF:0 tvg-id="fox.pt" group-title="Channels",PT: FOX
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/160029
-#EXTINF:0 tvg-id="foxcrime.pt" group-title="Channels",PT: FOX CRIME
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/131046
-#EXTINF:0 tvg-id="SyFy.pt" group-title="Channels",PT: SYFY
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/131053
-#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",PT: FOX COMEDY
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/131047
-#EXTINF:0 tvg-id="24Kitchen.pt" group-title="Channels",PT: 24 KITCHEN
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/130946
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CASA & COZINHA
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/130945
-#EXTINF:0 tvg-id="FoodNetwork.pt" group-title="Channels",PT: FOOD NETWORK
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/160028
-#EXTINF:0 tvg-id="TLC.pt" group-title="Channels",PT: TLC
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/160061
-#EXTINF:0 tvg-id="eentertainment.pt" group-title="Channels",PT: E! ENTERTAINMENT
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224006
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: FASHION TV
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224008
-#EXTINF:0 tvg-id="BBCentertainment.pt" group-title="Channels",PT: BBC ENTERTAINMENT
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/223986
-#EXTINF:0 tvg-id="foxlife.pt" group-title="Channels",PT: FOX LIFE
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/131052
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: DOG TV
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224005
-#EXTINF:0 tvg-id="TorosTV.pt" group-title="Channels",PT: TOROS TV
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224058
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: DIZI CHANNEL
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224004
-#EXTINF:0 tvg-id="ext" group-title="Channels",➤ NOTÍCIAS
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/225773
-#EXTINF:0 tvg-id="PortoCanal.pt" group-title="Channels",PT: PORTO CANAL
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224042
-#EXTINF:0 tvg-id="TVI24.pt" group-title="Channels",PT: CNN PORTUGAL
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/130923
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: EURONEWS
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/130928
-#EXTINF:0 tvg-id="Localvisao.pt" group-title="Channels",PT: LOCALVISÃO
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224024
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: BLOOMBERG
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/223988
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: KURIAKOS
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/160038
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: AR TV
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/223983
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CANAL 11
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/223980
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: GLOBO NEWS
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224036
-#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Channels",PT: RTP ÁFRICA
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224044
-#EXTINF:0 tvg-id="FoxNews.pt" group-title="Channels",PT: FOX NEWS
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224010
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CNBC
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224000
-#EXTINF:0 tvg-id="RecordNews.pt" group-title="Channels",PT: RECORD NEWS
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224043
-#EXTINF:0 tvg-id="ext" group-title="Channels",➤ MÚSICA
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/225772
-#EXTINF:0 tvg-id="AfroMusic.pt" group-title="Channels",PT: AFRO MUSIC 
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/131068
-#EXTINF:0 tvg-id="mezzo.pt" group-title="Channels",PT: MEZZO
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/131075
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ALMA LUSA 
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/223982
-#EXTINF:0 tvg-id="ClubbingTV.pt" group-title="Channels",PT: CLUBBING TV
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/223999
-#EXTINF:0 tvg-id="MCMPop.pt" group-title="Channels",PT: MCM POP
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224027
-#EXTINF:0 tvg-id="mtvportugal.pt" group-title="Channels",PT: MTV
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224028
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: MTV 00'S
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224029
-#EXTINF:0 tvg-id="mtvportugal.pt" group-title="Channels",PT: MTV PORTUGAL
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224031
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TRACE TOCA
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224059
-#EXTINF:0 tvg-id="TraceTVUrban.pt" group-title="Channels",PT: TRACE URBAN
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224060
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ZAP VIVA
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224077
-#EXTINF:0 tvg-id="ext" group-title="Channels",➤ INFANTIS
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/225754
-#EXTINF:0 tvg-id="SicK.pt" group-title="Channels",PT: SIC KIDS
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224052
-#EXTINF:0 tvg-id="BabyTV.pt" group-title="Channels",PT: BABY TV
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/159995
-#EXTINF:0 tvg-id="cartoon.pt" group-title="Channels",PT: CARTOON NETWORK
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/131063
-#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Channels",PT: NICKELODEON
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/131060
-#EXTINF:0 tvg-id="NickJr.pt" group-title="Channels",PT: NICK JUNIOR 
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/160045
-#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Channels",PT: PANDA BIGGS 
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/160005
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: PANDA KIDS
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224040
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: KURIAKOS KIDS TV
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224021
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: GAMETOON
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224011
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: LOLLY KIDS
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224025
-#EXTINF:0 tvg-id="JimJam.pt" group-title="Channels",PT: JIMJAM
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224020
-#EXTINF:0 tvg-id="ext" group-title="Channels",➤ FILMES
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/225765
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE +
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224065
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE TOP
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/131037
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE EDITION
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/131038
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE EMOTION 
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/131039
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE ACTION 
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/131040
-#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",PT: FOX MOVIES
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/131041
-#EXTINF:0 tvg-id="AMC.pt" group-title="Channels",PT: AMC
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/131049
-#EXTINF:0 tvg-id="axn.pt" group-title="Channels",PT: AXN
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/131050
-#EXTINF:0 tvg-id="AXNWhite.pt" group-title="Channels",PT: AXN WHITE
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/131044
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: AXN MOVIES 
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/131045
-#EXTINF:0 tvg-id="Cinemundo.pt" group-title="Channels",PT: CINEMUNDO 
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/131042
-#EXTINF:0 tvg-id="hollywood.pt" group-title="Channels",PT: HOLLYWOOD
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224018
 
-#EXTINF:0 tvg-id="TVGlobo.pt" group-title="Channels",PT: GLOBO 
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224013
-#EXTINF:0 tvg-id="GloboPremium.pt" group-title="Channels",PT: GLOBO PREMIUM
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224015
-#EXTINF:0 tvg-id="ext" group-title="Channels",➤ EDUCAÇÃO E DOCUMENTÁRIOS
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/225757
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Blaze
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/159999
-#EXTINF:0 tvg-id="CacaVision.pt" group-title="Channels",PT: Cacavision
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/160002
-#EXTINF:0 tvg-id="odisseia.pt" group-title="Channels",PT: Odisseia
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/160046
-#EXTINF:0 tvg-id="cazaepesca.pt" group-title="Channels",PT: Caca E Pesca
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/160001
-#EXTINF:0 tvg-id="discoverychannel.pt" group-title="Channels",PT: Discovery Channel
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/131080
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Discovery Investigation
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/131077
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Crime Investigation
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/131094
-#EXTINF:0 tvg-id="nationalgeographic.pt" group-title="Channels",PT: National Geographic
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/131078
-#EXTINF:0 tvg-id="NatGeoWild.pt" group-title="Channels",PT: Nat Geo Wild
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/131079
-#EXTINF:0 tvg-id="CANCAONOVA.pt" group-title="Channels",PT: Cancao Nova
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/131090
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Campo Pequeno TV
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/223990
-#EXTINF:0 tvg-id="HistoryChannel.pt" group-title="Channels",PT: HISTÓRIA
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224017
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Canal HISTÓRIA
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/223991
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CAÇA & PESCA
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/223995
-#EXTINF:0 tvg-id="cazaepesca.pt" group-title="Channels",PT: CAÇA & PESCA
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/223996
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Canal 180
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/131089
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CAÇAVISION
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/223997
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Outdoor
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224038
-#EXTINF:0 tvg-id="TravelChannel.pt" group-title="Channels",PT: Travel Channel
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224061
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TravelXP
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224062
-#EXTINF:0 tvg-id="tvrecord.pt" group-title="Channels",PT: TV Record
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/159991
-#EXTINF:0 tvg-id="CanalQ.pt" group-title="Channels",PT: Canal Q
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/160006
-#EXTINF:0 tvg-id="CBSReality.pt" group-title="Channels",PT: CBS Reality
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/223998
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: A Bola
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/159993
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Canal Moto GP
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/223993
-#EXTINF:0 tvg-id="Motorvision.pt" group-title="Channels",PT: Motorvision
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/130975
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",PT: BTV TV
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/159998
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: BTV HD
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224091
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: RTP Arena
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224045
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Combat
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/130974
-#EXTINF:0 tvg-id="FuelTV.pt" group-title="Channels",PT: Fuel TV
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/130976
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Ginx
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224012
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| RTP 1 4K+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14410
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| RTP 2 4K+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14411
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| RTP 3 4K+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14412
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| RTP INTER. HD+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14375
+#EXTINF:0 tvg-id="RTPMadeira.pt" group-title="Channels",|PT| RTP MADEIRA
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14408
+#EXTINF:0 tvg-id="RTPAcores.pt" group-title="Channels",|PT| RTP AÇORES
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14409
+#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Channels",|PT| RTP MEMÓRIA
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14413
+#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Channels",|PT| RTP ÁFRICA
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14414
+#EXTINF:0 tvg-id="TraceTVUrban.pt" group-title="Channels",|PT| TRACE URBAN
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14376
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| TRACE TOCA
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14377
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| Zap Viva HD+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14378
+#EXTINF:0 tvg-id="mezzo.pt" group-title="Channels",|PT| Mezzo
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14379
+#EXTINF:0 tvg-id="FineLiving.pt" group-title="Channels",|PT| Fine Living
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14390
+#EXTINF:0 tvg-id="CANCAONOVA.pt" group-title="Channels",|PT| Cancao Nova
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14391
+#EXTINF:0 tvg-id="CacaVision.pt" group-title="Channels",|PT| Caçavision
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14392
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| Bloomberg
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14393
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| Blaze
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14394
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| BBC World News
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14395
+#EXTINF:0 tvg-id="BBCentertainment.pt" group-title="Channels",|PT| BBC Entertainment
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14396
+#EXTINF:0 tvg-id="vh1.pt" group-title="Channels",|PT| VH1
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14397
+#EXTINF:0 tvg-id="TorosTV.pt" group-title="Channels",|PT| Toros TV
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14398
+#EXTINF:0 tvg-id="mtvportugal.pt" group-title="Channels",|PT| MTV
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14399
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="Channels",|PT| FUEL TV
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14400
+#EXTINF:0 tvg-id="AfroMusic.pt" group-title="Channels",|PT| Afro Music
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14401
+#EXTINF:0 tvg-id="MCMPop.pt" group-title="Channels",|PT| MCM Pop
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14402
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| My Cuisine
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14403
+#EXTINF:0 tvg-id="GloboPremium.pt" group-title="Channels",|PT| TV Globo Premium
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14404
+#EXTINF:0 tvg-id="SicCaras.pt" group-title="Channels",|PT| SIC Caras
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14405
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| TCV
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14406
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| NOS STUDIOS 4K+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14373
+#EXTINF:0 tvg-id="TVIFiccao.pt" group-title="Channels",|PT| TVI FICÇÃO
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14407
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| TVI 4K+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14415
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| SIC 4K+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14416
+#EXTINF:0 tvg-id="sicnoticias.pt" group-title="Channels",|PT| SIC NOTÍCIAS
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14417
+#EXTINF:0 tvg-id="sicradical.pt" group-title="Channels",|PT| SIC RADICAL
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14418
+#EXTINF:0 tvg-id="sicmulher.pt" group-title="Channels",|PT| SIC MULHER
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14419
+#EXTINF:0 tvg-id="PortoCanal.pt" group-title="Channels",|PT| PORTO CANAL
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14420
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| Globo Now
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14421
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| Globo TV
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14422
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| TCV Internacional
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14423
+#EXTINF:0 tvg-id="TVIReal.pt" group-title="Channels",|PT| TVI Reality
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14424
+#EXTINF:0 tvg-id="discoverychannel.pt" group-title="Channels",|PT| Discovery Channel
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14374
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| Nat Geo Wild 4K+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14425
+#EXTINF:0 tvg-id="DiscoveryHDShowcase.pt" group-title="Channels",|PT| Discovery Showcase
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14426
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| National Geographic 4K+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14427
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| Travel Channel 4K+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14428
+#EXTINF:0 tvg-id="HistoryChannel.pt" group-title="Channels",|PT| Historia
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14429
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| 24Kitchen 4K+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14430
+#EXTINF:0 tvg-id="eentertainment.pt" group-title="Channels",|PT| E! Entertainment
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14431
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| CMTV 4K+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14432
+#EXTINF:0 tvg-id="odisseia.pt" group-title="Channels",|PT| Odisseia
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14433
+#EXTINF:0 tvg-id="CBSReality.pt" group-title="Channels",|PT| CBS Reality
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14434
+#EXTINF:0 tvg-id="CanalQ.pt" group-title="Channels",|PT| Canal Q
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14435
+#EXTINF:0 tvg-id="ABolaTV.pt" group-title="Channels",|PT| A Bola TV
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14436
+#EXTINF:0 tvg-id="TVI24.pt" group-title="Channels",|PT| TVI 24
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14437
+#EXTINF:0 tvg-id="TLC.pt" group-title="Channels",|PT| TLC
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14438
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| RecordTV
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14440
+#EXTINF:0 tvg-id="SicK.pt" group-title="Channels",|PT| SIC Kids
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14446
+#EXTINF:0 tvg-id="BabyTV.pt" group-title="Channels",|PT| Baby TV
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14447
+#EXTINF:0 tvg-id="NickJr.pt" group-title="Channels",|PT| Nick Jr
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14449
+#EXTINF:0 tvg-id="disneychannel.pt" group-title="Channels",|PT| Disney Channel
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14451
+#EXTINF:0 tvg-id="DisneyJunior.pt" group-title="Channels",|PT| Disney Junior
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14453
+#EXTINF:0 tvg-id="cartoon.pt" group-title="Channels",|PT| Cartoon Network
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14454
+#EXTINF:0 tvg-id="canalpanda.pt" group-title="Channels",|PT| Canal Panda
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14455
+#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Channels",|PT| Nickelodeon
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14457
+#EXTINF:0 tvg-id="JimJam.pt" group-title="Channels",|PT|  JimJam
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14460
+#EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Channels",|PT| Panda Biggs
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14464
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| Fox Crime 4K+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14478
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",|PT| Fox Movies
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14480
+#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",|PT| Fox Comedy
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14484
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| AMC 4K+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14485
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| AXN 4K+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14486
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| AXN White 4K+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14492
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| AXN Black 4K+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14494
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| SyFy 4K+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14497
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| TVCINE 1 4K+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14500
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| TVCINE 2 4K+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14502
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| TVCINE 3 4K+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14504
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| TVCINE 4 4K+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14505
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| Hollywood 4K+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14508
+#EXTINF:0 tvg-id="Cinemundo.pt" group-title="Channels",|PT| Cine Mundo
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14510
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| FOX 4K+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14475
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| SPORT TV 1 4K+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14550
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| SPORT TV 2 4K+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14551
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| SPORT TV 3 4K+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14552
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| SPORT TV 4 4K+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14553
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| SPORT TV 5 4K+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14554
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| SPORT TV NBA
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14524
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| ELEVEN SPORTS 1 4K+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14548
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| ELEVEN SPORTS 2 4K+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14544
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| ELEVEN SPORTS 3 4K+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14537
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| ELEVEN SPORTS 4 4K+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14535
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| ELEVEN SPORTS 5 4K+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14532
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| ELEVEN SPORTS 6 4K+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14530
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| EUROSPORT 1 4K+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14555
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| EUROSPORT 2 4K+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14556
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| BTV 1 4K+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14557
+#EXTINF:0 tvg-id="ext" group-title="Channels",|PT| Sporting TV 4K+
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14558
+#EXTINF:0 tvg-id="pfc.pt" group-title="Channels",|PT| PFC
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14559
+#EXTINF:0 tvg-id="KombatSport.pt" group-title="Channels",|PT| Kombat Sport
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14525
+#EXTINF:0 tvg-id="Motorvision.pt" group-title="Channels",|PT| Motorvision
+http://62.182.83.91:80/luckyg12/fpEKTXWTmN/14523
 
-#EXTINF:0 tvg-id="pfc.pt" group-title="Channels",PT: PFC
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224041
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: M Chic
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224032
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Canal 11
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/160003
-#EXTINF:0 tvg-id="NBA.pt" group-title="Channels",PT: NBA
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224033
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: UFC Fight Pass
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224073
-#EXTINF:0 tvg-id="FightNetwork.pt" group-title="Channels",PT: Fight Network
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224009
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: NFL Network
-http://iptvch.com:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/224034
