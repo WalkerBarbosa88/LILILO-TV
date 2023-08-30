@@ -157,6 +157,18 @@ https://stream.urbantv.com.br/urbantv/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 #EXTINF:-1,[COLOR=white][B]URBAN SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.urbantv.com.br/urbantvsports/video.m3u8?ROGERIOTORRES
 
+#EXTINF:-1,[COLOR=white][B]URBAN TV KIDS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://200.194.238.229:8383/live/urbankids/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]URBAN TV MOVIES HD[/B][/COLOR][COLOR=white][/COLOR]
+http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]URBAN TV RETRO HD[/B][/COLOR][COLOR=white][/COLOR]
+http://200.194.238.229:8383/live/urbanretro/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]URBAN TV SERIES HD[/B][/COLOR][COLOR=white][/COLOR]
+http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]URBAN TV TRAVEL HD[/B][/COLOR][COLOR=white][/COLOR]
+http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]URBAN TV TURBO HD[/B][/COLOR][COLOR=white][/COLOR]
+http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 
 ##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS TELECINE BRASIL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
