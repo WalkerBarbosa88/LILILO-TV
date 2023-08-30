@@ -4,7 +4,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 24/07/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 30/08/2023[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -90,9 +90,6 @@ https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 #EXTINF:-1,[COLOR=white][B]KISS UK[/B][/COLOR][COLOR=white][/COLOR]
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 
-#EXTINF:-1,[COLOR=white][B]TSN VISUAL RADIO TV[/B][/COLOR][COLOR=white][/COLOR]
-http://59d7d6f47d7fc.streamlock.net:1935/vr/vr/playlist.m3u8
-
 #EXTINF:0 tvg-id="VH1.us" group-title="Music",[COLOR=white][B]VH1 FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
@@ -112,7 +109,7 @@ http://muzzone-stream.daitsuna.net/muzzondvr/muzzone_dvr/chunks_dvr.m3u8
 http://91.197.104.34:80/Europaplus/mono.m3u8
 
 ##########################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA ELECTRÓNICA - 3 OFFLINE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA ELECTRÓNICA - 5 OFFLINE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
@@ -181,17 +178,12 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]ROCK TV BR HD[/B][/COLOR][COLOR=white][/COLOR]
 https://59f1cbe63db89.streamlock.net:1443/tvbeltrao3/_definst_/tvbeltrao3/chunklist_w782273434.m3u8
-#EXTINF:-1,[COLOR=white][B]CATEDRAL DO ROCK HD[/B][/COLOR][COLOR=white][/COLOR]
-https://stmv1.srvstm.com/catedraldorock/catedraldorock/chunklist_w720649222.m3u8
 #EXTINF:-1,[COLOR=white][B]ROCK TV BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://59f1cbe63db89.streamlock.net:1935/tvbeltrao3/_definst_/tvbeltrao3/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]ROCKLAND RADIO TV[/B][/COLOR][COLOR=white][/COLOR]
 https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]XITE TV ROCK TV[/B][/COLOR][COLOR=white][/COLOR]
 https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]ROCKARYAD TV[/B][/COLOR][COLOR=white][/COLOR]
-http://rocknaryad.streaming-elbrus.su:56373/rock_naryad/video.m3u8?token=rocknaryad
-
 #EXTINF:-1,[COLOR=white][B]DELUXE MUSIC ROCK[/B][/COLOR][COLOR=white][/COLOR]
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
 
@@ -278,11 +270,15 @@ http://r9z2g8ik.rostelekom.xyz/iptv/VX6X4Z39LH25GU/2297/index.m3u8
 https://000000
 
 
+
+#EXTINF:-1,[COLOR=white][B]RETRO MUSIC TV[/B][/COLOR][COLOR=white][/COLOR]
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
 #EXTINF:-1,[COLOR=white][B]RETRO TV 1 SD[/B][/COLOR][COLOR=white][/COLOR]
 http://59f1cbe63db89.streamlock.net:1935/retroplustv/_definst_/retroplustv/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]RETRO TV 2 SD[/B][/COLOR][COLOR=white][/COLOR]
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w2107081768.m3u8
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="Retro Plus 2 HD" tvg-id="" group-title="MUSIC" tvg-logo="https://i.imgur.com/i0rZsgG.png",[COLOR=white][B]RETRO TV 3 SD[/B][/COLOR][COLOR=white][/COLOR]
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
@@ -330,9 +326,6 @@ http://168.205.87.198:8555/live/1431/123456/16.ts
 
 #EXTINF:-1,[COLOR=white][B]VCLASSIC TV TROPICAL[/B][/COLOR][COLOR=white][/COLOR]
 https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,[COLOR=white][B]OXIGENO TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
 
 ######################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// OUTROS GÉNEROS /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -404,8 +397,6 @@ http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]K POP TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]OXIGENO TV[/B][/COLOR][COLOR=white][/COLOR]
-https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]VOICE OVER TV[/B][/COLOR][COLOR=white][/COLOR]
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
 
@@ -500,8 +491,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]VEVO POP[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]VEVO[/B][/COLOR][COLOR=white][/COLOR]
-https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/8830da17af6f45c18bae545abe878729/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]VEVO 80´S[/B][/COLOR][COLOR=white][/COLOR]
 https://bit.ly/vevo80s?wmsAuthSign=InspirationLinks
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]VEVO 90´S[/B][/COLOR][COLOR=white][/COLOR]
@@ -509,7 +498,7 @@ https://bit.ly/vevo90s?wmsAuthSign=InspirationLinks
 
 
 ######################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 24/07/2023 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 30/08/2023 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
