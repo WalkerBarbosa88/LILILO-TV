@@ -206,6 +206,12 @@ https://000000
 #EXTINF:-1,[COLOR=white][B]CARINA TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stream7.zivoli.it/carinatv/carinatv/chunks.m3u8
 
+#EXTINF:-1,[COLOR=white][B]OMEGA TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://5caf24a595d94.streamlock.net:1937/8142/8142/chunklist_w1756563914.m3u8
+
+#EXTINF:-1,[COLOR=white][B]VENUS MUSIC TV[/B][/COLOR][COLOR=white][/COLOR]
+https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/chunklist_w308253828.m3u8
+
 #EXTINF:-1,[COLOR=white][B]RELOAD TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
 
