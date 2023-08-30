@@ -6,9 +6,8 @@ http://0.0.0.0:0000
  
 #EXTM3U
 #EXTINF:-1,[COLOR=yellow][B]LISTA EM BREVE[/B][/COLOR][COLOR=yellow][/COLOR]
-#EXTM3U
-
 
 #EXTM3U
-#EXTINF:0 tvg-id="rtp1.pt" group-title="Channels",BREVEMENTE
+
+#EXTINF:-1,[COLOR=white][B]BREVEMENTE[/B][/COLOR][COLOR=white][/COLOR]
 http://000000011111115555555554
