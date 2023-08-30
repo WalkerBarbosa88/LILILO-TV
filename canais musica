@@ -507,10 +507,6 @@ https://000000
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]VIVA RUSSIA[/B][/COLOR][COLOR=white][/COLOR]
 https://hls.goodgame.ru/hls/180805.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MTV BIGGEST POP HD[/B][/COLOR][COLOR=white][/COLOR]
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MTV BLOCK PARTY HD[/B][/COLOR][COLOR=white][/COLOR]
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MUZZIK HIP HOP[/B][/COLOR][COLOR=white][/COLOR]
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]POP STAR[/B][/COLOR][COLOR=white][/COLOR]
