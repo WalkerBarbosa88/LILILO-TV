@@ -31,8 +31,10 @@ http://0.0.0.0:0000
 https://00000000000
 
 
-#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
-http://000001111111122222255555
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://sysadminhost.net:8080/stadnik/6a627b52a9/1483
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://sysadminhost.net:8080/stadnik/6a627b52a9/1486
 
 
 
