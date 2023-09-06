@@ -68,7 +68,7 @@ https://jukin-weatherspy-2-eu.rakuten.wurl.tv/playlist.m3u8
 http://iptv.prosto.tv:7000/ch206/video.m3u8
 
 ##########################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS EXPRESSÃO PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS EXPRESSÃO PT ÁFRICA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTM3U
@@ -81,9 +81,44 @@ http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
 http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_b714000_slpor.m3u8
 #EXTINF:-1,[COLOR=white][B]CANAL MACAU TV SD[/B][/COLOR][COLOR=white][/COLOR]
 http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/chunklist_w1683699584.m3u8
+#EXTINF:-1,[COLOR=white][B]TVI ÁFRICA HD[/B][/COLOR][COLOR=white][/COLOR]
+https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]AFRICA+ NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://connectiktv.ddns.me:8080/live/61f1b992a6e8a-1/index.m3u8
+#EXTINF:-1,[COLOR=white][B]AFRICANEWS ENG HD[/B][/COLOR][COLOR=white][/COLOR]
+https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]AFROBIT HD[/B][/COLOR][COLOR=white][/COLOR]
+http://connectiktv.ddns.me:8080/live/61f2632aa8934-1/index.m3u8
 
+
+##########################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS EXPRESSÃO PT BRASIL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
 
 #EXTM3U
+
+
+#EXTINF:-1,[COLOR=white][B]CNN BRASIL HD[/B][/COLOR][COLOR=white][/COLOR]
+https://ythls.onrender.com/channel/UCvdwhh_fDyWccR42-rReZLw.m3u8
+#EXTINF:-1,[COLOR=white][B]ALL SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]ALPHA CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
+https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]CANAL DOS RICOS HD[/B][/COLOR][COLOR=white][/COLOR]
+https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]CBTV INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+#EXTINF:-1,[COLOR=white][B]COM BRASIL FHD[/B][/COLOR][COLOR=white][/COLOR]
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]CONEXÃO TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]TV ALDEIA TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]REDE TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://redetves1.brasilstream.com.br/hls/redetves1/index.m3u8
+#EXTINF:-1,[COLOR=white][B]REDE METRÓPOLE HD[/B][/COLOR][COLOR=white][/COLOR]
+https://acesso.ecast.site:3456/hybrid/play.m3u8
+
 
 ##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS TV PORTUGAL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -95,6 +130,10 @@ http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/chunklist_w1683699584.m3u8
 http://162.212.178.69:41042/bysid/608
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
 http://210.210.155.37/qwr9ew/s/s38/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
+http://162.212.178.69:41042/bysid/608
+
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_5.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -107,10 +146,16 @@ https://sicnot.live.impresa.pt/sicnot.m3u8
 https://bit.ly/3gejKxf?720p/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVI ÁFRICA SD[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CNN PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
+https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CANAL 11 HD[/B][/COLOR][COLOR=white][/COLOR]
+https://ythls.onrender.com/channel/UCMfEEaNYYX5w6nbvccTCHhg.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]EURONEWS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/2172b02e9431e5c79bc717e0cc555b4d.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SANTUÁRIO DE FÁTIMA HD[/B][/COLOR][COLOR=white][/COLOR]
 https://streamer-b02.videos.sapo.pt/live/santuario/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PORTO CANAL HD[/B][/COLOR][COLOR=white][/COLOR]
+https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/PortoCanal.m3u8
 
 ##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS TV PORTUGAL 2  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
