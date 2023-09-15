@@ -37,6 +37,8 @@ https://00000000000
 http://conexaoonline.top:80/IVONE123/IVONE321/261070
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/1481
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
+http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/62077
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
@@ -46,7 +48,11 @@ http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1483
 http://conexaoonline.top:80/IVONE123/IVONE321/261071
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/1483
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/1483
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/1486
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://conexaoonline.top:80/IVONE123/IVONE321/261069
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -55,6 +61,8 @@ http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1486
 http://213.13.16.138/shls/LIVE%24SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/1486
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/62079
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24SPORTTV3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
@@ -62,6 +70,8 @@ http://213.13.16.138/shls/LIVE%24SPORTTV3_HD/index.m3u8?device=TVOS_Live&start=L
 http://conexaoonline.top:80/IVONE123/IVONE321/261068
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/1489
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/1489
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://conexaoonline.top:80/IVONE123/IVONE321/261067
@@ -79,8 +89,15 @@ http://conexaoonline.top:80/IVONE123/IVONE321/261065
 http://213.13.16.138/shls/LIVE%24SPORTTV6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/281487
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT NBA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/2051
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT NBA HD[/B][/COLOR][COLOR=white][/COLOR]
+http://2hubs.ddns.net:25461/sharedspp/EbUQ2qWhya/62076
+
+
+
+
 
 
 #EXTM3U
@@ -89,6 +106,16 @@ http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/2051
 https://000000
 
 #EXTM3U
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/8793
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/8801
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 3 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/290657
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN EXTRA BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/8789
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ARENA SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://80.252.37.194:5000/udp/233.233.233.3:12000
