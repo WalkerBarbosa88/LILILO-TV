@@ -7,7 +7,7 @@ FONTE DE INFORMAÇÃO:
               https://global-satinfo.in/viewtopic.php?f=22&t=315&start=410
 
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 24/07/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 20/09/2023[/B][/COLOR][COLOR=orange][/COLOR]
 #EXTM3U
 
 
@@ -17,14 +17,14 @@ https://000000
 
 #EXTM3U
 
+
+#EXTM3U
 #EXTINF:0 tvg-id="TraceSport.svn" group-title="Channels",TRACE SPORTS HD
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="xsport-plus-ua" group-title="Channels",XSPORT+ HD
 http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/3999/stream.m3u8
 #EXTINF:0 tvg-id="viasat-sport" group-title="Channels",VIASAT SPORT HD
 http://cdnua03.hls.tv/133/hls/99c91cce995b5620c9929e6835e6caf1/330/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",UBS SPORT HD
-https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1930430938_b2628000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",TNT SPORTS 1 BR
 http://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",TNT SPORTS 2 BR
@@ -43,10 +43,6 @@ http://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 http://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",TENNIS CHANNEL INTER. HD
 http://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
-#EXTINF:0 tvg-id="SwissSportTV.ch" group-title="Channels",SWISS SPORT TV
-http://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/chunklist_w1922077967_b2628000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTV TUR
-http://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS TV PLUS
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",SPORT 1+1 HD
@@ -63,32 +59,6 @@ http://hls1.sweet.tv/stream/ywrqrkcppthkuwa64z5r9qaddpcqde3fhd76cpgkjhqzxs2jp6u2
 https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/291/stream.m3u8
 #EXTINF:0 tvg-id="setanta-sport" group-title="Channels",SETANTA SPORTS HD
 http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/291/stream.m3u8
-#EXTINF:0 tvg-id="Bandsports.br" group-title="Channels",BAND SPORTS HD
-http://testo.app-host11.xyz:2095/Tourobox2-lBlBLUFD6P/FqGdIds44o/310
-#EXTINF:0 tvg-id="ext" group-title="Channels",BAND SPORTS UHD
-http://testo.app-host11.xyz:2095/Tourobox2-lBlBLUFD6P/FqGdIds44o/309
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",beIN SPORTS 1
-http://testo.app-host11.xyz:2095/Tourobox2-lBlBLUFD6P/FqGdIds44o/597
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",beIN SPORTS 2
-http://testo.app-host11.xyz:2095/Tourobox2-lBlBLUFD6P/FqGdIds44o/598
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",beIN SPORTS 3
-http://testo.app-host11.xyz:2095/Tourobox2-lBlBLUFD6P/FqGdIds44o/599
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",beIN SPORTS 4
-http://testo.app-host11.xyz:2095/Tourobox2-lBlBLUFD6P/FqGdIds44o/600
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Channels",beIN SPORTS 6
-http://testo.app-host11.xyz:2095/Tourobox2-lBlBLUFD6P/FqGdIds44o/602
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTV 1 4k
-http://testo.app-host11.xyz:2095/Tourobox2-lBlBLUFD6P/FqGdIds44o/503
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORTV 1 HD
-http://testo.app-host11.xyz:2095/Tourobox2-lBlBLUFD6P/FqGdIds44o/396
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTV 1 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-lBlBLUFD6P/FqGdIds44o/474
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORTV 2 HD
-http://testo.app-host11.xyz:2095/Tourobox2-lBlBLUFD6P/FqGdIds44o/397
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",SPORTV 3 HD
-http://testo.app-host11.xyz:2095/Tourobox2-lBlBLUFD6P/FqGdIds44o/398
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTV 3 UHD
-http://testo.app-host11.xyz:2095/Tourobox2-lBlBLUFD6P/FqGdIds44o/472
 
 #EXTINF:0 tvg-id="ext" group-title="СПОРТ\",Фан Спорт.
 https://live-k2311-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
@@ -109,38 +79,22 @@ https://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_ww.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",EPT Sports 2
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports2_ww.m3u8
-#EXTINF:0 tvg-id="esp" group-title="Спорт\",Eurosport 1
-https://sc.id-tv.kz:443/Eurosport_1HD_34_35.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",FITE
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",Football Hub
 http://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8?token=AnonymousTV
-#EXTINF:0 tvg-id="kxl" group-title="Спорт\",KHL
-https://sc.id-tv.kz:443/KHL_36_37.m3u8
-#EXTINF:0 tvg-id="kxl-hd" group-title="Спорт\",KHL Prime
-https://sc.id-tv.kz/FHD_KHL_34_35.m3u8
 #EXTINF:0 tvg-id="kxl-hd" group-title="Спорт\",KHL Prime HD
 http://myott.top/stream/DEKA6YA5JRN/178.m3u8
 #EXTINF:0 tvg-id="kxl" group-title="Спорт\",KHL ТВ
 http://myott.top/stream/DEKA6YA5JRN/166.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",KOK Fights TV
 http://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:0 tvg-id="m1-global" group-title="Спорт\",M-1 Global
-https://sc.id-tv.kz:443/M-1_34_35.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Спорт\",MAVTV GLOBAL
-https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/3000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Спорт\",MMA-TV.COM
-http://stream.ads.ottera.tv/playlist.m3u8?network_id=2476
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",Moto America TV
 http://stream.ads.ottera.tv/playlist.m3u8?network_id=2457
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",Motor Racing
 https://dai.google.com/linear/hls/event/qI1pC-R_Sma0bVLVjaEOtw/master.m3u8
 #EXTINF:0 tvg-id="MUTV.uk" group-title="Спорт\",MUTV UK
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Спорт\",MySports 1 HD
-https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Спорт\",One Golf
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="setanta-sport-ua" group-title="Спорт\",Setanta Sports HD UA
@@ -163,8 +117,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",TV 3 Sport HD LT
 http://myott.top/stream/DEKA6YA5JRN/416.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Спорт\",TV RI Sport
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",TVS Boxing
 https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",UDAR HD
@@ -173,8 +125,6 @@ http://myott.top/stream/DEKA6YA5JRN/279.m3u8
 http://myott.top/stream/DEKA6YA5JRN/332.m3u8
 #EXTINF:0 tvg-id="belarus5" group-title="Спорт\",Беларусь 5 HD
 http://cdntv.online/high/fymzn7sd2h/1183.m3u8
-#EXTINF:0 tvg-id="boxtv" group-title="Спорт\",Бокс ТВ
-https://sc.id-tv.kz:443/BoksTV_36_37.m3u8
 #EXTINF:0 tvg-id="konnyj-mir" group-title="Спорт\",Конный мир HD
 https://bl.uma.media/live/400930/HLS/4614144_3/1/1/playlist.m3u8
 #EXTINF:0 tvg-id="kxl" group-title="Спорт\",КХЛ ТВ
@@ -342,262 +292,11 @@ https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://dai.google.com/linear/hls/event/8R__yZf7SR6yMb-oTXgbEQ/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",STADIUM
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",TVRI SPORT
-http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",TVS CLASSICS SPORTS
 http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",TVS SPORTS Bureau
 https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",TVS TURBO
 https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
-
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",TNT Sports HD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34675
-#EXTINF:0 tvg-id="ext" group-title="Channels",TNT Sports FHD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34676
-#EXTINF:0 tvg-id="ext" group-title="Channels",TNT Sports 2 SD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34674
-#EXTINF:0 tvg-id="ext" group-title="Channels",TNT Sports 2 HD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/124014
-#EXTINF:0 tvg-id="ext" group-title="Channels",TNT Sports 3 SD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/123886
-#EXTINF:0 tvg-id="ext" group-title="Channels",TNT Sports 3 HD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/123887
-#EXTINF:0 tvg-id="ext" group-title="Channels",TNT Sports HD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34683
-#EXTINF:0 tvg-id="ext" group-title="Channels",TNT Sports FHD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34684
-#EXTINF:0 tvg-id="ext" group-title="Channels",Directv Sports HD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/121857
-#EXTINF:0 tvg-id="ext" group-title="Channels",Directv Sports + HD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/121856
-#EXTINF:0 tvg-id="ext" group-title="Channels",Directv Sports 2 HD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/187724
-#EXTINF:0 tvg-id="ext" group-title="Channels",Directv Sports HD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/123872
-#EXTINF:0 tvg-id="ext" group-title="Channels",Directv Sports 2 HD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34612
-#EXTINF:0 tvg-id="ext" group-title="Channels",Directv Sports + HD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/123871
-#EXTINF:0 tvg-id="ext" group-title="Channels",Directv Sports + FHD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34616
-#EXTINF:0 tvg-id="ext" group-title="Channels",Directv Sports HD (CO)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/43430
-#EXTINF:0 tvg-id="ext" group-title="Channels",Directv Sports 2 HD (CO)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/43431
-#EXTINF:0 tvg-id="ext" group-title="Channels",Directv Sports + HD (CO)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/123885
-#EXTINF:0 tvg-id="ext" group-title="Channels",Directv Sports + FHD (CO)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312886
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN SD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/157048
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN HD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/123652
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 2 SD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312850
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 2 HD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/123653
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 3 HD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/123654
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 4 SD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312851
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN SD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34659
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN HD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34660
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN FHD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34661
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 2 SD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34662
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 2 HD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34663
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 2 FHD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34664
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 3 SD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34665
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 3 HD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34666
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 3 FHD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34667
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN Extra SD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312846
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN Extra FHD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312844
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN Premium SD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312847
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN Premium HD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/123874
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN Premium FHD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34648
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN SD (CO)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312831
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN HD (CO)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312830
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN FHD (CO)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312829
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 2 SD (CO)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312834
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 2 FHD (CO)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312832
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 3 FHD (CO)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312835
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 4 FHD (CO)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312838
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN Extra SD (CO)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312843
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN Extra FHD (CO)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312841
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN SD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34652
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN HD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302638
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN FHD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34653
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 2 HD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302639
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 3 SD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34657
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 3 HD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302640
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN 3 FHD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34658
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN Extra SD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312828
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN Extra HD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302637
-#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN Deportes HD (US)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/312852
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports 1 SD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34630
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports 1 HD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34631
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports 1 FHD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34632
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports 2 SD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34633
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports 2 FHD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34635
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports 3 SD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34636
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports 3 HD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34637
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports 3 FHD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34638
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports SD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34639
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports HD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34640
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports FHD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34641
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports 2 SD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34642
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports 2 HD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34643
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports 2 FHD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34644
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports 3 SD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34645
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports 3 HD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34646
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports 3 FHD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34647
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports HD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302652
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports 2 SD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34623
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports 2 HD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302653
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports 2 FHD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34624
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports 3 SD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34625
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports 3 HD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302698
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports 3 FHD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34626
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports Premium (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304554
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports 2 HD (US)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34650
-#EXTINF:0 tvg-id="ext" group-title="Channels",Claro Sports HD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302690
-#EXTINF:0 tvg-id="ext" group-title="Channels",Claro Sports SD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34617
-#EXTINF:0 tvg-id="ext" group-title="Channels",Claro Sports FHD (LAT)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34618
-#EXTINF:0 tvg-id="ext" group-title="Channels",CDO Basico SD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34678
-#EXTINF:0 tvg-id="ext" group-title="Channels",CDO Premium SD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34679
-#EXTINF:0 tvg-id="ext" group-title="Channels",CDO Premium HD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/121890
-#EXTINF:0 tvg-id="ext" group-title="Channels",Teletrak HD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34680
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sporting HD (CL)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34681
-#EXTINF:0 tvg-id="ext" group-title="Channels",TyC Sports  SD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34685
-#EXTINF:0 tvg-id="ext" group-title="Channels",TyC Sports HD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34686
-#EXTINF:0 tvg-id="ext" group-title="Channels",TyC Sports Internacional HD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34688
-#EXTINF:0 tvg-id="ext" group-title="Channels",DeporTV HD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34740
-#EXTINF:0 tvg-id="ext" group-title="Channels",DeporTV FHD (ARG)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/123873
-#EXTINF:0 tvg-id="ext" group-title="Channels",Win Sports SD (CO)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34689
-#EXTINF:0 tvg-id="ext" group-title="Channels",Win Sports FHD (CO)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34690
-#EXTINF:0 tvg-id="ext" group-title="Channels",Win Sports + FHD (CO)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34691
-#EXTINF:0 tvg-id="ext" group-title="Channels",Movistar Deportes (PE)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34743
-#EXTINF:0 tvg-id="ext" group-title="Channels",GolPeru SD (PE)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34744
-#EXTINF:0 tvg-id="ext" group-title="Channels",GolPeru FHD (PE)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34745
-#EXTINF:0 tvg-id="ext" group-title="Channels",Gol TV HD (ECU)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34693
-#EXTINF:0 tvg-id="ext" group-title="Channels",Golf Channel SD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34695
-#EXTINF:0 tvg-id="ext" group-title="Channels",Golf Channel HD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34696
-#EXTINF:0 tvg-id="ext" group-title="Channels",Adrenalina Sport Network HD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302603
-#EXTINF:0 tvg-id="ext" group-title="Channels",Adrenalina Sport Network FHD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34699
-#EXTINF:0 tvg-id="ext" group-title="Channels",NFL Network (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313027
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVC Deportes HD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302737
-#EXTINF:0 tvg-id="ext" group-title="Channels",Aym Sports HD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/302613
-#EXTINF:0 tvg-id="ext" group-title="Channels",Hi Sports HD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/313025
-#EXTINF:0 tvg-id="ext" group-title="Channels",TUDN HD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304510
-#EXTINF:0 tvg-id="ext" group-title="Channels",Afizzionados HD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/304505
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVC Deportes SD (MX)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34700
-#EXTINF:0 tvg-id="ext" group-title="Channels",NBA TV HD (US)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34712
-#EXTINF:0 tvg-id="ext" group-title="Channels",UFC Fight Pass FHD (US)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34714
-#EXTINF:0 tvg-id="ext" group-title="Channels",Univision Deportes Network HD (US)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34715
-#EXTINF:0 tvg-id="ext" group-title="Channels",WWE Network HD  (US)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34716
-#EXTINF:0 tvg-id="ext" group-title="Channels",Fight Network FHD (CA)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34711
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canal F1 FHD (ES)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34701
-#EXTINF:0 tvg-id="BarcaTV.es" group-title="Channels",Barca TV SD (ES)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34702
-#EXTINF:0 tvg-id="ext" group-title="Channels",b31N LA Liga FHD (ES)
-http://hidra.live:80/NbuuHuMf/8fLUiVaBWhugDZS/34703
-
 
 
