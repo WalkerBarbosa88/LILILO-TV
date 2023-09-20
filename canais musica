@@ -29,6 +29,23 @@ http://45.11.56.147:8808/stream?id=118
 #EXTINF:-1,[COLOR=white][B]MC TROPICAL[/B][/COLOR][COLOR=white][/COLOR]
 http://45.11.56.147:8808/stream?id=137
 
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]///////// CANAIS BRIDGE TV /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+#EXTINF:-1,[COLOR=white][B]BRIDGE TV[/B][/COLOR][COLOR=white][/COLOR]
+https://livetv.mylifeisgood.net.ru/channels/bridgetv24h.m3u8
+
+#EXTINF:-1,[COLOR=white][B]BRIDGE TV CLASSIC[/B][/COLOR][COLOR=white][/COLOR]
+https://livetv.mylifeisgood.net.ru/channels/bridgeclassictv.m3u8
+
+#EXTINF:-1,[COLOR=white][B]BRIDGE TV DELUXE[/B][/COLOR][COLOR=white][/COLOR]
+https://livetv.mylifeisgood.net.ru/channels/bridgedeluxetv.m3u8
+
+#EXTINF:-1,[COLOR=white][B]BRIDGE TV ROCK[/B][/COLOR][COLOR=white][/COLOR]
+https://livetv.mylifeisgood.net.ru/channels/bridgefreshya.m3u8
+
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// CANAIS TOP HITS 1 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
