@@ -203,6 +203,12 @@ https://000000
 #EXTINF:-1,[COLOR=white][B]CARINA TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stream7.zivoli.it/carinatv/carinatv/chunks.m3u8
 
+#EXTINF:-1,[COLOR=white][B]FM ITÁLIA TV[/B][/COLOR][COLOR=white][/COLOR]
+https://stream6.xdevel.com/video0s975817-1186/stream/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]BACKUS TV MUSIC[/B][/COLOR][COLOR=white][/COLOR]
+http://stream.backustv.ru/live/btv3/index.m3u8
+
 #EXTINF:-1,[COLOR=white][B]OMEGA TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://5caf24a595d94.streamlock.net:1937/8142/8142/chunklist_w1756563914.m3u8
 
@@ -253,6 +259,9 @@ http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
 #EXTINF:-1,[COLOR=white][B]KISS KISS ITÁLIA HD[/B][/COLOR][COLOR=white][/COLOR]
 https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
 
+#EXTINF:-1,[COLOR=white][B]KISS KISS ITÁLIA[/B][/COLOR][COLOR=white][/COLOR]
+https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
+
 #EXTINF:-1,[COLOR=white][B]KISS KISS NAPOLI HD[/B][/COLOR][COLOR=white][/COLOR]
 https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
 
@@ -267,6 +276,15 @@ https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8?PlaylistM3U
 
 #EXTINF:-1,[COLOR=white][B]POWER TURK HD[/B][/COLOR][COLOR=white][/COLOR]
 http://r9z2g8ik.rostelekom.xyz/iptv/VX6X4Z39LH25GU/2297/index.m3u8
+
+#EXTINF:-1,[COLOR=white][B]MUZZONE TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://muzzone-stream.daitsuna.net/muzzondvr/muzzone_360/chunks_dvr.m3u8
+
+#EXTINF:-1,[COLOR=white][B]R MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
+https://otv.wotom.net/rmusic/stream.m3u8
+
+#EXTINF:-1,[COLOR=white][B]THT MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
+https://bl.uma.media/live/619345/HLS/4614144_3/1/1/playlist.m3u8
 
 ######################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA ANTIGA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
