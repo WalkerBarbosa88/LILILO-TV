@@ -11,7 +11,7 @@ http://0.0.0.0:0000
 https://tvgratuita10.blogspot.com/?fbclid=IwAR1hjt2fxRsjhUBFg6lhEEU1cbj3xHkyZ65tIOyWhApFByPIvawYYeSmHmo
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 15/09/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 20/09/2023[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
@@ -73,15 +73,6 @@ https://000000
 
 #EXTM3U
 
-
-#EXTINF:-1,[COLOR=white][B]ZAP VIVA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/2067
-#EXTINF:-1,[COLOR=white][B]B BLACK ÁFRICA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/298084
-#EXTINF:-1,[COLOR=white][B]BOOM TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/198202
-#EXTINF:-1,[COLOR=white][B]TPA INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/9701
 
 #EXTINF:-1,[COLOR=white][B]DEMAND ÁFRICA FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://demandafrica-oando.amagi.tv/amRdirect/p=da/hls/amagi_hls_data_theafrica-demand-africa-oando/CDN/1920x1080_5055600/index.m3u8
@@ -339,8 +330,6 @@ http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/13956
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/1528
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: Crime District
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/298636
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Crime+ Investigation
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/5928
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: Discovery World
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/296226
 #EXTINF:0 tvg-id="disneychannel.pt" group-title="Channels",PT: Disney Channel
@@ -390,9 +379,6 @@ http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/1436
 #EXTINF:0 tvg-id="odisseia.pt" group-title="Channels",PT: Odisseia
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/1532
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: PANDA Kids
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/290678
-X
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: Queens United TV
 http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/299377
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: Record TV
