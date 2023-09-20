@@ -273,6 +273,18 @@ http://r9z2g8ik.rostelekom.xyz/iptv/VX6X4Z39LH25GU/2297/index.m3u8
 https://000000
 
 
+#EXTINF:-1,[COLOR=white][B]RTV ARBERIA RETRO HITS[/B][/COLOR][COLOR=white][/COLOR]
+https://ssh101.bozztv.com/ssh101/rtvarberiaretro/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]RECUERDOS RETRO[/B][/COLOR][COLOR=white][/COLOR]
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]RETRO TV 1 SD[/B][/COLOR][COLOR=white][/COLOR]
+https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]RETRO TV 2 SD[/B][/COLOR][COLOR=white][/COLOR]
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/chunklist.m3u8
+
 #EXTINF:-1,[COLOR=white][B]RETRO TV 2 SD[/B][/COLOR][COLOR=white][/COLOR]
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/chunklist.m3u8
  
