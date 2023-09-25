@@ -154,8 +154,6 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/PortoCanal.m3
 
 #EXTM3U
 
-
-
 #EXTINF:0 tvg-id="24Kitchen.pt" group-title="Channels",PT: 24 Kitchen
 http://kuchini.site:8080/devtv/5af3eeb538/2025
 #EXTINF:0 tvg-id="ABolaTV.pt" group-title="Channels",PT: A Bola TV
@@ -202,8 +200,6 @@ http://kuchini.site:8080/devtv/5af3eeb538/146057
 http://kuchini.site:8080/devtv/5af3eeb538/1455
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: Canal Macau
 http://kuchini.site:8080/devtv/5af3eeb538/197872
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Canal Nos
-http://kuchini.site:8080/devtv/5af3eeb538/278550
 #EXTINF:0 tvg-id="canalpanda.pt" group-title="Channels",PT: Canal Panda
 http://kuchini.site:8080/devtv/5af3eeb538/1438
 #EXTINF:0 tvg-id="CanalQ.pt" group-title="Channels",PT: Canal Q
@@ -224,7 +220,7 @@ http://kuchini.site:8080/devtv/5af3eeb538/13956
 http://kuchini.site:8080/devtv/5af3eeb538/1528
 #EXTINF:0 tvg-id="Cinemundo.pt" group-title="Channels",PT: Cine Mundo
 http://kuchini.site:8080/devtv/5af3eeb538/1477
-#EXTINF:0 tvg-id="CMTV.pt" group-title="Channels",PT: CM TV
+#EXTINF:0 tvg-id="CMTV.pt" group-title="Channels",PT: CMTV HD
 http://kuchini.site:8080/devtv/5af3eeb538/1412
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: CNN Portugal
 http://kuchini.site:8080/devtv/5af3eeb538/1414
@@ -285,8 +281,7 @@ http://kuchini.site:8080/devtv/5af3eeb538/1531
 http://kuchini.site:8080/devtv/5af3eeb538/9693
 #EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Channels",PT: nickelodeon
 http://kuchini.site:8080/devtv/5af3eeb538/1436
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Nos Studios
-http://kuchini.site:8080/devtv/5af3eeb538/1454
+
 #EXTINF:0 tvg-id="odisseia.pt" group-title="Channels",PT: Odisseia
 http://kuchini.site:8080/devtv/5af3eeb538/1532
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: OPTO
@@ -348,14 +343,6 @@ http://kuchini.site:8080/devtv/5af3eeb538/298022
 http://kuchini.site:8080/devtv/5af3eeb538/1529
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: TV Mana 1
 http://kuchini.site:8080/devtv/5af3eeb538/298811
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCine Action
-http://kuchini.site:8080/devtv/5af3eeb538/1452
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCine Edition
-http://kuchini.site:8080/devtv/5af3eeb538/82254
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCine Emotion
-http://kuchini.site:8080/devtv/5af3eeb538/1448
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCine Top
-http://kuchini.site:8080/devtv/5af3eeb538/1446
 #EXTINF:0 tvg-id="TVI.pt" group-title="Channels",PT: TVI
 http://kuchini.site:8080/devtv/5af3eeb538/1410
 #EXTINF:0 tvg-id="TVIFiccao.pt" group-title="Channels",PT: TVI Ficção
