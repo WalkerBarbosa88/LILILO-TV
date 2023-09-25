@@ -33,34 +33,34 @@ https://00000000000
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",SPORT TV +
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
 http://kuchini.site:8080/devtv/5af3eeb538/1481
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://kuchini.site:8080/devtv/5af3eeb538/1483
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://kuchini.site:8080/devtv/5af3eeb538/1486
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",SPORT TV 3
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://kuchini.site:8080/devtv/5af3eeb538/1489
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",SPORT TV 4
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://kuchini.site:8080/devtv/5af3eeb538/1492
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",SPORT TV 5
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://kuchini.site:8080/devtv/5af3eeb538/1495
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 6
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://kuchini.site:8080/devtv/5af3eeb538/281487
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV NBA
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://kuchini.site:8080/devtv/5af3eeb538/2051
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 1
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://kuchini.site:8080/devtv/5af3eeb538/1499
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 2
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://kuchini.site:8080/devtv/5af3eeb538/1503
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 3
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://kuchini.site:8080/devtv/5af3eeb538/1506
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 4
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://kuchini.site:8080/devtv/5af3eeb538/1509
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 5
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://kuchini.site:8080/devtv/5af3eeb538/1512
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 6
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://kuchini.site:8080/devtv/5af3eeb538/1515
 
 
@@ -167,8 +167,8 @@ https://000000
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
-http://1458566666666666666
+#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://kuchini.site:8080/devtv/5af3eeb538/1497
 
 
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
@@ -246,6 +246,14 @@ https://0000000
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
-http://111111111115555555555555444444444444
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NOS STUDIOS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://kuchini.site:8080/devtv/5af3eeb538/1454
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE ACTION HD[/B][/COLOR][COLOR=white][/COLOR]
+http://kuchini.site:8080/devtv/5af3eeb538/1452
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EDITION HD[/B][/COLOR][COLOR=white][/COLOR]
+http://kuchini.site:8080/devtv/5af3eeb538/82254
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EMOTION HD[/B][/COLOR][COLOR=white][/COLOR]
+http://kuchini.site:8080/devtv/5af3eeb538/1448
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
+http://kuchini.site:8080/devtv/5af3eeb538/1446
 
