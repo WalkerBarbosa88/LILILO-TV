@@ -136,6 +136,14 @@ http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/290657
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN EXTRA BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/8789
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RMC SPORT 1 HD FR[/B][/COLOR][COLOR=white][/COLOR]
+http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/58762
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RMC SPORT 2 HD FR[/B][/COLOR][COLOR=white][/COLOR]
+http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/58763
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RMC SPORT 3 HD FR[/B][/COLOR][COLOR=white][/COLOR]
+http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/58764
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RMC SPORT 4 HD FR[/B][/COLOR][COLOR=white][/COLOR]
+http://2hubs.ddns.net:25461/pachaman/asdfghuytrc/58765
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 1 HD PL[/B][/COLOR][COLOR=white][/COLOR]
 https://84.54.148.38/PEST1/index.m3u8
