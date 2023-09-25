@@ -5,85 +5,10 @@ http://0.0.0.0:0000
 ####################################################################################################################################################
  
 #EXTM3U
-#EXTINF:-1,[COLOR=yellow][B]LISTA ADICIONADA A: 20/09/2023[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA EM BREVE[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #EXTM3U
 
 
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTP 1
-http://ottshow.net:80/live/6mqrr3OjAs0A/syCbDlIQ23AK/69645.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTP 2
-http://ottshow.net:80/live/6mqrr3OjAs0A/syCbDlIQ23AK/69646.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTP 3
-http://ottshow.net:80/live/6mqrr3OjAs0A/syCbDlIQ23AK/69647.ts
-#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Channels",RTP MEMÓRIA
-http://ottshow.net:80/live/6mqrr3OjAs0A/syCbDlIQ23AK/69648.ts
-#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Channels",RTP ÁFRICA
-http://ottshow.net:80/live/6mqrr3OjAs0A/syCbDlIQ23AK/69649.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",REDE GLOBO 
-http://ottshow.net:80/live/6mqrr3OjAs0A/syCbDlIQ23AK/69650.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",GLOBO NEWS
-http://ottshow.net:80/live/6mqrr3OjAs0A/syCbDlIQ23AK/69651.ts
-#EXTINF:0 tvg-id="TVI.pt" group-title="Channels",TVI
-http://ottshow.net:80/live/6mqrr3OjAs0A/syCbDlIQ23AK/69652.ts
-#EXTINF:0 tvg-id="TVI24.pt" group-title="Channels",CNN PORTUGAL
-http://ottshow.net:80/live/6mqrr3OjAs0A/syCbDlIQ23AK/69653.ts
-#EXTINF:0 tvg-id="TVIFiccao.pt" group-title="Channels",TVI FICÇÃO
-http://ottshow.net:80/live/6mqrr3OjAs0A/syCbDlIQ23AK/69654.ts
-#EXTINF:0 tvg-id="sic.pt" group-title="Channels",SIC
-http://ottshow.net:80/live/6mqrr3OjAs0A/syCbDlIQ23AK/69655.ts
-#EXTINF:0 tvg-id="sicradical.pt" group-title="Channels",SIC RADICAL
-http://ottshow.net:80/live/6mqrr3OjAs0A/syCbDlIQ23AK/69656.ts
-#EXTINF:0 tvg-id="sicnoticias.pt" group-title="Channels",SIC NOTÍCIAS
-http://ottshow.net:80/live/6mqrr3OjAs0A/syCbDlIQ23AK/69657.ts
-#EXTINF:0 tvg-id="sicmulher.pt" group-title="Channels",SIC MULHER
-http://ottshow.net:80/live/6mqrr3OjAs0A/syCbDlIQ23AK/69658.ts
-#EXTINF:0 tvg-id="TVCineACTION.pt" group-title="Channels",TVCINE ACTION 
-http://ottshow.net:80/live/6mqrr3OjAs0A/syCbDlIQ23AK/69659.ts
-#EXTINF:0 tvg-id="TVCineTOP.pt" group-title="Channels",TVCINE TOP
-http://ottshow.net:80/live/6mqrr3OjAs0A/syCbDlIQ23AK/69660.ts
-#EXTINF:0 tvg-id="TVCineEDITION.pt" group-title="Channels",TVCINE EDITION 
-http://ottshow.net:80/live/6mqrr3OjAs0A/syCbDlIQ23AK/69661.ts
-#EXTINF:0 tvg-id="TVCineEMOTION.pt" group-title="Channels",TVCINE EMOTION
-http://ottshow.net:80/live/6mqrr3OjAs0A/syCbDlIQ23AK/69662.ts
-#EXTINF:0 tvg-id="Cinemundo.pt" group-title="Channels",CINEMUNDO
-http://ottshow.net:80/live/6mqrr3OjAs0A/syCbDlIQ23AK/69663.ts
-#EXTINF:0 tvg-id="hollywood.pt" group-title="Channels",HOLLYWOOD
-http://ottshow.net:80/live/6mqrr3OjAs0A/syCbDlIQ23AK/69664.ts
-#EXTINF:0 tvg-id="fox.pt" group-title="Channels",FOX
-http://ottshow.net:80/live/6mqrr3OjAs0A/syCbDlIQ23AK/69665.ts
-#EXTINF:0 tvg-id="foxlife.pt" group-title="Channels",FOX LIFE
-http://ottshow.net:80/live/6mqrr3OjAs0A/syCbDlIQ23AK/69666.ts
-#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",FOX MOVIES
-http://ottshow.net:80/live/6mqrr3OjAs0A/syCbDlIQ23AK/69667.ts
-#EXTINF:0 tvg-id="foxcrime.pt" group-title="Channels",FOX CRIME
-http://ottshow.net:80/live/6mqrr3OjAs0A/syCbDlIQ23AK/69668.ts
-#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",FOX COMEDY
-http://ottshow.net:80/live/6mqrr3OjAs0A/syCbDlIQ23AK/69669.ts
-#EXTINF:0 tvg-id="AXNBlack.pt" group-title="Channels",AXN MOVIES
-http://ottshow.net:80/live/6mqrr3OjAs0A/syCbDlIQ23AK/69670.ts
-#EXTINF:0 tvg-id="nationalgeographic.pt" group-title="Channels",NAT. GEO
-http://ottshow.net:80/live/6mqrr3OjAs0A/syCbDlIQ23AK/69671.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",NATIONAL G. WILD
-http://ottshow.net:80/live/6mqrr3OjAs0A/syCbDlIQ23AK/69672.ts
-#EXTINF:0 tvg-id="discoverychannel.pt" group-title="Channels",DISCOVERY
-http://ottshow.net:80/live/6mqrr3OjAs0A/syCbDlIQ23AK/69673.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",CAÇA & PESCA
-http://ottshow.net:80/live/6mqrr3OjAs0A/syCbDlIQ23AK/69674.ts
-#EXTINF:0 tvg-id="24Kitchen.pt" group-title="Channels",24 KITCHEN
-http://ottshow.net:80/live/6mqrr3OjAs0A/syCbDlIQ23AK/69675.ts
-#EXTINF:0 tvg-id="DisneyJunior.pt" group-title="Channels",DISNEY JUNIOR 
-http://ottshow.net:80/live/6mqrr3OjAs0A/syCbDlIQ23AK/69676.ts
-#EXTINF:0 tvg-id="cartoon.pt" group-title="Channels",CARTOON NETWORK 
-http://ottshow.net:80/live/6mqrr3OjAs0A/syCbDlIQ23AK/69677.ts
-#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Channels",NICKELODEON 
-http://ottshow.net:80/live/6mqrr3OjAs0A/syCbDlIQ23AK/69678.ts
-#EXTINF:0 tvg-id="canalpanda.pt" group-title="Channels",CANAL PANDA 
-http://ottshow.net:80/live/6mqrr3OjAs0A/syCbDlIQ23AK/69679.ts
-#EXTINF:0 tvg-id="SicK.pt" group-title="Channels",SIC KIDS
-http://ottshow.net:80/live/6mqrr3OjAs0A/syCbDlIQ23AK/69680.ts
-#EXTINF:0 tvg-id="BabyTV.pt" group-title="Channels",BABY TV
-http://ottshow.net:80/live/6mqrr3OjAs0A/syCbDlIQ23AK/69681.ts
-#EXTINF:0 tvg-id="PortoCanal.pt" group-title="Channels",PORTO CANAL
-http://ottshow.net:80/live/6mqrr3OjAs0A/syCbDlIQ23AK/69682.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",NÃO DISPONÍVEL
+http://0000000001111111111555555555555555
