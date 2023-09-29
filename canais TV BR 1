@@ -3,7 +3,7 @@
 http://0.0.0.0:0000
 ############################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 15/09/2023[/B][/COLOR][COLOR=orange][/COLOR] 
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 29/09/2023[/B][/COLOR][COLOR=orange][/COLOR] 
 
 Fonte de Informação: 
 
@@ -63,22 +63,20 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]ALL SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://5cf4a2c2512a2.streamlock.net:1935/dgrau/dgrau/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]ALL SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/7321
-#EXTINF:-1,[COLOR=white][B]BAND SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8777
-#EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8793
-#EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8801
-#EXTINF:-1,[COLOR=white][B]ESPN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/290657
-#EXTINF:-1,[COLOR=white][B]ESPN 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/299345
-#EXTINF:-1,[COLOR=white][B]ESPN EXTRA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8789
-#EXTINF:-1,[COLOR=white][B]ESPN AO VIVO HD[/B][/COLOR][COLOR=white][/COLOR]
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/299348
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ESPN EXTRA
+http://kuchini.site:8080/devtv/5af3eeb538/8789
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ESPN VIVO
+http://kuchini.site:8080/devtv/5af3eeb538/299348#EXTINF:0 tvg-id="Espn.br" group-title="Channels",BR: ESPN
+http://kuchini.site:8080/devtv/5af3eeb538/8793
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ESPN 2
+http://kuchini.site:8080/devtv/5af3eeb538/8801
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ESPN 3
+http://kuchini.site:8080/devtv/5af3eeb538/290657
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ESPN 4
+http://kuchini.site:8080/devtv/5af3eeb538/299345
+
+
 
 ##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DISCOVERY & CASAS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -87,22 +85,22 @@ https://000000
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR=white][B]DISCOVERY HOME & HEALTH HD[/B][/COLOR][COLOR=white][/COLOR]
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8904
-#EXTINF:-1,[COLOR=white][B]HGTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/147274
-#EXTINF:-1,[COLOR=white][B]DISCOVERY TURBO HD[/B][/COLOR][COLOR=white][/COLOR]
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8891
-#EXTINF:-1,[COLOR=white][B]DISCOVERY CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/299696
-#EXTINF:-1,[COLOR=white][B]DISCOVERY KIDS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8893
-#EXTINF:-1,[COLOR=white][B]DISCOVERY SCIENCE HD[/B][/COLOR][COLOR=white][/COLOR]
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8910
-#EXTINF:-1,[COLOR=white][B]DISCOVERY THEATER HD[/B][/COLOR][COLOR=white][/COLOR]
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8892
-#EXTINF:-1,[COLOR=white][B]DISCOVERY WORLD HD[/B][/COLOR][COLOR=white][/COLOR]
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/279608
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: HGTV HD
+http://kuchini.site:8080/devtv/5af3eeb538/147274
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISCOVERY CHANNEL
+http://kuchini.site:8080/devtv/5af3eeb538/299696
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISCOVERY H&H 
+http://kuchini.site:8080/devtv/5af3eeb538/8904
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISCOVERY KIDS
+http://kuchini.site:8080/devtv/5af3eeb538/8893
+#EXTINF:0 tvg-id="DiscoveryScience.br" group-title="Channels",BR: DISCOVERY SCIENCE
+http://kuchini.site:8080/devtv/5af3eeb538/8910
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISCOVERY THEATER
+http://kuchini.site:8080/devtv/5af3eeb538/8892
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="Channels",BR: DISCOVERY TURRBO
+http://kuchini.site:8080/devtv/5af3eeb538/8891
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: DISCOVERY WORLD
+http://kuchini.site:8080/devtv/5af3eeb538/279608
 
 
 
@@ -130,18 +128,6 @@ https://stream.urbantv.com.br/urbantv/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 #EXTINF:-1,[COLOR=white][B]URBAN SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.urbantv.com.br/urbantvsports/video.m3u8?ROGERIOTORRES
 
-#EXTINF:-1,[COLOR=white][B]URBAN TV KIDS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://200.194.238.229:8383/live/urbankids/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]URBAN TV MOVIES HD[/B][/COLOR][COLOR=white][/COLOR]
-http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]URBAN TV RETRO HD[/B][/COLOR][COLOR=white][/COLOR]
-http://200.194.238.229:8383/live/urbanretro/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]URBAN TV SERIES HD[/B][/COLOR][COLOR=white][/COLOR]
-http://200.194.238.229:8383/live/urbanseries/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]URBAN TV TRAVEL HD[/B][/COLOR][COLOR=white][/COLOR]
-http://200.194.238.229:8383/live/urbantravel/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]URBAN TV TURBO HD[/B][/COLOR][COLOR=white][/COLOR]
-http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8
 
 
 ##########################################################################################################################################
@@ -153,508 +139,481 @@ https://000000
 
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: 1001 Noites
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286064
+http://kuchini.site:8080/devtv/5af3eeb538/286064
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: 24 Kitchen
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/16409
+http://kuchini.site:8080/devtv/5af3eeb538/16409
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: A vida moderna de Rocko
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286065
+http://kuchini.site:8080/devtv/5af3eeb538/286065
 #EXTINF:0 tvg-id="Ae.br" group-title="Channels",BR: A&E
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8816
+http://kuchini.site:8080/devtv/5af3eeb538/8816
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: AgroBrasil TV
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/7320
+http://kuchini.site:8080/devtv/5af3eeb538/7320
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: All Sports
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/7321
+http://kuchini.site:8080/devtv/5af3eeb538/7321
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: AMC
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8845
+http://kuchini.site:8080/devtv/5af3eeb538/8845
 #EXTINF:0 tvg-id="Animalplanet.br" group-title="Channels",BR: ANIMAL PLANET
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8890
+http://kuchini.site:8080/devtv/5af3eeb538/8890
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Anime TV
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286067
+http://kuchini.site:8080/devtv/5af3eeb538/286067
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: ARTE 1
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8833
+http://kuchini.site:8080/devtv/5af3eeb538/8833
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: As Aventuras de Jackie Chan
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286068
+http://kuchini.site:8080/devtv/5af3eeb538/286068
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: As Pistas de Blue
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286069
+http://kuchini.site:8080/devtv/5af3eeb538/286069
 #EXTINF:0 tvg-id="Axn.br" group-title="Channels",BR: AXN
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8852
+http://kuchini.site:8080/devtv/5af3eeb538/8852
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Baby TV
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/297504
+http://kuchini.site:8080/devtv/5af3eeb538/297504
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Band Campinas
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/280153
+http://kuchini.site:8080/devtv/5af3eeb538/280153
 #EXTINF:0 tvg-id="Bandnews.br" group-title="Channels",BR: Band News
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/14486
+http://kuchini.site:8080/devtv/5af3eeb538/14486
 #EXTINF:0 tvg-id="Bandsports.br" group-title="Channels",BR: Band Sports
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8777
+http://kuchini.site:8080/devtv/5af3eeb538/8777
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Bandkids 1
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/299343
+http://kuchini.site:8080/devtv/5af3eeb538/299343
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Bandkids 2
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/299344
+http://kuchini.site:8080/devtv/5af3eeb538/299344
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: BDMG
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/299342
+http://kuchini.site:8080/devtv/5af3eeb538/299342
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: BET Being Mary Jane
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286070
+http://kuchini.site:8080/devtv/5af3eeb538/286070
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: BET Pluto TV
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286071
+http://kuchini.site:8080/devtv/5af3eeb538/286071
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: BIS
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/24621
+http://kuchini.site:8080/devtv/5af3eeb538/24621
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Brazil TV
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/299371
+http://kuchini.site:8080/devtv/5af3eeb538/299371
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Camara Dos Deputados
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/285517
+http://kuchini.site:8080/devtv/5af3eeb538/285517
 #EXTINF:0 tvg-id="Canalbrasil.br" group-title="Channels",BR: Canal Brasil
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/14569
+http://kuchini.site:8080/devtv/5af3eeb538/14569
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Canal Off
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/14532
+http://kuchini.site:8080/devtv/5af3eeb538/14532
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Canal Saude
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286075
+http://kuchini.site:8080/devtv/5af3eeb538/286075
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Canal Viva
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/14553
+http://kuchini.site:8080/devtv/5af3eeb538/14553
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Cancao Nova
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/7387
+http://kuchini.site:8080/devtv/5af3eeb538/7387
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Cartoon Network
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8913
+http://kuchini.site:8080/devtv/5af3eeb538/8913
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Cartoonito
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/299695
+http://kuchini.site:8080/devtv/5af3eeb538/299695
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Catve FM
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286076
+http://kuchini.site:8080/devtv/5af3eeb538/286076
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: CBN Rio De Janeiro
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/283843
+http://kuchini.site:8080/devtv/5af3eeb538/283843
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Central TV Brazil
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286793
+http://kuchini.site:8080/devtv/5af3eeb538/286793
 #EXTINF:0 tvg-id="Cinemax.br" group-title="Channels",BR: Cinemax
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8834
+http://kuchini.site:8080/devtv/5af3eeb538/8834
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: CNN Brasil
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/148404
+http://kuchini.site:8080/devtv/5af3eeb538/148404
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: COM Brasil
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286072
+http://kuchini.site:8080/devtv/5af3eeb538/286072
 #EXTINF:0 tvg-id="Combate.br" group-title="Channels",BR: Combate
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8778
+http://kuchini.site:8080/devtv/5af3eeb538/8778
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Comedy Central
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8779
+http://kuchini.site:8080/devtv/5af3eeb538/8779
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Comedy Central South Park
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286080
+http://kuchini.site:8080/devtv/5af3eeb538/286080
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Conmebol 1
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/291179
+http://kuchini.site:8080/devtv/5af3eeb538/291179
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Conmebol 2
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/291180
+http://kuchini.site:8080/devtv/5af3eeb538/291180
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Conmebol 3
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/291181
+http://kuchini.site:8080/devtv/5af3eeb538/291181
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Conmebol 4
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/291182
+http://kuchini.site:8080/devtv/5af3eeb538/291182
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Cultura
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/14491
+http://kuchini.site:8080/devtv/5af3eeb538/14491
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Curta
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/166654
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Discovery Channel
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/299696
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Discovery H&H Brasil
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8904
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Discovery Kids
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8893
-#EXTINF:0 tvg-id="DiscoveryScience.br" group-title="Channels",BR: Discovery Science
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8910
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Discovery Theater
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8892
-#EXTINF:0 tvg-id="Discturbohd.br" group-title="Channels",BR: Discovery Turbo
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8891
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Discovery World
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/279608
+http://kuchini.site:8080/devtv/5af3eeb538/166654
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Disney Channel
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8895
+http://kuchini.site:8080/devtv/5af3eeb538/8895
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Disney Junior
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8916
+http://kuchini.site:8080/devtv/5af3eeb538/8916
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Disney XD
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8917
+http://kuchini.site:8080/devtv/5af3eeb538/8917
 #EXTINF:0 tvg-id="E.br" group-title="Channels",BR: E!
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/14501
-#EXTINF:0 tvg-id="Espn.br" group-title="Channels",BR: ESPN
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8793
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ESPN 2
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8801
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ESPN 3
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/290657
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ESPN 4
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/299345
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ESPN Extra
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8789
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ESPN Vivo
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/299348
+http://kuchini.site:8080/devtv/5af3eeb538/14501
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: FailArmy
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286084
+http://kuchini.site:8080/devtv/5af3eeb538/286084
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: FilmBox Extra
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/16377
+http://kuchini.site:8080/devtv/5af3eeb538/16377
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Fish TV
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8848
+http://kuchini.site:8080/devtv/5af3eeb538/8848
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Fonte TV
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/275967
+http://kuchini.site:8080/devtv/5af3eeb538/275967
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Food Network
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8863
+http://kuchini.site:8080/devtv/5af3eeb538/8863
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Fox Crime
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/16366
+http://kuchini.site:8080/devtv/5af3eeb538/16366
 #EXTINF:0 tvg-id="Foxlife.br" group-title="Channels",BR: Fox Life
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8818
+http://kuchini.site:8080/devtv/5af3eeb538/8818
 #EXTINF:0 tvg-id="Foxsports2.br" group-title="Channels",BR: FOX SPORTS 2
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8776
+http://kuchini.site:8080/devtv/5af3eeb538/8776
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Futura
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/7342
+http://kuchini.site:8080/devtv/5af3eeb538/7342
 #EXTINF:0 tvg-id="Fx.br" group-title="Channels",BR: FX
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8835
+http://kuchini.site:8080/devtv/5af3eeb538/8835
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Amazonas
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/14593
+http://kuchini.site:8080/devtv/5af3eeb538/14593
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Asa Branca
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/193343
+http://kuchini.site:8080/devtv/5af3eeb538/193343
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Bahia
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/295106
+http://kuchini.site:8080/devtv/5af3eeb538/295106
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Brasilia
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/295107
+http://kuchini.site:8080/devtv/5af3eeb538/295107
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Cuiaba
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/24555
+http://kuchini.site:8080/devtv/5af3eeb538/24555
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBO EPTV Campinas
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/24554
+http://kuchini.site:8080/devtv/5af3eeb538/24554
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo EPTV Ribeirao Preto
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/295110
+http://kuchini.site:8080/devtv/5af3eeb538/295110
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo EPTV Sao Carlos
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/14594
+http://kuchini.site:8080/devtv/5af3eeb538/14594
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Fortaleza
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/36851
+http://kuchini.site:8080/devtv/5af3eeb538/36851
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Inter TV Cabugi
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/24553
+http://kuchini.site:8080/devtv/5af3eeb538/24553
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Internacional
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/295109
+http://kuchini.site:8080/devtv/5af3eeb538/295109
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Minas
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/295101
+http://kuchini.site:8080/devtv/5af3eeb538/295101
 #EXTINF:0 tvg-id="Globonews.br" group-title="Channels",BR: Globo News
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/14513
+http://kuchini.site:8080/devtv/5af3eeb538/14513
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Nordeste
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/24551
+http://kuchini.site:8080/devtv/5af3eeb538/24551
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Now
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/1433
+http://kuchini.site:8080/devtv/5af3eeb538/1433
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo NSC TV
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/201034
+http://kuchini.site:8080/devtv/5af3eeb538/201034
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Premium
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/151874
+http://kuchini.site:8080/devtv/5af3eeb538/151874
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo RBS Porto Alegre
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/148423
+http://kuchini.site:8080/devtv/5af3eeb538/148423
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo RBS RS TV
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/36850
+http://kuchini.site:8080/devtv/5af3eeb538/36850
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Ribeir
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/81158
+http://kuchini.site:8080/devtv/5af3eeb538/81158
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Rio de Janeiro
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/30437
+http://kuchini.site:8080/devtv/5af3eeb538/30437
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Rio Grande Do Norte
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/182175
+http://kuchini.site:8080/devtv/5af3eeb538/182175
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo RJ
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/295102
+http://kuchini.site:8080/devtv/5af3eeb538/295102
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo RPC Curitiba
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/182185
-#EXTINF:0 tvg-id="Globosp.br" group-title="Channels",BR: Globo Sao Paulo
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/14514
+http://kuchini.site:8080/devtv/5af3eeb538/182185
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Tribuna Santos
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/24546
+http://kuchini.site:8080/devtv/5af3eeb538/24546
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo TV
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/295104
+http://kuchini.site:8080/devtv/5af3eeb538/295104
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo TV Gazeta Victoria
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/193344
+http://kuchini.site:8080/devtv/5af3eeb538/193344
 #EXTINF:0 tvg-id="Gloob.br" group-title="Channels",BR: Gloob
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/14605
+http://kuchini.site:8080/devtv/5af3eeb538/14605
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Gloobinho
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/148406
+http://kuchini.site:8080/devtv/5af3eeb538/148406
 #EXTINF:0 tvg-id="Gnt.br" group-title="Channels",BR: GNT
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8856
+http://kuchini.site:8080/devtv/5af3eeb538/8856
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Golden
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/295105
+http://kuchini.site:8080/devtv/5af3eeb538/295105
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Gospel Movie TV
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286085
+http://kuchini.site:8080/devtv/5af3eeb538/286085
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Guia de Canais
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286086
+http://kuchini.site:8080/devtv/5af3eeb538/286086
 #EXTINF:0 tvg-id="Hbo.br" group-title="Channels",BR: HBO
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8822
+http://kuchini.site:8080/devtv/5af3eeb538/8822
 #EXTINF:0 tvg-id="Hbo2.br" group-title="Channels",BR: HBO 2
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8821
+http://kuchini.site:8080/devtv/5af3eeb538/8821
 #EXTINF:0 tvg-id="Hbofamily.br" group-title="Channels",BR: HBO Family
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8839
+http://kuchini.site:8080/devtv/5af3eeb538/8839
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: HBO Mundi
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8837
+http://kuchini.site:8080/devtv/5af3eeb538/8837
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: HBO Pop
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/173434
+http://kuchini.site:8080/devtv/5af3eeb538/173434
 #EXTINF:0 tvg-id="Hbosignature.br" group-title="Channels",BR: HBO Signature
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8836
+http://kuchini.site:8080/devtv/5af3eeb538/8836
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: HBO Xtreme
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8824
+http://kuchini.site:8080/devtv/5af3eeb538/8824
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: HBO+
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8823
+http://kuchini.site:8080/devtv/5af3eeb538/8823
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: HGTV
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/147274
+http://kuchini.site:8080/devtv/5af3eeb538/147274
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: History
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8901
+http://kuchini.site:8080/devtv/5af3eeb538/8901
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: History 2
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/14516
+http://kuchini.site:8080/devtv/5af3eeb538/14516
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Hope Channel
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/299390
+http://kuchini.site:8080/devtv/5af3eeb538/299390
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Inter TV Grande Minas
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/291203
+http://kuchini.site:8080/devtv/5af3eeb538/291203
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Investigation Discovery
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/14529
+http://kuchini.site:8080/devtv/5af3eeb538/14529
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Jeannie e um Genio
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286090
+http://kuchini.site:8080/devtv/5af3eeb538/286090
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Jovem Pan News
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286091
+http://kuchini.site:8080/devtv/5af3eeb538/286091
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Jovem Pan Pluto TV
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286092
+http://kuchini.site:8080/devtv/5af3eeb538/286092
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Kpop
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/298082
+http://kuchini.site:8080/devtv/5af3eeb538/298082
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Lifetime
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8864
+http://kuchini.site:8080/devtv/5af3eeb538/8864
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Like
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/245612
+http://kuchini.site:8080/devtv/5af3eeb538/245612
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Mana
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/297511
+http://kuchini.site:8080/devtv/5af3eeb538/297511
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: MasterChef
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286098
+http://kuchini.site:8080/devtv/5af3eeb538/286098
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Megapix
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8842
+http://kuchini.site:8080/devtv/5af3eeb538/8842
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: MTV Brasil
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/147283
+http://kuchini.site:8080/devtv/5af3eeb538/147283
 #EXTINF:0 tvg-id="Multishow.br" group-title="Channels",BR: Multishow
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/14528
+http://kuchini.site:8080/devtv/5af3eeb538/14528
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Music Box Brazil
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/278696
+http://kuchini.site:8080/devtv/5af3eeb538/278696
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: MyTime movie network Brazil
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286099
+http://kuchini.site:8080/devtv/5af3eeb538/286099
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Naruto
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286100
+http://kuchini.site:8080/devtv/5af3eeb538/286100
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: NAT GEO Wild
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8905
+http://kuchini.site:8080/devtv/5af3eeb538/8905
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Nick Classico
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286101
+http://kuchini.site:8080/devtv/5af3eeb538/286101
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Nick Junior
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8919
+http://kuchini.site:8080/devtv/5af3eeb538/8919
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Nick Junior Club
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286102
+http://kuchini.site:8080/devtv/5af3eeb538/286102
 #EXTINF:0 tvg-id="Nickelodeon.br" group-title="Channels",BR: nickelodeon
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/16391
+http://kuchini.site:8080/devtv/5af3eeb538/16391
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Nova Era TV
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286105
+http://kuchini.site:8080/devtv/5af3eeb538/286105
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Novo Tempo
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/7411
+http://kuchini.site:8080/devtv/5af3eeb538/7411
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: O Encantador de Caes
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/294909
+http://kuchini.site:8080/devtv/5af3eeb538/294909
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: O Reino Infantil
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286107
+http://kuchini.site:8080/devtv/5af3eeb538/286107
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Paramount Network
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8859
+http://kuchini.site:8080/devtv/5af3eeb538/8859
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Premiere FC 1
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8785
+http://kuchini.site:8080/devtv/5af3eeb538/8785
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Premiere FC 2
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8786
+http://kuchini.site:8080/devtv/5af3eeb538/8786
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Premiere FC 3
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8787
+http://kuchini.site:8080/devtv/5af3eeb538/8787
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Premiere FC 4
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8788
+http://kuchini.site:8080/devtv/5af3eeb538/8788
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Premiere FC 5
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8790
+http://kuchini.site:8080/devtv/5af3eeb538/8790
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Premiere FC 6
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8791
+http://kuchini.site:8080/devtv/5af3eeb538/8791
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Premiere FC 7
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8798
+http://kuchini.site:8080/devtv/5af3eeb538/8798
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Prime Box Brazil
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/193333
+http://kuchini.site:8080/devtv/5af3eeb538/193333
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: RBA TV
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/166057
+http://kuchini.site:8080/devtv/5af3eeb538/166057
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Record
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/10872
+http://kuchini.site:8080/devtv/5af3eeb538/10872
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Record Campinas
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/14538
+http://kuchini.site:8080/devtv/5af3eeb538/14538
 #EXTINF:0 tvg-id="Recordnews.br" group-title="Channels",BR: Record News
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/10988
+http://kuchini.site:8080/devtv/5af3eeb538/10988
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Record Nordeste
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/14539
+http://kuchini.site:8080/devtv/5af3eeb538/14539
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Record Rio
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/27204
+http://kuchini.site:8080/devtv/5af3eeb538/27204
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Record SP
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/14639
+http://kuchini.site:8080/devtv/5af3eeb538/14639
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Record TV Americas
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/200090
+http://kuchini.site:8080/devtv/5af3eeb538/200090
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Record TV Europa
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/1431
+http://kuchini.site:8080/devtv/5af3eeb538/1431
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Rede Brasil
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/7354
+http://kuchini.site:8080/devtv/5af3eeb538/7354
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Rede Brasil de Comunicacao
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286111
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Rede Familia
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/193339
+http://kuchini.site:8080/devtv/5af3eeb538/286111
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Rede Gospel
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/193342
+http://kuchini.site:8080/devtv/5af3eeb538/193342
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Rede Mao Amiga
+http://kuchini.site:8080/devtv/5af3eeb538/286116
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Rede Minas
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/7408
+http://kuchini.site:8080/devtv/5af3eeb538/7408
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Rede RC
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286117
+http://kuchini.site:8080/devtv/5af3eeb538/286117
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Rede Super
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/147291
+http://kuchini.site:8080/devtv/5af3eeb538/147291
 #EXTINF:0 tvg-id="Redetv.br" group-title="Channels",BR: Rede TV
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/7359
+http://kuchini.site:8080/devtv/5af3eeb538/7359
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Rede TV SP
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/148414
+http://kuchini.site:8080/devtv/5af3eeb538/148414
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Rede TV Tocantins
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286121
+http://kuchini.site:8080/devtv/5af3eeb538/286121
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Rede Vida
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/147286
+http://kuchini.site:8080/devtv/5af3eeb538/147286
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Retro Cartoon
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286122
+http://kuchini.site:8080/devtv/5af3eeb538/286122
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Santa Cecilia TV
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286124
+http://kuchini.site:8080/devtv/5af3eeb538/286124
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: SBT
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/7367
+http://kuchini.site:8080/devtv/5af3eeb538/7367
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: SBT SP
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/148409
+http://kuchini.site:8080/devtv/5af3eeb538/148409
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Sony Channel
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8882
+http://kuchini.site:8080/devtv/5af3eeb538/8882
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Space
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/295111
+http://kuchini.site:8080/devtv/5af3eeb538/295111
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: SPORTV
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/4015
+http://kuchini.site:8080/devtv/5af3eeb538/4015
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: SPORTV 2
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8783
+http://kuchini.site:8080/devtv/5af3eeb538/8783
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: SPORTV 3
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8784
+http://kuchini.site:8080/devtv/5af3eeb538/8784
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Star Channel
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/3035
+http://kuchini.site:8080/devtv/5af3eeb538/3035
 #EXTINF:0 tvg-id="Studiouniversal.br" group-title="Channels",BR: Studio Universal
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/280996
+http://kuchini.site:8080/devtv/5af3eeb538/280996
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: SYFY
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/14485
+http://kuchini.site:8080/devtv/5af3eeb538/14485
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Tastemade
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286173
+http://kuchini.site:8080/devtv/5af3eeb538/286173
 #EXTINF:0 tvg-id="Tcm.br" group-title="Channels",BR: TCM
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8853
+http://kuchini.site:8080/devtv/5af3eeb538/8853
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TeenNick
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286103
+http://kuchini.site:8080/devtv/5af3eeb538/286103
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Telecine Action
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/193685
+http://kuchini.site:8080/devtv/5af3eeb538/193685
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Telecine Cult
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/197080
+http://kuchini.site:8080/devtv/5af3eeb538/197080
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Telecine Fun
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8831
+http://kuchini.site:8080/devtv/5af3eeb538/8831
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Telecine Pipoca
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8830
+http://kuchini.site:8080/devtv/5af3eeb538/8830
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Telecine Premium
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8829
+http://kuchini.site:8080/devtv/5af3eeb538/8829
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Telecine Touch
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8828
+http://kuchini.site:8080/devtv/5af3eeb538/8828
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Tercero Anjo TV
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/299391
+http://kuchini.site:8080/devtv/5af3eeb538/299391
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Terra Viva
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/197213
+http://kuchini.site:8080/devtv/5af3eeb538/197213
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: The Pet Collective
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286176
+http://kuchini.site:8080/devtv/5af3eeb538/286176
 #EXTINF:0 tvg-id="Tlc.br" group-title="Channels",BR: TLC
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/7370
+http://kuchini.site:8080/devtv/5af3eeb538/7370
 #EXTINF:0 tvg-id="Tnt.br" group-title="Channels",BR: TNT
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8840
+http://kuchini.site:8080/devtv/5af3eeb538/8840
 #EXTINF:0 tvg-id="TNTSerie.br" group-title="Channels",BR: TNT Series
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8827
+http://kuchini.site:8080/devtv/5af3eeb538/8827
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TNT Sports 2
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286127
+http://kuchini.site:8080/devtv/5af3eeb538/286127
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TNT Sports 3
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286128
+http://kuchini.site:8080/devtv/5af3eeb538/286128
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TNT Sports 4
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286129
+http://kuchini.site:8080/devtv/5af3eeb538/286129
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TNT Sports 5
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286130
+http://kuchini.site:8080/devtv/5af3eeb538/286130
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TNT Sports 5 Brasil
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/299064
+http://kuchini.site:8080/devtv/5af3eeb538/299064
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Tokusato
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286177
+http://kuchini.site:8080/devtv/5af3eeb538/286177
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Tooncast
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8927
+http://kuchini.site:8080/devtv/5af3eeb538/8927
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Travel Box Brasil
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/169585
+http://kuchini.site:8080/devtv/5af3eeb538/169585
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: tru TV
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/147652
+http://kuchini.site:8080/devtv/5af3eeb538/147652
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Turma da Monica
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286178
+http://kuchini.site:8080/devtv/5af3eeb538/286178
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Aberta
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286131
+http://kuchini.site:8080/devtv/5af3eeb538/286131
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Aparecida
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/7379
+http://kuchini.site:8080/devtv/5af3eeb538/7379
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Assembl
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/166063
+http://kuchini.site:8080/devtv/5af3eeb538/166063
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Birigui
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/296054
+http://kuchini.site:8080/devtv/5af3eeb538/296054
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV BNO
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/201934
+http://kuchini.site:8080/devtv/5af3eeb538/201934
 #EXTINF:0 tvg-id="Tvbrasil.br" group-title="Channels",BR: TV Brasil
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/166056
+http://kuchini.site:8080/devtv/5af3eeb538/166056
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV BRICS Portuguese
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286134
+http://kuchini.site:8080/devtv/5af3eeb538/286134
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Carioca
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/201935
+http://kuchini.site:8080/devtv/5af3eeb538/201935
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Cidade Canal 9
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/201936
+http://kuchini.site:8080/devtv/5af3eeb538/201936
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Cinec
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286142
+http://kuchini.site:8080/devtv/5af3eeb538/286142
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Destak
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286144
+http://kuchini.site:8080/devtv/5af3eeb538/286144
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Diario
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/22361
+http://kuchini.site:8080/devtv/5af3eeb538/22361
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Escola
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/7372
+http://kuchini.site:8080/devtv/5af3eeb538/7372
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Evangelizar
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/245605
+http://kuchini.site:8080/devtv/5af3eeb538/245605
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Galega Blumenau
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286147
+http://kuchini.site:8080/devtv/5af3eeb538/286147
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Gazeta
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/7391
+http://kuchini.site:8080/devtv/5af3eeb538/7391
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Gideoes
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286149
+http://kuchini.site:8080/devtv/5af3eeb538/286149
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Globo Internacional Américas
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/1432
+http://kuchini.site:8080/devtv/5af3eeb538/1432
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Imaculada
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/291199
+http://kuchini.site:8080/devtv/5af3eeb538/291199
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Justica
+http://kuchini.site:8080/devtv/5af3eeb538/285520
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Mackenzie
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286153
+http://kuchini.site:8080/devtv/5af3eeb538/286153
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV MAX
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286152
+http://kuchini.site:8080/devtv/5af3eeb538/286152
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Metropole
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286154
+http://kuchini.site:8080/devtv/5af3eeb538/286154
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Mon
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286155
+http://kuchini.site:8080/devtv/5af3eeb538/286155
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Pai Eterno
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/166054
+http://kuchini.site:8080/devtv/5af3eeb538/166054
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Pampa
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/299183
+http://kuchini.site:8080/devtv/5af3eeb538/299183
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Pantanal MS
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286157
+http://kuchini.site:8080/devtv/5af3eeb538/286157
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Parana Turismo
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/294563
+http://kuchini.site:8080/devtv/5af3eeb538/294563
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Pocos
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286158
+http://kuchini.site:8080/devtv/5af3eeb538/286158
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Ra Tim Bum
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/148405
+http://kuchini.site:8080/devtv/5af3eeb538/148405
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Santa Cruz
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286159
+http://kuchini.site:8080/devtv/5af3eeb538/286159
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Senado
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/285521
+http://kuchini.site:8080/devtv/5af3eeb538/285521
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Tem Bauru
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/245611
+http://kuchini.site:8080/devtv/5af3eeb538/245611
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Terceiro Anjo
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286160
+http://kuchini.site:8080/devtv/5af3eeb538/286160
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TVC
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/286168
+http://kuchini.site:8080/devtv/5af3eeb538/286168
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TVE Bahia
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/22364
+http://kuchini.site:8080/devtv/5af3eeb538/22364
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TVideo News
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/283846
+http://kuchini.site:8080/devtv/5af3eeb538/283846
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: TVN Brasil
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/265770
+http://kuchini.site:8080/devtv/5af3eeb538/265770
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Universal TV
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/7422
+http://kuchini.site:8080/devtv/5af3eeb538/7422
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: Warner TV
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/8825
+http://kuchini.site:8080/devtv/5af3eeb538/8825
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: WooHoo
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/14555
+http://kuchini.site:8080/devtv/5af3eeb538/14555
 #EXTINF:0 tvg-id="ext" group-title="Channels",BR: ZooMoo Kids
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/14661
-
+http://kuchini.site:8080/devtv/5af3eeb538/14661
 
