@@ -69,14 +69,26 @@ http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/281487
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/2051
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224093
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1499
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1503
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224095
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224097
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1506
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1509
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224099
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224101
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1512
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 6 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1515
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224103
 
@@ -84,25 +96,6 @@ http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224103
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1517
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]EUROSPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1518
-
-
-
-
-
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 1
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1499
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 2
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1503
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 3
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1506
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 4
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1509
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 5
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1512
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 6
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1515
-
 
 
 ####################################################################################################################################
@@ -253,11 +246,14 @@ http://cdn.rtyh.xyz:80/IanSomma/Somma1982/77961
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2531/index.m3u8
 
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1503
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://cdn.rtyh.xyz:80/IanSomma/Somma1982/77967
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1503
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224095
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
