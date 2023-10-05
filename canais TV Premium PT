@@ -22,7 +22,7 @@ http://0.0.0.0:0000
      Listas Várias - https://global-satinfo.in/viewforum.php?f=22&sid=14261766f220116fe35abb7ddf0e87e2
      
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 29/09/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 05/10/2023[/B][/COLOR][COLOR=orange][/COLOR]
 #EXTM3U
 
 
@@ -32,83 +32,37 @@ https://00000000000
 
 #EXTM3U
 
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
-http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729374.ts
+http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224078
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729376.ts
+http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224080
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1483
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1486
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729378.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729380.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729382.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729384.ts
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729390.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729394.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729399.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729403.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729406.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729408.ts
-
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: NBA Tv
-http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/242671
-#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",PT: Sporting TV HD
-http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224105
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",PT: Sport TV + HD
-http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224078
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: Sport TV 1 HD
-http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224080
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: Sport TV 2 HD
 http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224082
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: Sport TV 3 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224084
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: Sport TV 4 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224086
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT: Sport TV 5 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224088
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Sport TV 6 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224090
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 1
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224093
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 2
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224095
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 3
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224097
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 4
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224099
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 5
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224101
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 6
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224103
-#EXTINF:0 tvg-id="Eurosport1.pt" group-title="Channels",PT: Eurosport 1
-http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/130966
-#EXTINF:0 tvg-id="Eurosport2.pt" group-title="Channels",PT: Eurosport 2
-http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/130967
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Dazn Eleven 1 HD
-http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/242274
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Dazn Eleven 2 HD
-http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/242275
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Dazn Eleven 3 HD
-http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/242276
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Dazn Eleven 4 HD
-http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/242277
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Dazn Eleven 5 HD
-http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/242278
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Dazn Eleven 6 HD
-http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/242279
 
 
 
@@ -153,8 +107,6 @@ http://conexaoonline.top:80/IVONE123/IVONE321/261068
 http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/1489
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/1489
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/1489
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://conexaoonline.top:80/IVONE123/IVONE321/261067
@@ -185,8 +137,7 @@ http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/8793
 http://mn.appserv19.xyz:2095/Xplus-1-VSmETvtBbb/AJjywwOynA/131
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/19059/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://pbrz.xyz:80/545454/545454/1396
+
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/8801
@@ -195,13 +146,8 @@ http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/290657
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN EXTRA BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://kuchini.site:8080/SBTV/vufH4uJQB4VLFmE4/8789
 
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 1 HD PL[/B][/COLOR][COLOR=white][/COLOR]
-https://84.54.148.38/PEST1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 1 HD PL[/B][/COLOR][COLOR=white][/COLOR]
 http://ua3.iptv.monster/play/1904/350B326FB34F4B8/video.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 HD PL[/B][/COLOR][COLOR=white][/COLOR]
-https://84.54.148.38/PEST2/index.m3u8 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 HD PL[/B][/COLOR][COLOR=white][/COLOR]
 http://ua3.iptv.monster/play/1903/350B326FB34F4B8/video.m3u8
 
@@ -241,73 +187,71 @@ https://000000
 #EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://kuchini.site:8080/devtv/5af3eeb538/1497
 
-#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729468.ts
-
 
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
  
 #EXTM3U
-#EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS ELEVEN SPORTS PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] /////////  DANZ ELEVEN PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTM3U
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138421
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2531/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://conexaoonline.top:80/IVONE123/IVONE321/261002
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://cdn.rtyh.xyz:80/IanSomma/Somma1982/77961
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2531/index.m3u8
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2533/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://conexaoonline.top:80/IVONE123/IVONE321/261000
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://conexaoonline.top:80/IVONE123/IVONE321/260999
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2535/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://conexaoonline.top:80/IVONE123/IVONE321/260998
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://conexaoonline.top:80/IVONE123/IVONE321/260997
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2536/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
 
 #EXTM3U
 
-##################################  CANAIS PREMIUM CINEMA PORTUGAL ###################################################################
+##################################  CANAIS PREMIUM CINEMA PT ###################################################################
 #EXTM3U
  
 #EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS CINEMA PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -318,22 +262,11 @@ https://0000000
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NOS STUDIOS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://kuchini.site:8080/devtv/5af3eeb538/1454
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NOS STUDIOS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729316.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE ACTION HD[/B][/COLOR][COLOR=white][/COLOR]
 http://kuchini.site:8080/devtv/5af3eeb538/1452
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE ACTION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729329.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EDITION HD[/B][/COLOR][COLOR=white][/COLOR]
 http://kuchini.site:8080/devtv/5af3eeb538/82254
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EDITION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729322.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EMOTION HD[/B][/COLOR][COLOR=white][/COLOR]
 http://kuchini.site:8080/devtv/5af3eeb538/1448
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EMOTION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729325.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
 http://kuchini.site:8080/devtv/5af3eeb538/1446
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
-http://titancode.one:2082/live/@Babarbugti2023/cI092yxHir/729319.ts
-
