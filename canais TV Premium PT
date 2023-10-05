@@ -35,6 +35,10 @@ https://00000000000
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
 http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224078
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1481
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1483
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224080
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -43,14 +47,26 @@ http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1483
 http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1486
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224082
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1486
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1489
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224084
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224086
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1492
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1495
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224088
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224090
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/281487
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/2051
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224093
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -68,6 +84,25 @@ http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224103
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1517
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]EUROSPORT 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1518
+
+
+
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 1
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1499
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 2
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1503
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 3
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1506
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 4
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1509
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 5
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1512
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 6
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1515
+
 
 
 ####################################################################################################################################
