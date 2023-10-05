@@ -10,14 +10,64 @@ http://0.0.0.0:0000
 #EXTM3U
 
 
+
+#EXTINF:0 tvg-id="rtp1.pt" group-title="Channels",PT: RTP 1
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1404
+#EXTINF:0 tvg-id="rtp2.pt" group-title="Channels",PT: RTP 2
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1406
+#EXTINF:0 tvg-id="RTP3.pt" group-title="Channels",PT: RTP 3
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1418
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: RTP ARENA
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/290673
+#EXTINF:0 tvg-id="RTPAcores.pt" group-title="Channels",PT: RTP AÇORES
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/2055
+#EXTINF:0 tvg-id="RTPMadeira.pt" group-title="Channels",PT: RTP MADEIRA
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/278558
+#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Channels",PT: RTP MEMÓRIA
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1425
+#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Channels",PT: RTP ÁFRICA
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1424
+
+#EXTINF:0 tvg-id="sic.pt" group-title="Channels",PT: SIC
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1408
+#EXTINF:0 tvg-id="SicCaras.pt" group-title="Channels",PT: SIC CARAS
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/5910
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SIC INTER.
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/297535
+#EXTINF:0 tvg-id="SicK.pt" group-title="Channels",PT: SIC K
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/4021
+#EXTINF:0 tvg-id="sicmulher.pt" group-title="Channels",PT: SIC MULHER
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1427
+#EXTINF:0 tvg-id="sicnoticias.pt" group-title="Channels",PT: SIC NOTÍCIAS
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1416
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SIC NOVELAS
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/299727
+#EXTINF:0 tvg-id="sicradical.pt" group-title="Channels",PT: SIC RADICAL
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1429
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ADVANCE SIC
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/290666
+
+#EXTINF:0 tvg-id="TVI.pt" group-title="Channels",PT: TVI
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1410
+#EXTINF:0 tvg-id="TVIFiccao.pt" group-title="Channels",PT: TVI FICÇÃO
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1421
+#EXTINF:0 tvg-id="TVIReal.pt" group-title="Channels",PT: TVI REALITY
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1423
+
+#EXTINF:0 tvg-id="CMTV.pt" group-title="Channels",PT: CM TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1412
+
+
+
+
+
 #EXTINF:0 tvg-id="ABolaTV.pt" group-title="Channels",PT: A Bola TV
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1420
 #EXTINF:0 tvg-id="blaze.pt" group-title="Channels",PT: A&E
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/279741
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: ADB TV
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/299412
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Advance SIC
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/290666
+
 #EXTINF:0 tvg-id="AfroMusic.pt" group-title="Channels",PT: Afro Music Channel
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1536
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: Alma Lusa
@@ -38,8 +88,7 @@ http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1471
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1467
 #EXTINF:0 tvg-id="BabyTV.pt" group-title="Channels",PT: Baby TV
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1441
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",PT: Benfica TV
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1497
+
 #EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Channels",PT: Biggs
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1439
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: Blaze
@@ -84,8 +133,7 @@ http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1477
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/286838
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: CINEMA JACKIE CHAN
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/286832
-#EXTINF:0 tvg-id="CMTV.pt" group-title="Channels",PT: CM TV
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1412
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: CNN Portugal
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1414
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: Crime District
@@ -184,40 +232,10 @@ http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1419
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/299377
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: Record TV
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/298700
-#EXTINF:0 tvg-id="rtp1.pt" group-title="Channels",PT: RTP 1
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1404
-#EXTINF:0 tvg-id="rtp2.pt" group-title="Channels",PT: RTP 2
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1406
-#EXTINF:0 tvg-id="RTP3.pt" group-title="Channels",PT: RTP 3
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1418
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: RTP Arena
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/290673
-#EXTINF:0 tvg-id="RTPAcores.pt" group-title="Channels",PT: RTP Açores
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/2055
-#EXTINF:0 tvg-id="RTPMadeira.pt" group-title="Channels",PT: RTP Madeira
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/278558
-#EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Channels",PT: RTP Memória
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1425
-#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Channels",PT: RTP África
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1424
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: SAUDE+
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/81973
-#EXTINF:0 tvg-id="sic.pt" group-title="Channels",PT: SIC
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1408
-#EXTINF:0 tvg-id="SicCaras.pt" group-title="Channels",PT: SIC Caras
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/5910
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SIC Internacional
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/297535
-#EXTINF:0 tvg-id="SicK.pt" group-title="Channels",PT: SIC K
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/4021
-#EXTINF:0 tvg-id="sicmulher.pt" group-title="Channels",PT: SIC Mulher
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1427
-#EXTINF:0 tvg-id="sicnoticias.pt" group-title="Channels",PT: SIC Noticias
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1416
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SIC Novelas
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/299727
-#EXTINF:0 tvg-id="sicradical.pt" group-title="Channels",PT: SIC Radical
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1429
+
 #EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",PT: SPORT TV +
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1481
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1
@@ -258,11 +276,6 @@ http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1448
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1446
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCine+
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/278686
-#EXTINF:0 tvg-id="TVI.pt" group-title="Channels",PT: TVI
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1410
-#EXTINF:0 tvg-id="TVIFiccao.pt" group-title="Channels",PT: TVI Ficção
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1421
-#EXTINF:0 tvg-id="TVIReal.pt" group-title="Channels",PT: TVI Reality
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1423
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: Way TV
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/299411
