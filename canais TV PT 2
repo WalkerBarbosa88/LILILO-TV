@@ -9,7 +9,32 @@ http://0.0.0.0:0000
 
 #EXTM3U
 
+#EXTINF:-1,[COLOR=yellow][B]/////////  TV PT EXCLUSIVOS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTM3U
 
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",SIC OPTO
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/299728
+#EXTINF:0 tvg-id="ext" group-title="Channels",QUEENS UNITED TV
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/299377
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISNEY+
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/226084
+#EXTINF:0 tvg-id="ext" group-title="Channels",DISNEY+ PIXAR
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/298019
+#EXTINF:0 tvg-id="ext" group-title="Channels",NETFLIX
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/24517
+#EXTINF:0 tvg-id="ext" group-title="Channels",NETFLIX KIDS
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/201051
+#EXTINF:0 tvg-id="ext" group-title="Channels",SÉRIES DE APAIXONADOS
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/286834
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINEMA FANTASIA
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/286838
+#EXTINF:0 tvg-id="ext" group-title="Channels",CINEMA JACKIE CHAN
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/286832
+
+
+#EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS TV PT 2  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTM3U
 
 #EXTINF:0 tvg-id="rtp1.pt" group-title="Channels",PT: RTP 1
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1404
@@ -57,7 +82,34 @@ http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1423
 #EXTINF:0 tvg-id="CMTV.pt" group-title="Channels",PT: CM TV
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1412
 
-
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",PT: SPORT TV +
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1481
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1483
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1486
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1489
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1492
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT: SPORT TV 5
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1495
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 6
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/281487
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV NBA
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/2051
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 1
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1499
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 2
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1503
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 3
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1506
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 4
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1509
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 5
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1512
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 6
+http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1515
 
 
 
@@ -74,8 +126,7 @@ http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1536
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/264642
 #EXTINF:0 tvg-id="AMC.pt" group-title="Channels",PT: AMC
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1473
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Apaixonados Series
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/286834
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: AR TV
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/9629
 #EXTINF:0 tvg-id="axn.pt" group-title="Channels",PT: AXN
@@ -129,10 +180,7 @@ http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/13956
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1528
 #EXTINF:0 tvg-id="Cinemundo.pt" group-title="Channels",PT: Cine Mundo
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1477
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CINEMA FANTASIA
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/286838
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CINEMA JACKIE CHAN
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/286832
+
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: CNN Portugal
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1414
@@ -144,24 +192,10 @@ http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/296226
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1434
 #EXTINF:0 tvg-id="DisneyJunior.pt" group-title="Channels",PT: Disney Junior
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1435
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Disney+
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/226084
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Disney+ Pixar
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/298019
+
 #EXTINF:0 tvg-id="eentertainment.pt" group-title="Channels",PT: E!
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1526
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 1
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1499
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 2
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1503
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 3
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1506
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 4
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1509
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 5
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1512
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 6
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1515
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: euronews
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/4007
 #EXTINF:0 tvg-id="Eurosport1.pt" group-title="Channels",PT: EUROSPORT 1
@@ -174,17 +208,17 @@ http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/2656
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/2044
 #EXTINF:0 tvg-id="fox.pt" group-title="Channels",PT: FOX
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1461
-#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",PT: Fox Comedy
+#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",PT: FOX COMEDY
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1465
-#EXTINF:0 tvg-id="foxcrime.pt" group-title="Channels",PT: Fox Crime
+#EXTINF:0 tvg-id="foxcrime.pt" group-title="Channels",PT: FOX CRIME
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1463
-#EXTINF:0 tvg-id="foxlife.pt" group-title="Channels",PT: Fox Life
+#EXTINF:0 tvg-id="foxlife.pt" group-title="Channels",PT: FOX LIFE
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1459
-#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",PT: FOX Movies
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",PT: FOX MOVIES
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1457
-#EXTINF:0 tvg-id="FuelTV.pt" group-title="Channels",PT: Fuel TV
+#EXTINF:0 tvg-id="FuelTV.pt" group-title="Channels",PT: FUEL TV
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1521
-#EXTINF:0 tvg-id="HistoryChannel.pt" group-title="Channels",PT: Historia
+#EXTINF:0 tvg-id="HistoryChannel.pt" group-title="Channels",PT: HISTÓRIA
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1525
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: Investigation Discovery
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/5914
@@ -210,10 +244,7 @@ http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1530
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1531
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: NBA TV
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/296750
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Netflix
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/24517
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Netflix Kids
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/201051
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: Nick Junior
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/9693
 #EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Channels",PT: nickelodeon
@@ -222,36 +253,19 @@ http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1436
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1454
 #EXTINF:0 tvg-id="odisseia.pt" group-title="Channels",PT: Odisseia
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1532
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: OPTO
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/299728
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: PANDA Kids
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/290678
 #EXTINF:0 tvg-id="PortoCanal.pt" group-title="Channels",PT: Porto Canal
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1419
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Queens United TV
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/299377
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: Record TV
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/298700
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: SAUDE+
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/81973
 
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",PT: SPORT TV +
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1481
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1483
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1486
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1489
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1492
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT: SPORT TV 5
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1495
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 6
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/281487
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV NBA
-http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/2051
+
 #EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",PT: Sporting TV
 http://aflaxtv.xyz:8080/hsiptv/mqAGJHbSYX9AdDQt/1519
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: SYFY Portugal
