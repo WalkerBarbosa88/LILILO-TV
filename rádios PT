@@ -8,7 +8,7 @@ FONTE DE INFORMAÇÃO: http://fmstream.org/index.php?c=G&o=top  -  https://www.r
 
 Rádios de Portugal por distrito - https://pt.wikipedia.org/wiki/Lista_de_r%C3%A1dios_de_Portugal
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 25/07/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 05/10/2023[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
@@ -72,9 +72,6 @@ http://radiocast.rtp.pt/rdpint80a.mp3
 #EXTINF:-1,[COLOR=white][B]RDP ÁFRICA[/B][/COLOR][COLOR=white][/COLOR]
 https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]RDP AÇORES[/B][/COLOR][COLOR=white][/COLOR]
-https://streaming-live.rtp.pt/liveradio/antena1acores80a/media_6632.aac
-
 #EXTINF:-1,[COLOR=white][B]RÁDIO LUSITÂNIA[/B][/COLOR][COLOR=white][/COLOR]
 https://streaming-live.rtp.pt/liveradio/lusitania80a/playlist.m3u8
  
@@ -114,9 +111,6 @@ http://21313.live.streamtheworld.com/RFMAAC.aac
 #EXTINF:-1,[COLOR=white][B]RÁDIO MEGA HITS[/B][/COLOR][COLOR=white][/COLOR]
 http://21313.live.streamtheworld.com/MEGA_HITSAAC.aac
  
-#EXTINF:-0,[COLOR=white][B]VODAFONE FM[/B][/COLOR][COLOR=white][/COLOR]
-https://stream-icy.bauermedia.pt/vodafone.mp3
-
 #EXTINF:-0,[COLOR=white][B]RÁDIO SUPERFM[/B][/COLOR][COLOR=white][/COLOR]
 https://sp0.redeaudio.com/9962/;;/stream.mp3
 
@@ -228,8 +222,6 @@ https://nl.digitalrm.pt:8104/stream
 http://centova.radios.pt:9538/;
 #EXTINF:-1,[COLOR=white][B]RVA[/B][/COLOR][COLOR=white][/COLOR]
 http://ca5.rcast.net:8024/;
-#EXTINF:-1,[COLOR=white][B]RÁDIO CANAL FM[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:9466/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO VOZ DOS AÇORES[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.rcast.net/64684
 #EXTINF:-1,[COLOR=white][B]RÁDIO NOVA CIDADE[/B][/COLOR][COLOR=white][/COLOR]
@@ -562,8 +554,6 @@ http://95.217.75.38:9964/;
 https://servidor37-3.brlogic.com:7128/live
 #EXTINF:-1,[COLOR=white][B]RÁDIO FELGUEIRAS[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radios.pt:8459/;
-#EXTINF:-1,[COLOR=white][B]FAMA RÁDIO[/B][/COLOR][COLOR=white][/COLOR]
-http://digitalfm.dynu.com:8000/digitalfm64
 #EXTINF:-1,[COLOR=white][B]RÁDIO CLUBE DE PENAFIEL[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radio.com.pt:9476/;
 
