@@ -8,7 +8,7 @@ FONTE DE INFORMAÇÃO: https://www.webcamgalore.com/Beaches/themecam.html
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 30/08/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 05/10/2023[/B][/COLOR][COLOR=orange][/COLOR]
 https://000000
 
 #EXTM3U
@@ -17,9 +17,6 @@ https://0000000000000000000000
 
 #EXTM3U
 
-
-#EXTINF:-1,[COLOR=white][B]PRAIA DA FONTE DA TELHA SUL[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=jyHysNn_bUI
 
 #EXTINF:-1,[COLOR=white][B]PRAIA DA SEREIA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=gkj0kdQfTGY
@@ -35,9 +32,6 @@ plugin://plugin.video.youtube/play/?video_id=4J1YwwaZx4I
 
 #EXTINF:-1,[COLOR=white][B]MADEIRA - PRAIA DA PONTA GORDA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=MgMWOQIgIBY
-
-#EXTINF:-1,[COLOR=white][B]PRAIA DA CAPARICA - PANORAMA[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=ts9LyJbLwX8
 
 #EXTINF:-1,[COLOR=white][B]PRAIA DA CAPARICA, SANTO ANTÓNIO[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=1w2_rhfA-SQ
