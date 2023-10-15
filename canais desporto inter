@@ -7,7 +7,7 @@ FONTE DE INFORMAÇÃO:
               https://global-satinfo.in/viewtopic.php?f=22&t=315&start=410
 
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 20/09/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 15/10/2023[/B][/COLOR][COLOR=orange][/COLOR]
 #EXTM3U
 
 
@@ -18,7 +18,6 @@ https://000000
 #EXTM3U
 
 
-#EXTM3U
 #EXTINF:0 tvg-id="TraceSport.svn" group-title="Channels",TRACE SPORTS HD
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="xsport-plus-ua" group-title="Channels",XSPORT+ HD
@@ -45,10 +44,6 @@ http://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 http://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS TV PLUS
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT 1+1 HD
-http://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8?telegramm=yossotv
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT 1+1 HD
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8?telegramm=yossotv
 #EXTINF:0 tvg-id="ext" group-title="Channels",SKY SPORTS 24 IT
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",SETANTA SPORTS+ HD
@@ -59,11 +54,6 @@ http://hls1.sweet.tv/stream/ywrqrkcppthkuwa64z5r9qaddpcqde3fhd76cpgkjhqzxs2jp6u2
 https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/291/stream.m3u8
 #EXTINF:0 tvg-id="setanta-sport" group-title="Channels",SETANTA SPORTS HD
 http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/291/stream.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="СПОРТ\",Фан Спорт.
-https://live-k2311-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:0 tvg-id="ext" group-title="СПОРТ\",Фан Спорт 2.
-https://live-k2309-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",Canal Motor
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
@@ -81,14 +71,10 @@ https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports_ww.m3u8
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_ww/ert_sports2_ww.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",FITE
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Спорт\",Football Hub
-http://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8?token=AnonymousTV
 #EXTINF:0 tvg-id="kxl-hd" group-title="Спорт\",KHL Prime HD
 http://myott.top/stream/DEKA6YA5JRN/178.m3u8
 #EXTINF:0 tvg-id="kxl" group-title="Спорт\",KHL ТВ
 http://myott.top/stream/DEKA6YA5JRN/166.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Спорт\",KOK Fights TV
-http://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",Moto America TV
 http://stream.ads.ottera.tv/playlist.m3u8?network_id=2457
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",Motor Racing
@@ -193,8 +179,6 @@ https://stream-msk-13.ott.tricolor.tv:443/dtv/id812_MSKSG-PVR-1--Nash_sport23/01
 https://stream-msk-09.ott.tricolor.tv:443/dtv/id813_MSKSG-PVR-1--Nash_sport24/01/plst.m3u8
 #EXTINF:0 tvg-id="russkij-extreme" group-title="Спорт\",Русский экстрим HD
 http://myott.top/stream/DEKA6YA5JRN/285.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Спорт\",1+1 Sport
-https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8?token=AnonymousTV
 #EXTINF:0 tvg-id="ext" group-title="Спорт\",A Spor TV Canlı
 https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
 #EXTINF:0 tvg-id="xsport" group-title="Спорт\",XSport
@@ -236,8 +220,6 @@ http://168.205.87.198:8555/live/michele/123456/148.ts?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="Bandsports.br" group-title="Sport\",BAND SPORTS
 http://168.205.87.198:8555/live/michele/123456/176.ts?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-id="ext" group-title="Sports",1+1 SPORT
-https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:0 tvg-id="DDSports.in" group-title="Sports",DD SPORTS
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",EDGE SPORTS
@@ -254,8 +236,6 @@ https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 http://109.205.166.68/server124/idman_az/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",IMPACT! WRESTLING
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",KBP SPORTS
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",MONTERICO TV
 https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",NITRO CIRCUS
@@ -280,8 +260,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07e
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5de94dacb394a300099fa22a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=713&terminate=false&userId=
 #EXTINF:0 tvg-id="ext" group-title="Sports",PLUTO TV ACTION SPORTS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5be1be871843b56328bc3ef1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=8a1b4593-8596-4ff8-8720-2c3271ea36ca&terminate=false&userId=
-#EXTINF:0 tvg-id="ext" group-title="Sports",PLUTO TV SURF
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d1ce51dbaca4afdb7abfe5f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d1ce51dbaca4afdb7abfe5f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=abec40e3-86b9-48b6-981d-dc5eeecc6cf9&terminate=false&userId=
 #EXTINF:0 tvg-id="ext" group-title="Sports",RED BULL 1 TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",SAN MARINO RTV SPORT
@@ -298,5 +276,4 @@ http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8
 https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",TVS TURBO
 https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
-
 
