@@ -4,7 +4,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 20/09/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 15/10/2023[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -101,9 +101,6 @@ http://hz1.teleport.cc/HLS/SD.m3u8
 #EXTINF:-1,[COLOR=white][B]NRG 91[/B][/COLOR][COLOR=white][/COLOR]
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 
-#EXTINF:0,[COLOR=white][B]VIVA TV[/B][/COLOR][COLOR=white][/COLOR]
-https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
-
 #EXTINF:-1,[COLOR=white][B]KISS UK[/B][/COLOR][COLOR=white][/COLOR]
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 
@@ -123,7 +120,7 @@ http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
 http://muzzone-stream.daitsuna.net/muzzondvr/muzzone_dvr/chunks_dvr.m3u8
 
 ##########################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA ELECTRÓNICA - 5 OFFLINE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA ELECTRÓNICA - 2 OFFLINE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
@@ -134,11 +131,11 @@ https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
 #EXTINF:-1,[COLOR=white][B]DANCE TV - DEEP HOUSE[/B][/COLOR][COLOR=white][/COLOR]
 https://eu-nl-012.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
 #EXTINF:-1,[COLOR=white][B]DANCE TV - BEST OF TECHNO[/B][/COLOR][COLOR=white][/COLOR]
-https://eu-nl-012.worldcast.tv/dancetelevisionthree/2/dancetelevisionthree.m3u8
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
 #EXTINF:-1,[COLOR=white][B]DANCE TV - TECHNO HOUSE[/B][/COLOR][COLOR=white][/COLOR]
-https://eu-nl-012.worldcast.tv/dancetelevisionfour/2/dancetelevisionfour.m3u8
+https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
 #EXTINF:-1,[COLOR=white][B]DANCE TV - HOUSE FLOOR[/B][/COLOR][COLOR=white][/COLOR]
-https://eu-nl-012.worldcast.tv/dancetelevisionfive/2/dancetelevisionfive.m3u8
+https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
 #EXTINF:-1,[COLOR=white][B]DANCE TV - DEEP TECHNO & HOUSE[/B][/COLOR][COLOR=white][/COLOR]
 https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
 #EXTINF:-1,[COLOR=white][B]DANCE TV - MAINSTREAM[/B][/COLOR][COLOR=white][/COLOR]
@@ -217,17 +214,14 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6080411af0350600075
 https://000000
 
 
-#EXTINF:-1,[COLOR=white][B]CARINA TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://stream7.zivoli.it/carinatv/carinatv/chunks.m3u8
+#EXTINF:-1,[COLOR=white][B]RÁDIO CARINA TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://samson.streamerr.co:8081/carinatv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,[COLOR=white][B]FM ITÁLIA TV[/B][/COLOR][COLOR=white][/COLOR]
 https://stream6.xdevel.com/video0s975817-1186/stream/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]BACKUS TV MUSIC[/B][/COLOR][COLOR=white][/COLOR]
 http://stream.backustv.ru/live/btv3/index.m3u8
-
-#EXTINF:-1,[COLOR=white][B]OMEGA TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://5caf24a595d94.streamlock.net:1937/8142/8142/chunklist_w1756563914.m3u8
 
 #EXTINF:-1,[COLOR=white][B]VENUS MUSIC TV[/B][/COLOR][COLOR=white][/COLOR]
 https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/chunklist_w308253828.m3u8
@@ -308,9 +302,6 @@ https://bl.uma.media/live/619345/HLS/4614144_3/1/1/playlist.m3u8
 https://000000
 
 
-#EXTINF:-1,[COLOR=white][B]RTV ARBERIA RETRO HITS[/B][/COLOR][COLOR=white][/COLOR]
-https://ssh101.bozztv.com/ssh101/rtvarberiaretro/playlist.m3u8
-
 #EXTINF:-1,[COLOR=white][B]RECUERDOS RETRO[/B][/COLOR][COLOR=white][/COLOR]
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
 
@@ -372,8 +363,8 @@ https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8?PlaylistM3UCL
 https://000000
 
 
-#EXTINF:-1,[COLOR=white][B]SEXY KPOP TV[/B][/COLOR][COLOR=white][/COLOR]
-https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w330920962.m3u8
+#EXTINF:-1,[COLOR=white][B]SEXY KPOP TV (OFFLINE)[/B][/COLOR][COLOR=white][/COLOR]
+http://000000000001111111111111
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="USA",[COLOR=white][B]30A MUSIC[/B][/COLOR][COLOR=white][/COLOR]
 http://30a-tv.com/music.m3u8?fluxustv.m3u8
@@ -433,10 +424,6 @@ https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 
 #EXTINF:-1,[COLOR=white][B]GO-RTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]HITS 360 TV[/B][/COLOR][COLOR=white][/COLOR]
-http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]K POP TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]VOICE OVER TV[/B][/COLOR][COLOR=white][/COLOR]
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
 
@@ -492,8 +479,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab088b3279760007
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5caf325764025859afdd6c4d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]PLUTO TV MTV GERMANY[/B][/COLOR][COLOR=white][/COLOR]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5caf325764025859afdd6c4d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5caf325764025859afdd6c4d&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=2&terminate=false&userId=
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]PLUTO TV MTV BIGGEST POP[/B][/COLOR][COLOR=white][/COLOR]
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]PLUTO TV MTV CLASSIC[/B][/COLOR][COLOR=white][/COLOR]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]PLUTO TV MTV CLASSIC+[/B][/COLOR][COLOR=white][/COLOR]
@@ -538,7 +523,7 @@ https://bit.ly/vevo90s?wmsAuthSign=InspirationLinks
 
 
 ######################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 20/09/2023 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]///////// LISTA REVISTA: 15/10/2023 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
