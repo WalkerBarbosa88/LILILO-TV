@@ -1,10 +1,11 @@
 ########################################################################################################################################################################
-#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=greenyellow][B]///////////  ÁREA XXX / 18+  /////////[/B][/COLOR][COLOR=greenyellow][/COLOR]
+#EXTINF:0 tvg-logo="" group-title="SOUND!",[COLOR=red][B]///////////  ÁREA XXX / 18+  /////////[/B][/COLOR][COLOR=red[/COLOR]
 http://0.0.0.0:000000
 #######################################################################################################################################################################
- 
-#EXTM3U
 
+#EXTM3U
+#EXTINF:-1,[COLOR=yellow][B]/////////  LISTA ATUALIZADA: 15/10/2023  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTM3U
 
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",ADULTS | Ama
