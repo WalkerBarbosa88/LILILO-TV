@@ -71,7 +71,7 @@ https://000000
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",NÃO DISPONÍVEL
+#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
 http://kuchini.site:8080/devtv/5af3eeb538/147274
 
 
@@ -109,5 +109,5 @@ https://000000
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",NÃO DISPONÍVEL
+#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
 http://kuchini.site:8080/devtv/5af3eeb538/286064
