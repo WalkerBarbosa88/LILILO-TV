@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 #####################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 20/09/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 15/10/2023[/B][/COLOR][COLOR=orange][/COLOR]
  
 ###########################################################################################################################################
  
@@ -44,8 +44,6 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 https://outsidetv-roku-us.amagi.tv/playlistR1080p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PAC 12 TV[/B][/COLOR][COLOR=white][/COLOR]
 https://pac12-roku-us.amagi.tv/playlistR1080p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]AAC NETWORK[/B][/COLOR][COLOR=white][/COLOR]
-https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FTF SPORTS[/B][/COLOR][COLOR=white][/COLOR]
 https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ACC SPORTS[/B][/COLOR][COLOR=white][/COLOR]
@@ -123,8 +121,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc1cb279c91420009
 
 #EXTINF:-1,[COLOR=white][B]BBC HOME HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d1wxiaxdr51kqy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-perrpizm3ap26-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1,[COLOR=white][B]HOME MADE NATION HD[/B][/COLOR][COLOR=white][/COLOR]
-https://d13c935311364708bf51b0eb4bbdb04f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_LivelyPlace/playlist.m3u8?ads.wurl_channel=285&ads.wurl_name=LivelyPlace&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=TDqNGsHpErYvv1J9s9FA&ads.plex_id=5f74cf82ffbe690040689f47&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 
 #EXTINF:-1,[COLOR=white][B]HOMES UNDER HAMMER PLUTO TV[/B][/COLOR][COLOR=white][/COLOR]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c2e9d8002db3c3e0b1c72/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -158,9 +154,6 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1,[COLOR=white][B]LOUPE TV 4K[/B][/COLOR][COLOR=white][/COLOR]
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
-#EXTINF:-1,[COLOR=white][B]ULTRA NATURE TV 4K[/B][/COLOR][COLOR=white][/COLOR]
-http://185.236.229.31:9981/play/a01d
-
 #EXTINF:-1,[COLOR=white][B]BLOOMBERG TV 4K[/B][/COLOR][COLOR=white][/COLOR]
 https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Bloomberg/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=389&ads.wurl_name=Bloomberg&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 
@@ -181,8 +174,6 @@ https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 https://2383afee096b4dc499922dcf79ba9cfa.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_FailArmy/playlist.m3u8?ads.wurl_channel=89&ads.wurl_name=FailArmy&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1,[COLOR=white][B]FAIL ARMY 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=858
-#EXTINF:-1,[COLOR=white][B]CHIVE TV[/B][/COLOR][COLOR=white][/COLOR]
-https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",[COLOR=white][B]THE PET COLLECTIVE[/B][/COLOR][COLOR=white][/COLOR]
 https://the-pet-collective-international-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",[COLOR=white][B]THE PET COLLECTIVE[/B][/COLOR][COLOR=white][/COLOR]
@@ -281,8 +272,6 @@ https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufunnyordie/CDN/master.m3u8
 #EXTINF:-1,[COLOR=white][B]JUST FOR RIRE[/B][/COLOR][COLOR=white][/COLOR]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60afa1508284e60007163c08/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fcc6e0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a8b6a6bb-4f8c-438e-a638-d4cfa72ae69a
-#EXTINF:-1,[COLOR=white][B]DRYBAR COMEDY TV[/B][/COLOR][COLOR=white][/COLOR]
-https://a.jsrdn.com/broadcast/e29bdbbbf3/+0000/c.m3u8
 #EXTINF:-1,[COLOR=white][B]JUST FOR LAUGHS[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8
 #EXTINF:-1,[COLOR=white][B]FAILARMY INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -306,10 +295,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/
 https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 tvg-id="Pattrn.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f976cdcd40f5d6678647013" group-title="Weather",[COLOR=white][B]PATTRN TV[/B][/COLOR][COLOR=white][/COLOR]
 https://linear-76.frequency.stream/dist/localnow/76/hls/master/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]WEATHER SPY[/B][/COLOR][COLOR=white][/COLOR]
-https://jukin-weatherspy-2-ca.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]WEATHER SPY EUROPA[/B][/COLOR][COLOR=white][/COLOR]
-https://jukin-weatherspy-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]METEONEWS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://streaming.meteonews.net/hls/stream.m3u8
 
@@ -446,16 +431,13 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 https://bloomberg-bloomberg-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]QUICKTAKE PT[/B][/COLOR][COLOR=white][/COLOR]
 https://bloomberg-quicktake-1-pt.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]7NN NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
-https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]DAILY AFRICA NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://rakuten-africanews-1-no.samsung.wurl.com/manifest/eeb88fab4703f2644e2ca1e8308008c8.m3u8
 #EXTINF:-1,[COLOR=white][B]BEK TV NEWS[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/chunklist_b3596000_slENG.m3u8
 #EXTINF:-1,[COLOR=white][B]DW NEWS HD ENG[/B][/COLOR][COLOR=white][/COLOR]
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1,[COLOR=white][B]FRANCE24 FR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://81.94.196.204/tsstreamer/France24_HD.ts
+
 
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  NEGÓCIOS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -468,8 +450,6 @@ https://30a-tv.com/feeds/xodglobal/30atv.m3u8
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1,[COLOR=white][B]BLOOMBERG TV USA HD[/B][/COLOR][COLOR=white][/COLOR]
 https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]REAL VISION HD[/B][/COLOR][COLOR=white][/COLOR]
-https://a.jsrdn.com/broadcast/2a755012a8/+0000/c.m3u8
 #EXTINF:-1,[COLOR=white][B]YAHOO FINANCES[/B][/COLOR][COLOR=white][/COLOR]
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]BFM TV BUSINESS[/B][/COLOR][COLOR=white][/COLOR]
