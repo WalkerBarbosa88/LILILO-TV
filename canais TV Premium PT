@@ -27,48 +27,6 @@ http://0.0.0.0:0000
 
 
 ####################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS DESPORTO M3U EM TESTES  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://00000000000
-
-#EXTM3U
-
-[COLOR=white][B]ONFM TV HD[/B][/COLOR][COLOR=white][/COLOR]
-
-
-
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224078
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224080
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1483
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://aanax.com:8080/faucontv/LX39mmLbjGCpfDnw/1486
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224082
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224084
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224086
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224088
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224090
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[[/B]/COLOR][COLOR=white][/COLOR]
-http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224093
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224095
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224097
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224099
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224101
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 6 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myserveriptv.com:2082/bestregards/9aDj23nCG84L5/224103
-
-####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS SPORT TV PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://00000000000
 
