@@ -22,8 +22,143 @@ http://0.0.0.0:0000
      Listas Várias - https://global-satinfo.in/viewforum.php?f=22&sid=14261766f220116fe35abb7ddf0e87e2
      
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 15/10/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 26/10/2023[/B][/COLOR][COLOR=orange][/COLOR]
 #EXTM3U
+
+####################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS PREMIUM PT - TESTE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://00000000000
+
+#EXTM3U
+
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",BTV 4K
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/78540
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="PORTUGAL (PT)",BTV TV FHD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/77960
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",BTV TV FHD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/78413
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",BTV TV SD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/78539
+
+
+
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="PORTUGAL (PT)",SPORT TV+ FHD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/77918
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",SPORT TV+ FHD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/78498
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",SPORT TV+ HD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/78420
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",SPORT TV 1
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/78513
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",SPORT TV 1 FHD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/78414
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="PORTUGAL (PT)",SPORT TV 1 HD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/77923
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",SPORT TV 2
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/78514
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="PORTUGAL (PT)",SPORT TV 2 HD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/77926
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",SPORT TV 2 FHD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/78415
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",SPORT TV 3
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/78515
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="PORTUGAL (PT)",SPORT TV 3 FHD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/77931
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",SPORT TV 3 HD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/78416
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",SPORT TV 4
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/78516
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",SPORT TV 4 FHD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/78418
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="PORTUGAL (PT)",SPORT TV 4 HD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/77935
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",SPORT TV 5
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/78517
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="PORTUGAL (PT)",SPORT TV 5 FHD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/77937
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",SPORT TV 5 HD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/78419
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",SPORT TV 6 FHD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/78504
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",SPORT TV 6 HD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/77940
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",ELEVEN SPORTS 1 FHD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/77941
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",ELEVEN SPORTS 1 HD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/78421
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",ELEVEN SPORTS 1 SD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/78518
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",ELEVEN SPORTS 2 FHD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/78423
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",ELEVEN SPORTS 2 HD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/78422
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",ELEVEN SPORTS 2 SD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/78519
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",ELEVEN SPORTS 3 FHD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/77947
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",ELEVEN SPORTS 3 HD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/77948
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",ELEVEN SPORTS 3 HD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/78425
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",ELEVEN SPORTS 3 SD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/78520
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",ELEVEN SPORTS 4
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/78427
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",ELEVEN SPORTS 4 HD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/77951
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",ELEVEN SPORTS 5
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/78428
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",ELEVEN SPORTS 5 FHD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/77953
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",ELEVEN SPORTS 5 HD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/77954
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",ELEVEN SPORTS 6
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/78429
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",ELEVEN SPORTS 6 FHD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/77956
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",ELEVEN SPORTS 6 HD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/77957
+
+
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",PT: NOS STUDIOS FHD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/77980
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",PT1: NOS STUDIOS HD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/78482
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",PT: TVCINE ACTION
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/77992
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",PT: TVCINE ACTION HD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/77991
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",PT1: TVCINE ACTION HD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/78469
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",PT1: TVCINE ACTION SD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/78528
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",PT: TVCINE EDITION
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/77986
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",PT: TVCINE EDITION HD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/77985
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",PT1: TVCINE EDITION HD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/78467
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",PT1: TVCINE EDITION SD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/78526
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",PT: TVCINE EMOTION
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/77989
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",PT: TVCINE EMOTION FHD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/77987
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",PT1: TVCine EMOTION HD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/78468
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",PT1: TVCINE EMOTION SD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/78527
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",PT: TVCINE TOP FHD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/77981
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",PT: TVCINE TOP HD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/77982
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",PT1: TVCINE TOP HD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/78466
+#EXTINF:0 tvg-id="ext" group-title="PORTUGAL (PT)",PT1: TVCINE TOP SD
+http://ucsxiptv.com:8080/rodneykiQBQs6I7Q/qHOGh1iSgox12BQs6I72/78525
 
 
 ####################################################################################################################################
