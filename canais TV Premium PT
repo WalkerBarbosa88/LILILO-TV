@@ -47,8 +47,32 @@ https://000000
 
 #EXTM3U
 
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP INTER. AMÉRICA HD[/B][/COLOR][COLOR=white][/COLOR]
+http://162.212.178.69:41042/bysid/608
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV HD PERU[/B][/COLOR][COLOR=white][/COLOR]
+http://167.114.156.136:25461/INFINITV/ZX89NM22/208
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV HD PERU[/B][/COLOR][COLOR=white][/COLOR]
+http://45.71.252.16:8000/play/a0hn/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV HD PERU[/B][/COLOR][COLOR=white][/COLOR]
+http://191.97.58.41:8001/play/a008
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SILK SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+https://tbs01-edge11.itdc.ge/silksport1/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SILK SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+https://tbs01-edge11.itdc.ge/silksport2/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SILK SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+https://tbs01-edge11.itdc.ge/silksport3/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/19059/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://89.38.96.234:14525/
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPOR TV 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://51.83.238.223:16437/
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPOR TV 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://51.83.238.223:16457/
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPOR TV 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://185.150.190.225:16476/
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 1 HD PL[/B][/COLOR][COLOR=white][/COLOR]
 http://ua3.iptv.monster/play/1904/350B326FB34F4B8/video.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 HD PL[/B][/COLOR][COLOR=white][/COLOR]
@@ -67,8 +91,14 @@ http://80.252.37.194:5000/udp/233.233.233.7:12000
 http://80.252.37.194:5000/udp/233.233.233.8:12000
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MATH RUSSIA HD[/B][/COLOR][COLOR=white][/COLOR]
 https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MATH RUSSIA HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MATH RUSSIA 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://bl.uma.media/live/394904/HLS/1_5/1/1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MATH RUSSIA 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://uiptv.do.am/1ufc/000000003/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MATH RUSSIA 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MATH RUSSIA 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 
 ##################################  BENFICA TV   ###########################################################################
 
