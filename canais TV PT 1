@@ -11,7 +11,7 @@ http://0.0.0.0:0000
 https://tvgratuita10.blogspot.com/?fbclid=IwAR1hjt2fxRsjhUBFg6lhEEU1cbj3xHkyZ65tIOyWhApFByPIvawYYeSmHmo
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 26/10/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 29/10/2023[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
@@ -71,8 +71,30 @@ https://000000
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR=white][B]DEMAND ÁFRICA FHD[/B][/COLOR][COLOR=white][/COLOR]
-https://demandafrica-oando.amagi.tv/amRdirect/p=da/hls/amagi_hls_data_theafrica-demand-africa-oando/CDN/1920x1080_5055600/index.m3u8
+#EXTINF:-1,[COLOR=white][B]BLACK ÁFRICA HD[/B][/COLOR][COLOR=white][/COLOR]
+http://livevideo.vedge.infomaniak.com/livecast/ik:bblackafrica/manifest.m3u8
+#EXTINF:-1,[COLOR=white][B]CNBC ÁFRICA HD[/B][/COLOR][COLOR=white][/COLOR]
+https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]KKTV ANGOLA HD[/B][/COLOR][COLOR=white][/COLOR]
+https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]AFROBIT HD[/B][/COLOR][COLOR=white][/COLOR]
+http://connectiktv.ddns.me:8080/live/61f2632aa8934-1/index.m3u8
+#EXTINF:-1,[COLOR=white][B]PLAY TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]SUN+ TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://sunplustv.mboahost.biz:8181/live/chainesuntv/index.m3u8
+#EXTINF:-1,[COLOR=white][B]VIBE MUSIC TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://connectiktv.ddns.me:8080/live/62455ef0ac47a/index.m3u8
+#EXTINF:-1,[COLOR=white][B]TBN ÁFRICA HD[/B][/COLOR][COLOR=white][/COLOR]
+https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/cc850928-d0d8-4336-84d0-999581129465.m3u8
+#EXTINF:-1,[COLOR=white][B]DIGITAL CONGO HD[/B][/COLOR][COLOR=white][/COLOR]
+https://tv2.isi-broadcast.tech/ISI-BROADCAST/DIGITAL-TV/index.m3u8
+#EXTINF:-1,[COLOR=white][B]KING TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://tv1.isi-broadcast.tech/KING_TV/index.m3u8
+#EXTINF:-1,[COLOR=white][B]AFRIKINFO TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://cageu.bozztv.com/ssh101/ssh101/my23a2r/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]TVM SD[/B][/COLOR][COLOR=white][/COLOR]
+http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]TVM SD[/B][/COLOR][COLOR=white][/COLOR]
 http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]TVM INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -92,6 +114,22 @@ https://000000
 #EXTM3U
 
 
+#EXTINF:-1,[COLOR=white][B]ALPHA CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
+https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]AMAZON SAT FHD[/B][/COLOR][COLOR=white][/COLOR]
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1,[COLOR=white][B]MASTER SHOW TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]NOVA ERA TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+#EXTINF:-1,[COLOR=white][B]RECORD TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1,[COLOR=white][B]REDE TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]SBT INTERIOR HD[/B][/COLOR][COLOR=white][/COLOR]
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]TV RIO PRETO HD[/B][/COLOR][COLOR=white][/COLOR]
+https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]ALL SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]CANAL DOS RICOS HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -135,6 +173,13 @@ https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/2172b02e9431e5c79bc717e0
 https://streamer-b02.videos.sapo.pt/live/santuario/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PORTO CANAL HD[/B][/COLOR][COLOR=white][/COLOR]
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/PortoCanal.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CANAL PARLAMENTO HD[/B][/COLOR][COLOR=white][/COLOR]
+https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RAKUTEN DOCUMENTÁRIOS[/B][/COLOR][COLOR=white][/COLOR]
+https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RAKUTEN FAMÍLIA[/B][/COLOR][COLOR=white][/COLOR]
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
+
 
 ##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS TV PORTUGAL 2  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
