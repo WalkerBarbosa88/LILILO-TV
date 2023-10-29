@@ -57,6 +57,8 @@ https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]KURIAKOS TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]KURIAKOS MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
+http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]SIC NOVELAS TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
 #EXTINF:-1,[COLOR=white][B]ENGLISH CLUB TV HD[/B][/COLOR][COLOR=white][/COLOR]
