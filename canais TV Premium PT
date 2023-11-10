@@ -22,7 +22,7 @@ http://0.0.0.0:0000
      Listas Várias - https://global-satinfo.in/viewforum.php?f=22&sid=14261766f220116fe35abb7ddf0e87e2
      
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 29/10/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 10/11/2023[/B][/COLOR][COLOR=orange][/COLOR]
 #EXTM3U
 
 ####################################################################################################################################
@@ -39,6 +39,16 @@ http://213.13.16.138/shls/LIVE%24SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=L
 http://213.13.16.138/shls/LIVE%24SPORTTV3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24SPORTTV6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT* SPORT TV 5 HD
+http://jabawalkies.club:8080/Cardcoderdirects/8KxJM8bYtp/59490
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT* SPORT TV 4 HD
+http://jabawalkies.club:8080/Cardcoderdirects/8KxJM8bYtp/59491
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT* SPORT TV 3 HD
+http://jabawalkies.club:8080/Cardcoderdirects/8KxJM8bYtp/59492
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT* SPORT TV 2 HD
+http://jabawalkies.club:8080/Cardcoderdirects/8KxJM8bYtp/59493
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT* SPORT TV 01 HD
+http://jabawalkies.club:8080/Cardcoderdirects/8KxJM8bYtp/59494
 
 #EXTM3U
 ####################################################################################################################################
@@ -67,8 +77,7 @@ https://tbs01-edge11.itdc.ge/silksport3/tracks-v1a1/mono.m3u8
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/19059/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://89.38.96.234:14525/
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPOR TV 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://51.83.238.223:16437/
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPOR TV 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://51.83.238.223:16457/
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPOR TV 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -122,8 +131,6 @@ https://000000
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138421
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2531/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2531/index.m3u8
@@ -141,6 +148,16 @@ http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2535/index.m3u8
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2536/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT* Eleven Sports 1 HD
+http://jabawalkies.club:8080/Cardcoderdirects/8KxJM8bYtp/58804
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT* Eleven Sports 2 HD
+http://jabawalkies.club:8080/Cardcoderdirects/8KxJM8bYtp/58806
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT* Eleven Sports 3 HD
+http://jabawalkies.club:8080/Cardcoderdirects/8KxJM8bYtp/58808
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT* Eleven Sports 4 HD
+http://jabawalkies.club:8080/Cardcoderdirects/8KxJM8bYtp/58810
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT* Eleven Sports 5 HD
+http://jabawalkies.club:8080/Cardcoderdirects/8KxJM8bYtp/58812
 
 #EXTM3U
 
