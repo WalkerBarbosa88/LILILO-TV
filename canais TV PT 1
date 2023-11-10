@@ -11,7 +11,7 @@ http://0.0.0.0:0000
 https://tvgratuita10.blogspot.com/?fbclid=IwAR1hjt2fxRsjhUBFg6lhEEU1cbj3xHkyZ65tIOyWhApFByPIvawYYeSmHmo
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 29/10/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 10/11/2023[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
@@ -32,18 +32,12 @@ https://streamer-a03.videos.sapo.pt/live/famatv/chunklist_w1729802407.m3u8
 https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
 #EXTINF:-1,[COLOR=white][B]TV BRICS PT HD[/B][/COLOR][COLOR=white][/COLOR]
 http://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Undefined",[COLOR=white][B]EURONEWS PT[/B][/COLOR][COLOR=white][/COLOR]
-https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Undefined",[COLOR=white][B]REUTERS TV[/B][/COLOR][COLOR=white][/COLOR]
-https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="NASATV.us" group-title="Science",[COLOR=white][B]NASA TV[/B][/COLOR][COLOR=white][/COLOR] 
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1,[COLOR=white][B]DRONE TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]ENGLISH CLUB TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://iptv.prosto.tv:7000/ch206/video.m3u8
-#EXTINF:0 tvg-id="NASATV.us" group-title="Science",[COLOR=white][B]AFRICANEWS TV[/B][/COLOR][COLOR=white][/COLOR] 
-https://rakuten-africanews-1-pt.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]GALÍCIA TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]CNN INTERNACIONAL HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -103,8 +97,7 @@ http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_b714000_slpor.m3u8
 http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/chunklist_w1683699584.m3u8
 #EXTINF:-1,[COLOR=white][B]TVI ÁFRICA HD[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]AFRICANEWS ENG HD[/B][/COLOR][COLOR=white][/COLOR]
-https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
+
 
 
 ##########################################################################################################################################
@@ -167,8 +160,7 @@ https://bit.ly/3gejKxf?720p/playlist.m3u8
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CNN PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
 https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]EURONEWS HD[/B][/COLOR][COLOR=white][/COLOR]
-https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/2172b02e9431e5c79bc717e0cc555b4d.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SANTUÁRIO DE FÁTIMA HD[/B][/COLOR][COLOR=white][/COLOR]
 https://streamer-b02.videos.sapo.pt/live/santuario/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PORTO CANAL HD[/B][/COLOR][COLOR=white][/COLOR]
