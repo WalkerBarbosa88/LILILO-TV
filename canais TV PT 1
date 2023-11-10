@@ -57,6 +57,8 @@ http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
 https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
 #EXTINF:-1,[COLOR=white][B]ENGLISH CLUB TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://iptv.prosto.tv:7000/ch206/video.m3u8
+#EXTINF:-1,[COLOR=white][B]EURONEWS TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://rakuten-euronews-8-pt.samsung.wurl.tv/manifest/playlist.m3u8
 
 ##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS EXPRESSÃO PT ÁFRICA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
