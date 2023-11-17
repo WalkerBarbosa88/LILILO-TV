@@ -5,6 +5,7 @@ http://0.0.0.0:000000
  
 FONTE DE INFORMAÇÃO: https://www.webcamgalore.com/Beaches/themecam.html
                      https://www.webcamtaxi.com/en/portugal.html
+                     https://www.webcamtaxi.com/en/portugal.html
 #EXTM3U
 
 
@@ -16,6 +17,12 @@ https://000000
 https://0000000000000000000000
 
 #EXTM3U
+
+#EXTINF:-1,[COLOR=white][B]MADEIRA - PRAIA FORMOSA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=M7YZttymLKI
+
+#EXTINF:-1,[COLOR=white][B]MADEIRA - PRAIA DOS REIS MAGOS[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=390TSjCuRNU
 
 #EXTINF:-1,[COLOR=white][B]MADEIRA - PORTO MONIZ[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=qUB8_lgA_54
