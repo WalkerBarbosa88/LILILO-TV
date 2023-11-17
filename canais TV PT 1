@@ -36,8 +36,6 @@ http://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/index.m3u8
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1,[COLOR=white][B]DRONE TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]ENGLISH CLUB TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://iptv.prosto.tv:7000/ch206/video.m3u8
 #EXTINF:-1,[COLOR=white][B]GALÍCIA TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]CNN INTERNACIONAL HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -45,20 +43,17 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]CNN PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
 https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
 
+#EXTINF:-1,[COLOR=white][B]KURIAKOS TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]KURIAKOS CINE HD[/B][/COLOR][COLOR=white][/COLOR]
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]KURIAKOS KIDS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]KURIAKOS TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]KURIAKOS MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
 http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]SIC NOVELAS TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
 #EXTINF:-1,[COLOR=white][B]ENGLISH CLUB TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://iptv.prosto.tv:7000/ch206/video.m3u8
-#EXTINF:-1,[COLOR=white][B]EURONEWS TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://rakuten-euronews-8-pt.samsung.wurl.tv/manifest/playlist.m3u8
+
 
 ##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS EXPRESSÃO PT ÁFRICA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -193,6 +188,8 @@ https://streamer-b02.videos.sapo.pt/live/santuario/chunklist.m3u8
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/PortoCanal.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CANAL PARLAMENTO HD[/B][/COLOR][COLOR=white][/COLOR]
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]EURONEWS PT TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://rakuten-euronews-8-pt.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RAKUTEN DOCUMENTÁRIOS[/B][/COLOR][COLOR=white][/COLOR]
 https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RAKUTEN FAMÍLIA[/B][/COLOR][COLOR=white][/COLOR]
