@@ -8,7 +8,7 @@ FONTE DE INFORMAÇÃO: https://www.webcamgalore.com/Beaches/themecam.html
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 15/10/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 17/11/2023[/B][/COLOR][COLOR=orange][/COLOR]
 https://000000
 
 #EXTM3U
@@ -16,13 +16,6 @@ https://000000
 https://0000000000000000000000
 
 #EXTM3U
-
-
-#EXTINF:-1,[COLOR=white][B]PRAIA DA SEREIA[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=gkj0kdQfTGY
-
-#EXTINF:-1,[COLOR=white][B]MADEIRA - PENHA DE FRANÇA MAR[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=P1l36JZ_71Y
 
 #EXTINF:-1,[COLOR=white][B]MADEIRA - PORTO MONIZ[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=qUB8_lgA_54
@@ -33,8 +26,7 @@ plugin://plugin.video.youtube/play/?video_id=4J1YwwaZx4I
 #EXTINF:-1,[COLOR=white][B]MADEIRA - PRAIA DA PONTA GORDA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=MgMWOQIgIBY
 
-#EXTINF:-1,[COLOR=white][B]PRAIA DA CAPARICA, SANTO ANTÓNIO[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=1w2_rhfA-SQ
+
 
 
 
@@ -82,9 +74,7 @@ https://video-auth1.iol.pt/beachcam/esmoriz/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/espinho/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]RIA AVEIRO, MURTOSA[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/murtosa/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]PRAIA DA BARRA (OFFLINE)[/B][/COLOR][COLOR=white][/COLOR]
-https://video-auth1.iol.pt/beachcam/aveiro/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]PRAIA DA BARRA (OFFLINE)[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]PRAIA DA BARRA FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/aveiro/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]PRAIA DA COSTA NOVA[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth1.iol.pt/beachcam/costanova/playlist.m3u8
