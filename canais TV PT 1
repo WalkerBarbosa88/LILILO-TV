@@ -11,7 +11,7 @@ http://0.0.0.0:0000
 https://tvgratuita10.blogspot.com/?fbclid=IwAR1hjt2fxRsjhUBFg6lhEEU1cbj3xHkyZ65tIOyWhApFByPIvawYYeSmHmo
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 10/11/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 17/11/2023[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
@@ -77,8 +77,6 @@ https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
 http://connectiktv.ddns.me:8080/live/61f2632aa8934-1/index.m3u8
 #EXTINF:-1,[COLOR=white][B]PLAY TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]SUN+ TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://sunplustv.mboahost.biz:8181/live/chainesuntv/index.m3u8
 #EXTINF:-1,[COLOR=white][B]VIBE MUSIC TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://connectiktv.ddns.me:8080/live/62455ef0ac47a/index.m3u8
 #EXTINF:-1,[COLOR=white][B]TBN ÁFRICA HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -131,8 +129,6 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]CBTV INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
-#EXTINF:-1,[COLOR=white][B]COM BRASIL FHD[/B][/COLOR][COLOR=white][/COLOR]
-https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]CONEXÃO TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]TV ALDEIA TV HD[/B][/COLOR][COLOR=white][/COLOR]
