@@ -143,6 +143,44 @@ http://210.210.155.37/qwr9ew/s/s38/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
 http://162.212.178.69:41042/bysid/608
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/inspiration.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP MEMÓRIA HD[/B][/COLOR][COLOR=white][/COLOR]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-live.rtp.pt/liverepeater/smil:estudoemcasa.smil/inspiration.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP AÇORES HD[/B][/COLOR][COLOR=white][/COLOR]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/inspiration.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP MADEIRA HD[/B][/COLOR][COLOR=white][/COLOR]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil//inspiration.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP ÁFRICA HD[/B][/COLOR][COLOR=white][/COLOR]
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/inspiration.m3u8
+
+
+
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_5.m3u8
