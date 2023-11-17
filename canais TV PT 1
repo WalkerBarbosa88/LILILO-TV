@@ -102,6 +102,30 @@ https://000000
 #EXTM3U
 
 
+#EXTINF:-1,[COLOR=white][B]RECORD NEWS TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://bit.ly/3HVorus?/master_720.m3u8
+#EXTINF:-1,[COLOR=white][B]RECORD TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://bit.ly/477RVzv?/playlist_1920x1080.m3u8
+#EXTINF:-1,[COLOR=white][B]GLOBO TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://bit.ly/3QUKxBT?/playlist_1920x1080.m3u8
+
+#EXTINF:-1,[COLOR=white][B]GLOBO NEWS TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://bit.ly/465XM7r?/playlist_1920x1080.m3u8
+#EXTINF:-1,[COLOR=white][B]BAND NEWS TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://cdn2.connectbr.com.br/Band-News/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1,[COLOR=white][B]RECORD TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1,[COLOR=white][B]REDE TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]SBT INTERIOR HD[/B][/COLOR][COLOR=white][/COLOR]
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]ALL SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]CANAL DOS RICOS HD[/B][/COLOR][COLOR=white][/COLOR]
+https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
+
 #EXTINF:-1,[COLOR=white][B]ALPHA CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
 https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]AMAZON SAT FHD[/B][/COLOR][COLOR=white][/COLOR]
@@ -110,18 +134,10 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]NOVA ERA TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
-#EXTINF:-1,[COLOR=white][B]RECORD TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1,[COLOR=white][B]REDE TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]SBT INTERIOR HD[/B][/COLOR][COLOR=white][/COLOR]
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+
 #EXTINF:-1,[COLOR=white][B]TV RIO PRETO HD[/B][/COLOR][COLOR=white][/COLOR]
 https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]ALL SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]CANAL DOS RICOS HD[/B][/COLOR][COLOR=white][/COLOR]
-https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
+
 #EXTINF:-1,[COLOR=white][B]CBTV INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
 #EXTINF:-1,[COLOR=white][B]CONEXÃO TV HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -142,45 +158,6 @@ http://162.212.178.69:41042/bysid/608
 http://210.210.155.37/qwr9ew/s/s38/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
 http://162.212.178.69:41042/bysid/608
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Firefox
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Firefox
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Firefox
-https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/inspiration.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP MEMÓRIA HD[/B][/COLOR][COLOR=white][/COLOR]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Firefox
-https://streaming-live.rtp.pt/liverepeater/smil:estudoemcasa.smil/inspiration.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP AÇORES HD[/B][/COLOR][COLOR=white][/COLOR]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Firefox
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/inspiration.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP MADEIRA HD[/B][/COLOR][COLOR=white][/COLOR]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Firefox
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil//inspiration.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP ÁFRICA HD[/B][/COLOR][COLOR=white][/COLOR]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Firefox
-https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/inspiration.m3u8
-
-
-
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_5.m3u8
