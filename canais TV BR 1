@@ -3,7 +3,7 @@
 http://0.0.0.0:0000
 ############################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 15/10/2023[/B][/COLOR][COLOR=orange][/COLOR] 
+#EXTINF:-1,[COLOR=orange][B]LISTAS REVISTAS: 17/11/2023[/B][/COLOR][COLOR=orange][/COLOR] 
 
 Fonte de Informação: 
 
@@ -53,8 +53,6 @@ https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w1929320206.m3u8
 #EXTINF:-1,[COLOR=white][B]MEGA TV[/B][/COLOR][COLOR=white][/COLOR]
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_3c6bb4af-e4a4-4b08-8a3a-ed84410dc81e.m3u8
 
-
-
 ##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DESPORTIVOS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
@@ -63,6 +61,19 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]ALL SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
 http://5cf4a2c2512a2.streamlock.net:1935/dgrau/dgrau/playlist.m3u8
+
+
+#EXTINF:-1,[COLOR=white][B]ESPN EXTRA HD[/B][/COLOR][COLOR=white][/COLOR]
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31147
+#EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://51.83.238.223:16515/
+#EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31139
+#EXTINF:-1,[COLOR=white][B]ESPN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31142
+
+#EXTINF:-1,[COLOR=white][B]BAND SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16698
 
 ##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DISCOVERY & CASAS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -84,9 +95,10 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]TRACE URBAN FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8 
-#EXTINF:-1,[COLOR=white][B]TRACE URBAN HD[/B][/COLOR][COLOR=white][/COLOR]
-https://lightning-traceurban-samsungau.amagi.tv/playlist480p.m3u8
-
+#EXTINF:-1,[COLOR=white][B]TRACE URBAN FHD[/B][/COLOR][COLOR=white][/COLOR]
+https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1,[COLOR=white][B]TRACE LATINA FHD[/B][/COLOR][COLOR=white][/COLOR]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
 
 ##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS URBAN TV  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -94,10 +106,8 @@ https://000000
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=white][B]URBAN TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://stream.urbantv.com.br/urbantv/tracks-v1a1/mono.m3u8?ROGERIOTORRES
-#EXTINF:-1,[COLOR=white][B]URBAN SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
-https://stream.urbantv.com.br/urbantvsports/video.m3u8?ROGERIOTORRES
+#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
+https://0000000111111111111
 
 
 
