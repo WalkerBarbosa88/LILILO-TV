@@ -280,21 +280,37 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]ACCUWEATHER TV[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]ACCUWEATHER TV[/B][/COLOR][COLOR=white][/COLOR]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]METEO TV[/B][/COLOR][COLOR=white][/COLOR]
+https://ythls.armelin.one/channel/UCme7pPv6AZoSMsFbSYK0esg.m3u8
+#EXTINF:-1,[COLOR=white][B]WEATHER NATION TV[/B][/COLOR][COLOR=white][/COLOR]
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bdce04659ee03633e758130&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=217&terminate=false&userId=
+#EXTINF:-1,[COLOR=white][B]WEATHER NEWS TV[/B][/COLOR][COLOR=white][/COLOR]
+https://ythls.armelin.one/channel/UCNsidkYpIAQ4QaufptQBPHQ.m3u8
 #EXTINF:-1,[COLOR=white][B]FOX WEATHER[/B][/COLOR][COLOR=white][/COLOR]
 https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 tvg-id="Pattrn.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f976cdcd40f5d6678647013" group-title="Weather",[COLOR=white][B]PATTRN TV[/B][/COLOR][COLOR=white][/COLOR]
 https://linear-76.frequency.stream/dist/localnow/76/hls/master/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]METEONEWS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://streaming.meteonews.net/hls/stream.m3u8
-
  
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  MODA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 
+
+#EXTINF:-1,[COLOR=white][B]FASHION TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]FASHION SHOW TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://live-3.otcnet.ru/wfcenmulti/index.m3u8
+#EXTINF:-1,[COLOR=white][B]CODE FASHION TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://cdn3.invivo.bg/Codefashion_5500/index.m3u8
 #EXTINF:-1,[COLOR=white][B]FASHION TEEN[/B][/COLOR][COLOR=white][/COLOR]
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1,[COLOR=white][B]VOGUE TV[/B][/COLOR][COLOR=white][/COLOR]
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]VOGUE TV[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]CODE FASHION HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -363,6 +379,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59c01b195
 https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]TRAVEL XP HD[/B][/COLOR][COLOR=white][/COLOR]
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
+#EXTINF:-1,[COLOR=white][B]TRAVEL HD[/B][/COLOR][COLOR=white][/COLOR]
+https://i.mjh.nz/PlutoTV/59c01b1953680139c6ae9d4d-alt.m3u8
+#EXTINF:-1,[COLOR=white][B]JAMAICA TRAVEL CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
+https://bit.ly/3MEeIe4?/playlist720.m3u8
+#EXTINF:-1,[COLOR=white][B]GO TRAVELER HD[/B][/COLOR][COLOR=white][/COLOR]
+https://bit.ly/GoTraveler?/playlist720_p.m3u8
+
 
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CINEMA & SÉRIES DE TV  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -390,6 +413,18 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0
 https://000000
 
 
+#EXTINF:-1,[COLOR=white][B]FRANCE 24 HD[/B][/COLOR][COLOR=white][/COLOR]
+https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_092/HD/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]SKY NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
+https://i.mjh.nz/PlutoTV/55b285cd2665de274553d66f-alt.m3u8
+#EXTINF:-1,[COLOR=white][B]CBS NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1,[COLOR=white][B]ABS NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1,[COLOR=white][B]AFRICANEWS HD[/B][/COLOR][COLOR=white][/COLOR]
+https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]I24 NEWS ENG[/B][/COLOR][COLOR=white][/COLOR]
+https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8
 #EXTINF:-1,[COLOR=white][B]CNA INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1,[COLOR=white][B]JOVEM PAN NEWS BR.[/B][/COLOR][COLOR=white][/COLOR]
@@ -447,4 +482,10 @@ https://d3cajslujfq92p.cloudfront.net/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/master.m3u8
 #EXTINF:-1,[COLOR=white][B]CHEF CHAMPION TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://rpn1.bozztv.com/36bay2/gusa-chefchampion/mono.m3u8
+#EXTINF:-1,[COLOR=white][B]TV COCINA HD[/B][/COLOR][COLOR=white][/COLOR]
+https://bit.ly/tvcocinaPluto?/master1080p.m3u8
+#EXTINF:-1,[COLOR=white][B]TASTE IT TV[/B][/COLOR][COLOR=white][/COLOR]
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
+
+
  
