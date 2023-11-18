@@ -22,7 +22,7 @@ http://0.0.0.0:0000
      Listas Várias - https://global-satinfo.in/viewforum.php?f=22&sid=14261766f220116fe35abb7ddf0e87e2
      
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 10/11/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 18/11/2023[/B][/COLOR][COLOR=orange][/COLOR]
 #EXTM3U
 
 ####################################################################################################################################
@@ -39,16 +39,7 @@ http://213.13.16.138/shls/LIVE%24SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=L
 http://213.13.16.138/shls/LIVE%24SPORTTV3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24SPORTTV6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT* SPORT TV 5 HD
-http://jabawalkies.club:8080/Cardcoderdirects/8KxJM8bYtp/59490
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT* SPORT TV 4 HD
-http://jabawalkies.club:8080/Cardcoderdirects/8KxJM8bYtp/59491
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT* SPORT TV 3 HD
-http://jabawalkies.club:8080/Cardcoderdirects/8KxJM8bYtp/59492
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT* SPORT TV 2 HD
-http://jabawalkies.club:8080/Cardcoderdirects/8KxJM8bYtp/59493
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT* SPORT TV 01 HD
-http://jabawalkies.club:8080/Cardcoderdirects/8KxJM8bYtp/59494
+
 
 #EXTM3U
 ####################################################################################################################################
@@ -148,16 +139,6 @@ http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2535/index.m3u8
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2536/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT* Eleven Sports 1 HD
-http://jabawalkies.club:8080/Cardcoderdirects/8KxJM8bYtp/58804
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT* Eleven Sports 2 HD
-http://jabawalkies.club:8080/Cardcoderdirects/8KxJM8bYtp/58806
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT* Eleven Sports 3 HD
-http://jabawalkies.club:8080/Cardcoderdirects/8KxJM8bYtp/58808
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT* Eleven Sports 4 HD
-http://jabawalkies.club:8080/Cardcoderdirects/8KxJM8bYtp/58810
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT* Eleven Sports 5 HD
-http://jabawalkies.club:8080/Cardcoderdirects/8KxJM8bYtp/58812
 
 #EXTM3U
 
