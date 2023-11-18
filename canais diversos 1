@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 #####################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 15/10/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 18/11/2023[/B][/COLOR][COLOR=orange][/COLOR]
  
 ###########################################################################################################################################
  
@@ -46,12 +46,6 @@ https://outsidetv-roku-us.amagi.tv/playlistR1080p.m3u8
 https://pac12-roku-us.amagi.tv/playlistR1080p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FTF SPORTS[/B][/COLOR][COLOR=white][/COLOR]
 https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ACC SPORTS[/B][/COLOR][COLOR=white][/COLOR]
-https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
-#EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]STADIUM HD[/B][/COLOR][COLOR=white][/COLOR]
-https://stadium.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]MORE THAN SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
-https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]HARD KNOCKS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
 #EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]PGA TOUR HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -62,7 +56,7 @@ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
 #EXTINF:-1,[COLOR=white][B]BET TV SPORTS[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/chunklist_b3596000_slENG.m3u8
-#EXTINF:-1,[COLOR=white][B]LAX SPORTS NETWORK[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]LACROSS TV[/B][/COLOR][COLOR=white][/COLOR]
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE_v4.m3u8
 #EXTINF:-1,[COLOR=white][B]MORE THAN SPORTS DE[/B][/COLOR][COLOR=white][/COLOR]
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
@@ -144,9 +138,6 @@ https://jukin-homefamilyhandyman-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=yellow][B]/////////  ESPECIAL CANAIS 4K  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
-
-#EXTINF:-1,[COLOR=white][B]CLARITY 4K[/B][/COLOR][COLOR=white][/COLOR]
-https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1,[COLOR=white][B]LOVE NATURE 4K[/B][/COLOR][COLOR=white][/COLOR]
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -241,8 +232,6 @@ plugin://plugin.video.youtube/play/?video_id=86YLFOog4GM
 https://000000
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]HIPER TV[/B][/COLOR][COLOR=white][/COLOR]
-https://inliveserver.com:1936/11010/11010/playlist.m3u8?PlaylistM3UCL
 #EXTINF: -1,[COLOR=white][B]TMZ[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
 #EXTINF:155,[COLOR=white][B]GLAMOUR TV[/B][/COLOR][COLOR=white][/COLOR]
@@ -308,10 +297,6 @@ https://000000
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,[COLOR=white][B]VOGUE TV[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]FASHION TV UK[/B][/COLOR][COLOR=white][/COLOR]
-https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]FASHION & LIFESTYLE[/B][/COLOR][COLOR=white][/COLOR]
-http://193.33.240.8:8080/fashion_one_hd/index.m3u8
 #EXTINF:-1,[COLOR=white][B]CODE FASHION HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn3.invivo.bg/Codefashion_5500/index.m3u8
 
@@ -354,8 +339,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b3a4249444e05d
 https://d3mpi5qa5otpo5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i0am1w3cs6gml-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1,[COLOR=white][B]MOTORVISION HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_motorvisiontv_001.m3u8?ads.caid=MotorvisionTV&ads.csid=samsungtvplus_us_motorvisiontv_ssai&ads.os=Tizen&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=266&ads.xumo_contentName=Motorvision&ads.xumo_providerId=266&ads.xumo_providerName=Motorvision&ads.xumo_channelId=9999510&ads.xumo_imdb_genre=Action&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
-#EXTINF:-1,[COLOR=white][B]RIDE OR DRIVE HD[/B][/COLOR][COLOR=white][/COLOR]
-https://dizbp2a9dfz47.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-22elw950yr3vp-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1,[COLOR=white][B]MOTOR RACING HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d2hnz12weo628w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AFV2-prod/samsung.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1,[COLOR=white][B]PLUTO TV CUSTOM GARAGE[/B][/COLOR][COLOR=white][/COLOR]
@@ -386,8 +369,6 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 https://000000
 
 
-#EXTINF:-1,[COLOR=white][B]ION PLUS HD[/B][/COLOR][COLOR=white][/COLOR]
-https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]LONE STAR TV[/B][/COLOR][COLOR=white][/COLOR]
 https://lonestar-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]GRAVITAS MOVIES[/B][/COLOR][COLOR=white][/COLOR]
@@ -417,14 +398,8 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 #EXTINF:-1,[COLOR=white][B]DW NEWS FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]EURONEWS PT[/B][/COLOR][COLOR=white][/COLOR]
-https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]EURONEWS ENG[/B][/COLOR][COLOR=white][/COLOR]
 https://rakuten-euronews-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]AFRICA NEWS EN.[/B][/COLOR][COLOR=white][/COLOR]
-https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]REUTERS TV[/B][/COLOR][COLOR=white][/COLOR]
-https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]FOX NEWS NOW[/B][/COLOR][COLOR=white][/COLOR]
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]NBC NEWS NOW[/B][/COLOR][COLOR=white][/COLOR]
@@ -433,12 +408,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8
 https://dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8
 #EXTINF:-1,[COLOR=white][B]CBS NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1,[COLOR=white][B]BLOOMBERG TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://bloomberg-bloomberg-1-pt.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]QUICKTAKE PT[/B][/COLOR][COLOR=white][/COLOR]
-https://bloomberg-quicktake-1-pt.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]DAILY AFRICA NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
-https://rakuten-africanews-1-no.samsung.wurl.com/manifest/eeb88fab4703f2644e2ca1e8308008c8.m3u8
 #EXTINF:-1,[COLOR=white][B]BEK TV NEWS[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/chunklist_b3596000_slENG.m3u8
 #EXTINF:-1,[COLOR=white][B]DW NEWS HD ENG[/B][/COLOR][COLOR=white][/COLOR]
@@ -454,8 +423,6 @@ https://000000
 https://30a-tv.com/feeds/xodglobal/30atv.m3u8
 #EXTINF:-1,[COLOR=white][B]BLOOMBERG TV EUROPE HD[/B][/COLOR][COLOR=white][/COLOR]
 https://bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1,[COLOR=white][B]BLOOMBERG TV USA HD[/B][/COLOR][COLOR=white][/COLOR]
-https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]YAHOO FINANCES[/B][/COLOR][COLOR=white][/COLOR]
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]BFM TV BUSINESS[/B][/COLOR][COLOR=white][/COLOR]
