@@ -179,6 +179,11 @@ https://0000000
 
 #EXTM3U
 
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NOS STUDIOS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvmedia.live:8080/streamnet/a8b92bb196/1454
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE+ HD[/B][/COLOR][COLOR=white][/COLOR]
+http://iptvmedia.live:8080/streamnet/a8b92bb196/278686
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE ACTION HD[/B][/COLOR][COLOR=white][/COLOR]
 http://iptvmedia.live:8080/streamnet/a8b92bb196/1452
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EDITION HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -187,9 +192,3 @@ http://iptvmedia.live:8080/streamnet/a8b92bb196/82254
 http://iptvmedia.live:8080/streamnet/a8b92bb196/1448
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
 http://iptvmedia.live:8080/streamnet/a8b92bb196/1446
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE+ HD[/B][/COLOR][COLOR=white][/COLOR]
-http://iptvmedia.live:8080/streamnet/a8b92bb196/278686
-
-
-
-
