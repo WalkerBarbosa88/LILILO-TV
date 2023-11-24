@@ -189,6 +189,27 @@ https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 
 
 ##########################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  STREAMING EXCLUSIVO  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+
+#EXTM3U
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: APAIXONADOS SÉRIES
+http://iptvmedia.live:8080/streamnet/a8b92bb196/286834
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CINEMA FANTASIA
+http://iptvmedia.live:8080/streamnet/a8b92bb196/286838
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CINEMA JACKIE CHAN
+http://iptvmedia.live:8080/streamnet/a8b92bb196/286832
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: DISNEY+
+http://iptvmedia.live:8080/streamnet/a8b92bb196/226084
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: DISNEY+ PIXAR
+http://iptvmedia.live:8080/streamnet/a8b92bb196/298019
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: NETFLIX
+http://iptvmedia.live:8080/streamnet/a8b92bb196/24517
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: NETFLIX KIDS
+http://iptvmedia.live:8080/streamnet/a8b92bb196/201051
+
+##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS TV PORTUGAL 2  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #EXTM3U
@@ -242,7 +263,7 @@ http://iptvmedia.live:8080/streamnet/a8b92bb196/1421
 http://iptvmedia.live:8080/streamnet/a8b92bb196/1423
 #EXTINF:0 tvg-id="CMTV.pt" group-title="Channels",PT: CMTV
 http://iptvmedia.live:8080/streamnet/a8b92bb196/1412
-#EXTINF:0 tvg-id="PortoCanal.pt" group-title="Channels",PT: Porto Canal
+#EXTINF:0 tvg-id="PortoCanal.pt" group-title="Channels",PT: PORTO CANAL
 http://iptvmedia.live:8080/streamnet/a8b92bb196/1419
 #EXTINF:0 tvg-id="ABolaTV.pt" group-title="Channels",PT: A BOLA TV
 http://iptvmedia.live:8080/streamnet/a8b92bb196/1420
@@ -251,47 +272,32 @@ http://iptvmedia.live:8080/streamnet/a8b92bb196/1519
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: CANAL 11
 http://iptvmedia.live:8080/streamnet/a8b92bb196/1480
 
-
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",PT: BTV TV
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1497
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",PT: SPORT TV +
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1481
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1483
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1486
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1489
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1492
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT: SPORT TV 5
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1495
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 6
-http://iptvmedia.live:8080/streamnet/a8b92bb196/281487
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV NBA
-http://iptvmedia.live:8080/streamnet/a8b92bb196/2051
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 1
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1499
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 2
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1503
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 3
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1506
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 4
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1509
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 5
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1512
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 6
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1515
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE ACTION
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1452
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE EDITION
-http://iptvmedia.live:8080/streamnet/a8b92bb196/82254
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE EMOTION
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1448
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE TOP
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1446
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCINE +
-http://iptvmedia.live:8080/streamnet/a8b92bb196/278686
+#EXTINF:0 tvg-id="axn.pt" group-title="Channels",PT: AXN
+http://iptvmedia.live:8080/streamnet/a8b92bb196/1469
+#EXTINF:0 tvg-id="AXNBlack.pt" group-title="Channels",PT: AXN BLACK
+http://iptvmedia.live:8080/streamnet/a8b92bb196/278653
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: AXN MOVIES
+http://iptvmedia.live:8080/streamnet/a8b92bb196/1471
+#EXTINF:0 tvg-id="AXNWhite.pt" group-title="Channels",PT: AXN WHITE
+http://iptvmedia.live:8080/streamnet/a8b92bb196/1467
+#EXTINF:0 tvg-id="AMC.pt" group-title="Channels",PT: AMC
+http://iptvmedia.live:8080/streamnet/a8b92bb196/1473
+#EXTINF:0 tvg-id="hollywood.pt" group-title="Channels",PT: HOLLYWOOD
+http://iptvmedia.live:8080/streamnet/a8b92bb196/1455
+#EXTINF:0 tvg-id="fox.pt" group-title="Channels",PT: FOX
+http://iptvmedia.live:8080/streamnet/a8b92bb196/1461
+#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",PT: FOX COMEDY
+http://iptvmedia.live:8080/streamnet/a8b92bb196/1465
+#EXTINF:0 tvg-id="foxcrime.pt" group-title="Channels",PT: FOX CRIME
+http://iptvmedia.live:8080/streamnet/a8b92bb196/1463
+#EXTINF:0 tvg-id="foxlife.pt" group-title="Channels",PT: FOX LIFE
+http://iptvmedia.live:8080/streamnet/a8b92bb196/1459
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",PT: FOX MOVIES
+http://iptvmedia.live:8080/streamnet/a8b92bb196/1457
+#EXTINF:0 tvg-id="Cinemundo.pt" group-title="Channels",PT: CINEMUNDO
+http://iptvmedia.live:8080/streamnet/a8b92bb196/1477
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SYFY PORTUGAL
+http://iptvmedia.live:8080/streamnet/a8b92bb196/1475
 
 #EXTINF:0 tvg-id="24Kitchen.pt" group-title="Channels",PT: 24 Kitchen
 http://iptvmedia.live:8080/streamnet/a8b92bb196/2025
@@ -305,23 +311,10 @@ http://iptvmedia.live:8080/streamnet/a8b92bb196/299412
 http://iptvmedia.live:8080/streamnet/a8b92bb196/1536
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: Alma Lusa
 http://iptvmedia.live:8080/streamnet/a8b92bb196/264642
-#EXTINF:0 tvg-id="AMC.pt" group-title="Channels",PT: AMC
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1473
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Apaixonados Series
-http://iptvmedia.live:8080/streamnet/a8b92bb196/286834
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: AR TV
-http://iptvmedia.live:8080/streamnet/a8b92bb196/9629
-#EXTINF:0 tvg-id="axn.pt" group-title="Channels",PT: AXN
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1469
-#EXTINF:0 tvg-id="AXNBlack.pt" group-title="Channels",PT: AXN Black
-http://iptvmedia.live:8080/streamnet/a8b92bb196/278653
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: AXN Movies
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1471
-#EXTINF:0 tvg-id="AXNWhite.pt" group-title="Channels",PT: AXN White
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1467
+
+
 #EXTINF:0 tvg-id="BabyTV.pt" group-title="Channels",PT: Baby TV
 http://iptvmedia.live:8080/streamnet/a8b92bb196/1441
-
 #EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Channels",PT: Biggs
 http://iptvmedia.live:8080/streamnet/a8b92bb196/1439
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: Blaze
@@ -332,11 +325,8 @@ http://iptvmedia.live:8080/streamnet/a8b92bb196/5933
 http://iptvmedia.live:8080/streamnet/a8b92bb196/24529
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: Campo Pequeno
 http://iptvmedia.live:8080/streamnet/a8b92bb196/28029
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: CANAL 180
 http://iptvmedia.live:8080/streamnet/a8b92bb196/146057
-#EXTINF:0 tvg-id="hollywood.pt" group-title="Channels",PT: Canal Hollywood
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1455
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: Canal Macau
 http://iptvmedia.live:8080/streamnet/a8b92bb196/197872
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: Canal Nos
@@ -353,20 +343,15 @@ http://iptvmedia.live:8080/streamnet/a8b92bb196/290766
 http://iptvmedia.live:8080/streamnet/a8b92bb196/1440
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: Cartoonito
 http://iptvmedia.live:8080/streamnet/a8b92bb196/300637
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Casa e Cozinha
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Casa & Cozinha
 http://iptvmedia.live:8080/streamnet/a8b92bb196/6097
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Caza y Pesca
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CAÇA & PESCA
 http://iptvmedia.live:8080/streamnet/a8b92bb196/297997
 #EXTINF:0 tvg-id="CacaVision.pt" group-title="Channels",PT: Caçavision
 http://iptvmedia.live:8080/streamnet/a8b92bb196/13956
 #EXTINF:0 tvg-id="CBSReality.pt" group-title="Channels",PT: CBS Reality
 http://iptvmedia.live:8080/streamnet/a8b92bb196/1528
-#EXTINF:0 tvg-id="Cinemundo.pt" group-title="Channels",PT: Cine Mundo
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1477
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CINEMA FANTASIA
-http://iptvmedia.live:8080/streamnet/a8b92bb196/286838
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: CINEMA JACKIE CHAN
-http://iptvmedia.live:8080/streamnet/a8b92bb196/286832
+
 
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: Crime District
@@ -379,10 +364,7 @@ http://iptvmedia.live:8080/streamnet/a8b92bb196/296226
 http://iptvmedia.live:8080/streamnet/a8b92bb196/1434
 #EXTINF:0 tvg-id="DisneyJunior.pt" group-title="Channels",PT: Disney Junior
 http://iptvmedia.live:8080/streamnet/a8b92bb196/1435
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Disney+
-http://iptvmedia.live:8080/streamnet/a8b92bb196/226084
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Disney+ Pixar
-http://iptvmedia.live:8080/streamnet/a8b92bb196/298019
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: Dizi Channel
 http://iptvmedia.live:8080/streamnet/a8b92bb196/300240
 #EXTINF:0 tvg-id="eentertainment.pt" group-title="Channels",PT: E!
@@ -398,16 +380,7 @@ http://iptvmedia.live:8080/streamnet/a8b92bb196/1518
 http://iptvmedia.live:8080/streamnet/a8b92bb196/2656
 #EXTINF:0 tvg-id="FoodNetwork.pt" group-title="Channels",PT: Food Network
 http://iptvmedia.live:8080/streamnet/a8b92bb196/2044
-#EXTINF:0 tvg-id="fox.pt" group-title="Channels",PT: FOX
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1461
-#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",PT: FOX COMEDY
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1465
-#EXTINF:0 tvg-id="foxcrime.pt" group-title="Channels",PT: FOX CRIME
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1463
-#EXTINF:0 tvg-id="foxlife.pt" group-title="Channels",PT: FOX LIFE
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1459
-#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",PT: FOX MOVIES
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1457
+
 #EXTINF:0 tvg-id="FuelTV.pt" group-title="Channels",PT: Fuel TV
 http://iptvmedia.live:8080/streamnet/a8b92bb196/1521
 #EXTINF:0 tvg-id="HistoryChannel.pt" group-title="Channels",PT: Historia
@@ -420,63 +393,41 @@ http://iptvmedia.live:8080/streamnet/a8b92bb196/1442
 http://iptvmedia.live:8080/streamnet/a8b92bb196/10828
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: KURIAKOS TV
 http://iptvmedia.live:8080/streamnet/a8b92bb196/9697
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: MEO Destaques
-http://iptvmedia.live:8080/streamnet/a8b92bb196/265256
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: MEO Videoclube
-http://iptvmedia.live:8080/streamnet/a8b92bb196/265255
 #EXTINF:0 tvg-id="Motorvision.pt" group-title="Channels",PT: Motorvision TV
 http://iptvmedia.live:8080/streamnet/a8b92bb196/4012
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: MTV Live
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: MTV LIVE
 http://iptvmedia.live:8080/streamnet/a8b92bb196/198683
-#EXTINF:0 tvg-id="mtvportugal.pt" group-title="Channels",PT: MTV Portugal
+#EXTINF:0 tvg-id="mtvportugal.pt" group-title="Channels",PT: MTV PORTUGAL
 http://iptvmedia.live:8080/streamnet/a8b92bb196/1534
 #EXTINF:0 tvg-id="nationalgeographic.pt" group-title="Channels",PT: NAT GEO
 http://iptvmedia.live:8080/streamnet/a8b92bb196/1530
 #EXTINF:0 tvg-id="NatGeoWild.pt" group-title="Channels",PT: NAT GEO Wild
 http://iptvmedia.live:8080/streamnet/a8b92bb196/1531
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: NBA TV
-http://iptvmedia.live:8080/streamnet/a8b92bb196/296750
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Netflix
-http://iptvmedia.live:8080/streamnet/a8b92bb196/24517
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Netflix Kids
-http://iptvmedia.live:8080/streamnet/a8b92bb196/201051
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: Nick Junior
 http://iptvmedia.live:8080/streamnet/a8b92bb196/9693
 #EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Channels",PT: nickelodeon
 http://iptvmedia.live:8080/streamnet/a8b92bb196/1436
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Nos Studios
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1454
 #EXTINF:0 tvg-id="odisseia.pt" group-title="Channels",PT: Odisseia
 http://iptvmedia.live:8080/streamnet/a8b92bb196/1532
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: PANDA Kids
 http://iptvmedia.live:8080/streamnet/a8b92bb196/290678
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: Queens United TV
 http://iptvmedia.live:8080/streamnet/a8b92bb196/299377
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: Record TV
 http://iptvmedia.live:8080/streamnet/a8b92bb196/298700
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: SAUDE+
 http://iptvmedia.live:8080/streamnet/a8b92bb196/81973
-
-
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SYFY Portugal
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1475
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TCV Internacional
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TCV INTER.
 http://iptvmedia.live:8080/streamnet/a8b92bb196/299134
 #EXTINF:0 tvg-id="TLC.pt" group-title="Channels",PT: TLC
 http://iptvmedia.live:8080/streamnet/a8b92bb196/1479
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: Toros
 http://iptvmedia.live:8080/streamnet/a8b92bb196/298021
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TPA Notícias
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TPA NOTÍCIAS
 http://iptvmedia.live:8080/streamnet/a8b92bb196/298022
 #EXTINF:0 tvg-id="TravelChannel.pt" group-title="Channels",PT: Travel Channel
 http://iptvmedia.live:8080/streamnet/a8b92bb196/1529
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: TV Mana 1
 http://iptvmedia.live:8080/streamnet/a8b92bb196/298811
-
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: Way TV
 http://iptvmedia.live:8080/streamnet/a8b92bb196/299411
