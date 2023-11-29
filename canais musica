@@ -4,7 +4,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 17/11/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 29/11/2023[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -98,9 +98,6 @@ http://rtmp.one.by:1300
 
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]FIRST MUSIC CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
 http://hz1.teleport.cc/HLS/SD.m3u8
-
-#EXTINF:-1,[COLOR=white][B]NRG 91[/B][/COLOR][COLOR=white][/COLOR]
-http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 
 #EXTINF:-1,[COLOR=white][B]KISS UK[/B][/COLOR][COLOR=white][/COLOR]
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
@@ -541,10 +538,6 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]AFROBEATS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MGR TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://vod.streams.ovh:3876/stream/play.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MN MUSIC[/B][/COLOR][COLOR=white][/COLOR]
-http://mntv.livebox.co.in/musichls/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTV ALTEA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://54.38.156.56/live/stream/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RELOAD RADIO MUSIC POWER HD[/B][/COLOR][COLOR=white][/COLOR]
