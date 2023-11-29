@@ -6,7 +6,7 @@ http://0.0.0.0:0000
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 15/10/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 29/11/2023[/B][/COLOR][COLOR=orange][/COLOR]
 ############################################################################################################################################################
 
 Fonte: https://fluxustvespanol.blogspot.com/p/fluxus-cctv.html#gsc.tab=0
@@ -156,6 +156,7 @@ plugin://plugin.video.youtube/play/?video_id=ADsY4BQWZOU
 #EXTINF:-1,[COLOR=yellow][B]/////////  DIVERSOS PAÍSES & PAISAGENS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]CROÁCIA[/COLOR][COLOR=white][/COLOR]
 https://wowza.3tcable.hr/Madona/Madona.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]CANÁRIAS - PORTO LAS NIEVES AGAETE[/COLOR][COLOR=white][/COLOR]
@@ -166,8 +167,6 @@ https://cdn.livespotting.com/vpu/ggazg0ll/9itrcth2.m3u8
 https://stream.profi-net.sk/tmr/STREAM48.stream/chunklist_w1900356417.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WEBCAMS",[COLOR=white]ESLOVÁQUIA - TATRALANDIA AQUAPARK[/COLOR][COLOR=white][/COLOR]
 https://stream.profi-net.sk/tmr/STREAM48.stream/chunklist_w1002298432.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WEBCAMS",[COLOR=white]RÚSSIA - MURINO[/COLOR][COLOR=white][/COLOR]
-http://91.202.44.216:8080/cam1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WEBCAMS",[COLOR=white]QUIRGUISTÃO - BISHKEK[/COLOR][COLOR=white][/COLOR]
 http://iptv.saima.kg/hls-cam/berengold.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WEBCAMS",[COLOR=white]ROMÉNIA - IGREJA[/COLOR][COLOR=white][/COLOR]
@@ -178,55 +177,28 @@ https://deliverys5.quanteec.com/contents/encodings/live/47fcda1a-38f6-4fb2-3938-
 #EXTM3U
 
 #######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  EARTH TV - LIVE CAM & ROLLING  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  EARTH TV & SKYLINE - LIVE CAM & ROLLING  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=white][B]EARTH TV - WORLD MULTI-CAMS[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=b-PyEswUenE
-#EXTINF:-1,[COLOR=white][B]EARTH TV - AMERICA MULTI-CAMS[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=CBfX5fhaJ00
-#EXTINF:-1,[COLOR=white][B]EARTH TV - TIMES SQUARE IN 4K[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=1-iS7LArMPA&ab_channel=EarthCam
-
-#EXTINF:-1,[COLOR=white][B]I LOVE YOU VENICE[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=8KGXSjtS5pk
-#EXTINF:-1,[COLOR=white][B]I LOVE YOU VENICE - BEACHES[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=OMebkpnYJJo
-#EXTINF:-1,[COLOR=white][B]NORUEGA AO VIVO[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=A86RXuRNjk4
-
+#EXTINF:-1,[COLOR=white][B]EARTH TV - WORLD MULTI-CAMS 1[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=buAV1t5-23w
+#EXTINF:-1,[COLOR=white][B]EARTH TV - WORLD MULTI-CAMS 2[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=HfgIFGbdGJ0
+#EXTINF:-1,[COLOR=white][B]SKYLINE - WORLD MULTI-CAMS 2[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=SjWRKnbPLZI
+#EXTINF:-1,[COLOR=white][B]EARTH CAM - BROADWAY VIEW CAM[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=GSmCh4DrbWY
+#EXTINF:-1,[COLOR=white][B]EARTH TV - HOLIDAY CAM[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=9rRcXwWwg9A
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIAS MUNDIAIS - WEBCAM´S  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTM3U
-
-#EXTINF:-1,[COLOR=white][B]USA - MYRTLE BEACH CAM 2[/B][/COLOR][COLOR=white][/COLOR]
-https://5ab0d1d85f91f.streamlock.net/fuel/boardwalk_1.stream/chunklist_w1077945637.m3u8
-#EXTINF:-1,[COLOR=white][B]USA - MYRTLE BEACH CAM 3[/B][/COLOR][COLOR=white][/COLOR]
-https://5ab0d1d85f91f.streamlock.net/Riptydz/cam-rt-volleyball.stream/playlist.m3u8
-# https://www.youtube.com/watch?v=BDPw6Y2QSZU
-#EXTINF:-1,[COLOR=white][B]USA - SCHOONERS SUNSET CAM[/B][/COLOR][COLOR=white][/COLOR]
-https://5ed7b8fd7bf40.streamlock.net:444/schoonerssunsetHDCam/schsun/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]USA - SCHOONERS BEACH CAM 1[/B][/COLOR][COLOR=white][/COLOR]
-https://5ed7b8fd7bf40.streamlock.net:444/schoonersbeachHDCam/schbeach/playlist.m3u8
-# https://www.youtube.com/watch?v=o09siXxJw9A
-#EXTINF:-1,[COLOR=white][B]UK - DAWLISH[/B][/COLOR][COLOR=white][/COLOR]
-https://camsecure.co/HLS/dawlish.m3u8
-#EXTINF:-1,[COLOR=white][B]UK - WESTWARD[/B][/COLOR][COLOR=white][/COLOR]
-https://camsecure.co/HLS/westho.m3u8
-#EXTINF:-1,[COLOR=white][B]BR - BARRA DA TIJUCA[/B][/COLOR][COLOR=white][/COLOR]
-https://cdn.jmvstream.com/w/IPC-6849/camera.stream/chunklist.m3u8
-#EXTINF:-1,[COLOR=white][B]POLÓNIA - MIEDZYZDROJE PIER[/B][/COLOR][COLOR=white][/COLOR]
-https://streaming.airmax.pl/apiconnect4_molo1/tracks-v1/mono.m3u8
-#EXTINF:-1,[COLOR=white][B]GRANDE CANÁRIAS - PRAIA DAS BURRAS[/B][/COLOR][COLOR=white][/COLOR]
-https://camserver1.in2thebeach.es/streams/las_burras_san_agustin/index.m3u8
-#EXTINF:-1,[COLOR=white][B]GRANDE CANÁRIAS - PRAIA S. AGUSTIN[/B][/COLOR][COLOR=white][/COLOR]
-https://camserver1.in2thebeach.es/streams/san-agustin/index.m3u8
-
+9rRcXwWwg9A
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  ANIMAIS - DIVERSOS ZOOS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
