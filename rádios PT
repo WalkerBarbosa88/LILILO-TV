@@ -8,7 +8,7 @@ FONTE DE INFORMAÇÃO: http://fmstream.org/index.php?c=G&o=top  -  https://www.r
 
 Rádios de Portugal por distrito - https://pt.wikipedia.org/wiki/Lista_de_r%C3%A1dios_de_Portugal
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 05/10/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 29/11/2023[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
@@ -143,9 +143,6 @@ https://proic1.evspt.com/radar_aac
 #EXTINF:-1,[COLOR=white][B]RÁDIO OLISIPIO[/B][/COLOR][COLOR=white][/COLOR]
 https://n0f.radiojar.com/6x85cenb7ehvv?1652976295=&rj-tok=AAABgN0bmTAA5j9zHZcxBl9tWw&rj-ttl=5
 
-#EXTINF:-1,[COLOR=white][B]RÁDIO GOLO FM[/B][/COLOR][COLOR=white][/COLOR]
-http://play.golo.fm:8020/;stream.mp3
-
 #EXTINF:-1,[COLOR=white][B]SMOOTH FM[/B][/COLOR][COLOR=white][/COLOR]
 https://stream-icy.bauermedia.pt/smooth.mp3
 
@@ -155,6 +152,8 @@ https://s4.radio.co/s7e7b6c165/listen
 #EXTINF:-1,[COLOR=white][B]MEO SUDOESTE[/B][/COLOR][COLOR=white][/COLOR]
 https://centova.radios.pt/proxy/495?mp=%2Fstream
 
+#EXTINF:-1,[COLOR=white][B]GOLO FM[/B][/COLOR][COLOR=white][/COLOR]
+https://sp0.redeaudio.com/8154/stream
 
 ######################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  DISTRITO: AVEIRO  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -197,8 +196,6 @@ https://stream.azfm.com/azfm
 https://cast.redewt.net:9820/live
 #EXTINF:-1,[COLOR=white][B]RADIO OVOS MOLES[/B][/COLOR][COLOR=white][/COLOR]
 https://sp0.redeaudio.com/9330/;
-#EXTINF:-1,[COLOR=white][B]RADIO SINTONIA[/B][/COLOR][COLOR=white][/COLOR]
-http://95.217.75.38:9832/;
 #EXTINF:-1,[COLOR=white][B]RADIO VIVA PORTUGAL[/B][/COLOR][COLOR=white][/COLOR]
 https://sp0.redeaudio.com/9920/stream
 #EXTINF:-1,[COLOR=white][B]REGIONAL DE AROUCA[/B][/COLOR][COLOR=white][/COLOR]
@@ -224,10 +221,12 @@ http://centova.radios.pt:9538/;
 http://ca5.rcast.net:8024/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO VOZ DOS AÇORES[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.rcast.net/64684
-#EXTINF:-1,[COLOR=white][B]RÁDIO NOVA CIDADE[/B][/COLOR][COLOR=white][/COLOR]
-http://95.217.75.38:9818/;stream/1
 #EXTINF:-1,[COLOR=white][B]RÁDIO LAJES[/B][/COLOR][COLOR=white][/COLOR]
 https://radios.justweb.pt:7027/;
+#EXTINF:-1,[COLOR=white][B]RÁDIO HORIZONTE[/B][/COLOR][COLOR=white][/COLOR]
+https://horizonte-radiohorizonte.radioca.st/stream
+
+
 
 
 ######################################################################################################################################
@@ -310,16 +309,13 @@ https://000000000000000000000
 http://centova.radios.pt:8467/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO CONDESTÁVEL[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radio.com.pt:8427/;
-#EXTINF:-1,[COLOR=white][B]RÁDIO URBANA FM[/B][/COLOR][COLOR=white][/COLOR]
-http://213.136.92.8:8024/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO CLUBE DA COVILHÃ[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radios.pt:9450/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO CLUBE DE MONSANTO[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radio.com.pt:9424/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO NOVA ESTRELA[/B][/COLOR][COLOR=white][/COLOR]
 https://sonic.h2.pt/8008/stream
-#EXTINF:-1,[COLOR=white][B]RÁDIO GERAÇÕES[/B][/COLOR][COLOR=white][/COLOR]
-https://stream-43.zeno.fm/6h6eavybqxhvv?zs=e0tnvm1BS-mzGRD6frJE2A
+
 
 ######################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  DISTRITO: COIMBRA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -349,8 +345,6 @@ https://centova.radio.com.pt/proxy/427?mp=/stream
 https://nl.digitalrm.pt:8094/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO FOZ DO MONDEGO[/B][/COLOR][COLOR=white][/COLOR]
 https://nl.digitalrm.pt:8216/stream?fbclid=IwAR3kjVAWDnvAtuNb49QebvhXf9G7iODOuGyFW39D4-dhk_wclYjb91pYeDo
-#EXTINF:-1,[COLOR=white][B]RÁDIO SÉNIOR[/B][/COLOR][COLOR=white][/COLOR]
-http://95.217.75.38:9314/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO MUNDIAL FM[/B][/COLOR][COLOR=white][/COLOR]
 http://148.251.180.161:8164/;
 #EXTINF:-1,[COLOR=white][B]MAIORCA FM[/B][/COLOR][COLOR=white][/COLOR]
@@ -373,12 +367,8 @@ http://5.189.189.245:8006/;
 http://centova.radio.com.pt:9536/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO TOTAL FM[/B][/COLOR][COLOR=white][/COLOR]
 http://176.61.144.80:9300/;
-#EXTINF:-1,[COLOR=white][B]RÁDIO GUADIANA[/B][/COLOR][COLOR=white][/COLOR]
-http://95.217.75.38:9844/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO LAGOA FM[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radios.pt:9488/;
-#EXTINF:-1,[COLOR=white][B]RÁDIO PORTIMÃO[/B][/COLOR][COLOR=white][/COLOR]
-http://95.217.75.38:9440/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO SAGRES[/B][/COLOR][COLOR=white][/COLOR]
 https://sagresfm.pt/stream/?q=http://176.61.144.80:9302/;type=mp3
 #EXTINF:-1,[COLOR=white][B]RÁDIO TOTAL FM[/B][/COLOR][COLOR=white][/COLOR]
@@ -548,8 +538,6 @@ http://137.74.160.250:8000/;stream/1
 https://radios.justweb.pt:7000/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO MATOSINHOS[/B][/COLOR][COLOR=white][/COLOR]
 http://185.32.188.17:8035/stream
-#EXTINF:-1,[COLOR=white][B]RÁDIO GONDOMAR MIX[/B][/COLOR][COLOR=white][/COLOR]
-http://95.217.75.38:9964/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO VOZ DO TUA[/B][/COLOR][COLOR=white][/COLOR]
 https://servidor37-3.brlogic.com:7128/live
 #EXTINF:-1,[COLOR=white][B]RÁDIO FELGUEIRAS[/B][/COLOR][COLOR=white][/COLOR]
@@ -571,8 +559,6 @@ http://centova.radio.com.pt:8475/;
 http://centova.radio.com.pt:8531/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO HERTZ[/B][/COLOR][COLOR=white][/COLOR]
 http://213.136.92.8:8030/;
-#EXTINF:-1,[COLOR=white][B]RÁDIO COLA MIX[/B][/COLOR][COLOR=white][/COLOR]
-http://95.217.75.38:9362/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO IRIS FM[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radios.pt:8529/stream/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO ANTENA LIVRE[/B][/COLOR][COLOR=white][/COLOR]
@@ -595,16 +581,10 @@ https://000000000000000000000
 
 #EXTINF:-1,[COLOR=white][B]SUPERFM ONLINE[/B][/COLOR][COLOR=white][/COLOR]
 https://sp0.redeaudio.com/9962/;;/stream.mp3
-#EXTINF:-1,[COLOR=white][B]RÁDIO MIRÓBRIGA M24[/B][/COLOR][COLOR=white][/COLOR]
-http://95.217.75.38:9924/;stream/1
-#EXTINF:-1,[COLOR=white][B]RÁDIO SINES[/B][/COLOR][COLOR=white][/COLOR]
-http://95.217.75.38:9580/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO SUPER SANTIAGO[/B][/COLOR][COLOR=white][/COLOR]
 http://s5.stmxp.net:8004/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO ECHO PORTUGAL[/B][/COLOR][COLOR=white][/COLOR]
 https://stream-47.zeno.fm/s9bwyczq6tzuv?zs=x4DvqtO1ReG9IReBZeZJIw
-#EXTINF:-1,[COLOR=white][B]RVD RÁDIO[/B][/COLOR][COLOR=white][/COLOR]
-http://95.217.75.38:9938/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO POPULAR[/B][/COLOR][COLOR=white][/COLOR]
 http://185.11.164.106:32281/stream
 #EXTINF:-1,[COLOR=white][B]TUGA FM[/B][/COLOR][COLOR=white][/COLOR]
@@ -623,8 +603,6 @@ https://ec2.yesstreaming.net:3705/stream
 http://stm9.xcast.com.br:10354/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO POPULAR AFIFENSE[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radios.pt:8471/;
-#EXTINF:-1,[COLOR=white][B]RÁDIO CAMINHA[/B][/COLOR][COLOR=white][/COLOR]
-http://95.217.75.38:9348/stream
 #EXTINF:-1,[COLOR=white][B]GEICE FM[/B][/COLOR][COLOR=white][/COLOR]
 https://ec2.yesstreaming.net:3275/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO POPULAR AFIFENSE[/B][/COLOR][COLOR=white][/COLOR]
@@ -666,12 +644,8 @@ https://nl.digitalrm.pt:8206/stream?1637497604160
 http://centova.radio.com.pt:9430/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO EMISSORA DAS BEIRAS[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radios.pt:8465/;
-#EXTINF:-1,[COLOR=white][B]RÁDIO DOURO NACIONAL[/B][/COLOR][COLOR=white][/COLOR]
-http://95.217.75.38:9796/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO LIMITE[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radio.com.pt:9408/;
-#EXTINF:-1,[COLOR=white][B]JORNAL DO CENTRO[/B][/COLOR][COLOR=white][/COLOR]
-http://95.217.75.38:9120/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO ESCURO[/B][/COLOR][COLOR=white][/COLOR]
 https://nl.digitalrm.pt:8116/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO CLUBE DE LAMEGO[/B][/COLOR][COLOR=white][/COLOR]
