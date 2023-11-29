@@ -193,17 +193,12 @@ plugin://plugin.video.youtube/play/?video_id=GSmCh4DrbWY
 #EXTINF:-1,[COLOR=white][B]EARTH TV - HOLIDAY CAM[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=9rRcXwWwg9A
 
-#######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  PRAIAS MUNDIAIS - WEBCAM´S  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://000000
-
-#EXTM3U
-9rRcXwWwg9A
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  ANIMAIS - DIVERSOS ZOOS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTM3U
+
 
 #EXTINF:0 tvg-id="ext" group-title="WEBCAMS",[COLOR=white]ÁFRICA WEBCAM 1[/COLOR][COLOR=white][/COLOR]
 https://outbound-production.explore.org/stream-production-110/.m3u8
@@ -213,9 +208,6 @@ https://outbound-production.explore.org/stream-production-276/.m3u8
 https://outbound-production.explore.org/stream-production-317/.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WEBCAMS",[COLOR=white]ÁFRICA WEBCAM 4[/COLOR][COLOR=white][/COLOR]
 https://outbound-production.explore.org/stream-production-49/.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="USA",[COLOR=white]USA - PANDA 1[/COLOR][COLOR=white][/COLOR]
-http://160.111.252.72:1935/live_edge_panda/smil:panda02_all.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="USA",[COLOR=white]EXPLORE.ORG - PANDA[/COLOR][COLOR=white][/COLOR]
 https://outbound-production.explore.org/stream-production-33/.m3u8
 
@@ -244,8 +236,9 @@ https://ch-fra-n10.livespotting.com/vpu/8p96b3b9/l2mucuq9_720.m3u8
 #EXTINF:-1,[COLOR=yellow][B]/////////  ÁUSTRIA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
-
 #EXTM3U
+
+
 #EXTINF:-1,[COLOR=white][B]WETTER PANORAMA LIVE[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=NIuO6hrFTrg
 
@@ -392,10 +385,6 @@ http://5a5f765a4fcc2.streamlock.net:1935/live/fishy.stream/playlist.m3u8
 https://59b69eab8875b.streamlock.net/live/Beach_Cam_01.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white]USA - CEDAR POINT PARK - CAM 1[/COLOR][COLOR=white][/COLOR]
 https://56cdb389b57ec.streamlock.net:1935/live/cedar1.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white]USA - CEDAR POINT PARK - CAM 2[/COLOR][COLOR=white][/COLOR]
-https://56cdb389b57ec.streamlock.net:1935/live/cedar2.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white]USA - DEAD DOG SALLON[/COLOR][COLOR=white][/COLOR]
-http://58f0f58ecd733.streamlock.net:1935/DeadDogSaloonCam/deaddog/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white]USA - EAST PARK[/COLOR][COLOR=white][/COLOR]
 http://cdn.estesparkwebcams.com/prospect3/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white]USA - KURE BEACH[/COLOR][COLOR=white][/COLOR]
@@ -412,7 +401,6 @@ http://5c864aa99ee04.streamlock.net:1935/surfcam/live.stream/playlist.m3u8
 https://000000
 
 #EXTM3U
-
 
 
 #EXTINF:0 tvg-id="ext" group-title="AFRICA_WEBCAM",Africa 4
@@ -926,10 +914,6 @@ https://outbound-production.explore.org/stream-production-189/.m3u8
 https://outbound-production.explore.org/stream-production-188/.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WORLD_webcam_MIX",Hummingbird Trees
 https://outbound-production.explore.org/stream-production-209/.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WORLD_webcam_MIX",Italy - Chiusdino Airfield
-https://kadath.ivotv.it/reteivo/aviocam1/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WORLD_webcam_MIX",Italy - Chiusdino Airfield
-https://kadath.ivotv.it/reteivo/aviocam2/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WORLD_webcam_MIX",Japan - Yonago Airport
 http://210.156.16.242:1935/live/11-yumeminato/chunklist_w1915353590.m3u8
 #EXTINF:0 tvg-id="ext" group-title="WORLD_webcam_MIX",Kelp Forest
@@ -1077,8 +1061,6 @@ https://video-auth1.iol.pt/beachcam/jardimdomardois/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/bcmurtinheira/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="EU_PORTUGAL_webcam",Nazaré - Praia do Norte
 https://video-auth1.iol.pt/beachcam/canhaonazare/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="EU_PORTUGAL_webcam",Nazaré - Praia do Norte panorâmica
-https://video-auth1.iol.pt/beachcam/nazareparadonorte/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="EU_PORTUGAL_webcam",Parede
 https://video-auth1.iol.pt/beachcam/parede/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="EU_PORTUGAL_webcam",Portinho da Arrábida
@@ -1219,8 +1201,6 @@ http://5c77a8c984f82.streamlock.net:1935/live/mp4:ddorfcam-bp/HasBahCa.m3u8
 http://5c77a8c984f82.streamlock.net:1935/live/_definst_/ddorfcam-ru/HasBahCa.m3u8
 #EXTINF:0 tvg-id="ext" group-title="*DE_GERMAN_DACH_WEBCAM",Germany - Düsseldorf 3
 http://5c77a8c984f82.streamlock.net:1935/live/_definst_/ddorfcam-bp/HasBahCa.m3u8
-#EXTINF:0 tvg-id="ext" group-title="*DE_GERMAN_DACH_WEBCAM",Germany - Frankfurt am main - Gdaask widok na Mot
-http://ls12.webcamera.pl/umgdansk_cam_11161c/umgdansk_cam_11161c.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="*DE_GERMAN_DACH_WEBCAM",Germany - Zinnowitz
 http://edge30.fms.stream24.net/osltv3/_definst_/mp4:zinnowitz.stream/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="*DE_GERMAN_DACH_WEBCAM",Hamburg (DE)
@@ -1240,16 +1220,12 @@ http://tdt.shmhost.net/geist/livestream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="*DE_GERMAN_DACH_WEBCAM",Lindau Bodensee
 https://ch-fra-n2.livespotting.com/vpu/hmepsu74/6j7t62rc_720.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="VIETNAM_WebCam",Bắc Cầu Phú Xuân Huế
-http://171.251.71.193:3098/live/huesbaccauphuxuan/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIETNAM_WebCam",Biển Đà Nẵng
 https://livevn.piepme.com/camhls/14789.26f9b0b1eaeb92c6429f89ad0912d156_720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIETNAM_WebCam",Khách sạn Merry Đà Nẵng 1
 https://livevn.piepme.com/camhls/14789.1b5aa79584634429877ce7beeb68ca3a_720p/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIETNAM_WebCam",Khách sạn Merry Đà Nẵng 2
 https://livevn.piepme.com/camhls/14789.ee67aa8d5a9da72967f818f8b80e2c03_720p/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="VIETNAM_WebCam",Nguyễn Huệ Huế
-http://171.251.71.193:3098/live/hues81nguyenhue/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="VIETNAM_WebCam",Vòng xoay Điện Biên Phủ TPHCM
 https://livevn.piepme.com/camhls/14789.a6a2cdaedb0e4a62b8307d232370f4ff_720p/index.m3u8
 
@@ -1312,8 +1288,6 @@ https://watch.vikscom.net/more.villa1/index.m3u8
 http://murmansk-online.ru:8080/apatity_zal1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="RUS_exCCCP_webcam",Апатиты 5
 http://murmansk-online.ru:8080/apatity_zal/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RUS_exCCCP_webcam",Апатиты 8
-http://murmansk-online.ru:8080/apatity_lenina/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="RUS_exCCCP_webcam",Астрахань 2
 http://dvr2.astrakhan.ru/boev-57-hd-1/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="RUS_exCCCP_webcam",Астрахань 5
@@ -1384,14 +1358,6 @@ http://gaj-pobeda.camsh.gts.tv/hls/gaj-voichenko.m3u8
 http://gaj-krug.camsh.gts.tv/hls/gaj-krug.m3u8
 #EXTINF:0 tvg-id="ext" group-title="RUS_exCCCP_webcam",Ейск 2
 http://195.110.52.71/cam8/stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RUS_exCCCP_webcam",Железногорск 1
-http://109.196.208.35:8080/hls/5084/5daf290b92fcefb69889/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RUS_exCCCP_webcam",Железногорск 2
-http://109.196.208.35:8080/hls/5086/dbeecc83d28fb6e5d3bf/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RUS_exCCCP_webcam",Железногорск 3
-http://109.196.208.35:8080/hls/5092/ed37678b9af1448aae5a/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RUS_exCCCP_webcam",Испания
-https://cdn-003.whatsupcams.com/hls/es_duquesa01.m3u8
 #EXTINF:0 tvg-id="ext" group-title="RUS_exCCCP_webcam",Кингисепп 1
 https://flussonic.king-online.ru/camera01/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="RUS_exCCCP_webcam",Кингисепп 2
@@ -1474,10 +1440,6 @@ http://hls.m-ten.ru:8080/hls/9/live.m3u8
 http://hls.m-ten.ru:8080/hls/10/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="RUS_exCCCP_webcam",Междуреченск 10
 http://hls.m-ten.ru:8080/hls/12/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RUS_exCCCP_webcam",Междуреченск 11
-http://hls.m-ten.ru:8080/hls/13/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RUS_exCCCP_webcam",Междуреченск 12
-http://hls.m-ten.ru:8080/hls/14/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="RUS_exCCCP_webcam",Междуреченск 12
 http://hls.m-ten.ru:8080/hls/25/live.m3u8
 #EXTINF:0 tvg-id="ext" group-title="RUS_exCCCP_webcam",Междуреченск 14
@@ -1538,8 +1500,6 @@ http://murmansk-online.ru:8080/k174/index.m3u8
 http://intek-m.ru/live/koltso_perl/s.m3u8
 #EXTINF:0 tvg-id="ext" group-title="RUS_exCCCP_webcam",Мытищи - МКАД.Ярославское шоссе
 http://intek-m.ru/live/yaroslavskoye_sh_2/s.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RUS_exCCCP_webcam",Мытищи - Пересечение ул.Белобородова
-http://intek-m.ru/live/olimp_bel/s.m3u8
 #EXTINF:0 tvg-id="ext" group-title="RUS_exCCCP_webcam",Мытищи - Пересечение ул.Каргина и Олимпийского пр.
 http://intek-m.ru/live/alta_krug/s.m3u8
 #EXTINF:0 tvg-id="ext" group-title="RUS_exCCCP_webcam",Мытищи - Пересечение ул.Комарова
@@ -1784,10 +1744,6 @@ http://media.ercis.ro:9999/valeamarebc/playlist.m3u8
 http://media.ercis.ro:9999/roman/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="RUS_exCCCP_webcam",Румыния 5
 http://media.ercis.ro:9999/halaucesti/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RUS_exCCCP_webcam",Румыния 6
-http://media.ercis.ro:9999/raducaneni1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RUS_exCCCP_webcam",Румыния 7
-http://media.ercis.ro:9999/butea/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="RUS_exCCCP_webcam",Румыния 8
 http://media.ercis.ro:9999/solonetunou1/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="RUS_exCCCP_webcam",Румыния 10
@@ -1880,8 +1836,6 @@ http://stream.trafjam.ru/cam3_site/index.m3u8
 http://stream.trafjam.ru/cam6_site/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="RUS_exCCCP_webcam",Улан-Удэ 2
 http://stream.trafjam.ru/cam6_site/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="RUS_exCCCP_webcam",Улан-Удэ 3
-http://stream.trafjam.ru/cam7_site/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="RUS_exCCCP_webcam",Улан-Удэ 5
 http://stream.trafjam.ru/cam8_site/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="RUS_exCCCP_webcam",Улан-Удэ 5
@@ -1986,8 +1940,6 @@ https://hls12.webcamera.pl/czarnagora_cam_a068a7/czarnagora_cam_a068a7.stream/pl
 http://stream.elblag.net:18080/kim/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="EU_POLAND_webcam",Polen - Elbl
 http://stream.elblag.net:18080/kim2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="EU_POLAND_webcam",Polen - Gda
-https://hls11.webcamera.pl/umgdansk_cam_11161c/umgdansk_cam_11161c.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="EU_POLAND_webcam",Polen - Gdynia - Skwer Ko
 http://hls8.webcamera.pl/gdynia_cam_b3ccea/gdynia_cam_b3ccea.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="EU_POLAND_webcam",Polen - Najstarszy d
@@ -2244,8 +2196,4 @@ http://gcalic.v.myalicdn.com/gc/xiongmao20_1/index.m3u8
 http://gcalic.v.myalicdn.com/gc/ipanda1000_1td/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ASIA_CHINA_webcam",黑龙江-雪乡梦幻家园
 https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8?contentid=2820180516001
-
-
-
-
 
