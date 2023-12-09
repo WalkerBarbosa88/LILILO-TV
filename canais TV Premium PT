@@ -22,7 +22,7 @@ http://0.0.0.0:0000
      Listas Várias - https://global-satinfo.in/viewforum.php?f=22&sid=14261766f220116fe35abb7ddf0e87e2
      
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 24/11/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 09/12/2023[/B][/COLOR][COLOR=orange][/COLOR]
 #EXTM3U
 
 
@@ -33,28 +33,14 @@ https://00000000000
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1481
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1483
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1486
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24SPORTTV3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1489
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1492
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1495
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24SPORTTV6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://iptvmedia.live:8080/streamnet/a8b92bb196/2051
 
 
 #EXTM3U
@@ -68,8 +54,6 @@ https://000000
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP INTER. AMÉRICA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://162.212.178.69:41042/bysid/608
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV HD PERU[/B][/COLOR][COLOR=white][/COLOR]
-http://167.114.156.136:25461/INFINITV/ZX89NM22/208
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV HD PERU[/B][/COLOR][COLOR=white][/COLOR]
 http://45.71.252.16:8000/play/a0hn/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV HD PERU[/B][/COLOR][COLOR=white][/COLOR]
 http://191.97.58.41:8001/play/a008
@@ -82,8 +66,6 @@ https://tbs01-edge11.itdc.ge/silksport3/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/19059/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://89.38.96.234:14525/
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPOR TV 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://51.83.238.223:16457/
@@ -111,8 +93,6 @@ https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
 https://bl.uma.media/live/394904/HLS/1_5/1/1/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MATH RUSSIA 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://uiptv.do.am/1ufc/000000003/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MATH RUSSIA 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MATH RUSSIA 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 
@@ -125,8 +105,8 @@ https://000000
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1497
+#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
+http://1111111111222222222237
 
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
  
@@ -136,34 +116,23 @@ https://000000
 
 #EXTM3U
 
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2531/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2531/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1499
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1503
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2533/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1506
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1509
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2535/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1512
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 6 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1515
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24Eleven_Sports_6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 6 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -180,18 +149,5 @@ https://0000000
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NOS STUDIOS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1454
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NOS STUDIOS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://iptvmedia.live:8080/streamnet/a8b92bb196/278550
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE+ HD[/B][/COLOR][COLOR=white][/COLOR]
-http://iptvmedia.live:8080/streamnet/a8b92bb196/278686
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE ACTION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1452
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EDITION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://iptvmedia.live:8080/streamnet/a8b92bb196/82254
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EMOTION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1448
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
-http://iptvmedia.live:8080/streamnet/a8b92bb196/1446
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
+http://11122222222333334444445555556
