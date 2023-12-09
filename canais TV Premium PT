@@ -27,6 +27,45 @@ http://0.0.0.0:0000
 
 
 ####################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS EM TESTE DESPORTO PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://00000000000
+
+#EXTM3U
+
+
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",SPORT TV+
+http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1481
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1
+http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1483
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2
+http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1486
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",SPORT TV 3
+http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1489
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",SPORT TV 4
+http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1492
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",SPORT TV 5
+http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1495
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 6
+http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/281487
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV NBA
+http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/2051
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 1
+http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1499
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 2
+http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1503
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 3
+http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1506
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 4
+http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1509
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 5
+http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1512
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 6
+http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1515
+
+
+
+####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS SPORT TV PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://00000000000
 
