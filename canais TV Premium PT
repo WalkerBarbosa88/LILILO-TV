@@ -33,6 +33,9 @@ https://00000000000
 #EXTM3U
 
 
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",BTV HD
+http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1497
+
 #EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",SPORT TV+
 http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1481
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1
@@ -188,5 +191,14 @@ https://0000000
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
-http://11122222222333334444445555556
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE+
+http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/278686
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE ACTION 
+http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1452
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE EDITION
+http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/82254
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE EMOTION
+http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1448
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE TOP
+http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1446
+
