@@ -42,6 +42,10 @@ http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1481
 http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1483
 #EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2 FHD
 http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1486
+#EXTINF:-1,SPORT TV 2
+http://15.204.217.195/SPORTTV2/index.m3u8
+#EXTINF:-1,SPORT TV 3 
+http://15.204.217.195/SPORTTV3/index.m3u8
 #EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",SPORT TV 3 FHD
 http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1489
 #EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",SPORT TV 4 HD
@@ -55,6 +59,12 @@ http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/2051
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 1
 http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1499
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+http://wiaqmjix.rostelekom.xyz/iptv/5YS5CCM3AGT2T9/19158/index.m3u8
+#EXTINF:-1,ELEVEN 1 HD
+http://conexaoonline.top:80/IVONE123/IVONE321/261002
+#EXTINF:-1,ELEVEN 2 HD
+http://conexaoonline.top:80/IVONE123/IVONE321/261001
 #EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 2
 http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1503
 #EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 3
