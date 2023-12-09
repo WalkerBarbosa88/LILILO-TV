@@ -33,24 +33,24 @@ https://00000000000
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",BTV HD
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",BTV FHD
 http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1497
 
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",SPORT TV+
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",SPORT TV+ FHD
 http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1481
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1 FHD
 http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1483
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2 FHD
 http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1486
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",SPORT TV 3
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",SPORT TV 3 FHD
 http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1489
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",SPORT TV 4
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",SPORT TV 4 HD
 http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1492
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",SPORT TV 5
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",SPORT TV 5 FHD
 http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1495
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 6
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 6 HD
 http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/281487
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV NBA
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV NBA FHD
 http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/2051
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 1
