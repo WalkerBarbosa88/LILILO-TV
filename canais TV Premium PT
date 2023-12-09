@@ -105,10 +105,16 @@ https://000000
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP INTER. AMÉRICA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://162.212.178.69:41042/bysid/608
+1
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV HD PERU[/B][/COLOR][COLOR=white][/COLOR]
+http://190.92.25.125:8000/play/a06x/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV HD PERU[/B][/COLOR][COLOR=white][/COLOR]
+http://170.81.147.241:37000/play/a05d
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV HD PERU[/B][/COLOR][COLOR=white][/COLOR]
 http://45.71.252.16:8000/play/a0hn/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV HD PERU[/B][/COLOR][COLOR=white][/COLOR]
 http://191.97.58.41:8001/play/a008
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SILK SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://tbs01-edge11.itdc.ge/silksport1/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SILK SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
