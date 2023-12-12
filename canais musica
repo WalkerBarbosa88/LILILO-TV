@@ -4,7 +4,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 29/11/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 12/12/2023[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -29,23 +29,6 @@ http://45.11.56.147:8808/stream?id=118
 #EXTINF:-1,[COLOR=white][B]MC TROPICAL[/B][/COLOR][COLOR=white][/COLOR]
 http://45.11.56.147:8808/stream?id=137
 
-
-#######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////// CANAIS BRIDGE TV /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://000000
-
-
-#EXTINF:-1,[COLOR=white][B]BRIDGE TV[/B][/COLOR][COLOR=white][/COLOR]
-https://livetv.mylifeisgood.net.ru/channels/bridgetv24h.m3u8
-
-#EXTINF:-1,[COLOR=white][B]BRIDGE TV CLASSIC[/B][/COLOR][COLOR=white][/COLOR]
-https://livetv.mylifeisgood.net.ru/channels/bridgeclassictv.m3u8
-
-#EXTINF:-1,[COLOR=white][B]BRIDGE TV DELUXE[/B][/COLOR][COLOR=white][/COLOR]
-https://livetv.mylifeisgood.net.ru/channels/bridgedeluxetv.m3u8
-
-#EXTINF:-1,[COLOR=white][B]BRIDGE TV ROCK[/B][/COLOR][COLOR=white][/COLOR]
-https://livetv.mylifeisgood.net.ru/channels/bridgefreshya.m3u8
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// CANAIS TOP HITS 1 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -117,13 +100,10 @@ http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]MUZZONE TV[/B][/COLOR][COLOR=white][/COLOR]
 http://muzzone-stream.daitsuna.net/muzzondvr/muzzone_dvr/chunks_dvr.m3u8
 
-#EXTINF:-1,[COLOR=white][B]NRJ HITS[/B][/COLOR][COLOR=white][/COLOR]
-http://iptvmedia.live:8080/streamnet/a8b92bb196/221
 
 ##########################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  MÚSICA ELECTRÓNICA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
-
 
 
 
@@ -568,21 +548,10 @@ http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
 http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SONUS FM[/B][/COLOR][COLOR=white][/COLOR]
 http://www.sonus.fm:1935/public/stream_720p/chunklist_w514335426.m3u8
-#EXTINF:0 tvg-id="TVM3.ch" group-title="Channels",[COLOR=white][B]TVM3[/B][/COLOR][COLOR=white][/COLOR]
-https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]XITE HD DE[/B][/COLOR][COLOR=white][/COLOR]
 https://xite-samsung-de.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]VIVALDI HD[/B][/COLOR][COLOR=white][/COLOR]
-https://bit.ly/46j0K8M?/playlist_1920x1080.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BRIDGE CLASSIC HD[/B][/COLOR][COLOR=white][/COLOR]
 http://188.191.160.238:7780/udp/239.195.1.193:1234
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SOL MUSICA HD[/B][/COLOR][COLOR=white][/COLOR]
 https://bit.ly/47gjVkn?/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MTV CLASSIC 1 SD[/B][/COLOR][COLOR=white][/COLOR]
-https://bit.ly/3WwHzol?/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MTV CLASSIC 2 SD[/B][/COLOR][COLOR=white][/COLOR]
-https://sck.pm/Ucj?/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MTV 00´S SD[/B][/COLOR][COLOR=white][/COLOR]
-http://173.225.246.25:8889/udp/239.203.20.68:4002 
-
 
