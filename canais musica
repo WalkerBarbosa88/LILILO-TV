@@ -37,7 +37,12 @@ https://000000
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR=white][B]1HD MUSIC[/B][/COLOR][COLOR=white][/COLOR]
+EXTINF:-1,[COLOR=white][B]BRIDGE TV  HITS[/B][/COLOR][COLOR=white][/COLOR]
+https://livetv.mylifeisgood.net.ru/channels/bridgetv24h.m3u8
+EXTINF:-1,[COLOR=white][B]BRIDGE TV  DELUXE[/B][/COLOR][COLOR=white][/COLOR]
+https://livetv.mylifeisgood.net.ru/channels/bridgedeluxetv.m3u8
+
+EXTINF:-1,[COLOR=white][B]1HD MUSIC[/B][/COLOR][COLOR=white][/COLOR]
 http://91.247.68.229:8000/play/1HD/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]TRACE URBAN FHD[/B][/COLOR][COLOR=white][/COLOR]
