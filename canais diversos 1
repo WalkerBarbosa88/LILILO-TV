@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 #####################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 18/11/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 12/12/2023[/B][/COLOR][COLOR=orange][/COLOR]
  
 ###########################################################################################################################################
  
@@ -44,8 +44,6 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
 https://outsidetv-roku-us.amagi.tv/playlistR1080p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PAC 12 TV[/B][/COLOR][COLOR=white][/COLOR]
 https://pac12-roku-us.amagi.tv/playlistR1080p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]FTF SPORTS[/B][/COLOR][COLOR=white][/COLOR]
-https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]HARD KNOCKS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
 #EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]PGA TOUR HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -227,7 +225,7 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 # https://www.youtube.com/watch?v=86YLFOog4GM
 #EXTINF:-1,[COLOR=white][B]NASA ISS VIEWS LIVE[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=86YLFOog4GM
+plugin://plugin.video.youtube/play/?video_id=_HGQZlK08gQ
 
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  DIVERSOS CONTEÚDOS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -381,10 +379,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59c01b195
 https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]TRAVEL XP HD[/B][/COLOR][COLOR=white][/COLOR]
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
-#EXTINF:-1,[COLOR=white][B]TRAVEL HD[/B][/COLOR][COLOR=white][/COLOR]
-https://i.mjh.nz/PlutoTV/59c01b1953680139c6ae9d4d-alt.m3u8
-#EXTINF:-1,[COLOR=white][B]JAMAICA TRAVEL CHANNEL HD[/B][/COLOR][COLOR=white][/COLOR]
-https://bit.ly/3MEeIe4?/playlist720.m3u8
 #EXTINF:-1,[COLOR=white][B]GO TRAVELER HD[/B][/COLOR][COLOR=white][/COLOR]
 https://bit.ly/GoTraveler?/playlist720_p.m3u8
 
@@ -417,8 +411,6 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]FRANCE 24 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_092/HD/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]SKY NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
-https://i.mjh.nz/PlutoTV/55b285cd2665de274553d66f-alt.m3u8
 #EXTINF:-1,[COLOR=white][B]CBS NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1,[COLOR=white][B]ABS NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -486,8 +478,4 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/master.m3u8
 https://rpn1.bozztv.com/36bay2/gusa-chefchampion/mono.m3u8
 #EXTINF:-1,[COLOR=white][B]TV COCINA HD[/B][/COLOR][COLOR=white][/COLOR]
 https://bit.ly/tvcocinaPluto?/master1080p.m3u8
-#EXTINF:-1,[COLOR=white][B]TASTE IT TV[/B][/COLOR][COLOR=white][/COLOR]
-https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
-
-
  
