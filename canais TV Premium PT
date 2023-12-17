@@ -22,60 +22,8 @@ http://0.0.0.0:0000
      Listas Várias - https://global-satinfo.in/viewforum.php?f=22&sid=14261766f220116fe35abb7ddf0e87e2
      
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 09/12/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 17/12/2023[/B][/COLOR][COLOR=orange][/COLOR]
 #EXTM3U
-
-
-####################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS EM TESTE DESPORTO PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://00000000000
-
-#EXTM3U
-
-
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",BTV FHD
-http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1497
-
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",SPORT TV+ FHD
-http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1481
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1 FHD
-http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1483
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2 FHD
-http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1486
-#EXTINF:-1,SPORT TV 2
-http://15.204.217.195/SPORTTV2/index.m3u8
-#EXTINF:-1,SPORT TV 3 
-http://15.204.217.195/SPORTTV3/index.m3u8
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",SPORT TV 3 FHD
-http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1489
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",SPORT TV 4 HD
-http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1492
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",SPORT TV 5 FHD
-http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1495
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 6 HD
-http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/281487
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV NBA FHD
-http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/2051
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 1
-http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1499
-#EXTINF:-1,ELEVEN SPORTS 1 HD
-http://wiaqmjix.rostelekom.xyz/iptv/5YS5CCM3AGT2T9/19158/index.m3u8
-#EXTINF:-1,ELEVEN 1 HD
-http://conexaoonline.top:80/IVONE123/IVONE321/261002
-#EXTINF:-1,ELEVEN 2 HD
-http://conexaoonline.top:80/IVONE123/IVONE321/261001
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 2
-http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1503
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 3
-http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1506
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 4
-http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1509
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 5
-http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1512
-#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 6
-http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1515
-
 
 
 ####################################################################################################################################
@@ -105,7 +53,7 @@ https://000000
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP INTER. AMÉRICA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://162.212.178.69:41042/bysid/608
-1
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV PERU SD[/B][/COLOR][COLOR=white][/COLOR]
 http://190.92.25.125:8000/play/a06x/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV PERU FHD[/B][/COLOR][COLOR=white][/COLOR]
@@ -129,10 +77,6 @@ http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/19059/index.m3u8
 http://51.83.238.223:16457/
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPOR TV 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://185.150.190.225:16476/
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 1 HD PL[/B][/COLOR][COLOR=white][/COLOR]
-http://ua3.iptv.monster/play/1904/350B326FB34F4B8/video.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 HD PL[/B][/COLOR][COLOR=white][/COLOR]
-http://ua3.iptv.monster/play/1903/350B326FB34F4B8/video.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ARENA SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://80.252.37.194:5000/udp/233.233.233.3:12000
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ARENA SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -207,14 +151,6 @@ https://0000000
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE+
-http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/278686
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE ACTION 
-http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1452
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE EDITION
-http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/82254
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE EMOTION
-http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1448
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVCINE TOP
-http://37.49.225.197:8080/xplatinum2023/shpaF2mG6eKEqHJ3/1446
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
+http://111111111222222222222333333333333
 
