@@ -37,10 +37,17 @@ https://000000
 #EXTM3U
 
 
-EXTINF:-1,[COLOR=white][B]BRIDGE TV  HITS[/B][/COLOR][COLOR=white][/COLOR]
+EXTINF:-1,[COLOR=white][B]MOOZ TV HITS[/B][/COLOR][COLOR=white][/COLOR]
+https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
+
+EXTINF:-1,[COLOR=white][B]BRIDGE TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://92.100.39.32:2289/play/a05x/index.m3u8
+EXTINF:-1,[COLOR=white][B]BRIDGE TV HITS[/B][/COLOR][COLOR=white][/COLOR]
 https://livetv.mylifeisgood.net.ru/channels/bridgetv24h.m3u8
-EXTINF:-1,[COLOR=white][B]BRIDGE TV  DELUXE[/B][/COLOR][COLOR=white][/COLOR]
+EXTINF:-1,[COLOR=white][B]BRIDGE TV DELUXE[/B][/COLOR][COLOR=white][/COLOR]
 https://livetv.mylifeisgood.net.ru/channels/bridgedeluxetv.m3u8
+EXTINF:-1,[COLOR=white][B]BRIDGE TV CLASSIC[/B][/COLOR][COLOR=white][/COLOR]
+https://livetv.mylifeisgood.net.ru/channels/bridgeclassictv.m3u8
 
 EXTINF:-1,[COLOR=white][B]1HD MUSIC[/B][/COLOR][COLOR=white][/COLOR]
 http://91.247.68.229:8000/play/1HD/index.m3u8
@@ -111,6 +118,11 @@ http://muzzone-stream.daitsuna.net/muzzondvr/muzzone_dvr/chunks_dvr.m3u8
 https://000000
 
 
+
+#EXTINF:-1,[COLOR=white][B]POWER TV DANCE[/B][/COLOR][COLOR=white][/COLOR]
+http://livetv.powerapp.com.tr/dance/dance.smil/chunklist.m3u8
+#EXTINF:-1,[COLOR=white][B]MOOZ DANCE TV[/B][/COLOR][COLOR=white][/COLOR]
+https://gt.mobtv.ro/channel/mooz/?stream=moozdance
 
 #EXTINF:-1,[COLOR=white][B]A STATE OF TRANCE TV[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=NGsjwNsXE0w
