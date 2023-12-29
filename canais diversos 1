@@ -162,12 +162,14 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]LOVE NATURE 4K[/B][/COLOR][COLOR=white][/COLOR]
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
 #EXTINF:-1,[COLOR=white][B]LOUPE TV 4K[/B][/COLOR][COLOR=white][/COLOR]
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-
 #EXTINF:-1,[COLOR=white][B]BLOOMBERG TV 4K[/B][/COLOR][COLOR=white][/COLOR]
 https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Bloomberg/playlist.m3u8?ads.us_privacy=1YNY&ads.wurl_channel=389&ads.wurl_name=Bloomberg&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#EXTINF:-1,[COLOR=white][B]FASHION TV 4K[/B][/COLOR][COLOR=white][/COLOR]
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]CLARITY 4K[/B][/COLOR][COLOR=white][/COLOR]
+https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 
 
 
@@ -326,14 +328,20 @@ https://000000
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]CODE FASHION TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn3.invivo.bg/Codefashion_5500/index.m3u8
+#EXTINF:-1,[COLOR=white][B]CODE FASHION TV FHD[/B][/COLOR][COLOR=white][/COLOR]
+https://cdn3.invivo.bg/Codefashion_5500/index.m3u8
+#EXTINF:-1,[COLOR=white][B]FASHION TV PARIS HD[/B][/COLOR][COLOR=white][/COLOR]
+https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]FASHION TEEN[/B][/COLOR][COLOR=white][/COLOR]
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,[COLOR=white][B]VOGUE TV[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]VOGUE TV[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]CODE FASHION HD[/B][/COLOR][COLOR=white][/COLOR]
-https://cdn3.invivo.bg/Codefashion_5500/index.m3u8
+#EXTINF:-1,[COLOR=white][B]FASHION TV MIDNIGHT SECRETS HD[/B][/COLOR][COLOR=white][/COLOR]
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]VANITY FAIR TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvanityfair/CDN/playlist.m3u8
 
  
 ###########################################################################################################################################
@@ -381,9 +389,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e78faa05
 
 #EXTINF:-1,[COLOR=white][B]HARLEY DAVIDSON FACTORY TV[/B][/COLOR][COLOR=white][/COLOR]
 https://hdtv.prod2.ioio.tv/broker/play/e529407a-cb61-45ce-a9ad-94f0ad5e0ad9.m3u8
-
-
-
+#EXTINF:-1,[COLOR=white][B]100% AUTO MOTO TV[/B][/COLOR][COLOR=white][/COLOR]
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]MOTOR SUR MEDIA HD[/B][/COLOR][COLOR=white][/COLOR]
+https://59ce1298bfb98.streamlock.net/motorsur/motorsur/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]RPM HD[/B][/COLOR][COLOR=white][/COLOR]
+https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8
 
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  VIAGENS E TURISMO  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
