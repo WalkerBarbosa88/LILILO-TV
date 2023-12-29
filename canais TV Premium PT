@@ -23,7 +23,7 @@ http://0.0.0.0:0000
      Listas Várias - https://global-satinfo.in/viewforum.php?f=22&sid=14261766f220116fe35abb7ddf0e87e2
      
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 17/12/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 29/12/2023[/B][/COLOR][COLOR=orange][/COLOR]
 #EXTM3U
 
 
@@ -59,17 +59,9 @@ http://162.212.178.69:41042/bysid/608
 http://190.92.25.125:8000/play/a06x/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV PERU FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://170.81.147.241:37000/play/a05d
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV PERU SD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.71.252.16:8000/play/a0hn/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV PERU FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://191.97.58.41:8001/play/a008
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SILK SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-https://tbs01-edge11.itdc.ge/silksport1/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SILK SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-https://tbs01-edge11.itdc.ge/silksport2/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SILK SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-https://tbs01-edge11.itdc.ge/silksport3/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/19059/index.m3u8
