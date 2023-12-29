@@ -69,10 +69,15 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ABU DHABI SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]DUBAI RACING 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]DUBAI RACING 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]DUBAI RACING 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]DUBAI SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]DUBAI SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]DUBAI SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -81,8 +86,24 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/ind
 https://edge.taghtia.com/sa/9.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]KSA SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://edge.taghtia.com/sa/10.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]KSA SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+https://edge.taghtia.com/sa/16.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]SKY TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]FUEL TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/606c2f67-acff-4152-975a-e5bfef54eb61/2.m3u8
+#EXTINF:-1,[COLOR=white][B]MUTV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]PERSIANA SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
+https://af.ayas.ir/hls2/persiana.m3u8
+#EXTINF:-1,[COLOR=white][B]RACING AMERICA HD[/B][/COLOR][COLOR=white][/COLOR]
+https://lnc-racing-america.tubi.video/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]SAN MARINO RTV SPORT HD[/B][/COLOR][COLOR=white][/COLOR]
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
+#EXTINF:-1,[COLOR=white][B]SONY SPORTS TEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+
 
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CASAS E CONSTRUÇÃO  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
