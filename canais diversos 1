@@ -472,6 +472,20 @@ https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/chu
 #EXTINF:-1,[COLOR=white][B]DW NEWS HD ENG[/B][/COLOR][COLOR=white][/COLOR]
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
+#EXTINF:-1,[COLOR=white][B]AFRICA+ NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
+http://connectiktv.ddns.me:8080/live/61f1b992a6e8a-1/index.m3u8
+#EXTINF:-1,[COLOR=white][B]AFRICANEWS HD[/B][/COLOR][COLOR=white][/COLOR]
+https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]CNN INTER. EUROPA HD[/B][/COLOR][COLOR=white][/COLOR]
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]CNN PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
+https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
+#EXTINF:-1,[COLOR=white][B]CNN BRASIL HD[/B][/COLOR][COLOR=white][/COLOR]
+https://ythls.armelin.one/channel/UCvdwhh_fDyWccR42-rReZLw.m3u8
+#EXTINF:-1,[COLOR=white][B]EURONEWS HD ENG[/B][/COLOR][COLOR=white][/COLOR]
+https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]FOX NEWS CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  NEGÓCIOS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -482,6 +496,10 @@ https://000000
 https://30a-tv.com/feeds/xodglobal/30atv.m3u8
 #EXTINF:-1,[COLOR=white][B]BLOOMBERG TV EUROPE HD[/B][/COLOR][COLOR=white][/COLOR]
 https://bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1,[COLOR=white][B]BLOOMBERG TV US LIVE EVENT HD[/B][/COLOR][COLOR=white][/COLOR]
+https://bloomberg.com/media-manifest/streams/us-event.m3u8
+#EXTINF:-1,[COLOR=white][B]BLOOMBERG TV+[/B][/COLOR][COLOR=white][/COLOR]
+https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]YAHOO FINANCES[/B][/COLOR][COLOR=white][/COLOR]
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]BFM TV BUSINESS[/B][/COLOR][COLOR=white][/COLOR]
@@ -508,4 +526,24 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/master.m3u8
 https://rpn1.bozztv.com/36bay2/gusa-chefchampion/mono.m3u8
 #EXTINF:-1,[COLOR=white][B]TV COCINA HD[/B][/COLOR][COLOR=white][/COLOR]
 https://bit.ly/tvcocinaPluto?/master1080p.m3u8
+
+
+###########################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  ANIMAÇÃO INFANTIL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+
+#EXTINF:-1,[COLOR=white][B]CARTOON NETWORK BR HD[/B][/COLOR][COLOR=white][/COLOR]
+https://playout.cdn.cartoonnetwork.com.br/playout_05/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]CARTOONITO BR HD[/B][/COLOR][COLOR=white][/COLOR]
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]ANIPLUS FHD[/B][/COLOR][COLOR=white][/COLOR]
+https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]KURIAKOS KIDS FHD[/B][/COLOR][COLOR=white][/COLOR]
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]PANDAMAX CHANNEL FHD[/B][/COLOR][COLOR=white][/COLOR]
+https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
+
+
+
  
