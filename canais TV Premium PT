@@ -28,6 +28,46 @@ http://0.0.0.0:0000
 
 
 ####################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS DESPORTO EM TESTE PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://00000000000
+
+#EXTM3U
+
+
+#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",PT: BTV HD
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/1497
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",PT: SPORT TV +
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/1481
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/1483
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/1486
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/1489
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/1492
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT: SPORT TV 5
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/1495
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 6
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/281487
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV NBA
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/2051
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 1
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/1499
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 2
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/1503
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 3
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/1506
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 4
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/1509
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 5
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/1512
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 6
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/1515
+
+
+####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS SPORT TV PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://00000000000
 
@@ -144,6 +184,16 @@ https://0000000
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
-http://111111111222222222222333333333333
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCine Action
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/1452
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCine Edition
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/82254
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCine Emotion
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/1448
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCine Top
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/1446
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCine+
+http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/278686
+
+
 
