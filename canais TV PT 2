@@ -5,8 +5,284 @@ http://0.0.0.0:0000
 ####################################################################################################################################################
  
 #EXTM3U
-#EXTINF:-1,[COLOR=yellow][B]LISTA EM BREVE DISPONÍVEL[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]LISTA ADICIONADA EM: 03/01/2024[/B][/COLOR][COLOR=yellow][/COLOR]
 
 #EXTM3U
 
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT 24 KITCHEN HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/966
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT A BOLA TV
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/965
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT AFRO MUSIC
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/964
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT AMC
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/963
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT AMC HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/962
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT AR TV 'PT
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/961
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT AXN
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/960
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT AXN BLACK
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/959
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT AXN BLACK HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/958
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT AXN HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/957
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT AXN WHITE
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/956
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT AXN WHITE HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/955
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT BABY TV
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/954
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT Benfica TV
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/640766
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT BENFICA TV 1
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/953
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT BENFICA TV 1 HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/952
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT BLAZE HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/951
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT CANAL 11
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/947
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT CANAL 11 HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/946
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT PANDA BIGGS
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/944
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT CANAL PANDA
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/942
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT CANAL Q
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/941
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT Cancao Nova
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/940
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT CARTOON NETWORK
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/939
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT CAçA E PESCA HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/949
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT CAçAVISION
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/948
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT CBS REALITY
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/938
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT CINEMUNDO
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/937
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT CINEMUNDO HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/936
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT CMTV
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/935
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT CMTV HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/934
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT CRIME INVESTIGATION HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/932
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT DISCOVERY CHANNEL
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/931
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT DISCOVERY CHANNEL HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/930
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT DISNEY CHANNEL
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/929
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT DISNEY JUNIOR
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/928
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT E! ENTERTAINMENT HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/927
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT ELEVEN SPORTS 1
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/926
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT ELEVEN SPORTS 1 HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/925
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT ELEVEN SPORTS 2
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/924
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT ELEVEN SPORTS 2 HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/923
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT ELEVEN SPORTS 3
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/922
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT ELEVEN SPORTS 3 HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/921
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT ELEVEN SPORTS 4
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/920
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT ELEVEN SPORTS 4 HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/919
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT ELEVEN SPORTS 5
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/918
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT ELEVEN SPORTS 5 HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/917
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT ELEVEN SPORTS 6
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/916
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT ELEVEN SPORTS 6 HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/915
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT EURONEWS
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/913
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT EUROSPORT 1
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/911
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT EUROSPORT 2
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/910
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT FASHION TV
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/909
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT FOX
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/907
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT FOX COMEDY
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/906
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT FOX COMEDY HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/905
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT FOX CRIME
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/904
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT FOX CRIME HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/903
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT FOX HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/902
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT FOX LIFE HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/901
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT FOX MOVIES
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/900
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT FOX MOVIES HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/899
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT FUEL TV HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/898
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT GLOBO NOW
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/896
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT HISTORIA
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/895
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT HOLLYWOOD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/894
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT JIMJAM
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/893
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT KOMBAT SPORT
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/892
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT KURIAKOS TV
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/888
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT MCM POP
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/886
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT MCM TOP
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/885
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT MOTORVISION HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/884
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT MTV HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/883
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT MY CUISINE
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/881
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT NAT GEO WILD HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/880
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT NATIONAL GEOGRAPHIC HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/879
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT NBA TV HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/878
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT NICKELODEON
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/877
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT NOS STUDIOS HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/876
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT ODISSEIA HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/875
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT OUTDOOR CHANNEL HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/874
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT PFC
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/873
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT PORTO CANAL HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/872
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT RECORD NEWS
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/871
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT RTP 1
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/870
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT RTP 1 HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/869
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT RTP 2
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/868
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT RTP 2 HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/867
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT RTP 3 HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/866
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT RTP ACORES
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/865
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT RTP AFRICA
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/864
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT RTP MADEIRA
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/863
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT RTP MEMORIA
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/862
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT SANTUARIO DE FATIMA
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/860
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT SIC
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/859
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT SIC CARAS HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/858
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT SIC HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/857
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT SIC KIDS HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/856
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT SIC MULHER HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/855
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT SIC NOTICIAS
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/854
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT SIC NOTICIAS HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/853
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT SIC RADICAL HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/852
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT SPORT TV 1
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/849
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT SPORT TV 1 HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/848
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT SPORT TV 2
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/847
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT SPORT TV 2 HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/846
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT SPORT TV 3
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/845
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT SPORT TV 3 HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/844
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT SPORT TV 4
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/843
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT SPORT TV 4 HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/842
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT SPORT TV 5
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/840
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT SPORT TV 5 HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/839
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT Sport TV+
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/51139
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT SPORTING TV HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/838
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT SYFY HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/836
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT TLC
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/834
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT TOROS TV
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/833
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT TPA International
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/832
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT TRACE TOCA HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/831
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT Trace Urban
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/51062
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT TRAVEL CHANNEL HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/830
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT TV GLOBO HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/828
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT TV RECORD HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/827
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT TV SERIES
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/826
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT TVCINE ACTION
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/818
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT TVCINE EDITION
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/822
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT TVCINE EDITION HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/821
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT TVCINE EMOTION
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/820
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT TVCINE EMOTION HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/819
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT TVCINE TOP
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/824
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT TVCINE TOP HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/823
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT TVI
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/816
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT TVI 24
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/815
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT TVI FICAO
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/809
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT TVI HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/808
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT TVI REALITY
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/807
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT VH1
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/806
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT ZAP Viva HD
+http://live.lordstreams.co:8080/sp-restream/f1yV8DojJ9/805
