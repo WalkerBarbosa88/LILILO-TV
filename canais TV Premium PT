@@ -23,9 +23,50 @@ http://0.0.0.0:0000
      Listas Várias - https://global-satinfo.in/viewforum.php?f=22&sid=14261766f220116fe35abb7ddf0e87e2
      
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 29/12/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 09/01/2024[/B][/COLOR][COLOR=orange][/COLOR]
 #EXTM3U
 
+
+
+
+####################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B] /////////  NOVOS CANAIS DESPORTO PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://00000000000
+
+#EXTM3U
+
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",BTV HD
+http://myteve.online:8080/Abraham/6b3ca724a0/1497
+#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",SPORT TV+
+http://myteve.online:8080/Abraham/6b3ca724a0/1481
+#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1
+http://myteve.online:8080/Abraham/6b3ca724a0/1483
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2
+http://myteve.online:8080/Abraham/6b3ca724a0/1486
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",SPORT TV 3
+http://myteve.online:8080/Abraham/6b3ca724a0/1489
+#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",SPORT TV 4
+http://myteve.online:8080/Abraham/6b3ca724a0/1492
+#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",SPORT TV 5
+http://myteve.online:8080/Abraham/6b3ca724a0/1495
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 6
+http://myteve.online:8080/Abraham/6b3ca724a0/281487
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV NBA
+http://myteve.online:8080/Abraham/6b3ca724a0/2051
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV NBA
+http://myteve.online:8080/Abraham/6b3ca724a0/296750
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 1
+http://myteve.online:8080/Abraham/6b3ca724a0/1499
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 2
+http://myteve.online:8080/Abraham/6b3ca724a0/1503
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 3
+http://myteve.online:8080/Abraham/6b3ca724a0/1506
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 4
+http://myteve.online:8080/Abraham/6b3ca724a0/1509
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 5
+http://myteve.online:8080/Abraham/6b3ca724a0/1512
+#EXTINF:0 tvg-id="ext" group-title="Channels",ELEVEN SPORTS 6
+http://myteve.online:8080/Abraham/6b3ca724a0/1515
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS SPORT TV PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -146,15 +187,13 @@ https://0000000
 
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE ACTION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/1452
+http://myteve.online:8080/Abraham/6b3ca724a0/1452
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EDITION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/82254
+http://myteve.online:8080/Abraham/6b3ca724a0/82254
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EMOTION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/1448
+http://myteve.online:8080/Abraham/6b3ca724a0/1448
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/1446
+http://myteve.online:8080/Abraham/6b3ca724a0/1446
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE+ HD[/B][/COLOR][COLOR=white][/COLOR]
-http://iptvtree.net:8080/Miglior/TVQfjSwFKWN26Hu3qy4Pkx/278686
-
-
+http://myteve.online:8080/Abraham/6b3ca724a0/278686
 
