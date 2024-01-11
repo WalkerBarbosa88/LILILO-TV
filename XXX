@@ -7,7 +7,7 @@ http://0.0.0.0:0000
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 24/11/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 11/01/2024[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -17,12 +17,6 @@ http://0.0.0.0:0000
 
 #EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]FASHION TV MIDNITE SECRETS[/B][/COLOR][COLOR=white][/COLOR]
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]MIAMI TV - JENNY LIVE 1[/B][/COLOR][COLOR=white][/COLOR]
-https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]MIAMI TV - JENNY LIVE 1[/B][/COLOR][COLOR=white][/COLOR]
-https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-
 #EXTINF:-1,[COLOR=white][B]EXTASY FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.81.133.133:8080/extasy4k/index.m3u8
 #EXTINF:-1,[COLOR=white][B]VISIT X TV[/B][/COLOR][COLOR=white][/COLOR]
