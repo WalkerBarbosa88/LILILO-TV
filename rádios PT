@@ -8,7 +8,7 @@ FONTE DE INFORMAÇÃO: http://fmstream.org/index.php?c=G&o=top  -  https://www.r
 
 Rádios de Portugal por distrito - https://pt.wikipedia.org/wiki/Lista_de_r%C3%A1dios_de_Portugal
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 29/11/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 11/01/2024[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
@@ -88,10 +88,7 @@ http://centova.radio.com.pt:8243/;
 http://centova.radio.com.pt:8495/;
 
 #EXTINF:-0,[COLOR=white][B]RÁDIO RENASCENÇA[/B][/COLOR][COLOR=white][/COLOR]
-http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC
-
-#EXTINF:-0,[COLOR=white][B]RÁDIO RENASCENÇA[/B][/COLOR][COLOR=white][/COLOR]
-https://20723.live.streamtheworld.com/RADIO_RENASCENCAAAC
+https://27823.live.streamtheworld.com/RADIO_RENASCENCA_SC
 
 #EXTINF:-0,[COLOR=white][B]RÁDIO NIT ONLINE[/B][/COLOR][COLOR=white][/COLOR]
 https://sp0.redeaudio.com/8028/stream/
@@ -106,10 +103,10 @@ https://stream-icy.bauermedia.pt/comercial.mp3
 https://stream-icy.bauermedia.pt/m80.mp3
 
 #EXTINF:-1,[COLOR=white][B]RFM NACIONAL[/B][/COLOR][COLOR=white][/COLOR]
-http://21313.live.streamtheworld.com/RFMAAC.aac
+https://22353.live.streamtheworld.com/RFM_SC
   
 #EXTINF:-1,[COLOR=white][B]RÁDIO MEGA HITS[/B][/COLOR][COLOR=white][/COLOR]
-http://21313.live.streamtheworld.com/MEGA_HITSAAC.aac
+https://22533.live.streamtheworld.com/MEGA_HITS_SC
  
 #EXTINF:-0,[COLOR=white][B]RÁDIO SUPERFM[/B][/COLOR][COLOR=white][/COLOR]
 https://sp0.redeaudio.com/9962/;;/stream.mp3
@@ -200,8 +197,6 @@ https://sp0.redeaudio.com/9330/;
 https://sp0.redeaudio.com/9920/stream
 #EXTINF:-1,[COLOR=white][B]REGIONAL DE AROUCA[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radios.pt:8485/;
-#EXTINF:-1,[COLOR=white][B]SINTONIA FEIRENSE[/B][/COLOR][COLOR=white][/COLOR]
-http://95.217.75.38:9832/;
 
 
 ######################################################################################################################################
@@ -311,8 +306,6 @@ http://centova.radios.pt:8467/;
 http://centova.radio.com.pt:8427/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO CLUBE DA COVILHÃ[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radios.pt:9450/;
-#EXTINF:-1,[COLOR=white][B]RÁDIO CLUBE DE MONSANTO[/B][/COLOR][COLOR=white][/COLOR]
-http://centova.radio.com.pt:9424/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO NOVA ESTRELA[/B][/COLOR][COLOR=white][/COLOR]
 https://sonic.h2.pt/8008/stream
 
@@ -337,8 +330,6 @@ https://nl.digitalrm.pt:8140/stream
 http://cast.evsportugal.com:8135/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO UNIV. COIMBRA[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.ruc.pt/high
-#EXTINF:-1,[COLOR=white][B]RÁDIO LUSITÂNIA[/B][/COLOR][COLOR=white][/COLOR]
-https://stm10.painelcast.com:7540/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO CONDESTÁVEL[/B][/COLOR][COLOR=white][/COLOR]
 https://centova.radio.com.pt/proxy/427?mp=/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO BOA NOVA[/B][/COLOR][COLOR=white][/COLOR]
@@ -578,7 +569,6 @@ https://radios.justweb.pt/8026/stream
 https://000000000000000000000
 
 
-
 #EXTINF:-1,[COLOR=white][B]SUPERFM ONLINE[/B][/COLOR][COLOR=white][/COLOR]
 https://sp0.redeaudio.com/9962/;;/stream.mp3
 #EXTINF:-1,[COLOR=white][B]RÁDIO SUPER SANTIAGO[/B][/COLOR][COLOR=white][/COLOR]
@@ -587,8 +577,7 @@ http://s5.stmxp.net:8004/stream
 https://stream-47.zeno.fm/s9bwyczq6tzuv?zs=x4DvqtO1ReG9IReBZeZJIw
 #EXTINF:-1,[COLOR=white][B]RÁDIO POPULAR[/B][/COLOR][COLOR=white][/COLOR]
 http://185.11.164.106:32281/stream
-#EXTINF:-1,[COLOR=white][B]TUGA FM[/B][/COLOR][COLOR=white][/COLOR]
-https://tugafm.stream.laut.fm/tugafm?t302=2022-09-27_18-55-50&uuid=554e5392-bed7-4c71-9dc7-dc1e1ff3082c
+
 
 ######################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  DISTRITO: VIANA DO CASTELO  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -616,8 +605,6 @@ https://sp0.redeaudio.com/8122/stream
 https://000000000000000000000
 
 
-#EXTINF:-1,[COLOR=white][B]RÁDIO CHAVES FM[/B][/COLOR][COLOR=white][/COLOR]
-http://213.136.92.8:8004/;
 #EXTINF:-1,[COLOR=white][B]UNIV. FM VILA REAL[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radio.com.pt:8405/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO MONTALEGRE[/B][/COLOR][COLOR=white][/COLOR]
@@ -646,8 +633,6 @@ http://centova.radio.com.pt:9430/;
 http://centova.radios.pt:8465/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO LIMITE[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radio.com.pt:9408/;
-#EXTINF:-1,[COLOR=white][B]RÁDIO ESCURO[/B][/COLOR][COLOR=white][/COLOR]
-https://nl.digitalrm.pt:8116/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO CLUBE DE LAMEGO[/B][/COLOR][COLOR=white][/COLOR]
 http://109.71.41.6:8110/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO UNIVERSIDADE NELAS[/B][/COLOR][COLOR=white][/COLOR]
