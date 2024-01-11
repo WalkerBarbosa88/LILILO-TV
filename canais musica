@@ -4,7 +4,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 29/12/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 11/01/2024[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -109,9 +109,6 @@ http://server.bellaradio.it:1935/live/bellaradiotv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]ZEROUNO TV[/B][/COLOR][COLOR=white][/COLOR]
 http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]MUZZONE TV[/B][/COLOR][COLOR=white][/COLOR]
-http://muzzone-stream.daitsuna.net/muzzondvr/muzzone_dvr/chunks_dvr.m3u8
-
 
 ##########################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  MÚSICA ELECTRÓNICA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -157,8 +154,6 @@ https://mbit1.worldcast.tv/dancetelevisionnine/stream_0.m3u8
 https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
 #EXTINF:-1,[COLOR=white][B]DANCE TV - MAINSTREAM[/B][/COLOR][COLOR=white][/COLOR]
 https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]DANCE STAR TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
 #EXTINF:-1,[COLOR=white][B]QUEST DANCE[/B][/COLOR][COLOR=white][/COLOR]
 https://qwest-mix-plex.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="UK" tvg-language="English" tvg-logo="https://i.imgur.com/aqMhht6.png" group-title="",[COLOR=white][B]CLUBBING TV[/B][/COLOR][COLOR=white][/COLOR]
@@ -277,9 +272,6 @@ https://56b50ada2d659.streamlock.net/LoveFM/livestream/chunklist_w541521754.m3u8
 #EXTINF:-1,[COLOR=white][B]R-MUSIC RU HD[/B][/COLOR][COLOR=white][/COLOR]
 https://otv.wotom.net/rmusic/stream.m3u8
 
-#EXTINF:-1,[COLOR=white][B]MAIDAN HD[/B][/COLOR][COLOR=white][/COLOR]
-http://live-maidantv.cdnvideo.ru/maidantv/maidantv_720/playlist.m3u8
-
 #EXTINF:-1,[COLOR=white][B]88 STEREO TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 
@@ -309,9 +301,6 @@ https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8?PlaylistM3U
 
 #EXTINF:-1,[COLOR=white][B]POWER TURK HD[/B][/COLOR][COLOR=white][/COLOR]
 http://r9z2g8ik.rostelekom.xyz/iptv/VX6X4Z39LH25GU/2297/index.m3u8
-
-#EXTINF:-1,[COLOR=white][B]MUZZONE TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://muzzone-stream.daitsuna.net/muzzondvr/muzzone_360/chunks_dvr.m3u8
 
 #EXTINF:-1,[COLOR=white][B]R MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
 https://otv.wotom.net/rmusic/stream.m3u8
