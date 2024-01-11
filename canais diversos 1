@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 #####################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 29/12/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 11/01/2024[/B][/COLOR][COLOR=orange][/COLOR]
  
 ###########################################################################################################################################
  
@@ -48,8 +48,6 @@ https://pac12-roku-us.amagi.tv/playlistR1080p.m3u8
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
 #EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]PGA TOUR HD[/B][/COLOR][COLOR=white][/COLOR]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5de94dacb394a300099fa22a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=713&terminate=false&userId=
-#EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]YAS HD[/B][/COLOR][COLOR=white][/COLOR]
-https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]SPORTS TV PLUS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
 #EXTINF:-1,[COLOR=white][B]BET TV SPORTS[/B][/COLOR][COLOR=white][/COLOR]
@@ -63,12 +61,7 @@ https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 *****************************************************  LISTA IPTV ORG DESPORTO  *********************************************************
 
 
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ABU DHABI SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ABU DHABI SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]ABU DHABI SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]DUBAI RACING 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]DUBAI RACING 2 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -88,11 +81,7 @@ https://edge.taghtia.com/sa/9.m3u8
 https://edge.taghtia.com/sa/10.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]KSA SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://edge.taghtia.com/sa/16.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]SKY TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]FUEL TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/606c2f67-acff-4152-975a-e5bfef54eb61/2.m3u8
 #EXTINF:-1,[COLOR=white][B]MUTV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]PERSIANA SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -152,8 +141,6 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,H
 #EXTINF:-1,[COLOR=white][B]HOME WITH FAMILY HANDYMAN HD[/B][/COLOR][COLOR=white][/COLOR]
 https://jukin-homefamilyhandyman-1-us.lg.wurl.tv/playlist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
-http://redima.pro:8880/LUISA1/6941/434
 
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  ESPECIAL CANAIS 4K  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -248,8 +235,6 @@ plugin://plugin.video.youtube/play/?video_id=_HGQZlK08gQ
 
 #EXTINF:-1,[COLOR=white][B]UNWEB TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1,[COLOR=white][B]SMITHSONIAN TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]SMITHSONIAN TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://168.205.87.198:8555/live/aleixo/123456/173.m3u8
 
@@ -439,8 +424,6 @@ https://lonestar-rakuten.amagi.tv/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]STIRR MOVIES[/B][/COLOR][COLOR=white][/COLOR]
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
-#EXTINF:-1,[COLOR=white][B]BRAT TV FHD[/B][/COLOR][COLOR=white][/COLOR]
-https://brat-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]CHARGE TV[/B][/COLOR][COLOR=white][/COLOR]
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:-1,[COLOR=white][B]TOPCINE TV[/B][/COLOR][COLOR=white][/COLOR]
