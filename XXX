@@ -15,6 +15,10 @@ http://0.0.0.0:0000
 #EXTM3U
 
 
+
+#EXTINF:-1,[COLOR=white][B]A3 BIKINI FHD[/B][/COLOR][COLOR=white][/COLOR]
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="XXX",[COLOR=white][B]FASHION TV MIDNITE SECRETS[/B][/COLOR][COLOR=white][/COLOR]
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]EXTASY FHD[/B][/COLOR][COLOR=white][/COLOR]
