@@ -50,6 +50,17 @@ http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]ENGLISH CLUB TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://iptv.prosto.tv:7000/ch206/video.m3u8
 
+#EXTINF:-1,[COLOR=white][B]NASCI PARA CANTAR TV[/B][/COLOR][COLOR=white][/COLOR]
+https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/chunklist_w939901266.m3u8
+#EXTINF:-1,[COLOR=white][B]IES TV - IGREJA DO ESPÍRITO SANTO[/B][/COLOR][COLOR=white][/COLOR]
+https://joaocaiado.com:1443/ies_tv/ngrp:ies_tv_all/chunklist_w1124752031_b2030132.m3u8
+#EXTINF:-1,[COLOR=white][B]WAY TV[/B][/COLOR][COLOR=white][/COLOR]
+https://stream.castr.com/5d714f6a0bd97874e36f14e4/live_3a0f544056e711ec8d4bc33d28c33b2a/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1,[COLOR=white][B]PORTO TV[/B][/COLOR][COLOR=white][/COLOR]
+https://stream-05.dc3.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0sxkhMnmZ6k1KnLXhQpuOCXlcKZxFeXpIKNhh6k7bbKh)/dm/3/x8egnb8/s/live-2.m3u8#cell=lcore
+#EXTINF:-1,[COLOR=white][B]ADB TV[/B][/COLOR][COLOR=white][/COLOR]
+https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv_3/chunklist_w461001328.m3u8
+
 
 ##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS EXPRESSÃO PT ÁFRICA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
