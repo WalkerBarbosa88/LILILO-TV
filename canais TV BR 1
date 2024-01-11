@@ -3,7 +3,7 @@
 http://0.0.0.0:0000
 ############################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS ATUALIZADA: 29/12/2023[/B][/COLOR][COLOR=orange][/COLOR] 
+#EXTINF:-1,[COLOR=orange][B]LISTAS ATUALIZADA: 11/01/2024[/B][/COLOR][COLOR=orange][/COLOR] 
 
 Fonte de Informação: 
 
@@ -44,8 +44,6 @@ https://stmv1.srvif.com/animetv/animetv/chunklist_w1018983833.m3u8
 https://stmv1.srvif.com/tvserie/tvserie/chunklist_w703739457.m3u8
 #EXTINF:-1,[COLOR=white][B]BONS TEMPOS TV[/B][/COLOR][COLOR=white][/COLOR]
 https://stmv1.srvif.com/canal29/canal29/chunklist_w1142321875.m3u8
-#EXTINF:-1,[COLOR=white][B]TV CLÁSSICOS[/B][/COLOR][COLOR=white][/COLOR]
-https://live01.livemustv.com.br/livemustv7426/livemustv7426/chunklist_w1822278367.m3u8
 #EXTINF:-1,[COLOR=white][B]ANIMESTATION[/B][/COLOR][COLOR=white][/COLOR]
 https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w1929320206.m3u8
 #EXTINF:-1,[COLOR=white][B]MEGA TV[/B][/COLOR][COLOR=white][/COLOR]
@@ -63,6 +61,15 @@ http://5cf4a2c2512a2.streamlock.net:1935/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://51.83.238.223:16515/
 
+#EXTINF:-1,[COLOR=white][B]ESPN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://myteve.online:8080/Abraham/6b3ca724a0/8793
+#EXTINF:-1,[COLOR=white][B]ESPN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://myteve.online:8080/Abraham/6b3ca724a0/8801
+#EXTINF:-1,[COLOR=white][B]ESPN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://myteve.online:8080/Abraham/6b3ca724a0/290657
+#EXTINF:-1,[COLOR=white][B]ESPN 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://myteve.online:8080/Abraham/6b3ca724a0/299345
+
 
 ##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS DISCOVERY & CASAS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -71,8 +78,12 @@ https://000000
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
 http://kuchini.site:8080/devtv/5af3eeb538/147274
+#EXTINF:-1,[COLOR=white][B]DISCOVERY H&H HD[/B][/COLOR][COLOR=white][/COLOR]
+http://myteve.online:8080/Abraham/6b3ca724a0/8904
+#EXTINF:-1,[COLOR=white][B]DISCOVERY TURBO HD[/B][/COLOR][COLOR=white][/COLOR]
+http://myteve.online:8080/Abraham/6b3ca724a0/8891
 
 
 ##########################################################################################################################################
@@ -108,7 +119,500 @@ https://000000
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",NÃO DISPONÍVEL
-http://00000000001111111111444444444555555
-
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: 1001 Noites
+http://myteve.online:8080/Abraham/6b3ca724a0/286064
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: 24 Kitchen
+http://myteve.online:8080/Abraham/6b3ca724a0/16409
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: A vida moderna de Rocko
+http://myteve.online:8080/Abraham/6b3ca724a0/286065
+#EXTINF:0 tvg-id="Ae.br" group-title="Channels",BR: A&E
+http://myteve.online:8080/Abraham/6b3ca724a0/8816
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: AgroBrasil TV
+http://myteve.online:8080/Abraham/6b3ca724a0/7320
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: All Sports
+http://myteve.online:8080/Abraham/6b3ca724a0/7321
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: AMC
+http://myteve.online:8080/Abraham/6b3ca724a0/8845
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="Channels",BR: ANIMAL PLANET
+http://myteve.online:8080/Abraham/6b3ca724a0/8890
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Anime TV
+http://myteve.online:8080/Abraham/6b3ca724a0/286067
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ARTE 1
+http://myteve.online:8080/Abraham/6b3ca724a0/8833
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: As Aventuras de Jackie Chan
+http://myteve.online:8080/Abraham/6b3ca724a0/286068
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: As Pistas de Blue
+http://myteve.online:8080/Abraham/6b3ca724a0/286069
+#EXTINF:0 tvg-id="Axn.br" group-title="Channels",BR: AXN
+http://myteve.online:8080/Abraham/6b3ca724a0/8852
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Baby TV
+http://myteve.online:8080/Abraham/6b3ca724a0/297504
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Band Campinas
+http://myteve.online:8080/Abraham/6b3ca724a0/280153
+#EXTINF:0 tvg-id="Bandnews.br" group-title="Channels",BR: Band News
+http://myteve.online:8080/Abraham/6b3ca724a0/14486
+#EXTINF:0 tvg-id="Bandsports.br" group-title="Channels",BR: Band Sports
+http://myteve.online:8080/Abraham/6b3ca724a0/8777
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Band Vale
+http://myteve.online:8080/Abraham/6b3ca724a0/8938
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Bandkids 1
+http://myteve.online:8080/Abraham/6b3ca724a0/299343
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Bandkids 2
+http://myteve.online:8080/Abraham/6b3ca724a0/299344
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: BDMG
+http://myteve.online:8080/Abraham/6b3ca724a0/299342
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: BET Being Mary Jane
+http://myteve.online:8080/Abraham/6b3ca724a0/286070
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: BET Pluto TV
+http://myteve.online:8080/Abraham/6b3ca724a0/286071
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: BIS
+http://myteve.online:8080/Abraham/6b3ca724a0/24621
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Brazi TV/TV Cultura
+http://myteve.online:8080/Abraham/6b3ca724a0/299371
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Camara Dos Deputados
+http://myteve.online:8080/Abraham/6b3ca724a0/285517
+#EXTINF:0 tvg-id="Canalbrasil.br" group-title="Channels",BR: Canal Brasil
+http://myteve.online:8080/Abraham/6b3ca724a0/14569
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Canal Off
+http://myteve.online:8080/Abraham/6b3ca724a0/14532
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Canal Saude
+http://myteve.online:8080/Abraham/6b3ca724a0/286075
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Canal Viva
+http://myteve.online:8080/Abraham/6b3ca724a0/14553
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Cancao Nova
+http://myteve.online:8080/Abraham/6b3ca724a0/7387
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Cartoon Network
+http://myteve.online:8080/Abraham/6b3ca724a0/8913
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Cartoonito
+http://myteve.online:8080/Abraham/6b3ca724a0/299695
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Catve
+http://myteve.online:8080/Abraham/6b3ca724a0/301221
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: CBN Rio De Janeiro
+http://myteve.online:8080/Abraham/6b3ca724a0/283843
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Central TV Brazil
+http://myteve.online:8080/Abraham/6b3ca724a0/286793
+#EXTINF:0 tvg-id="Cinemax.br" group-title="Channels",BR: Cinemax
+http://myteve.online:8080/Abraham/6b3ca724a0/8834
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: CNN Brasil
+http://myteve.online:8080/Abraham/6b3ca724a0/148404
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: COM Brasil
+http://myteve.online:8080/Abraham/6b3ca724a0/286072
+#EXTINF:0 tvg-id="Combate.br" group-title="Channels",BR: Combate
+http://myteve.online:8080/Abraham/6b3ca724a0/8778
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Comedy Central
+http://myteve.online:8080/Abraham/6b3ca724a0/8779
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Comedy Central South Park
+http://myteve.online:8080/Abraham/6b3ca724a0/286080
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Conmebol 1
+http://myteve.online:8080/Abraham/6b3ca724a0/291179
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Conmebol 2
+http://myteve.online:8080/Abraham/6b3ca724a0/291180
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Conmebol 3
+http://myteve.online:8080/Abraham/6b3ca724a0/291181
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Conmebol 4
+http://myteve.online:8080/Abraham/6b3ca724a0/291182
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Cultura
+http://myteve.online:8080/Abraham/6b3ca724a0/14491
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Curta
+http://myteve.online:8080/Abraham/6b3ca724a0/166654
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Discovery Channel
+http://myteve.online:8080/Abraham/6b3ca724a0/299696
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Discovery H&H Brasil
+http://myteve.online:8080/Abraham/6b3ca724a0/8904
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Discovery Kids
+http://myteve.online:8080/Abraham/6b3ca724a0/8893
+#EXTINF:0 tvg-id="DiscoveryScience.br" group-title="Channels",BR: Discovery Science
+http://myteve.online:8080/Abraham/6b3ca724a0/8910
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Discovery Theater
+http://myteve.online:8080/Abraham/6b3ca724a0/8892
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="Channels",BR: Discovery Turbo
+http://myteve.online:8080/Abraham/6b3ca724a0/8891
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Discovery World
+http://myteve.online:8080/Abraham/6b3ca724a0/279608
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Disney Junior
+http://myteve.online:8080/Abraham/6b3ca724a0/8916
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Disney XD
+http://myteve.online:8080/Abraham/6b3ca724a0/8917
+#EXTINF:0 tvg-id="E.br" group-title="Channels",BR: E!
+http://myteve.online:8080/Abraham/6b3ca724a0/14501
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: EPTV
+http://myteve.online:8080/Abraham/6b3ca724a0/281736
+#EXTINF:0 tvg-id="Espn.br" group-title="Channels",BR: ESPN
+http://myteve.online:8080/Abraham/6b3ca724a0/8793
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ESPN 2
+http://myteve.online:8080/Abraham/6b3ca724a0/8801
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ESPN 3
+http://myteve.online:8080/Abraham/6b3ca724a0/290657
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ESPN 4
+http://myteve.online:8080/Abraham/6b3ca724a0/299345
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ESPN Extra
+http://myteve.online:8080/Abraham/6b3ca724a0/8789
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ESPN Vivo
+http://myteve.online:8080/Abraham/6b3ca724a0/299348
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: FailArmy
+http://myteve.online:8080/Abraham/6b3ca724a0/286084
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Filmes Suspense
+http://myteve.online:8080/Abraham/6b3ca724a0/286561
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Fish TV
+http://myteve.online:8080/Abraham/6b3ca724a0/8848
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Fonte TV
+http://myteve.online:8080/Abraham/6b3ca724a0/275967
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Food Network
+http://myteve.online:8080/Abraham/6b3ca724a0/8863
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Fox Crime
+http://myteve.online:8080/Abraham/6b3ca724a0/16366
+#EXTINF:0 tvg-id="Foxlife.br" group-title="Channels",BR: Fox Life
+http://myteve.online:8080/Abraham/6b3ca724a0/8818
+#EXTINF:0 tvg-id="Foxsports2.br" group-title="Channels",BR: FOX SPORTS 2
+http://myteve.online:8080/Abraham/6b3ca724a0/8776
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Futura
+http://myteve.online:8080/Abraham/6b3ca724a0/7342
+#EXTINF:0 tvg-id="Fx.br" group-title="Channels",BR: FX
+http://myteve.online:8080/Abraham/6b3ca724a0/8835
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Amazonas
+http://myteve.online:8080/Abraham/6b3ca724a0/14593
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Asa Branca
+http://myteve.online:8080/Abraham/6b3ca724a0/193343
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Bahia
+http://myteve.online:8080/Abraham/6b3ca724a0/295106
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Brasilia
+http://myteve.online:8080/Abraham/6b3ca724a0/295107
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Cuiaba
+http://myteve.online:8080/Abraham/6b3ca724a0/24555
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: GLOBO EPTV Campinas
+http://myteve.online:8080/Abraham/6b3ca724a0/24554
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo EPTV Ribeirao Preto
+http://myteve.online:8080/Abraham/6b3ca724a0/295110
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo EPTV Sao Carlos
+http://myteve.online:8080/Abraham/6b3ca724a0/14594
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Fortaleza
+http://myteve.online:8080/Abraham/6b3ca724a0/36851
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Inter TV Cabugi
+http://myteve.online:8080/Abraham/6b3ca724a0/24553
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Internacional
+http://myteve.online:8080/Abraham/6b3ca724a0/295109
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Minas
+http://myteve.online:8080/Abraham/6b3ca724a0/295101
+#EXTINF:0 tvg-id="Globonews.br" group-title="Channels",BR: Globo News
+http://myteve.online:8080/Abraham/6b3ca724a0/14513
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Nordeste
+http://myteve.online:8080/Abraham/6b3ca724a0/24551
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Now
+http://myteve.online:8080/Abraham/6b3ca724a0/1433
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo NSC TV
+http://myteve.online:8080/Abraham/6b3ca724a0/201034
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Premium
+http://myteve.online:8080/Abraham/6b3ca724a0/151874
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo RBS Porto Alegre
+http://myteve.online:8080/Abraham/6b3ca724a0/148423
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Ribeir
+http://myteve.online:8080/Abraham/6b3ca724a0/81158
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Rio de Janeiro
+http://myteve.online:8080/Abraham/6b3ca724a0/30437
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Rio Grande Do Norte
+http://myteve.online:8080/Abraham/6b3ca724a0/182175
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo RJ
+http://myteve.online:8080/Abraham/6b3ca724a0/295102
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo RPC Curitiba
+http://myteve.online:8080/Abraham/6b3ca724a0/182185
+#EXTINF:0 tvg-id="Globosp.br" group-title="Channels",BR: Globo Sao Paulo
+http://myteve.online:8080/Abraham/6b3ca724a0/14514
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo Tribuna Santos
+http://myteve.online:8080/Abraham/6b3ca724a0/24546
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Globo TV
+http://myteve.online:8080/Abraham/6b3ca724a0/295104
+#EXTINF:0 tvg-id="Gloob.br" group-title="Channels",BR: Gloob
+http://myteve.online:8080/Abraham/6b3ca724a0/14605
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Gloobinho
+http://myteve.online:8080/Abraham/6b3ca724a0/148406
+#EXTINF:0 tvg-id="Gnt.br" group-title="Channels",BR: GNT
+http://myteve.online:8080/Abraham/6b3ca724a0/8856
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Golden
+http://myteve.online:8080/Abraham/6b3ca724a0/295105
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Gospel Movie TV
+http://myteve.online:8080/Abraham/6b3ca724a0/286085
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Guia de Canais
+http://myteve.online:8080/Abraham/6b3ca724a0/286086
+#EXTINF:0 tvg-id="Hbo.br" group-title="Channels",BR: HBO
+http://myteve.online:8080/Abraham/6b3ca724a0/8822
+#EXTINF:0 tvg-id="Hbo2.br" group-title="Channels",BR: HBO 2
+http://myteve.online:8080/Abraham/6b3ca724a0/8821
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="Channels",BR: HBO Family
+http://myteve.online:8080/Abraham/6b3ca724a0/8839
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: HBO Mundi
+http://myteve.online:8080/Abraham/6b3ca724a0/8837
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: HBO Pop
+http://myteve.online:8080/Abraham/6b3ca724a0/173434
+#EXTINF:0 tvg-id="Hbosignature.br" group-title="Channels",BR: HBO Signature
+http://myteve.online:8080/Abraham/6b3ca724a0/8836
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: HBO Xtreme
+http://myteve.online:8080/Abraham/6b3ca724a0/8824
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: HBO+
+http://myteve.online:8080/Abraham/6b3ca724a0/8823
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: HGTV
+http://myteve.online:8080/Abraham/6b3ca724a0/147274
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: History
+http://myteve.online:8080/Abraham/6b3ca724a0/8901
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: History 2
+http://myteve.online:8080/Abraham/6b3ca724a0/14516
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Hope Channel
+http://myteve.online:8080/Abraham/6b3ca724a0/299390
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Inter TV Grande Minas
+http://myteve.online:8080/Abraham/6b3ca724a0/291203
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Investigation Discovery
+http://myteve.online:8080/Abraham/6b3ca724a0/14529
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Jeannie e um Genio
+http://myteve.online:8080/Abraham/6b3ca724a0/286090
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Jovem Pan News
+http://myteve.online:8080/Abraham/6b3ca724a0/286091
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Jovem Pan Pluto TV
+http://myteve.online:8080/Abraham/6b3ca724a0/286092
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Kpop
+http://myteve.online:8080/Abraham/6b3ca724a0/298082
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Lifetime
+http://myteve.online:8080/Abraham/6b3ca724a0/8864
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Like
+http://myteve.online:8080/Abraham/6b3ca724a0/245612
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Mana
+http://myteve.online:8080/Abraham/6b3ca724a0/297511
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: MasterChef
+http://myteve.online:8080/Abraham/6b3ca724a0/286098
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Megapix
+http://myteve.online:8080/Abraham/6b3ca724a0/8842
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: MTV Brasil
+http://myteve.online:8080/Abraham/6b3ca724a0/147283
+#EXTINF:0 tvg-id="Multishow.br" group-title="Channels",BR: Multishow
+http://myteve.online:8080/Abraham/6b3ca724a0/14528
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Music Box Brazil
+http://myteve.online:8080/Abraham/6b3ca724a0/278696
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: MyTime movie network Brazil
+http://myteve.online:8080/Abraham/6b3ca724a0/286099
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Naruto
+http://myteve.online:8080/Abraham/6b3ca724a0/286100
+#EXTINF:0 tvg-id="Nationalgeographic.br" group-title="Channels",BR: NAT GEO
+http://myteve.online:8080/Abraham/6b3ca724a0/14531
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: NAT GEO Wild
+http://myteve.online:8080/Abraham/6b3ca724a0/8905
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Nick Classico
+http://myteve.online:8080/Abraham/6b3ca724a0/286101
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Nick Junior
+http://myteve.online:8080/Abraham/6b3ca724a0/8919
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Nick Junior Club
+http://myteve.online:8080/Abraham/6b3ca724a0/286102
+#EXTINF:0 tvg-id="Nickelodeon.br" group-title="Channels",BR: nickelodeon
+http://myteve.online:8080/Abraham/6b3ca724a0/16391
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Nova Era TV
+http://myteve.online:8080/Abraham/6b3ca724a0/286105
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Novo Tempo
+http://myteve.online:8080/Abraham/6b3ca724a0/7411
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: O Encantador de Caes
+http://myteve.online:8080/Abraham/6b3ca724a0/294909
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: O Reino Infantil
+http://myteve.online:8080/Abraham/6b3ca724a0/286107
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Paramount Network
+http://myteve.online:8080/Abraham/6b3ca724a0/8859
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Premiere FC 1
+http://myteve.online:8080/Abraham/6b3ca724a0/8785
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Premiere FC 2
+http://myteve.online:8080/Abraham/6b3ca724a0/8786
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Premiere FC 3
+http://myteve.online:8080/Abraham/6b3ca724a0/8787
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Premiere FC 4
+http://myteve.online:8080/Abraham/6b3ca724a0/8788
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Premiere FC 5
+http://myteve.online:8080/Abraham/6b3ca724a0/8790
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Premiere FC 6
+http://myteve.online:8080/Abraham/6b3ca724a0/8791
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Premiere FC 7
+http://myteve.online:8080/Abraham/6b3ca724a0/8798
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Prime Box Brazil
+http://myteve.online:8080/Abraham/6b3ca724a0/193333
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: RBA TV
+http://myteve.online:8080/Abraham/6b3ca724a0/166057
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Record Campinas
+http://myteve.online:8080/Abraham/6b3ca724a0/14538
+#EXTINF:0 tvg-id="Recordnews.br" group-title="Channels",BR: Record News
+http://myteve.online:8080/Abraham/6b3ca724a0/10988
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Record Nordeste
+http://myteve.online:8080/Abraham/6b3ca724a0/14539
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Record Rio
+http://myteve.online:8080/Abraham/6b3ca724a0/27204
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Record SP
+http://myteve.online:8080/Abraham/6b3ca724a0/14639
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Record TV
+http://myteve.online:8080/Abraham/6b3ca724a0/10872
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Record TV Americas
+http://myteve.online:8080/Abraham/6b3ca724a0/200090
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Record TV Europa
+http://myteve.online:8080/Abraham/6b3ca724a0/1431
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Rede Brasil
+http://myteve.online:8080/Abraham/6b3ca724a0/7354
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Rede Brasil de Comunicacao
+http://myteve.online:8080/Abraham/6b3ca724a0/286111
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Rede Gospel
+http://myteve.online:8080/Abraham/6b3ca724a0/193342
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Rede Mao Amiga
+http://myteve.online:8080/Abraham/6b3ca724a0/286116
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Rede Minas
+http://myteve.online:8080/Abraham/6b3ca724a0/7408
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Rede Super
+http://myteve.online:8080/Abraham/6b3ca724a0/147291
+#EXTINF:0 tvg-id="Redetv.br" group-title="Channels",BR: Rede TV
+http://myteve.online:8080/Abraham/6b3ca724a0/7359
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Rede TV SP
+http://myteve.online:8080/Abraham/6b3ca724a0/148414
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Rede TV Tocantins
+http://myteve.online:8080/Abraham/6b3ca724a0/286121
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Retro Cartoon
+http://myteve.online:8080/Abraham/6b3ca724a0/286122
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Santa Cecilia TV
+http://myteve.online:8080/Abraham/6b3ca724a0/286124
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: SBT
+http://myteve.online:8080/Abraham/6b3ca724a0/7367
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: SBT SP
+http://myteve.online:8080/Abraham/6b3ca724a0/148409
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Sony Channel
+http://myteve.online:8080/Abraham/6b3ca724a0/8882
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Space
+http://myteve.online:8080/Abraham/6b3ca724a0/295111
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: SPORTV
+http://myteve.online:8080/Abraham/6b3ca724a0/4015
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: SPORTV 2
+http://myteve.online:8080/Abraham/6b3ca724a0/8783
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: SPORTV 3
+http://myteve.online:8080/Abraham/6b3ca724a0/8784
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Star Channel
+http://myteve.online:8080/Abraham/6b3ca724a0/3035
+#EXTINF:0 tvg-id="Studiouniversal.br" group-title="Channels",BR: Studio Universal
+http://myteve.online:8080/Abraham/6b3ca724a0/280996
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: SYFY
+http://myteve.online:8080/Abraham/6b3ca724a0/14485
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Tastemade
+http://myteve.online:8080/Abraham/6b3ca724a0/286173
+#EXTINF:0 tvg-id="Tcm.br" group-title="Channels",BR: TCM
+http://myteve.online:8080/Abraham/6b3ca724a0/8853
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TeenNick
+http://myteve.online:8080/Abraham/6b3ca724a0/286103
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Telecine Action
+http://myteve.online:8080/Abraham/6b3ca724a0/193685
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Telecine Cult
+http://myteve.online:8080/Abraham/6b3ca724a0/197080
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Telecine Fun
+http://myteve.online:8080/Abraham/6b3ca724a0/8831
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Telecine Pipoca
+http://myteve.online:8080/Abraham/6b3ca724a0/8830
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Telecine Premium
+http://myteve.online:8080/Abraham/6b3ca724a0/8829
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Telecine Touch
+http://myteve.online:8080/Abraham/6b3ca724a0/8828
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Terra Viva
+http://myteve.online:8080/Abraham/6b3ca724a0/197213
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: The Pet Collective
+http://myteve.online:8080/Abraham/6b3ca724a0/286176
+#EXTINF:0 tvg-id="Tlc.br" group-title="Channels",BR: TLC
+http://myteve.online:8080/Abraham/6b3ca724a0/7370
+#EXTINF:0 tvg-id="Tnt.br" group-title="Channels",BR: TNT
+http://myteve.online:8080/Abraham/6b3ca724a0/8840
+#EXTINF:0 tvg-id="TNTSerie.br" group-title="Channels",BR: TNT Series
+http://myteve.online:8080/Abraham/6b3ca724a0/8827
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TNT Sports 2
+http://myteve.online:8080/Abraham/6b3ca724a0/286127
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TNT Sports 3
+http://myteve.online:8080/Abraham/6b3ca724a0/286128
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TNT Sports 4
+http://myteve.online:8080/Abraham/6b3ca724a0/286129
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TNT Sports 5
+http://myteve.online:8080/Abraham/6b3ca724a0/286130
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TNT Sports 5 Brasil
+http://myteve.online:8080/Abraham/6b3ca724a0/299064
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Tokusato
+http://myteve.online:8080/Abraham/6b3ca724a0/286177
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Tooncast
+http://myteve.online:8080/Abraham/6b3ca724a0/8927
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Travel Box Brasil
+http://myteve.online:8080/Abraham/6b3ca724a0/169585
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: tru TV
+http://myteve.online:8080/Abraham/6b3ca724a0/147652
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Turma da Monica
+http://myteve.online:8080/Abraham/6b3ca724a0/286178
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Aberta
+http://myteve.online:8080/Abraham/6b3ca724a0/286131
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Aparecida
+http://myteve.online:8080/Abraham/6b3ca724a0/7379
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Assembl
+http://myteve.online:8080/Abraham/6b3ca724a0/166063
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Birigui
+http://myteve.online:8080/Abraham/6b3ca724a0/296054
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV BNO
+http://myteve.online:8080/Abraham/6b3ca724a0/201934
+#EXTINF:0 tvg-id="Tvbrasil.br" group-title="Channels",BR: TV Brasil
+http://myteve.online:8080/Abraham/6b3ca724a0/166056
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV BRICS Portuguese
+http://myteve.online:8080/Abraham/6b3ca724a0/286134
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Cidade Canal 9
+http://myteve.online:8080/Abraham/6b3ca724a0/201936
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Cinec
+http://myteve.online:8080/Abraham/6b3ca724a0/286142
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Destak
+http://myteve.online:8080/Abraham/6b3ca724a0/286144
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Diario
+http://myteve.online:8080/Abraham/6b3ca724a0/22361
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Escola
+http://myteve.online:8080/Abraham/6b3ca724a0/7372
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Evangelizar
+http://myteve.online:8080/Abraham/6b3ca724a0/245605
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Gazeta
+http://myteve.online:8080/Abraham/6b3ca724a0/7391
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Gideoes
+http://myteve.online:8080/Abraham/6b3ca724a0/286149
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Globo Internacional Américas
+http://myteve.online:8080/Abraham/6b3ca724a0/1432
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Justica
+http://myteve.online:8080/Abraham/6b3ca724a0/285520
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Mackenzie
+http://myteve.online:8080/Abraham/6b3ca724a0/286153
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV MAX
+http://myteve.online:8080/Abraham/6b3ca724a0/286152
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Metropole
+http://myteve.online:8080/Abraham/6b3ca724a0/286154
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Mon
+http://myteve.online:8080/Abraham/6b3ca724a0/286155
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Pai Eterno
+http://myteve.online:8080/Abraham/6b3ca724a0/166054
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Pampa
+http://myteve.online:8080/Abraham/6b3ca724a0/299183
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Pantanal MS
+http://myteve.online:8080/Abraham/6b3ca724a0/286157
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Parana Turismo
+http://myteve.online:8080/Abraham/6b3ca724a0/294563
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Pocos
+http://myteve.online:8080/Abraham/6b3ca724a0/286158
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Ra Tim Bum
+http://myteve.online:8080/Abraham/6b3ca724a0/148405
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Santa Cruz
+http://myteve.online:8080/Abraham/6b3ca724a0/286159
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Santa Maria
+http://myteve.online:8080/Abraham/6b3ca724a0/300644
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Senado
+http://myteve.online:8080/Abraham/6b3ca724a0/285521
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Tem Bauru
+http://myteve.online:8080/Abraham/6b3ca724a0/245611
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TV Terceiro Anjo
+http://myteve.online:8080/Abraham/6b3ca724a0/286160
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TVC
+http://myteve.online:8080/Abraham/6b3ca724a0/286168
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TVE Bahia
+http://myteve.online:8080/Abraham/6b3ca724a0/22364
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: TVN Brasil
+http://myteve.online:8080/Abraham/6b3ca724a0/265770
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Universal TV
+http://myteve.online:8080/Abraham/6b3ca724a0/7422
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: USA Network East
+http://myteve.online:8080/Abraham/6b3ca724a0/145779
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: Warner TV
+http://myteve.online:8080/Abraham/6b3ca724a0/8825
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: WooHoo
+http://myteve.online:8080/Abraham/6b3ca724a0/14555
+#EXTINF:0 tvg-id="ext" group-title="Channels",BR: ZooMoo Kids
+http://myteve.online:8080/Abraham/6b3ca724a0/14661
 
