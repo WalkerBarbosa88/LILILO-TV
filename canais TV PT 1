@@ -212,8 +212,6 @@ http://myteve.online:8080/Abraham/6b3ca724a0/1471
 http://myteve.online:8080/Abraham/6b3ca724a0/1467
 #EXTINF:0 tvg-id="BabyTV.pt" group-title="Channels",PT: Baby TV
 http://myteve.online:8080/Abraham/6b3ca724a0/1441
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",PT: Benfica TV
-http://myteve.online:8080/Abraham/6b3ca724a0/1497
 #EXTINF:0 tvg-id="PandaBiggs.pt" group-title="Channels",PT: Biggs
 http://myteve.online:8080/Abraham/6b3ca724a0/1439
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: Blaze
@@ -260,7 +258,7 @@ http://myteve.online:8080/Abraham/6b3ca724a0/1477
 http://myteve.online:8080/Abraham/6b3ca724a0/286838
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: CINEMA JACKIE CHAN
 http://myteve.online:8080/Abraham/6b3ca724a0/286832
-#EXTINF:0 tvg-id="CMTV.pt" group-title="Channels",PT: CM TV
+#EXTINF:0 tvg-id="CMTV.pt" group-title="Channels",PT: CMTV FHD
 http://myteve.online:8080/Abraham/6b3ca724a0/1412
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: CNN Portugal
 http://myteve.online:8080/Abraham/6b3ca724a0/1414
@@ -282,18 +280,7 @@ http://myteve.online:8080/Abraham/6b3ca724a0/298019
 http://myteve.online:8080/Abraham/6b3ca724a0/300240
 #EXTINF:0 tvg-id="eentertainment.pt" group-title="Channels",PT: E!
 http://myteve.online:8080/Abraham/6b3ca724a0/1526
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 1
-http://myteve.online:8080/Abraham/6b3ca724a0/1499
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 2
-http://myteve.online:8080/Abraham/6b3ca724a0/1503
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 3
-http://myteve.online:8080/Abraham/6b3ca724a0/1506
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 4
-http://myteve.online:8080/Abraham/6b3ca724a0/1509
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 5
-http://myteve.online:8080/Abraham/6b3ca724a0/1512
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: ELEVEN SPORTS 6
-http://myteve.online:8080/Abraham/6b3ca724a0/1515
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: euronews
 http://myteve.online:8080/Abraham/6b3ca724a0/4007
 #EXTINF:0 tvg-id="Eurosport1.pt" group-title="Channels",PT: Eurosport 1
@@ -306,13 +293,13 @@ http://myteve.online:8080/Abraham/6b3ca724a0/2656
 http://myteve.online:8080/Abraham/6b3ca724a0/2044
 #EXTINF:0 tvg-id="fox.pt" group-title="Channels",PT: FOX
 http://myteve.online:8080/Abraham/6b3ca724a0/1461
-#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",PT: Fox Comedy
+#EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",PT: FOX COMEDY
 http://myteve.online:8080/Abraham/6b3ca724a0/1465
-#EXTINF:0 tvg-id="foxcrime.pt" group-title="Channels",PT: Fox Crime
+#EXTINF:0 tvg-id="foxcrime.pt" group-title="Channels",PT: FOX CRIME
 http://myteve.online:8080/Abraham/6b3ca724a0/1463
-#EXTINF:0 tvg-id="foxlife.pt" group-title="Channels",PT: Fox Life
+#EXTINF:0 tvg-id="foxlife.pt" group-title="Channels",PT: FOX LIFE
 http://myteve.online:8080/Abraham/6b3ca724a0/1459
-#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",PT: FOX Movies
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="Channels",PT: FOX MOVIES
 http://myteve.online:8080/Abraham/6b3ca724a0/1457
 #EXTINF:0 tvg-id="FuelTV.pt" group-title="Channels",PT: Fuel TV
 http://myteve.online:8080/Abraham/6b3ca724a0/1521
@@ -340,8 +327,7 @@ http://myteve.online:8080/Abraham/6b3ca724a0/1534
 http://myteve.online:8080/Abraham/6b3ca724a0/1530
 #EXTINF:0 tvg-id="NatGeoWild.pt" group-title="Channels",PT: NAT GEO Wild
 http://myteve.online:8080/Abraham/6b3ca724a0/1531
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: NBA TV
-http://myteve.online:8080/Abraham/6b3ca724a0/296750
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: Netflix
 http://myteve.online:8080/Abraham/6b3ca724a0/24517
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: Netflix Kids
@@ -350,8 +336,7 @@ http://myteve.online:8080/Abraham/6b3ca724a0/201051
 http://myteve.online:8080/Abraham/6b3ca724a0/9693
 #EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Channels",PT: nickelodeon
 http://myteve.online:8080/Abraham/6b3ca724a0/1436
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Nos Studios
-http://myteve.online:8080/Abraham/6b3ca724a0/1454
+
 #EXTINF:0 tvg-id="odisseia.pt" group-title="Channels",PT: Odisseia
 http://myteve.online:8080/Abraham/6b3ca724a0/1532
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: OPTO
@@ -400,22 +385,7 @@ http://myteve.online:8080/Abraham/6b3ca724a0/1416
 http://myteve.online:8080/Abraham/6b3ca724a0/299727
 #EXTINF:0 tvg-id="sicradical.pt" group-title="Channels",PT: SIC Radical
 http://myteve.online:8080/Abraham/6b3ca724a0/1429
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",PT: SPORT TV +
-http://myteve.online:8080/Abraham/6b3ca724a0/1481
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1
-http://myteve.online:8080/Abraham/6b3ca724a0/1483
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2
-http://myteve.online:8080/Abraham/6b3ca724a0/1486
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3
-http://myteve.online:8080/Abraham/6b3ca724a0/1489
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4
-http://myteve.online:8080/Abraham/6b3ca724a0/1492
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT: SPORT TV 5
-http://myteve.online:8080/Abraham/6b3ca724a0/1495
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV 6
-http://myteve.online:8080/Abraham/6b3ca724a0/281487
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: SPORT TV NBA
-http://myteve.online:8080/Abraham/6b3ca724a0/2051
+
 #EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",PT: Sporting TV
 http://myteve.online:8080/Abraham/6b3ca724a0/1519
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: SYFY Portugal
@@ -432,16 +402,7 @@ http://myteve.online:8080/Abraham/6b3ca724a0/1529
 http://myteve.online:8080/Abraham/6b3ca724a0/301244
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: TV Mana 1
 http://myteve.online:8080/Abraham/6b3ca724a0/298811
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCine Action
-http://myteve.online:8080/Abraham/6b3ca724a0/1452
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCine Edition
-http://myteve.online:8080/Abraham/6b3ca724a0/82254
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCine Emotion
-http://myteve.online:8080/Abraham/6b3ca724a0/1448
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCine Top
-http://myteve.online:8080/Abraham/6b3ca724a0/1446
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TVCine+
-http://myteve.online:8080/Abraham/6b3ca724a0/278686
+
 #EXTINF:0 tvg-id="TVI.pt" group-title="Channels",PT: TVI
 http://myteve.online:8080/Abraham/6b3ca724a0/1410
 #EXTINF:0 tvg-id="TVIFiccao.pt" group-title="Channels",PT: TVI Ficção
