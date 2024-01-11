@@ -38,6 +38,8 @@ https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]CNN PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
 https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
+#EXTINF:-1,[COLOR=white][B]PORTO TV[/B][/COLOR][COLOR=white][/COLOR]
+https://stream-05.dc3.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0sxkhMnmZ6k1KnLXhQpuOCXlcKZxFeXpIKNhh6k7bbKh)/dm/3/x8egnb8/s/live-2.m3u8#cell=lcore
 
 #EXTINF:-1,[COLOR=white][B]KURIAKOS TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
@@ -56,8 +58,6 @@ https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/chunklist_w9399
 https://joaocaiado.com:1443/ies_tv/ngrp:ies_tv_all/chunklist_w1124752031_b2030132.m3u8
 #EXTINF:-1,[COLOR=white][B]WAY TV[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.castr.com/5d714f6a0bd97874e36f14e4/live_3a0f544056e711ec8d4bc33d28c33b2a/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1,[COLOR=white][B]PORTO TV[/B][/COLOR][COLOR=white][/COLOR]
-https://stream-05.dc3.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0sxkhMnmZ6k1KnLXhQpuOCXlcKZxFeXpIKNhh6k7bbKh)/dm/3/x8egnb8/s/live-2.m3u8#cell=lcore
 #EXTINF:-1,[COLOR=white][B]ADB TV[/B][/COLOR][COLOR=white][/COLOR]
 https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv_3/chunklist_w461001328.m3u8
 
@@ -79,6 +79,9 @@ http://connectiktv.ddns.me:8080/live/61f2632aa8934-1/index.m3u8
 http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]VIBE MUSIC TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://connectiktv.ddns.me:8080/live/62455ef0ac47a/index.m3u8
+
+#EXTINF:-1,[COLOR=white][B]VOX AFRICA HD[/B][/COLOR][COLOR=white][/COLOR]
+https://1927901613.rsc.cdn77.org/1927901613/tracks-v1a1/mono.m3u8
 
 
 ##########################################################################################################################################
