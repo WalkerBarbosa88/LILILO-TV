@@ -9,7 +9,7 @@ FONTE DE INFORMAÇÃO: https://www.webcamgalore.com/Beaches/themecam.html
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 17/11/2023[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 11/01/2024[/B][/COLOR][COLOR=orange][/COLOR]
 https://000000
 
 #EXTM3U
@@ -17,12 +17,6 @@ https://000000
 https://0000000000000000000000
 
 #EXTM3U
-
-#EXTINF:-1,[COLOR=white][B]MADEIRA - PRAIA FORMOSA[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=M7YZttymLKI
-
-#EXTINF:-1,[COLOR=white][B]MADEIRA - PRAIA DOS REIS MAGOS[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=390TSjCuRNU
 
 #EXTINF:-1,[COLOR=white][B]MADEIRA - PORTO MONIZ[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=qUB8_lgA_54
@@ -32,9 +26,6 @@ plugin://plugin.video.youtube/play/?video_id=4J1YwwaZx4I
 
 #EXTINF:-1,[COLOR=white][B]MADEIRA - PRAIA DA PONTA GORDA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=MgMWOQIgIBY
-
-
-
 
 
 ####################################################################################################################################
