@@ -116,6 +116,30 @@ MAIS WEBCAM AO VIVO
 96 Crаns-Montana, Switzerland https://bernerklinik.ch
  
 #EXTM3U
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  EARTH TV & SKYLINE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+#EXTM3U
+
+#EXTINF:-1,[COLOR=white][B]EARTH TV - WORLD MULTI-CAMS 1[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=buAV1t5-23w
+#EXTINF:-1,[COLOR=white][B]EARTH TV - WORLD MULTI-CAMS 2[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=HfgIFGbdGJ0
+#EXTINF:-1,[COLOR=white][B]SKYLINE - WORLD MULTI-CAMS 2[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=SjWRKnbPLZI
+
+
+#######################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  PRAIAS MUNDIAIS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+#EXTM3U
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]BREVEMENTE[/COLOR][COLOR=white][/COLOR]
+https://000000011111111114444444855555
+
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  WEBCAM´S MUNDIAIS - YOUTUBE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
@@ -172,23 +196,10 @@ https://deliverys5.quanteec.com/contents/encodings/live/47fcda1a-38f6-4fb2-3938-
 
 #EXTM3U
 
-#######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  EARTH TV & SKYLINE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://000000
 
-#EXTM3U
-
-#EXTINF:-1,[COLOR=white][B]EARTH TV - WORLD MULTI-CAMS 1[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=buAV1t5-23w
-#EXTINF:-1,[COLOR=white][B]EARTH TV - WORLD MULTI-CAMS 2[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=HfgIFGbdGJ0
-#EXTINF:-1,[COLOR=white][B]SKYLINE - WORLD MULTI-CAMS 2[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=SjWRKnbPLZI
-#EXTINF:-1,[COLOR=white][B]EARTH TV - HOLIDAY CAM[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=9rRcXwWwg9A
 
 ####################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  ANIMAIS - DIVERSOS ZOOS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B]/////////  ANIMAIS WEBCAM  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTM3U
