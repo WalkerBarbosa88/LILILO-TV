@@ -137,8 +137,53 @@ https://000000
 
 #EXTM3U
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]BREVEMENTE[/COLOR][COLOR=white][/COLOR]
-https://000000011111111114444444855555
+#EXTINF:-1,Hungary - Beach
+https://streaming.hungarospa.hu:8088/hls/axis0.m3u8
+#EXTINF:-1,Hungary - Beach 2
+https://streaming.hungarospa.hu:8088/hls/axis2.m3u8
+#EXTINF:-1,UK - Warren Beach
+http://camsecure.uk/HLS/haulfryn.m3u8
+#EXTINF:-1,UK - Worthing Beach
+https://camsecure.uk/HLS/worthingsailing.m3u8
+#EXTINF:-1,USA - Beach Cam
+https://59b69eab8875b.streamlock.net/live/Beach_Cam_01.stream/playlist.m3u8
+#EXTINF:-1,USA - Folly Beach
+https://5a5f765a4fcc2.streamlock.net:1936/live/folly.stream/chunklist.m3u8
+#EXTINF:-1,USA - Huntington Beach
+https://56cf3370d8dd3.streamlock.net:1935/innocean/innocean.stream/chunklist.m3u8
+#EXTINF:-1,USA - Huntington Beach 2
+https://edge01.london.nginx.hdontap.com/hosb1/waterfront_swellmagnet.stream/chunklist.m3u8
+#EXTINF:-1,USA - Huntington Beach 3
+https://56cdb389b57ec.streamlock.net:1935/live/hbwest.stream/chunklist.m3u8
+#EXTINF:-1,USA - Kure Beach
+https://5a5f765a4fcc2.streamlock.net:1936/live/kbstreet.stream/chunklist.m3u8
+#EXTINF:-1,USA - Myrtle Beach Cam
+https://5ab0d1d85f91f.streamlock.net/fuel/boardwalk_1.stream/chunklist.m3u8
+#EXTINF:-1,USA - Myrtle Beach Cam 2
+https://5ab0d1d85f91f.streamlock.net/Riptydz/cam-rt-volleyball.stream/playlist.m3u8
+#EXTINF:-1,USA - Myrtle Beach Cam 3
+https://5ab0d1d85f91f.streamlock.net/Riptydz/cam-rt-blvd.stream/playlist.m3u8
+#EXTINF:-1,USA - Pineapple Willys Beach
+https://5ed7b8fd7bf40.streamlock.net:444/pwillys/pwillysbeachcam062923/playlist.m3u8
+#EXTINF:-1,USA - Rehoboth Beach 1
+https://58bdb48e25cf1.streamlock.net:19350/live/vcde003.stream/playlist.m3u8
+#EXTINF:-1,USA - Rehoboth Beach 2
+https://58bdb48e25cf1.streamlock.net:19350/live/vcde002.stream/playlist.m3u8
+#EXTINF:-1,USA - Rehoboth Beach 3
+https://58bdb48e25cf1.streamlock.net:19350/live/vcde006.stream/playlist.m3u8
+#EXTINF:-1,USA - Rehoboth Beach 4
+https://58bdb48e25cf1.streamlock.net:19350/live/vcde005.stream/playlist.m3u8
+#EXTINF:-1,USA - Rehoboth Beach 5
+https://58bdb48e25cf1.streamlock.net:19350/live/vcde004.stream/playlist.m3u8
+#EXTINF:-1,USA - Schooners Beach Cam
+http://5ed7b8fd7bf40.streamlock.net:1935/schoonersbeachHDCam/schbeach/playlist.m3u8
+#EXTINF:-1,USA - Schooners Hill Bar Cam
+http://5ed7b8fd7bf40.streamlock.net:1935/schoonersbarHDCam/schbar/playlist.m3u8
+#EXTINF:-1,USA - Schooners Sunset Cam
+http://5ed7b8fd7bf40.streamlock.net:1935/schoonerssunsetHDCam/schsun/playlist.m3u8
+#EXTINF:-1,USA - Wrightsville Beach
+https://5a5f765a4fcc2.streamlock.net:1936/live/wb.stream/chunklist.m3u8
+
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  WEBCAM´S MUNDIAIS - YOUTUBE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
