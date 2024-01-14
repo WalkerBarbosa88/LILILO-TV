@@ -12,7 +12,7 @@ http://0.0.0.0:0000
  LISTA PT - https://github.com/jedi-sambora/playlist/blob/main/tv3 (LISTA A EXPLORAR FUTURAMENTE)
  
  
- https://raw.githubusercontent.com/inspirationlinks/lista-tuga/master/i%CF%81%D1%82v%20i%D0%B8%E0%B8%A3%CF%81i%D1%8F%CE%B1%D1%82i%CF%83%D0%B8%20li%D0%B8k%E0%B8%A3
+ https://github.com/inspirationlinks/m3u/blob/live/pt.m3u8
             https://raw.githubusercontent.com/la22lo/sports/main/futbol.m3u
  Muitos conteúdos - https://github.com/Sphinxroot?tab=repositories
  
@@ -113,6 +113,10 @@ https://000000
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[B][/COLOR][COLOR=white][/COLOR]
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2531/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[B][/COLOR][COLOR=white][/COLOR]
+http://99f6ad7e.ottrast.com/iptv/6XFVDYBV8KUMDU/19158/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[B][/COLOR][COLOR=white][/COLOR]
+http://wiaqmjix.rostelekom.xyz/iptv/5YS5CCM3AGT2T9/19158/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[B][/COLOR][COLOR=white][/COLOR]
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2531/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 3 HD[B][/COLOR][COLOR=white][/COLOR]
