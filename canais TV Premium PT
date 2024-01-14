@@ -77,12 +77,25 @@ http://162.212.178.69:41042/bysid/608
 http://190.92.25.125:8000/play/a06x/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV PERU FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://170.81.147.241:37000/play/a05d
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV PERU FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://191.97.58.41:8001/play/a008
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV PERU HD[/B][/COLOR][COLOR=white][/COLOR]
+http://186.3.85.115:8000/play/a001/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV PERU HD[/B][/COLOR][COLOR=white][/COLOR]
+http://190.92.25.125:8000/play/a06x/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV PERU HD[/B][/COLOR][COLOR=white][/COLOR]
+http://170.81.147.241:37000/play/a05d
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV PERU HD[/B][/COLOR][COLOR=white][/COLOR]
+http://186.3.85.115:8000/play/a001/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/19059/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://th4.online:2095/RESTREAM65MIO/5747379/152185.ch
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/215.ch
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/224.ch
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPOR TV 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://51.83.238.223:16457/
@@ -138,12 +151,33 @@ http://99f6ad7e.ottrast.com/iptv/6XFVDYBV8KUMDU/19158/index.m3u8
 http://wiaqmjix.rostelekom.xyz/iptv/5YS5CCM3AGT2T9/19158/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[B][/COLOR][COLOR=white][/COLOR]
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2531/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[B][/COLOR][COLOR=white][/COLOR]
+http://cdn.teambr.live:80/live/6386006/3781192/821.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[B][/COLOR][COLOR=white][/COLOR]
+http://31.42.185.216:8000/wbgs/5QDJ15CYWF/144821.ch
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[B][/COLOR][COLOR=white][/COLOR]
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63300_&extension=ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 2 HD[B][/COLOR][COLOR=white][/COLOR]
+http://cdn.teambr.live:80/live/6386006/3781192/818.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 2 HD[B][/COLOR][COLOR=white][/COLOR]
+http://31.42.185.216:8000/wbgs/5QDJ15CYWF/187471.ch
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 2 HD[B][/COLOR][COLOR=white][/COLOR]
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63301_&extension=ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 3 HD[B][/COLOR][COLOR=white][/COLOR]
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2533/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 3 HD[B][/COLOR][COLOR=white][/COLOR]
+http://31.42.185.216:8000/wbgs/5QDJ15CYWF/187474.ch
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 3 HD[B][/COLOR][COLOR=white][/COLOR]
+http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63302_&extension=m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 4 HD[B][/COLOR][COLOR=white][/COLOR]
+http://31.42.185.216:8000/wbgs/5QDJ15CYWF/187476.ch
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 5 HD[B][/COLOR][COLOR=white][/COLOR]
+http://31.42.185.216:8000/wbgs/5QDJ15CYWF/187478.ch
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 5 HD[B][/COLOR][COLOR=white][/COLOR]
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2535/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 6 HD[B][/COLOR][COLOR=white][/COLOR]
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2536/index.m3u8
+
 
 #EXTM3U
 
