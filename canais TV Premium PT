@@ -40,10 +40,7 @@ https://00000000000
 http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://213.13.16.138/shls/LIVE%24SPORTTV3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://213.13.16.138/shls/LIVE%24SPORTTV6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+
 
 
 #EXTM3U
@@ -114,25 +111,15 @@ https://000000
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[B][/COLOR][COLOR=white][/COLOR]
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2531/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[B][/COLOR][COLOR=white][/COLOR]
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2531/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 3 HD[B][/COLOR][COLOR=white][/COLOR]
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2533/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 5 HD[B][/COLOR][COLOR=white][/COLOR]
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2535/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 6 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://213.13.16.138/shls/LIVE%24Eleven_Sports_6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 6 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 6 HD[B][/COLOR][COLOR=white][/COLOR]
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2536/index.m3u8
 
 #EXTM3U
