@@ -137,51 +137,56 @@ https://000000
 
 #EXTM3U
 
-#EXTINF:-1,Hungary - Beach
+
+#EXTINF:-1,[COLOR=white][B]HUNGARY BEACH 1[/B][/COLOR][COLOR=white][/COLOR]
 https://streaming.hungarospa.hu:8088/hls/axis0.m3u8
-#EXTINF:-1,Hungary - Beach 2
+#EXTINF:-1,[COLOR=white][B]HUNGARY BEACH 2[/B][/COLOR][COLOR=white][/COLOR]
 https://streaming.hungarospa.hu:8088/hls/axis2.m3u8
-#EXTINF:-1,UK - Warren Beach
+#EXTINF:-1,[COLOR=white][B]UK WARREN BEACH[/B][/COLOR][COLOR=white][/COLOR]
 http://camsecure.uk/HLS/haulfryn.m3u8
-#EXTINF:-1,UK - Worthing Beach
+#EXTINF:-1,[COLOR=white][B]UK WORTHING BEACH[/B][/COLOR][COLOR=white][/COLOR]
 https://camsecure.uk/HLS/worthingsailing.m3u8
-#EXTINF:-1,USA - Beach Cam
+#EXTINF:-1,[COLOR=white][B]USA BEACH CAM[/B][/COLOR][COLOR=white][/COLOR]
 https://59b69eab8875b.streamlock.net/live/Beach_Cam_01.stream/playlist.m3u8
 #EXTINF:-1,USA - Folly Beach
+#EXTINF:-1,[COLOR=white][B]USA FOLLY BEACH[/B][/COLOR][COLOR=white][/COLOR]
 https://5a5f765a4fcc2.streamlock.net:1936/live/folly.stream/chunklist.m3u8
-#EXTINF:-1,USA - Huntington Beach
+#EXTINF:-1,[COLOR=white][B]USA HUNTINGTON BEACH 1[/B][/COLOR][COLOR=white][/COLOR]
 https://56cf3370d8dd3.streamlock.net:1935/innocean/innocean.stream/chunklist.m3u8
-#EXTINF:-1,USA - Huntington Beach 2
+#EXTINF:-1,[COLOR=white][B]USA HUNTINGTON BEACH 2[/B][/COLOR][COLOR=white][/COLOR]
 https://edge01.london.nginx.hdontap.com/hosb1/waterfront_swellmagnet.stream/chunklist.m3u8
-#EXTINF:-1,USA - Huntington Beach 3
+#EXTINF:-1,[COLOR=white][B]USA HUNTINGTON BEACH 3[/B][/COLOR][COLOR=white][/COLOR]
 https://56cdb389b57ec.streamlock.net:1935/live/hbwest.stream/chunklist.m3u8
 #EXTINF:-1,USA - Kure Beach
+#EXTINF:-1,[COLOR=white][B]USA KURE BEACH[/B][/COLOR][COLOR=white][/COLOR]
 https://5a5f765a4fcc2.streamlock.net:1936/live/kbstreet.stream/chunklist.m3u8
 #EXTINF:-1,USA - Myrtle Beach Cam
+#EXTINF:-1,[COLOR=white][B]USA MYRTLE BEACH CAM 1[/B][/COLOR][COLOR=white][/COLOR]
 https://5ab0d1d85f91f.streamlock.net/fuel/boardwalk_1.stream/chunklist.m3u8
-#EXTINF:-1,USA - Myrtle Beach Cam 2
+#EXTINF:-1,[COLOR=white][B]USA MYRTLE BEACH CAM 2[/B][/COLOR][COLOR=white][/COLOR]
 https://5ab0d1d85f91f.streamlock.net/Riptydz/cam-rt-volleyball.stream/playlist.m3u8
-#EXTINF:-1,USA - Myrtle Beach Cam 3
+#EXTINF:-1,[COLOR=white][B]USA MYRTLE BEACH CAM 3[/B][/COLOR][COLOR=white][/COLOR]
 https://5ab0d1d85f91f.streamlock.net/Riptydz/cam-rt-blvd.stream/playlist.m3u8
-#EXTINF:-1,USA - Pineapple Willys Beach
+#EXTINF:-1,[COLOR=white][B]USA PINEAPPLE WILLYS BEACH[/B][/COLOR][COLOR=white][/COLOR]
 https://5ed7b8fd7bf40.streamlock.net:444/pwillys/pwillysbeachcam062923/playlist.m3u8
-#EXTINF:-1,USA - Rehoboth Beach 1
+#EXTINF:-1,[COLOR=white][B]USA REHOBOTH BEACH CAM 1[/B][/COLOR][COLOR=white][/COLOR]
 https://58bdb48e25cf1.streamlock.net:19350/live/vcde003.stream/playlist.m3u8
-#EXTINF:-1,USA - Rehoboth Beach 2
+#EXTINF:-1,[COLOR=white][B]USA REHOBOTH BEACH CAM 2[/B][/COLOR][COLOR=white][/COLOR]
 https://58bdb48e25cf1.streamlock.net:19350/live/vcde002.stream/playlist.m3u8
-#EXTINF:-1,USA - Rehoboth Beach 3
+#EXTINF:-1,[COLOR=white][B]USA REHOBOTH BEACH CAM 3[/B][/COLOR][COLOR=white][/COLOR]
 https://58bdb48e25cf1.streamlock.net:19350/live/vcde006.stream/playlist.m3u8
-#EXTINF:-1,USA - Rehoboth Beach 4
+#EXTINF:-1,[COLOR=white][B]USA REHOBOTH BEACH CAM 4[/B][/COLOR][COLOR=white][/COLOR]
 https://58bdb48e25cf1.streamlock.net:19350/live/vcde005.stream/playlist.m3u8
-#EXTINF:-1,USA - Rehoboth Beach 5
+#EXTINF:-1,[COLOR=white][B]USA REHOBOTH BEACH CAM 5[/B][/COLOR][COLOR=white][/COLOR]
 https://58bdb48e25cf1.streamlock.net:19350/live/vcde004.stream/playlist.m3u8
-#EXTINF:-1,USA - Schooners Beach Cam
+#EXTINF:-1,[COLOR=white][B]USA SCHOONERS BEACH CAM[/B][/COLOR][COLOR=white][/COLOR]
 http://5ed7b8fd7bf40.streamlock.net:1935/schoonersbeachHDCam/schbeach/playlist.m3u8
-#EXTINF:-1,USA - Schooners Hill Bar Cam
+#EXTINF:-1,[COLOR=white][B]USA SCHOONERS HILL BAR BEACH CAM[/B][/COLOR][COLOR=white][/COLOR]
 http://5ed7b8fd7bf40.streamlock.net:1935/schoonersbarHDCam/schbar/playlist.m3u8
-#EXTINF:-1,USA - Schooners Sunset Cam
+#EXTINF:-1,[COLOR=white][B]USA SCHOONERS SUNSET BEACH CAM[/B][/COLOR][COLOR=white][/COLOR]
 http://5ed7b8fd7bf40.streamlock.net:1935/schoonerssunsetHDCam/schsun/playlist.m3u8
 #EXTINF:-1,USA - Wrightsville Beach
+#EXTINF:-1,[COLOR=white][B]USA WRIGHTSVILLE BEACH CAM[/B][/COLOR][COLOR=white][/COLOR]
 https://5a5f765a4fcc2.streamlock.net:1936/live/wb.stream/chunklist.m3u8
 
 
@@ -423,22 +428,22 @@ https://000000
 
 #EXTM3U
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]USA - SCHOONERS HILL BAR CAM[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]USA - SCHOONERS HILL BAR CAM[/B][/COLOR][COLOR=white][/COLOR]
 https://5ed7b8fd7bf40.streamlock.net:444/schoonersbarHDCam/schbar/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]USA - PORTO DO SUL 1[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]USA - PORTO DO SUL 1[/B][/COLOR][COLOR=white][/COLOR]
 http://5a5f765a4fcc2.streamlock.net:1935/live/spp.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]USA - PORTO DO SUL 2[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]USA - PORTO DO SUL 2[/B][/COLOR][COLOR=white][/COLOR]
 http://5a5f765a4fcc2.streamlock.net:1935/live/fishy.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white]USA - PRAIA[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]USA - PRAIA[/B][/COLOR][COLOR=white][/COLOR]
 https://59b69eab8875b.streamlock.net/live/Beach_Cam_01.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white]USA - CEDAR POINT PARK - CAM 1[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]USA - CEDAR POINT PARK - CAM 1[/B][/COLOR][COLOR=white][/COLOR]
 https://56cdb389b57ec.streamlock.net:1935/live/cedar1.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white]USA - EAST PARK[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]USA - EAST PARK[/B][/COLOR][COLOR=white][/COLOR]
 http://cdn.estesparkwebcams.com/prospect3/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white]USA - KURE BEACH[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]USA - KURE BEACH[/B][/COLOR][COLOR=white][/COLOR]
 http://5a5f765a4fcc2.streamlock.net:1935/live/kbstreet.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white]USA - TRÂNSITO[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]USA - TRÂNSITO[/B][/COLOR][COLOR=white][/COLOR]
 http://d2a6g6zgxepbwi.cloudfront.net/wbrztraffic/mp4:trafficstream.sdp/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white]USA - WARM WINDS[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]USA - WARM WINDS[/B][/COLOR][COLOR=white][/COLOR]
 http://5c864aa99ee04.streamlock.net:1935/surfcam/live.stream/playlist.m3u8
 
