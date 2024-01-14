@@ -121,6 +121,13 @@ https://bl.uma.media/live/394904/HLS/1_5/1/1/playlist.m3u8
 http://uiptv.do.am/1ufc/000000003/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MATH RUSSIA 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 1 PL[/B][/COLOR][COLOR=white][/COLOR]
+http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/59840.ch
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 PL[/B][/COLOR][COLOR=white][/COLOR]
+http://89.187.179.242:12397
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 3 PL[/B][/COLOR][COLOR=white][/COLOR]
+http://cdnx1.plusx.tv:8880/269/mono.m3u8?token=65df4b105d30b4b9573333
+
 
 ##################################  BENFICA TV   ###########################################################################
 
