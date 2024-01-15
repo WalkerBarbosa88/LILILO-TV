@@ -104,8 +104,13 @@ https://27823.live.streamtheworld.com/RADIO_RENASCENCA_SC
 #EXTINF:-0,[COLOR=white][B]RÁDIO NIT ONLINE[/B][/COLOR][COLOR=white][/COLOR]
 https://sp0.redeaudio.com/8028/stream/
 
-#EXTINF:0 tvg-logo="" group-title="https://upload.wikimedia.org/wikipedia/pt/c/ce/Logotipo_da_R%C3%A1dio_Cidade_%28Rio_de_Janeiro%29.png",[COLOR=white][B]CIDADE FM[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-logo="" group-title="https://upload.wikimedia.org/wikipedia/pt/c/ce/Logotipo_da_R%C3%A1dio_Cidade_%28Rio_de_Janeiro%29.png",[COLOR=white][B]CIDADE FM NACIONAL[/B][/COLOR][COLOR=white][/COLOR]
 https://stream-icy.bauermedia.pt/cidade.mp3
+#EXTINF:-1,[COLOR=white][B]RÁDIO CIDADE HIP-HOP[/B][/COLOR][COLOR=white][/COLOR]
+https://stream-hls.bauermedia.pt/cidhiphop.aac/playlist.m3u8?downloadSessionID=0&listeningSessionID=6387689763485ead_17949532_EVqQ6Epb__0000000tpGU&source=bauerptWebplayer
+#EXTINF:-1,[COLOR=white][B]RÁDIO CIDADE LATINA[/B][/COLOR][COLOR=white][/COLOR]
+https://stream-hls.bauermedia.pt/cidlatina.aac/playlist.m3u8?listeningSessionID=6555618303f699c8_5222955_R6DDJUqt__0000000a7JQ&downloadSessionID=0
+
 
 #EXTINF:-1,[COLOR=white][B]RÁDIO COMERCIAL[/B][/COLOR][COLOR=white][/COLOR]
 https://stream-icy.bauermedia.pt/comercial.mp3
