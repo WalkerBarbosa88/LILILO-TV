@@ -134,13 +134,39 @@ plugin://plugin.video.youtube/play/?video_id=HfgIFGbdGJ0
 #EXTINF:-1,[COLOR=white][B]SKYLINE - WORLD MULTI-CAMS 2[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=SjWRKnbPLZI
 
+####################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////  ANIMAIS WEBCAM  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://000000
+
+#EXTM3U
+
+#EXTINF:0 tvg-id="ext" group-title="WEBCAMS",[COLOR=white][B]ÁFRICA WEBCAM 1[/B][/COLOR][COLOR=white][/COLOR]
+https://outbound-production.explore.org/stream-production-110/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WEBCAMS",[COLOR=white][B]ÁFRICA WEBCAM 2[/B][/COLOR][COLOR=white][/COLOR]
+https://outbound-production.explore.org/stream-production-276/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WEBCAMS",[COLOR=white][B]ÁFRICA WEBCAM 3[/B][/COLOR][COLOR=white][/COLOR]
+https://outbound-production.explore.org/stream-production-317/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="WEBCAMS",[COLOR=white][B]ÁFRICA WEBCAM 4[/B][/COLOR][COLOR=white][/COLOR]
+https://outbound-production.explore.org/stream-production-49/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",[COLOR=white][B]EXPLORE.ORG - PANDA[/B][/COLOR][COLOR=white][/COLOR]
+https://outbound-production.explore.org/stream-production-33/.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="USA",[COLOR=white][B]URSO POLAR ZOO SAN DIEGO[/B][/COLOR][COLOR=white][/COLOR]
+https://polarplunge.hls.camzonecdn.com/CamzoneStreams/polarplunge/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",[COLOR=white][B]ELEFANTES ZOO SAN DIEGO[/B][/COLOR][COLOR=white][/COLOR]
+https://elephants.hls.camzonecdn.com/CamzoneStreams/elephants/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",[COLOR=white][B]MACACOS ZOO SAN DIEGO[/B][/COLOR][COLOR=white][/COLOR]
+https://ape.hls.camzonecdn.com/CamzoneStreams/ape/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",[COLOR=white][B]PINGUIM ZOO SAN DIEGO[/B][/COLOR][COLOR=white][/COLOR]
+https://zssd-penguin.hls.camzonecdn.com/CamzoneStreams/zssd-penguin/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="USA",[COLOR=white][B]KOALA ZOO SAN DIEGO[/B][/COLOR][COLOR=white][/COLOR]
+https://zssd-koala.hls.camzonecdn.com/CamzoneStreams/zssd-koala/chunklist.m3u8
 
 #######################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIAS MUNDIAIS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTM3U
-
 
 #EXTINF:-1,[COLOR=white][B]HUNGARY BEACH 1[/B][/COLOR][COLOR=white][/COLOR]
 https://streaming.hungarospa.hu:8088/hls/axis0.m3u8
@@ -245,26 +271,6 @@ http://media.ercis.ro:9999/cmareis/playlist.m3u8
 https://deliverys5.quanteec.com/contents/encodings/live/47fcda1a-38f6-4fb2-3938-3330-6d61-63-bb4b-5df88851d8b7d/media_0.m3u8
 
 #EXTM3U
-
-
-
-####################################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]/////////  ANIMAIS WEBCAM  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://000000
-
-#EXTM3U
-
-
-#EXTINF:0 tvg-id="ext" group-title="WEBCAMS",[COLOR=white][B]ÁFRICA WEBCAM 1[/B][/COLOR][COLOR=white][/COLOR]
-https://outbound-production.explore.org/stream-production-110/.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WEBCAMS",[COLOR=white][B]ÁFRICA WEBCAM 2[/B][/COLOR][COLOR=white][/COLOR]
-https://outbound-production.explore.org/stream-production-276/.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WEBCAMS",[COLOR=white][B]ÁFRICA WEBCAM 3[/B][/COLOR][COLOR=white][/COLOR]
-https://outbound-production.explore.org/stream-production-317/.m3u8
-#EXTINF:0 tvg-id="ext" group-title="WEBCAMS",[COLOR=white][B]ÁFRICA WEBCAM 4[/B][/COLOR][COLOR=white][/COLOR]
-https://outbound-production.explore.org/stream-production-49/.m3u8
-#EXTINF:0 tvg-id="ext" group-title="USA",[COLOR=white][B]EXPLORE.ORG - PANDA[/B][/COLOR][COLOR=white][/COLOR]
-https://outbound-production.explore.org/stream-production-33/.m3u8
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  ALEMANHA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
