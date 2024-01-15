@@ -47,6 +47,9 @@ https://s5.radio.co/s9c516a065/listen
 #EXTINF:-1,[COLOR=white][B]RÁDIO ZIG ZAG[/B][/COLOR][COLOR=white][/COLOR]
 https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
 
+#EXTINF:-1,[COLOR=white][B]RÁDIO COMERCIAL KIDS[/B][/COLOR][COLOR=white][/COLOR]
+https://stream-icy.bauermedia.pt/rckids.aac
+
 
 ######################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  RÁDIOS NACIONAIS E/OU ONLINE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -98,12 +101,32 @@ https://stream-icy.bauermedia.pt/cidade.mp3
 
 #EXTINF:-1,[COLOR=white][B]RÁDIO COMERCIAL[/B][/COLOR][COLOR=white][/COLOR]
 https://stream-icy.bauermedia.pt/comercial.mp3
+#EXTINF:-1,[COLOR=white][B]RÁDIO COMERCIAL DANCE[/B][/COLOR][COLOR=white][/COLOR]
+https://stream-icy.bauermedia.pt/rcdance.aac
+#EXTINF:-1,[COLOR=white][B]RÁDIO COMERCIAL PORTUGAL[/B][/COLOR][COLOR=white][/COLOR]
+https://stream-icy.bauermedia.pt/rctuga.aac
+#EXTINF:-1,[COLOR=white][B]RÁDIO COMERCIAL ROCK[/B][/COLOR][COLOR=white][/COLOR]
+https://stream-icy.bauermedia.pt/rcrock.aac
 
 #EXTINF:-1,[COLOR=white][B]M80 NACIONAL[/B][/COLOR][COLOR=white][/COLOR]
 https://stream-icy.bauermedia.pt/m80.mp3
+#EXTINF:-1,[COLOR=white][B]M80 BALADAS[/B][/COLOR][COLOR=white][/COLOR]
+https://stream-icy.bauermedia.pt/m80ballads.aac?source=bauerptWebplayer&aw_0_1st.playerId=bauerptWebplayer
+#EXTINF:-1,[COLOR=white][B]M80 PORTUGAL[/B][/COLOR][COLOR=white][/COLOR]
+https://stream-icy.bauermedia.pt/m80nacional.aac
+#EXTINF:-1,[COLOR=white][B]M80 ROCK[/B][/COLOR][COLOR=white][/COLOR]
+https://stream-icy.bauermedia.pt/m80rock.aac?source=bauerptWebplayer&aw_0_1st.playerId=bauerptWebplayer
+#EXTINF:-1,[COLOR=white][B]M80 POP[/B][/COLOR][COLOR=white][/COLOR]
+https://stream-icy.bauermedia.pt/m80pop.aac
 
 #EXTINF:-1,[COLOR=white][B]RFM NACIONAL[/B][/COLOR][COLOR=white][/COLOR]
 https://22353.live.streamtheworld.com/RFM_SC
+#EXTINF:-1,[COLOR=white][B]RFM OCEANO PACÍFICO[/B][/COLOR][COLOR=white][/COLOR]
+https://27823.live.streamtheworld.com/OCEANPACIFICAAC_SC?dist=triton-widget&pname=tdwidgets
+#EXTINF:-1,[COLOR=white][B]RFM ANOS 80[/B][/COLOR][COLOR=white][/COLOR]
+https://25703.live.streamtheworld.com/GR80SRFMAAC_SC
+#EXTINF:-1,[COLOR=white][B]RFM ON THE ROCK[/B][/COLOR][COLOR=white][/COLOR]
+https://22533.live.streamtheworld.com/RFMONTHEROCKAAC_SC
   
 #EXTINF:-1,[COLOR=white][B]RÁDIO MEGA HITS[/B][/COLOR][COLOR=white][/COLOR]
 https://22533.live.streamtheworld.com/MEGA_HITS_SC
