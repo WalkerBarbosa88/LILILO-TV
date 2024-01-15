@@ -9,7 +9,7 @@ FONTE DE INFORMAÇÃO: https://www.webcamgalore.com/Beaches/themecam.html
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 11/01/2024[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 15/01/2024[/B][/COLOR][COLOR=orange][/COLOR]
 https://000000
 
 #EXTM3U
@@ -27,6 +27,14 @@ plugin://plugin.video.youtube/play/?video_id=4J1YwwaZx4I
 #EXTINF:-1,[COLOR=white][B]MADEIRA - PRAIA DA PONTA GORDA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=MgMWOQIgIBY
 
+#EXTINF:-1,[COLOR=white][B]SINES - PRAIA DE SÃO TORPE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=Lw5fHTbIDXk
+#EXTINF:-1,[COLOR=white][B]COSTA DA CAPARICA - PANORAMA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=9ewcRWb7d4s
+#EXTINF:-1,[COLOR=white][B]LAGOA DE ALBUFEIRA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=_7QlxheRxjI
+#EXTINF:-1,[COLOR=white][B]MARINA DE PORTIMÃO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=Dl1byqohXk8
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIAS DO NORTE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
