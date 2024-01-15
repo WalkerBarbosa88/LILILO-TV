@@ -36,18 +36,6 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR yellow]DISTRO TV[/COLOR][/B]</name>
-<thumbnail>https://ia804609.us.archive.org/15/items/distro-tv_202112/DISTRO%20TV.jpg</thumbnail>
-<externallink>https://www.apsattv.com/distro.m3u</externallink>
-<fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
-<info></info>
-</channel>
-
-
-
-
-<channels>
-<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR yellow]PLUTO TV USA[/COLOR][/B]</name>
 <thumbnail>https://ia804602.us.archive.org/1/items/pluto-tv_20211207/Pluto%20TV.jpg</thumbnail>
 <externallink>https://i.mjh.nz/PlutoTV/us.m3u8</externallink>
@@ -66,29 +54,6 @@
 </channel>
 
 
-
-<channels>
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR yellow]PLEX TV USA[/COLOR][/B]</name>
-<thumbnail>https://ia804608.us.archive.org/9/items/plex-tv_20211207/Plex%20TV.jpg</thumbnail>
-<externallink>https://i.mjh.nz/Plex/us.m3u8</externallink>
-<fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
-<info></info>
-</channel>
-
-
-
-<channels>
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR yellow]XIAOMI TV[/COLOR][/B]</name>
-<thumbnail>https://ia601404.us.archive.org/7/items/xiami-mi-tv/XIAMI%20MI%20TV+.jpg</thumbnail>
-<externallink>https://www.apsattv.com/xiaomi.m3u</externallink>
-<fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
-<info></info>
-</channel>
-
-
-
 <channels>
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR yellow]RAKUTEN TV UK[/COLOR][/B]</name>
@@ -97,20 +62,6 @@
 <fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
 <info></info>
 </channel>
-
-
-
-<channels>
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR yellow]TCL TV[/COLOR][/B]</name>
-<thumbnail>https://ia801406.us.archive.org/3/items/lista-externa-m-3-u_202210/Lista%20Externa%20M3U.jpg</thumbnail>
-<externallink>https://www.apsattv.com/tcl.m3u</externallink>
-<fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
-<info></info>
-</channel>
-
-
-
 
 
 
