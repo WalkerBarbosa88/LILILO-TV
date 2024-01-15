@@ -449,10 +449,11 @@ https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
 https://video-auth1.iol.pt
 
 #EXTM3U
+########################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////   PRAIAS DO NORTE   /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://video-auth1.iol.pt
 
-
-
-# Praias Norte
+#EXTM3U
 
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Vila Praia de Âncora
 https://video-auth1.iol.pt/beachcam/bcvilapraiadeancora/playlist.m3u8
@@ -484,8 +485,12 @@ https://video-auth1.iol.pt/beachcam/espinho/playlist.m3u8
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Esmoriz
 https://video-auth1.iol.pt/beachcam/esmoriz/playlist.m3u8
 
+#EXTM3U
+########################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////   PRAIAS DO CENTRO   /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://video-auth1.iol.pt
 
-# Praias Centro
+#EXTM3U
 
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Furadouro
 https://video-auth1.iol.pt/beachcam/furadouro/playlist.m3u8
@@ -526,8 +531,12 @@ https://video-auth1.iol.pt/beachcam/praiapedrogao/playlist.m3u8
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Vieira
 https://video-auth1.iol.pt/beachcam/bcvieira/playlist.m3u8
 
+#EXTM3U
+########################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////   PRAIAS DA COSTA OESTE   /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://video-auth1.iol.pt
 
-# Praias Costa Oeste
+#EXTM3U
 
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",São Pedro de Moel
 https://video-auth1.iol.pt/beachcam/bcsaopedromoel/playlist.m3u8
@@ -574,8 +583,12 @@ https://video-auth1.iol.pt/beachcam/santacruz/playlist.m3u8
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Santa Cruz - Praia Azul
 https://video-auth1.iol.pt/beachcam/bcpraiaazul/playlist.m3u8
 
+#EXTM3U
+########################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////   PRAIAS DE MAFRA   /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://video-auth1.iol.pt
 
-# Praias Mafra
+#EXTM3U
 
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Calada
 https://video-auth1.iol.pt/beachcam/praiadacalada/playlist.m3u8
@@ -601,8 +614,12 @@ https://video-auth1.iol.pt/beachcam/praiadosulericeira/playlist.m3u8
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Foz do Lizandro
 https://video-auth1.iol.pt/beachcam/fozdolizandro/playlist.m3u8
 
+#EXTM3U
+########################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////   PRAIAS DE SINTRA   /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://video-auth1.iol.pt
 
-# Praias de Sintra
+#EXTM3U
 
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia das Maçãs
 https://video-auth1.iol.pt/beachcam/praiadasmacas/playlist.m3u8
@@ -616,8 +633,12 @@ https://video-auth1.iol.pt/beachcam/praiagrande/playlist.m3u8
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia Grande - Sul
 https://video-auth1.iol.pt/beachcam/praiagrande2/playlist.m3u8
 
+#EXTM3U
+########################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////   PRAIAS DE CASCAIS   /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://video-auth1.iol.pt
 
-# Praias Cascais
+#EXTM3U
 
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia do Guincho - Norte
 https://video-auth1.iol.pt/beachcam/praiaguinchonorte/playlist.m3u8
@@ -661,8 +682,12 @@ https://video-auth1.iol.pt/beachcam/carcavelos/playlist.m3u8
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Carcavelos - Calhau
 https://video-auth1.iol.pt/beachcam/carcavelos2/playlist.m3u8
 
+#EXTM3U
+########################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////   PRAIAS DE OEIRAS   /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://video-auth1.iol.pt
 
-# Praias Oeiras
+#EXTM3U
 
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia da Torre
 https://video-auth1.iol.pt/beachcam/bctorre/playlist.m3u8
@@ -676,8 +701,12 @@ https://video-auth1.iol.pt/beachcam/parcos/playlist.m3u8
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Caxias
 https://video-auth1.iol.pt/beachcam/caxias/playlist.m3u8
 
+#EXTM3U
+########################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////   PRAIAS DE ALMADA   /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://video-auth1.iol.pt
 
-# Praias Almada
+#EXTM3U
 
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Costa de Caparica - S. João
 https://video-auth1.iol.pt/beachcam/costacaparicasaojoao/playlist.m3u8
@@ -700,8 +729,11 @@ https://video-auth1.iol.pt/beachcam/bccabanadopescador/playlist.m3u8
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Fonte da Telha
 https://video-auth1.iol.pt/beachcam/fontedatelha/playlist.m3u8
 
-
-# Praias Sesimbra
+#EXTM3U
+########################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////   PRAIAS DE SESIMBRA   /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://video-auth1.iol.pt
+#EXTM3U
 
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Lagoa de Albufeira
 https://video-auth1.iol.pt/beachcam/bclagoaalbufeira/playlist.m3u8
@@ -715,8 +747,12 @@ https://video-auth1.iol.pt/beachcam/bcpraiadasbicas/playlist.m3u8
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia Sesimbra
 https://video-auth1.iol.pt/beachcam/sesimbra/playlist.m3u8
 
+#EXTM3U
+########################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////   PRAIAS DE SETÚBAL   /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://video-auth1.iol.pt
 
-# Praias Setúbal
+#EXTM3U
 
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Portinho da Arrábida
 https://video-auth1.iol.pt/beachcam/bcportinho/playlist.m3u8
@@ -724,8 +760,12 @@ https://video-auth1.iol.pt/beachcam/bcportinho/playlist.m3u8
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Albarquel
 https://video-auth1.iol.pt/beachcam/bcalbarquel/playlist.m3u8
 
+#EXTM3U
+########################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////   PRAIAS DO ALENTEJO   /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://video-auth1.iol.pt
 
-# Praias Alentejo
+#EXTM3U
 
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Troia
 https://video-auth1.iol.pt/beachcam/bctroia/playlist.m3u8
@@ -757,8 +797,12 @@ https://video-auth1.iol.pt/beachcam/bcalmograve/playlist.m3u8
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Zambujeira do Mar
 https://video-auth1.iol.pt/beachcam/zambujeira/playlist.m3u8
 
+#EXTM3U
+########################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////   PRAIAS DO ALGARVE   /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://video-auth1.iol.pt
 
-# Praias Algarve
+#EXTM3U
 
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Odeceixe
 https://video-auth1.iol.pt/beachcam/bcodeceixe/playlist.m3u8
@@ -817,8 +861,12 @@ https://video-auth1.iol.pt/beachcam/bcalagoa/playlist.m3u8
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia Verde - Castro Marim
 https://video-auth1.iol.pt/beachcam/bcpraiaverde/playlist.m3u8
 
+#EXTM3U
+########################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////   PRAIAS DAS ILHAS   /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://video-auth1.iol.pt
 
-# Praias Ilhas
+#EXTM3U
 
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Madeira - Ponta Pequena - Paul
 https://video-auth1.iol.pt/beachcam/madeirajardimdomar/playlist.m3u8
@@ -830,36 +878,28 @@ https://video-auth1.iol.pt/beachcam/jardimdomardois/playlist.m3u8
 https://video-auth1.iol.pt/beachcam/bcportosanto/playlist.m3u8
 
 
-# Praias fluviais/piscinas
+#EXTM3U
+########################################################################################################################################
+#EXTINF:-1,[COLOR=yellow][B]/////////   PRAIAS FLUVIAS, PISCINAS, LAGOS E RIOS   /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+https://video-auth1.iol.pt
+
+#EXTM3U
 
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Praia das Rocas
 https://video-auth1.iol.pt/beachcam/praiadasrocas/playlist.m3u8
-
-
-# Lagos e rios
-
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Ria de Aveiro - Murtosa
 https://video-auth1.iol.pt/beachcam/murtosa/playlist.m3u8
-
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Ferreira do Zêzere - Cable Park
 https://video-auth1.iol.pt/beachcam/bccableferreira/playlist.m3u8
-
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Ferreira do Zêzere - Lago Azul
 https://video-auth1.iol.pt/beachcam/bclagoazul/playlist.m3u8
-
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Ferreira do Zêzere - Dornes
 https://video-auth1.iol.pt/beachcam/bcdornes/playlist.m3u8
-
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Lisboa - Cais do Sodré
 https://video-auth1.iol.pt/beachcam/caisdosodre/playlist.m3u8
-
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Lisboa - Belém
 https://video-auth1.iol.pt/beachcam/belem/playlist.m3u8
-
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Farol do Bugio Norte
 https://video-auth1.iol.pt/beachcam/bcbugio1/playlist.m3u8
-
 #EXTINF:-1 group-title="Beachcam" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png",Farol do Bugio Sul
 https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
-
-
