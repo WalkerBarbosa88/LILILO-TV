@@ -123,6 +123,10 @@ https://000000
 
 #EXTM3U
 
+
+#EXTINF:-1,[COLOR=white][B]EARTH TV FHD[/B][/COLOR][COLOR=white][/COLOR]
+https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
+
 #EXTINF:-1,[COLOR=white][B]EARTH TV - WORLD MULTI-CAMS 1[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=buAV1t5-23w
 #EXTINF:-1,[COLOR=white][B]EARTH TV - WORLD MULTI-CAMS 2[/B][/COLOR][COLOR=white][/COLOR]
