@@ -62,11 +62,19 @@ http://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
 https://streaming-live.rtp.pt/liveradio/antena1acores80a/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]ANTENA 1 MADEIRA[/B][/COLOR][COLOR=white][/COLOR]
 https://streaming-live.rtp.pt/liveradio/antena1madeira80a/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]ANTENA 1 FADO[/B][/COLOR][COLOR=white][/COLOR]
+https://radioip.rtp.pt/liveradio/antena1fado80a/media_299037.aac
+#EXTINF:-1,[COLOR=white][B]ANTENA 1 LUSITÂNIA[/B][/COLOR][COLOR=white][/COLOR]
+https://radioip.rtp.pt/liveradio/lusitania80a/chunklist.m3u8
 
- #EXTINF:-1,[COLOR=white][B]ANTENA 2[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]ANTENA 2 NACIONAL[/B][/COLOR][COLOR=white][/COLOR]
 http://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8
- 
-#EXTINF:-1,[COLOR=white][B]ANTENA 3[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]ANTENA 2 JAZZING[/B][/COLOR][COLOR=white][/COLOR]
+https://radioip.rtp.pt/liveradio/antena2jazzin80a/chunklist.m3u8
+#EXTINF:-1,[COLOR=white][B]ANTENA 2 ÓPERA[/B][/COLOR][COLOR=white][/COLOR]
+https://radioip.rtp.pt/liveradio/antena2opera80a/chunklist.m3u8
+
+#EXTINF:-1,[COLOR=white][B]ANTENA 3 NACIONAL[/B][/COLOR][COLOR=white][/COLOR]
 http://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]RDP INTER.[/B][/COLOR][COLOR=white][/COLOR]
@@ -118,6 +126,10 @@ https://stream-icy.bauermedia.pt/m80nacional.aac
 https://stream-icy.bauermedia.pt/m80rock.aac?source=bauerptWebplayer&aw_0_1st.playerId=bauerptWebplayer
 #EXTINF:-1,[COLOR=white][B]M80 POP[/B][/COLOR][COLOR=white][/COLOR]
 https://stream-icy.bauermedia.pt/m80pop.aac
+#EXTINF:-1,[COLOR=white][B]M80 80´S[/B][/COLOR][COLOR=white][/COLOR]
+https://stream-icy.bauermedia.pt/m8080.aac?source=bauerptWebplayer&aw_0_1st.playerId=bauerptWebplayer
+#EXTINF:-1,[COLOR=white][B]M80 90´S[/B][/COLOR][COLOR=white][/COLOR]
+https://stream-icy.bauermedia.pt/m8090.aac
 
 #EXTINF:-1,[COLOR=white][B]RFM NACIONAL[/B][/COLOR][COLOR=white][/COLOR]
 https://22353.live.streamtheworld.com/RFM_SC
@@ -163,14 +175,19 @@ https://proic1.evspt.com/radar_aac
 #EXTINF:-1,[COLOR=white][B]RÁDIO OLISIPIO[/B][/COLOR][COLOR=white][/COLOR]
 https://n0f.radiojar.com/6x85cenb7ehvv?1652976295=&rj-tok=AAABgN0bmTAA5j9zHZcxBl9tWw&rj-ttl=5
 
-#EXTINF:-1,[COLOR=white][B]SMOOTH FM[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]SMOOTH FM NACIONAL[/B][/COLOR][COLOR=white][/COLOR]
 https://stream-icy.bauermedia.pt/smooth.mp3
+#EXTINF:-1,[COLOR=white][B]SMOOTH FM JAZZ[/B][/COLOR][COLOR=white][/COLOR]
+https://jazz.streeemer.com/listen/jazz/radio.aac
 
 #EXTINF:-1,[COLOR=white][B]RÁDIO FUTURA[/B][/COLOR][COLOR=white][/COLOR]
 https://s4.radio.co/s7e7b6c165/listen
 
 #EXTINF:-1,[COLOR=white][B]GOLO FM[/B][/COLOR][COLOR=white][/COLOR]
 https://sp0.redeaudio.com/8154/stream
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO ESTÁDIO FM[/B][/COLOR][COLOR=white][/COLOR]
+http://radios2.justweb.pt:8008/;
 
 ######################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  DISTRITO: AVEIRO  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
