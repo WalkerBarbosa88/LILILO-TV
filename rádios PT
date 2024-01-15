@@ -218,6 +218,11 @@ https://radios.justweb.pt:7027/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO HORIZONTE[/B][/COLOR][COLOR=white][/COLOR]
 https://horizonte-radiohorizonte.radioca.st/stream
 
+#EXTINF:-1,[COLOR=white][B]RÁDIO PICO[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radio.com.pt:9420/;
+#EXTINF:-1,[COLOR=white][B]RÁDIO FAIAL[/B][/COLOR][COLOR=white][/COLOR]
+http://176.9.43.216:8131/;
+
 
 
 
@@ -240,6 +245,13 @@ https://nl.digitalrm.pt:8014/stream
 http://centova.radio.com.pt:8441/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO SINGA FM[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radio.com.pt:8487/;
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO H[/B][/COLOR][COLOR=white][/COLOR]
+https://sp0.redeaudio.com:10969/;
+#EXTINF:-1,[COLOR=white][B]RÁDIO PAX[/B][/COLOR][COLOR=white][/COLOR]
+https://centova.radio.com.pt/proxy/484?mp=%2Fstream
+#EXTINF:-1,[COLOR=white][B]ANTENA SUL[/B][/COLOR][COLOR=white][/COLOR]
+https://nl.digitalrm.pt:8014/stream
 
 
 ######################################################################################################################################
@@ -305,6 +317,13 @@ http://centova.radio.com.pt:8427/;
 http://centova.radios.pt:9450/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO NOVA ESTRELA[/B][/COLOR][COLOR=white][/COLOR]
 https://sonic.h2.pt/8008/stream
+#EXTINF:-1,[COLOR=white][B]RÁDIO CARIA[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radio.com.pt:8521/;
+#EXTINF:-1,[COLOR=white][B]RÁDIO VOZ DA RAIA[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radio.com.pt:8557/;
+#EXTINF:-1,[COLOR=white][B]RÁDIO RBI[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radio.com.pt:9462/;
+
 
 
 ######################################################################################################################################
@@ -574,6 +593,23 @@ http://s5.stmxp.net:8004/stream
 https://stream-47.zeno.fm/s9bwyczq6tzuv?zs=x4DvqtO1ReG9IReBZeZJIw
 #EXTINF:-1,[COLOR=white][B]RÁDIO POPULAR[/B][/COLOR][COLOR=white][/COLOR]
 http://185.11.164.106:32281/stream
+#EXTINF:-1,[COLOR=white][B]RÁDIO AMÁLIA[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radios.pt:9496/;
+#EXTINF:-1,[COLOR=white][B]RÁDIO PORTUGAL[/B][/COLOR][COLOR=white][/COLOR]
+https://sp0.redeaudio.com:7178/live
+#EXTINF:-1,[COLOR=white][B]RÁDIO AZUL[/B][/COLOR][COLOR=white][/COLOR]
+https://sado.radioazul.pt/live?type=.mp3
+#EXTINF:-1,[COLOR=white][B]RÁDIO QUINTA DO CONDE[/B][/COLOR][COLOR=white][/COLOR]
+https://sp0.redeaudio.com/8100/stream
+#EXTINF:-1,[COLOR=white][B]RÁDIO ANTENA TEJO[/B][/COLOR][COLOR=white][/COLOR]
+https://stm21.srvaudio.com.br:11418/stream
+#EXTINF:-1,[COLOR=white][B]RÁDIO RVD[/B][/COLOR][COLOR=white][/COLOR]
+https://s1.stmxp.net:7206/1/;
+#EXTINF:-1,[COLOR=white][B]RÁDIO MARÉ ALTA[/B][/COLOR][COLOR=white][/COLOR]
+https://stream-149.zeno.fm/3t7p3czq6tzuv?zs=N6_HHshsTyGD9N3wQAqP5Q
+#EXTINF:-1,[COLOR=white][B]RÁDIO SUPER SANTIAGO[/B][/COLOR][COLOR=white][/COLOR]
+http://s5.stmxp.net:8004/stream
+
 
 
 ######################################################################################################################################
@@ -634,6 +670,23 @@ http://centova.radio.com.pt:9408/;
 http://109.71.41.6:8110/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO UNIVERSIDADE NELAS[/B][/COLOR][COLOR=white][/COLOR]
 https://sp0.redeaudio.com/8054/stream?1603106992356
+
+#EXTINF:-1,[COLOR=white][B]RÁDIO ALTO DOURO[/B][/COLOR][COLOR=white][/COLOR]
+https://stream-149.zeno.fm/btxha34m1wzuv?zs=m4nzebBlSHeXY_gx5DgBFQ
+#EXTINF:-1,[COLOR=white][B]RÁDIO CLUB DE ARMAMAR[/B][/COLOR][COLOR=white][/COLOR]
+http://213.136.92.8:8002/;
+#EXTINF:-1,[COLOR=white][B]RÁDIO DOURO NACIONAL[/B][/COLOR][COLOR=white][/COLOR]
+https://sp0.redeaudio.com:10930/;
+#EXTINF:-1,[COLOR=white][B]RÁDIO LIMITE[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radio.com.pt:9408/;
+#EXTINF:-1,[COLOR=white][B]RÁDIO MONTEMURO[/B][/COLOR][COLOR=white][/COLOR]
+https://eu8.fastcast4u.com/proxy/montemuro?mp=%2F1
+#EXTINF:-1,[COLOR=white][B]RÁDIO DOURO FM[/B][/COLOR][COLOR=white][/COLOR]
+http://centova.radio.com.pt:8437/;
+#EXTINF:-1,[COLOR=white][B]RÁDIO CLUBE DO DÃO[/B][/COLOR][COLOR=white][/COLOR]
+http://176.9.43.216:8003/;
+#EXTINF:-1,[COLOR=white][B]RÁDIO ALIANÇA[/B][/COLOR][COLOR=white][/COLOR]
+http://srv1.braudio.com.br:7060/;
 
 ######################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  DISTRITO: ÉVORA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
