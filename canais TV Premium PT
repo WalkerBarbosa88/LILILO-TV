@@ -23,7 +23,7 @@ http://0.0.0.0:0000
      Listas Várias - https://global-satinfo.in/viewforum.php?f=22&sid=14261766f220116fe35abb7ddf0e87e2
      
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 14/01/2024[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 29/01/2024[/B][/COLOR][COLOR=orange][/COLOR]
 #EXTM3U
 
 
@@ -33,34 +33,20 @@ http://0.0.0.0:0000
 #EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS SPORT TV PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://00000000000
 
+
+
+
 #EXTM3U
-
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.teambr.live:80/live/6386006/3781192/800.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://dns.p2.wtf:80/live/Marcelo210586/Marcelotv153045/191830.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://backup.xp1.tv/play/live.php?mac=00:1A:79:14:C5:5D&stream=864_&extension=ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://118708565190488336.ofd0107.xyz:80/play/alberto4/103050/488336.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.teambr.live:80/live/6386006/3781192/799.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://118708565190318977.ofd0107.xyz:80/play/alberto4/103050/318977.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.teambr.live:80/live/6386006/3781192/795.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://backup.xp1.tv/play/live.php?mac=00:1A:79:14:C5:5D&stream=862_&extension=ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.teambr.live:80/live/6386006/3781192/789.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://dns.p2.wtf:80/live/Marcelo210586/Marcelotv153045/191834.ts
-
 
 #EXTM3U
 ####################################################################################################################################
@@ -70,13 +56,8 @@ https://000000
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP INTER. AMÉRICA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://162.212.178.69:41042/bysid/608
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV PERU SD[/B][/COLOR][COLOR=white][/COLOR]
 http://190.92.25.125:8000/play/a06x/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV PERU FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://170.81.147.241:37000/play/a05d
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV PERU FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://191.97.58.41:8001/play/a008
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV PERU HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -90,8 +71,6 @@ http://186.3.85.115:8000/play/a001/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/19059/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://th4.online:2095/RESTREAM65MIO/5747379/152185.ch
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/215.ch
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -125,8 +104,6 @@ http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/59840.ch
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 PL[/B][/COLOR][COLOR=white][/COLOR]
 http://89.187.179.242:12397
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 3 PL[/B][/COLOR][COLOR=white][/COLOR]
-http://cdnx1.plusx.tv:8880/269/mono.m3u8?token=65df4b105d30b4b9573333
 
 
 ##################################  BENFICA TV   ###########################################################################
@@ -138,8 +115,8 @@ https://000000
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myteve.online:8080/Abraham/6b3ca724a0/1497
+#EXTINF:-1,[COLOR=white][B]NÃO DIPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
+http://11122355445
 
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
  
@@ -149,42 +126,26 @@ https://000000
 
 #EXTM3U
 
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]DANZ ELEVEN 1 HD[/COLOR][COLOR=white][/COLOR]
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2531/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]DANZ ELEVEN 1 HD[/COLOR][COLOR=white][/COLOR]
 http://99f6ad7e.ottrast.com/iptv/6XFVDYBV8KUMDU/19158/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]DANZ ELEVEN 1 HD[/COLOR][COLOR=white][/COLOR]
 http://wiaqmjix.rostelekom.xyz/iptv/5YS5CCM3AGT2T9/19158/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]DANZ ELEVEN 1 HD[/COLOR][COLOR=white][/COLOR]
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2531/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.teambr.live:80/live/6386006/3781192/821.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://31.42.185.216:8000/wbgs/5QDJ15CYWF/144821.ch
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]DANZ ELEVEN 1 HD[/COLOR][COLOR=white][/COLOR]
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63300_&extension=ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://cdn.teambr.live:80/live/6386006/3781192/818.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://31.42.185.216:8000/wbgs/5QDJ15CYWF/187471.ch
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]DANZ ELEVEN 2 HD[/COLOR][COLOR=white][/COLOR]
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63301_&extension=ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]DANZ ELEVEN 3 HD[/COLOR][COLOR=white][/COLOR]
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2533/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://31.42.185.216:8000/wbgs/5QDJ15CYWF/187474.ch
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]DANZ ELEVEN 3 HD[/COLOR][COLOR=white][/COLOR]
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63302_&extension=m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://31.42.185.216:8000/wbgs/5QDJ15CYWF/187476.ch
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://31.42.185.216:8000/wbgs/5QDJ15CYWF/187478.ch
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]DANZ ELEVEN 5 HD[/COLOR][COLOR=white][/COLOR]
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2535/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 6 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]DANZ ELEVEN 6 HD[/COLOR][COLOR=white][/COLOR]
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2536/index.m3u8
-
 
 #EXTM3U
 
@@ -198,14 +159,5 @@ https://0000000
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE ACTION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myteve.online:8080/Abraham/6b3ca724a0/1452
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EDITION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myteve.online:8080/Abraham/6b3ca724a0/82254
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EMOTION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myteve.online:8080/Abraham/6b3ca724a0/1448
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myteve.online:8080/Abraham/6b3ca724a0/1446
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE+ HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myteve.online:8080/Abraham/6b3ca724a0/278686
-
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
+http://11112222555555555554444444
