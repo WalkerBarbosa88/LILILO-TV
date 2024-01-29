@@ -35,60 +35,60 @@ https://00000000000
 
 #EXTM3U
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV+ FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
 http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9718
-#EXTINF:-1,SPORT TV 1 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/36979
-#EXTINF:-1,SPORT TV 1 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://srv.cldplay.net:80/josyceilandiacozinha/161516290/140380&amp;f=.ch
-#EXTINF:-1,SPORT TV 1 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62071&amp;f=.ch
-#EXTINF:-1,SPORT TV 1 FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://backup.xp1.tv/play/live.php?mac=00:1A:79:14:C5:5D&stream=864_&extension=ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 2 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9731
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 2 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62079&amp;f=.ch
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 3 FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/74595&amp;f=.ch
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 3 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9735
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 3 FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9733
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 4 FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9737
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 4 FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://srv.cldplay.net:80/josyceilandiacozinha/161516290/140985&amp;f=.ch
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 4 FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8012&amp;f=.ch
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 5 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9740
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 5 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62082&amp;f=.ch
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 5 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://srv.cldplay.net:80/josyceilandiacozinha/161516290/140383
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| ELEVEN SPORTS 1 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9743
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| ELEVEN SPORTS 1 FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9742
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| ELEVEN SPORTS 2 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9746
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| ELEVEN SPORTS 2 FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9744
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| ELEVEN SPORTS 3 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9749
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| ELEVEN SPORTS 3 FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9750
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| ELEVENS SPORTS 4 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9799
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| ELEVEN SPORTS 5 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9796
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| ELEVEN SPORTS 5 FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9797
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| ELEVEN SPORTS 6 FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9795
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| ELEVEN SPORTS 6 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9794
 
 ####################################################################################################################################
@@ -194,25 +194,25 @@ https://000000
 
 #EXTM3U
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]DANZ ELEVEN 1 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2531/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]DANZ ELEVEN 1 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://99f6ad7e.ottrast.com/iptv/6XFVDYBV8KUMDU/19158/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]DANZ ELEVEN 1 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://wiaqmjix.rostelekom.xyz/iptv/5YS5CCM3AGT2T9/19158/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]DANZ ELEVEN 1 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2531/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]DANZ ELEVEN 1 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63300_&extension=ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]DANZ ELEVEN 2 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63301_&extension=ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]DANZ ELEVEN 3 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2533/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]DANZ ELEVEN 3 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63302_&extension=m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]DANZ ELEVEN 5 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2535/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]DANZ ELEVEN 6 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2536/index.m3u8
 
 #EXTM3U
