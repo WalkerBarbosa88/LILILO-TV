@@ -35,17 +35,19 @@ https://00000000000
 
 #EXTM3U
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| SPORT TV+ HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV+ HD
 http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9718
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| SPORT TV 2 HD
+#EXTINF:-1,SPORT TV 1 
+http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/36979
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 2 HD
 http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9731
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| SPORT TV 3 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 3 HD
 http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9735
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| SPORT TV 3 FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 3 FHD
 http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9733
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| SPORT TV 4 FHD
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 4 FHD
 http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9737
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| SPORT TV 5 HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 5 HD
 http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9740
 
 
