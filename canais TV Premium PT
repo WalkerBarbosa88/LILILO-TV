@@ -35,15 +35,15 @@ https://00000000000
 
 #EXTM3U
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV+ HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV+ FHD
 http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9718
-#EXTINF:-1,SPORT TV 1 
+#EXTINF:-1,SPORT TV 1 HD
 http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/36979
-#EXTINF:-1,SPORT TV 1 
+#EXTINF:-1,SPORT TV 1 HD
 http://srv.cldplay.net:80/josyceilandiacozinha/161516290/140380&amp;f=.ch
-#EXTINF:-1,SPORT TV 1 
+#EXTINF:-1,SPORT TV 1 HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62071&amp;f=.ch
-#EXTINF:-1,SPORT TV 1 
+#EXTINF:-1,SPORT TV 1 FHD
 http://backup.xp1.tv/play/live.php?mac=00:1A:79:14:C5:5D&stream=864_&extension=ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",SPORT TV 2 HD
 http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9731
