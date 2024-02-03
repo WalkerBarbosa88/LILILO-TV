@@ -37,6 +37,18 @@ https://00000000000
 
 
 
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/280
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/281
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/282
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/283
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/284
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://srv.cldplay.net:80/josyceilandiacozinha/161516290/140380&amp;f=.ch
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -56,6 +68,10 @@ http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8012&amp;f=.ch
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62082&amp;f=.ch
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://srv.cldplay.net:80/josyceilandiacozinha/161516290/140383
+
+
+
+
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS SPORT TV PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -138,6 +154,10 @@ https://000000
 #EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61981&amp;f=.ch
 
+#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/286
+#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/49967
 
 
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
