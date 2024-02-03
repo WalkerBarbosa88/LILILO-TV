@@ -11,7 +11,7 @@ http://0.0.0.0:0000
 https://tvgratuita10.blogspot.com/?fbclid=IwAR1hjt2fxRsjhUBFg6lhEEU1cbj3xHkyZ65tIOyWhApFByPIvawYYeSmHmo
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 14/01/2024[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 03/02/2024[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 #EXTINF:-1,[COLOR=yellow][B]/////////  RÁDIOS, TV E CANAIS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -34,13 +34,8 @@ http://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/index.m3u8
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1,[COLOR=white][B]DRONE TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]CNN INTERNACIONAL HD[/B][/COLOR][COLOR=white][/COLOR]
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]CNN PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
 https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
-#EXTINF:-1,[COLOR=white][B]PORTO TV[/B][/COLOR][COLOR=white][/COLOR]
-https://stream-05.dc3.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0sxkhMnmZ6k1KnLXhQpuOCXlcKZxFeXpIKNhh6k7bbKh)/dm/3/x8egnb8/s/live-2.m3u8#cell=lcore
-
 #EXTINF:-1,[COLOR=white][B]KURIAKOS TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]KURIAKOS CINE HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -54,10 +49,6 @@ http://iptv.prosto.tv:7000/ch206/video.m3u8
 
 #EXTINF:-1,[COLOR=white][B]NASCI PARA CANTAR TV[/B][/COLOR][COLOR=white][/COLOR]
 https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/chunklist_w939901266.m3u8
-#EXTINF:-1,[COLOR=white][B]IES TV - IGREJA DO ESPÍRITO SANTO[/B][/COLOR][COLOR=white][/COLOR]
-https://joaocaiado.com:1443/ies_tv/ngrp:ies_tv_all/chunklist_w1124752031_b2030132.m3u8
-#EXTINF:-1,[COLOR=white][B]WAY TV[/B][/COLOR][COLOR=white][/COLOR]
-https://stream.castr.com/5d714f6a0bd97874e36f14e4/live_3a0f544056e711ec8d4bc33d28c33b2a/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1,[COLOR=white][B]ADB TV[/B][/COLOR][COLOR=white][/COLOR]
 https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv_3/chunklist_w461001328.m3u8
 
@@ -73,13 +64,8 @@ https://000000
 http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/chunklist_w1683699584.m3u8
 #EXTINF:-1,[COLOR=white][B]TVI ÁFRICA HD[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]AFROBIT HD[/B][/COLOR][COLOR=white][/COLOR]
-http://connectiktv.ddns.me:8080/live/61f2632aa8934-1/index.m3u8
 #EXTINF:-1,[COLOR=white][B]PLAY TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]VIBE MUSIC TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://connectiktv.ddns.me:8080/live/62455ef0ac47a/index.m3u8
-
 #EXTINF:-1,[COLOR=white][B]VOX AFRICA HD[/B][/COLOR][COLOR=white][/COLOR]
 https://1927901613.rsc.cdn77.org/1927901613/tracks-v1a1/mono.m3u8
 
@@ -110,8 +96,6 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]ALL SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]CANAL DOS RICOS HD[/B][/COLOR][COLOR=white][/COLOR]
-https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]AMAZON SAT FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
@@ -134,24 +118,14 @@ https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://162.212.178.69:41042/bysid/608
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
 http://210.210.155.37/qwr9ew/s/s38/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
-http://162.212.178.69:41042/bysid/608
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_5.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC HD[/B][/COLOR][COLOR=white][/COLOR]
 https://bit.ly/42ySDn4?/index_5.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC NOTÍCIAS HD[/B][/COLOR][COLOR=white][/COLOR]
-https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC NOVELAS HD[/B][/COLOR][COLOR=white][/COLOR]
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVI FICÇÃO HD[/B][/COLOR][COLOR=white][/COLOR]
 https://bit.ly/3gejKxf?720p/playlist.m3u8
@@ -166,8 +140,6 @@ https://bit.ly/41Pufgt?/playlist.m3u8
 https://bit.ly/3gejKxf?720p/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVI REALITY HD[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVI - MORANGOS COM AÇUCAR HD[/B][/COLOR][COLOR=white][/COLOR]
-https://bit.ly/3tWqMRr?/hd2-1080p/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVI ÁFRICA HD[/B][/COLOR][COLOR=white][/COLOR]
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -181,8 +153,6 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/PortoCanal.m3
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]EURONEWS PT TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://rakuten-euronews-8-pt.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RAKUTEN DOCUMENTÁRIOS[/B][/COLOR][COLOR=white][/COLOR]
-https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RAKUTEN FAMÍLIA[/B][/COLOR][COLOR=white][/COLOR]
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 
@@ -193,117 +163,8 @@ https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 
 #EXTM3U
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| RTP 1 FHD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9706
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| RTP 2 FHD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9709
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| SIC FHD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9714
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| TVI FHD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9722
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| ZAP VIVA FHD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9726
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| RECORD TV FHD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9754
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| TRAVEL CHANNEL FHD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9761
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| EUROSPORT 1 FHD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9788
-
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9800
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| FOX FHD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9801
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| FOX CRIME FHD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9808
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| AXN WHITE FHD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9811
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| AXN FHD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9816
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| TV CINE EDITION FHD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9830
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| CMTV HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9698
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| NOS STUDIOS HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9704
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| RTP 1 HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9707
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| RTP 2 HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9710
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| RTP 3 HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9712
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| SIC HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9715
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| SIC NOTICIAS HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9716
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| TVI 24 HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9721
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| TVI FICCAO HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9723
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| TVI HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9724
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| FUEL TV HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9758
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| TRAVEL CHANNEL HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9760
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| HISTORIA HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9762
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| ODISSEIA HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9764
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| DISCOVERY CHANNEL HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9770
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| NATIONAL GEOGRAPHIC HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9771
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| MOTORVISION HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9784
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| EUROSPORT 2 HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9786
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| EUROSPORT 1 HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9787
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| SPORTING TV HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9789
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| FOX COMEDY HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9803
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| FOX LIFE HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9805
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| FOX CRIME HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9807
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| AXN WHITE HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9810
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| AXN BLACK HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9813
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| SYFY HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9817
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| AMC HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9819
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| CINEMUNDO HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9821
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| TV CINE ACTION HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9823
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| TV CINE EMOTION HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9826
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| TV CINE EDITION HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9829
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| TV CINE TOP HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9832
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| SIC RADICAL HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9835
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| SIC MULHER HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9837
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| FOX HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9850
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| HOLLYWOOD HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9852
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| Canal panda HD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/91720
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| CAMPO PEQUENO FHD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9655
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| 24 KITCHEN FHD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9693
-#EXTINF:0 tvg-id="ext" group-title="Channels",||PT|| KURIAKOS TV FHD
-http://goldiptvofficiel.tv:25461/live:kifa.sh/tMKSaXvkrwqt/9702
+#EXTINF:0 tvg-id="ext" group-title="Channels",NÃO DISPONÍVEL
+https://1222258888889
 
 
