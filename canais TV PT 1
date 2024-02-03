@@ -172,10 +172,7 @@ http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/49966
 http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/289
 #EXTINF:0 tvg-id="BabyTV.pt" group-title="Channels",PT: BABY TV
 http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/2398
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",PT: BENFICA TV FHD
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/286
-#EXTINF:0 tvg-id="BenficaTV.pt" group-title="Channels",PT: Benfica TV FullHD
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/49967
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: CANAL 11 HD
 http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/52208
 #EXTINF:0 tvg-id="HistoryChannel.pt" group-title="Channels",PT: CANAL HISTORIA
@@ -194,7 +191,7 @@ http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/2082
 http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/49970
 #EXTINF:0 tvg-id="Cinemundo.pt" group-title="Channels",PT: CINEMUNDO FHD
 http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/46621
-#EXTINF:0 tvg-id="CMTV.pt" group-title="Channels",PT: CM TV
+#EXTINF:0 tvg-id="CMTV.pt" group-title="Channels",PT: CMTV FHD
 http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/1619
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: CNN PORTUGAL FHD
 http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/54595
@@ -206,26 +203,7 @@ http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/46625
 http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/742
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: E! Entertainment FHD
 http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/46627
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 1 HD
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/54740
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 2 HD
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/54741
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 3 FHD
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/53509
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 3 HD
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/54742
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 4 FHD
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/53510
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 4 HD
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/54743
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 5 FHD
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/53511
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 5 HD
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/54744
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 6 FHD
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/53512
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: Eleven Sports 6 HD
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/54745
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: EuroNews
 http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/52074
 #EXTINF:0 tvg-id="Eurosport1.pt" group-title="Channels",PT: EUROSPORT 1
@@ -266,8 +244,7 @@ http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/2089
 http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/49979
 #EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Channels",PT: NICKELODEON
 http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/2099
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: NOS STUDIOS FHD
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/52186
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: ODISSEIA FHD
 http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/1859
 #EXTINF:0 tvg-id="canalpanda.pt" group-title="Channels",PT: canal Panda
@@ -304,16 +281,7 @@ http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/1520
 http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/275
 #EXTINF:0 tvg-id="sicradical.pt" group-title="Channels",PT: SIC RADICAL HD
 http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/733
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",PT: SPORT TV 1 FullHD
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/280
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",PT: SPORT TV 2 FullHD
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/281
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",PT: SPORT TV 3 FullHD
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/282
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",PT: SPORT TV 4 FullHD
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/283
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",PT: SPORT TV 5 FullHD
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/284
+
 #EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",PT: SPORTING TV
 http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/285
 #EXTINF:0 tvg-id="SyFy.pt" group-title="Channels",PT: SYFY FullHD
@@ -326,14 +294,7 @@ http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/2091
 http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/46662
 #EXTINF:0 tvg-id="TravelChannel.pt" group-title="Channels",PT: Travel Channel
 http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/49985
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TV CINE ACTION FullHD
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/270
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TV CINE EDITION FullHD
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/269
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TV CINE Emotion  FullHD
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/268
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT: TV CINE TOP  FullHD
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/267
+
 #EXTINF:0 tvg-id="TVGlobo.pt" group-title="Channels",PT: TV GLOBO
 http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/274
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: TV Globo NOW
