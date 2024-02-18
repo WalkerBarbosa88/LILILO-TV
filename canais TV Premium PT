@@ -23,11 +23,8 @@ http://0.0.0.0:0000
      Listas Várias - https://global-satinfo.in/viewforum.php?f=22&sid=14261766f220116fe35abb7ddf0e87e2
      
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 03/02/2024[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 18/02/2024[/B][/COLOR][COLOR=orange][/COLOR]
 #EXTM3U
-
-
-
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B] /////////  NOVOS CANAIS DESPORTO PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -35,40 +32,22 @@ https://00000000000
 
 #EXTM3U
 
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/52209
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/280
+http://srv.cldplay.net:80/josyceilandiacozinha/161516290/140380&f=.ch
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62071&f=.ch
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/281
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62079&f=.ch
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/282
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/74595&f=.ch
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/283
+http://srv.cldplay.net:80/josyceilandiacozinha/161516290/140985&f=.ch
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8012&f=.ch
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/284
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://srv.cldplay.net:80/josyceilandiacozinha/161516290/140380&amp;f=.ch
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62071&amp;f=.ch
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:14:C5:5D&stream=864_&extension=ts
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62079&amp;f=.ch
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/74595&amp;f=.ch
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://srv.cldplay.net:80/josyceilandiacozinha/161516290/140985&amp;f=.ch
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8012&amp;f=.ch
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62082&amp;f=.ch
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62082&f=.ch
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://srv.cldplay.net:80/josyceilandiacozinha/161516290/140383
-
 
 
 
@@ -82,14 +61,11 @@ https://00000000000
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:14:C5:5D&stream=864_&extension=ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://118708565190318977.ofd0107.xyz:80/play/alberto4/103050/318977.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://backup.xp1.tv/play/live.php?mac=00:1A:79:14:C5:5D&stream=862_&extension=ts
+
 
 #EXTM3U
 ####################################################################################################################################
@@ -102,11 +78,7 @@ https://000000
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV PERU FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://191.97.58.41:8001/play/a008
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV PERU HD[/B][/COLOR][COLOR=white][/COLOR]
-http://186.3.85.115:8000/play/a001/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV PERU HD[/B][/COLOR][COLOR=white][/COLOR]
 http://190.92.25.125:8000/play/a06x/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV PERU HD[/B][/COLOR][COLOR=white][/COLOR]
-http://186.3.85.115:8000/play/a001/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/19059/index.m3u8
@@ -128,14 +100,8 @@ http://80.252.37.194:5000/udp/233.233.233.6:12000
 http://80.252.37.194:5000/udp/233.233.233.7:12000
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ARENA SPORTS 6 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://80.252.37.194:5000/udp/233.233.233.8:12000
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MATH RUSSIA HD[/B][/COLOR][COLOR=white][/COLOR]
-https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MATH RUSSIA 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-https://bl.uma.media/live/394904/HLS/1_5/1/1/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MATH RUSSIA 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://uiptv.do.am/1ufc/000000003/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MATH RUSSIA 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 1 PL[/B][/COLOR][COLOR=white][/COLOR]
 http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/59840.ch
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 PL[/B][/COLOR][COLOR=white][/COLOR]
@@ -154,12 +120,6 @@ https://000000
 #EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61981&amp;f=.ch
 
-#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/286
-#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/49967
-
-
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
  
 #EXTM3U
@@ -173,17 +133,9 @@ http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2531/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://99f6ad7e.ottrast.com/iptv/6XFVDYBV8KUMDU/19158/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://wiaqmjix.rostelekom.xyz/iptv/5YS5CCM3AGT2T9/19158/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2531/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63300_&extension=ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63301_&extension=ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2533/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63302_&extension=m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2535/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 6 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -200,14 +152,6 @@ https://0000000
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NOS STUDIOS FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/52186
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
+http://11111111222222333333333333355555
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE ACTION FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/270
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EDITION FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/269
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EMOTION FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/268
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE TOP FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://server.sibfungold.info:8080/argoniNL2012/QumUZjBtrRVBxkBdg7eAzjp4/267
