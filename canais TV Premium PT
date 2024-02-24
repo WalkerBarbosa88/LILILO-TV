@@ -23,7 +23,7 @@ http://0.0.0.0:0000
      Listas Várias - https://global-satinfo.in/viewforum.php?f=22&sid=14261766f220116fe35abb7ddf0e87e2
      
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 18/02/2024[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 24/02/2024[/B][/COLOR][COLOR=orange][/COLOR]
 
 
 ####################################################################################################################################
@@ -31,6 +31,7 @@ http://0.0.0.0:0000
 https://00000000000
 
 #EXTM3U
+
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://srv.cldplay.net:80/josyceilandiacozinha/161516290/140380&f=.ch
@@ -61,10 +62,26 @@ https://00000000000
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24SPORTTV1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://srv.cldplay.net:80/josyceilandiacozinha/161516290/140380&f=.ch
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62071&f=.ch
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62079&f=.ch
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://213.13.16.138/shls/LIVE%24SPORTTV2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://118708565190318977.ofd0107.xyz:80/play/alberto4/103050/318977.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/74595&f=.ch
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://srv.cldplay.net:80/josyceilandiacozinha/161516290/140985&f=.ch
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8012&f=.ch
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62082&f=.ch
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://srv.cldplay.net:80/josyceilandiacozinha/161516290/140383
 
 
 #EXTM3U
@@ -77,8 +94,6 @@ https://000000
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV PERU FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://191.97.58.41:8001/play/a008
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV PERU HD[/B][/COLOR][COLOR=white][/COLOR]
-http://190.92.25.125:8000/play/a06x/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/19059/index.m3u8
@@ -128,18 +143,8 @@ https://000000
 
 #EXTM3U
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2531/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://99f6ad7e.ottrast.com/iptv/6XFVDYBV8KUMDU/19158/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/2531/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2533/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2535/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 6 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2536/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
+http://122222224444555555589
 
 #EXTM3U
 
