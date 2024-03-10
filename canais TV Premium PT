@@ -119,8 +119,23 @@ https://000000
 
 #EXTM3U
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
-http://122222224444555555589
+
+#EXTINF:-1,[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.13.16.138/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1,[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://conexaoonline.top:80/IVONE123/IVONE321/261002
+#EXTINF:-1,[COLOR=white][B]DANZ ELEVEN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://conexaoonline.top:80/IVONE123/IVONE321/261001
+#EXTINF:-1,[COLOR=white][B]DANZ ELEVEN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.13.16.138/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1,[COLOR=white][B]DANZ ELEVEN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.13.16.138/shls/LIVE$Eleven_Sports_3_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1,[COLOR=white][B]DANZ ELEVEN 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.13.16.138/shls/LIVE$Eleven_Sports_4_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1,[COLOR=white][B]DANZ ELEVEN 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.13.16.138/shls/LIVE$Eleven_Sports_5_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
+#EXTINF:-1,[COLOR=white][B]DANZ ELEVEN 6 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://213.13.16.138/shls/LIVE$Eleven_Sports_6_HD/index.m3u8?device=TVOS_Live&start=LIVE&end=END
 
 #EXTM3U
 
