@@ -69,6 +69,10 @@ https://000000
 http://191.97.58.41:8001/play/a008
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV PERU FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://138.255.102.3:25461/FOXSPORTS1HDsd/RRZKamZw9a/4316&amp;f=.ch
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://143.255.35.223:8000/play/a01g
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV FHD[/B][/COLOR][COLOR=white][/COLOR]
+http://157.245.117.238:8000/play/a0ur/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://2615a5d9.edmonst.net/iptv/4PYL58K99PM8FU/19059/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
