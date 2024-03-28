@@ -11,7 +11,7 @@ http://0.0.0.0:0000
 https://tvgratuita10.blogspot.com/?fbclid=IwAR1hjt2fxRsjhUBFg6lhEEU1cbj3xHkyZ65tIOyWhApFByPIvawYYeSmHmo
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 10/03/2024[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 28/03/2024[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 #EXTINF:-1,[COLOR=yellow][B]/////////  RÁDIOS, TV E CANAIS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -28,8 +28,6 @@ https://5d82644094cc0.streamlock.net/xradiotv/xradiotv/chunklist_w765992564.m3u8
 https://streamer-a03.videos.sapo.pt/live/famatv/chunklist_w1729802407.m3u8
 #EXTINF:-1,[COLOR=white][B]RÁDIO SINES[/B][/COLOR][COLOR=white][/COLOR]
 https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
-#EXTINF:-1,[COLOR=white][B]TV BRICS PT HD[/B][/COLOR][COLOR=white][/COLOR]
-http://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-id="NASATV.us" group-title="Science",[COLOR=white][B]NASA TV[/B][/COLOR][COLOR=white][/COLOR] 
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1,[COLOR=white][B]DRONE TV HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -49,8 +47,6 @@ http://iptv.prosto.tv:7000/ch206/video.m3u8
 
 #EXTINF:-1,[COLOR=white][B]NASCI PARA CANTAR TV[/B][/COLOR][COLOR=white][/COLOR]
 https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/chunklist_w939901266.m3u8
-#EXTINF:-1,[COLOR=white][B]ADB TV[/B][/COLOR][COLOR=white][/COLOR]
-https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv_3/chunklist_w461001328.m3u8
 
 
 ##########################################################################################################################################
@@ -92,11 +88,8 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]NOVA ERA TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
-
 #EXTINF:-1,[COLOR=white][B]TV RIO PRETO HD[/B][/COLOR][COLOR=white][/COLOR]
 https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]CONEXÃO TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]TV ALDEIA TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
 
@@ -136,8 +129,6 @@ https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafric
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SANTUÁRIO DE FÁTIMA HD[/B][/COLOR][COLOR=white][/COLOR]
 https://streamer-b02.videos.sapo.pt/live/santuario/chunklist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]PORTO CANAL HD[/B][/COLOR][COLOR=white][/COLOR]
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/PortoCanal.m3u8
 
 #EXTINF:-1,[COLOR=white][B]EURONEWS PT TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://rakuten-euronews-8-pt.samsung.wurl.tv/manifest/playlist.m3u8
