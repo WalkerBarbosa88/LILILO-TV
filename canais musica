@@ -4,7 +4,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 11/01/2024[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 28/03/2024[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -97,17 +97,11 @@ http://hz1.teleport.cc/HLS/SD.m3u8
 #EXTINF:-1,[COLOR=white][B]KISS UK[/B][/COLOR][COLOR=white][/COLOR]
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 
-#EXTINF:0 tvg-id="VH1.us" group-title="Music",[COLOR=white][B]VH1 FHD[/B][/COLOR][COLOR=white][/COLOR]
-https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-
 #EXTINF:-1,[COLOR=white][B]PLAY TV[/B][/COLOR][COLOR=white][/COLOR]
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]BELLA RADIO TV[/B][/COLOR][COLOR=white][/COLOR]
 http://server.bellaradio.it:1935/live/bellaradiotv/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]ZEROUNO TV[/B][/COLOR][COLOR=white][/COLOR]
-http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
 
 
 ##########################################################################################################################
@@ -184,11 +178,6 @@ https://000000
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:-1,[COLOR=white][B]AFROBEAT HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1,[COLOR=white][B]DBM TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://edge.vedge.infomaniak.com/livecast/ik:dbmtv/manifest.m3u8?checkedby:iptvcat.net
-#EXTINF:-1,[COLOR=white][B]BBBLACK TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://stream.vedge.infomaniak.com/livecast/ik:bblackafrica/chunklist.m3u8
-
 #EXTINF:-1,[COLOR=white][B]AFROBEAT HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8?wmsAuthSign=InspirationLinks
 #EXTINF:-1,[COLOR=white][B]RÁDIO BIKIRINA HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -223,13 +212,6 @@ https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
 ######################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// BEST TOP HITS 2 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
-
-
-
-#EXTINF:-1,[COLOR=white][B]SUPER TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://162.19.242.64:8000/play/a001/index.m3u8
-#EXTINF:-1,[COLOR=white][B]SUPER TV FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://162.19.242.64:8000/play/a002/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]RÁDIO CARINA TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://samson.streamerr.co:8081/carinatv/tracks-v1a1/mono.m3u8
@@ -313,18 +295,9 @@ https://bl.uma.media/live/619345/HLS/4614144_3/1/1/playlist.m3u8
 https://000000
 
 
-#EXTINF:-1,[COLOR=white][B]RECUERDOS RETRO[/B][/COLOR][COLOR=white][/COLOR]
-https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
-
 #EXTINF:-1,[COLOR=white][B]RETRO TV 1 SD[/B][/COLOR][COLOR=white][/COLOR]
 https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]RETRO TV 2 SD[/B][/COLOR][COLOR=white][/COLOR]
-https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/chunklist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]RETRO TV 2 SD[/B][/COLOR][COLOR=white][/COLOR]
-https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/chunklist.m3u8
- 
 #EXTINF:-1,[COLOR=white][B]VINTAGE RADIO TV[/B][/COLOR][COLOR=white][/COLOR]
 http://5f22d76e220e1.streamlock.net:1935/vintageradiotv/vintageradiotv/chunklist.m3u8
 
@@ -336,9 +309,6 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,[COLOR=white][B]CLASSIC HITS[/B][/COLOR][COLOR=white][/COLOR]
 http://168.205.87.198:8555/live/1431/123456/27.ts
-
-#EXTINF:-1,[COLOR=white][B]MEMORIAS TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://mediacp.us:8081/8002/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,[COLOR=white][B]MTV 80´S TV[/B][/COLOR][COLOR=white][/COLOR]
 http://myott.top/stream/DEKA6YA5JRN/87.m3u8
@@ -395,11 +365,6 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
 #EXTINF:0,[COLOR=white][B]OCKO GOLD[/B][/COLOR][COLOR=white][/COLOR]
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]BARAZA TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://eco.streams.ovh:1935/BarazaTV/BarazaTV/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]BARAZA TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://eco.streams.ovh:1935/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
-   
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]FIRST MUSIC CHANNEL[/B][/COLOR][COLOR=white][/COLOR]
 http://hz1.teleport.cc/HLS/HD.m3u8
 
@@ -556,8 +521,4 @@ http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
 http://www.sonus.fm:1935/public/stream_720p/chunklist_w514335426.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]XITE HD DE[/B][/COLOR][COLOR=white][/COLOR]
 https://xite-samsung-de.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]BRIDGE CLASSIC HD[/B][/COLOR][COLOR=white][/COLOR]
-http://188.191.160.238:7780/udp/239.195.1.193:1234
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SOL MUSICA HD[/B][/COLOR][COLOR=white][/COLOR]
-https://bit.ly/47gjVkn?/playlist.m3u8
 
