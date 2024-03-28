@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 #####################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 11/01/2024[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 28/03/2024[/B][/COLOR][COLOR=orange][/COLOR]
  
 ###########################################################################################################################################
  
@@ -75,19 +75,10 @@ https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunk
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]DUBAI SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]KSA SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-https://edge.taghtia.com/sa/9.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]KSA SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-https://edge.taghtia.com/sa/10.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]KSA SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-https://edge.taghtia.com/sa/16.m3u8
-
 #EXTINF:-1,[COLOR=white][B]MUTV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]PERSIANA SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://af.ayas.ir/hls2/persiana.m3u8
-#EXTINF:-1,[COLOR=white][B]RACING AMERICA HD[/B][/COLOR][COLOR=white][/COLOR]
-https://lnc-racing-america.tubi.video/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]SAN MARINO RTV SPORT HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 #EXTINF:-1,[COLOR=white][B]SONY SPORTS TEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -177,8 +168,6 @@ https://2383afee096b4dc499922dcf79ba9cfa.mediatailor.us-east-1.amazonaws.com/v1/
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=858
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",[COLOR=white][B]THE PET COLLECTIVE[/B][/COLOR][COLOR=white][/COLOR]
 https://the-pet-collective-international-ca.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",[COLOR=white][B]THE PET COLLECTIVE[/B][/COLOR][COLOR=white][/COLOR]
-https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  PROGRAMAS DE TV 24 HORAS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -215,13 +204,8 @@ https://eyeonesports.com/720/ESR-002SCTE35.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
 #EXTINF:-1,[COLOR=white][B]GOT GAME IT HD[/B][/COLOR][COLOR=white][/COLOR]
 https://gghubsrl-gotgame-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]GAME PLACE US[/B][/COLOR][COLOR=white][/COLOR]
-https://buffactorymedia-gameplay-1-pt.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]GAME TOON US[/B][/COLOR][COLOR=white][/COLOR]
 http://iptv.prosto.tv:7000/ch256/video.m3u8
-#EXTINF:-1,[COLOR=white][B]ESTV US[/B][/COLOR][COLOR=white][/COLOR]
-https://estv-rakuten-samsung.amagi.tv/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="eSportsMaxTV.ve" group-title="ɢᴀᴍɪɴɢ" tvg-logo="https://i.imgur.com/OprRgQN.png",eSports Max
 #EXTINF:-1,[COLOR=white][B]ESPORTS MAX[/B][/COLOR][COLOR=white][/COLOR]
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
@@ -318,8 +302,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]METEO TV[/B][/COLOR][COLOR=white][/COLOR]
 https://ythls.armelin.one/channel/UCme7pPv6AZoSMsFbSYK0esg.m3u8
-#EXTINF:-1,[COLOR=white][B]WEATHER NATION TV[/B][/COLOR][COLOR=white][/COLOR]
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bdce04659ee03633e758130&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=217&terminate=false&userId=
 #EXTINF:-1,[COLOR=white][B]WEATHER NEWS TV[/B][/COLOR][COLOR=white][/COLOR]
 https://ythls.armelin.one/channel/UCNsidkYpIAQ4QaufptQBPHQ.m3u8
 #EXTINF:-1,[COLOR=white][B]FOX WEATHER[/B][/COLOR][COLOR=white][/COLOR]
@@ -397,13 +379,6 @@ https://d1nlhbqjulacw7.cloudfront.net/hls/samsungtvplus_us_motorvisiontv_001.m3u
 https://d2hnz12weo628w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AFV2-prod/samsung.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1,[COLOR=white][B]PLUTO TV CUSTOM GARAGE[/B][/COLOR][COLOR=white][/COLOR]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e78faa05a0e200007a6f487/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1,[COLOR=white][B]HARLEY DAVIDSON FACTORY TV[/B][/COLOR][COLOR=white][/COLOR]
-https://hdtv.prod2.ioio.tv/broker/play/e529407a-cb61-45ce-a9ad-94f0ad5e0ad9.m3u8
-#EXTINF:-1,[COLOR=white][B]100% AUTO MOTO TV[/B][/COLOR][COLOR=white][/COLOR]
-http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]MOTOR SUR MEDIA HD[/B][/COLOR][COLOR=white][/COLOR]
-https://59ce1298bfb98.streamlock.net/motorsur/motorsur/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]RPM HD[/B][/COLOR][COLOR=white][/COLOR]
 https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8
 
@@ -448,8 +423,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0
 https://000000
 
 
-#EXTINF:-1,[COLOR=white][B]FRANCE 24 HD[/B][/COLOR][COLOR=white][/COLOR]
-https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_092/HD/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]CBS NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1,[COLOR=white][B]ABS NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -480,9 +453,6 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/chunklist_b3596000_slENG.m3u8
 #EXTINF:-1,[COLOR=white][B]DW NEWS HD ENG[/B][/COLOR][COLOR=white][/COLOR]
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-
-#EXTINF:-1,[COLOR=white][B]AFRICA+ NEWS HD[/B][/COLOR][COLOR=white][/COLOR]
-http://connectiktv.ddns.me:8080/live/61f1b992a6e8a-1/index.m3u8
 #EXTINF:-1,[COLOR=white][B]AFRICANEWS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]CNN INTER. EUROPA HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -501,8 +471,6 @@ http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 https://000000
 
 
-#EXTINF:-1,[COLOR=white][B]30A INVESTEMENT PITCH HD[/B][/COLOR][COLOR=white][/COLOR]
-https://30a-tv.com/feeds/xodglobal/30atv.m3u8
 #EXTINF:-1,[COLOR=white][B]BLOOMBERG TV EUROPE HD[/B][/COLOR][COLOR=white][/COLOR]
 https://bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1,[COLOR=white][B]BLOOMBERG TV US LIVE EVENT HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -531,8 +499,6 @@ https://bonappetit-samsung.amagi.tv/playlist.m3u8
 https://d3cajslujfq92p.cloudfront.net/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]SO YUMMI HD[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/master.m3u8
-#EXTINF:-1,[COLOR=white][B]CHEF CHAMPION TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://rpn1.bozztv.com/36bay2/gusa-chefchampion/mono.m3u8
 #EXTINF:-1,[COLOR=white][B]TV COCINA HD[/B][/COLOR][COLOR=white][/COLOR]
 https://bit.ly/tvcocinaPluto?/master1080p.m3u8
 
@@ -541,18 +507,9 @@ https://bit.ly/tvcocinaPluto?/master1080p.m3u8
 #EXTINF:-1,[COLOR=yellow][B]/////////  ANIMAÇÃO INFANTIL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
-
-#EXTINF:-1,[COLOR=white][B]CARTOON NETWORK BR HD[/B][/COLOR][COLOR=white][/COLOR]
-https://playout.cdn.cartoonnetwork.com.br/playout_05/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]CARTOONITO BR HD[/B][/COLOR][COLOR=white][/COLOR]
-https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]ANIPLUS FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]KURIAKOS KIDS FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]PANDAMAX CHANNEL FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
-
-
-
- 
