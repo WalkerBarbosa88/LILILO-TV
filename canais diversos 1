@@ -149,7 +149,16 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 #EXTINF:-1,[COLOR=white][B]CLARITY 4K[/B][/COLOR][COLOR=white][/COLOR]
 https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 
-
+#EXTINF:-1,[COLOR=white][B]AKWARIUM 4K[/B][/COLOR][COLOR=white][/COLOR]
+http://iptv.prosto.tv:7000/ch325/video.m3u8?secret=191yc7ul
+#EXTINF:-1,[COLOR=white][B]ANIMALS 4K[/B][/COLOR][COLOR=white][/COLOR]
+http://iptv.prosto.tv:7000/ch316/video.m3u8?secret=191yc7ul
+#EXTINF:-1,[COLOR=white][B]HOTBIRD 4K[/B][/COLOR][COLOR=white][/COLOR]
+http://45.65.112.49:8000/play/a0ic
+#EXTINF:-1,[COLOR=white][B]STREAM CITY 4K[/B][/COLOR][COLOR=white][/COLOR]
+http://iptv.prosto.tv:7000/ch321/video.m3u8?secret=191yc7ul
+#EXTINF:-1,[COLOR=white][B]TRAVEL XP 4K[/B][/COLOR][COLOR=white][/COLOR]
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  ACROBACIAS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
