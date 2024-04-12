@@ -99,12 +99,15 @@ https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
 #EXTM3U
 
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/1512
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
 http://210.210.155.37/qwr9ew/s/s38/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/1514
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_5.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SIC HD[/B][/COLOR][COLOR=white][/COLOR]
 https://bit.ly/42ySDn4?/index_5.m3u8
 
@@ -112,11 +115,6 @@ https://bit.ly/42ySDn4?/index_5.m3u8
 https://bit.ly/3gejKxf?720p/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVI ÁFRICA SD[/B][/COLOR][COLOR=white][/COLOR]
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CNN PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
-https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CNN PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
-https://bit.ly/41Pufgt?/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVI FICÇÃO HD[/B][/COLOR][COLOR=white][/COLOR]
 https://bit.ly/3gejKxf?720p/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVI REALITY HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -125,12 +123,21 @@ https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvirea
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVI INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CNN PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
+https://bit.ly/41Pufgt?/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CNN PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
+https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
+
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SANTUÁRIO DE FÁTIMA HD[/B][/COLOR][COLOR=white][/COLOR]
 https://streamer-b02.videos.sapo.pt/live/santuario/chunklist.m3u8
-
 #EXTINF:-1,[COLOR=white][B]EURONEWS PT TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://rakuten-euronews-8-pt.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]EURONEWS PT HD[/B][/COLOR][COLOR=white][/COLOR]
+https://euronews-euronews-portugues-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RAKUTEN FAMÍLIA[/B][/COLOR][COLOR=white][/COLOR]
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 
