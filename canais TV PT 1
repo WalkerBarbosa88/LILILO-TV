@@ -11,7 +11,7 @@ http://0.0.0.0:0000
 https://tvgratuita10.blogspot.com/?fbclid=IwAR1hjt2fxRsjhUBFg6lhEEU1cbj3xHkyZ65tIOyWhApFByPIvawYYeSmHmo
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 28/03/2024[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 12/04/2024[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 #EXTINF:-1,[COLOR=yellow][B]/////////  RÁDIOS, TV E CANAIS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -72,8 +72,7 @@ https://000000
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=white][B]BAND NEWS TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://cdn2.connectbr.com.br/Band-News/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,[COLOR=white][B]RECORD TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1,[COLOR=white][B]REDE TV HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -140,6 +139,7 @@ https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
 
 #EXTM3U
 
+
 #EXTINF:0 tvg-id="24Kitchen.pt" group-title="Channels",PT: 24 KITCHEN FHD
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/49965
 #EXTINF:0 tvg-id="ABolaTV.pt" group-title="Channels",PT: A BOLA TV
@@ -154,7 +154,6 @@ http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/49966
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/289
 #EXTINF:0 tvg-id="BabyTV.pt" group-title="Channels",PT: BABY TV
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/2398
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: CANAL 11 HD
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/52208
 #EXTINF:0 tvg-id="HistoryChannel.pt" group-title="Channels",PT: CANAL HISTÓRIA
@@ -185,8 +184,6 @@ http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/46625
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/742
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: E! ENTERTAINMENT FHD
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/46627
-
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: EURONEWS
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/52074
 #EXTINF:0 tvg-id="Eurosport1.pt" group-title="Channels",PT: EUROSPORT 1
@@ -257,7 +254,6 @@ http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/1520
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/275
 #EXTINF:0 tvg-id="sicradical.pt" group-title="Channels",PT: SIC RADICAL HD
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/733
-
 #EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",PT: SPORTING TV
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/285
 #EXTINF:0 tvg-id="SyFy.pt" group-title="Channels",PT: SYFY FHD
@@ -266,11 +262,8 @@ http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/279
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/53391
 #EXTINF:0 tvg-id="TLC.pt" group-title="Channels",PT: TLC
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/2091
-#EXTINF:0 tvg-id="TorosTV.pt" group-title="Channels",PT: TOROS TV
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/46662
 #EXTINF:0 tvg-id="TravelChannel.pt" group-title="Channels",PT: TRAVEL CHANNEL
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/49985
-
 #EXTINF:0 tvg-id="TVGlobo.pt" group-title="Channels",PT: TV GLOBO
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/274
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT: TV GLOBO NOW
