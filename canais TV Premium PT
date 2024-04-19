@@ -31,7 +31,6 @@ https://00000000000
 
 #EXTM3U
 
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
 http://myteve.online:8080/stadnik2/7082341272/1481
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -89,8 +88,6 @@ http://myteve.online:8080/stadnik2/7082341272/2051
 http://myteve.online:8080/stadnik2/7082341272/2051
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62076
-
-
 
 
 #EXTM3U
@@ -163,16 +160,14 @@ http://cdnx1.plusx.tv:8880/271/mono.m3u8?token=0e318668ba9b1d41dd3333
 http://89.187.179.242:12397
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 PL[/B][/COLOR][COLOR=white][/COLOR]
 http://cdnx1.plusx.tv:8880/270/mono.m3u8?token=0e318668ba9b1d41dd3333
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 PL[/B][/COLOR][COLOR=white][/COLOR]
+http://89.187.179.242:12397
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 3 PL[/B][/COLOR][COLOR=white][/COLOR]
 http://cdnx1.plusx.tv:8880/269/mono.m3u8?token=0e318668ba9b1d41dd3333
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 4 PL[/B][/COLOR][COLOR=white][/COLOR]
 http://cdnx1.plusx.tv:8880/272/mono.m3u8?token=0e318668ba9b1d41dd3333
 
-
-
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 PL[/B][/COLOR][COLOR=white][/COLOR]
-http://89.187.179.242:12397
 
 ##################################  BENFICA TV   ###########################################################################
 
@@ -197,7 +192,6 @@ http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/61984
 https://000000
 
 #EXTM3U
-
 
 
 #EXTINF:-1,[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
