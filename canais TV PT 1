@@ -11,14 +11,14 @@ http://0.0.0.0:0000
 https://tvgratuita10.blogspot.com/?fbclid=IwAR1hjt2fxRsjhUBFg6lhEEU1cbj3xHkyZ65tIOyWhApFByPIvawYYeSmHmo
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 21/04/2024[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 22/04/2024[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 #EXTINF:-1,[COLOR=yellow][B]/////////  RÁDIOS, TV E CANAIS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR=white][B]ONFM TV HD (OFFLINE)[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]ONFM TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]MATOSINHOS TV[/B][/COLOR][COLOR=white][/COLOR]
 https://5d82644094cc0.streamlock.net/xradiotv/xradiotv/chunklist_w1017197052.m3u8
@@ -183,8 +183,6 @@ http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/61992
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/61993
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT - CMTV HD
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/61994
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT - CRIME & INVESTIGATION
-http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/61995
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT - DISCOVERY CHANNEL 
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/61996
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT - DISCOVERY SHOWCASE HD
@@ -195,7 +193,7 @@ http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/61999
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62000
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT - DOG HD
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62001
-#EXTINF:0 tvg-id="eentertainment.pt" group-title="Channels",PT - E! Entertainment
+#EXTINF:0 tvg-id="eentertainment.pt" group-title="Channels",PT - E! ENTERTAINMENT
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62002
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT - EURONEWS
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62003
@@ -211,7 +209,7 @@ http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62007
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62008
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT - FIGHTBOX HD
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62009
-#EXTINF:0 tvg-id="FoodNetwork.pt" group-title="Channels",PT - Food Network
+#EXTINF:0 tvg-id="FoodNetwork.pt" group-title="Channels",PT - FOOD NETWORK
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62011
 #EXTINF:0 tvg-id="FOXComedy.pt" group-title="Channels",PT - FOX COMEDY
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62012
@@ -243,15 +241,15 @@ http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62029
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62031
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT - MCM TOP
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62033
-#EXTINF:0 tvg-id="Motorvision.pt" group-title="Channels",PT - Motorvision
+#EXTINF:0 tvg-id="Motorvision.pt" group-title="Channels",PT - MOTORVISION
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62035
 #EXTINF:0 tvg-id="mtvportugal.pt" group-title="Channels",PT - MTV
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62036
-#EXTINF:0 tvg-id="NatGeoWild.pt" group-title="Channels",PT - Nat Geo Wild
+#EXTINF:0 tvg-id="NatGeoWild.pt" group-title="Channels",PT - NAT GEO WILD
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62040
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT - NATIONAL GEOGRAPHIC HD
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62041
-#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Channels",PT - Nickelodeon
+#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Channels",PT - NICKELODEON
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62043
 #EXTINF:0 tvg-id="odisseia.pt" group-title="Channels",PT - ODISSEIA
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62046
@@ -267,18 +265,18 @@ http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62052
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62053
 #EXTINF:0 tvg-id="RTP3.pt" group-title="Channels",PT - RTP 3
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62055
-#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Channels",PT - RTP Africa
+#EXTINF:0 tvg-id="RTPAfrica.pt" group-title="Channels",PT - RTP ÁFRICA
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62056
-#EXTINF:0 tvg-id="RTPAcores.pt" group-title="Channels",PT - RTP Açores
+#EXTINF:0 tvg-id="RTPAcores.pt" group-title="Channels",PT - RTP AÇORES
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62057
 #EXTINF:0 tvg-id="RTPMadeira.pt" group-title="Channels",PT - RTP MADEIRA
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62058
 #EXTINF:0 tvg-id="rtpmemoria.pt" group-title="Channels",PT - RTP MEMORIA
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62059
 
-#EXTINF:0 tvg-id="SicCaras.pt" group-title="Channels",PT - Sic Caras
+#EXTINF:0 tvg-id="SicCaras.pt" group-title="Channels",PT - SIC CARAS
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62062
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT - Sic Kids
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT - SIC KIDS
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62064
 #EXTINF:0 tvg-id="sicmulher.pt" group-title="Channels",PT - SIC MULHER
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62065
@@ -286,32 +284,32 @@ http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62065
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62066
 #EXTINF:0 tvg-id="sic.pt" group-title="Channels",PT - SIC
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62068
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT - SKY News
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT - SKY NEWS
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62070
 
-#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",PT - Sporting TV HD
+#EXTINF:0 tvg-id="SPORTINGTV.pt" group-title="Channels",PT - SPORTING TV HD
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62083
-#EXTINF:0 tvg-id="SyFy.pt" group-title="Channels",PT - SyFy
+#EXTINF:0 tvg-id="SyFy.pt" group-title="Channels",PT - SYFY
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62084
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT - TCV Cabo Verde
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT - TCV CABO VERDE Verde
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62086
 #EXTINF:0 tvg-id="TLC.pt" group-title="Channels",PT - TLC
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62087
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT - Toros TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT - TOROS TV
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62088
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT - TPA ANGOLA
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62089
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT - Travel HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT - TRAVEL HD
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62091
-#EXTINF:0 tvg-id="ext" group-title="Channels",PT - TV Globo
+#EXTINF:0 tvg-id="ext" group-title="Channels",PT - TV GLOBO
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62096
-#EXTINF:0 tvg-id="TVI24.pt" group-title="Channels",PT - Tvi 24
+#EXTINF:0 tvg-id="TVI24.pt" group-title="Channels",PT - CNN PORTUGAL
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62105
 #EXTINF:0 tvg-id="TVIFiccao.pt" group-title="Channels",PT - TVI FICCAO
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62106
 #EXTINF:0 tvg-id="TVI.pt" group-title="Channels",PT - TVI HD
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62107
-#EXTINF:0 tvg-id="TVIReal.pt" group-title="Channels",PT - TVI Reality
+#EXTINF:0 tvg-id="TVIReal.pt" group-title="Channels",PT - TVI REALITY
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62108
 #EXTINF:0 tvg-id="ext" group-title="Channels",PT - VH1
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62109
