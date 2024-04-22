@@ -43,6 +43,9 @@ http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/61984
 http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/62077
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/62071
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 4k[/B][/COLOR][COLOR=white][/COLOR]
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:99:E2:CF&stream=1471378&extension=ts
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/62079
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
