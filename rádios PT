@@ -8,7 +8,7 @@ FONTE DE INFORMAÇÃO: http://fmstream.org/index.php?c=G&o=top  -  https://www.r
 
 Rádios de Portugal por distrito - https://pt.wikipedia.org/wiki/Lista_de_r%C3%A1dios_de_Portugal
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 28/03/2024[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 23/04/2024[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 
@@ -40,6 +40,7 @@ http://radio.strictly.house:9500/stream?hash=1575015166470.mp3
 https://000000000000000000000
 
 FONTE: https://radioonline.com.pt; https://www.radios-online.pt/mundial-fm
+
 
 #EXTINF:-1,[COLOR=white][B]RÁDIO MIÚDOS[/B][/COLOR][COLOR=white][/COLOR]
 https://s5.radio.co/s9c516a065/listen
@@ -519,8 +520,6 @@ https://000000000000000000000
 http://109.71.41.6:8129/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO TSF MADEIRA[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radios.pt:9470/;
-#EXTINF:-1,[COLOR=white][B]RÁDIO CALHETA[/B][/COLOR][COLOR=white][/COLOR]
-https://streamonline.pt/radio/8000/radiocalheta
 #EXTINF:-1,[COLOR=white][B]POSTO EMISSOR DO FUNCHAL[/B][/COLOR][COLOR=white][/COLOR]
 http://centova.radio.com.pt:9422/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO FESTIVAL MADEIRA[/B][/COLOR][COLOR=white][/COLOR]
@@ -541,12 +540,8 @@ https://000000000000000000000
 http://centova.radios.pt:9492/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO ELVAS ONLINE[/B][/COLOR][COLOR=white][/COLOR]
 http://radios.dotsi.pt:8025/stream
-#EXTINF:-1,[COLOR=white][B]RÁDIO NOSTALGIA ELVAS[/B][/COLOR][COLOR=white][/COLOR]
-http://stm6.srvstm.com:6162/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO CORAÇÃO ALENTEJO[/B][/COLOR][COLOR=white][/COLOR]
 https://sonic.servsonic.com/8016/stream
-#EXTINF:-1,[COLOR=white][B]RÁDIO CAMPO MAIOR[/B][/COLOR][COLOR=white][/COLOR]
-http://radios.dotsi.pt:8018/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO CLUBE DO DÃO[/B][/COLOR][COLOR=white][/COLOR]
 https://sp0.redeaudio.com/8052/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO NOSTALGIA ELVAS[/B][/COLOR][COLOR=white][/COLOR]
@@ -633,8 +628,6 @@ https://sp0.redeaudio.com/8100/stream
 https://stm21.srvaudio.com.br:11418/stream
 #EXTINF:-1,[COLOR=white][B]RÁDIO RVD[/B][/COLOR][COLOR=white][/COLOR]
 https://s1.stmxp.net:7206/1/;
-#EXTINF:-1,[COLOR=white][B]RÁDIO MARÉ ALTA[/B][/COLOR][COLOR=white][/COLOR]
-https://stream-149.zeno.fm/3t7p3czq6tzuv?zs=N6_HHshsTyGD9N3wQAqP5Q
 #EXTINF:-1,[COLOR=white][B]RÁDIO SUPER SANTIAGO[/B][/COLOR][COLOR=white][/COLOR]
 http://s5.stmxp.net:8004/stream
 
@@ -698,8 +691,6 @@ http://centova.radio.com.pt:9408/;
 https://sp0.redeaudio.com/8054/stream?1603106992356
 #EXTINF:-1,[COLOR=white][B]RÁDIO ALTO DOURO[/B][/COLOR][COLOR=white][/COLOR]
 https://stream-149.zeno.fm/btxha34m1wzuv?zs=m4nzebBlSHeXY_gx5DgBFQ
-#EXTINF:-1,[COLOR=white][B]RÁDIO CLUB DE ARMAMAR[/B][/COLOR][COLOR=white][/COLOR]
-http://213.136.92.8:8002/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO DOURO NACIONAL[/B][/COLOR][COLOR=white][/COLOR]
 https://sp0.redeaudio.com:10930/;
 #EXTINF:-1,[COLOR=white][B]RÁDIO LIMITE[/B][/COLOR][COLOR=white][/COLOR]
