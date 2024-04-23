@@ -27,14 +27,28 @@ plugin://plugin.video.youtube/play/?video_id=4J1YwwaZx4I
 #EXTINF:-1,[COLOR=white][B]MADEIRA - PRAIA DA PONTA GORDA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=MgMWOQIgIBY
 
+#EXTINF:-1,[COLOR=white][B]LIDO - MADEIRA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=P75AbPYu71s&ab_channel=Madeira-Web
+
+#EXTINF:-1,[COLOR=white][B]PRAIA DA PONTA GORDA - MADEIRA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=MgMWOQIgIBY&ab_channel=Madeira-Web
+
+#EXTINF:-1,[COLOR=white][B]PRAIA DA CALHETA - MADEIRA[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=Dl1byqohXk8
+
+#EXTINF:-1,[COLOR=white][B]DOCAS DAS CAVACAS - FUNCHAL[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=Vi4zU3_vvuU&ab_channel=Madeira-Web
+
 #EXTINF:-1,[COLOR=white][B]COSTA DA CAPARICA - PANORAMA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=9ewcRWb7d4s
 
 #EXTINF:-1,[COLOR=white][B]MARINA DE PORTIMÃO[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=Dl1byqohXk8
 
-#EXTINF:-1,[COLOR=white][B]DOCAS DAS CAVACAS - FUNCHAL[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=Vi4zU3_vvuU&ab_channel=Madeira-Web
+#EXTINF:-1,[COLOR=white][B]PRAIA DA ROCHA - ALGARVE[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=Ie89NT-NCt0&ab_channel=MarioNogueira
+
+
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIAS DO NORTE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
