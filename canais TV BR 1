@@ -3,7 +3,7 @@
 http://0.0.0.0:0000
 ############################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTAS ATUALIZADA: 28/03/2024[/B][/COLOR][COLOR=orange][/COLOR] 
+#EXTINF:-1,[COLOR=orange][B]LISTAS ATUALIZADA: 23/04/2024[/B][/COLOR][COLOR=orange][/COLOR] 
 
 Fonte de Informação: 
 
@@ -33,8 +33,6 @@ https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w68165
 https://stmv1.srvif.com/classique/classique/chunklist_w323924929.m3u8
 #EXTINF:-1,[COLOR=white][B]ANIME TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://stmv1.srvif.com/animetv/animetv/chunklist_w237344650.m3u8
-#EXTINF:-1,[COLOR=white][B]TV NOVA PLAY[/B][/COLOR][COLOR=white][/COLOR]
-https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w340626343.m3u8
 #EXTINF:-1,[COLOR=white][B]TV EXTREME[/B][/COLOR][COLOR=white][/COLOR]
 https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w1429787436.m3u8
 #EXTINF:-1,[COLOR=white][B]ANIME TV[/B][/COLOR][COLOR=white][/COLOR]
@@ -99,13 +97,15 @@ https://000000
 
 #EXTM3U
 
+
+
 #EXTINF:0 tvg-id="Futura.br" group-title="Channels",Futura HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99679
-#EXTINF:0 tvg-id="FX.uk" group-title="Channels",FX
+#EXTINF:0 tvg-id="Fx.br" group-title="Channels",FX
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99680
-#EXTINF:0 tvg-id="FXHD.mx" group-title="Channels",FX FHD
+#EXTINF:0 tvg-id="Fx.br" group-title="Channels",FX FHD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99681
-#EXTINF:0 tvg-id="FXHD.mx" group-title="Channels",FX HD
+#EXTINF:0 tvg-id="Fx.br" group-title="Channels",FX HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99682
 #EXTINF:0 tvg-id="ext" group-title="Channels",Globo Amazica HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99683
@@ -123,12 +123,6 @@ http://jabawalkies.club:8080/debdowntown77/popcorntime66/99688
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99689
 #EXTINF:0 tvg-id="ext" group-title="Channels",Globo EPTV Campinas
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99690
-#EXTINF:0 tvg-id="ext" group-title="Channels",Globo EPTV Campinas HD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99691
-#EXTINF:0 tvg-id="ext" group-title="Channels",Globo EPTV Ribeir Preto
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99692
-#EXTINF:0 tvg-id="ext" group-title="Channels",Globo EPTV Sul de Minas FHD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99693
 #EXTINF:0 tvg-id="ext" group-title="Channels",Globo EPTV Sul de Minas HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99694
 #EXTINF:0 tvg-id="ext" group-title="Channels",Globo EPTV S Carlos
@@ -223,14 +217,8 @@ http://jabawalkies.club:8080/debdowntown77/popcorntime66/99738
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99739
 #EXTINF:0 tvg-id="Globosp.br" group-title="Channels",Globo SP FHD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99740
-#EXTINF:0 tvg-id="Globosp.br" group-title="Channels",Globo SP HD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99741
-#EXTINF:0 tvg-id="ext" group-title="Channels",Globo Sudoeste Bahia HD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99742
 #EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Asa Branca FHD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99743
-#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Bahia FHD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99744
 #EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Cabo Branco FHD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99745
 #EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Cabo Branco HD
@@ -253,16 +241,6 @@ http://jabawalkies.club:8080/debdowntown77/popcorntime66/99753
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99754
 #EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Mirante FHD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99755
-#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Mirante HD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99756
-#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Morena
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99757
-#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Morena FHD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99758
-#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Morena HD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99759
-#EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Sergipe FHD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99760
 #EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Sergipe HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99761
 #EXTINF:0 tvg-id="ext" group-title="Channels",Globo TV Tem Bauru HD
@@ -307,30 +285,26 @@ http://jabawalkies.club:8080/debdowntown77/popcorntime66/99780
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99781
 #EXTINF:0 tvg-id="Gnthd.br" group-title="Channels",GNT HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99782
-#EXTINF:0 tvg-id="HBO.bg" group-title="Channels",HBO
+#EXTINF:0 tvg-id="Hbo.br" group-title="Channels",HBO
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99783
-#EXTINF:0 tvg-id="HBO2.cz" group-title="Channels",HBO 2
+#EXTINF:0 tvg-id="Hbo2.br" group-title="Channels",HBO 2
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99784
-#EXTINF:0 tvg-id="HBO2.pl" group-title="Channels",HBO 2 FHD
+#EXTINF:0 tvg-id="Hbo2.br" group-title="Channels",HBO 2 FHD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99785
-#EXTINF:0 tvg-id="HBO2.pl" group-title="Channels",HBO 2 HD
+#EXTINF:0 tvg-id="Hbo2.br" group-title="Channels",HBO 2 HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99786
 #EXTINF:0 tvg-id="Hbofamily.br" group-title="Channels",HBO Family
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99787
-#EXTINF:0 tvg-id="HBOFamilyHD.cl" group-title="Channels",HBO Family FHD
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="Channels",HBO Family FHD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99788
-#EXTINF:0 tvg-id="HBOFamilyHD.cl" group-title="Channels",HBO Family HD
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="Channels",HBO Family HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99789
-#EXTINF:0 tvg-id="HBO.hu" group-title="Channels",HBO FHD
+#EXTINF:0 tvg-id="Hbo.br" group-title="Channels",HBO FHD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99790
-#EXTINF:0 tvg-id="HBO.hu" group-title="Channels",HBO HD
+#EXTINF:0 tvg-id="Hbo.br" group-title="Channels",HBO HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99791
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO Max HD 01
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99792
 #EXTINF:0 tvg-id="ext" group-title="Channels",HBO Max HD 03
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99793
-#EXTINF:0 tvg-id="Max.br" group-title="Channels",HBO Mundi
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99794
 #EXTINF:0 tvg-id="Max.br" group-title="Channels",HBO Mundi FHD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99795
 #EXTINF:0 tvg-id="Max.br" group-title="Channels",HBO Mundi HD
@@ -339,13 +313,9 @@ http://jabawalkies.club:8080/debdowntown77/popcorntime66/99796
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99797
 #EXTINF:0 tvg-id="ext" group-title="Channels",HBO Pop FHD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99798
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO Pop HD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99799
-#EXTINF:0 tvg-id="HBOSignature.mx" group-title="Channels",HBO Signature
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99800
-#EXTINF:0 tvg-id="HBOSignature.us" group-title="Channels",HBO Signature FHD
+#EXTINF:0 tvg-id="Hbosignature.br" group-title="Channels",HBO Signature FHD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99801
-#EXTINF:0 tvg-id="HBOSignature.us" group-title="Channels",HBO Signature HD
+#EXTINF:0 tvg-id="Hbosignature.br" group-title="Channels",HBO Signature HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99802
 #EXTINF:0 tvg-id="Maxprime.br" group-title="Channels",HBO Xtreme
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99803
@@ -363,31 +333,23 @@ http://jabawalkies.club:8080/debdowntown77/popcorntime66/99808
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99809
 #EXTINF:0 tvg-id="HGTV.pl" group-title="Channels",HGTV HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99810
-#EXTINF:0 tvg-id="HistoryEurope.eu" group-title="Channels",History
+#EXTINF:0 tvg-id="Historychannel.br" group-title="Channels",History
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99811
-#EXTINF:0 tvg-id="H2.uk" group-title="Channels",History 2
+#EXTINF:0 tvg-id="H2.br" group-title="Channels",History 2
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99812
 #EXTINF:0 tvg-id="H2.uk" group-title="Channels",History 2 FHD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99813
 #EXTINF:0 tvg-id="H2.uk" group-title="Channels",History 2 HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99814
-#EXTINF:0 tvg-id="History.uk" group-title="Channels",History FHD
+#EXTINF:0 tvg-id="Historychannel.br" group-title="Channels",History FHD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99815
-#EXTINF:0 tvg-id="History.uk" group-title="Channels",History HD
+#EXTINF:0 tvg-id="Historychannel.br" group-title="Channels",History HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99816
 #EXTINF:0 tvg-id="ext" group-title="Channels",ID - Investigao Discovery
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99817
-#EXTINF:0 tvg-id="ext" group-title="Channels",ID - Investigao Discovery HD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99818
-#EXTINF:0 tvg-id="ext" group-title="Channels",IMPD TV
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99819
-#EXTINF:0 tvg-id="ext" group-title="Channels",Jovem Pan News FHD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99820
-#EXTINF:0 tvg-id="ext" group-title="Channels",Jovem Pan News HD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99821
-#EXTINF:0 tvg-id="Lifetime.uk" group-title="Channels",Lifetime
+#EXTINF:0 tvg-id="Lifetime.br" group-title="Channels",Lifetime
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99822
-#EXTINF:0 tvg-id="Lifetime.uk" group-title="Channels",Lifetime HD
+#EXTINF:0 tvg-id="Lifetime.br" group-title="Channels",Lifetime HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99823
 #EXTINF:0 tvg-id="ext" group-title="Channels",Like HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99824
@@ -405,11 +367,11 @@ http://jabawalkies.club:8080/debdowntown77/popcorntime66/99829
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99830
 #EXTINF:0 tvg-id="ext" group-title="Channels",Modo Viagem HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99831
-#EXTINF:0 tvg-id="mtvportugal.pt" group-title="Channels",MTV
+#EXTINF:0 tvg-id="Mtv.br" group-title="Channels",MTV
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99832
 #EXTINF:0 tvg-id="ext" group-title="Channels",MTV 00s HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99833
-#EXTINF:0 tvg-id="MTV.uk" group-title="Channels",MTV HD
+#EXTINF:0 tvg-id="Mtv.br" group-title="Channels",MTV HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99834
 #EXTINF:0 tvg-id="Multishow.br" group-title="Channels",Multishow
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99835
@@ -419,88 +381,36 @@ http://jabawalkies.club:8080/debdowntown77/popcorntime66/99836
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99837
 #EXTINF:0 tvg-id="ext" group-title="Channels",Music Box Brazil HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99838
-#EXTINF:0 tvg-id="ext" group-title="Channels",MX: Telenovela 1
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99839
-#EXTINF:0 tvg-id="ext" group-title="Channels",MX: Univision Telenovelas
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99840
-#EXTINF:0 tvg-id="ext" group-title="Channels",Natgeo Kids HD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99841
-#EXTINF:0 tvg-id="natgeowild" group-title="Channels",NatGeo Wild
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99842
-#EXTINF:0 tvg-id="NatGeoWild.it" group-title="Channels",NatGeo Wild FHD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99843
-#EXTINF:0 tvg-id="NatGeoWild.it" group-title="Channels",NatGeo Wild HD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99844
-#EXTINF:0 tvg-id="nationalgeographic.pt" group-title="Channels",National Geographic
+#EXTINF:0 tvg-id="Nationalgeographic.br" group-title="Channels",National Geographic
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99845
-#EXTINF:0 tvg-id="nationalgeographic.pt" group-title="Channels",National Geographic FHD
+#EXTINF:0 tvg-id="Nationalgeographic.br" group-title="Channels",National Geographic FHD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99846
-#EXTINF:0 tvg-id="nationalgeographic.pt" group-title="Channels",National Geographic HD
+#EXTINF:0 tvg-id="Nationalgeographic.br" group-title="Channels",National Geographic HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99847
 #EXTINF:0 tvg-id="ext" group-title="Channels",NBA Channel (USA)
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99848
-#EXTINF:0 tvg-id="ext" group-title="Channels",NBC 4 NY HD (USA)
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99849
-#EXTINF:0 tvg-id="ext" group-title="Channels",NBC HD (USA)
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99850
 #EXTINF:0 tvg-id="ext" group-title="Channels",NHK Japan
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99851
-#EXTINF:0 tvg-id="NickJr.pt" group-title="Channels",Nick Jr.
+#EXTINF:0 tvg-id="NickJr.br" group-title="Channels",Nick Jr.
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99852
-#EXTINF:0 tvg-id="NickJr.de" group-title="Channels",Nick Jr. HD
+#EXTINF:0 tvg-id="NickJr.br" group-title="Channels",Nick Jr. HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99853
-#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Channels",Nickelodeon
+#EXTINF:0 tvg-id="Nickelodeon.br" group-title="Channels",Nickelodeon
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99854
-#EXTINF:0 tvg-id="Nickelodeon.pt" group-title="Channels",Nickelodeon HD
+#EXTINF:0 tvg-id="Nickelodeon.br" group-title="Channels",Nickelodeon HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99855
 #EXTINF:0 tvg-id="Off.br" group-title="Channels",OFF
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99856
 #EXTINF:0 tvg-id="Off.br" group-title="Channels",OFF HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99857
-#EXTINF:0 tvg-id="Paramount.uk" group-title="Channels",Paramount
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99858
-#EXTINF:0 tvg-id="ParamountChannel.fr" group-title="Channels",Paramount HD
+#EXTINF:0 tvg-id="Paramounthd.br" group-title="Channels",Paramount HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99859
-#EXTINF:0 tvg-id="ext" group-title="Channels",Power Couple
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99860
-#EXTINF:0 tvg-id="Premiere2.br" group-title="Channels",Premiere 2
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99861
-#EXTINF:0 tvg-id="Premiere2.br" group-title="Channels",Premiere 2 FHD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99862
-#EXTINF:0 tvg-id="Premiere2.br" group-title="Channels",Premiere 2 HD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99863
-#EXTINF:0 tvg-id="Premiere3.br" group-title="Channels",Premiere 3
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99864
 #EXTINF:0 tvg-id="Premiere3.br" group-title="Channels",Premiere 3 FHD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99865
 #EXTINF:0 tvg-id="Premiere3.br" group-title="Channels",Premiere 3 HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99866
-#EXTINF:0 tvg-id="Premiere4.br" group-title="Channels",Premiere 4
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99867
 #EXTINF:0 tvg-id="Premiere4.br" group-title="Channels",Premiere 4 FHD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99868
-#EXTINF:0 tvg-id="Premiere4.br" group-title="Channels",Premiere 4 HD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99869
-#EXTINF:0 tvg-id="Premiere5.br" group-title="Channels",Premiere 5
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99870
-#EXTINF:0 tvg-id="ext" group-title="Channels",Premiere 5 FHD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99871
-#EXTINF:0 tvg-id="ext" group-title="Channels",Premiere 5 HD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99872
-#EXTINF:0 tvg-id="Premiere6.br" group-title="Channels",Premiere 6 FHD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99873
-#EXTINF:0 tvg-id="Premiere6.br" group-title="Channels",Premiere 6 HD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99874
-#EXTINF:0 tvg-id="Premiere7.br" group-title="Channels",Premiere 7 FHD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99875
-#EXTINF:0 tvg-id="Premiere7.br" group-title="Channels",Premiere 7 HD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99876
-#EXTINF:0 tvg-id="Premiere8.br" group-title="Channels",Premiere 8
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99877
-#EXTINF:0 tvg-id="Premiereclubes.br" group-title="Channels",Premiere Clubes
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99878
-#EXTINF:0 tvg-id="Premiereclubes.br" group-title="Channels",Premiere Clubes FHD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99879
 #EXTINF:0 tvg-id="Premiereclubes.br" group-title="Channels",Premiere Clubes HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99880
 #EXTINF:0 tvg-id="ext" group-title="Channels",Primebox Brazil HD
@@ -521,7 +431,7 @@ http://jabawalkies.club:8080/debdowntown77/popcorntime66/99887
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99888
 #EXTINF:0 tvg-id="ext" group-title="Channels",Record Minas HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99889
-#EXTINF:0 tvg-id="RecordNews.pt" group-title="Channels",Record News
+#EXTINF:0 tvg-id="Recordnews.br" group-title="Channels",Record News
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99890
 #EXTINF:0 tvg-id="ext" group-title="Channels",Record News HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99891
@@ -545,20 +455,6 @@ http://jabawalkies.club:8080/debdowntown77/popcorntime66/99899
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99900
 #EXTINF:0 tvg-id="ext" group-title="Channels",RIT TV HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99901
-#EXTINF:0 tvg-id="rtp1.pt" group-title="Channels",RTP 1 HD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99902
-#EXTINF:0 tvg-id="rtp2.pt" group-title="Channels",RTP 2 HD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99903
-#EXTINF:0 tvg-id="RTP3.pt" group-title="Channels",RTP 3 HD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99904
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTP Africa HD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99905
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTP Ares HD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99906
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTP Madeira HD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99907
-#EXTINF:0 tvg-id="ext" group-title="Channels",RTP Memia HD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99908
 #EXTINF:0 tvg-id="ext" group-title="Channels",Sabor & Arte HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99909
 #EXTINF:0 tvg-id="Sbt.br" group-title="Channels",SBT
@@ -577,25 +473,17 @@ http://jabawalkies.club:8080/debdowntown77/popcorntime66/99915
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99916
 #EXTINF:0 tvg-id="ext" group-title="Channels",SIC Intenacional
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99917
-#EXTINF:0 tvg-id="ext" group-title="Channels",Smithsonian HD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99918
 #EXTINF:0 tvg-id="Space.br" group-title="Channels",Space
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99919
-#EXTINF:0 tvg-id="SpaceHD.mx" group-title="Channels",Space FHD
+#EXTINF:0 tvg-id="Spacehd.br" group-title="Channels",Space FHD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99920
-#EXTINF:0 tvg-id="SpaceHD.mx" group-title="Channels",Space HD
+#EXTINF:0 tvg-id="Spacehd.br" group-title="Channels",Space HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99921
 #EXTINF:0 tvg-id="Sportv.br" group-title="Channels",SporTV
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99922
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SporTV 2
+#EXTINF:0 tvg-id="Sportv2.br" group-title="Channels",SporTV 2
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99923
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SporTV 2 FHD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99924
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SporTV 2 HD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99925
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",SporTV 3
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99926
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",SporTV 3 HD
+#EXTINF:0 tvg-id="Sportv3.br" group-title="Channels",SporTV 3 HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99927
 #EXTINF:0 tvg-id="Sportv.br" group-title="Channels",SporTV FHD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99928
@@ -615,26 +503,20 @@ http://jabawalkies.club:8080/debdowntown77/popcorntime66/99934
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99935
 #EXTINF:0 tvg-id="ext" group-title="Channels",Amazon & Star+ 01 HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99936
-#EXTINF:0 tvg-id="ext" group-title="Channels",Amazon & Star+ 02 HD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99937
-#EXTINF:0 tvg-id="StudioUniversalHD.cl" group-title="Channels",Studio Universal HD
+#EXTINF:0 tvg-id="Studiouniversal.br" group-title="Channels",Studio Universal HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99938
-#EXTINF:0 tvg-id="SyFy.pt" group-title="Channels",SyFy
+#EXTINF:0 tvg-id="Syfy.br" group-title="Channels",SyFy
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99939
-#EXTINF:0 tvg-id="SyFy.pt" group-title="Channels",SyFy HD
+#EXTINF:0 tvg-id="Syfy.br" group-title="Channels",SyFy HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99940
-#EXTINF:0 tvg-id="24dok" group-title="Channels",TBS
+#EXTINF:0 tvg-id="Tbs.br" group-title="Channels",TBS
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99941
-#EXTINF:0 tvg-id="TBSHD.us" group-title="Channels",TBS FHD
+#EXTINF:0 tvg-id="Tbs.br" group-title="Channels",TBS FHD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99942
-#EXTINF:0 tvg-id="TBSHD.us" group-title="Channels",TBS HD
+#EXTINF:0 tvg-id="Tbs.br" group-title="Channels",TBS HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99943
-#EXTINF:0 tvg-id="TCM.pt" group-title="Channels",TCM
+#EXTINF:0 tvg-id="Tcm.br" group-title="Channels",TCM
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99944
-#EXTINF:0 tvg-id="Tcaction.br" group-title="Channels",Telecine Action
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99945
-#EXTINF:0 tvg-id="Tcaction.br" group-title="Channels",Telecine Action FHD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99946
 #EXTINF:0 tvg-id="Tcaction.br" group-title="Channels",Telecine Action HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99947
 #EXTINF:0 tvg-id="Tccult.br" group-title="Channels",Telecine Cult
@@ -667,25 +549,23 @@ http://jabawalkies.club:8080/debdowntown77/popcorntime66/99960
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99961
 #EXTINF:0 tvg-id="Tctouch.br" group-title="Channels",Telecine Touch HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99962
-#EXTINF:0 tvg-id="TLC.pt" group-title="Channels",TLC
+#EXTINF:0 tvg-id="Tlc.br" group-title="Channels",TLC
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99963
-#EXTINF:0 tvg-id="TLC.uk" group-title="Channels",TLC FHD
+#EXTINF:0 tvg-id="Tlc.br" group-title="Channels",TLC FHD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99964
-#EXTINF:0 tvg-id="TLC.uk" group-title="Channels",TLC HD
+#EXTINF:0 tvg-id="Tlc.br" group-title="Channels",TLC HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99965
-#EXTINF:0 tvg-id="tnt" group-title="Channels",TNT
+#EXTINF:0 tvg-id="Tnt.br" group-title="Channels",TNT
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99966
-#EXTINF:0 tvg-id="TNTPolska.pl" group-title="Channels",TNT FHD
+#EXTINF:0 tvg-id="Tnt.br" group-title="Channels",TNT FHD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99967
-#EXTINF:0 tvg-id="TNTPolska.pl" group-title="Channels",TNT HD
+#EXTINF:0 tvg-id="Tnt.br" group-title="Channels",TNT HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99968
-#EXTINF:0 tvg-id="ext" group-title="Channels",TNT HD alt
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99969
 #EXTINF:0 tvg-id="ext" group-title="Channels",TNT Sies
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99970
 #EXTINF:0 tvg-id="ext" group-title="Channels",TNT Sies HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99971
-#EXTINF:0 tvg-id="Tooncast.mx" group-title="Channels",Tooncast
+#EXTINF:0 tvg-id="Tooncast.br" group-title="Channels",Tooncast
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99972
 #EXTINF:0 tvg-id="Tooncast.ar" group-title="Channels",Tooncast HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99973
@@ -693,7 +573,7 @@ http://jabawalkies.club:8080/debdowntown77/popcorntime66/99973
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99974
 #EXTINF:0 tvg-id="TruTV.uk" group-title="Channels",Tru TV HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99975
-#EXTINF:0 tvg-id="TruTV.uk" group-title="Channels",TruTV
+#EXTINF:0 tvg-id="Trutv.br" group-title="Channels",TruTV
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99976
 #EXTINF:0 tvg-id="ext" group-title="Channels",TV Aparecida HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99977
@@ -701,8 +581,6 @@ http://jabawalkies.club:8080/debdowntown77/popcorntime66/99977
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99978
 #EXTINF:0 tvg-id="ext" group-title="Channels",TV Cidade 16 Petrolis HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99979
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV Cultura HD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99980
 #EXTINF:0 tvg-id="ext" group-title="Channels",Tv Cara 2 HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99981
 #EXTINF:0 tvg-id="ext" group-title="Channels",Tv Cara HD
@@ -713,14 +591,6 @@ http://jabawalkies.club:8080/debdowntown77/popcorntime66/99983
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99984
 #EXTINF:0 tvg-id="TVGazeta.br" group-title="Channels",TV Gazeta HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99985
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV Justi
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99986
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV Novo Tempo FHD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99987
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV Pai Eterno
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99988
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV Pampa HD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99989
 #EXTINF:0 tvg-id="ext" group-title="Channels",TV RTim-Bum
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99990
 #EXTINF:0 tvg-id="ext" group-title="Channels",TV Senado HD
@@ -729,27 +599,22 @@ http://jabawalkies.club:8080/debdowntown77/popcorntime66/99991
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99992
 #EXTINF:0 tvg-id="ext" group-title="Channels",TV Zoom Nova Friburgo HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99993
-#EXTINF:0 tvg-id="TV5MondeFBS.fr" group-title="Channels",TV5 Monde HD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99994
-#EXTINF:0 tvg-id="ext" group-title="Channels",TVE Bahia HD
-http://jabawalkies.club:8080/debdowntown77/popcorntime66/99995
 #EXTINF:0 tvg-id="UniversalChannel.ar" group-title="Channels",Universal TV
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99996
 #EXTINF:0 tvg-id="Universalchannel.br" group-title="Channels",Universal TV HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99997
-#EXTINF:0 tvg-id="Viva.uk" group-title="Channels",Viva
+#EXTINF:0 tvg-id="Viva.br" group-title="Channels",Viva
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99998
 #EXTINF:0 tvg-id="Viva.br" group-title="Channels",Viva FHD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/99999
 #EXTINF:0 tvg-id="Viva.br" group-title="Channels",Viva HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/100000
-#EXTINF:0 tvg-id="WarnerChannel.mx" group-title="Channels",Warner Channel
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="Channels",Warner Channel
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/100001
-#EXTINF:0 tvg-id="WarnerChannelHD.ar" group-title="Channels",Warner Channel HD
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="Channels",Warner Channel HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/100002
 #EXTINF:0 tvg-id="Woohoo.br" group-title="Channels",Woohoo
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/100003
 #EXTINF:0 tvg-id="ext" group-title="Channels",Woohoo HD
 http://jabawalkies.club:8080/debdowntown77/popcorntime66/100004
-
 
