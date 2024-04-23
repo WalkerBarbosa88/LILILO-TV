@@ -4,30 +4,9 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 28/03/2024[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 23/04/2024[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
-
-
-#######################################################################################################################
-#EXTINF:-1,[COLOR=yellow][B]///////// CANAIS MUSIC CHOICE /////////[/B][/COLOR][COLOR=yellow][/COLOR]
-https://000000
-
-
-#EXTINF:-1,[COLOR=white][B]MC 80´S[/B][/COLOR][COLOR=white][/COLOR]
-http://45.11.56.147:8808/stream?id=1113
-#EXTINF:-1,[COLOR=white][B]MC 90´S[/B][/COLOR][COLOR=white][/COLOR]
-http://45.11.56.147:8808/stream?id=140
-#EXTINF:-1,[COLOR=white][B]MC DANCE[/B][/COLOR][COLOR=white][/COLOR]
-http://45.11.56.147:8808/stream?id=127
-#EXTINF:-1,[COLOR=white][B]MC HIT LIST[/B][/COLOR][COLOR=white][/COLOR]
-http://45.11.56.147:8808/stream?id=100
-#EXTINF:-1,[COLOR=white][B]MC POP HITS[/B][/COLOR][COLOR=white][/COLOR]
-http://45.11.56.147:8808/stream?id=133
-#EXTINF:-1,[COLOR=white][B]MC TEEN BEATS[/B][/COLOR][COLOR=white][/COLOR]
-http://45.11.56.147:8808/stream?id=118
-#EXTINF:-1,[COLOR=white][B]MC TROPICAL[/B][/COLOR][COLOR=white][/COLOR]
-http://45.11.56.147:8808/stream?id=137
 
 
 #######################################################################################################################
@@ -67,14 +46,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-xiaomi/pl
 #EXTINF:-1,[COLOR=white][B]DELUXE MUSIC TV[/B][/COLOR][COLOR=white][/COLOR]
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
-#EXTINF:-1,[COLOR=white][B]4 MUSIC UK[/B][/COLOR][COLOR=white][/COLOR]
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
-
 #EXTINF:-1,[COLOR=white][B]4FUN TV[/B][/COLOR][COLOR=white][/COLOR]
 https://stream.4fun.tv:8888/hls/4f.m3u8
-
-#EXTINF:-1,[COLOR=white][B]THE BOX UK[/B][/COLOR][COLOR=white][/COLOR]
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 
 #EXTINF:0 tvg-id="ext" group-title="Musicales",[COLOR=white][B]RADIO M2O HD[/B][/COLOR][COLOR=white][/COLOR]
 https://streamcdnb2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b2428000.m3u8
@@ -156,8 +129,7 @@ https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 # https://www.youtube.com/channel/UCalCDSmZAYD73tqVZ4l8yJg
 
-#EXTINF:-1,[COLOR=white][B]MUSIC TV 9 HD[/B][/COLOR][COLOR=white][/COLOR]
-https://live.prd.dlive.tv/hls/live/cybervybezradio.m3u8
+
 #EXTINF:-1,[COLOR=white][B]SONUS FM TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://60015180a7f57.streamlock.net:444/public/stream_source/chunklist_w191033718.m3u8
 #EXTINF:-1,[COLOR=white][B]TRANCE IS STAR HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -213,6 +185,7 @@ https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
 #EXTINF:-1,[COLOR=yellow][B]///////// BEST TOP HITS 2 /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
+
 #EXTINF:-1,[COLOR=white][B]RÁDIO CARINA TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://samson.streamerr.co:8081/carinatv/tracks-v1a1/mono.m3u8
 
@@ -237,19 +210,11 @@ https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]KISS KISS TV[/B][/COLOR][COLOR=white][/COLOR]
 http://58f12ffd2447a.streamlock.net:1935/KKMulti/livestream/playlist.m3u8
 
-#EXTINF:-1,[COLOR=white][B]HIT FM TV[/B][/COLOR][COLOR=white][/COLOR]
-http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
-
 #EXTINF:-1,[COLOR=white][B]POWERTURK HD[/B][/COLOR][COLOR=white][/COLOR]
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
 
 #EXTINF:-1,[COLOR=white][B]RU TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/32rDv4l.png" group-title="",[COLOR=white][B]LOVE FM RADIO TV[/B][/COLOR][COLOR=white][/COLOR]
-https://56b50ada2d659.streamlock.net/LoveFM/livestream/playlist.m3u8
-https://56b50ada2d659.streamlock.net/LoveFM/livestream/chunklist_w699998999.m3u8
-https://56b50ada2d659.streamlock.net/LoveFM/livestream/chunklist_w541521754.m3u8
 
 #EXTINF:-1,[COLOR=white][B]R-MUSIC RU HD[/B][/COLOR][COLOR=white][/COLOR]
 https://otv.wotom.net/rmusic/stream.m3u8
@@ -286,9 +251,6 @@ http://r9z2g8ik.rostelekom.xyz/iptv/VX6X4Z39LH25GU/2297/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]R MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
 https://otv.wotom.net/rmusic/stream.m3u8
-
-#EXTINF:-1,[COLOR=white][B]THT MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
-https://bl.uma.media/live/619345/HLS/4614144_3/1/1/playlist.m3u8
 
 ######################################################################################
 #EXTINF:-1,[COLOR=yellow][B]///////// MÚSICA ANTIGA /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -402,30 +364,11 @@ https://cloudvideo.servers10.com:8081/8198/index.m3u8
 
 #EXTM3U
 #######################################################################################################################################################################
+
 #EXTINF:-1,[COLOR=yellow][B]/////////  STINGRAY & PLUTO TV  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+
 #EXTM3U
 
-
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]STINGRAY GREATEST HITS[/B][/COLOR][COLOR=white][/COLOR]
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]STINGRAY HIT LIST[/B][/COLOR][COLOR=white][/COLOR]
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]STINGRAY CLASSIC ROCK[/B][/COLOR][COLOR=white][/COLOR]
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]STINGRAY ROCK ALTERNATIVE[/B][/COLOR][COLOR=white][/COLOR]
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]STINGRAY POP ADULT[/B][/COLOR][COLOR=white][/COLOR]
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]STINGRAY URBAN BEAT[/B][/COLOR][COLOR=white][/COLOR]
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]STINGRAY HOT COUNTRY[/B][/COLOR][COLOR=white][/COLOR]
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/108/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]STINGRAY FLASHBACK 70´S[/B][/COLOR][COLOR=white][/COLOR]
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]STINGRAY EVERYTHING 80´S[/B][/COLOR][COLOR=white][/COLOR]
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]STINGRAY TODAY´S LATIN POP[/B][/COLOR][COLOR=white][/COLOR]
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]LOCAL NOW MUSIC[/B][/COLOR][COLOR=white][/COLOR]
 https://linear-136.frequency.stream/dist/localnow/136/hls/master/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",[COLOR=white][B]PLUTO TV CLUBBING TV[/B][/COLOR][COLOR=white][/COLOR]
