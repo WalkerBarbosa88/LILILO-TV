@@ -33,6 +33,9 @@ plugin://plugin.video.youtube/play/?video_id=9ewcRWb7d4s
 #EXTINF:-1,[COLOR=white][B]MARINA DE PORTIMÃO[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=Dl1byqohXk8
 
+#EXTINF:-1,[COLOR=white][B]DOCAS DAS CAVACAS - FUNCHAL[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=Vi4zU3_vvuU&ab_channel=Madeira-Web
+
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  PRAIAS DO NORTE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://video-auth1.iol.pt
