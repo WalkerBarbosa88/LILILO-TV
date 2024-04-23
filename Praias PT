@@ -30,9 +30,6 @@ plugin://plugin.video.youtube/play/?video_id=MgMWOQIgIBY
 #EXTINF:-1,[COLOR=white][B]LIDO - MADEIRA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=P75AbPYu71s&ab_channel=Madeira-Web
 
-#EXTINF:-1,[COLOR=white][B]PRAIA DA PONTA GORDA - MADEIRA[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=MgMWOQIgIBY&ab_channel=Madeira-Web
-
 #EXTINF:-1,[COLOR=white][B]PRAIA DA CALHETA - MADEIRA[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=Dl1byqohXk8
 
