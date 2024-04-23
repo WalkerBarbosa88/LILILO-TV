@@ -6,7 +6,7 @@ http://0.0.0.0:0000
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 11/01/2024[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 23/04/2024[/B][/COLOR][COLOR=orange][/COLOR]
 ############################################################################################################################################################
 
 Fonte: https://fluxustvespanol.blogspot.com/p/fluxus-cctv.html#gsc.tab=0
@@ -131,14 +131,15 @@ https://ythls.armelin.one/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
 plugin://plugin.video.youtube/play/?video_id=buAV1t5-23w
 #EXTINF:-1,[COLOR=white][B]EARTH TV - WORLD MULTI-CAMS 2[/B][/COLOR][COLOR=white][/COLOR]
 plugin://plugin.video.youtube/play/?video_id=HfgIFGbdGJ0
-#EXTINF:-1,[COLOR=white][B]SKYLINE - WORLD MULTI-CAMS 2[/B][/COLOR][COLOR=white][/COLOR]
-plugin://plugin.video.youtube/play/?video_id=SjWRKnbPLZI
+#EXTINF:-1,[COLOR=white][B]BRASIL - RIO DE JANEIRO[/B][/COLOR][COLOR=white][/COLOR]
+plugin://plugin.video.youtube/play/?video_id=ZYuY3bEp8eY&ab_channel=EarthCam
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  ANIMAIS WEBCAM  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTM3U
+
 
 #EXTINF:0 tvg-id="ext" group-title="WEBCAMS",[COLOR=white][B]ÁFRICA WEBCAM 1[/B][/COLOR][COLOR=white][/COLOR]
 https://outbound-production.explore.org/stream-production-110/.m3u8
@@ -168,28 +169,19 @@ https://000000
 
 #EXTM3U
 
+
 #EXTINF:-1,[COLOR=white][B]HUNGARY BEACH 1[/B][/COLOR][COLOR=white][/COLOR]
 https://streaming.hungarospa.hu:8088/hls/axis0.m3u8
-#EXTINF:-1,[COLOR=white][B]HUNGARY BEACH 2[/B][/COLOR][COLOR=white][/COLOR]
-https://streaming.hungarospa.hu:8088/hls/axis2.m3u8
 #EXTINF:-1,[COLOR=white][B]UK WARREN BEACH[/B][/COLOR][COLOR=white][/COLOR]
 http://camsecure.uk/HLS/haulfryn.m3u8
 #EXTINF:-1,[COLOR=white][B]UK WORTHING BEACH[/B][/COLOR][COLOR=white][/COLOR]
 https://camsecure.uk/HLS/worthingsailing.m3u8
 #EXTINF:-1,[COLOR=white][B]USA BEACH CAM[/B][/COLOR][COLOR=white][/COLOR]
 https://59b69eab8875b.streamlock.net/live/Beach_Cam_01.stream/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]USA FOLLY BEACH[/B][/COLOR][COLOR=white][/COLOR]
-https://5a5f765a4fcc2.streamlock.net:1936/live/folly.stream/chunklist.m3u8
-#EXTINF:-1,[COLOR=white][B]USA HUNTINGTON BEACH 1[/B][/COLOR][COLOR=white][/COLOR]
-https://56cf3370d8dd3.streamlock.net:1935/innocean/innocean.stream/chunklist.m3u8
+
 #EXTINF:-1,[COLOR=white][B]USA HUNTINGTON BEACH 2[/B][/COLOR][COLOR=white][/COLOR]
 https://edge01.london.nginx.hdontap.com/hosb1/waterfront_swellmagnet.stream/chunklist.m3u8
-#EXTINF:-1,[COLOR=white][B]USA HUNTINGTON BEACH 3[/B][/COLOR][COLOR=white][/COLOR]
-https://56cdb389b57ec.streamlock.net:1935/live/hbwest.stream/chunklist.m3u8
-#EXTINF:-1,[COLOR=white][B]USA KURE BEACH[/B][/COLOR][COLOR=white][/COLOR]
-https://5a5f765a4fcc2.streamlock.net:1936/live/kbstreet.stream/chunklist.m3u8
-#EXTINF:-1,[COLOR=white][B]USA MYRTLE BEACH CAM 1[/B][/COLOR][COLOR=white][/COLOR]
-https://5ab0d1d85f91f.streamlock.net/fuel/boardwalk_1.stream/chunklist.m3u8
+
 #EXTINF:-1,[COLOR=white][B]USA MYRTLE BEACH CAM 2[/B][/COLOR][COLOR=white][/COLOR]
 https://5ab0d1d85f91f.streamlock.net/Riptydz/cam-rt-volleyball.stream/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]USA MYRTLE BEACH CAM 3[/B][/COLOR][COLOR=white][/COLOR]
@@ -212,8 +204,6 @@ http://5ed7b8fd7bf40.streamlock.net:1935/schoonersbeachHDCam/schbeach/playlist.m
 http://5ed7b8fd7bf40.streamlock.net:1935/schoonersbarHDCam/schbar/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]USA SCHOONERS SUNSET BEACH CAM[/B][/COLOR][COLOR=white][/COLOR]
 http://5ed7b8fd7bf40.streamlock.net:1935/schoonerssunsetHDCam/schsun/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]USA WRIGHTSVILLE BEACH CAM[/B][/COLOR][COLOR=white][/COLOR]
-https://5a5f765a4fcc2.streamlock.net:1936/live/wb.stream/chunklist.m3u8
 
 
 #######################################################################################################################
@@ -278,6 +268,7 @@ https://000000
 
 #EXTM3U
 
+
 #EXTINF:-1 ,[COLOR=white][B]DE - BINZ[/B][/COLOR][COLOR=white][/COLOR]
 http://cam01.binz-kabel.de/cam1/960.m3u8
 #EXTINF:-1 group-title="WEBCAMS",[COLOR=white][B]DE - BINZ[/B][/COLOR][COLOR=white][/COLOR]
@@ -288,8 +279,6 @@ http://5c77a8c984f82.streamlock.net:1935/live/mp4:ddorfcam-mp/playlist.m3u8
 http://5c77a8c984f82.streamlock.net:1935/live/_definst_/ddorfcam-mp/playlist.m3u8
 #EXTINF:-1 ,[COLOR=white][B]DE - DUSSELDORF CAM 3[/B][/COLOR][COLOR=white][/COLOR]
 http://5c77a8c984f82.streamlock.net:1935/live/_definst_/ddorfcam-ru/playlist.m3u8
-#EXTINF:-1 ,[COLOR=white][B]DE - DUSSELDORF CAM 4[/B][/COLOR][COLOR=white][/COLOR]
-http://5c77a8c984f82.streamlock.net:1935/live/mp4:ddorfcam-bp/playlist.m3u8
 #EXTINF:-1 group-title="WEBCAMS",[COLOR=white][B]DE - HAMBURG[/B][/COLOR][COLOR=white][/COLOR]
 https://ch-fra-n10.livespotting.com/vpu/8p96b3b9/l2mucuq9_720.m3u8
 
@@ -316,10 +305,9 @@ https://000000
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=white][B]BR - PRAIA COPACABANA, WEBCAM 1[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]BR - PRAIA COPACABANA[/B][/COLOR][COLOR=white][/COLOR]
 https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/6593/2017/10/01/1300.mp4/HasBahCa.m3u8
-#EXTINF:-1,[COLOR=white][B]BR - N.S. APARECIDA[/B][/COLOR][COLOR=white][/COLOR]
-https://hd-auth.skylinewebcams.com/live.m3u8?a=64mueg15ie7jr936cmbpbjjch4
+
 
 
 ####################################################################################################################################
@@ -327,6 +315,7 @@ https://hd-auth.skylinewebcams.com/live.m3u8?a=64mueg15ie7jr936cmbpbjjch4
 https://000000
 
 #EXTM3U
+
 
 #EXTINF:-1,[COLOR=white][B]TORONTO - CATARATAS DO NIAGARA[/B][/COLOR][COLOR=white][/COLOR]
 https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/4559/2019/08/11/1300.mp4/chunklist_w1595912559.m3u8
@@ -361,6 +350,8 @@ http://hoktastream4.webcamera.pl/nocowanie_cam_a32dd1/nocowanie_cam_a32dd1.strea
 https://000000
 
 #EXTM3U
+
+
 #EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
 http://595b9deb3d6ac.streamlock.net:1935/qlive/edinburghzoo104225.stream/playlist.m3u8
 
@@ -398,8 +389,6 @@ https://paxman.railcam.co.uk/Princes-Risborough_95234/tracks-v1/mono.m3u8
 https://paxman.railcam.co.uk/Ribblehead_Viaduct/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]UK - SWANAGE STATION[/B][/COLOR][COLOR=white][/COLOR]
 http://maybach.railcam.co.uk:80/Swanage_43965/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]UK - TORMORDEN[/B][/COLOR][COLOR=white][/COLOR]
-https://maybach.railcam.co.uk/Todmorden_19065/tracks-v1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]UK - WESTWARD[/B][/COLOR][COLOR=white][/COLOR]
 http://camsecure.co/HLS/westho.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]UK - WILLITON STATION - CAM 1[/B][/COLOR][COLOR=white][/COLOR]
@@ -421,8 +410,6 @@ http://212.111.1.7:1937/vlmcam01/vlmcam01.stream/playlist.m3u8
 http://31.47.96.14:80/hls/roznov.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]CZ - CAMPO BASQUETE[/B][/COLOR][COLOR=white][/COLOR]
 http://185.15.109.62:8082/hls/live.stream.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]CZ - CASA DO CAMPO[/B][/COLOR][COLOR=white][/COLOR]
-http://185.15.109.62:8090/hls/live.stream.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]CZ - TRÂNSITO[/B][/COLOR][COLOR=white][/COLOR]
 http://31.47.96.14:80/hls/eroplan.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]CZ - IGREJA[/B][/COLOR][COLOR=white][/COLOR]
@@ -434,6 +421,7 @@ https://000000
 
 #EXTM3U
 
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]USA - SCHOONERS HILL BAR CAM[/B][/COLOR][COLOR=white][/COLOR]
 https://5ed7b8fd7bf40.streamlock.net:444/schoonersbarHDCam/schbar/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]USA - PORTO DO SUL 1[/B][/COLOR][COLOR=white][/COLOR]
@@ -442,14 +430,10 @@ http://5a5f765a4fcc2.streamlock.net:1935/live/spp.stream/playlist.m3u8
 http://5a5f765a4fcc2.streamlock.net:1935/live/fishy.stream/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]USA - PRAIA[/B][/COLOR][COLOR=white][/COLOR]
 https://59b69eab8875b.streamlock.net/live/Beach_Cam_01.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]USA - CEDAR POINT PARK - CAM 1[/B][/COLOR][COLOR=white][/COLOR]
-https://56cdb389b57ec.streamlock.net:1935/live/cedar1.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]USA - EAST PARK[/B][/COLOR][COLOR=white][/COLOR]
 http://cdn.estesparkwebcams.com/prospect3/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]USA - KURE BEACH[/B][/COLOR][COLOR=white][/COLOR]
 http://5a5f765a4fcc2.streamlock.net:1935/live/kbstreet.stream/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]USA - TRÂNSITO[/B][/COLOR][COLOR=white][/COLOR]
-http://d2a6g6zgxepbwi.cloudfront.net/wbrztraffic/mp4:trafficstream.sdp/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ВК (https://vk.com/clubslynet) Телеграм (https://t.me/slynetiptv)",[COLOR=white][B]USA - WARM WINDS[/B][/COLOR][COLOR=white][/COLOR]
 http://5c864aa99ee04.streamlock.net:1935/surfcam/live.stream/playlist.m3u8
 
