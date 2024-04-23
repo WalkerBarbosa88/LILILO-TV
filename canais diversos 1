@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 #####################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 28/03/2024[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 23/04/2024[/B][/COLOR][COLOR=orange][/COLOR]
  
 ###########################################################################################################################################
  
@@ -77,8 +77,6 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 #EXTINF:-1,[COLOR=white][B]MUTV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]PERSIANA SPORTS HD[/B][/COLOR][COLOR=white][/COLOR]
-https://af.ayas.ir/hls2/persiana.m3u8
 #EXTINF:-1,[COLOR=white][B]SAN MARINO RTV SPORT HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 #EXTINF:-1,[COLOR=white][B]SONY SPORTS TEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -165,8 +163,6 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 https://000000
 
 
-#EXTINF:-1 tvg-id="CAAJ34000089L" tvg-chno="1181" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/04/55/CAAJ34000089L_20210525T053257.png" group-title="Canada,[COLOR=white][B]PEOPLE ARE AWESOME HD[/B][/COLOR][COLOR=white][/COLOR]
-https://c39d19b6c720488ba741c4d6e725ebcd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ca_PeopleAreAwesome/playlist.m3u8?ads.wurl_channel=386&ads.wurl_name=PeopleAreAwesome&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1,[COLOR=white][B]PEOPLE ARE AWESOME HD[/B][/COLOR][COLOR=white][/COLOR]
 https://ab8957f603f74b00bb0517913c452ea5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_PeopleAreAwesome/playlist.m3u8?ads.wurl_channel=385&ads.wurl_name=PeopleAreAwesome&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1,[COLOR=white][B]FAIL ARMY[/B][/COLOR][COLOR=white][/COLOR]
@@ -197,8 +193,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d815eb889bca2ce7b
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5efbd29e4aa26700076c0d06&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=355&terminate=false&userId=
 #EXTINF:-1,[COLOR=white][B]THE LOVE BOAT[/B][/COLOR][COLOR=white][/COLOR]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7794a788d29000079d2f07/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1,[COLOR=white][B]ALF TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://97bd5884f7a348aa93b50e48d031be0e.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/ONO_ALF/playlist.m3u8
+
 
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  JOGOS E GAMES STREAMING LIVE  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -404,8 +399,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59c01b195
 https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]TRAVEL XP HD[/B][/COLOR][COLOR=white][/COLOR]
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
-#EXTINF:-1,[COLOR=white][B]GO TRAVELER HD[/B][/COLOR][COLOR=white][/COLOR]
-https://bit.ly/GoTraveler?/playlist720_p.m3u8
 
 
 ###########################################################################################################################################
@@ -500,8 +493,6 @@ https://000000
 https://tastemade-freetv16min-plex.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-plex/CDN/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]TASTEMADE TV AU HD[/B][/COLOR][COLOR=white][/COLOR]
 https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]TASTEMADE TV ES HD[/B][/COLOR][COLOR=white][/COLOR]
-https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]BON APPÉTIT HD[/B][/COLOR][COLOR=white][/COLOR]
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]GUSTO TV HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -516,8 +507,6 @@ https://bit.ly/tvcocinaPluto?/master1080p.m3u8
 #EXTINF:-1,[COLOR=yellow][B]/////////  ANIMAÇÃO INFANTIL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
-#EXTINF:-1,[COLOR=white][B]ANIPLUS FHD[/B][/COLOR][COLOR=white][/COLOR]
-https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]KURIAKOS KIDS FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]PANDAMAX CHANNEL FHD[/B][/COLOR][COLOR=white][/COLOR]
