@@ -23,7 +23,7 @@ http://0.0.0.0:0000
      Listas Várias - https://global-satinfo.in/viewforum.php?f=22&sid=14261766f220116fe35abb7ddf0e87e2
      
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 22/04/2024[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 28/04/2024[/B][/COLOR][COLOR=orange][/COLOR]
 
 
 
@@ -33,30 +33,8 @@ https://00000000000
 
 #EXTM3U
 
-
-#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/61981
-#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/61984
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
-http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/62077
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/62071
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 4k[/B][/COLOR][COLOR=white][/COLOR]
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:99:E2:CF&stream=1471378&extension=ts
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/62079
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/74595
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/62074
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/62082
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/62076
-
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS SPORT TV PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -65,52 +43,14 @@ https://00000000000
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myteve.online:8080/stadnik2/7082341272/1481
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myteve.online:8080/stadnik2/7082341272/1483
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myteve.online:8080/stadnik2/7082341272/1483
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myteve.online:8080/stadnik2/7082341272/1486
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://118708565190318977.ofd0107.xyz:80/play/alberto4/103050/318977.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myteve.online:8080/stadnik2/7082341272/1486
 
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myteve.online:8080/stadnik2/7082341272/1489
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myteve.online:8080/stadnik2/7082341272/1489
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myteve.online:8080/stadnik2/7082341272/1492
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8012&f=.ch
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8012&f=.ch
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myteve.online:8080/stadnik2/7082341272/1492
-
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myteve.online:8080/stadnik2/7082341272/1495
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myteve.online:8080/stadnik2/7082341272/1495
-
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myteve.online:8080/stadnik2/7082341272/281487
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV 6 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myteve.online:8080/stadnik2/7082341272/281487
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myteve.online:8080/stadnik2/7082341272/2051
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myteve.online:8080/stadnik2/7082341272/2051
 
 
 #EXTM3U
@@ -121,8 +61,6 @@ https://000000
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV PERU FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://191.97.58.41:8001/play/a008
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://143.255.35.223:8000/play/a01g
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV FHD[/B][/COLOR][COLOR=white][/COLOR]
@@ -199,7 +137,7 @@ https://000000
 #EXTM3U
 
 
-#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
 http://myteve.online:8080/stadnik2/7082341272/1497
 
 
@@ -211,14 +149,8 @@ https://000000
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=white][B]DANZ ELEVEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
 http://myteve.online:8080/stadnik2/7082341272/1499
-#EXTINF:-1,[COLOR=white][B]DANZ ELEVEN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myteve.online:8080/stadnik2/7082341272/1503
-#EXTINF:-1,[COLOR=white][B]DANZ ELEVEN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myteve.online:8080/stadnik2/7082341272/1506
-#EXTINF:-1,[COLOR=white][B]DANZ ELEVEN 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myteve.online:8080/stadnik2/7082341272/1512
 
 #EXTM3U
 
@@ -232,13 +164,7 @@ https://0000000
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NOS STUDIOS HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
 http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/62044
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE ACTION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myteve.online:8080/stadnik2/7082341272/1452
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EDITION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myteve.online:8080/stadnik2/7082341272/82254
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EMOTION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myteve.online:8080/stadnik2/7082341272/1448
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
-http://myteve.online:8080/stadnik2/7082341272/1446
+
+
