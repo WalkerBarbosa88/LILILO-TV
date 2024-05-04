@@ -68,6 +68,23 @@ http://143.255.35.223:8000/play/a01g
 http://143.255.35.223:8000/play/a01g
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.179.164.30:8000/play/a00l/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://tkosportz.live:25461/swilder2023/6063815781/99361
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:A5:EE:CF&stream=91896&extension=ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://190.108.85.20:9999/play/a00o
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://190.110.111.26:9980/play/a0a8/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://redima.pro:8880/VALLE1402/VALLE1402/570
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV HD[/B][/COLOR][COLOR=white][/COLOR]
+https://nxt.plus:8443/live/olmos/1234guz/213160.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://143.255.35.223:8000/play/a01g
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://45.179.164.30:8000/play/a00l/index.m3u8
+
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/1
