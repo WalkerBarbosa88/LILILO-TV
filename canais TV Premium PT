@@ -7,11 +7,8 @@ http://0.0.0.0:0000
  FONTE DE INFORMAÇÃO: 
  
  LISTA DE JOGOS DO CAMPEONATO PORTUGUÊS E QUE DÃO EM CANAIS ESTRANGEIROS  -  https://liveonsat.com/europe-portugal-primeira-liga.php 
- 
- 
  LISTA PT - https://github.com/jedi-sambora/playlist/blob/main/tv3 (LISTA A EXPLORAR FUTURAMENTE)
- 
- 
+  
  https://github.com/inspirationlinks/m3u/blob/live/pt.m3u8
             https://raw.githubusercontent.com/la22lo/sports/main/futbol.m3u
  Muitos conteúdos - https://github.com/Sphinxroot?tab=repositories
@@ -21,9 +18,11 @@ http://0.0.0.0:0000
   Várias Listas PT - https://github.com/moonlight17884/iptv
     Listas Diárias - https://treshi.github.io/daily-iptv.al/ 
      Listas Várias - https://global-satinfo.in/viewforum.php?f=22&sid=14261766f220116fe35abb7ddf0e87e2
-     
+
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 18/05/2024[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 18/05/2024[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTM3U
+
 
 ####################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B] /////////  CANAIS SPORT TV PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
