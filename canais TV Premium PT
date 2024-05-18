@@ -31,16 +31,31 @@ https://00000000000
 
 #EXTM3U
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SPORT TV 1 HD[/COLOR][COLOR=white][/COLOR]
+
+[COLOR=white][B]GOL TV HD[/B][/COLOR][COLOR=white][/COLOR]
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][/B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
+http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62077
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][/B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9330
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SPORT TV 2 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][/B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://118708565190318977.ofd0107.xyz:80/play/alberto4/103050/318977.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SPORT TV 2 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][/B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9407
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SPORT TV 4 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][/B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62079
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][/B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8012&f=.ch
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]SPORT TV 5 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][/B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62074
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][/B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9413
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][/B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
+http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62082
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][/B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
+http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62076
+
+
 
 
 #EXTM3U
@@ -133,7 +148,10 @@ https://000000
 http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9309
 #EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9310
-
+#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/61981
+#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
+http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/61984
 
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
  
@@ -143,15 +161,19 @@ https://000000
 
 #EXTM3U
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]DANZ ELEVEN 2 HD[/COLOR][COLOR=white][/COLOR]
+
+[COLOR=white][B]GOL TV HD[/B][/COLOR][COLOR=white][/COLOR]
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9326
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]DANZ ELEVEN 3 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9327
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]DANZ ELEVEN 4 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9331
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]DANZ ELEVEN 5 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9419
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white]DANZ ELEVEN 5 HD[/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9328
 #EXTM3U
 
