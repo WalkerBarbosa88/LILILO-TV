@@ -20,8 +20,9 @@ http://0.0.0.0:0000
      Listas Várias - https://global-satinfo.in/viewforum.php?f=22&sid=14261766f220116fe35abb7ddf0e87e2
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 18/05/2024[/B][/COLOR][COLOR=orange][/COLOR]
+
 #EXTM3U
+#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 05/07/2024[/B][/COLOR][COLOR=orange][/COLOR]
 
 
 ####################################################################################################################################
@@ -31,24 +32,16 @@ https://00000000000
 #EXTM3U
 
 
-[COLOR=white][B]GOL TV HD[/B][/COLOR][COLOR=white][/COLOR]
-
 #EXTINF:-1,[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62077
-#EXTINF:-1,[COLOR=white][B]SPORT TV 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9330
+
 #EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://118708565190318977.ofd0107.xyz:80/play/alberto4/103050/318977.ts
-#EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9407
-#EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62079
+
 #EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8012&f=.ch
 #EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62074
-#EXTINF:-1,[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9413
 #EXTINF:-1,[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62082
 #EXTINF:-1,[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -63,23 +56,14 @@ https://000000
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://143.255.35.223:8000/play/a01g
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://143.255.35.223:8000/play/a01g
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV FHD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.179.164.30:8000/play/a00l/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://tkosportz.live:25461/swilder2023/6063815781/99361
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:A5:EE:CF&stream=91896&extension=ts
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://redima.pro:8880/VALLE1402/VALLE1402/570
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://nxt.plus:8443/live/olmos/1234guz/213160.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://143.255.35.223:8000/play/a01g
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://45.179.164.30:8000/play/a00l/index.m3u8
 
@@ -88,8 +72,6 @@ https://cdn-2.nxplay.com.br/ESPN/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn-3.nxplay.com.br/ESPN/index.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/215.ch
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn-2.nxplay.com.br/ESPN_2/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -100,8 +82,6 @@ https://cdn-2.nxplay.com.br/ESPN_3/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 3 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn-3.nxplay.com.br/ESPN_3/index.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
-http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/224.ch
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn-2.nxplay.com.br/ESPN_4/tracks-v2a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -142,10 +122,6 @@ https://000000
 #EXTM3U
 
 #EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9309
-#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9310
-#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/61981
 #EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/61984
@@ -153,25 +129,15 @@ http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/61984
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
  
 #EXTM3U
-#EXTINF:-1,[COLOR=yellow][B] /////////  DANZ ELEVEN PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
+#EXTINF:-1,[COLOR=yellow][B] /////////  DANZ PT  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
 #EXTM3U
 
 
-[COLOR=white][B]GOL TV HD[/B][/COLOR][COLOR=white][/COLOR]
-
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
 http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9326
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9327
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9331
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9419
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]DANZ ELEVEN 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9328
+
 #EXTM3U
 
 ##################################  CANAIS PREMIUM CINEMA PT ###################################################################
@@ -183,16 +149,6 @@ https://0000000
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
 http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9289
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE TOP HD[/B][/COLOR][COLOR=white][/COLOR]
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9381
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EDITION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9382
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EDITION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9290
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE ACTION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9384
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVCINE EMOTION HD[/B][/COLOR][COLOR=white][/COLOR]
-http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9291
 
