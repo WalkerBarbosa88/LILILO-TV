@@ -11,7 +11,7 @@ http://0.0.0.0:0000
 https://tvgratuita10.blogspot.com/?fbclid=IwAR1hjt2fxRsjhUBFg6lhEEU1cbj3xHkyZ65tIOyWhApFByPIvawYYeSmHmo
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 15/05/2024[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 05/07/2024[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 #EXTINF:-1,[COLOR=yellow][B]/////////  RÁDIOS, TV E CANAIS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -24,16 +24,8 @@ https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 https://5d82644094cc0.streamlock.net/xradiotv/xradiotv/chunklist_w1017197052.m3u8
 #EXTINF:-1,[COLOR=white][B]XRADIO TV[/B][/COLOR][COLOR=white][/COLOR]
 https://5d82644094cc0.streamlock.net/xradiotv/xradiotv/chunklist_w765992564.m3u8
-#EXTINF:-1,[COLOR=white][B]FAMA TV[/B][/COLOR][COLOR=white][/COLOR]
-https://streamer-a03.videos.sapo.pt/live/famatv/chunklist_w1729802407.m3u8
-#EXTINF:-1,[COLOR=white][B]RÁDIO SINES[/B][/COLOR][COLOR=white][/COLOR]
-https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8
-#EXTINF:0 tvg-id="NASATV.us" group-title="Science",[COLOR=white][B]NASA TV[/B][/COLOR][COLOR=white][/COLOR] 
-https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1,[COLOR=white][B]DRONE TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]CNN PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
-https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
 #EXTINF:-1,[COLOR=white][B]KURIAKOS TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]KURIAKOS CINE HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -116,15 +108,6 @@ https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvirea
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]TVI INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CNN PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
-https://bit.ly/41Pufgt?/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]CNN PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
-https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
-
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]SANTUÁRIO DE FÁTIMA HD[/B][/COLOR][COLOR=white][/COLOR]
-https://streamer-b02.videos.sapo.pt/live/santuario/chunklist.m3u8
 #EXTINF:-1,[COLOR=white][B]EURONEWS PT TV HD[/B][/COLOR][COLOR=white][/COLOR]
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RAKUTEN FAMÍLIA[/B][/COLOR][COLOR=white][/COLOR]
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
