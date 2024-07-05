@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 #####################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 23/04/2024[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 05/07/2024[/B][/COLOR][COLOR=orange][/COLOR]
  
 ###########################################################################################################################################
  
@@ -26,8 +26,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreami
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
 #EXTINF:0 tvg-id="ext" group-title="USA",[COLOR=white][B]NITRO CIRCUS[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Edge Sport" tvg-logo="https://i.imgur.com/6h10JDk.png" group-title="UK",[COLOR=white][B]EDGE SPORTS UK[/B][/COLOR][COLOR=white][/COLOR]
-https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ye3ckSd.png" group-title="USA",[COLOR=white][B]EDGE SPORTS USA[/B][/COLOR][COLOR=white][/COLOR]
 https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]HORIZON SPORTS[/B][/COLOR][COLOR=white][/COLOR]
@@ -48,8 +46,7 @@ https://pac12-roku-us.amagi.tv/playlistR1080p.m3u8
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
 #EXTINF:-1 tvg-id="Stadium.us" status="online",[COLOR=white][B]PGA TOUR HD[/B][/COLOR][COLOR=white][/COLOR]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5de94dacb394a300099fa22a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=713&terminate=false&userId=
-#EXTINF:-1,[COLOR=white][B]SPORTS TV PLUS HD[/B][/COLOR][COLOR=white][/COLOR]
-https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
+
 #EXTINF:-1,[COLOR=white][B]BET TV SPORTS[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/chunklist_b3596000_slENG.m3u8
 #EXTINF:-1,[COLOR=white][B]LACROSS TV[/B][/COLOR][COLOR=white][/COLOR]
@@ -62,15 +59,6 @@ https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]DUBAI RACING 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]DUBAI RACING 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]DUBAI RACING 3 HD[/B][/COLOR][COLOR=white][/COLOR]
-https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]DUBAI SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]DUBAI SPORTS 2 HD[/B][/COLOR][COLOR=white][/COLOR]
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sports",[COLOR=white][B]DUBAI SPORTS 3 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -79,8 +67,7 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/ind
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]SAN MARINO RTV SPORT HD[/B][/COLOR][COLOR=white][/COLOR]
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
-#EXTINF:-1,[COLOR=white][B]SONY SPORTS TEN 1 HD[/B][/COLOR][COLOR=white][/COLOR]
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+
 
 
 ###########################################################################################################################################
@@ -117,16 +104,8 @@ https://d1wxiaxdr51kqy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c2e9d8002db3c3e0b1c72/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1,[COLOR=white][B]HOME PLUTO TV[/B][/COLOR][COLOR=white][/COLOR]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb96303f5bb020008e7e44f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5eb96303f5bb020008e7e44f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=8044788b-0583-11eb-a18c-0242ac110002&terminate=false&userId=
-#EXTINF:-1,[COLOR=white][B]EXTREME AMERICAN HOMES HD[/B][/COLOR][COLOR=white][/COLOR]
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60f03e32b6455d000748b640/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1,[COLOR=white][B]EXTREME AMERICAN HOMES HD[/B][/COLOR][COLOR=white][/COLOR]
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60f03e32b6455d000748b640/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1,[COLOR=white][B]SARAH´S HOMES HD[/B][/COLOR][COLOR=white][/COLOR]
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62cbe676ec38ac0008c4a625/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1,[COLOR=white][B]HOMEFUL HD[/B][/COLOR][COLOR=white][/COLOR]
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Homeful.m3u8
-
 #EXTINF:-1,[COLOR=white][B]HOME WITH FAMILY HANDYMAN HD[/B][/COLOR][COLOR=white][/COLOR]
 https://jukin-homefamilyhandyman-1-us.lg.wurl.tv/playlist.m3u8
 
@@ -165,8 +144,6 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]PEOPLE ARE AWESOME HD[/B][/COLOR][COLOR=white][/COLOR]
 https://ab8957f603f74b00bb0517913c452ea5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_PeopleAreAwesome/playlist.m3u8?ads.wurl_channel=385&ads.wurl_name=PeopleAreAwesome&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1,[COLOR=white][B]FAIL ARMY[/B][/COLOR][COLOR=white][/COLOR]
-https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 #EXTINF:-1,[COLOR=white][B]FAIL ARMY[/B][/COLOR][COLOR=white][/COLOR]
 https://2383afee096b4dc499922dcf79ba9cfa.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_FailArmy/playlist.m3u8?ads.wurl_channel=89&ads.wurl_name=FailArmy&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1,[COLOR=white][B]FAIL ARMY 2 HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -210,8 +187,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
 https://gghubsrl-gotgame-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]GAME TOON US[/B][/COLOR][COLOR=white][/COLOR]
 http://iptv.prosto.tv:7000/ch256/video.m3u8
-#EXTINF:-1,[COLOR=white][B]ESPORTS MAX[/B][/COLOR][COLOR=white][/COLOR]
-http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
 
 ###########################################################################################################################################
@@ -219,9 +194,6 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 https://000000
 
 
-
-#EXTINF:-1,[COLOR=white][B]NASA TV 1[/B][/COLOR][COLOR=white][/COLOR]
-https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nasatv-269x151.jpg" group-title="",[COLOR=white][B]NASA TV 2[/B][/COLOR][COLOR=white][/COLOR]
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1,[COLOR=white][B]NASA TV PUBLIC[/B][/COLOR][COLOR=white][/COLOR]
@@ -268,11 +240,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvanityfair/CDN/playlist.m3u
 https://000000
 
 
-#EXTINF:-1,[COLOR=white][B]AFV (STIRR)[/B][/COLOR][COLOR=white][/COLOR]
-https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
-#EXTINF:-1,[COLOR=white][B]AFV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
-#EXTINF:-1,[COLOR=white][B]AFV FAMILY HD[/B][/COLOR][COLOR=white][/COLOR]
+EXTINF:-1,[COLOR=white][B]AFV FAMILY HD[/B][/COLOR][COLOR=white][/COLOR]
 https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]FUNNY OR DIE[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufunnyordie/CDN/master.m3u8
@@ -323,10 +291,6 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]FASHION TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]CODE FASHION TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://cdn3.invivo.bg/Codefashion_5500/index.m3u8
-#EXTINF:-1,[COLOR=white][B]CODE FASHION TV FHD[/B][/COLOR][COLOR=white][/COLOR]
-https://cdn3.invivo.bg/Codefashion_5500/index.m3u8
 #EXTINF:-1,[COLOR=white][B]FASHION TV PARIS HD[/B][/COLOR][COLOR=white][/COLOR]
 https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]FASHION TEEN[/B][/COLOR][COLOR=white][/COLOR]
@@ -410,8 +374,6 @@ https://000000
 https://lonestar-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]GRAVITAS MOVIES[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]STIRR MOVIES[/B][/COLOR][COLOR=white][/COLOR]
-https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 #EXTINF:-1,[COLOR=white][B]CHARGE TV[/B][/COLOR][COLOR=white][/COLOR]
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:-1,[COLOR=white][B]TOPCINE TV[/B][/COLOR][COLOR=white][/COLOR]
@@ -459,8 +421,6 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]CNN INTER. EUROPA HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]CNN PORTUGAL HD[/B][/COLOR][COLOR=white][/COLOR]
-https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
 #EXTINF:-1,[COLOR=white][B]CNN BRASIL HD[/B][/COLOR][COLOR=white][/COLOR]
 https://ythls.armelin.one/channel/UCvdwhh_fDyWccR42-rReZLw.m3u8
 #EXTINF:-1,[COLOR=white][B]EURONEWS HD ENG[/B][/COLOR][COLOR=white][/COLOR]
