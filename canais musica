@@ -4,7 +4,7 @@
 http://0.0.0.0:00000
 ##########################################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 05/07/2024[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 16/08/2024[/B][/COLOR][COLOR=orange][/COLOR]
 
 #EXTM3U
 
@@ -15,12 +15,6 @@ https://000000
 
 #EXTM3U
 
-
-EXTINF:-1,[COLOR=white][B]MOOZ TV HITS[/B][/COLOR][COLOR=white][/COLOR]
-https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
-
-EXTINF:-1,[COLOR=white][B]BRIDGE TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://92.100.39.32:2289/play/a05x/index.m3u8
 EXTINF:-1,[COLOR=white][B]BRIDGE TV HITS[/B][/COLOR][COLOR=white][/COLOR]
 https://livetv.mylifeisgood.net.ru/channels/bridgetv24h.m3u8
 EXTINF:-1,[COLOR=white][B]BRIDGE TV DELUXE[/B][/COLOR][COLOR=white][/COLOR]
@@ -116,11 +110,6 @@ https://mbit1.worldcast.tv/dancetelevisionsix/stream_0.m3u8
 https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
 #EXTINF:-1,[COLOR=white][B]QUEST DANCE[/B][/COLOR][COLOR=white][/COLOR]
 https://qwest-mix-plex.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="UK" tvg-language="English" tvg-logo="https://i.imgur.com/aqMhht6.png" group-title="",[COLOR=white][B]CLUBBING TV[/B][/COLOR][COLOR=white][/COLOR]
-https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]CLUBBING TV[/B][/COLOR][COLOR=white][/COLOR]
-https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
-# https://www.youtube.com/channel/UCalCDSmZAYD73tqVZ4l8yJg
 #EXTINF:-1,[COLOR=white][B]SONUS FM TV HD[/B][/COLOR][COLOR=white][/COLOR]
 https://60015180a7f57.streamlock.net:444/public/stream_source/chunklist_w191033718.m3u8
 #EXTINF:-1,[COLOR=white][B]NR1 DANCE HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -155,8 +144,6 @@ https://000000
 https://59f1cbe63db89.streamlock.net:1443/tvbeltrao3/_definst_/tvbeltrao3/chunklist_w782273434.m3u8
 #EXTINF:-1,[COLOR=white][B]ROCK TV BR HD[/B][/COLOR][COLOR=white][/COLOR]
 http://59f1cbe63db89.streamlock.net:1935/tvbeltrao3/_definst_/tvbeltrao3/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]ROCKLAND RADIO TV[/B][/COLOR][COLOR=white][/COLOR]
-https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]XITE TV ROCK TV[/B][/COLOR][COLOR=white][/COLOR]
 https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]DELUXE MUSIC ROCK[/B][/COLOR][COLOR=white][/COLOR]
@@ -180,9 +167,6 @@ https://samson.streamerr.co:8081/carinatv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,[COLOR=white][B]FM ITÁLIA TV[/B][/COLOR][COLOR=white][/COLOR]
 https://stream6.xdevel.com/video0s975817-1186/stream/playlist.m3u8
-
-#EXTINF:-1,[COLOR=white][B]BACKUS TV MUSIC[/B][/COLOR][COLOR=white][/COLOR]
-http://stream.backustv.ru/live/btv3/index.m3u8
 
 #EXTINF:-1,[COLOR=white][B]VENUS MUSIC TV[/B][/COLOR][COLOR=white][/COLOR]
 https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/chunklist_w308253828.m3u8
