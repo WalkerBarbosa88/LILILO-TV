@@ -1,7 +1,6 @@
 
 <layouttype>thumbnail</layouttype>
 
-
 <channels>
 <channel>
 <name>[COLOR yellow]|||||[/COLOR][COLOR deeppink]|||||[/COLOR][COLOR orangered]|||||[/COLOR] [COLOR white] WEBCAM´S AO VIVO SUBMENU [/COLOR] [COLOR orangered]||||||[/COLOR][COLOR deeppink]||||||[/COLOR][COLOR yellow]||||||[/COLOR]</name>
@@ -24,7 +23,6 @@
 </channels>
 
 
-
 <channels>
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR yellow]WEBCAM MUNDIAIS[/COLOR][/B]</name>
@@ -36,13 +34,22 @@
 </channels>
 
 
-
-
 <channels>
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR yellow]CLUBSLYNET[/COLOR][/B]</name>
 <thumbnail>https://ia601303.us.archive.org/19/items/g597_20240115/g597.png</thumbnail>
 <externallink>http://topplay.do.am/FreeWebCamsWorld.m3u</externallink>
+<fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
+<info>portugalkodi.com</info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR yellow]LIVE CAM HD[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/engeles20/mym3ulinks/main/EarthCams.m3u</externallink>
 <fanart>https://ia802502.us.archive.org/21/items/fanart_202206/fanart.jpg</fanart>
 <info>portugalkodi.com</info>
 </channel>
