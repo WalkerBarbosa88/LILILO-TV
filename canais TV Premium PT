@@ -22,7 +22,7 @@ http://0.0.0.0:0000
 
 
 #EXTM3U
-#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 05/07/2024[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 24/08/2024[/B][/COLOR][COLOR=orange][/COLOR]
 
 
 ####################################################################################################################################
@@ -31,22 +31,8 @@ https://00000000000
 
 #EXTM3U
 
-
-#EXTINF:-1,[COLOR=white][B]SPORT TV+ HD[/B][/COLOR][COLOR=white][/COLOR]
-http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62077
-
-#EXTINF:-1,[COLOR=white][B]SPORT TV 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://118708565190318977.ofd0107.xyz:80/play/alberto4/103050/318977.ts
-
 #EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://line.porschetv.net:80/GRBUBHYCIU/XVXUHZKVDH/8012&f=.ch
-#EXTINF:-1,[COLOR=white][B]SPORT TV 4 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62074
-#EXTINF:-1,[COLOR=white][B]SPORT TV 5 HD[/B][/COLOR][COLOR=white][/COLOR]
-http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62082
-#EXTINF:-1,[COLOR=white][B]SPORT TV NBA HD[/B][/COLOR][COLOR=white][/COLOR]
-http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/62076
-
 
 #EXTM3U
 ####################################################################################################################################
@@ -56,36 +42,20 @@ https://000000
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV FHD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.179.164.30:8000/play/a00l/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://tkosportz.live:25461/swilder2023/6063815781/99361
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:A5:EE:CF&stream=91896&extension=ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://redima.pro:8880/VALLE1402/VALLE1402/570
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]GOL TV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://45.179.164.30:8000/play/a00l/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn-2.nxplay.com.br/ESPN/tracks-v2a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 1 BR HD[/B][/COLOR][COLOR=white][/COLOR]
-https://cdn-3.nxplay.com.br/ESPN/index.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn-2.nxplay.com.br/ESPN_2/tracks-v2a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 2 BR HD[/B][/COLOR][COLOR=white][/COLOR]
-https://cdn-3.nxplay.com.br/ESPN_2/index.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 3 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn-2.nxplay.com.br/ESPN_3/tracks-v2a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 3 BR HD[/B][/COLOR][COLOR=white][/COLOR]
-https://cdn-3.nxplay.com.br/ESPN_3/index.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
 https://cdn-2.nxplay.com.br/ESPN_4/tracks-v2a1/mono.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ESPN 4 BR HD[/B][/COLOR][COLOR=white][/COLOR]
-https://cdn-3.nxplay.com.br/ESPN_4/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ARENA SPORTS 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://80.252.37.194:5000/udp/233.233.233.3:12000
@@ -102,16 +72,6 @@ http://80.252.37.194:5000/udp/233.233.233.8:12000
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]MATH RUSSIA 1 HD[/B][/COLOR][COLOR=white][/COLOR]
 http://uiptv.do.am/1ufc/000000003/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 1 PL[/B][/COLOR][COLOR=white][/COLOR]
-http://cdnx1.plusx.tv:8880/271/mono.m3u8?token=0e318668ba9b1d41dd3333
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 2 PL[/B][/COLOR][COLOR=white][/COLOR]
-http://cdnx1.plusx.tv:8880/270/mono.m3u8?token=0e318668ba9b1d41dd3333
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 3 PL[/B][/COLOR][COLOR=white][/COLOR]
-http://cdnx1.plusx.tv:8880/269/mono.m3u8?token=0e318668ba9b1d41dd3333
-#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]ELEVEN SPORTS 4 PL[/B][/COLOR][COLOR=white][/COLOR]
-http://cdnx1.plusx.tv:8880/272/mono.m3u8?token=0e318668ba9b1d41dd3333
-
-
 
 ##################################  BENFICA TV   ###########################################################################
 
@@ -121,10 +81,9 @@ https://000000
 
 #EXTM3U
 
-#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/61981
-#EXTINF:-1,[COLOR=white][B]BTV HD[/B][/COLOR][COLOR=white][/COLOR]
-http://2hubs.ddns.net:25461/tomsm/b5MuXyzQND/61984
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
+http://zxd.4k-crystal.top:8080/dB2PWvH6P7LAlive.phen/djT5ERheGqAQ/9289
+
 
 ##################################  GRUPO ELEVEN SPORTS  ###########################################################################
  
