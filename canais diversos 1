@@ -3,7 +3,7 @@
 http://0.0.0.0:000000
 #####################################################################################################################################################
  
-#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 05/07/2024[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA REVISTA: 30/08/2024[/B][/COLOR][COLOR=orange][/COLOR]
  
 ###########################################################################################################################################
  
@@ -26,8 +26,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreami
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
 #EXTINF:0 tvg-id="ext" group-title="USA",[COLOR=white][B]NITRO CIRCUS[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ye3ckSd.png" group-title="USA",[COLOR=white][B]EDGE SPORTS USA[/B][/COLOR][COLOR=white][/COLOR]
-https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]HORIZON SPORTS[/B][/COLOR][COLOR=white][/COLOR]
 https://dai.google.com/linear/hls/event/onG023gQQ22Tjm14B5yg1w/master.m3u8
 #EXTINF: -1,[COLOR=white][B]ADVENTURE SPORTS NETWORK[/B][/COLOR][COLOR=white][/COLOR]
@@ -75,8 +73,6 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 https://000000
 
 
-#EXTINF:-1 tvg-id="USAJ3400020KC" tvg-chno="1211" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/53/USAJ3400020KC_20210525T051656.png" group-title="USA,[COLOR=white][B]TINY HOUSE NATION[/B][/COLOR][COLOR=white][/COLOR]
-https://4f2d358e390a41cd8e87e74a954d9624.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TinyHouseNation/playlist.m3u8?ads.wurl_channel=675&ads.wurl_name=TinyHouseNation&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
 #EXTINF:-1 tvg-id="TinyHouseNation.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/601a0342dcf4370007566891/colorLogoPNG.png" group-title="Series",[COLOR=white][B]TINY HOUSE NATION[/B][/COLOR][COLOR=white][/COLOR]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/601a0342dcf4370007566891/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -96,10 +92,6 @@ https://d2j3i48a0fc7gv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1257yH7.png" group-title="USA",[COLOR=white][B]HOME MADE NATION[/B][/COLOR][COLOR=white][/COLOR]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc1cb279c91420009db261d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5dc1cb279c91420009db261d&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=615&terminate=false&userId=
-
-#EXTINF:-1,[COLOR=white][B]BBC HOME HD[/B][/COLOR][COLOR=white][/COLOR]
-https://d1wxiaxdr51kqy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-perrpizm3ap26-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
 #EXTINF:-1,[COLOR=white][B]HOMES UNDER HAMMER PLUTO TV[/B][/COLOR][COLOR=white][/COLOR]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c2e9d8002db3c3e0b1c72/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1,[COLOR=white][B]HOME PLUTO TV[/B][/COLOR][COLOR=white][/COLOR]
@@ -142,14 +134,8 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
 https://000000
 
 
-#EXTINF:-1,[COLOR=white][B]PEOPLE ARE AWESOME HD[/B][/COLOR][COLOR=white][/COLOR]
-https://ab8957f603f74b00bb0517913c452ea5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_PeopleAreAwesome/playlist.m3u8?ads.wurl_channel=385&ads.wurl_name=PeopleAreAwesome&ads.coppa=0&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1,[COLOR=white][B]FAIL ARMY[/B][/COLOR][COLOR=white][/COLOR]
-https://2383afee096b4dc499922dcf79ba9cfa.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_FailArmy/playlist.m3u8?ads.wurl_channel=89&ads.wurl_name=FailArmy&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1,[COLOR=white][B]FAIL ARMY 2 HD[/B][/COLOR][COLOR=white][/COLOR]
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=858
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",[COLOR=white][B]THE PET COLLECTIVE[/B][/COLOR][COLOR=white][/COLOR]
-https://the-pet-collective-international-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]NÃO DISPONÍVEL[/B][/COLOR][COLOR=white][/COLOR]
+https://00000111111111111
 
 ###########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  PROGRAMAS DE TV 24 HORAS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -335,8 +321,6 @@ https://000000
 
 #EXTINF:-1,[COLOR=white][B]PLUTO TV MOTOR[/B][/COLOR][COLOR=white][/COLOR]
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0510962948d000961d3c6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5db0510962948d000961d3c6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=576&terminate=false&userId=
-#EXTINF:-1,[COLOR=white][B]CHOPPERTOWN TV[/B][/COLOR][COLOR=white][/COLOR]
-https://d275e95ir6yrv9.cloudfront.net/dist/localnow/11/hls/master/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]PLUTO TV CARS[/B][/COLOR][COLOR=white][/COLOR]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b3a4249444e05d09cc46&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=663&terminate=false&userId=
 #EXTINF:-1,[COLOR=white][B]TOP GEAR HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -455,8 +439,6 @@ https://tastemade-freetv16min-plex.amagi.tv/hls/amagi_hls_data_tastemade-tastema
 https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]BON APPÉTIT HD[/B][/COLOR][COLOR=white][/COLOR]
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]GUSTO TV HD[/B][/COLOR][COLOR=white][/COLOR]
-https://d3cajslujfq92p.cloudfront.net/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]SO YUMMI HD[/B][/COLOR][COLOR=white][/COLOR]
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/master.m3u8
 #EXTINF:-1,[COLOR=white][B]TV COCINA HD[/B][/COLOR][COLOR=white][/COLOR]
@@ -467,7 +449,7 @@ https://bit.ly/tvcocinaPluto?/master1080p.m3u8
 #EXTINF:-1,[COLOR=yellow][B]/////////  ANIMAÇÃO INFANTIL  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
 https://000000
 
+
 #EXTINF:-1,[COLOR=white][B]KURIAKOS KIDS FHD[/B][/COLOR][COLOR=white][/COLOR]
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
-#EXTINF:-1,[COLOR=white][B]PANDAMAX CHANNEL FHD[/B][/COLOR][COLOR=white][/COLOR]
-https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
+
