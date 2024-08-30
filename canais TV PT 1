@@ -11,7 +11,7 @@ http://0.0.0.0:0000
 https://tvgratuita10.blogspot.com/?fbclid=IwAR1hjt2fxRsjhUBFg6lhEEU1cbj3xHkyZ65tIOyWhApFByPIvawYYeSmHmo
 
 
-#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 16/08/2024[/B][/COLOR][COLOR=orange][/COLOR]
+#EXTINF:-1,[COLOR=orange][B]LISTA ATUALIZADA: 30/08/2024[/B][/COLOR][COLOR=orange][/COLOR]
  
 #EXTM3U
 #EXTINF:-1,[COLOR=yellow][B]/////////  RÁDIOS, TV E CANAIS  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -30,11 +30,17 @@ https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
 #EXTINF:-1,[COLOR=white][B]KURIAKOS MUSIC HD[/B][/COLOR][COLOR=white][/COLOR]
 http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
+#EXTINF:-1,[COLOR=white][B]KURIAKOS CINE HD[/B][/COLOR][COLOR=white][/COLOR]
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+
 #EXTINF:-1,[COLOR=white][B]ENGLISH CLUB TV HD[/B][/COLOR][COLOR=white][/COLOR]
 http://iptv.prosto.tv:7000/ch206/video.m3u8
 #EXTINF:-1,[COLOR=white][B]NASCI PARA CANTAR TV[/B][/COLOR][COLOR=white][/COLOR]
 https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/chunklist_w939901266.m3u8
 
+
+#EXTINF:-1,[COLOR=white][B]BLOOMBERG EUROPE HD[/B][/COLOR][COLOR=white][/COLOR]
+https://bloomberg.com/media-manifest/streams/eu.m3u8
 
 ##########################################################################################################################################
 #EXTINF:-1,[COLOR=yellow][B]/////////  CANAIS EXPRESSÃO PT ÁFRICA  /////////[/B][/COLOR][COLOR=yellow][/COLOR]
@@ -81,6 +87,16 @@ https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
 
 #EXTM3U
 
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP 1 HD[/B][/COLOR][COLOR=white][/COLOR]
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP 2 HD[/B][/COLOR][COLOR=white][/COLOR]
+https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP 3 HD[/B][/COLOR][COLOR=white][/COLOR]
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP MEMÓRIA HD[/B][/COLOR][COLOR=white][/COLOR]
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",[COLOR=white][B]RTP INTER. HD[/B][/COLOR][COLOR=white][/COLOR]
 http://210.210.155.37/qwr9ew/s/s38/index.m3u8
